@@ -1,0 +1,253 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1879,
+  "height": 2817,
+  "regions": [
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 273,
+        "y0": 163,
+        "x1": 1115,
+        "y1": 304
+      },
+      "text": "6 THE CRISIS\nECONOMIC. It is\nEnorme",
+      "status": "ok",
+      "confidence": 0.7739676237106323,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 273,
+        "y0": 304,
+        "x1": 962,
+        "y1": 976
+      },
+      "text": "Baltimore is aroused over the fact that the Negroes are buying property on McCulloh Street. They are proposing to pass an ordinance which provides that, within a section specified, it shall not be lawful for any white person to move into or begin to occupy any house as a residence in any street in which a majority of the bona fide residents are Negroes; and, on the other hand, that it shall not be lawful hereafter for any Negro to move into, or begin to occupy, as a residence, any house in a street in which the majority of bona fide residents are already white people. There is further provision that it shall be unlawful hereafter for any person to open, or cause to be opened, any new streets to be used for residences, without first declaring in the application for a permit to build whether the houses are to be built for and occupied by whites or Negroes, and the building inspector is to issue a permit accordingly.",
+      "status": "ok",
+      "confidence": 0.9789653420448303,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 274,
+        "y0": 977,
+        "x1": 962,
+        "y1": 1144
+      },
+      "text": "It is to be noticed that this ordinance does not interfere with any residence heretofore acquired. The invasion of Negro property owners is put down as a reason for the failure of Baltimore to grow faster in population.",
+      "status": "ok",
+      "confidence": 0.9608493447303772,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 275,
+        "y0": 1190,
+        "x1": 963,
+        "y1": 1327
+      },
+      "text": "A similar question has arisen in Kansas City, Kan., where the Mercantile Club proposes to cut off threatened Negro invasion by having the state buy the property for parks and boulevards.",
+      "status": "ok",
+      "confidence": 0.9395122528076172,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 275,
+        "y0": 1379,
+        "x1": 965,
+        "y1": 1518
+      },
+      "text": "In Richmond, Va., a colored syndicate is about to buy property near a park. This is said to be viewed with alarm at the city hall and the city is urged to buy it.",
+      "status": "ok",
+      "confidence": 0.9513924717903137,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 278,
+        "y0": 1563,
+        "x1": 964,
+        "y1": 1699
+      },
+      "text": "In St. Louis a new Civic Realty Company is seeking to organize public opinion and social ostracism against persons who sell property to Negroes.",
+      "status": "ok",
+      "confidence": 0.9173234105110168,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 279,
+        "y0": 1745,
+        "x1": 967,
+        "y1": 2081
+      },
+      "text": "The Baltimore News has sent a correspondent through the South to see how the Negro ghettos are arranged there. Most of the cities say that \"public opinion\" keeps the Negro population segregated and intimate that mob violence is ready to enforce this opinion together with social ostracism for the white seller of the property. In Alabama disfranchisement is said to keep colored folks \"in their places.\"",
+      "status": "ok",
+      "confidence": 0.9717110991477966,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 281,
+        "y0": 2118,
+        "x1": 969,
+        "y1": 2287
+      },
+      "text": "An ordinance for the physical separation of white and black residents is being urged in Atlanta. Negroes are not to live in white settlements \"except as servants or tenants in the rear.\"",
+      "status": "ok",
+      "confidence": 0.9548965692520142,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 281,
+        "y0": 2325,
+        "x1": 970,
+        "y1": 2463
+      },
+      "text": "The Central Labor Union of New Orleans, La., has written a letter refuting the statement that increased pay of Negro laborers has decreased their efficiency.",
+      "status": "ok",
+      "confidence": 0.9513975381851196,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 273,
+        "y0": 2508,
+        "x1": 1115,
+        "y1": 2797
+      },
+      "text": "J. H. Grant has a $20,000 Negro shoe store in Memphis, Tenn., and is trying to establish a chain of such stores in various Southern cities.",
+      "status": "ok",
+      "confidence": 0.731982409954071,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 1007,
+        "y0": 249,
+        "x1": 1706,
+        "y1": 591
+      },
+      "text": "It is charged that the Barbers' State Board of Examiners of Missouri refused to license colored schools for training barbers.\n\nThe advice given the Negro to go South in the Negro Business League has given rise to much comment. G. W. Crawford, in the Evening Post, strongly combats the idea. \"The Negro question in all its troublesome aspects must be nationalized,\" he says.",
+      "status": "ok",
+      "confidence": 0.9707759618759155,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 1006,
+        "y0": 643,
+        "x1": 1714,
+        "y1": 1002
+      },
+      "text": "BROWNSVILLE.\n\nAttention has been called to the fact that the 25th Infantry, which has recently been so warmly commended for work in putting out the forest fires, was the same regiment some of whose members were dismissed without a trial for alleged but unproven crimes at Brownsville, Tex.\n\nSCIENCE.",
+      "status": "ok",
+      "confidence": 0.9726055264472961,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "title",
+      "bbox": {
+        "x0": 1006,
+        "y0": 951,
+        "x1": 1705,
+        "y1": 1442
+      },
+      "text": "SCIENCE.\n\nA paper read before the British Association for the Advancement of Science and quoted in Current Literature has an excellent statement of the physical status of the Negro, placing him high among the races of the world. The paper concludes that in many points the Negro is more highly specialized than the less pigmented races of mankind, while in others he is more primitive. It says that all earlier human races were probably colored.\n\nA Negro physician of Stanford, Ky., has patented a car-coupling device.",
+      "status": "ok",
+      "confidence": 0.9771715998649597,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 1006,
+        "y0": 1470,
+        "x1": 1714,
+        "y1": 1744
+      },
+      "text": "Professor Wilder, of Cornell, reports the case of a white man with an intelligent brain of about one-half the average weight. This is further evidence that mere brain weight is no indication of mentality. ART.",
+      "status": "ok",
+      "confidence": 0.9631073474884033,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 1007,
+        "y0": 1693,
+        "x1": 1711,
+        "y1": 2149
+      },
+      "text": "Art.\n\nCarl Diton has sailed for Europe to study the piano.\n\nClarence White, the violinist, is giving a series of concerts throughout the country.\n\nMr. Joseph Douglass is making his regular concert tour.\n\nTheodore Cable, of Harvard University, has been admitted to one of the college musical societies as a performer upon the violin.",
+      "status": "ok",
+      "confidence": 0.9266738891601562,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 1013,
+        "y0": 2179,
+        "x1": 1713,
+        "y1": 2347
+      },
+      "text": "Denver is planning a theatre for colored people. One is in operation in Washington, D. C. There are scores of moving-picture shows opened recently for colored patronage in the border states.",
+      "status": "ok",
+      "confidence": 0.9530927538871765,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 1006,
+        "y0": 2378,
+        "x1": 1714,
+        "y1": 2797
+      },
+      "text": "New York is becoming an art center for colored people, especially in music and acting. It is the headquarters of Bert Williams, Cole & Johnson and Will Marion Cook. One of the latest and most interesting developments is the Clef Club Orchestra of one hundred and thirty musicians, under James Reese Europe.",
+      "status": "ok",
+      "confidence": 0.9685062170028687,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 11.0,
+    "at": "2026-10-06T20:50:40+00:00"
+  }
+}

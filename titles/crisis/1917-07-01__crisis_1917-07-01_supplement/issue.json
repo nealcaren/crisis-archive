@@ -1,0 +1,59 @@
+{
+  "title": "crisis",
+  "date": "1917-07-01",
+  "date_precision": "month",
+  "date_from": "MJP MODS dateIssued",
+  "volume": "vol. 14",
+  "number": "no. 003",
+  "source": {
+    "type": "pdf",
+    "id": "5e95be9dcf32b013d3f4ecce6df496d51556d4ccac5f5241f43d16045eb74129",
+    "filename": "crisis_1917-07-01_supplement.pdf",
+    "path": "/Volumes/Lightning/crisis-pdfs/crisis_1917-07-01_supplement.pdf",
+    "bytes": 4090588,
+    "sha256": "5e95be9dcf32b013d3f4ecce6df496d51556d4ccac5f5241f43d16045eb74129",
+    "copy": null,
+    "ocr": "source/pdf_text.txt",
+    "url": "https://modjourn.org/issue/bdr510907/",
+    "bdr_id": "bdr:510907",
+    "pdf_url": "https://repository.library.brown.edu/storage/bdr:951449/PDF/",
+    "rights": "No Copyright - United States",
+    "provider": "Modernist Journals Project / Brown Digital Repository"
+  },
+  "fetched_at": "2026-10-06T20:40:22+00:00",
+  "fetched_by": "paperpress 0.2.0",
+  "pages": [
+    {
+      "page": 1,
+      "image": "images/page_01.jpg",
+      "width": 1759,
+      "height": 2750,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 2,
+      "image": "images/page_02.jpg",
+      "width": 1770,
+      "height": 2756,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 3,
+      "image": "images/page_03.jpg",
+      "width": 1759,
+      "height": 2750,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 4,
+      "image": "images/page_04.jpg",
+      "width": 1759,
+      "height": 2750,
+      "ppi": 300,
+      "image_from": "rendered"
+    }
+  ]
+}

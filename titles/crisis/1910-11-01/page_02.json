@@ -1,0 +1,183 @@
+{
+  "page": 2,
+  "image": "images/page_02.jpg",
+  "width": 1879,
+  "height": 2817,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 712,
+        "y0": 32,
+        "x1": 1291,
+        "y1": 83
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8145720362663269,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 552,
+        "y0": 235,
+        "x1": 1429,
+        "y1": 467
+      },
+      "text": "ONE OF THE SUREST WAYS TO SUCCEED IN LIFE IS TO TAKE A COURSE AT",
+      "status": "ok",
+      "confidence": 0.8704971671104431,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 269,
+        "y0": 592,
+        "x1": 1717,
+        "y1": 875
+      },
+      "text": "The Touissant Conservatory of Art and Music",
+      "status": "ok",
+      "confidence": 0.869634747505188,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 612,
+        "y0": 1001,
+        "x1": 1302,
+        "y1": 1157
+      },
+      "text": "253 West 134th Street\nNEW YORK CITY",
+      "status": "ok",
+      "confidence": 0.7790119647979736,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 272,
+        "y0": 1287,
+        "x1": 1704,
+        "y1": 1425
+      },
+      "text": "The most up-to-date and thoroughly equipped conservatory in the city. Conducted under the supervision of",
+      "status": "ok",
+      "confidence": 0.9477407932281494,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 475,
+        "y0": 1464,
+        "x1": 1484,
+        "y1": 1620
+      },
+      "text": "MME. E. TOUISSANT WELCOME The Foremost Female Artist of the Race",
+      "status": "ok",
+      "confidence": 0.7964838147163391,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 815,
+        "y0": 1654,
+        "x1": 949,
+        "y1": 1702
+      },
+      "text": "C. L",
+      "status": "ok",
+      "confidence": 0.8879638910293579,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 733,
+        "y0": 1735,
+        "x1": 1222,
+        "y1": 1814
+      },
+      "text": "Courses in Art",
+      "status": "ok",
+      "confidence": 0.9020096659660339,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 270,
+        "y0": 1851,
+        "x1": 1702,
+        "y1": 2201
+      },
+      "text": "Drawing, Pen and Ink Sketching, Crayon, Pastel, Water Color, Oil Painting, Designing, Cartooning, Fashion Designing, Sign Painting, Portrait Painting and Photo Enlarging in Crayon, Water Color, Pastel and Oil. Artistic Painting of Parasols, Fans, Book Marks, Pin Cushions, Lamp Shades, Curtains, Screens, Piano and Mantel Covers, Sofa Pillows, etc.",
+      "status": "ok",
+      "confidence": 0.9750437140464783,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 886,
+        "y0": 2267,
+        "x1": 1071,
+        "y1": 2346
+      },
+      "text": "Music",
+      "status": "ok",
+      "confidence": 0.6873260736465454,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 269,
+        "y0": 2385,
+        "x1": 1700,
+        "y1": 2504
+      },
+      "text": "Piano, Violin, Mandolin, Voice Culture and all Brass and Reed Instruments.",
+      "status": "ok",
+      "confidence": 0.9570903778076172,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 695,
+        "y0": 2543,
+        "x1": 1265,
+        "y1": 2607
+      },
+      "text": "TERMS REASONABLE",
+      "status": "ok",
+      "confidence": 0.8644497394561768,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 4.6,
+    "at": "2026-10-06T20:49:57+00:00"
+  }
+}

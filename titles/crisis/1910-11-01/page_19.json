@@ -1,0 +1,155 @@
+{
+  "page": 19,
+  "image": "images/page_19.jpg",
+  "width": 1889,
+  "height": 2824,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "figure",
+      "bbox": {
+        "x0": 702,
+        "y0": 222,
+        "x1": 1586,
+        "y1": 1557
+      },
+      "text": "HENRY PHIPP'S MODEL TENEMENTS FOR COLORED FAMILIES",
+      "status": "ok",
+      "confidence": 0.962273120880127,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 173,
+        "y0": 1604,
+        "x1": 1600,
+        "y1": 1709
+      },
+      "text": "Cosmopolitan Automobile School",
+      "status": "ok",
+      "confidence": 0.8688902258872986,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 176,
+        "y0": 1749,
+        "x1": 1064,
+        "y1": 2435
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9560385346412659,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 170,
+        "y0": 2448,
+        "x1": 1600,
+        "y1": 2606
+      },
+      "text": "COSMOPOLITAN AUTO CO. of New York Telephone 803 Columbus School: Hotel Maceo, 213 West 53d St. LEE A. POLLARD, Mgr.",
+      "status": "ok",
+      "confidence": 0.7876976132392883,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 165,
+        "y0": 223,
+        "x1": 670,
+        "y1": 730
+      },
+      "text": "Do You Want a Position?\nBest Places\nBest Families\nThe New York and New Jersey Industrial Exchange, through its Employment Agency Department, furnishes more Colored Help to the leading families in the city and in the suburban towns than any other medium in New York.",
+      "status": "ok",
+      "confidence": 0.9412456154823303,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 730,
+        "x1": 669,
+        "y1": 995
+      },
+      "text": "It is located in the acknowledged best section of the city, being in the Henry Phipps' Model Tenements for Colored Families. No other Exchange is so well patronized by the foremost families, many of whom have never employed Colored Help before.",
+      "status": "ok",
+      "confidence": 0.8964856266975403,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 172,
+        "y0": 994,
+        "x1": 677,
+        "y1": 1545
+      },
+      "text": "Our demand for competent Southern Help exceeds the supply many times over. Call and register. No charge. Bring your references. We can place you in a good position. If inconvenient to pay our required office fee, you are at liberty to take advantage of our Credit System. This new feature has proven extremely beneficial to many worthy persons seeking employment.\n\nN.Y. & N. J. Industrial Exchange\n237-239 West 63d Street\nTelephones 5016-4546 Columbus",
+      "status": "ok",
+      "confidence": 0.9325608015060425,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 615,
+        "y0": 128,
+        "x1": 1186,
+        "y1": 172
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.47568684816360474,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 1107,
+        "y0": 1711,
+        "x1": 1597,
+        "y1": 2289
+      },
+      "text": "The aim of the School will be to give its students a sufficient knowledge of the theory and practice of Automobile and Automobiling to enable them to meet the emergencies that constantly arise to make those who complete the course competent to run machines, take them apart and assemble them properly, and to make such repairs as may be necessary and possible on the road.\n\nTUITION—Six weeks' course, including Shop and Road Work, $25; installments if you wish, payable $5 on enrollment and $20 by the completion of the fourth week.\n\nSHOP WORK—Consists of naming all the parts of the automobile, taking the engine and the rest of the automobile apart and putting them together again properly, and making such repairs as may be necessary and possible.",
+      "status": "ok",
+      "confidence": 0.960917592048645,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 1108,
+        "y0": 2288,
+        "x1": 1596,
+        "y1": 2437
+      },
+      "text": "ROAD WORK—When the shop work is complete the student takes up the operating and handling of cars on the road until he is competent. If there is any special informa-",
+      "status": "ok",
+      "confidence": 0.9503791332244873,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 13.5,
+    "at": "2026-10-06T20:53:31+00:00"
+  }
+}

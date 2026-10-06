@@ -1,0 +1,281 @@
+{
+  "page": 17,
+  "image": "images/page_17.jpg",
+  "width": 1879,
+  "height": 2817,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 607,
+        "y0": 136,
+        "x1": 1180,
+        "y1": 180
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8088290691375732,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 160,
+        "y0": 220,
+        "x1": 861,
+        "y1": 378
+      },
+      "text": "Can't See Well? See Me when your eyes feel painful, hot, uncomfortable and grow weary while reading, writing, sewing or looking at near objects, letters run together while reading and become blurred.",
+      "status": "ok",
+      "confidence": 0.8335697054862976,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 898,
+        "y0": 228,
+        "x1": 1597,
+        "y1": 812
+      },
+      "text": "Only Colored Dairy Lunch in New York\nRose's Dairy Lunch\nJ. W. ROSE, Proprietor\n34 WEST 135TH STREET\nNEW YORK CITY\nBETWEEN FIFTH AND LENOX AVENUES\nNEAT, CLEAN AND\nQUICK SERVICE\nOpen Day and Night\nEverything Strictly First Class and Up to Date",
+      "status": "ok",
+      "confidence": 0.7505461573600769,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure",
+      "bbox": {
+        "x0": 158,
+        "y0": 387,
+        "x1": 871,
+        "y1": 815
+      },
+      "text": "Eyes examined by me and fitted with glasses accurately made never grow weary, but are perfectly comfortable. You may not like to wear glasses, but do you like headaches, red eyes and wrinkles better? Scientific examinations of the eyes for defective eyesight is my specialty.\n\nDr. R. G. ADAMS, Optometrist\nPhysical Eye Specialist\n16 West 134th Street, New York City, N. Y.",
+      "status": "ok",
+      "confidence": 0.9456865191459656,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 849,
+        "y0": 845,
+        "x1": 1536,
+        "y1": 905
+      },
+      "text": "NYANZA PHARMACY",
+      "status": "ok",
+      "confidence": 0.9069527983665466,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 161,
+        "y0": 846,
+        "x1": 764,
+        "y1": 1117
+      },
+      "text": "NYANZA DRUG CO.\n(Incorporated.)\n35 W. 135th ST., NEW YORK CITY\nCAPITAL STOCK, $15,000\nShares $5.00\nWrite for information. The best paying investment ever offered our people.",
+      "status": "ok",
+      "confidence": 0.9221381545066833,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 802,
+        "y0": 921,
+        "x1": 1587,
+        "y1": 1116
+      },
+      "text": "is the only colored Drug Store in New York City, and the purpose of the Corporation is to establish chains of stores, carrying Drugs and everything incidental to the Drug business. It is really the indisputable duty of every self-respecting member of the race to give it his support. AGENTS WANTED EVERYWHERE",
+      "status": "ok",
+      "confidence": 0.9343874454498291,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 792,
+        "y0": 1116,
+        "x1": 1597,
+        "y1": 1906
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 158,
+        "y0": 1117,
+        "x1": 871,
+        "y1": 1905
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 155,
+        "y0": 1147,
+        "x1": 1600,
+        "y1": 1467
+      },
+      "text": "$100,000 STOCK ISSUE\nTO BUILD AN\nAuditorium in Greater New York\nCONTAINING\nReception, Concert and Banquet Halls, Modern Offices and Lodge Rooms\nThis proposition is bound to succeed, because it is giving the people what they want.\nWe are offering",
+      "status": "ok",
+      "confidence": 0.5395572781562805,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 155,
+        "y0": 1538,
+        "x1": 1585,
+        "y1": 1850
+      },
+      "text": "Stock sold in blocks to suit the investor on easy terms.\nThe capital already in hand and the rapid increase of business means the realization of the Auditorium. This enterprise assures each investor Safety of Capital and Growth of Income. Call or write for further particulars.\n\nI. L. MOORMAN, Mgr., 83 W. 134th St.\n\nALLEN'S CLEANING ESTABLISHMENT 800 Fighth Ave., Bet. 48th and 49th Sts. Telephone Bryant 2535\n\nLADIES' AND GENTLEMEN'S CLOTHING CLEANED\n\nValet service, pressing, scouring, dyeing, repairing and altering neatly done. Suits sponged and pressed while you wait. Hats cleaned, blocked and retrimmed. Goods called for and delivered.",
+      "status": "ok",
+      "confidence": 0.8164122104644775,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 792,
+        "y0": 1906,
+        "x1": 1589,
+        "y1": 1962
+      },
+      "text": "High-Grade Work at Reasonable Prices",
+      "status": "ok",
+      "confidence": 0.7127183675765991,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 158,
+        "y0": 1960,
+        "x1": 871,
+        "y1": 2052
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 467,
+        "y0": 1962,
+        "x1": 1597,
+        "y1": 2433
+      },
+      "text": "ROBERT N. WOOD\nPrinter\n202 EAST 99th ST., NEW YORK",
+      "status": "ok",
+      "confidence": 0.44550085067749023,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "text",
+      "bbox": {
+        "x0": 158,
+        "y0": 2433,
+        "x1": 871,
+        "y1": 2777
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 665,
+        "y0": 2459,
+        "x1": 1597,
+        "y1": 2797
+      },
+      "text": "MONEY IF YOU DEAL WITH ME",
+      "status": "ok",
+      "confidence": 0.7019754648208618,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "abandon",
+      "bbox": {
+        "x0": 144,
+        "y0": 2528,
+        "x1": 1587,
+        "y1": 2584
+      },
+      "text": "WE BOTH MAKE MONEY IF YOU DEAL WITH ME",
+      "status": "ok",
+      "confidence": 0.4219331443309784,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 158,
+        "y0": 1905,
+        "x1": 628,
+        "y1": 1960
+      },
+      "text": "Does This Interest You?",
+      "status": "ok",
+      "confidence": 0.6782376766204834,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1527,
+        "y0": 141,
+        "x1": 1573,
+        "y1": 177
+      },
+      "text": "17",
+      "status": "ok",
+      "confidence": 0.805518627166748,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 14.0,
+    "at": "2026-10-06T20:53:07+00:00"
+  }
+}

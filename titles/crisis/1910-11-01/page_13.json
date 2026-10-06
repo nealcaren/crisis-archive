@@ -1,0 +1,169 @@
+{
+  "page": 13,
+  "image": "images/page_13.jpg",
+  "width": 1879,
+  "height": 2817,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 157,
+        "y0": 148,
+        "x1": 1581,
+        "y1": 370
+      },
+      "text": "Athens and Brownsville\nBy Moorfield Storey",
+      "status": "ok",
+      "confidence": 0.4253930449485779,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 159,
+        "y0": 411,
+        "x1": 1353,
+        "y1": 951
+      },
+      "text": "WHITE SOLDIERS AT ATHENS.\n\nWe cannot perhaps wonder that ordinary citizens make race distinctions when they are made by the President of the United States. In the autumn of 1904, at Athens, Ohio, soldiers belonging to the 14th Battery of Artillery in the regular army attempted to break open the jail in order to rescue a comrade who had been arrested for some offense. In the attempt they killed one militiaman and wounded at least two others. I quote from a letter written by General Grosvenor, the Republican Congressman from the district, to Mr. Taft, then Secretary of War, thus summing up the facts:\n\ncertainly offences against the state is some ground to presume that the discharge of lawful duties of men. The action of the Acting War, however, was based on the men, and the necessity that guilty a man is he is entitled to counsel. It probably would have application been made to courtment of counsel. Still, an enlist or less a ward of the Government steps in merely to see according to law, it seems to me exercise of a discretion which beo\"",
+      "status": "ok",
+      "confidence": 0.9768045544624329,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 167,
+        "y0": 955,
+        "x1": 853,
+        "y1": 1577
+      },
+      "text": "\"Fifty to seventy men marched into the most public street in a village like this in the early hours of a pleasant summer evening, and without the slightest provocation, meeting the provost guard, fired from 50 to 75 shots from loaded weapons, killing one, wounding two, and hitting a citizen, and firing into the corridors and walls of a building, and yet all this has been obliterated as though the waves of the ocean had swept through sand. And not only that, but the Government officials—a representative of the War Department bearing a commission, and a Deputy United States District Attorney—appeared in the town and manipulated the preliminary examination of witnesses and boldly denounced the prosecution. And we are powerless, and the blood of Clark, a fine young man * * * will go unavenged because of the interference of the United States through its officials.\"",
+      "status": "ok",
+      "confidence": 0.9784714579582214,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 166,
+        "y0": 1581,
+        "x1": 858,
+        "y1": 1911
+      },
+      "text": "One soldier was sentenced to a year in the penitentiary and another was fined. There was no other punishment. The action of the War Department was taken by order of the Acting Secretary, and from the letter written by Secretary Taft in reply to General Grosvenor, the following extract is made: \"I should think it doubtful policy on the part of the Government to direct its officers to defend enlisted men against acts which, as charged, are",
+      "status": "ok",
+      "confidence": 0.9755767583847046,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "abandon",
+      "bbox": {
+        "x0": 171,
+        "y0": 2032,
+        "x1": 821,
+        "y1": 2470
+      },
+      "text": "(Continued from opposite page.)\nPresst. King, Oberlin, O.\nPresst. W. S. Scarborough, Wilberforce, O.\n*Miss Jane Addams, Chicago, Ill. -\n*Mrs. Ida B. Wells Barnett, Chicago, Ill.\n*Dr. C. E. Bentley, Chicago, Ill.\nMiss Sophronisba Breckenridge, Chicago, Ill.\nMr. Clarence Darrow, Chicago, Ill.\n*Mrs. Celia Parker Woolley, Chicago, Ill.\n*Dr. N. F. Mossell, Philadelphia, Pa.\n*Dr. Wm. A. Sinclair, Philadelphia, Pa.\nMiss Susan Wharton, Philadelphia, Pa.\nMr. R. R. Wright, Jr., Philadelphia, Pa.",
+      "status": "ok",
+      "confidence": 0.896601676940918,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 896,
+        "y0": 471,
+        "x1": 1584,
+        "y1": 1035
+      },
+      "text": "certainly offences against the state, unless there is some ground to presume that the acts are in the discharge of lawful duties of the enlisted men. The action of the Acting Secretary of War, however, was based on the helpessness of the men, and the necessity that no matter how guilty a man is he is entitled to be defended by counsel. It probably would have been wiser had application been made to court for the assignment of counsel. Still, an enlisted man is more or less a ward of the Government, and if the Government steps in merely to see that he is tried according to law, it seems to me that it is an exercise of a discretion which the Government has.\"\n\nHere the facts were clear, but the guilty men were white.",
+      "status": "ok",
+      "confidence": 0.9773109555244446,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 900,
+        "y0": 1065,
+        "x1": 1578,
+        "y1": 1102
+      },
+      "text": "NEGRO SOLDIERS AT BROWNSVILLE",
+      "status": "ok",
+      "confidence": 0.8912624716758728,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 900,
+        "y0": 1115,
+        "x1": 1585,
+        "y1": 1908
+      },
+      "text": "Two years later it is charged that some soldiers of the 25th Infantry fired into the town of Brownsville, Texas. No evidence fixing the guilt upon any one has ever been found, and though investigation has been had, it remains doubtful whether any of the soldiers, and if so, who fired the shots. The whole battalion has for years maintained its innocence. Yet the colored soldiers, each presumably innocent, were discharged without trial, and the act has since persistently and violently been defended by its author. Theodore Roosevelt was President in 1904, as well as in 1906. Why did he not apply the same rule in both cases? He who from an eminence some distance off saw the colored troops charge and carry San Juan Hill, knew that they could fight and die as well as their white comrades. What became of Mr. Taft's doctrine, \"That no matter how guilty a man is, he is entitled to be defended by counsel.\" Why were the Brownsville soldiers not \"wards of the Government\" as well as the soldiers who fired on Athens? The soldiers of Brownsville were colored.",
+      "status": "ok",
+      "confidence": 0.981476366519928,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 907,
+        "y0": 2031,
+        "x1": 1590,
+        "y1": 2404
+      },
+      "text": "Mr. W. Justin Carter, Harrisburg, Pa.\nRev. Harvey Johnson, D.D., Baltimore, Md.\nHon. Wm. S. Bennett, Washington, D. C.\nMr. L. M. Hershaw, Washington, D. C.",
+      "status": "repetition",
+      "confidence": 0.6930115222930908,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 973,
+        "y0": 2441,
+        "x1": 1287,
+        "y1": 2470
+      },
+      "text": "*Executive Committee.",
+      "status": "ok",
+      "confidence": 0.8636533617973328,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 863,
+        "y0": 2491,
+        "x1": 909,
+        "y1": 2527
+      },
+      "text": "13",
+      "status": "ok",
+      "confidence": 0.8388624787330627,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 15.0,
+    "at": "2026-10-06T20:51:59+00:00"
+  }
+}

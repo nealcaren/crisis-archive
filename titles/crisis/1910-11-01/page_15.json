@@ -1,0 +1,113 @@
+{
+  "page": 15,
+  "image": "images/page_15.jpg",
+  "width": 1891,
+  "height": 2824,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 381,
+        "y0": 193,
+        "x1": 1382,
+        "y1": 302
+      },
+      "text": "WHAT TO READ",
+      "status": "ok",
+      "confidence": 0.4357476830482483,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 177,
+        "y0": 368,
+        "x1": 873,
+        "y1": 2510
+      },
+      "text": "AFRICA.\n\nRailway and Engineering Progress. J. H. Knight, Eng. M., April.\n\nStanley's Africa; Then and Now. J. M. Hubbard, Atlantic, March.\n\nDiana in Africa. Helene, Duchess of Aosta, Harper's Weekly, March 12, April 30, May 7, August 6, August 20.\n\nHousekeeping in Africa. I. V. Simonton, Delineator, April.\n\nCan Africa Be Christianized? A. W. Holsey, Missionary Review, June.\n\nFeasts of the Heathen Shambalas. Dupre, Missionary Review,",
+      "status": "repetition",
+      "confidence": 0.9562523365020752,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 912,
+        "y0": 403,
+        "x1": 1603,
+        "y1": 1562
+      },
+      "text": "Race Rioter (Story). H. M. Lyon, American Magazine, February.\nSouthern Question. W. G. Brown, Nation, August 4.\nSuffrage in Maryland. Independent, April 21.\nKinks in the Negro's Hair. J. M. Boddy, Scientific American, April 30.\nPosition of the Negro Among Human Races. Current Literature, September.\nPosition of the Negro and Pigmy Among Human Races. A. Keith, Nature, July 14.\nSouls of White Folk. W. E. B. DuBois, Independent, August 18.\nWith a Cargo of Black Ivory. A. Edwards, Harper's Weekly, July 2.\nNegro and Religion. H. H. Johnston, Nineteenth Century, June (Current Literature, August).\nMarvel of Brownsville. H. Bumstead, Independent, May 12.\nDecadence of the Plantation System. U. B. Phillips, Annals American Academy, January.\nSlavery in Virginia. S. T. C. Bryan, Nation, May 12.\nSlave's Reminiscence of Slavery. M. W. Ovington, Independent, May 26.\nLiberia and the United States. Outlook, May 7.\nNegro Suffrage in a Democracy. Ray S. Baker, Atlantic, November.\nChapters from My Experience. B. T. Washington, World's Work, October.\nMarrying of Black Folk. W. E. B. DuBois, Independent, October 13.\nThe Lady of the Slave States. E. J. Putman. Atlantic, October.",
+      "status": "ok",
+      "confidence": 0.9673671126365662,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 911,
+        "y0": 1589,
+        "x1": 1601,
+        "y1": 1856
+      },
+      "text": "A long awaited and striking evidence of earnest and deep-seated interest in race questions is the appearance of a new quarterly at Clark University, Worcester, Mass. It is known as the \"Journal of Race Development,\" and is devoted to a scientific discussion of the primitive races. It is edited by Professor Blakeslee, and the editor of THE CRISIS is a contributing editor.",
+      "status": "ok",
+      "confidence": 0.9359477758407593,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 1101,
+        "y0": 1892,
+        "x1": 1390,
+        "y1": 1926
+      },
+      "text": "RECENT BOOKS",
+      "status": "ok",
+      "confidence": 0.8573285341262817,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 912,
+        "y0": 1929,
+        "x1": 1603,
+        "y1": 2495
+      },
+      "text": "O. G. Villard—John Brown; a Biography, Fifty Years After. Houghton, Mifflin & Co.\nLindsay Swift—William Lloyd Garrison. G. W. Jacobs & Co.\nM. J. Moses—The Literature of the South. T. W. Crowell.\nT. Roosevelt—African Game Trails. Scribner.\nHerbert Ward—A Voice from the Congo. Scribner.\nI. A. Wright—Cuba. Macmillan.\nB. D. Comyn—Service and Sport in the Sudan. John Lane.\nC. H. Stogan—To Abyssinia. Lippincott.\nG. Lagden—The Basutos. Appleton.\nDuke of Mecklinburg—In the Heart of Africa. Cassell.\nH. L. Tangye—In the Torrid Soudan. Badger.",
+      "status": "ok",
+      "confidence": 0.9735419750213623,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 873,
+        "y0": 2515,
+        "x1": 917,
+        "y1": 2552
+      },
+      "text": "15",
+      "status": "ok",
+      "confidence": 0.8263018131256104,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 28.2,
+    "at": "2026-10-06T20:52:40+00:00"
+  }
+}

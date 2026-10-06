@@ -1,0 +1,211 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 2126,
+  "height": 3153,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 208,
+        "y0": 143,
+        "x1": 1839,
+        "y1": 392
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.4326493442058563,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 280,
+        "y0": 432,
+        "x1": 1841,
+        "y1": 517
+      },
+      "text": "RECORD OF THE DARKER RACES",
+      "status": "ok",
+      "confidence": 0.25869032740592957,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 179,
+        "y0": 771,
+        "x1": 1829,
+        "y1": 879
+      },
+      "text": "Edited by W. E. BURGHARDT DU BOIS, with the co-operation of Oswald Garrison Villard, J. Max Barber, Charles Edward Russell, Kelly Miller, W. S. Braithwaite and M. D. Maclean.",
+      "status": "ok",
+      "confidence": 0.8943803310394287,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure",
+      "bbox": {
+        "x0": 181,
+        "y0": 932,
+        "x1": 1848,
+        "y1": 2570
+      },
+      "text": "CONTENTS\n\nAlong the Color Line 3\n\nOpinion 7\n\nEditorial 10\n\nThe N. A. A. C. P. 12\n\nAthens and Brownsville 13\nBy MOORFIELD STOREY\n\nThe Burden 14\n\nWhat to Read 15",
+      "status": "ok",
+      "confidence": 0.745351254940033,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 180,
+        "y0": 2656,
+        "x1": 1842,
+        "y1": 2799
+      },
+      "text": "National Association for the Advancement of Colored People AT TWENTY VESEY STREET NEW YORK CITY",
+      "status": "ok",
+      "confidence": 0.3328080177307129,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 69,
+        "y0": 45,
+        "x1": 716,
+        "y1": 3004
+      },
+      "text": "Volume One\n\nEdited by W. E. BURGHARD\nJ. Max Barber, Charles Edwa\n\nNational Association\nAT TWENTY VESEY ST\n\nONE DOLLAR A YEAR",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1,
+        "y0": 363,
+        "x1": 32,
+        "y1": 551
+      },
+      "text": "2-18=10",
+      "status": "ok",
+      "confidence": 0.46303072571754456,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 178,
+        "y0": 674,
+        "x1": 739,
+        "y1": 2861
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 178,
+        "y0": 2861,
+        "x1": 739,
+        "y1": 3133
+      },
+      "text": "ONE DOLLAR A YEAR",
+      "status": "ok",
+      "confidence": 0.39269304275512695,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 802,
+        "y0": 614,
+        "x1": 1258,
+        "y1": 675
+      },
+      "text": "NOVEMBER, 1910",
+      "status": "ok",
+      "confidence": 0.778806209564209,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 1764,
+        "y0": 52,
+        "x1": 1936,
+        "y1": 3004
+      },
+      "text": "ple\nITY\nOPY",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 1564,
+        "y0": 617,
+        "x1": 1835,
+        "y1": 674
+      },
+      "text": "Number One",
+      "status": "ok",
+      "confidence": 0.8259152173995972,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 1319,
+        "y0": 674,
+        "x1": 1837,
+        "y1": 2858
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1319,
+        "y0": 2858,
+        "x1": 1837,
+        "y1": 3133
+      },
+      "text": "TEN CENTS A COPY",
+      "status": "ok",
+      "confidence": 0.38000690937042236,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 13.6,
+    "at": "2026-10-06T20:49:53+00:00"
+  }
+}

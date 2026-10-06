@@ -1,0 +1,187 @@
+{
+  "title": "crisis",
+  "date": "1910-11-01",
+  "date_precision": "month",
+  "date_from": "MJP MODS dateIssued",
+  "volume": "vol. 01",
+  "number": "no. 001",
+  "source": {
+    "type": "pdf",
+    "id": "d9d6ac9b22aaebb6567d059653c84262978a08eae371dab5ffb01b0b60db0869",
+    "filename": "crisis_1910-11-01.pdf",
+    "path": "/Volumes/Lightning/crisis-pdfs/crisis_1910-11-01.pdf",
+    "bytes": 13069310,
+    "sha256": "d9d6ac9b22aaebb6567d059653c84262978a08eae371dab5ffb01b0b60db0869",
+    "copy": null,
+    "ocr": "source/pdf_text.txt",
+    "url": "https://modjourn.org/issue/bdr507789/",
+    "bdr_id": "bdr:507789",
+    "pdf_url": "https://repository.library.brown.edu/storage/bdr:951425/PDF/",
+    "rights": "No Copyright - United States",
+    "provider": "Modernist Journals Project / Brown Digital Repository"
+  },
+  "fetched_at": "2026-10-06T20:38:37+00:00",
+  "fetched_by": "paperpress 0.2.0",
+  "pages": [
+    {
+      "page": 1,
+      "image": "images/page_01.jpg",
+      "width": 2126,
+      "height": 3153,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 2,
+      "image": "images/page_02.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 3,
+      "image": "images/page_03.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 4,
+      "image": "images/page_04.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 5,
+      "image": "images/page_05.jpg",
+      "width": 1886,
+      "height": 2821,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 6,
+      "image": "images/page_06.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 7,
+      "image": "images/page_07.jpg",
+      "width": 1888,
+      "height": 2823,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 8,
+      "image": "images/page_08.jpg",
+      "width": 1888,
+      "height": 2825,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 9,
+      "image": "images/page_09.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 10,
+      "image": "images/page_10.jpg",
+      "width": 1879,
+      "height": 2819,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 11,
+      "image": "images/page_11.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 12,
+      "image": "images/page_12.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 13,
+      "image": "images/page_13.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 14,
+      "image": "images/page_14.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 15,
+      "image": "images/page_15.jpg",
+      "width": 1891,
+      "height": 2824,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 16,
+      "image": "images/page_16.jpg",
+      "width": 1879,
+      "height": 2819,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 17,
+      "image": "images/page_17.jpg",
+      "width": 1879,
+      "height": 2817,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 18,
+      "image": "images/page_18.jpg",
+      "width": 1888,
+      "height": 2825,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 19,
+      "image": "images/page_19.jpg",
+      "width": 1889,
+      "height": 2824,
+      "ppi": 300,
+      "image_from": "rendered"
+    },
+    {
+      "page": 20,
+      "image": "images/page_20.jpg",
+      "width": 1879,
+      "height": 2819,
+      "ppi": 300,
+      "image_from": "rendered"
+    }
+  ]
+}

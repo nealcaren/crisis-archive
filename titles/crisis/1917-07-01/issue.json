@@ -1,0 +1,443 @@
+{
+  "title": "crisis",
+  "date": "1917-07-01",
+  "date_precision": "month",
+  "date_from": "MJP MODS dateIssued",
+  "volume": "vol. 14",
+  "number": "no. 003",
+  "source": {
+    "type": "pdf",
+    "id": "73b1e784849dea0f9dca74cbbba13e4d7872f095b287338696f1be83f46405e4",
+    "filename": "crisis_1917-07-01.pdf",
+    "path": "/Volumes/Lightning/crisis-pdfs/crisis_1917-07-01.pdf",
+    "bytes": 25453460,
+    "sha256": "73b1e784849dea0f9dca74cbbba13e4d7872f095b287338696f1be83f46405e4",
+    "copy": null,
+    "ocr": "source/pdf_text.txt",
+    "url": "https://modjourn.org/issue/bdr510679/",
+    "bdr_id": "bdr:510679",
+    "pdf_url": "https://repository.library.brown.edu/storage/bdr:951801/PDF/",
+    "rights": "No Copyright - United States",
+    "provider": "Modernist Journals Project / Brown Digital Repository"
+  },
+  "fetched_at": "2026-10-06T20:40:21+00:00",
+  "fetched_by": "paperpress 0.2.0",
+  "pages": [
+    {
+      "page": 1,
+      "image": "images/page_01.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 2,
+      "image": "images/page_02.jpg",
+      "width": 1351,
+      "height": 2028,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 3,
+      "image": "images/page_03.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 4,
+      "image": "images/page_04.jpg",
+      "width": 1349,
+      "height": 2023,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 5,
+      "image": "images/page_05.jpg",
+      "width": 1348,
+      "height": 2022,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 6,
+      "image": "images/page_06.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 7,
+      "image": "images/page_07.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 8,
+      "image": "images/page_08.jpg",
+      "width": 1352,
+      "height": 2025,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 9,
+      "image": "images/page_09.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 10,
+      "image": "images/page_10.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 11,
+      "image": "images/page_11.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 12,
+      "image": "images/page_12.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 13,
+      "image": "images/page_13.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 14,
+      "image": "images/page_14.jpg",
+      "width": 1356,
+      "height": 2028,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 15,
+      "image": "images/page_15.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 16,
+      "image": "images/page_16.jpg",
+      "width": 1350,
+      "height": 2024,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 17,
+      "image": "images/page_17.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 18,
+      "image": "images/page_18.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 19,
+      "image": "images/page_19.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 20,
+      "image": "images/page_20.jpg",
+      "width": 1354,
+      "height": 2026,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 21,
+      "image": "images/page_21.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 22,
+      "image": "images/page_22.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 23,
+      "image": "images/page_23.jpg",
+      "width": 1352,
+      "height": 2025,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 24,
+      "image": "images/page_24.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 25,
+      "image": "images/page_25.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 26,
+      "image": "images/page_26.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 27,
+      "image": "images/page_27.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 28,
+      "image": "images/page_28.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 29,
+      "image": "images/page_29.jpg",
+      "width": 1377,
+      "height": 2041,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 30,
+      "image": "images/page_30.jpg",
+      "width": 1351,
+      "height": 2025,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 31,
+      "image": "images/page_31.jpg",
+      "width": 1350,
+      "height": 2023,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 32,
+      "image": "images/page_32.jpg",
+      "width": 1356,
+      "height": 2028,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 33,
+      "image": "images/page_33.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 34,
+      "image": "images/page_34.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 35,
+      "image": "images/page_35.jpg",
+      "width": 1351,
+      "height": 2025,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 36,
+      "image": "images/page_36.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 37,
+      "image": "images/page_37.jpg",
+      "width": 1350,
+      "height": 2024,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 38,
+      "image": "images/page_38.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 39,
+      "image": "images/page_39.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 40,
+      "image": "images/page_40.jpg",
+      "width": 1362,
+      "height": 2031,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 41,
+      "image": "images/page_41.jpg",
+      "width": 1350,
+      "height": 2024,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 42,
+      "image": "images/page_42.jpg",
+      "width": 1352,
+      "height": 2025,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 43,
+      "image": "images/page_43.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 44,
+      "image": "images/page_44.jpg",
+      "width": 1352,
+      "height": 2025,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 45,
+      "image": "images/page_45.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 46,
+      "image": "images/page_46.jpg",
+      "width": 1356,
+      "height": 2028,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 47,
+      "image": "images/page_47.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 48,
+      "image": "images/page_48.jpg",
+      "width": 1349,
+      "height": 2022,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 49,
+      "image": "images/page_49.jpg",
+      "width": 1348,
+      "height": 2022,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 50,
+      "image": "images/page_50.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 51,
+      "image": "images/page_51.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    },
+    {
+      "page": 52,
+      "image": "images/page_52.jpg",
+      "width": 1344,
+      "height": 2019,
+      "ppi": 225,
+      "image_from": "extracted"
+    }
+  ]
+}

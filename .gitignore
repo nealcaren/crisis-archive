@@ -1,0 +1,7 @@
+# Large or rebuildable: source PDFs, page scans, caches, built outputs
+pdfs/*.pdf
+pdfs/*.part
+titles/*/*/images/
+.paperpress/
+site/
+*.log

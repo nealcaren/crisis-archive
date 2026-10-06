@@ -1,0 +1,197 @@
+{
+  "page": 8,
+  "image": "images/page_08.jpg",
+  "width": 1888,
+  "height": 2825,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 839,
+        "y0": 182,
+        "x1": 1099,
+        "y1": 224
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.863976001739502,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 251,
+        "y0": 186,
+        "x1": 277,
+        "y1": 219
+      },
+      "text": "8",
+      "status": "ok",
+      "confidence": 0.7744296193122864,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 251,
+        "y0": 285,
+        "x1": 941,
+        "y1": 758
+      },
+      "text": "If a Negro went into a white restaurant in our town and sat at a table and ordered a meal our citizens would want to lynch him, or he would be arrested and a heavy fine imposed upon him. The same should be done to a white person that would go into a Negro restaurant and sit at a table and eat a meal. Last Sunday night while returning home from the depot after the excursion train left we saw two white men and women sitting at a table in a Negro restaurant on Suwannee street and eating supper and seemed to be just as contented as if they were in a first-class white restaurant. —White Springs (Fla.) Messenger.",
+      "status": "ok",
+      "confidence": 0.9771891832351685,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 250,
+        "y0": 780,
+        "x1": 942,
+        "y1": 1215
+      },
+      "text": "There was just one thing lacking at yesterday's session of the National Negro Business League, when those present were told what was expected of them if they hoped to do credit to their race and to their country. A few members of the 25th Infantry in uniform to represent the dismissed battalion, the fate of which received the attention of Congress some time ago, would have furnished a welcome touch of color and reminded the delegates that a grateful nation never forgets. It would have given point also to the following passage in the address (by Mr. Roosevelt):",
+      "status": "ok",
+      "confidence": 0.9769238829612732,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 248,
+        "y0": 1217,
+        "x1": 937,
+        "y1": 1679
+      },
+      "text": "\"I am the last man in the world to slur over the injustice that good Negroes are often subjected to, but I feel that the really substantial way to remedy that injustice is so to carry yourselves that the white man will be compelled to recognize in his colored neighbor a good and honest worker, an effective citizen and a self-respecting man.\"\n\nHowever, judging from the good temper which pervaded the gathering, and the rapture with which the excellent platitudes were received, it is clear that a short memory is one of the useful and comfortable endowments of the Negro race.—N. Y. Sun.",
+      "status": "ok",
+      "confidence": 0.9752988815307617,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 247,
+        "y0": 1702,
+        "x1": 938,
+        "y1": 2136
+      },
+      "text": "\"I gather from your article in the June Crown that you think the negro to be as good as the white man. Am I right? I think you are doing great harm in encouraging the negro in his pretensions. He is all right as long as he keeps in his place. But he is not the equal of the white man and he never will be, and we will take care that he stays where he belongs. We will use force if need be, law or no law. I want to say that I cannot support a publication that encourages the negro.\n\nFRIEND:",
+      "status": "ok",
+      "confidence": 0.9730422496795654,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 246,
+        "y0": 2138,
+        "x1": 939,
+        "y1": 2667
+      },
+      "text": "You ask whether, in my judgment, the Negro is as good as the white man. Now I will not venture to say that the Negro is as good as you, for I do not know how good you are. But I will put it this way: The Negro is as good as I am. You certainly cannot object to my appraising myself; and I say that the Negro is as good as I am. I also say that I am as good as you or any other man that lives or has lived or ever will live!\n\nYou can draw your own inferences.—The Crown (Newark, N. J.)\n\nTo those who have taken the trouble to study the moral, social, intellectual and material progress of the colored people of this country",
+      "status": "ok",
+      "confidence": 0.9652619361877441,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 990,
+        "y0": 282,
+        "x1": 1687,
+        "y1": 353
+      },
+      "text": "during the past four decades, the advancement must be amazing.—The Banker and Invester.",
+      "status": "ok",
+      "confidence": 0.9472239017486572,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 989,
+        "y0": 384,
+        "x1": 1685,
+        "y1": 686
+      },
+      "text": "A white man succeeds a Negro as Collector of Internal Revenue for Georgia. In making this appointment the President follows the policy announced by him early in March, 1909, when he said that Negroes would not be named for office \"against the wishes of the whites.\" In every Southern State colored men are thus barred as completely as though citizenship had never been conferred upon them.",
+      "status": "ok",
+      "confidence": 0.9765461683273315,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 987,
+        "y0": 687,
+        "x1": 1683,
+        "y1": 1054
+      },
+      "text": "In many Northern States the colored vote might easily put it out of the power of the Republicans to elect Presidents at all. Ohio in particular is so situated. That the local politicians recognize the value of the colored contingent is shown by the platform adopted on July 27 last by the Republican State Convention, in which there was the usual demand for the strict enforcement of the Thirteenth, Fourteenth and Fifteenth Amendments, with the familiar phrases about equal rights and opportunities.",
+      "status": "ok",
+      "confidence": 0.9775418043136597,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 984,
+        "y0": 1056,
+        "x1": 1682,
+        "y1": 1575
+      },
+      "text": "There is no uncertainty in these matters except upon one point. We know that so far as resolutions are concerned the great Republican heart is still true to the colored man. We know that all Negroes look alike to the Republican President and that he will have none of them. We are in doubt only as to the ticket that the Northern black man will vote in November, especially in Ohio.—The N. Y. World.\n\nJust because Johnson has succeeded in reaching the top in pugilism, it does not alter the fact that he is a Negro and is not entitled to prestige in the cleaner and better sport of automobile racing.—\"Wild Bob\" Burman, driver of Buick cars.",
+      "status": "ok",
+      "confidence": 0.9729114770889282,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 986,
+        "y0": 1585,
+        "x1": 1683,
+        "y1": 2119
+      },
+      "text": "The continued existence of the color prejudice that is peculiar to the American people is one of the most singular features of our national life. It is probably due to the lurking consciousness that the white people of the United States owe a debt to the Negro race that can never be repaid. None are so unforgiving as those who are conscious that they have most to be forgiven. It takes more than common magnanimity to cherish a friendly feeling toward those you have wronged, and the American people have hardly attained to that point of magnanimity yet. But we will get there in time, and learn to value men for their own qualities and not on account of their color or their pedigree.—Brooklyn Times.",
+      "status": "ok",
+      "confidence": 0.9755531549453735,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 986,
+        "y0": 2131,
+        "x1": 1682,
+        "y1": 2666
+      },
+      "text": "The recent heated political debates between leading white men of Georgia has for the time being suspended. Party rules based upon race lines will compel contestants to submit to the decision of a vote in the primary that is only partisan to the extent of being anti-Negro. No candidate, whatever his personal feeling toward his colored fellow citizens, has dared to put in a word favorable to them. * * * Taxation without representation was oppressive when the American Colonies declared their purpose to be independent of the English crown, and it is no less so when practiced by the descendants of the men who gave it out to the world. Consider this matter soberly and wisely and then act.—Georgia Baptist (colored.)",
+      "status": "ok",
+      "confidence": 0.9764853715896606,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 12.1,
+    "at": "2026-10-06T20:51:03+00:00"
+  }
+}

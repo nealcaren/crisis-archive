@@ -1,0 +1,141 @@
+{
+  "page": 10,
+  "image": "images/page_10.jpg",
+  "width": 1879,
+  "height": 2819,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 490,
+        "y0": 208,
+        "x1": 1420,
+        "y1": 317
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.4668821692466736,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 446,
+        "y0": 417,
+        "x1": 709,
+        "y1": 464
+      },
+      "text": "THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7153785824775696,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 228,
+        "y0": 476,
+        "x1": 922,
+        "y1": 1143
+      },
+      "text": "THE object of this publication is to set forth those facts and arguments which show the danger of race prejudice, particularly as manifested to-day toward colored people. It takes its name from the fact that the editors believe that this is a critical time in the history of the advancement of men. Catholicity and tolerance, reason and forbearance can to-day make the world-old dream of human brotherhood approach realization; while bigotry and prejudice, emphasized race consciousness and force can repeat the awful history of the contact of nations and groups in the past. We strive for this higher and broader vision of Peace and Good Will.",
+      "status": "ok",
+      "confidence": 0.9778013825416565,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 224,
+        "y0": 1146,
+        "x1": 918,
+        "y1": 1681
+      },
+      "text": "The policy of THE CRISIS will be simple and well defined:\nIt will first and foremost be a newspaper: it will record important happenings and movements in the world which bear on the great problem of inter-racial relations, and especially those which affect the Negro-American.\nSecondly, it will be a review of opinion and literature, recording briefly books, articles, and important expressions of opinion in the white and colored press on the race problem.",
+      "status": "ok",
+      "confidence": 0.9741619825363159,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 225,
+        "y0": 1683,
+        "x1": 916,
+        "y1": 2263
+      },
+      "text": "Thirdly, it will publish a few short articles. Finally, its editorial page will stand for the rights of men, irrespective of color or race, for the highest ideals of American democracy, and for reasonable but earnest and persistent attempt to gain these rights and realize these ideals. The magazine will be the organ of no clique or party and will avoid personal rancor of all sorts. In the absence of proof to the contrary it will assume honesty of purpose on the part of all men, North and South, white and black.",
+      "status": "ok",
+      "confidence": 0.9766620397567749,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 223,
+        "y0": 2299,
+        "x1": 916,
+        "y1": 2522
+      },
+      "text": "SEGREGATION. Some people in Chicago, Philadelphia, Atlantic City, Columbus, O., and other Northern cities are quietly trying to establish separate colored schools. This is",
+      "status": "ok",
+      "confidence": 0.9626557230949402,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 907,
+        "y0": 2546,
+        "x1": 951,
+        "y1": 2581
+      },
+      "text": "10",
+      "status": "ok",
+      "confidence": 0.8566421270370483,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 964,
+        "y0": 417,
+        "x1": 1666,
+        "y1": 1951
+      },
+      "text": "wrong, and should be resisted by black men and white. Human contact, human acquaintanceship, human sympathy is the great solvent of human problems. Separate school children by wealth and the result is class misunderstanding and hatred. Separate them by race and the result is war. Separate them by color and they grow up without learning the tremendous truth that it is impossible to judge the mind of a man by the color of his face. Is there any truth that America needs to learn more? Back of this demand for the segregation of black folk in public institutions, or the segregation of Italians, or the segregation of any class, is almost always a shirking of responsibility on the part of the public—a desire to put off on somebody else the work of social uplift, while they themselves enjoy its results. Nobody pretends to deny that probably three-fourths of the colored children in the public schools of a great Northern city are below the average of their fellow students in some respects. They are, however, capable of improvement, and of rapid improvement. This improvement can be carried on by the community. The community can, however, if it is cowardly and selfish, shirk this responsibility and pile it on the shoulders of the Negroes represented by the one-fourth of Negro children who are above the average, or equal to it; and they can, if they are persistent, succeed in pushing back and possibly overwhelming a deserving and rising class of colored people.",
+      "status": "ok",
+      "confidence": 0.9572328925132751,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 962,
+        "y0": 1964,
+        "x1": 1660,
+        "y1": 2523
+      },
+      "text": "This is the history of color discrimination in general in Philadelphia, New York and Chicago. When the discrimination comes in various lines of life, it does not bear simply on those who are not hurt by it—who do not feel it, and who by their position naturally fall outside the lines of discrimination, but it comes with crushing weight upon those other Negroes to whom the reasons for discrimination do not apply in the slightest respect, and they are thus made to bear a double burden. Further than this, when the discrimination is once",
+      "status": "ok",
+      "confidence": 0.9784731864929199,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.0,
+    "at": "2026-10-06T20:51:23+00:00"
+  }
+}

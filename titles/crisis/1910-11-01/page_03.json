@@ -1,0 +1,253 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1879,
+  "height": 2817,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 369,
+        "y0": 221,
+        "x1": 1413,
+        "y1": 331
+      },
+      "text": "Along the Color Line",
+      "status": "ok",
+      "confidence": 0.6503416895866394,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 187,
+        "y0": 434,
+        "x1": 879,
+        "y1": 971
+      },
+      "text": "THE \"grandfather\" clause of the Arkansas Constitution reads as follows:\n\"SECTION 4a. No person shall be registered as an elector of this State, or be allowed to vote in any election held herein, unless he be able to read and write any section of the Constitution of the State of Oklahoma; but no person who was on January 1, 1866, or at any time prior thereto, entitled to vote under any form of government, or who at that time resided in some foreign nation, and no lineal descendant of such person, shall be denied the right to register and vote because of his inability to so read and write sections of such Constitution.",
+      "status": "ok",
+      "confidence": 0.9683237671852112,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 191,
+        "y0": 973,
+        "x1": 876,
+        "y1": 1369
+      },
+      "text": "\"Precinct election inspectors having in charge the registration of electors shall enforce the provisions of this section at the time of registration, provided registration be required. Should registration be dispensed with the provisions of this section shall be enforced by the precinct election officers when electors apply for ballots to vote.\"\n\nThis amendment has been voted upon and the votes canvassed, but an official count has not been announced, and probably will not be until just before the general election in November.",
+      "status": "ok",
+      "confidence": 0.9713208079338074,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 189,
+        "y0": 1404,
+        "x1": 875,
+        "y1": 1944
+      },
+      "text": "The Hon. J. C. Napier will replace the Hon. W. T. Vernon, of Kansas, as Register of the United States Treasury. The Chattanooga Times gives the following reasons for the change:\n\n\"It appears now that Vernon has outlived his usefulness, since he could not help the administration to stem the insurgent wave that recently swept over the Sunflower State, and that his reappointment was contingent on his success in that campaign. It is learned from that day he was marked for retirement.\n\n\"Tennessee Republican politicians readily recognized the opportunity to make a master stroke and impression on the Negro vote in Tennessee, by recognizing one of their race with an important office.",
+      "status": "ok",
+      "confidence": 0.9618573188781738,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 189,
+        "y0": 1944,
+        "x1": 872,
+        "y1": 2243
+      },
+      "text": "\"Napier for eight years was a member of the Republican State Committee, but the white members fell out with him at the recent state convention when it was believed that he had agreed to use his influence with the Negroes in favor of Patterson. Since he was deposed the committee has been without Negro membership, and this sop is held out to pacify the rebellious Negroes all over the state.\"",
+      "status": "ok",
+      "confidence": 0.9698783755302429,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 186,
+        "y0": 2279,
+        "x1": 871,
+        "y1": 2416
+      },
+      "text": "Senator Cummins, of Iowa, will introduce a bill into Congress for direct primaries in selecting candidates for President and Vice-President. He says:",
+      "status": "ok",
+      "confidence": 0.924111545085907,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 186,
+        "y0": 2415,
+        "x1": 872,
+        "y1": 2484
+      },
+      "text": "\"To me the injustice is plain of permitting the 4,000 Republicans of Mississippi to cast 20 votes",
+      "status": "ok",
+      "confidence": 0.919799268245697,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "abandon",
+      "bbox": {
+        "x0": 874,
+        "y0": 2502,
+        "x1": 897,
+        "y1": 2535
+      },
+      "text": "3",
+      "status": "ok",
+      "confidence": 0.6089985966682434,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 924,
+        "y0": 439,
+        "x1": 1605,
+        "y1": 936
+      },
+      "text": "in the convention, while Iowa, with 300,000 Republicans, can cast only 26. Is it right that Georgia, with only 30,000 Republican voters, should have exactly the same number of delegates as Iowa, with ten times that number of Republican votes? Every one recognizes that the Republican party—such as it is in the far Southern States—is composed almost wholly of Federal officeholders and those who want Federal office. It has been demonstrated time and time again that the delegates to Republican national conventions from these states are absolutely venal and that they uniformly vote with the administration forces, which purchase them by means of post-offices and collectorships.\"",
+      "status": "ok",
+      "confidence": 0.9705988168716431,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 920,
+        "y0": 986,
+        "x1": 1601,
+        "y1": 1156
+      },
+      "text": "The United Colored Democracy of the State of New York has been organized for the coming campaign. They demand a colored regiment in the New York National Guard, and also colored policemen and firemen.",
+      "status": "ok",
+      "confidence": 0.950570821762085,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 917,
+        "y0": 1208,
+        "x1": 1603,
+        "y1": 1310
+      },
+      "text": "J. C. Manning and the progressive Republicans in Alabama are fighting Mr. Washington's political influence in that state.",
+      "status": "ok",
+      "confidence": 0.9173271059989929,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 919,
+        "y0": 1355,
+        "x1": 1599,
+        "y1": 1460
+      },
+      "text": "The newly elected Governor of South Caroline, Blease, made his fight on a platform opposing Negro education and prohibition.",
+      "status": "ok",
+      "confidence": 0.931648313999176,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 918,
+        "y0": 1519,
+        "x1": 1599,
+        "y1": 1589
+      },
+      "text": "The Negroes of South Carolina gained complete control of the State Republican Convention.",
+      "status": "ok",
+      "confidence": 0.7638991475105286,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 917,
+        "y0": 1642,
+        "x1": 1598,
+        "y1": 1777
+      },
+      "text": "The Hon. P. B. S. Pinchback, once Reconstruction Governor of Louisiana, has been appointed to the Internal Revenue Service in Cincinnati, O.",
+      "status": "ok",
+      "confidence": 0.9324281811714172,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 919,
+        "y0": 1814,
+        "x1": 1599,
+        "y1": 2084
+      },
+      "text": "The Colored Independent Political League has decided to support the Democratic ticket in Ohio, New York and New Jersey; the Republican tickets in Delaware and West Virginia, and to favor Senator Bulkeley, of Connecticut, and oppose Senator Lodge, of Massachusetts. Local Independent organizations are at work in New York, Ohio, New Jersey, Utah and Missouri.",
+      "status": "ok",
+      "confidence": 0.9618881344795227,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 918,
+        "y0": 2127,
+        "x1": 1599,
+        "y1": 2265
+      },
+      "text": "The National Executive Committee of the Socialist party have appointed Lena Morrell Lewis and George A. Goebel a committee of two to investigate the condition of the Negro in America.",
+      "status": "ok",
+      "confidence": 0.903871476650238,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 917,
+        "y0": 2309,
+        "x1": 1605,
+        "y1": 2785
+      },
+      "text": "Suit has been brought in the United States Circuit Court to compel the city of Annapolis, Md., to register colored voters. Annapolis by city ordinance has attempted to nullify the Fifteenth Amendment.",
+      "status": "ok",
+      "confidence": 0.8546129465103149,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.6,
+    "at": "2026-10-06T20:50:07+00:00"
+  }
+}

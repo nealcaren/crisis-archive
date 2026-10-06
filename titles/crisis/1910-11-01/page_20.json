@@ -1,0 +1,127 @@
+{
+  "page": 20,
+  "image": "images/page_20.jpg",
+  "width": 1879,
+  "height": 2819,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 662,
+        "y0": 140,
+        "x1": 1241,
+        "y1": 188
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.34931638836860657,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 261,
+        "y0": 230,
+        "x1": 1696,
+        "y1": 708
+      },
+      "text": "The New York Negro as a Tenant\n\nEvery Negro resident of New York City prior to the year 1900 remembers too well the great difficulty always experienced in trying to find anything like a decent place to live. Never before this time was the question of \"How much rent shall we pay?\" anything like as important as \"Where can we live?\"\n\nThe Negro as a tenant was wanted nowhere except in the very poorest section of the city and there only in such houses as were so run down that even the poorest of whites refused to longer occupy them. In these houses Negroes were crowded together without any regard for their health or morals. Here they were bullied and even insulted by independent landlords, who were very careful to do little or nothing for their erstwhile not wanted tenants except to squeeze from them every dollar of rent possible.",
+      "status": "ok",
+      "confidence": 0.975442111492157,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 262,
+        "y0": 709,
+        "x1": 1695,
+        "y1": 1246
+      },
+      "text": "This was a \"condition, not a theory,\" that we faced when in October, 1900, we opened our office as the first Negro Real Estate Agents in New York City, making a specialty of the management of colored tenement property. Our very best friends all told us that we were attempting the impossible, that we could not succeed, that we would starve in our undertaking. For the first year and a half they proved to be prophets indeed. Our many disappointments, heartaches and actual sufferings during this period would fill a book and read like a romance. Every one could tell us how we could NOT make it, but none how we could. We were real estate agents making a specialty of the management of colored tenement property for nearly a year before we actually succeeded in getting a colored tenement to manage. Our first opportunity occurred in West 134th Street as a result of a dispute between two landlords. To \"get even\" one of them turned his house over to us to fill with colored tenants. We were so very successful in renting and managing this house that, after a time, we were able to induce other landlords in whose houses vacancies had occurred due to the opening of this house for colored people, to make the change and give us their property to manage.",
+      "status": "ok",
+      "confidence": 0.9755478501319885,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 261,
+        "y0": 1247,
+        "x1": 1694,
+        "y1": 1813
+      },
+      "text": "This was the beginning of the turning over to Negro tenants of one of the very best sections of Manhattan Island and in no part of the city are there any better built or more modern tenements for any class of people than are now occupied by Negroes in this section. By opening for colored tenants first a house in one block, and then a house in another, we have finally succeeded in securing for the colored people of New York over 250 first-class flats and private dwellings in a fine section of the city, conveniently located as to transportation facilities, etc.\n\nTo this extent our ambition has been gratified. There is, however, more work to be done in another direction before we shall be entirely satisfied with the condition of the Negro tenancy in this great city. We feel that our personal experience both as a Negro tenant and a landlord has peculiarly fitted us for the work. Dr. Booker T. Washington in his latest book, \"The Negro in Business,\" says: \"Mr. Payton has had an opportunity during this time to learn something of the condition under which colored tenants live, sometimes are compelled to live, in New York. Stranger than all else, he was, as he has confessed to me, several times put out of houses, bag and baggage, for inability to pay his rent. He has thus been able to see how an ejectment suit looks from both the point of view of tenant and of landlord.\"",
+      "status": "ok",
+      "confidence": 0.9775065183639526,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 262,
+        "y0": 1814,
+        "x1": 1696,
+        "y1": 2159
+      },
+      "text": "There is every reason why colored tenement property should be managed by Negro agents. From them, the tenant may be certain of receiving more real interest, sympathy and respect. Were the Negroes to demand it to-day, at least 90 per cent. of the colored tenements in this city could be controlled by agents of their own race. This would not only be of benefit to the tenant but to the entire race.\n\nTell your landlord that you prefer to have your rent collected by a Negro agent. In this manner you will be aiding your people in their struggle for commercial advancement. You owe it to your race to do this.\n\nDESIRABLE APARTMENTS FOR DESIRABLE TENANTS",
+      "status": "ok",
+      "confidence": 0.9656623005867004,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 320,
+        "y0": 2195,
+        "x1": 1609,
+        "y1": 2312
+      },
+      "text": "Philip A. Payton, Jr., Company",
+      "status": "ok",
+      "confidence": 0.8806732296943665,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 420,
+        "y0": 2343,
+        "x1": 1533,
+        "y1": 2481
+      },
+      "text": "New York's Pioneer Negro Real Estate Agents BROKERS-APPRAISERS",
+      "status": "ok",
+      "confidence": 0.8887824416160583,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 256,
+        "y0": 2515,
+        "x1": 1704,
+        "y1": 2650
+      },
+      "text": "67 West 134th St., New York City TELEPHONES 917-918 HARLEM",
+      "status": "ok",
+      "confidence": 0.8050410747528076,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 20.8,
+    "at": "2026-10-06T20:53:52+00:00"
+  }
+}
