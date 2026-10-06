@@ -1,0 +1,197 @@
+{
+  "page": 12,
+  "image": "images/page_12.jpg",
+  "width": 1380,
+  "height": 2096,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 472,
+        "y0": 166,
+        "x1": 995,
+        "y1": 248
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.5819782018661499,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 749,
+        "y0": 324,
+        "x1": 1263,
+        "y1": 548
+      },
+      "text": "the unfriendly reception: \"The white Americans who have taken up wheat lands in the Canadian Northwest have no friendly feeling for the Negroes,\" says the Chicago Tribune. \"They would not object to them as laborers, for labor is in demand. They do not want them to become land owners and factors in local life.\"",
+      "status": "ok",
+      "confidence": 0.9755626916885376,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 205,
+        "y0": 326,
+        "x1": 714,
+        "y1": 616
+      },
+      "text": "THE NORTHWARD MIGRATION. It is quite generally believed in the South that the census will show a comparative decrease in its Negro population. Many colored men have gone northward, some as far as Canada, as the recent resentment at their immigration to the Northwest shows. The Southern papers comment on the exodus to the Northern States. The New Orleans Picayune says:",
+      "status": "ok",
+      "confidence": 0.9788973331451416,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 749,
+        "y0": 549,
+        "x1": 1261,
+        "y1": 819
+      },
+      "text": "Other papers take a similar view of the situation and see the American leaven of race prejudice working across the border. \"It is more than probable,\" remarks the St. Paul Pioneer Press, \"that the opposition to the Negroes does not come so much from native Canadians as from former citizens of this country who have settled in Western Canada, and have aroused new prejudice against Negro neighbors.\"",
+      "status": "ok",
+      "confidence": 0.9770484566688538,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 206,
+        "y0": 617,
+        "x1": 714,
+        "y1": 862
+      },
+      "text": "\"That the Negroes are migrating has been apparent for years, but they are not moving in hordes, as do immigrants from foreign countries when they come to the United States, or as did the Goths, Huns, Vandals and other barbarians, when they swarmed into the dominions of ancient Rome. The Southern Negroes simply vanish across the border, and they are gone.",
+      "status": "ok",
+      "confidence": 0.9761330485343933,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 749,
+        "y0": 819,
+        "x1": 1261,
+        "y1": 1089
+      },
+      "text": "The Springfield (Mass.) Republican is of the same opinion: \"The trouble seems to be not with the native Canadians, but with the Americans who have gone and are going over the border to settle, and who are carrying with them all their merciless race prejudice. There is apparently no place within the range of our American influence where the Negro can go and live in peace and white toleration.\"",
+      "status": "ok",
+      "confidence": 0.9790956974029541,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 207,
+        "y0": 862,
+        "x1": 714,
+        "y1": 1228
+      },
+      "text": "\"South Carolina and Mississippi started after the sectional war of 1861-65 with populations of Negroes greater than those of the whites, while in Louisiana there were about equal numbers of the two races. Now Louisiana has a decided white majority, while the other two States still have excessive Negro populations, but the relative positions of the two races, as shown by the census of 1910, are awaited with interest. Information concerning South Carolina shows that there is a movement among the Negroes there as well as in other Southern States.",
+      "status": "ok",
+      "confidence": 0.9786848425865173,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 750,
+        "y0": 1121,
+        "x1": 1263,
+        "y1": 1357
+      },
+      "text": "NEGRO CRIME. Mr. R. R. Wright, Jr., contributes to the Southern Workman an important article on Negro crime. The New York Nation refers to the \"apparently growing belief that the Negro is essentially lawless in the North as well as the South.\" and summarizes Mr. Wright's article with comments of its own:",
+      "status": "ok",
+      "confidence": 0.9759197235107422,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 207,
+        "y0": 1229,
+        "x1": 715,
+        "y1": 1475
+      },
+      "text": "\"The dispersion and distribution of the Negro population among the whites in all the Northern States is the proper and true solution of the Negro problem. Their migration northward, while it is actively opposed by many Southern whites, is the mitigation of a great evil and should be encouraged, instead of the contrary. Of course, not all will go. There will be enough left in this section.\"",
+      "status": "ok",
+      "confidence": 0.9645348787307739,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 747,
+        "y0": 1359,
+        "x1": 1262,
+        "y1": 1775
+      },
+      "text": "\"It is a patent fact that in this present period of color hysteria the crime of every Negro is 'played up' with large headlines, while his good deeds go unrecorded. If a Negro at the risk of his life saves the lives of white men, as in Washington, D. C., a couple of weeks ago, that is chronicled inconspicuously in a few lines, if at all. More than that, the newspaper reader not only takes his opinions from sensational cases, but these cannot readily be offset by authoritative statistics of crime, as Mr. Wright sets forth. For many cities in the North do not distinguish offenders by color, and in the South there are no vital or criminal statistics of genuine reliability.",
+      "status": "ok",
+      "confidence": 0.8516692519187927,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 208,
+        "y0": 1475,
+        "x1": 716,
+        "y1": 1819
+      },
+      "text": "The Knoxville (Tenn.) Sentinel calls attention to what it considers the increased \"tolerance\" of the North, which some of us call increased race prejudice. \"There has been no noteworthy increase of the Negro population of any Southern State during the last decade, as far as observation and census information already at hand afford a hint. The dispersion of the Negroes in the North has been of great service to the South. It has taught the North some of the meaning of the race problem and has made the North more tolerant.\"",
+      "status": "ok",
+      "confidence": 0.970493495464325,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 751,
+        "y0": 1776,
+        "x1": 1264,
+        "y1": 1876
+      },
+      "text": "Mr. Wright's figures relating to arrests of Negroes in New York, Chicago, and Philadelphia are distinctly encouraging. In the first two cities there has",
+      "status": "ok",
+      "confidence": 0.6878963112831116,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 207,
+        "y0": 1822,
+        "x1": 717,
+        "y1": 1872
+      },
+      "text": "Northern papers comment in their turn on the migration still farther north and",
+      "status": "ok",
+      "confidence": 0.9390397071838379,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.4,
+    "at": "2026-10-06T21:48:21+00:00"
+  }
+}

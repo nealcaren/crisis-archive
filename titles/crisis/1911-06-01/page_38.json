@@ -1,0 +1,379 @@
+{
+  "page": 38,
+  "image": "images/page_38.jpg",
+  "width": 1371,
+  "height": 2088,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 501,
+        "y0": 130,
+        "x1": 963,
+        "y1": 164
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8371009826660156,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 744,
+        "y0": 194,
+        "x1": 1265,
+        "y1": 593
+      },
+      "text": "JOINING THE NAVY; OR,\nABROAD WITH UNCLE SAM\nBy JOHN H. PAYNTER, A.M.\nFirst Race Contribution to Navy\nLiterature\nOrdered by the Government for Libraries of\nWar Vessels\n'It is a perfect picture of life on board\nship when I first went to sea. The story is\ntold so simply and in such good style, and\nholds its interest so, that I read it through\nat one sitting.'—Richardson Clover, Rear\nAdmiral, U. S. N., Retired.\nCloth Bound. 300 Pages. Fully Illustrated.\nSECOND EDITION\nSent Postage Paid on Receipt of One Dollar\nAddress care of\nSUDWARTH PRINTING CO.\nWASHINGTON, D. C.",
+      "status": "ok",
+      "confidence": 0.8212957382202148,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 744,
+        "y0": 593,
+        "x1": 1265,
+        "y1": 1139
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 190,
+        "y0": 638,
+        "x1": 1262,
+        "y1": 919
+      },
+      "text": "Sphinx Silver Polish\n\nThe unsurpassed renovator of silver and plated ware. No acids; no scratching; absolutely harmless. Adopted in the largest hotels. Best for family use. Endorsed by silversmiths. Sells readily to the trade. Doubles your income. Agents wanted in every city and town. Fifty per cent. commission. Write to-day.",
+      "status": "ok",
+      "confidence": 0.9692242741584778,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 301,
+        "y0": 967,
+        "x1": 1154,
+        "y1": 1049
+      },
+      "text": "Sphinx Labor-Saving Soap Co., Inc. Office and Factory: 117 West Street, New York City",
+      "status": "ok",
+      "confidence": 0.4020630717277527,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 779,
+        "y0": 1139,
+        "x1": 1227,
+        "y1": 1222
+      },
+      "text": "A BIOGRAPHY OF SPECIAL APPEAL TO THE NEGRO",
+      "status": "ok",
+      "confidence": 0.836111843585968,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 780,
+        "y0": 1284,
+        "x1": 1224,
+        "y1": 1377
+      },
+      "text": "Harriet Beecher Stowe\nBy her Son and Grandson",
+      "status": "ok",
+      "confidence": 0.7407199740409851,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 777,
+        "y0": 1413,
+        "x1": 1224,
+        "y1": 1735
+      },
+      "text": "\"It is rarely that so fascinating a volume comes into the hands of the reader. It is not a history. It is not a biography. It is a fascinating series of articles in regard to the home life and public life of the author of 'Uncle Tom's Cabin.' . . . The whole story of how she wrote her great book is given in detail. . . . The sorrows as well as the pleasures of her life are all depicted so clearly that the reader immediately comes into close touch with the real Harriet Beecher Stowe.\"—Boston Journal.",
+      "status": "ok",
+      "confidence": 0.6567738056182861,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 797,
+        "y0": 1768,
+        "x1": 1201,
+        "y1": 1796
+      },
+      "text": "Illustrated $1.50 net. Postpaid $1.62.",
+      "status": "ok",
+      "confidence": 0.7911920547485352,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 744,
+        "y0": 1852,
+        "x1": 1265,
+        "y1": 2068
+      },
+      "text": "Houghton-Mifflin Company\n4 Park Street Boston\nE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7796075940132141,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 201,
+        "y0": 132,
+        "x1": 238,
+        "y1": 160
+      },
+      "text": "82",
+      "status": "ok",
+      "confidence": 0.8408842086791992,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 200,
+        "y0": 196,
+        "x1": 712,
+        "y1": 556
+      },
+      "text": "BROWN-SPENCER CORRESPONDENCE\nSCHOOL OF SHORTHAND\nThe Best, the Easiest, and Most Reliable.\nA system that can be learned during spare\nmoments and thereby increase your salary from\n50 to 100 per cent. A thorough knowledge of\nShorthand makes the position sure and the one\nso skilled in great demand. You pay as you\nlearn. Terms reasonable. Write for particulars.\n\nBROWN-SPENCER CORRESPONDENCE\nSCHOOL OF SHORTHAND",
+      "status": "ok",
+      "confidence": 0.9544511437416077,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 504,
+        "y0": 568,
+        "x1": 710,
+        "y1": 593
+      },
+      "text": "East St. Louis, Ill.",
+      "status": "ok",
+      "confidence": 0.5477936863899231,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 201,
+        "y0": 569,
+        "x1": 408,
+        "y1": 1096
+      },
+      "text": "O. M. Waller, M.D.,\n\nThe unsurpassed lately harmless. A smiths. Sells real and town. Fifty\n\nOffice",
+      "status": "ok",
+      "confidence": 0.7947349548339844,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 197,
+        "y0": 593,
+        "x1": 712,
+        "y1": 1096
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 634,
+        "y0": 931,
+        "x1": 816,
+        "y1": 956
+      },
+      "text": "Manufactured by",
+      "status": "ok",
+      "confidence": 0.5572538375854492,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 199,
+        "y0": 1096,
+        "x1": 698,
+        "y1": 1282
+      },
+      "text": "Real Estate and Probate Matters a Specialty\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nNOTARY PUBLIC\nOffice: Room 502, Eberly Block Columbus, C",
+      "status": "ok",
+      "confidence": 0.8645182251930237,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 280,
+        "y0": 1316,
+        "x1": 630,
+        "y1": 1477
+      },
+      "text": "B. S. SMITH\nATTORNEY AND COUNSELOR-AT-LAW.\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL",
+      "status": "ok",
+      "confidence": 0.7102607488632202,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "text",
+      "bbox": {
+        "x0": 201,
+        "y0": 1477,
+        "x1": 408,
+        "y1": 1568
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 361,
+        "y0": 1483,
+        "x1": 548,
+        "y1": 1541
+      },
+      "text": "ATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.",
+      "status": "ok",
+      "confidence": 0.7412827610969543,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "title",
+      "bbox": {
+        "x0": 197,
+        "y0": 1568,
+        "x1": 709,
+        "y1": 1671
+      },
+      "text": "J. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet",
+      "status": "ok",
+      "confidence": 0.7870014905929565,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "text",
+      "bbox": {
+        "x0": 502,
+        "y0": 1681,
+        "x1": 604,
+        "y1": 1725
+      },
+      "text": "McGHEE",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "text",
+      "bbox": {
+        "x0": 297,
+        "y0": 1681,
+        "x1": 443,
+        "y1": 1725
+      },
+      "text": "FREDERICK",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 197,
+        "y0": 1733,
+        "x1": 712,
+        "y1": 2049
+      },
+      "text": "ATTORNEY AND COUNSELOR-AT-LAW\nUnion Block, Fourth and Cedar Streets\nSt. Paul, Minn.\n\nGeneral Practice Notary Public\n\nWILLIAM R. MORRIS\nATTORNEY AND COUNSELOR-AT-LAW\n1020 Metropolitan Life Building\nMinneapolis, Minn.\n\nMention",
+      "status": "ok",
+      "confidence": 0.7305914163589478,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "text",
+      "bbox": {
+        "x0": 201,
+        "y0": 1799,
+        "x1": 408,
+        "y1": 2039
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r25",
+      "label": "abandon",
+      "bbox": {
+        "x0": 612,
+        "y0": 1961,
+        "x1": 844,
+        "y1": 1986
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.5129134058952332,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.6,
+    "at": "2026-10-06T21:52:10+00:00"
+  }
+}

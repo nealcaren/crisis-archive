@@ -1,0 +1,155 @@
+{
+  "page": 21,
+  "image": "images/page_21.jpg",
+  "width": 1374,
+  "height": 2091,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 571,
+        "y0": 126,
+        "x1": 757,
+        "y1": 158
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.7126550078392029,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 135,
+        "y0": 191,
+        "x1": 644,
+        "y1": 727
+      },
+      "text": "for men the things they ought to have done for them, when we consider not simply their present desires, but their future welfare. Just here it is that past civilizations have failed. Their economic organization catered to fatal wants and persisted in doing so, and refused to let philanthropy guide them. Just so to-day. Whenever a community seats itself helplessly before a dangerous public desire, or an ingrained prejudice, recognizing clearly its evil, but saying, \"We must cater to it simply because it exists,\" it is final; change is impossible. Beware; the epitaph of that people is being written.",
+      "status": "ok",
+      "confidence": 0.9781283736228943,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 138,
+        "y0": 731,
+        "x1": 645,
+        "y1": 1235
+      },
+      "text": "It is just as contemptible for a man to go into the grocery business for personal gain as it is for a man to go into the ministry for the sake of the salary.\n\nThere is not a particle of ethical difference in the two callings. The legitimate object of both men is social service. The service of one is advice, inspiration and personal sympathy; the service of the other is fresh eggs and prompt delivery. Thus \"from the blackening of boots to the whitening of souls\" there stretches a chain of services to be done for the comfort and salvation of men.",
+      "status": "ok",
+      "confidence": 0.9769687056541443,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 138,
+        "y0": 1241,
+        "x1": 646,
+        "y1": 1491
+      },
+      "text": "Those who are doing these things are doing holy work, and the work done, not the pay received, is the test of the working. Pay is simply the indication of present human appreciation of the work, but most of the world's best work has been, and is being done, unappreciated.",
+      "status": "ok",
+      "confidence": 0.9750385880470276,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 140,
+        "y0": 1495,
+        "x1": 648,
+        "y1": 1935
+      },
+      "text": "“啊, yes,\" says the cynic, \"but do you expect men will work for the sake of working?\" Yes, I do. That's the reason most men work. Men want work. They love work. Only give them the work they love and they will ask no pay but their own soul's \"Well done!\" True it is that it is difficult to assign to each of the world's workers the work he loves; true it is that much of the world's drudgery will ever be disagreeable; but pay will never destroy inherent distaste, nor (above the starvation",
+      "status": "ok",
+      "confidence": 0.977242648601532,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1151,
+        "y0": 131,
+        "x1": 1186,
+        "y1": 156
+      },
+      "text": "65",
+      "status": "ok",
+      "confidence": 0.8417004346847534,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 678,
+        "y0": 194,
+        "x1": 1186,
+        "y1": 542
+      },
+      "text": "line) will it form a greater incentive than social service, if we were but trained to think so. These things are true, fellow-Americans; therefore, let us, with one accord, attack the bottom lie that supports graft and greed and selfishness and race prejudice: namely, that any decent man has at any time any right to adopt any calling or profession for the sole end of personal gain.",
+      "status": "ok",
+      "confidence": 0.960018515586853,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 679,
+        "y0": 547,
+        "x1": 1188,
+        "y1": 918
+      },
+      "text": "\"Surely,\" gasp the thrifty, \"the first duty of man is to earn a living!\" This means that a man must at least do the world a service such as men, constituted as they are to-day, will requite with the necessities of life. This is true for some men always; perhaps for most men to-day. We pray for some sweet morning when it will be true for all men. But it was not true for Socrates, nor for Jesus Christ.",
+      "status": "ok",
+      "confidence": 0.747860848903656,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 679,
+        "y0": 963,
+        "x1": 1188,
+        "y1": 1159
+      },
+      "text": "HOW do Northern colored people earn a living? There is no economic opening in the North: they are being displaced; starvation faces them.\"",
+      "status": "ok",
+      "confidence": 0.9608554244041443,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 680,
+        "y0": 1163,
+        "x1": 1189,
+        "y1": 1937
+      },
+      "text": "These and other phrases we hear continually. Yet colored people continue to come North. They live in better and better homes, they are better dressed, they are growing in intelligence. How do they earn a living? In ways that many do not dream. Turn, for instance, to your last magazine. See the advertisement of the Aeolian organs and piano players. Marvelous, is it not? Great triumph of white brains and ingenuity. Now if Negroes only—stop! The master mechanic in the Aeolian Organ Company's shops at Garwood, N. J., is Joseph H. Dickinson, a colored man. Turn to your telephone—did you know that a black man's patent is included in the transmitter? Scarcely a locomotive rolls in the United States but by aid of a black man's lubricating device, and only recently Edison paid a colored man $62,000 for an improvement on the phonograph.",
+      "status": "ok",
+      "confidence": 0.976435124874115,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.7,
+    "at": "2026-10-06T21:49:47+00:00"
+  }
+}

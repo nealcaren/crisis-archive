@@ -1,0 +1,281 @@
+{
+  "page": 37,
+  "image": "images/page_37.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 415,
+        "y0": 142,
+        "x1": 886,
+        "y1": 188
+      },
+      "text": "WHAT TO READ",
+      "status": "ok",
+      "confidence": 0.9163130521774292,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 665,
+        "y0": 203,
+        "x1": 1174,
+        "y1": 726
+      },
+      "text": "\"Negro Criminal Statistics.\" R. R. Wright. Jr. The Southern Workman, May.\n\n\"The Congo Free State and Congo Belge.\" Frederick Starr, of the University of Chicago. The Journal of Race Development, published by Clark University, Worcester, Mass., April.\n\n\"The Dismissal of Prof. Banks.\" James W. Garner. Independent, April 27.\n\n\"The Girlhood of Harriet Beecher Stowe.\" Charles Edward and Lyman Beecher Stowe. McClure's, May.\n\n\"The Man Farthest Down: The Man at the Bottom in London,\" and \"The Man Farthest Down: Life and Labor on the Continent.\" Booker T. Washington. Outlook, May 6 and May 13.\n\n\"The Present Situation in the Congo.\" Rev. W. L. Ferguson. The Journal of Race Development, April.",
+      "status": "ok",
+      "confidence": 0.9670807123184204,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 122,
+        "y0": 239,
+        "x1": 630,
+        "y1": 513
+      },
+      "text": "Collier, Price—\"The West in the East from an American Point of View.\" Scribner.\n\nCooney, Dotia Trigg—\"A Study in Ebony.\" Neale. This is the story of a little colored girl who lived in a Mississippi town.\n\nStowe, Charles E. and Lyman Beecher—\"Harriet Beecher Stowe.\" Houghton, Mifflin & Company.",
+      "status": "ok",
+      "confidence": 0.9602714776992798,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 125,
+        "y0": 551,
+        "x1": 632,
+        "y1": 726
+      },
+      "text": "PERIODICALS.\n\"A Question of Character.\" Edgar C. Macmechen. The American Magazine, May.\n\"India's 'Untouchables.'\" Saint Nihal Singh. The Southern Workman, May.",
+      "status": "ok",
+      "confidence": 0.9381476044654846,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 122,
+        "y0": 726,
+        "x1": 632,
+        "y1": 1270
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 326,
+        "y0": 726,
+        "x1": 969,
+        "y1": 1442
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 665,
+        "y0": 726,
+        "x1": 1174,
+        "y1": 1178
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "figure",
+      "bbox": {
+        "x0": 125,
+        "y0": 744,
+        "x1": 1175,
+        "y1": 976
+      },
+      "text": "While at Wilberforce for Commencement, June 12 to 17, Eat at the\n\nBreakfast. 35c\nDinner. 50c\nSupper. 35c\n\nCafé Service\n7:30 to 12 p. m.\nA la Carte\n\nCOLLEGE INN\nRESTAURANT AND LUNCH ROOM\n\nSpecial Hack Line to and from All Trains\n\nYORK & PRUITTE, Props.\nWILBERFORCE, OHIO",
+      "status": "ok",
+      "confidence": 0.35220715403556824,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 665,
+        "y0": 1205,
+        "x1": 1174,
+        "y1": 1442
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 160,
+        "y0": 1231,
+        "x1": 1137,
+        "y1": 1259
+      },
+      "text": "OFFICIAL TOUR FOR DELEGATES FROM THE UNITED STATES VISITING",
+      "status": "ok",
+      "confidence": 0.6116316318511963,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 326,
+        "y0": 1442,
+        "x1": 969,
+        "y1": 1470
+      },
+      "text": "37 DAYS, ALL EXPENSES INCLUDED, $275.00",
+      "status": "ok",
+      "confidence": 0.2705884277820587,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 122,
+        "y0": 1442,
+        "x1": 969,
+        "y1": 1669
+      },
+      "text": "Same trip leaving New York, July 15th, arriving London, July 21st as in above itinerary from London to New York, all expenses inc\n\nThis rate includes steamer passage, going and returning, throughout, good hotels, carriage drives and side trips as stated free allowance of 60 pounds of baggage in addition to usual b ordinary gratuities to hotel servants, porters and guards, and the experienced manager from port of arrival in Europe to departure",
+      "status": "ok",
+      "confidence": 0.23841288685798645,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 326,
+        "y0": 1470,
+        "x1": 969,
+        "y1": 1872
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 665,
+        "y0": 1470,
+        "x1": 1174,
+        "y1": 1669
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 147,
+        "y0": 1479,
+        "x1": 1140,
+        "y1": 2065
+      },
+      "text": "Same trip leaving New York, July 15th, arriving London, July 25th, continue as in above itinerary from London to New York, all expenses included, $175.00\n\nThis rate includes steamer passage, going and returning, railroad fares throughout, good hotels, carriage drives and side trips as stated in itinerary, free allowance of 60 pounds of baggage in addition to usual hand baggage, ordinary gratuities to hotel servants, porters and guards, and the services of an experienced manager from port of arrival in Europe to departure for America.\n\nUnder Management of\n\nTHE PILGRIM TOURS\n\n225 FIFTH AVENUE, NEW YORK CITY\n\nIndorsed by Prof. W. E. Burghardt DuBois, American Co-Secretary of the Congress\n\nMention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7170199751853943,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "title",
+      "bbox": {
+        "x0": 320,
+        "y0": 202,
+        "x1": 432,
+        "y1": 230
+      },
+      "text": "BOOKS.",
+      "status": "ok",
+      "confidence": 0.8806153535842896,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 233,
+        "y0": 1270,
+        "x1": 389,
+        "y1": 1412
+      },
+      "text": "HAVRE\nPARIS\nVERSAILLES\nLUCERNE\nHEIDELBERG\nMAYENCE",
+      "status": "ok",
+      "confidence": 0.3857882022857666,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 555,
+        "y0": 1268,
+        "x1": 699,
+        "y1": 1413
+      },
+      "text": "THE RHINE\nCOLOGNE\nBRUSSELS\nANTWERP\nLONDON\nOXFORD",
+      "status": "ok",
+      "confidence": 0.2556418776512146,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 898,
+        "y0": 1178,
+        "x1": 1135,
+        "y1": 1205
+      },
+      "text": "JULY 26th to 29th",
+      "status": "ok",
+      "confidence": 0.2511826455593109,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.5,
+    "at": "2026-10-06T21:52:00+00:00"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "page": 22,
+  "image": "images/page_22.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1121,
+        "y0": 76,
+        "x1": 1330,
+        "y1": 109
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8842282295227051,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 159,
+        "y0": 84,
+        "x1": 198,
+        "y1": 111
+      },
+      "text": "66",
+      "status": "ok",
+      "confidence": 0.8567342758178711,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 182,
+        "y0": 162,
+        "x1": 1365,
+        "y1": 1878
+      },
+      "text": "Founder of Edward T. Ware-\nAtlanta University\n\nFounder of Erastus M. Gravath-\nFisk University\n\nSamuel C.\nFounder of H\n\nM. E. Stu\nSecretary America",
+      "status": "ok",
+      "confidence": 0.7905626893043518,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.3,
+    "at": "2026-10-06T21:49:53+00:00"
+  }
+}

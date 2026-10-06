@@ -1,0 +1,169 @@
+{
+  "page": 20,
+  "image": "images/page_20.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 170,
+        "y0": 208,
+        "x1": 680,
+        "y1": 614
+      },
+      "text": "England!\" So, too, in the United States: Awful as race prejudice, lawlessness and ignorance are, we can fight them if we frankly face them and dare name them and tell the truth; but if we continually dodge and cloud the issue, and say the half truth because the whole stings and shames; if we do this, we invite catastrophe. Let us then in all charity but unflinching firmness set our faces against all statesmanship that looks in such directions.",
+      "status": "ok",
+      "confidence": 0.9758388996124268,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 716,
+        "y0": 208,
+        "x1": 1232,
+        "y1": 273
+      },
+      "text": "broader and better business enterprises pay.",
+      "status": "ok",
+      "confidence": 0.942748486995697,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 716,
+        "y0": 275,
+        "x1": 1232,
+        "y1": 1023
+      },
+      "text": "What is meant when we say a business pays? Simply this: that for the service rendered or the thing given, the public will to-day pay a valued equivalent in services or goods. Men do this because of their present wants. Given a people wanting certain things and corresponding business enterprises follow. Will this demand continue? That depends: if the satisfaction of these wants minister to the real health and happiness of the community, the demand will continue and grow; if not, eventually either the business or the nation will die. The fact then that a business pays to-day is no criterion for the future. The liquor traffic pays and so does the publishing of school books; houses of prostitution pay and so do homes for renting purposes: and yet alcoholism and prostitution mean death while education and homes mean life to this land.",
+      "status": "ok",
+      "confidence": 0.9793274998664856,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 171,
+        "y0": 678,
+        "x1": 680,
+        "y1": 1040
+      },
+      "text": "THE talented, systematic, hardheaded youth of our nation are put into business. We tell them that the object of business is to make money. Our dull, softheaded, unsystematic youth we let stray into philanthropy to work for the good of men. Then we wonder at our inability to stop stealing. This is the great American paradox.",
+      "status": "ok",
+      "confidence": 0.9754317998886108,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 718,
+        "y0": 1030,
+        "x1": 1236,
+        "y1": 1869
+      },
+      "text": "The amount then that a business pays is no test of its social value. It may pay and yet gradually destroy the larger part of all business enterprise. Here enters philanthropy. Its object is to do for men not what they want done, but that which, for their own health, they ought to want done. Will such service pay? Possibly it will: possibly the people will want the service as soon as they learn of it and lo! \"Philanthropy and five per cent.\" appears. More often, however, the people do not recognize the value of the new thing—do not want it; will not use baths or have anything to do with coffee rooms. Will they pay, then? If they perform a service necessary to human welfare and if the people are gradually learning what is really for their good, then sometimes such philanthropy pays. If it does not pay then the service offered was really unnecessary or the people to whom it was offered have ceased to advance toward betterment and are in danger of death.",
+      "status": "ok",
+      "confidence": 0.9786933660507202,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 1046,
+        "x1": 683,
+        "y1": 1573
+      },
+      "text": "Small wonder that we see in our world two armies: one large and successful, well dressed and prosperous. They say bluntly: \"We are not in business for our health-business pays!\" The other army is seedy and diffident and usually apologetic. It says: \"There are things that ought to be done, and we are trying to do them-philanthropy begs.\" Between the business men, pure and simple, and the professional philanthropists waver the world's hosts-physicians, lawyers, teachers, and servants, some regarding their work as philanthropy, most of them looking at it as business and testing its success by its pay.",
+      "status": "ok",
+      "confidence": 0.9795727133750916,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 174,
+        "y0": 1651,
+        "x1": 686,
+        "y1": 1967
+      },
+      "text": "Business is reality, philanthropy is dream: business first, philanthropy afterward—is this true? No, it is not. It is the foundation falsehood of our perverted social order. In reality it is business enterprise that continually tends to defeat its own ability to pay and it is philanthropy that works to preserve a social order that will make the larger and",
+      "status": "ok",
+      "confidence": 0.9646004438400269,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 720,
+        "y0": 1873,
+        "x1": 1235,
+        "y1": 1966
+      },
+      "text": "The test, then, of business is philanthropy; that is, the question as to how far business enterprise is doing",
+      "status": "ok",
+      "confidence": 0.9571543335914612,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "abandon",
+      "bbox": {
+        "x0": 169,
+        "y0": 141,
+        "x1": 205,
+        "y1": 167
+      },
+      "text": "64",
+      "status": "ok",
+      "confidence": 0.8385496735572815,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 205,
+        "y0": 1578,
+        "x1": 454,
+        "y1": 1648
+      },
+      "text": "Business pays.\nPhilanthropy begs.",
+      "status": "ok",
+      "confidence": 0.8909387588500977,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 583,
+        "y0": 139,
+        "x1": 794,
+        "y1": 172
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.7980861067771912,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.8,
+    "at": "2026-10-06T21:49:39+00:00"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "page": 25,
+  "image": "images/page_25.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 108,
+        "y0": 126,
+        "x1": 1171,
+        "y1": 549
+      },
+      "text": "Harriet Beecher Stowe's Personal Knowledge of the Negro Character\nBy CHARLES EDWARD STOWE\n\nIf \"Uncle Tom's Cabin\" was not true in minute particulars to plantation life, it was true to human nature in its great basilar fact that its organic elements are the same under a white or a black skin. as if it had been a plantation with seven hundred hands on it. She had lived through the whole sad history of a Virginia-raised slave's life. In her youth she must have been a very handsome",
+      "status": "ok",
+      "confidence": 0.9418869614601135,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 123,
+        "y0": 549,
+        "x1": 626,
+        "y1": 670
+      },
+      "text": "Among the fondest recollections of Mrs. Stowe's childhood were the colored servants of her father's New England home, Zillah and Rachel and old Aunt Candace.",
+      "status": "ok",
+      "confidence": 0.9246100783348083,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 124,
+        "y0": 671,
+        "x1": 628,
+        "y1": 889
+      },
+      "text": "When she was a very little child, between five and six, her mother died, and she thus describes the way in which Aunt Candace comforted her: \"Even our portly old black washerwoman, Candace, who came once a week to help off the great family wash, would draw us aside, and, with tears in her eyes, tell us of the saintly virtues of our mother.",
+      "status": "ok",
+      "confidence": 0.97378009557724,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 124,
+        "y0": 891,
+        "x1": 630,
+        "y1": 1375
+      },
+      "text": "\"Her feelings were sometimes expressed in a manner that was truly touching. I remember her coming one time to wash when the family were assembled for prayers in the next room, and I, for some reason, had lingered in the kitchen. She drew me toward her and held me quite still till the exercises were over, and then she kissed my hand, and I felt the tears drop upon it. There was something about her feeling that struck me with awe. She scarcely spoke a word, but gave me to understand that she was paying that homage to my mother's memory.\"\n\nImmediately after the publication of \"Uncle Tom's Cabin\" she wrote to Mrs. Follen, in England, of her experiences with the Negroes near her Cincinnati home.",
+      "status": "ok",
+      "confidence": 0.9766910672187805,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 126,
+        "y0": 1375,
+        "x1": 631,
+        "y1": 1715
+      },
+      "text": "\"If anyone wishes to have a black face look handsome let them be left, as I have been, with a sick baby in the arms and one or two other little ones in the nursery, and not a servant in the house to do a single turn. Then, if they could see my good old Aunt Frankie coming with her honest, bluff, black face; her long, strong arms; her chest as big and stout as a barrel, and her hilarious hearty laugh, perfectly delighted to take one's washing and do it at a fair price, they would appreciate the beauty of black people.",
+      "status": "ok",
+      "confidence": 0.9765623211860657,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 124,
+        "y0": 1715,
+        "x1": 633,
+        "y1": 1864
+      },
+      "text": "\"My cook, poor Eliza Buck—how she would stare to think of her name going to England!—was a regular epitome of slave life in herself; fat, gentle, easy, loving and lovable, always calling my very modest house and dooryard 'The Place,'",
+      "status": "ok",
+      "confidence": 0.9687775373458862,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 662,
+        "y0": 425,
+        "x1": 1168,
+        "y1": 574
+      },
+      "text": "as if it had been a plantation with seven hundred hands on it. She had lived through the whole sad history of a Virginia-raised slave's life. In her youth she must have been a very handsome mulatto girl.",
+      "status": "ok",
+      "confidence": 0.967139482498169,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 662,
+        "y0": 576,
+        "x1": 1168,
+        "y1": 841
+      },
+      "text": "\"Her voice was sweet, her manners refined and agreeable. She was raised in a good family as a nurse and seamstress. When the family became suddenly financially embarrassed, she was sold onto a plantation in Louisiana. She has often told me how, without any warning, she was suddenly forced into a carriage, and heard her little mistress screaming and stretching her hands toward her as she was driven away.",
+      "status": "ok",
+      "confidence": 0.9774417877197266,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 665,
+        "y0": 843,
+        "x1": 1170,
+        "y1": 1494
+      },
+      "text": "\"She told me of scenes on the Louisiana plantation and how she had often been out by stealth at night to minister to poor slaves who had been macerated and mangled by the lash. She was then sold into Kentucky, and her last master was the father of all her children. On this last point she always maintained a delicacy and reserve that seemed to me remarkable. She always called him her husband, and it was not till she had lived with me for some years that I discovered the true nature of the connection. I shall never forget how sorry I felt for her nor my feelings at her humble apology, 'You know, Mrs. Stowe, slave women cannot help themselves.' She had two very pretty quadroon daughters, with her beautiful hair and eyes; interesting children, whom I had instructed in our family school with my own children. Time would fail me to tell you all I learned incidentally of the slave-system in the history of various slaves who came into my family, and of the Underground Railroad which, I may say, ran through our house.\"",
+      "status": "ok",
+      "confidence": 0.9794369339942932,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 668,
+        "y0": 1496,
+        "x1": 1173,
+        "y1": 1863
+      },
+      "text": "In a letter to Frederick Douglass Mrs. Stowe tells of her earliest impressions of slavery. \"I was a child in 1820 when the Missouri question was agitated, and one of the strongest and deepest impressions on my mind was that made by my father's sermons and prayers, and the anguish of his soul for the poor slave at that time. I remember his preaching drawing tears down the faces of the hardest old farmers in his congregation. I well remember his prayers in the family for 'poor, oppressed, bleeding Africa' that the time of her deliverance might come; prayers offered with strong cry-",
+      "status": "ok",
+      "confidence": 0.9761709570884705,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.3,
+    "at": "2026-10-06T21:50:14+00:00"
+  }
+}

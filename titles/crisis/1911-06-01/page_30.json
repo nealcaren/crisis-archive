@@ -1,0 +1,225 @@
+{
+  "page": 30,
+  "image": "images/page_30.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 455,
+        "y0": 156,
+        "x1": 968,
+        "y1": 816
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "figure",
+      "bbox": {
+        "x0": 187,
+        "y0": 205,
+        "x1": 1245,
+        "y1": 799
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9735296368598938,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 483,
+        "y0": 816,
+        "x1": 941,
+        "y1": 841
+      },
+      "text": "SUMNER HIGH SCHOOL, ST. LOUIS, MO.",
+      "status": "ok",
+      "confidence": 0.42804017663002014,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 188,
+        "y0": 877,
+        "x1": 695,
+        "y1": 1101
+      },
+      "text": "12,796 in private schools, a total of more than 20,000 receiving high-school education. The limited number of public high schools is a matter of grave concern, for the public high school is the people's college. Until each county in each State establishes separately or jointly with other counties a public school of secondary grade, the education and develop-",
+      "status": "ok",
+      "confidence": 0.9778513312339783,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 731,
+        "y0": 878,
+        "x1": 1245,
+        "y1": 1101
+      },
+      "text": "ment of the people are bound to suffer. For example, in the whole State of Maryland, with a colored population of 250,000 in round numbers, there is only one colored public high school. The 170,000 colored people living outside of Baltimore must either move to Baltimore and pay tuition, or do without a public highschool course.",
+      "status": "ok",
+      "confidence": 0.9779380559921265,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 188,
+        "y0": 1101,
+        "x1": 695,
+        "y1": 1915
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 455,
+        "y0": 1101,
+        "x1": 968,
+        "y1": 1915
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 731,
+        "y0": 1101,
+        "x1": 1245,
+        "y1": 1915
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "figure",
+      "bbox": {
+        "x0": 188,
+        "y0": 1159,
+        "x1": 1244,
+        "y1": 1906
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9742334485054016,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 455,
+        "y0": 1915,
+        "x1": 968,
+        "y1": 1940
+      },
+      "text": "COLORED HIGH SCHOOL, BALTIMORE, MD.",
+      "status": "ok",
+      "confidence": 0.4049370586872101,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 188,
+        "y0": 1940,
+        "x1": 695,
+        "y1": 2065
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 455,
+        "y0": 1940,
+        "x1": 968,
+        "y1": 2065
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 731,
+        "y0": 1940,
+        "x1": 1245,
+        "y1": 2065
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 188,
+        "y0": 126,
+        "x1": 223,
+        "y1": 153
+      },
+      "text": "74",
+      "status": "ok",
+      "confidence": 0.801590621471405,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "abandon",
+      "bbox": {
+        "x0": 599,
+        "y0": 125,
+        "x1": 807,
+        "y1": 156
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8709949254989624,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.7,
+    "at": "2026-10-06T21:50:54+00:00"
+  }
+}

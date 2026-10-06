@@ -1,0 +1,281 @@
+{
+  "page": 42,
+  "image": "images/page_42.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 478,
+        "y0": 133,
+        "x1": 938,
+        "y1": 168
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.818803608417511,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 686,
+        "y0": 198,
+        "x1": 1245,
+        "y1": 317
+      },
+      "text": "FORWARD!\nMarch Your Son Off to Wilberforce",
+      "status": "ok",
+      "confidence": 0.8596726059913635,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 195,
+        "y0": 216,
+        "x1": 588,
+        "y1": 995
+      },
+      "text": "",
+      "status": "error",
+      "confidence": 0.9432610273361206,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 686,
+        "y0": 348,
+        "x1": 1242,
+        "y1": 490
+      },
+      "text": "The only school for Negro Youth which has a Military Department equipped by the National Government and commanded by a detailed United States Army Officer.",
+      "status": "ok",
+      "confidence": 0.970418393611908,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 684,
+        "y0": 524,
+        "x1": 1237,
+        "y1": 674
+      },
+      "text": "DEPARTMENTS:\nMILITARY CLASSICAL THEOLOGICAL\nNORMAL SCIENTIFIC MUSICAL\nBUSINESS TECHNICAL PREPARATORY",
+      "status": "ok",
+      "confidence": 0.8985030651092529,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 686,
+        "y0": 706,
+        "x1": 1240,
+        "y1": 918
+      },
+      "text": "Banking taught by the actual operations in the Students' Savings Bank. Twelve Industries, 180 acres of beautiful campus, Ten Buildings. Healthful surroundings, exceptional community. Maintained in part by the State of Ohio.",
+      "status": "ok",
+      "confidence": 0.9776865243911743,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 686,
+        "y0": 950,
+        "x1": 1237,
+        "y1": 1023
+      },
+      "text": "W. S. SCARBOROUGH, President.\nWM. A. JOINER, Superintendent, C. N. & I.",
+      "status": "ok",
+      "confidence": 0.8874107599258423,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 185,
+        "y0": 995,
+        "x1": 684,
+        "y1": 1308
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 478,
+        "y0": 1023,
+        "x1": 1245,
+        "y1": 1246
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 179,
+        "y0": 1058,
+        "x1": 1241,
+        "y1": 1273
+      },
+      "text": "CRISIS PRINTS\nReproduced on heavy paper, suitable for framing, 50 cents each.\nCover illustration, April number, 7x9 inches, Two-page photograph, May number, 10x13 inches, \"Girl Reading.\"\nCover illustration, May number, 7x9 inches, Cover illustration, June number, 7x9 inches, \"Bishop Holly.\"\n\"One of the Little Ones.\"\n\nAddress Art Editor of THE CRISIS\n20 VESEY STREET Room 311 NEW YORK CITY",
+      "status": "ok",
+      "confidence": 0.8968669176101685,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 719,
+        "y0": 1246,
+        "x1": 1241,
+        "y1": 1787
+      },
+      "text": "Your Carpet Needs Cleaning!\nLet the NEW YORK CAREFUL\nCLEANING BUREAU Do It\nWe Clean and Renovate for Particular People—\nfrom a Rug to a House—by the Vacuum System.\nLet us give you a Clean House for\nthe year 1911\n'Phone 3253 Harlem. 12 West 135th Street\n\nTELEPHONE 5277 MORNING'SIDE\n\nDr. Gertrude E. Curtis\n471 Lenox Avenue, New York City\n\nSURGEON\nDENTIST",
+      "status": "ok",
+      "confidence": 0.7572657465934753,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "figure",
+      "bbox": {
+        "x0": 185,
+        "y0": 1308,
+        "x1": 684,
+        "y1": 1575
+      },
+      "text": "",
+      "status": "error",
+      "confidence": 0.40571653842926025,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 210,
+        "y0": 1590,
+        "x1": 603,
+        "y1": 1822
+      },
+      "text": "No. 4 Special Buggy\n$65.00\nA value unequaled. Sold on\n$1.00 Profit Margin. Write\nfor prices and other styles.\nSend for catalog.",
+      "status": "ok",
+      "confidence": 0.7623966336250305,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 478,
+        "y0": 1679,
+        "x1": 1245,
+        "y1": 1924
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 724,
+        "y0": 1820,
+        "x1": 866,
+        "y1": 1898
+      },
+      "text": "Office Hours:\n9-12 a. m.\n2-9 p. m.",
+      "status": "ok",
+      "confidence": 0.8312872648239136,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 722,
+        "y0": 1821,
+        "x1": 1239,
+        "y1": 1977
+      },
+      "text": "Office Hours: Bellevue Dental Clinic\n9-12 a. m. Mondays from\n2-9 p. m. 2 to 5 p. m.\n\nSUNDAYS BY APPOINTMENT\nWOMEN'S and CHILDREN'S WORK A SPECIALTY",
+      "status": "ok",
+      "confidence": 0.43602633476257324,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 185,
+        "y0": 1841,
+        "x1": 684,
+        "y1": 2065
+      },
+      "text": "C.R. Patterson & Sons\nGREENFIELD, OHIO\nLargest Negro carriage concern in the United States\nMention",
+      "status": "ok",
+      "confidence": 0.8372883796691895,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "abandon",
+      "bbox": {
+        "x0": 591,
+        "y0": 1980,
+        "x1": 822,
+        "y1": 2005
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.44255179166793823,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "abandon",
+      "bbox": {
+        "x0": 176,
+        "y0": 137,
+        "x1": 214,
+        "y1": 165
+      },
+      "text": "86",
+      "status": "ok",
+      "confidence": 0.8162631392478943,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.5,
+    "at": "2026-10-06T21:52:52+00:00"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "title": "The Crisis",
+  "publisher": "National Association for the Advancement of Colored People",
+  "place": "New York",
+  "sections": [
+    {
+      "name": "Along the Color Line",
+      "type": "news",
+      "era": "1910-1911"
+    },
+    {
+      "name": "Opinion",
+      "type": "editorial",
+      "era": "1910-1911"
+    },
+    {
+      "name": "Editorial",
+      "type": "editorial",
+      "era": "1910-1911"
+    },
+    {
+      "name": "The N. A. A. C. P.",
+      "type": "department",
+      "era": "1910-1911"
+    },
+    {
+      "name": "The Burden",
+      "type": "department",
+      "era": "1910-1911"
+    },
+    {
+      "name": "What to Read",
+      "type": "department",
+      "era": "1910-1911"
+    },
+    {
+      "name": "Educational Directory",
+      "type": "notice",
+      "era": "1911"
+    },
+    {
+      "name": "Letters",
+      "type": "letter",
+      "era": "1910-1911"
+    },
+    {
+      "name": "Foreign Comment",
+      "type": "editorial",
+      "era": "1910"
+    }
+  ],
+  "columns": [
+    {
+      "title": "Talks About Women",
+      "author": "Mrs. John E. Milholland",
+      "era": "1910"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "W. E. Burghardt Du Bois",
+      "role": "editor",
+      "aka": [
+        "Dr. W. E. B. DuBois",
+        "W. E. BURGHARD",
+        "W. E. BURGHARDT DU BOIS",
+        "W. E. Burghardt DuBois"
+      ],
+      "era": "1910-1911"
+    },
+    {
+      "name": "Oswald Garrison Villard",
+      "role": "associate editor",
+      "aka": [
+        "Garrison Villard",
+        "Oswald Garrison"
+      ],
+      "era": "1910-1911"
+    },
+    {
+      "name": "J. Max Barber",
+      "role": "associate editor",
+      "aka": [
+        "J. M"
+      ],
+      "era": "1910-1911"
+    },
+    {
+      "name": "Charles Edward Russell",
+      "role": "associate editor",
+      "aka": [
+        "CHARLES EDWARD RUSSELL",
+        "Charles Edw",
+        "Charles Edwa"
+      ],
+      "era": "1910-1911"
+    },
+    {
+      "name": "Kelly Miller",
+      "role": "associate editor",
+      "aka": [
+        "Kel Lly Miller"
+      ],
+      "era": "1910-1911"
+    },
+    {
+      "name": "William Stanley Braithwaite",
+      "role": "associate editor",
+      "aka": [
+        "W. S. Braithwaite",
+        "WILLIAM STANLEY BRAITHWAITE"
+      ],
+      "era": "1910-1911"
+    },
+    {
+      "name": "Mary Dunlop Maclean",
+      "role": "associate editor",
+      "aka": [
+        "M. D. Maclean"
+      ],
+      "era": "1910-1911"
+    },
+    {
+      "name": "Moorfield Storey",
+      "role": "officer",
+      "aka": [
+        "Mr. Moorfield Storey"
+      ],
+      "era": "1910"
+    },
+    {
+      "name": "William English Walling",
+      "role": "officer",
+      "aka": [
+        "Mr. Wm. English Walling"
+      ],
+      "era": "1910"
+    },
+    {
+      "name": "John E. Milholland",
+      "role": "officer",
+      "aka": [
+        "Mr. John E. Milholland"
+      ],
+      "era": "1910"
+    },
+    {
+      "name": "Mrs. John E. Milholland",
+      "role": "contributor",
+      "aka": [
+        "Mrs. JOHN E. MILHOLLAND"
+      ],
+      "era": "1911"
+    }
+  ],
+  "organizations": [
+    "American Baptist Home Mission Society",
+    "American Federation of Labor",
+    "American Negro Academy",
+    "American Negro Monographs Co.",
+    "Atlanta University",
+    "Columbia University",
+    "Frederick Douglass Memorial Hospital and Training School",
+    "Howard University",
+    "Inter-Parliamentary Union",
+    "Interdenominational Ministers' Union",
+    "Metropolitan Mercantile and Realty Company",
+    "National Association for the Advancement of Colored People",
+    "National Association of Colored Women",
+    "National Negro Business League",
+    "Southern Land and Development Company",
+    "Sumner National Tuberculosis Association",
+    "Universal Races Congress",
+    "Washington Conservatory of Music and School of Expression",
+    "Young Women's Christian Association"
+  ],
+  "ad_categories": [
+    "agricultural commission merchants",
+    "automobile instruction",
+    "books and publishers",
+    "colleges and universities",
+    "dentists and opticians",
+    "education and music schools",
+    "employment agencies",
+    "hospitals and sanitariums",
+    "hotels and restaurants",
+    "household cleaning products",
+    "insurance",
+    "manufacturers",
+    "pharmacies and drugstores",
+    "printing and stationery",
+    "real estate",
+    "sewing machines",
+    "trade and vocational schools",
+    "travel and tourism",
+    "typewriters and office supplies"
+  ],
+  "languages": [
+    "English",
+    "French"
+  ],
+  "notes": [
+    "Running heads (THE CRISIS, THE CRISIS ADVERTISER, a section name repeated at the top of a page) and page numbers are never articles.",
+    "Along the Color Line is a department of short news items grouped under small-caps subheads such as POLITICAL, EDUCATION, THE CHURCH, ECONOMIC, SOCIAL UPLIFT, ORGANIZATIONS AND MEETINGS, SCIENCE, ART, JUDICIAL DECISIONS. Each news paragraph is its own article; the subhead is its section, not an article. Never merge items from two different subheads into one article.",
+    "Opinion is a run of quotations from other newspapers and magazines, usually introduced by the source's name (\"The Boston Transcript says:\"). Each quotation is a separate article, with the quoted paper as its source; never make a whole Opinion page one article. Foreign Comment works the same way.",
+    "Editorial (by Du Bois) is a series of short editorials, each starting under its own capitalized heading (SEGREGATION., VOTING., THE GHETTO). Each heading starts a new article that runs until the next heading, across a page break if needed.",
+    "Letters: each letter is a separate article. A heading such as FROM DUTCH WORKINGMEN. or FROM A SOUTHERN WHITE MAN. starts a letter, and everything after it up to the next heading, including a quoted motion or resolution, belongs to that letter.",
+    "Signed feature articles (e.g. THE REAL RACE PROBLEM by Franz Boas) run across several pages; the title repeated as a running head on later pages continues the same article, it does not start a new one."
+  ],
+  "ocr_fixes": {
+    "Charles Edw": "Charles Edward Russell",
+    "Conde Nash": "Condé Nast",
+    "DON": "London",
+    "EL MARSHALL": "COLONEL MARSHALL",
+    "GNE": "Cologne",
+    "Kel Lly Miller": "Kelly Miller",
+    "Morningkside": "Morningside",
+    "NERP": "Antwerp",
+    "ORD": "Oxford",
+    "SSELS": "Brussels",
+    "Touissant": "Toussaint",
+    "W. E. BURGHAR": "W. E. Burghardt Du Bois"
+  },
+  "drafted": {
+    "by": "paperpress profile",
+    "model": "google/gemini-3.8-flash",
+    "issues": [
+      "1910-11-01",
+      "1910-12-01",
+      "1911-01-01",
+      "1911-03-01",
+      "1911-04-01",
+      "1911-05-01"
+    ],
+    "at": "2026-10-06T21:50:01+00:00",
+    "review": "A draft from OCR and an LLM: check names and spellings, delete what's wrong, add what you know."
+  }
+}

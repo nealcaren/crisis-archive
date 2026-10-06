@@ -1,0 +1,113 @@
+{
+  "page": 43,
+  "image": "images/page_43.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 37,
+        "y0": 87,
+        "x1": 1050,
+        "y1": 359
+      },
+      "text": "PEOPLE WHO READ",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 971,
+        "y0": 90,
+        "x1": 1219,
+        "y1": 1941
+      },
+      "text": "s an\nour\nSING\nG E R\nork",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 205,
+        "y0": 244,
+        "x1": 1052,
+        "y1": 500
+      },
+      "text": "PEOPLE WHO READ\nTHE CRISIS",
+      "status": "ok",
+      "confidence": 0.8455137014389038,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure",
+      "bbox": {
+        "x0": 286,
+        "y0": 549,
+        "x1": 965,
+        "y1": 765
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.8272639513015747,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 325,
+        "y0": 801,
+        "x1": 925,
+        "y1": 882
+      },
+      "text": "Find it intensely interesting because it is different from the ordinary.",
+      "status": "ok",
+      "confidence": 0.9294251799583435,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 324,
+        "y0": 934,
+        "x1": 923,
+        "y1": 1365
+      },
+      "text": "When a magazine is so interesting that the reader says \"I was sorry because there was no more to read\" it is very valuable as an advertising medium, because, when \"there is no more to read,\" the advertisements are invariably read with the same zest and enthusiasm as the reading matter.\n\nAdvertisements read in this frame of mind always leave an after-thought and are more likely to \"make the sale.\"",
+      "status": "ok",
+      "confidence": 0.9673808217048645,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 25,
+        "y0": 1424,
+        "x1": 1050,
+        "y1": 1940
+      },
+      "text": "Let us tell you WHY the CRISIS is different as an advertising medium.\n\nLet us tell you HOW we co-operate with our advertisers.\n\nALBON L. HOLSEY, ADVERTISING MANAGER\n\nAddress: Room 311, 20 Vesey Street, New York",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.8,
+    "at": "2026-10-06T21:52:57+00:00"
+  }
+}

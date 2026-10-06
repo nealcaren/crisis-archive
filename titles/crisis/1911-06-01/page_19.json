@@ -1,0 +1,127 @@
+{
+  "page": 19,
+  "image": "images/page_19.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 567,
+        "y0": 142,
+        "x1": 753,
+        "y1": 173
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.6727550029754639,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 132,
+        "y0": 208,
+        "x1": 642,
+        "y1": 763
+      },
+      "text": "is in the current Outlook and is to the effect that Mr. John E. Milholland and \"certain members of my own race in the North have objected because they said I did not paint conditions in the South black enough. I have never denied that the Negro in the South frequently meets with wrong and injustice, but he does not starve.\" And he quotes facts to show that there is actual starvation in London. This argument reduces itself to several propositions: I. It is not well to tell the whole story of wrong and injustice in the South, but rather one should emphasize the better aspects.",
+      "status": "ok",
+      "confidence": 0.9759237170219421,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 133,
+        "y0": 765,
+        "x1": 642,
+        "y1": 948
+      },
+      "text": "II. Starvation is worse than other kinds of wrong and injustice.\nIII. Because there are persons starving in England, neither England nor black men in America ought to harp on America's injustice.",
+      "status": "ok",
+      "confidence": 0.9591574668884277,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 134,
+        "y0": 953,
+        "x1": 642,
+        "y1": 1410
+      },
+      "text": "The last two propositions are matters of opinion and taste; but the first proposition has been the keynote of Mr. Washington's propaganda for the last fifteen years. It has, however, been ineffective in practice and logically dangerous. It is ineffective in practice because under its aegis—under the silence, the absence of criticism, the kindly sentiments and widespread complacency, we have seen grow up in the South a caste system which threatens the foundations of democracy, and a lawlessness which threatens all government.",
+      "status": "ok",
+      "confidence": 0.9786705374717712,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 129,
+        "y0": 1417,
+        "x1": 639,
+        "y1": 1947
+      },
+      "text": "We have seen wholesale disfranchisement of colored voters, color caste carried to the point of positive cruelty, the rule of the mob and the lynching of 2,000 men without legal trial, growing discrimination in schools, travel, and public conveniences, and an openly declared determination to stop the development of millions of men at the dead line of color.\n\nTo offset this Mr. Washington has a right to point to increased accumulation of property among Negroes and increased numbers of intelligent and forceful black folk. But what has been the result of this? It has been",
+      "status": "ok",
+      "confidence": 0.978585958480835,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1150,
+        "y0": 144,
+        "x1": 1186,
+        "y1": 170
+      },
+      "text": "63",
+      "status": "ok",
+      "confidence": 0.8371074199676514,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 677,
+        "y0": 208,
+        "x1": 1184,
+        "y1": 824
+      },
+      "text": "an intensified prejudice as shown in the new Ghetto laws, the strikes against black workers, spread of civil discrimination, and the crystallization of the disfranchising sentiment. How any intelligent American can calmly and without hysteria or prejudice look on the development of the Negro problem in the United States in the last ten years and say that race and color prejudice has decreased, South or North, or shows reasonable signs of abating in the near future, passes our comprehension. And yet Mr. Washington is reported to have said at the recent Unitarian dinner that \"Prejudice still exists, but it is not so bitter as it was,\" and that the South is an example of the overcoming of race prejudice.",
+      "status": "ok",
+      "confidence": 0.9782821536064148,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 675,
+        "y0": 828,
+        "x1": 1183,
+        "y1": 1945
+      },
+      "text": "Why now does Mr. Washington persist in making from time to time statements of this kind? It is, we believe, because of a dangerous logical fallacy into which Mr. Washington and his supporters fall. They assume that the truth—the real facts concerning a social situation at any particular time—is of less importance than the people's feeling concerning those facts. There could be no more dangerous social pragmatism. Its basic assumption is that the facts are in reality known, while its whole action prevents the facts from being known. It is a self-contradictory and deceptive position and it has historically led to social damnation in thousands of awful cases. Even where its complacent ignorance has accidentally evolved into good, the good came not because of it but in spite of it. Just here it is that Mr. Washington utterly fails in his English comparisons: It is not starvation that civilization need fear, if civilization faces the awful fact and calls it starvation, knows its gaunt and threatening shape and says with Lloyd-George, We will stop it if we shake the economic foundations of the empire. But the starvation which the world and Mr. Washington would do well to fear is that which blinds its eyes to stalking misery in the East End and cries, \"Lo! the Power of",
+      "status": "ok",
+      "confidence": 0.9720056653022766,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.5,
+    "at": "2026-10-06T21:49:30+00:00"
+  }
+}
