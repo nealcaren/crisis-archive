@@ -1,0 +1,231 @@
+{
+ "page": 20,
+ "image": "images/page_20.jpg",
+ "width": 1074,
+ "height": 1576,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.8,
+  "at": "2026-10-06T21:04:01+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 513,
+    "y0": 86,
+    "x1": 666,
+    "y1": 108
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8614439964294434,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 511,
+    "y0": 83,
+    "x1": 664,
+    "y1": 108
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 177,
+    "y0": 85,
+    "x1": 205,
+    "y1": 107
+   },
+   "text": "20",
+   "status": "ok",
+   "confidence": 0.8427185416221619,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 176,
+    "y0": 84,
+    "x1": 204,
+    "y1": 105
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 176,
+    "y0": 138,
+    "x1": 577,
+    "y1": 568
+   },
+   "text": "happening in Atlanta. Atlanta needs public elementary schools, but it does not need more private schools. The existing schools are equipped for excellent work in industries, agriculture, college training and some professional work. With adequate help and endowment they could do splendid work. Because, however, one man deservedly lost his job at one of these great schools, he is attempting to found a new school in Atlanta and unnecessarily duplicate this work. Soon he will appear in New York asking funds, and without investigation or thought many will give. When they find their efforts wasted the deserving schools will suffer.",
+   "status": "ok",
+   "confidence": 0.9724133014678955,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 176,
+    "y0": 136,
+    "x1": 574,
+    "y1": 568
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 173,
+    "y0": 571,
+    "x1": 573,
+    "y1": 902
+   },
+   "text": "There is crying need of an impartial, thoroughly reliable directory of educational and philanthropic effort among Negroes, a central information bureau on broad lines, with maps and figures at command which could furnish unbiased facts. The National Association for the Advancement of Colored People is ready to undertake such a work immediately on a small scale, and to expand it whenever it can get the necessary support. THE OLD STORY.",
+   "status": "ok",
+   "confidence": 0.9769654273986816,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 570,
+    "x1": 570,
+    "y1": 902
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 168,
+    "y0": 903,
+    "x1": 571,
+    "y1": 1505
+   },
+   "text": "THERE is without doubt a large criminal and semi-criminal class among colored people. This is but another way of saying that the social uplift of a group of freedmen is a serious task. But it is also true, and painfully true, that the crime imputed carelessly and recklessly against colored people gives an impression of far greater criminality than the facts warrant. Take, for instance, a typical case: A little innocent schoolgirl is brutally murdered in New Jersey. A Negro vagabond is arrested. Immediately the news is heralded from East to West, from North to South, in Europe and Asia, of the crime of this black murderer. Immediately a frenzied, hysterical mob gathers and attempts to lynch the poor wretch. He is spirited away and the public is almost sorry that he has escaped summary justice. Without counsel or friends, the man is shut up in prison",
+   "status": "ok",
+   "confidence": 0.9779946208000183,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 170,
+    "y0": 901,
+    "x1": 568,
+    "y1": 1501
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 602,
+    "y0": 136,
+    "x1": 1005,
+    "y1": 257
+   },
+   "text": "and tortured to make him confess. \"They did pretty near everything to me except kill me,\" whispered the wretched man to the first friend he saw.",
+   "status": "ok",
+   "confidence": 0.9688041806221008,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 600,
+    "y0": 135,
+    "x1": 1002,
+    "y1": 256
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 598,
+    "y0": 257,
+    "x1": 1003,
+    "y1": 955
+   },
+   "text": "Finally, after the whole black race in America had suffered aspersion for several weeks, sense begins to dawn in Jersey. After all, what proof was there against this man? He was lazy, he had been in jail for alleged theft from gypsies, he was good natured, and he drank whiskey. That was all. Yet he stayed in jail under no charge and under universal censure. The coroner's jury found no evidence to indict him. Still he lay in jail. Finally the National Association for the Advancement of Colored People stepped in and said, \"What are you holding this man for?\" The Public Prosecutor got red in the face and vociferated. Then he went downtown, and when the habcas corpus proceedings came and the judge asked again: \"Why are you holding this man?\" the prosecutor said chirpily, \"For violating election laws,\" and brought a mass of testimony. Then the judge discharged the prisoner from the murder charge and congratulated the National Association for the Advancement of Colored People—but the man is still in jail.",
+   "status": "ok",
+   "confidence": 0.9739025235176086,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 598,
+    "y0": 259,
+    "x1": 1000,
+    "y1": 951
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 596,
+    "y0": 953,
+    "x1": 998,
+    "y1": 1099
+   },
+   "text": "Such justice is outrageous and such methods disgraceful. Black folk are willing to shoulder their own sins, but the difference between a vagabond and a murderer is too tremendous to be lightly ignored.",
+   "status": "ok",
+   "confidence": 0.972061038017273,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 595,
+    "y0": 953,
+    "x1": 996,
+    "y1": 1096
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "title",
+   "bbox": {
+    "x0": 594,
+    "y0": 1131,
+    "x1": 997,
+    "y1": 1499
+   },
+   "text": "A T last we have a definition of the very elusive phrase \"Social Equality\" as applied to the Negro problem. In stating their grievances colored people have recently specified these points:\n1. Disfranchisement, even of educated Negroes.\n2. Curtailment of common school training.\n3. Confinement to \"Ghettos.\"\n4. Discrimination in wages.\n5. Confinement to menial employment.",
+   "status": "ok",
+   "confidence": 0.8312395215034485,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 592,
+    "y0": 1127,
+    "x1": 995,
+    "y1": 1501
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.11,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

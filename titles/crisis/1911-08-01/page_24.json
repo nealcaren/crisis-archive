@@ -1,0 +1,71 @@
+{
+  "page": 24,
+  "image": "images/page_24.jpg",
+  "width": 1365,
+  "height": 2066,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 584,
+        "y0": 124,
+        "x1": 794,
+        "y1": 158
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8608989715576172,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 174,
+        "y0": 127,
+        "x1": 225,
+        "y1": 158
+      },
+      "text": "156",
+      "status": "ok",
+      "confidence": 0.8536238074302673,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 150,
+        "y0": 253,
+        "x1": 1239,
+        "y1": 1633
+      },
+      "text": "John Henry Adams",
+      "status": "ok",
+      "confidence": 0.9673639535903931,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 169,
+        "y0": 1692,
+        "x1": 1229,
+        "y1": 1934
+      },
+      "text": "\"I believe that all men, black and brown and white, are brothers, varying through time and opportunity, in form and gift and feature, but differing in no essential particular, and alike in soul and in the possibility of infinite development.\"",
+      "status": "ok",
+      "confidence": 0.9735738039016724,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 4.2,
+    "at": "2026-10-06T22:12:59+00:00"
+  }
+}

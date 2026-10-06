@@ -1,0 +1,274 @@
+{
+ "page": 6,
+ "image": "images/page_06.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 4.5,
+  "at": "2026-10-06T21:56:55+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 407,
+    "y0": 96,
+    "x1": 765,
+    "y1": 119
+   },
+   "text": "THE CRISIS ADVERTISER",
+   "status": "ok",
+   "confidence": 0.8295853734016418,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 404,
+    "y0": 93,
+    "x1": 766,
+    "y1": 120
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 171,
+    "y0": 96,
+    "x1": 1002,
+    "y1": 210
+   },
+   "text": "OUR ADVERTISING DEPARTMENT must be a service to our reader as well as a source of income to our management",
+   "status": "ok",
+   "confidence": 0.9215098023414612,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 170,
+    "y0": 95,
+    "x1": 1000,
+    "y1": 210
+   },
+   "exclude": [
+    [
+     409,
+     99,
+     424,
+     117,
+     "r0"
+    ],
+    [
+     425,
+     99,
+     444,
+     117,
+     "r0"
+    ],
+    [
+     445,
+     99,
+     461,
+     117,
+     "r0"
+    ],
+    [
+     489,
+     99,
+     503,
+     117,
+     "r0"
+    ],
+    [
+     504,
+     99,
+     531,
+     117,
+     "r0"
+    ],
+    [
+     532,
+     99,
+     544,
+     117,
+     "r0"
+    ],
+    [
+     545,
+     99,
+     554,
+     117,
+     "r0"
+    ],
+    [
+     555,
+     99,
+     567,
+     117,
+     "r0"
+    ],
+    [
+     594,
+     99,
+     610,
+     117,
+     "r0"
+    ],
+    [
+     614,
+     99,
+     631,
+     117,
+     "r0"
+    ],
+    [
+     636,
+     99,
+     651,
+     116,
+     "r0"
+    ],
+    [
+     652,
+     98,
+     668,
+     117,
+     "r0"
+    ],
+    [
+     669,
+     99,
+     687,
+     116,
+     "r0"
+    ],
+    [
+     691,
+     98,
+     705,
+     116,
+     "r0"
+    ],
+    [
+     706,
+     99,
+     715,
+     116,
+     "r0"
+    ],
+    [
+     715,
+     99,
+     728,
+     117,
+     "r0"
+    ],
+    [
+     728,
+     98,
+     745,
+     117,
+     "r0"
+    ],
+    [
+     746,
+     99,
+     763,
+     116,
+     "r0"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "OUR ADVERTISING DEPARTMENT must be a service to our reader as well as a source of income to our management",
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 173,
+    "y0": 319,
+    "x1": 1000,
+    "y1": 645
+   },
+   "text": "In the advertising department it is not our purpose to solicit advertisements at random and fill our pages with advertisements of no interest and value to our readers. The reader purchases the advertising page as well as the reading page. Viewing the matter in that light, it is our purpose to make the advertising a means of real service to our readers as well as a source of income to us.\n\nIn this number we begin a Hotel Directory and a Classified Advertising Service. Those who are general magazine readers can appreciate the value of these two departments.\n\nIf your dealer hasn't an article you wish to purchase, he will get it for you. We aim to make THE CRISIS advertising columns the market place for CRISIS readers, and if you don't see what you want among our advertisements, write us and we will help you find it. In this way we will know the sort of advertisements to place in our columns for the convenience and pleasure of our readers.\n\nALBON L. HOLSEY, Advertising Manager",
+   "status": "ok",
+   "confidence": 0.652173638343811,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 169,
+    "y0": 338,
+    "x1": 999,
+    "y1": 645
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "figure",
+   "bbox": {
+    "x0": 174,
+    "y0": 673,
+    "x1": 995,
+    "y1": 1514
+   },
+   "text": "This Is\nTHE CRISIS\n\nFew people see you\nMany people see your letters\n\nCorrect in Type,\nProofreading and\nStyle. I print it.\n\nWhy?\n\nAsk Editor\nW. E. B. Du Bois\nby permission\n\nUse Good Stationery\n\nNot the cheapest; but the\nbest for the money charged\n\nSPECIALTY\n\nWedding Invitations printed\nor engraved — correct style\n\nWRITE OR 'PHONE TO\n\nROBERT N. WOOD, Printer\n202 East 99th Street\nNew York City\n\n'Phone Lenox 6667",
+   "status": "ok",
+   "confidence": 0.9379488229751587,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 176,
+    "y0": 678,
+    "x1": 989,
+    "y1": 1500
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading \"WRITE OR 'PHONE TO\" inside box but no gap to cut at"
+  },
+  {
+   "id": "r4",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 492,
+    "y0": 1520,
+    "x1": 670,
+    "y1": 1537
+   },
+   "text": "Mention THE CRISIS.",
+   "status": "ok",
+   "confidence": 0.264716774225235,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 489,
+    "y0": 1516,
+    "x1": 674,
+    "y1": 1538
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 5,
+  "regions_after": 5,
+  "lost_words": [],
+  "needs_review": [
+   "r3"
+  ],
+  "unowned_ink_pct": 1.58,
+  "box_overlaps_after": 1,
+  "log": [
+   "reshape r1 (abandon): lost 12% of its ink, gained 0%",
+   "reread r1: 'OUR ADVERTISING DEPARTMENT must be a ser' -> 'OUR ADVERTISING DEPARTMENT must be a ser'",
+   "REVIEW r3: heading \"WRITE OR 'PHONE TO\" inside box but no gap to cut at"
+  ]
+ }
+}

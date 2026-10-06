@@ -1,0 +1,344 @@
+{
+ "page": 7,
+ "image": "images/page_07.jpg",
+ "width": 1074,
+ "height": 1576,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.6,
+  "at": "2026-10-06T21:02:17+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 345,
+    "y0": 84,
+    "x1": 688,
+    "y1": 107
+   },
+   "text": "ALONG THE COLOR LINE",
+   "status": "ok",
+   "confidence": 0.8985719084739685,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 345,
+    "y0": 83,
+    "x1": 688,
+    "y1": 107
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 527,
+    "y0": 135,
+    "x1": 924,
+    "y1": 422
+   },
+   "text": "teachers $28.67. The average length of session of colored elementary schools is 4.6 months. The average lengths of session of white elementary and high schools is 8.23 months. There are 9,771 whites enrolled in the high schools. No figures are given for colored students enrolled in high schools. There are 54,637 colored children attending elementary schools, and 128,022 white children; 75.9 per cent. of white educable children are enrolled, and only 45.3 per cent. of the colored children. The average monthly cost of each child based on average attendance, white $2.90, colored $1.21.",
+   "status": "ok",
+   "confidence": 0.9762253761291504,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 527,
+    "y0": 132,
+    "x1": 922,
+    "y1": 419
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 108,
+    "y0": 133,
+    "x1": 503,
+    "y1": 535
+   },
+   "text": "Atlanta University has 400 students enrolled. Fifty of these are in the college course, with 30 teachers and officers. There are 653 normal and college graduates. The plant consists of seven brick buildings, including a library worth about $300,000; the endowment is $75,000, and a special effort is being made to raise $60,000 this year.\n\nShaw University, Raleigh, N. C., has over 500 students enrolled, and applicants have been turned away. There are preparatory, normal and college departments, and classes in theology, medicine and law. Attention is also given to music and industries. The Leonard medical building has been enlarged and a hospital is being built; shower baths have been put into the gymnasium and other buildings enlarged. President Meserve is just completing his seventeenth year of service.",
+   "status": "ok",
+   "confidence": 0.9753630757331848,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 132,
+    "x1": 501,
+    "y1": 533
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 527,
+    "y0": 428,
+    "x1": 920,
+    "y1": 668
+   },
+   "text": "The colored people of Plateau have the credit of being the leading Negro settlement in Mobile County, Alabama, in respect to raising money to help educate their children. The patrons of the school have raised over $180 for their school this year, $144 of this money being raised Thanksgiving Day. They are buving a beautiful site for a high school at a cost of $900. Over $600 of this money has been raised, and they are struggling to finish it this present school term.",
+   "status": "ok",
+   "confidence": 0.9770909547805786,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 527,
+    "y0": 436,
+    "x1": 918,
+    "y1": 666
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 107,
+    "y0": 542,
+    "x1": 501,
+    "y1": 741
+   },
+   "text": "The Georgia State Industrial College is near Savannah, Ga. It has 86 acres and 468 students. The school curriculum includes literary and industrial work. Each student has to take a trade along with his other studies. The school depends entirely upon income from the Landscript and Morrill funds. Among its outside activities are farmers' conferences and an annual State fair.",
+   "status": "ok",
+   "confidence": 0.9780574440956116,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 106,
+    "y0": 549,
+    "x1": 499,
+    "y1": 741
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 527,
+    "y0": 674,
+    "x1": 919,
+    "y1": 914
+   },
+   "text": "That a systematic and organized crusade on idleness among members of the colored race is to be continued was indicated at the meeting of the Texas Negro Law and Order League at Houston, Texas. In a forceful address calling the attention of the members of the league to many vital questions affecting the welfare of the race President John M. Atkins stated that the time was ripe for sending literature over the country urging all Negro parents to look to the moral training of their boys.",
+   "status": "ok",
+   "confidence": 0.9757832884788513,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 526,
+    "y0": 682,
+    "x1": 917,
+    "y1": 911
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 106,
+    "y0": 797,
+    "x1": 499,
+    "y1": 1028
+   },
+   "text": "In South Carolina Governor-elect Cole L. Bleaze is opposed to the division of the educational fund of the State of South Carolina between schools for the Negroes and the white children. It became known lately that the future Governor is convinced that it would be good for the State if the educational fund is divided so that taxes paid by whites for educational purposes go for the education of white children, and that those paid by blacks be used for the education of Negroes.",
+   "status": "ok",
+   "confidence": 0.9734843373298645,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 104,
+    "y0": 796,
+    "x1": 496,
+    "y1": 1024
+   },
+   "exclude": [
+    [
+     136,
+     1027,
+     142,
+     1041,
+     "r8"
+    ],
+    [
+     196,
+     1026,
+     204,
+     1041,
+     "r8"
+    ],
+    [
+     231,
+     1027,
+     234,
+     1041,
+     "r8"
+    ],
+    [
+     300,
+     1027,
+     302,
+     1029,
+     "r8"
+    ],
+    [
+     372,
+     1027,
+     378,
+     1041,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 525,
+    "y0": 919,
+    "x1": 917,
+    "y1": 1178
+   },
+   "text": "For the purpose of urging every colored resident of New Orleans to contribute $1 per annum to be used in educating Negro children, a poll tax association among the colored people has been formed. A meeting was held Wednesday night and a citywide campaign with this object in view was planned. Circulars will be printed, stating the reasons for the movement, and the leaders of every Negro organization in the city will be asked to prevail upon his respective membership to see that they pay their poll tax.",
+   "status": "ok",
+   "confidence": 0.9751064777374268,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 524,
+    "y0": 928,
+    "x1": 915,
+    "y1": 1175
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 92,
+    "y0": 1024,
+    "x1": 498,
+    "y1": 1487
+   },
+   "text": "\"I am firmly convinced, after the most careful thought and study,\" said Colonel Bleaze to-day, \"that the Almighty created the Negro to be a hewer of wood and drawer of water. I also believe that the greatest mistake the white race has ever made was in attempting to educate the free Negro.\"\n\nThe first report of the Louisiana Department of Education for the year ending July 1, 1910, shows that the total amount spent for the maintenance of the public schools by the State was $4,936,300.64. Of this amount colored teachers received in salaries $202,251.13, while white teachers received $2,404,062.54. There are 5,001 white teachers employed and 1,285 colored teachers. White male teachers received an average monthly salary of $75.29, and white female teachers received an average monthly salary of $50.80. The average monthly salary of colored male teachers was only $34.25, and of colored female",
+   "status": "ok",
+   "confidence": 0.9764508008956909,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 99,
+    "y0": 1025,
+    "x1": 496,
+    "y1": 1486
+   },
+   "exclude": [
+    [
+     321,
+     1014,
+     330,
+     1026,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 520,
+    "y0": 1198,
+    "x1": 915,
+    "y1": 1485
+   },
+   "text": "Strong addresses were delivered before the Mississippi Conference of the Methodist Episcopal Church by Professor D. C. Potts, president of the Mississippi Industrial College, and Dr. F. M. Williams of the North Mississippi Conference. Professor Potts gave a detailed report of the work done at the institution and declared that the enrollment at this time of the year far exceeds that of any previous year. He stated that the property was conservatively valued at $150,000, and congratulated the Negroes of Mississippi upon giving so much for the education of their own children.",
+   "status": "ok",
+   "confidence": 0.9721641540527344,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 521,
+    "y0": 1197,
+    "x1": 913,
+    "y1": 1486
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "title",
+   "bbox": {
+    "x0": 234,
+    "y0": 769,
+    "x1": 373,
+    "y1": 789
+   },
+   "text": "EDUCATION.",
+   "status": "ok",
+   "confidence": 0.8951675295829773,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 232,
+    "y0": 766,
+    "x1": 371,
+    "y1": 789
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 910,
+    "y0": 83,
+    "x1": 923,
+    "y1": 105
+   },
+   "text": "7",
+   "status": "ok",
+   "confidence": 0.6991903781890869,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 908,
+    "y0": 83,
+    "x1": 921,
+    "y1": 102
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.18,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

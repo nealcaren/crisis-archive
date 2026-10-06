@@ -1,0 +1,387 @@
+{
+ "page": 12,
+ "image": "images/page_12.jpg",
+ "width": 1092,
+ "height": 1617,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.2,
+  "at": "2026-10-06T21:26:03+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 170,
+    "y0": 91,
+    "x1": 998,
+    "y1": 232
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.7851737141609192,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 375,
+    "y0": 130,
+    "x1": 782,
+    "y1": 192
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "OPINION",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 597,
+    "y0": 251,
+    "x1": 1000,
+    "y1": 569
+   },
+   "text": "shows the following facts for his\ncounty, relative to Negro education:\nNumber of Negro children of\nschool age ..... 287\nEnrolled in Negro schools ..... 224\nNumber of Negro teachers ..... 8\nNumber of school houses (two\nlog) ..... 5\nTotal value Negro school property ..... $309.00\nAverage length of school term\n(days) ..... 65\nTotal amount paid each teacher\nfor year ..... $51.54\nTotal annual amount paid for\nteaching Negroes ..... $412.32",
+   "status": "ok",
+   "confidence": 0.8188244700431824,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 595,
+    "y0": 252,
+    "x1": 1001,
+    "y1": 566
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 174,
+    "y0": 279,
+    "x1": 574,
+    "y1": 747
+   },
+   "text": "The extremely interesting correspondence which follows is clipped from the Charlotte, N. C., Observer. The first letter is signed \"White Taxpayer.\" The reply is from Mr. Charles L. Coon, the superintendent of the Wilson, N. C., schools, who has before this defended the colored schools:\n\n\"I beg to commend to your consideration,\" writes \"White Taxpayer,\" \"an enclosed clipping from the inaugural address of Governor Blease of South Carolina as being the wisest stand taken by any public man within recent years, with reference to 'Negro education.' There are thousands and tens of thousands of white men all over the South to-day, holding the same opinion, but without the courage to come out and say so publicly. It is absolutely inconceivable to me how any Southern white man can fail to see and know that this thing of educating the Negro is the most egregious mistake ever made.",
+   "status": "ok",
+   "confidence": 0.9762658476829529,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 172,
+    "y0": 278,
+    "x1": 571,
+    "y1": 742
+   },
+   "exclude": [
+    [
+     454,
+     745,
+     457,
+     748,
+     "r4"
+    ],
+    [
+     483,
+     745,
+     487,
+     750,
+     "r4"
+    ],
+    [
+     504,
+     745,
+     514,
+     760,
+     "r4"
+    ],
+    [
+     204,
+     746,
+     207,
+     752,
+     "r4"
+    ],
+    [
+     209,
+     746,
+     223,
+     761,
+     "r4"
+    ],
+    [
+     225,
+     746,
+     229,
+     761,
+     "r4"
+    ],
+    [
+     232,
+     746,
+     236,
+     761,
+     "r4"
+    ],
+    [
+     253,
+     746,
+     263,
+     760,
+     "r4"
+    ],
+    [
+     266,
+     746,
+     269,
+     748,
+     "r4"
+    ],
+    [
+     307,
+     746,
+     311,
+     760,
+     "r4"
+    ],
+    [
+     313,
+     746,
+     323,
+     760,
+     "r4"
+    ],
+    [
+     343,
+     746,
+     352,
+     761,
+     "r4"
+    ],
+    [
+     408,
+     746,
+     412,
+     760,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 598,
+    "y0": 569,
+    "x1": 1001,
+    "y1": 994
+   },
+   "text": "\"Our educational statistics also say that there is only one first grade teacher among the eight Negro teachers of Alexander, while six are second grade and one third grade.\n\n\"I submit the above facts to show that it is the lack of Negro education that this taxpayer is really complaining about. Surely a county that is making such a showing cannot seriously claim that it is trying, or has tried, the experiment of Negro education. And, furthermore, if my county made such a poor showing on Negro education as Alexander, I believe I would think twice before I would rush into print to try to unsettle something which Jesus Christ settled 2,000 years ago and which the Supreme Court of North Carolina officially settled in 1886, the honorable Cole L. Blease of South Carolina to the contrary notwithstanding.",
+   "status": "ok",
+   "confidence": 0.9760958552360535,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 596,
+    "y0": 569,
+    "x1": 999,
+    "y1": 990
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 177,
+    "y0": 743,
+    "x1": 577,
+    "y1": 1164
+   },
+   "text": "\"All this talk about 'elevating' the race is the veriest rot. God save us from the 'elevated' Negro! There is no place for him.\n\n\"True, we held them in bondage, but suppose we had not: To-day they would be in Africa eating each other raw. Associating with, and being trained by, the very flower of civilization—the antebellum white people of the South—was the very greatest blessing that could have been bestowed upon them by an all-wise Creator.\n\n\"Were I a Rockefeller, I would cause to be reared in every Southern State a monument to the memory of the old-time Negroes, but not a cent for educating the lazy, impudent young Negroes of to-day. They are a curse to the South and their tribe is daily increasing, and sending them to school is largely the cause of it.",
+   "status": "ok",
+   "confidence": 0.9764268398284912,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 744,
+    "x1": 576,
+    "y1": 1164
+   },
+   "exclude": [
+    [
+     179,
+     732,
+     189,
+     745,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 601,
+    "y0": 994,
+    "x1": 1005,
+    "y1": 1381
+   },
+   "text": "\"There are some facts, too, which this 'A White Taxpayer' ought to know. He has evidently been asleep or not observant. We have more Negro children here in Wilson than white children. Out of a Negro census of 1,213 children of school age we have enrolled this year 638 pupils in our colored school. I do not believe this Alexander taxpayer will find a single intelligent white man in this city who will not tell him that these school children are well behaved and that the training they are getting in the school is beneficial. Furthermore, we have kept a record of the graduates of our colored school for the past five years, and we can testify that all of these graduates are now engaged in useful work, while none of them has gone wrong in any way.",
+   "status": "ok",
+   "confidence": 0.9790487289428711,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 600,
+    "y0": 994,
+    "x1": 1002,
+    "y1": 1379
+   },
+   "exclude": [
+    [
+     637,
+     1380,
+     651,
+     1395,
+     "r7"
+    ],
+    [
+     653,
+     1380,
+     662,
+     1395,
+     "r7"
+    ],
+    [
+     780,
+     1380,
+     790,
+     1395,
+     "r7"
+    ],
+    [
+     792,
+     1380,
+     797,
+     1395,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 181,
+    "y0": 1164,
+    "x1": 580,
+    "y1": 1395
+   },
+   "text": "\"Let us run the white schools with taxes from the white taxpayers, and the Negro schools with the Negro taxpayers' money.\"\nMr. Coon replies:\n\"In the Observer of February 24 'A White Taxpayer,' of Taylorsville writes against Negro education, saying that education makes Negroes worthless and that white taxes ought to go to white schools and Negro taxes to Negro schools.",
+   "status": "ok",
+   "confidence": 0.9715666174888611,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 179,
+    "y0": 1165,
+    "x1": 578,
+    "y1": 1395
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 605,
+    "y0": 1378,
+    "x1": 1006,
+    "y1": 1456
+   },
+   "text": "\"The great problem we have here in Wilson is to reach that part of the colored children whose parents are wholly indifferent to the moral and educational",
+   "status": "ok",
+   "confidence": 0.9545722603797913,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 603,
+    "y0": 1379,
+    "x1": 1004,
+    "y1": 1457
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 182,
+    "y0": 1394,
+    "x1": 581,
+    "y1": 1456
+   },
+   "text": "\"This citizen of Alexander county is respectfully referred to the last report of the State Superintendent, which",
+   "status": "ok",
+   "confidence": 0.9450620412826538,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 180,
+    "y0": 1395,
+    "x1": 579,
+    "y1": 1454
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 297,
+    "y0": 245,
+    "x1": 447,
+    "y1": 276
+   },
+   "text": "EDUCATION.",
+   "status": "ok",
+   "confidence": 0.8434156775474548,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 295,
+    "y0": 252,
+    "x1": 445,
+    "y1": 275
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.02,
+  "box_overlaps_after": 3,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 70%",
+   "reread r0: 'OPINION' -> 'OPINION'"
+  ]
+ }
+}

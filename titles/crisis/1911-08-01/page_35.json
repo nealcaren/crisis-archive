@@ -1,0 +1,127 @@
+{
+  "page": 35,
+  "image": "images/page_35.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 517,
+        "y0": 90,
+        "x1": 910,
+        "y1": 597
+      },
+      "text": "or thought to solve the race problem too easily. Neither emancipation nor enfranchisement could suddenly overcome the handicaps of long centuries of semibarbarism or generations of slavery. Yet real progress has been made; and I believe there are hundreds of thousands whose hearts will respond to your challenge to keep wide open the door of industrial opportunity, of intellectual progress and of social recognition. We want no helot race in this twentieth century. Negro inferiority, if real, is not something to be rejoiced in, but to be overcome, ere it drags us down. And to this end—well, among many things—the children of the freedman, I believe, must not only develop still more widely efficiency and culture and self-control—but be prepared to contend more strenuously for their rights as men. Whatever the faults of the \"white man,\" he has as a rule more respect for the man who knows what he wants and will fight for it.",
+      "status": "ok",
+      "confidence": 0.9758886694908142,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 408,
+        "y0": 91,
+        "x1": 614,
+        "y1": 115
+      },
+      "text": "SOME LETTERS",
+      "status": "ok",
+      "confidence": 0.8582260608673096,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 96,
+        "y0": 141,
+        "x1": 490,
+        "y1": 726
+      },
+      "text": "creases. This is in the United States, where it is supposed that every man has equal rights before the law, and we are held in bondage by this same outfit.\n\nOf course we can't prove anything. Our work is nothing. If we state things as they are, the powers that be make a different statement, and that sets ours aside at Washington and, I suppose, in Heaven, too.\n\nNow, I have tried to tell you how we are made servants here according to law. I will tell you in my next letter how the lawmakers keep the colored children out of schools, how that pressure is brought to bear on their parents in such a manner they cannot help themselves. The cheapest way we can borrow money here is at the rate of twenty-five cents on the dollar per year.\n\nYour paper is the best I have read of the kind. I never dreamed there was such a paper in the world. I will subscribe soon. I think there are a great many here that will take your paper. I haven't had the chance to show your paper to any yet, but will as soon as I can. You know we have to be careful with such literature as this in this country.",
+      "status": "ok",
+      "confidence": 0.9752771854400635,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 515,
+        "y0": 599,
+        "x1": 909,
+        "y1": 867
+      },
+      "text": "\"Oh,\" said a colored girl to Dr. Howe on that black day when Burns was marched down State Street, back into slavery, \"Oh, if he only had the courage to commit suicide!\"\n\nSuicide is not called for to-day—but frankly, I believe the role of suffering servant has been a bit overdone.\n\nSo keep up the good fight.\n\nFraternally yours,\n\nK. E. Evans.\n\nA FRIEND OF THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.9549521207809448,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 729,
+        "x1": 489,
+        "y1": 1069
+      },
+      "text": "What I have told you is strictly confidential. If you publish it, don't put my name to it. I would be dead in a short time after the news reached here.\n\nOne word more about the peonage. The court and the man you work for are always partners. One makes the fine and the other one works you and holds you, and if you leave you are tracked up with bloodhounds and brought back.\n\nFROM A UNITARIAN CLERGY-MAN.\n\nPHILADELPHIA.\n\nTo the Editor of THE CRISIS:",
+      "status": "ok",
+      "confidence": 0.9660699963569641,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 514,
+        "y0": 873,
+        "x1": 909,
+        "y1": 1468
+      },
+      "text": "Before I close I want to express my deep interest and pleasure in THE CRISIS. There is no better way to keep up one's enthusiasm and to learn more regarding any subject than to take some fair-minded periodical devoted to the subject; for no matter how far away duty or pleasure may take us between times, the regular arrival of the magazine calls us back and common courtesy demands that we at least say \"How do you do?\" by running over the pages, thereby getting an idea of the contents, and even in the briefest glance always something to stimulate fresh thought. The June CRISIS is perhaps the finest yet, there being so many interesting illustrations, while the reading matter maintains the high standard set in the first number. It is impossible to overestimate the influence for good exercised by such a periodical, dealing as this does so fearlessly and yet so fairly with this great problem of our national life.\n\nMay we not sometime have pictures of the offices of the association? I feel sure I am not the only subscriber who would welcome them among the other fine things presented from month to month.\n\nVery truly yours,",
+      "status": "ok",
+      "confidence": 0.9756601452827454,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 95,
+        "y0": 1070,
+        "x1": 488,
+        "y1": 1491
+      },
+      "text": "I cannot forbear expressing my hearty sympathy, not only with the work you are doing, but with the way you are doing it. The five numbers of your magazine so far received have been to me of great value—I drew on them somewhat for my Memorial Sunday address on the \"Aftermath of Slavery.\" It is well to have the issue made clear, to know where America stands to-day. For all our disappointment, it may help to awaken all lovers of true Democracy and inspire them to fresh efforts to complete the work begun a century ago. Here in Philadelphia—such at least is my impression—race antagonism is relatively slight. Nor has the spirit which inspired the anti-slavery movement wholly died out. Yet even here your appeal is needed—on the one hand for character, on the other for justice and brotherhood. The earlier Abolitionists may have solved",
+      "status": "ok",
+      "confidence": 0.9770937561988831,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 604,
+        "y0": 1469,
+        "x1": 893,
+        "y1": 1491
+      },
+      "text": "KATHERINE TIFFANY SPRAGUE.",
+      "status": "ok",
+      "confidence": 0.7772507071495056,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.3,
+    "at": "2026-10-06T22:14:28+00:00"
+  }
+}

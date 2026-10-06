@@ -1,0 +1,1981 @@
+{
+ "page": 34,
+ "image": "images/page_34.jpg",
+ "width": 1074,
+ "height": 1576,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.5,
+  "at": "2026-10-06T21:06:16+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 422,
+    "y0": 83,
+    "x1": 761,
+    "y1": 106
+   },
+   "text": "THE CRISIS ADVERTISER",
+   "status": "ok",
+   "confidence": 0.8444734811782837,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 419,
+    "y0": 80,
+    "x1": 997,
+    "y1": 324
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "K'S School of Dressmaking\nly, Embroidering and Ladies' Tailoring Taught by the Improved French System\ny of the Branches, and Diplomas Awarded the Successful Graduates",
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 179,
+    "y0": 135,
+    "x1": 1001,
+    "y1": 307
+   },
+   "text": "Mme. BECK'S School of Dressmaking\nDesigning, Cutting, Fitting, Embroidering and Ladies' Tailoring Taught by the Improved French System\nSeparate Courses in Any of the Branches, and Diplomas Awarded the Successful Graduates",
+   "status": "ok",
+   "confidence": 0.9225581288337708,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 176,
+    "y0": 129,
+    "x1": 1001,
+    "y1": 308
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 175,
+    "y0": 434,
+    "x1": 999,
+    "y1": 491
+   },
+   "text": "The Firm for the Negro Farmers and Shippers to Deal With Try Us Before Shipping Elsewhere.",
+   "status": "ok",
+   "confidence": 0.8650440573692322,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 432,
+    "x1": 997,
+    "y1": 788
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "title",
+   "bbox": {
+    "x0": 175,
+    "y0": 491,
+    "x1": 999,
+    "y1": 513
+   },
+   "text": "FRUITS AND VEGETABLES OYSTERS AND GAME POULTRY AND EGGS",
+   "status": "ok",
+   "confidence": 0.8650440573692322,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 432,
+    "x1": 997,
+    "y1": 788
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3b"
+  },
+  {
+   "id": "r3bb",
+   "label": "title",
+   "bbox": {
+    "x0": 175,
+    "y0": 513,
+    "x1": 999,
+    "y1": 600
+   },
+   "text": "COTTMAN & COTTMAN\nWHOLESALE COMMISSION MERCHANTS. 107 Pine Street, Philadelphia, Pa.\nReference: The People's Savings Bank Bell 'Phone Connection: Lombard 4035",
+   "status": "ok",
+   "confidence": 0.8650440573692322,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 432,
+    "x1": 997,
+    "y1": 788
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3bb"
+  },
+  {
+   "id": "r3bbb",
+   "label": "title",
+   "bbox": {
+    "x0": 175,
+    "y0": 600,
+    "x1": 999,
+    "y1": 790
+   },
+   "text": "NYANZA DRUG CO.\n(Incorporated.)\n35 W. 135th ST., NEW YORK CITY\nCAPITAL STOCK, $15,000\nShares $5.00\nWrite for information. The best paying investment ever offered our people.\n\nNYANZA PHARMACY\nis the only colored Drug Store in New York City, and the purpose of the Corporation is to establish chains of stores, carrying Drugs and everything incidental to the Drug business. It is really the indisputable duty of every self-respecting member of the race to give it his support.\n\nAGENTS WANTED EVERYWHERE",
+   "status": "ok",
+   "confidence": 0.8650440573692322,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 432,
+    "x1": 997,
+    "y1": 788
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3bb",
+   "needs_review": "heading 'NYANZA PHARMACY' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r5",
+   "label": "title",
+   "bbox": {
+    "x0": 174,
+    "y0": 809,
+    "x1": 996,
+    "y1": 851
+   },
+   "text": "$100,000 STOCK ISSUE",
+   "status": "ok",
+   "confidence": 0.8106852173805237,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 171,
+    "y0": 806,
+    "x1": 994,
+    "y1": 1032
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "$100,000 STOCK ISSUE\nTO BUILD AN\nAuditorium in Greater New York\nCONTAINING\nReception, Concert and Banquet Halls, Modern Offices and Lodge Rooms\nThis proposition is bound to succeed, because it is giving the people what they want.\nWe are offering\n10,000 Shares at $10 Each, Par Value",
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r5b",
+   "label": "title",
+   "bbox": {
+    "x0": 174,
+    "y0": 851,
+    "x1": 996,
+    "y1": 992
+   },
+   "text": "TO BUILD AN\nAuditorium in Greater New York\nCONTAINING\nReception, Concert and Banquet Halls, Modern Offices and Lodge Rooms\nThis proposition is bound to succeed, because it is giving the people what they want.\nWe are offering",
+   "status": "ok",
+   "confidence": 0.8106852173805237,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 171,
+    "y0": 806,
+    "x1": 994,
+    "y1": 1032
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "$100,000 STOCK ISSUE\nTO BUILD AN\nAuditorium in Greater New York\nCONTAINING\nReception, Concert and Banquet Halls, Modern Offices and Lodge Rooms\nThis proposition is bound to succeed, because it is giving the people what they want.\nWe are offering\n10,000 Shares at $10 Each, Par Value",
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 175,
+    "y0": 998,
+    "x1": 994,
+    "y1": 1133
+   },
+   "text": "10,000 Shares at $10 Each, Par Value\nStock sold in blocks to suit the investor on easy terms.\nThe capital already in hand and the rapid increase of business means the realization of the Auditorium. This enterprise assures each investor Safety of Capital and Growth of Income. Call or write for further particulars.\nI. L. MOORMAN, Mgr., 83 W. 134th St.",
+   "status": "ok",
+   "confidence": 0.8963448405265808,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 995,
+    "x1": 995,
+    "y1": 1131
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "title",
+   "bbox": {
+    "x0": 425,
+    "y0": 1171,
+    "x1": 996,
+    "y1": 1278
+   },
+   "text": "SOLOMON GARRETT\nTonsorial Artist",
+   "status": "ok",
+   "confidence": 0.950229287147522,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 421,
+    "y0": 1164,
+    "x1": 992,
+    "y1": 1281
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "abandon",
+   "bbox": {
+    "x0": 178,
+    "y0": 82,
+    "x1": 204,
+    "y1": 103
+   },
+   "text": "34",
+   "status": "ok",
+   "confidence": 0.8269569277763367,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 176,
+    "y0": 80,
+    "x1": 203,
+    "y1": 101
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 176,
+    "y0": 360,
+    "x1": 476,
+    "y1": 384
+   },
+   "text": "238 WEST 53d STREET",
+   "status": "ok",
+   "confidence": 0.6962534785270691,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 177,
+    "y0": 355,
+    "x1": 472,
+    "y1": 386
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "figure",
+   "bbox": {
+    "x0": 173,
+    "y0": 1144,
+    "x1": 992,
+    "y1": 1540
+   },
+   "text": "DE Fritter Street, near Aldert Street\n777-777-7777\nAll Time of Worship\nClerk and Deacon for the\nDaily and Weekly Services\nFreedom zenith for THE GRANT",
+   "status": "ok",
+   "confidence": 0.8286959528923035,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 175,
+    "y0": 1157,
+    "x1": 408,
+    "y1": 1540
+   },
+   "exclude": [
+    [
+     427,
+     1173,
+     454,
+     1215,
+     "r7"
+    ],
+    [
+     456,
+     1173,
+     496,
+     1216,
+     "r7"
+    ],
+    [
+     499,
+     1173,
+     531,
+     1216,
+     "r7"
+    ],
+    [
+     533,
+     1173,
+     573,
+     1216,
+     "r7"
+    ],
+    [
+     576,
+     1173,
+     621,
+     1216,
+     "r7"
+    ],
+    [
+     624,
+     1173,
+     664,
+     1216,
+     "r7"
+    ],
+    [
+     667,
+     1174,
+     703,
+     1216,
+     "r7"
+    ],
+    [
+     720,
+     1174,
+     760,
+     1216,
+     "r7"
+    ],
+    [
+     763,
+     1175,
+     804,
+     1216,
+     "r7"
+    ],
+    [
+     806,
+     1174,
+     844,
+     1217,
+     "r7"
+    ],
+    [
+     846,
+     1174,
+     883,
+     1217,
+     "r7"
+    ],
+    [
+     885,
+     1175,
+     918,
+     1217,
+     "r7"
+    ],
+    [
+     919,
+     1175,
+     994,
+     1217,
+     "r7"
+    ],
+    [
+     552,
+     1241,
+     581,
+     1274,
+     "r7"
+    ],
+    [
+     686,
+     1243,
+     693,
+     1249,
+     "r7"
+    ],
+    [
+     719,
+     1242,
+     729,
+     1274,
+     "r7"
+    ],
+    [
+     756,
+     1242,
+     789,
+     1275,
+     "r7"
+    ],
+    [
+     825,
+     1244,
+     832,
+     1251,
+     "r7"
+    ],
+    [
+     810,
+     1249,
+     822,
+     1276,
+     "r7"
+    ],
+    [
+     852,
+     1249,
+     866,
+     1276,
+     "r7"
+    ],
+    [
+     667,
+     1253,
+     694,
+     1274,
+     "r7"
+    ],
+    [
+     582,
+     1255,
+     603,
+     1274,
+     "r7"
+    ],
+    [
+     604,
+     1255,
+     627,
+     1274,
+     "r7"
+    ],
+    [
+     628,
+     1255,
+     643,
+     1274,
+     "r7"
+    ],
+    [
+     646,
+     1255,
+     665,
+     1274,
+     "r7"
+    ],
+    [
+     697,
+     1255,
+     718,
+     1275,
+     "r7"
+    ],
+    [
+     791,
+     1254,
+     808,
+     1275,
+     "r7"
+    ],
+    [
+     824,
+     1256,
+     834,
+     1276,
+     "r7"
+    ],
+    [
+     835,
+     1256,
+     850,
+     1276,
+     "r7"
+    ],
+    [
+     531,
+     1298,
+     538,
+     1312,
+     "r16"
+    ],
+    [
+     540,
+     1298,
+     547,
+     1308,
+     "r16"
+    ],
+    [
+     549,
+     1298,
+     557,
+     1308,
+     "r16"
+    ],
+    [
+     569,
+     1298,
+     579,
+     1312,
+     "r16"
+    ],
+    [
+     593,
+     1298,
+     596,
+     1312,
+     "r16"
+    ],
+    [
+     638,
+     1298,
+     648,
+     1311,
+     "r16"
+    ],
+    [
+     599,
+     1301,
+     603,
+     1312,
+     "r16"
+    ],
+    [
+     649,
+     1301,
+     654,
+     1313,
+     "r16"
+    ],
+    [
+     683,
+     1301,
+     688,
+     1313,
+     "r16"
+    ],
+    [
+     756,
+     1300,
+     767,
+     1314,
+     "r16"
+    ],
+    [
+     769,
+     1300,
+     778,
+     1314,
+     "r16"
+    ],
+    [
+     790,
+     1300,
+     793,
+     1313,
+     "r16"
+    ],
+    [
+     806,
+     1300,
+     814,
+     1314,
+     "r16"
+    ],
+    [
+     817,
+     1300,
+     820,
+     1302,
+     "r16"
+    ],
+    [
+     833,
+     1300,
+     843,
+     1315,
+     "r16"
+    ],
+    [
+     574,
+     1303,
+     577,
+     1307,
+     "r16"
+    ],
+    [
+     605,
+     1303,
+     614,
+     1313,
+     "r16"
+    ],
+    [
+     846,
+     1303,
+     850,
+     1314,
+     "r16"
+    ],
+    [
+     582,
+     1304,
+     590,
+     1312,
+     "r16"
+    ],
+    [
+     616,
+     1304,
+     625,
+     1312,
+     "r16"
+    ],
+    [
+     657,
+     1304,
+     663,
+     1313,
+     "r16"
+    ],
+    [
+     665,
+     1304,
+     672,
+     1313,
+     "r16"
+    ],
+    [
+     674,
+     1304,
+     681,
+     1313,
+     "r16"
+    ],
+    [
+     705,
+     1304,
+     713,
+     1313,
+     "r16"
+    ],
+    [
+     716,
+     1304,
+     723,
+     1313,
+     "r16"
+    ],
+    [
+     725,
+     1304,
+     733,
+     1313,
+     "r16"
+    ],
+    [
+     735,
+     1304,
+     742,
+     1313,
+     "r16"
+    ],
+    [
+     780,
+     1304,
+     787,
+     1314,
+     "r16"
+    ],
+    [
+     795,
+     1305,
+     804,
+     1318,
+     "r16"
+    ],
+    [
+     817,
+     1305,
+     820,
+     1315,
+     "r16"
+    ],
+    [
+     853,
+     1305,
+     859,
+     1315,
+     "r16"
+    ],
+    [
+     861,
+     1305,
+     868,
+     1315,
+     "r16"
+    ],
+    [
+     870,
+     1305,
+     878,
+     1315,
+     "r16"
+    ],
+    [
+     880,
+     1304,
+     885,
+     1315,
+     "r16"
+    ],
+    [
+     539,
+     1307,
+     544,
+     1313,
+     "r16"
+    ],
+    [
+     549,
+     1309,
+     557,
+     1312,
+     "r16"
+    ],
+    [
+     637,
+     1308,
+     644,
+     1313,
+     "r16"
+    ],
+    [
+     691,
+     1311,
+     693,
+     1315,
+     "r16"
+    ],
+    [
+     753,
+     1310,
+     756,
+     1314,
+     "r16"
+    ],
+    [
+     613,
+     1332,
+     623,
+     1346,
+     "r16"
+    ],
+    [
+     626,
+     1332,
+     639,
+     1346,
+     "r16"
+    ],
+    [
+     641,
+     1332,
+     655,
+     1346,
+     "r16"
+    ],
+    [
+     657,
+     1332,
+     671,
+     1347,
+     "r16"
+    ],
+    [
+     674,
+     1332,
+     687,
+     1346,
+     "r16"
+    ],
+    [
+     682,
+     1332,
+     687,
+     1334,
+     "r16"
+    ],
+    [
+     690,
+     1332,
+     701,
+     1346,
+     "r16"
+    ],
+    [
+     703,
+     1332,
+     713,
+     1346,
+     "r16"
+    ],
+    [
+     713,
+     1332,
+     717,
+     1335,
+     "r16"
+    ],
+    [
+     720,
+     1332,
+     731,
+     1345,
+     "r16"
+    ],
+    [
+     729,
+     1332,
+     733,
+     1334,
+     "r16"
+    ],
+    [
+     753,
+     1332,
+     764,
+     1346,
+     "r16"
+    ],
+    [
+     762,
+     1332,
+     765,
+     1335,
+     "r16"
+    ],
+    [
+     785,
+     1333,
+     794,
+     1347,
+     "r16"
+    ],
+    [
+     794,
+     1333,
+     798,
+     1335,
+     "r16"
+    ],
+    [
+     753,
+     1343,
+     756,
+     1347,
+     "r16"
+    ],
+    [
+     720,
+     1344,
+     724,
+     1346,
+     "r16"
+    ],
+    [
+     736,
+     1344,
+     738,
+     1348,
+     "r16"
+    ],
+    [
+     769,
+     1345,
+     771,
+     1347,
+     "r16"
+    ],
+    [
+     678,
+     1359,
+     734,
+     1365,
+     "r16"
+    ],
+    [
+     585,
+     1375,
+     593,
+     1389,
+     "r16"
+    ],
+    [
+     597,
+     1375,
+     601,
+     1389,
+     "r16"
+    ],
+    [
+     603,
+     1375,
+     607,
+     1389,
+     "r16"
+    ],
+    [
+     619,
+     1375,
+     632,
+     1389,
+     "r16"
+    ],
+    [
+     629,
+     1375,
+     633,
+     1377,
+     "r16"
+    ],
+    [
+     652,
+     1375,
+     661,
+     1389,
+     "r16"
+    ],
+    [
+     693,
+     1375,
+     700,
+     1393,
+     "r16"
+    ],
+    [
+     714,
+     1375,
+     718,
+     1389,
+     "r16"
+    ],
+    [
+     721,
+     1375,
+     725,
+     1389,
+     "r16"
+    ],
+    [
+     728,
+     1375,
+     732,
+     1381,
+     "r16"
+    ],
+    [
+     754,
+     1375,
+     761,
+     1389,
+     "r16"
+    ],
+    [
+     811,
+     1376,
+     815,
+     1390,
+     "r16"
+    ],
+    [
+     827,
+     1379,
+     835,
+     1394,
+     "r16"
+    ],
+    [
+     636,
+     1380,
+     639,
+     1389,
+     "r16"
+    ],
+    [
+     642,
+     1380,
+     645,
+     1388,
+     "r16"
+    ],
+    [
+     647,
+     1380,
+     649,
+     1388,
+     "r16"
+    ],
+    [
+     663,
+     1380,
+     670,
+     1389,
+     "r16"
+    ],
+    [
+     683,
+     1381,
+     687,
+     1389,
+     "r16"
+    ],
+    [
+     687,
+     1380,
+     690,
+     1388,
+     "r16"
+    ],
+    [
+     734,
+     1380,
+     742,
+     1389,
+     "r16"
+    ],
+    [
+     744,
+     1381,
+     752,
+     1389,
+     "r16"
+    ],
+    [
+     759,
+     1381,
+     762,
+     1384,
+     "r16"
+    ],
+    [
+     766,
+     1381,
+     768,
+     1389,
+     "r16"
+    ],
+    [
+     770,
+     1381,
+     773,
+     1389,
+     "r16"
+    ],
+    [
+     775,
+     1381,
+     778,
+     1390,
+     "r16"
+    ],
+    [
+     781,
+     1381,
+     788,
+     1391,
+     "r16"
+    ],
+    [
+     792,
+     1381,
+     794,
+     1390,
+     "r16"
+    ],
+    [
+     796,
+     1381,
+     799,
+     1390,
+     "r16"
+    ],
+    [
+     801,
+     1381,
+     809,
+     1391,
+     "r16"
+    ],
+    [
+     816,
+     1381,
+     819,
+     1390,
+     "r16"
+    ],
+    [
+     822,
+     1382,
+     825,
+     1390,
+     "r16"
+    ],
+    [
+     581,
+     1385,
+     584,
+     1389,
+     "r16"
+    ],
+    [
+     577,
+     1399,
+     589,
+     1413,
+     "r16"
+    ],
+    [
+     664,
+     1399,
+     673,
+     1413,
+     "r16"
+    ],
+    [
+     685,
+     1399,
+     697,
+     1413,
+     "r16"
+    ],
+    [
+     709,
+     1399,
+     717,
+     1413,
+     "r16"
+    ],
+    [
+     766,
+     1400,
+     774,
+     1417,
+     "r16"
+    ],
+    [
+     803,
+     1400,
+     815,
+     1414,
+     "r16"
+    ],
+    [
+     827,
+     1400,
+     830,
+     1414,
+     "r16"
+    ],
+    [
+     599,
+     1403,
+     604,
+     1414,
+     "r16"
+    ],
+    [
+     591,
+     1404,
+     594,
+     1412,
+     "r16"
+    ],
+    [
+     607,
+     1405,
+     609,
+     1413,
+     "r16"
+    ],
+    [
+     610,
+     1404,
+     614,
+     1413,
+     "r16"
+    ],
+    [
+     617,
+     1404,
+     620,
+     1412,
+     "r16"
+    ],
+    [
+     625,
+     1404,
+     632,
+     1413,
+     "r16"
+    ],
+    [
+     642,
+     1404,
+     650,
+     1413,
+     "r16"
+    ],
+    [
+     653,
+     1404,
+     656,
+     1413,
+     "r16"
+    ],
+    [
+     658,
+     1404,
+     661,
+     1413,
+     "r16"
+    ],
+    [
+     702,
+     1404,
+     706,
+     1412,
+     "r16"
+    ],
+    [
+     722,
+     1405,
+     727,
+     1413,
+     "r16"
+    ],
+    [
+     729,
+     1405,
+     736,
+     1414,
+     "r16"
+    ],
+    [
+     747,
+     1405,
+     755,
+     1414,
+     "r16"
+    ],
+    [
+     776,
+     1405,
+     784,
+     1414,
+     "r16"
+    ],
+    [
+     786,
+     1405,
+     790,
+     1413,
+     "r16"
+    ],
+    [
+     791,
+     1405,
+     793,
+     1407,
+     "r16"
+    ],
+    [
+     699,
+     1406,
+     703,
+     1413,
+     "r16"
+    ],
+    [
+     719,
+     1406,
+     722,
+     1414,
+     "r16"
+    ],
+    [
+     738,
+     1407,
+     742,
+     1414,
+     "r16"
+    ],
+    [
+     816,
+     1406,
+     824,
+     1414,
+     "r16"
+    ],
+    [
+     832,
+     1406,
+     839,
+     1414,
+     "r16"
+    ],
+    [
+     511,
+     1423,
+     525,
+     1437,
+     "r16"
+    ],
+    [
+     543,
+     1423,
+     547,
+     1437,
+     "r16"
+    ],
+    [
+     592,
+     1423,
+     602,
+     1437,
+     "r16"
+    ],
+    [
+     617,
+     1423,
+     622,
+     1437,
+     "r16"
+    ],
+    [
+     625,
+     1423,
+     629,
+     1437,
+     "r16"
+    ],
+    [
+     633,
+     1423,
+     636,
+     1427,
+     "r16"
+    ],
+    [
+     656,
+     1423,
+     665,
+     1437,
+     "r16"
+    ],
+    [
+     667,
+     1423,
+     671,
+     1438,
+     "r16"
+    ],
+    [
+     695,
+     1423,
+     707,
+     1438,
+     "r16"
+    ],
+    [
+     790,
+     1424,
+     799,
+     1438,
+     "r16"
+    ],
+    [
+     813,
+     1424,
+     821,
+     1438,
+     "r16"
+    ],
+    [
+     823,
+     1424,
+     831,
+     1438,
+     "r16"
+    ],
+    [
+     527,
+     1427,
+     534,
+     1437,
+     "r16"
+    ],
+    [
+     719,
+     1426,
+     727,
+     1441,
+     "r16"
+    ],
+    [
+     537,
+     1428,
+     540,
+     1437,
+     "r16"
+    ],
+    [
+     548,
+     1428,
+     557,
+     1441,
+     "r16"
+    ],
+    [
+     571,
+     1428,
+     579,
+     1437,
+     "r16"
+    ],
+    [
+     582,
+     1428,
+     585,
+     1437,
+     "r16"
+    ],
+    [
+     586,
+     1428,
+     589,
+     1437,
+     "r16"
+    ],
+    [
+     638,
+     1428,
+     645,
+     1437,
+     "r16"
+    ],
+    [
+     647,
+     1428,
+     654,
+     1437,
+     "r16"
+    ],
+    [
+     672,
+     1428,
+     681,
+     1441,
+     "r16"
+    ],
+    [
+     709,
+     1428,
+     717,
+     1438,
+     "r16"
+    ],
+    [
+     730,
+     1428,
+     737,
+     1438,
+     "r16"
+    ],
+    [
+     739,
+     1428,
+     746,
+     1438,
+     "r16"
+    ],
+    [
+     747,
+     1428,
+     755,
+     1438,
+     "r16"
+    ],
+    [
+     768,
+     1428,
+     776,
+     1438,
+     "r16"
+    ],
+    [
+     778,
+     1429,
+     782,
+     1438,
+     "r16"
+    ],
+    [
+     784,
+     1429,
+     787,
+     1438,
+     "r16"
+    ],
+    [
+     832,
+     1430,
+     840,
+     1439,
+     "r16"
+    ],
+    [
+     842,
+     1430,
+     851,
+     1442,
+     "r16"
+    ],
+    [
+     853,
+     1430,
+     861,
+     1440,
+     "r16"
+    ],
+    [
+     865,
+     1430,
+     871,
+     1433,
+     "r16"
+    ],
+    [
+     873,
+     1430,
+     876,
+     1439,
+     "r16"
+    ],
+    [
+     879,
+     1430,
+     882,
+     1439,
+     "r16"
+    ],
+    [
+     884,
+     1430,
+     887,
+     1439,
+     "r16"
+    ],
+    [
+     890,
+     1430,
+     897,
+     1440,
+     "r16"
+    ],
+    [
+     898,
+     1430,
+     905,
+     1440,
+     "r16"
+    ],
+    [
+     863,
+     1435,
+     870,
+     1439,
+     "r16"
+    ],
+    [
+     680,
+     1452,
+     736,
+     1458,
+     "r16"
+    ],
+    [
+     543,
+     1468,
+     555,
+     1482,
+     "r16"
+    ],
+    [
+     588,
+     1468,
+     596,
+     1482,
+     "r16"
+    ],
+    [
+     598,
+     1469,
+     602,
+     1482,
+     "r16"
+    ],
+    [
+     640,
+     1469,
+     648,
+     1483,
+     "r16"
+    ],
+    [
+     708,
+     1469,
+     716,
+     1486,
+     "r16"
+    ],
+    [
+     748,
+     1469,
+     760,
+     1483,
+     "r16"
+    ],
+    [
+     761,
+     1469,
+     778,
+     1483,
+     "r16"
+    ],
+    [
+     781,
+     1469,
+     792,
+     1484,
+     "r16"
+    ],
+    [
+     805,
+     1470,
+     817,
+     1485,
+     "r16"
+    ],
+    [
+     819,
+     1470,
+     832,
+     1484,
+     "r16"
+    ],
+    [
+     834,
+     1470,
+     841,
+     1485,
+     "r16"
+    ],
+    [
+     843,
+     1470,
+     854,
+     1485,
+     "r16"
+    ],
+    [
+     856,
+     1471,
+     863,
+     1485,
+     "r16"
+    ],
+    [
+     865,
+     1471,
+     876,
+     1485,
+     "r16"
+    ],
+    [
+     558,
+     1473,
+     564,
+     1482,
+     "r16"
+    ],
+    [
+     567,
+     1473,
+     574,
+     1482,
+     "r16"
+    ],
+    [
+     577,
+     1473,
+     585,
+     1483,
+     "r16"
+    ],
+    [
+     605,
+     1473,
+     610,
+     1484,
+     "r16"
+    ],
+    [
+     614,
+     1473,
+     617,
+     1482,
+     "r16"
+    ],
+    [
+     651,
+     1473,
+     660,
+     1486,
+     "r16"
+    ],
+    [
+     663,
+     1473,
+     670,
+     1483,
+     "r16"
+    ],
+    [
+     683,
+     1472,
+     687,
+     1483,
+     "r16"
+    ],
+    [
+     689,
+     1473,
+     696,
+     1483,
+     "r16"
+    ],
+    [
+     619,
+     1474,
+     622,
+     1482,
+     "r16"
+    ],
+    [
+     672,
+     1474,
+     675,
+     1483,
+     "r16"
+    ],
+    [
+     677,
+     1474,
+     680,
+     1483,
+     "r16"
+    ],
+    [
+     718,
+     1474,
+     726,
+     1483,
+     "r16"
+    ],
+    [
+     729,
+     1474,
+     735,
+     1483,
+     "r16"
+    ],
+    [
+     786,
+     1475,
+     790,
+     1478,
+     "r16"
+    ],
+    [
+     636,
+     1480,
+     638,
+     1483,
+     "r16"
+    ],
+    [
+     603,
+     1484,
+     607,
+     1486,
+     "r16"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "",
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 466,
+    "y0": 327,
+    "x1": 707,
+    "y1": 349
+   },
+   "text": "Day and Evening Classes",
+   "status": "ok",
+   "confidence": 0.8616960048675537,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 466,
+    "y0": 324,
+    "x1": 706,
+    "y1": 347
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 768,
+    "y0": 359,
+    "x1": 1001,
+    "y1": 383
+   },
+   "text": "NEW YORK CITY",
+   "status": "ok",
+   "confidence": 0.7972025275230408,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 765,
+    "y0": 354,
+    "x1": 997,
+    "y1": 384
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 509,
+    "y0": 1296,
+    "x1": 907,
+    "y1": 1324
+   },
+   "text": "782 Fulton Street, near Adelphi Street",
+   "status": "ok",
+   "confidence": 0.6167327761650085,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 506,
+    "y0": 1293,
+    "x1": 907,
+    "y1": 1488
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r16"
+  },
+  {
+   "id": "r16b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 509,
+    "y0": 1324,
+    "x1": 907,
+    "y1": 1488
+   },
+   "text": "BROOKLYN, N. Y.\nAll Kinds of Workmanship\nCigars and Tobacco for Sale\nDaily and Weekly Papers and Magazines\nBrooklyn Agents for THE CRISIS",
+   "status": "ok",
+   "confidence": 0.6167327761650085,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 506,
+    "y0": 1293,
+    "x1": 907,
+    "y1": 1488
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r16"
+  }
+ ],
+ "clean": {
+  "regions_before": 16,
+  "regions_after": 17,
+  "lost_words": [],
+  "needs_review": [
+   "r3bbb"
+  ],
+  "unowned_ink_pct": 2.82,
+  "box_overlaps_after": 2,
+  "log": [
+   "drop r2 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r4 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r10 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r11 (text): non-latin hallucination 'حرَّجَة'",
+   "reshape r0 (abandon): lost 89% of its ink, gained 0%",
+   "reshape r5 (title): lost 17% of its ink, gained 0%",
+   "reshape r12 (figure): lost 0% of its ink, gained 4%",
+   "reread r0: \"K'S School of Dressmaking\\nly, Embroideri\" -> 'THE CRISIS ADVERTISER'",
+   "reread r5: '$100,000 STOCK ISSUE\\nTO BUILD AN\\nAuditor' -> '$100,000 STOCK ISSUE\\nTO BUILD AN\\nAuditor'",
+   "reread r12: '' -> 'DE Fritter Street, near Aldert Street\\n77'",
+   "split r3 at y=491 before 'FRUITS AND VEGETABLES OYSTERS AND GAME POULTRY AND EGGS'",
+   "split r3b at y=513 before 'COTTMAN & COTTMAN'",
+   "split r3bb at y=600 before 'NYANZA DRUG CO.'",
+   "REVIEW r3bbb: heading 'NYANZA PHARMACY' inside box; no verified split at the 3 nearest gaps",
+   "split r5 at y=851 before 'TO BUILD AN'",
+   "split r16 at y=1324 before 'BROOKLYN, N. Y.'"
+  ]
+ }
+}

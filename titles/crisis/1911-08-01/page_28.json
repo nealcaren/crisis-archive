@@ -1,0 +1,85 @@
+{
+  "page": 28,
+  "image": "images/page_28.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 126,
+        "y0": 100,
+        "x1": 964,
+        "y1": 616
+      },
+      "text": "Views of a Southern Woman\nBy ADELENE MOFFAT\nAn Address Before the Third Annual Conference of the National Association\nfor the Advancement of Colored People\n\nI have been asked to speak for a few minutes at this conference for much the same reason, I suppose, that families at feud with each other in the part of the country from which I came originally choose the county line for the scene of their more explosive undervaluations of each other. The probability of the sheriffs of both counties appearing simultaneously is so small that differences may be discussed in the most carefree manner if only a subconscious sense of geography and a policy of rapid transit across the line be maintained by both sides.\n\ncident; often according to the extent of the hardship inflicted upon the colored person. On the other hand, the Northerner stands amazed and helpless before the incomprehensible mental processes of the Southerner, his utter lack of logic.\n\nI shall never forget the amazement of a young Southern woman when she first came North to discover that a colored woman had been unable to find anyone to make a dress for her. As she turned around from the stamp window in the post office, a large, not too clean, middle-aged \"darkey\" fell upon her. \"You all from the South, isn't you? Well, the",
+      "status": "ok",
+      "confidence": 0.9764601588249207,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 136,
+        "y0": 617,
+        "x1": 531,
+        "y1": 959
+      },
+      "text": "Having been brought up in the South and having lived the latter part of my life in the North, I find myself a Northerner in the South and a Southerner in the North. Since it is this personal point of view that I have been asked to express, I hope I may be forgiven for a too frequent use of the personal pronoun and for quoting personal experiences. I think because I am both Southern and Northern I am more keenly aware than many of the inconsistencies on both sides—inconsistencies of phrase, of feeling and of policy. It seems to me that one of the most important functions of this association is that it will serve as a clearing house for misunderstandings and misrepresentations.",
+      "status": "ok",
+      "confidence": 0.9757010340690613,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 136,
+        "y0": 961,
+        "x1": 531,
+        "y1": 1457
+      },
+      "text": "On this race question we seem to be unable to reach real issues because we are to so great a degree governed by phrases rather than by facts; and most of the facts are new and most of the phrases old. I often wonder if there has ever been outside the realm of religion a cause so phrase-ridden. This would be less deplorable if many of these ready dicta had not become so distorted from their original intention and application that on both sides of the line we believe we think many things we do not think at all.\n\nWe are quite sure we have feelings which it has been clearly demonstrated we have not. We think we have race prejudice in the South, but we have not: we have only caste prejudice; the race prejudice is in the North, and the caste prejudice is growing here. The ways in which caste and race prejudice find expression in the North are beyond the comprehension of the Southerner and arouse his humor or his indignation according to the seriousness of the in-",
+      "status": "ok",
+      "confidence": 0.976805567741394,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 558,
+        "y0": 444,
+        "x1": 956,
+        "y1": 958
+      },
+      "text": "I shall never forget the amazement of a young Southern woman when she first came North to discover that a colored woman had been unable to find anyone to make a dress for her. 'As she turned around from the stamp window in the post office, a large, not too clean, middle-aged \"darkey\" fell upon her. \"You all from the South, isn't you? Well, the Lord certainly have sent you! Won't you please, ma'm, make me a dress? I came up here to work in the clothes I'm standing in, thinking I could buy me somethin' or git somethin' made, and the store clothes is all too little and too fancy, and I've been everywhere there is to go an' there ain't anybody will make a dress for colored folks. Ain't that the beatenest?\" The young Southern lady thought it was. Of course she made the dress, to the horror of some of her Northern friends, saying to herself: \"And this is Massachusetts!\" She had been accustomed all her life to see the young girls of good family make money for their Easter offerings by sewing for colored people.",
+      "status": "ok",
+      "confidence": 0.9793715476989746,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 558,
+        "y0": 960,
+        "x1": 955,
+        "y1": 1459
+      },
+      "text": "On the other hand, a white trained nurse whom I knew in the South is in settlement work in a neighborhood where there are white and colored. She never asks when a case is reported to her what the complexion of her patient is—she goes to white and colored alike. She will care conscientiously and tenderly for a colored patient and perform all those menial offices glorified by her profession without a thought of doing otherwise, however diseased, ignorant or debased her patient may be, but she will not hand her patient's chart to a colored doctor; though he be immaculate in person, of irreproachable morals, and with an education and an accent which she would boast with pride were as good or better than her own!\n\nThe artificiality of the barrier between the two races could be shown by hundreds of better incidents than these. It is this artificiality that creates the problems and prevents each race from having the freedom to work out its own destiny. There is no Negro problem except as we",
+      "status": "ok",
+      "confidence": 0.9800013899803162,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.6,
+    "at": "2026-10-06T22:13:31+00:00"
+  }
+}

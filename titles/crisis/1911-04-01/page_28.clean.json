@@ -1,0 +1,526 @@
+{
+ "page": 28,
+ "image": "images/page_28.jpg",
+ "width": 1082,
+ "height": 1611,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 300.8,
+  "at": "2026-10-06T21:33:33+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 175,
+    "y0": 91,
+    "x1": 1002,
+    "y1": 228
+   },
+   "text": "THE BURDEN",
+   "status": "ok",
+   "confidence": 0.5445082187652588,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 355,
+    "y0": 128,
+    "x1": 821,
+    "y1": 189
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "THE BURDEN",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 596,
+    "y0": 248,
+    "x1": 999,
+    "y1": 290
+   },
+   "text": "for carfare and living expenses than women in better pecuniary circumstances.",
+   "status": "ok",
+   "confidence": 0.726094663143158,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 595,
+    "y0": 247,
+    "x1": 999,
+    "y1": 287
+   },
+   "exclude": [
+    [
+     825,
+     289,
+     841,
+     303,
+     "r3"
+    ],
+    [
+     866,
+     289,
+     879,
+     304,
+     "r3"
+    ],
+    [
+     925,
+     289,
+     929,
+     303,
+     "r3"
+    ],
+    [
+     931,
+     288,
+     935,
+     303,
+     "r3"
+    ],
+    [
+     938,
+     288,
+     940,
+     294,
+     "r3"
+    ],
+    [
+     961,
+     288,
+     964,
+     290,
+     "r3"
+    ],
+    [
+     967,
+     288,
+     976,
+     303,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 178,
+    "y0": 252,
+    "x1": 574,
+    "y1": 293
+   },
+   "text": "COLORED MEN LYNCHED WITHOUT TRIAL.",
+   "status": "ok",
+   "confidence": 0.8832151293754578,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 176,
+    "y0": 248,
+    "x1": 574,
+    "y1": 292
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 599,
+    "y0": 286,
+    "x1": 998,
+    "y1": 387
+   },
+   "text": "Is this the way that Mr. Cornell's idea is being carried out? Is this the way that Goldwin Smith's memory is honored and respected? Does Andrew D. White approve of this state of affairs?",
+   "status": "ok",
+   "confidence": 0.7309370636940002,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 598,
+    "y0": 288,
+    "x1": 997,
+    "y1": 383
+   },
+   "exclude": [
+    [
+     760,
+     275,
+     770,
+     288,
+     "r1"
+    ],
+    [
+     841,
+     275,
+     851,
+     288,
+     "r1"
+    ],
+    [
+     865,
+     385,
+     873,
+     393,
+     "r6"
+    ],
+    [
+     936,
+     385,
+     944,
+     393,
+     "r6"
+    ],
+    [
+     725,
+     386,
+     733,
+     395,
+     "r6"
+    ],
+    [
+     795,
+     386,
+     803,
+     394,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 178,
+    "y0": 297,
+    "x1": 574,
+    "y1": 551
+   },
+   "text": "1885 . . . . . . . . . . .",
+   "status": "repetition",
+   "confidence": 0.417332261800766,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 175,
+    "y0": 294,
+    "x1": 574,
+    "y1": 554
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 653,
+    "y0": 383,
+    "x1": 946,
+    "y1": 398
+   },
+   "text": "* * * * *",
+   "status": "ok",
+   "confidence": 0.27918100357055664,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 621,
+    "y0": 383,
+    "x1": 946,
+    "y1": 396
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 597,
+    "y0": 401,
+    "x1": 999,
+    "y1": 1016
+   },
+   "text": "The authorities of the university also have their part in keeping alive the Cornell spirit. The man who asked whether Niggers ate in a public refectory now sits in an instructor's chair in Goldwin Smith Hall. My own experience with professors would not justify the columns of editorials on \"the gap between professors and undergraduates\" which recently appeared in the Sun. But how would this man behave to a Nigger who went into his class? A university is a place where Truth is sought and taught—broad, universal, all-pervading Truth. It is the last place on earth to foster narrow, racial, personal prejudices. If one instructor does not like Niggers, another may despise Chinese, a third may hate Jews, and a fourth may have no use for anybody but himself, as the Sun seems to think. Then what becomes of the instruction for any person? This is not the type of teachers that Cornell began with. These are not the men who make sacrifices in order to do things for others. A man who has strong racial or class antipathies is bound to show them. And if he has to train minds and shape character! Such a man can never be a teacher in a cosmopolitan, democratic university.—James B. Clark, '12, in the Cornell University Era.",
+   "status": "ok",
+   "confidence": 0.9764710664749146,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 597,
+    "y0": 403,
+    "x1": 997,
+    "y1": 1015
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 425,
+    "y0": 560,
+    "x1": 574,
+    "y1": 592
+   },
+   "text": "Total.....2,458",
+   "status": "ok",
+   "confidence": 0.21423408389091492,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 424,
+    "y0": 568,
+    "x1": 572,
+    "y1": 590
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Total.....2,458",
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 177,
+    "y0": 628,
+    "x1": 573,
+    "y1": 1114
+   },
+   "text": "Ezra Cornell's object is still expressed in the seal of the university: \"I would found an institution where any person might obtain instruction in any subject.\" * * * * *\n\nFour years ago a person who wished instruction made application before arriving here for accommodation in the dormitory for female persons. The officials in charge of the building found out that the applicant, although not more heavily pigmented than the average resident, belonged to a type of persons known as colored. Shortly after the father of this girl received a curt note containing his deposit and informing him that it was a cruel imposition not to have said that he was a woman and that, according to the Cornell University Register, \"the dormitories for women students are Sage College and Sage Cottage.\"",
+   "status": "ok",
+   "confidence": 0.9783092141151428,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 176,
+    "y0": 626,
+    "x1": 572,
+    "y1": 1110
+   },
+   "exclude": [
+    [
+     196,
+     1098,
+     222,
+     1127,
+     "r11"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "title",
+   "bbox": {
+    "x0": 599,
+    "y0": 1049,
+    "x1": 999,
+    "y1": 1462
+   },
+   "text": "\"LOWNESS.\"\nOn March 2 a little white girl, eight years of age, was brought before the Children's Court of New York on the charge of improper guardianship. The evidence proved that the child was living in a tenement home under the care of a black woman who had been a mother to her since her own white mother had deserted her seven years before. The child was happy amid her surroundings, she was neatly dressed and there was no word of complaint against the woman who had reared her; nevertheless, by order of the court, she was placed in the charge of a probation officer, who at once removed her from her home. Her colored mother by adoption, the mother who had fed and clothed her, had given her pretty playthings, had trained her in sweet and virtuous ways,",
+   "status": "ok",
+   "confidence": 0.9569507241249084,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 599,
+    "y0": 1047,
+    "x1": 997,
+    "y1": 1460
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 175,
+    "y0": 1096,
+    "x1": 574,
+    "y1": 1459
+   },
+   "text": "Last year two women students who had grown tired of climbing the hill or getting half-frozen waiting for the street cars wished to obtain rooms nearer to the university. The only place where they could even dare apply was Sage College. Here the Dean informed them that while she herself had no objection to getheres to letting them draw for rooms, the street cars wished to obtain rooms nearer to the university. The only place where they could even dare apply was Sage College. The only place where they could even dare apply was Sage College. Here the Dean informed them that while she had no objection to the Dean informed them that while she herself had no objection to the other occupants of the building would make it very unpleasant for them. These women were therefore obliged to go back this year to the Negro quarter in the lower part of the town; to hurry back and forth to their meals; to waste in going up and down much time and energy that they ought to spend in assimilating the instruction that is given them; to pay more",
+   "status": "ok",
+   "confidence": 0.9770070314407349,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 177,
+    "y0": 1112,
+    "x1": 572,
+    "y1": 1455
+   },
+   "exclude": [
+    [
+     180,
+     1093,
+     183,
+     1107,
+     "r9"
+    ],
+    [
+     250,
+     1093,
+     259,
+     1108,
+     "r9"
+    ],
+    [
+     272,
+     1093,
+     282,
+     1108,
+     "r9"
+    ],
+    [
+     326,
+     1093,
+     339,
+     1108,
+     "r9"
+    ],
+    [
+     405,
+     1093,
+     408,
+     1099,
+     "r9"
+    ],
+    [
+     410,
+     1093,
+     413,
+     1100,
+     "r9"
+    ],
+    [
+     353,
+     1096,
+     358,
+     1108,
+     "r9"
+    ],
+    [
+     360,
+     1096,
+     366,
+     1108,
+     "r9"
+    ],
+    [
+     186,
+     1098,
+     193,
+     1107,
+     "r9"
+    ],
+    [
+     208,
+     1098,
+     215,
+     1108,
+     "r9"
+    ],
+    [
+     227,
+     1098,
+     236,
+     1107,
+     "r9"
+    ],
+    [
+     239,
+     1098,
+     247,
+     1107,
+     "r9"
+    ],
+    [
+     283,
+     1098,
+     292,
+     1108,
+     "r9"
+    ],
+    [
+     294,
+     1098,
+     304,
+     1111,
+     "r9"
+    ],
+    [
+     306,
+     1098,
+     314,
+     1108,
+     "r9"
+    ],
+    [
+     341,
+     1098,
+     350,
+     1108,
+     "r9"
+    ],
+    [
+     367,
+     1098,
+     376,
+     1108,
+     "r9"
+    ],
+    [
+     378,
+     1098,
+     388,
+     1112,
+     "r9"
+    ],
+    [
+     390,
+     1098,
+     398,
+     1108,
+     "r9"
+    ],
+    [
+     400,
+     1105,
+     403,
+     1108,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.28,
+  "box_overlaps_after": 3,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 57%",
+   "reshape r8 (plain_text): lost 0% of its ink, gained 19%",
+   "reread r0: 'THE BURDEN' -> 'THE BURDEN'",
+   "reread r8: 'Total.....2,458' -> 'Total.....2,458'"
+  ]
+ }
+}

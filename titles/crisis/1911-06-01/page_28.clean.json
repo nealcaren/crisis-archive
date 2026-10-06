@@ -1,0 +1,185 @@
+{
+ "page": 28,
+ "image": "images/page_28.jpg",
+ "width": 1375,
+ "height": 2092,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.9,
+  "at": "2026-10-06T21:50:42+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 745,
+    "y0": 206,
+    "x1": 1273,
+    "y1": 1120
+   },
+   "text": "can go to a teachers' association and meet the multitude of others engaged in the same work, for mutual encouragement and companionship, it is well. If he can attend a summer school and come under the instruction of masters superior to himself, that is well. If he can afford to travel and enlarge his ideas by acquaintance with other lands and other peoples, that also is well. But one thing is essential, the teacher must read. Reading is the open door to high intellectual attainments, and in these days it is wide open. Of all times in the year vacation is the golden period for reading—not for random, desultory trifling with newspapers and the current novels, but for the thorough mastery of great books, by great authors, on great subjects. For example, read Andrew D. White's \"Seven Great Statesmen,\" and it will be to you the opening of new worlds, an enlargement of your range of vision, a quickening of your appreciation of steadfast devotion to a truth, a kindling of your admiration for sublime heroism, and a strengthening of your faith in the ultimate triumph of justice. The teacher must guard his own integrity, deepen his own convictions, fortify his own faiths, anchor his own hopes—not for himself alone—but for the sake of the pupils he is to influence. The greatest of all teachers said: \"For their sakes I sanctify myself, that they also might be sanctified through the truth.\"",
+   "status": "ok",
+   "confidence": 0.9772561192512512,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 744,
+    "y0": 204,
+    "x1": 1263,
+    "y1": 1113
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 200,
+    "y0": 207,
+    "x1": 713,
+    "y1": 1069
+   },
+   "text": "be induced to add some interesting books to the library, or furnish the children with a supply of entertaining magazines? But there are other things, not immediately connected with the school, that the people may fairly expect their teachers to take an interest in. For the teacher holds a peculiar place in the community, a place of honor and of responsibility. He is supposed to know more on a great many things than other people, for he has had a better education. This education should be worth something to his neighbors who are less fortunate, not to the children only, but to their parents and to all who help support the school, not to speak of the rest who may be even more in need. The teacher will be looked to for help in church work and in the Sunday-school, in social affairs of all sorts, in efforts at reform, in movements to prevent disease, and to promote better health conditions, in attempts at village improvement and in enterprises for the purification of morals—in all these the teacher is wanted to take an active hand and be an intelligent leader. He should be the alert guardian of all high interests, with eyes open to see what is going on and voice ready to speak with sound judgment, when his opinion is called for. One of this type will not be likely to weaken in tone on account of a vacation.",
+   "status": "ok",
+   "confidence": 0.9772436618804932,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 201,
+    "y0": 205,
+    "x1": 711,
+    "y1": 1067
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 205,
+    "y0": 1068,
+    "x1": 714,
+    "y1": 1122
+   },
+   "text": "3. Finally, the teacher should look out for his own intellectual growth. If he",
+   "status": "ok",
+   "confidence": 0.9409763813018799,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 203,
+    "y0": 1068,
+    "x1": 712,
+    "y1": 1119
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "figure",
+   "bbox": {
+    "x0": 287,
+    "y0": 1271,
+    "x1": 1177,
+    "y1": 1916
+   },
+   "text": "",
+   "status": "ok",
+   "confidence": 0.9742932319641113,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 287,
+    "y0": 1271,
+    "x1": 1173,
+    "y1": 1909
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 368,
+    "y0": 1937,
+    "x1": 1124,
+    "y1": 1964
+   },
+   "text": "LINCOLN POLYTECHNIC HIGH SCHOOL, EAST ST. LOUIS, ILL.",
+   "status": "ok",
+   "confidence": 0.5626713037490845,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 366,
+    "y0": 1935,
+    "x1": 1124,
+    "y1": 1963
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "abandon",
+   "bbox": {
+    "x0": 202,
+    "y0": 138,
+    "x1": 236,
+    "y1": 167
+   },
+   "text": "72",
+   "status": "ok",
+   "confidence": 0.8314543962478638,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 201,
+    "y0": 137,
+    "x1": 235,
+    "y1": 165
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r6",
+   "label": "abandon",
+   "bbox": {
+    "x0": 617,
+    "y0": 138,
+    "x1": 826,
+    "y1": 169
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8311747312545776,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 615,
+    "y0": 136,
+    "x1": 825,
+    "y1": 169
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 7,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.03,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

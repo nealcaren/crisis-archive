@@ -1,0 +1,640 @@
+{
+ "page": 14,
+ "image": "images/page_14.jpg",
+ "width": 1372,
+ "height": 2090,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 11.3,
+  "at": "2026-10-06T21:48:44+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 613,
+    "y0": 138,
+    "x1": 822,
+    "y1": 168
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8785667419433594,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 611,
+    "y0": 136,
+    "x1": 820,
+    "y1": 168
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 742,
+    "y0": 201,
+    "x1": 1262,
+    "y1": 898
+   },
+   "text": "where a Negro boy can find employment even at 25 cents a week (the usual price paid a boy to mind a cow), he is kept out of school to do this work. As it is, however, there is very little for the vast numbers of Negro boys and girls to do to place them among the wage-earners of the familv, and so the public and private schools are crowded. The term of the country schools averages about three months, and is given during the months when there is not much work to be done on the farms, and thus the child gets the full advantage of the meager school facilities. The white child is more often taken from the country to the towns where he or she can find employment in the factory until time to begin work on the farm. Some years ago, under the shadow of the capitol of South Carolina, there were two schools less than three miles apart. In one a Negro teacher was employed for nine weeks at a salary of $25 a month, and had enrolled 140 Negro pupils. The other, a white teacher employed for four months at a salary of $40 a month, had enrolled five white pupils.",
+   "status": "ok",
+   "confidence": 0.97764652967453,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 744,
+    "y0": 202,
+    "x1": 1257,
+    "y1": 892
+   },
+   "exclude": [
+    [
+     1131,
+     895,
+     1135,
+     899,
+     "r4"
+    ],
+    [
+     785,
+     896,
+     803,
+     915,
+     "r4"
+    ],
+    [
+     806,
+     897,
+     818,
+     915,
+     "r4"
+    ],
+    [
+     854,
+     896,
+     873,
+     915,
+     "r4"
+    ],
+    [
+     958,
+     896,
+     961,
+     899,
+     "r4"
+    ],
+    [
+     1010,
+     897,
+     1022,
+     915,
+     "r4"
+    ],
+    [
+     1096,
+     896,
+     1099,
+     900,
+     "r4"
+    ],
+    [
+     1198,
+     896,
+     1205,
+     915,
+     "r4"
+    ],
+    [
+     1228,
+     896,
+     1231,
+     899,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 200,
+    "y0": 206,
+    "x1": 712,
+    "y1": 651
+   },
+   "text": "has no comprehension. Is it generally known, for instance, that to-day there are 10,000,000 black people in the United States? Is it known, except to the investigators, that 3,700,000 Negroes are members of churches, presided over by 35,224 ordained ministers in 35,160 houses of worship? That the total value of property owned by Negroes is $56,- 650,000? That there are 35,000 Negro Sunday schools with 1,700,000 pupils and 210,000 teachers? That the Negro churches contribute annually $500,000 for education, $50,000 for foreign missions and $100,000 for the support of missionaries at home? That the Negroes are themselves maintaining 175 colleges, industrial schools and academies?",
+   "status": "ok",
+   "confidence": 0.9764527678489685,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 200,
+    "y0": 205,
+    "x1": 710,
+    "y1": 650
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 200,
+    "y0": 649,
+    "x1": 712,
+    "y1": 1046
+   },
+   "text": "\"These are facts. The statistics are authentic and cannot fail to make a deep impression upon the mind of any thoughtful person. Few races under like circumstances have ever shown their ability to live and to increase in numbers, as far as our knowledge of history serves us.\n\n\"Not in a spirit of condescension can the white man help the Negro. The desire of the black man is to be let alone. He wants only moral assistance as he endeavors to improve his condition, and then the privilege of applying his training and education without undue prejudice against his color.\"",
+   "status": "ok",
+   "confidence": 0.9762724041938782,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 199,
+    "y0": 650,
+    "x1": 709,
+    "y1": 1043
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 744,
+    "y0": 892,
+    "x1": 1260,
+    "y1": 1336
+   },
+   "text": "\"The Negro, in the majority of instances, is aware of his handicap and is using every available method to improve himself; while the poor whites are so secure in their superiority, because of their race, that they are blinded to their real need as individuals.\n\n\"Another curious feature is the 'Property Clause.' This provides that a voter must be possessed of $300 worth of personal property. This is another 'blessing in disguise,' for the usually spendthrift Negro with the ambition to cast a vote will put forth unusual effort to become possessed of $300 worth of personal property, and the habit once acquired of saving his small earnings is likely to be retained.",
+   "status": "ok",
+   "confidence": 0.9745906591415405,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 744,
+    "y0": 894,
+    "x1": 1257,
+    "y1": 1335
+   },
+   "exclude": [
+    [
+     787,
+     1321,
+     813,
+     1357,
+     "r7"
+    ],
+    [
+     990,
+     878,
+     1002,
+     895,
+     "r1"
+    ],
+    [
+     1020,
+     878,
+     1033,
+     895,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "title",
+   "bbox": {
+    "x0": 204,
+    "y0": 1076,
+    "x1": 714,
+    "y1": 1103
+   },
+   "text": "SOUTH CAROLINA CONDITIONS",
+   "status": "ok",
+   "confidence": 0.8764795660972595,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 208,
+    "y0": 1073,
+    "x1": 706,
+    "y1": 1102
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 202,
+    "y0": 1113,
+    "x1": 716,
+    "y1": 1733
+   },
+   "text": "\"A South Carolinian\" writes in the Socialist Call of colored folk in his State: \"My knowledge of the exact conditions relates only to the State of South Carolina, where the 'Educational Clause' is applied to the Negro citizen, and rarely, if ever, is detrimental to the poor whites. 'The Law' is the opinion of the registration officer. The white man goes up to register and is not asked to 'read and explain a paragraph' to the 'satisfaction' of the officer—the latter is satisfied that he is 'intelligent enough to vote' because his face is white. Well-known Negroes are disposed of in like manner. Now, when an unknown Negro, or one whose local standing is not of sufficient importance, or when the tolerated number of Negroes are registered, for the instances are rare where all are refused then 'The Law' is applied. The applicant is given a paragraph (often selected from a ponderous volume of law) and told to 'read and explain what it means.' The results are easily foreseen.",
+   "status": "ok",
+   "confidence": 0.9730562567710876,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 202,
+    "y0": 1114,
+    "x1": 712,
+    "y1": 1727
+   },
+   "exclude": [
+    [
+     233,
+     1731,
+     238,
+     1739,
+     "r9"
+    ],
+    [
+     240,
+     1731,
+     244,
+     1739,
+     "r9"
+    ],
+    [
+     246,
+     1731,
+     264,
+     1750,
+     "r9"
+    ],
+    [
+     436,
+     1731,
+     447,
+     1749,
+     "r9"
+    ],
+    [
+     496,
+     1731,
+     508,
+     1750,
+     "r9"
+    ],
+    [
+     512,
+     1731,
+     516,
+     1734,
+     "r9"
+    ],
+    [
+     520,
+     1731,
+     524,
+     1749,
+     "r9"
+    ],
+    [
+     622,
+     1731,
+     629,
+     1750,
+     "r9"
+    ],
+    [
+     664,
+     1731,
+     667,
+     1734,
+     "r9"
+    ],
+    [
+     267,
+     1732,
+     271,
+     1750,
+     "r9"
+    ],
+    [
+     528,
+     1732,
+     539,
+     1750,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 745,
+    "y0": 1318,
+    "x1": 1261,
+    "y1": 1586
+   },
+   "text": "\"The Poll Tax Law' is of such long standing that it is looked upon as a 'natural law.' There are a few men of questionable character who employ large numbers of Negroes, who advise them of the futility of paying the 'poll tax,' since they are not allowed the privilege of voting. This seems quite a sensible view of the matter, and the advice is taken in the majority of cases.",
+   "status": "ok",
+   "confidence": 0.9745595455169678,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 745,
+    "y0": 1335,
+    "x1": 1257,
+    "y1": 1582
+   },
+   "exclude": [
+    [
+     780,
+     1584,
+     785,
+     1591,
+     "r8"
+    ],
+    [
+     787,
+     1584,
+     814,
+     1602,
+     "r8"
+    ],
+    [
+     818,
+     1584,
+     828,
+     1602,
+     "r8"
+    ],
+    [
+     867,
+     1584,
+     871,
+     1587,
+     "r8"
+    ],
+    [
+     897,
+     1585,
+     909,
+     1604,
+     "r8"
+    ],
+    [
+     938,
+     1585,
+     946,
+     1604,
+     "r8"
+    ],
+    [
+     749,
+     1314,
+     753,
+     1332,
+     "r4"
+    ],
+    [
+     764,
+     1314,
+     776,
+     1332,
+     "r4"
+    ],
+    [
+     792,
+     1314,
+     797,
+     1332,
+     "r4"
+    ],
+    [
+     866,
+     1314,
+     879,
+     1333,
+     "r4"
+    ],
+    [
+     992,
+     1315,
+     1004,
+     1333,
+     "r4"
+    ],
+    [
+     829,
+     1317,
+     836,
+     1333,
+     "r4"
+    ],
+    [
+     932,
+     1317,
+     939,
+     1333,
+     "r4"
+    ],
+    [
+     757,
+     1320,
+     761,
+     1332,
+     "r4"
+    ],
+    [
+     779,
+     1320,
+     789,
+     1332,
+     "r4"
+    ],
+    [
+     839,
+     1320,
+     851,
+     1333,
+     "r4"
+    ],
+    [
+     881,
+     1320,
+     892,
+     1333,
+     "r4"
+    ],
+    [
+     907,
+     1320,
+     916,
+     1332,
+     "r4"
+    ],
+    [
+     919,
+     1321,
+     929,
+     1333,
+     "r4"
+    ],
+    [
+     942,
+     1320,
+     953,
+     1333,
+     "r4"
+    ],
+    [
+     956,
+     1321,
+     961,
+     1333,
+     "r4"
+    ],
+    [
+     963,
+     1321,
+     969,
+     1333,
+     "r4"
+    ],
+    [
+     970,
+     1321,
+     975,
+     1333,
+     "r4"
+    ],
+    [
+     979,
+     1321,
+     989,
+     1333,
+     "r4"
+    ],
+    [
+     1007,
+     1330,
+     1010,
+     1333,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 746,
+    "y0": 1581,
+    "x1": 1263,
+    "y1": 1959
+   },
+   "text": "\"What is by far more serious than the 'poll tax' law is that prisoners, unless pardoned before the expired term, forfeit their rights of citizenship. Numbers of Negro boys are arrested on the slightest pretext and sentenced to the chain gang for various terms—and are thus branded forever—far less guilty of crime than those who sent them there. The attitude of the court is so well understood that Negroes feel that the only necessary bit of testimony for the judge or jury is the answer to the question, 'Who is the prisoner? White or colored?' If white, in most cases, 'Not guilty;' if colored,",
+   "status": "ok",
+   "confidence": 0.9773673415184021,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 747,
+    "y0": 1583,
+    "x1": 1258,
+    "y1": 1955
+   },
+   "exclude": [
+    [
+     947,
+     1567,
+     953,
+     1583,
+     "r7"
+    ],
+    [
+     1002,
+     1581,
+     1006,
+     1583,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 203,
+    "y0": 1728,
+    "x1": 718,
+    "y1": 1966
+   },
+   "text": "\"Then, as to the children. It is a cause of rejoicing that Negroes are not admitted as laborers in the factories and mills of the South. This, I think, is true in all the States, with one exception. North Carolina has one mill which employs Negroes. But for this fact the schools would be empty—for in almost every instance",
+   "status": "ok",
+   "confidence": 0.9738325476646423,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 203,
+    "y0": 1729,
+    "x1": 717,
+    "y1": 1954
+   },
+   "exclude": [
+    [
+     466,
+     1713,
+     479,
+     1730,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "abandon",
+   "bbox": {
+    "x0": 199,
+    "y0": 132,
+    "x1": 237,
+    "y1": 168
+   },
+   "text": "58",
+   "status": "ok",
+   "confidence": 0.8169870972633362,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 198,
+    "y0": 131,
+    "x1": 236,
+    "y1": 165
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.2,
+  "box_overlaps_after": 5,
+  "log": []
+ }
+}

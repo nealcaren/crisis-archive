@@ -1,0 +1,281 @@
+{
+ "page": 8,
+ "image": "images/page_08.jpg",
+ "width": 1383,
+ "height": 2088,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.5,
+  "at": "2026-10-06T21:39:00+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 645,
+    "y0": 128,
+    "x1": 833,
+    "y1": 159
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.6728571057319641,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 642,
+    "y0": 127,
+    "x1": 833,
+    "y1": 158
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 214,
+    "y0": 131,
+    "x1": 235,
+    "y1": 160
+   },
+   "text": "8",
+   "status": "ok",
+   "confidence": 0.7702784538269043,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 214,
+    "y0": 132,
+    "x1": 233,
+    "y1": 156
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 215,
+    "y0": 196,
+    "x1": 725,
+    "y1": 766
+   },
+   "text": "the colored people of New Jersey. They propose to fight the social evil, political corruption and such matters. The incorporators are Thomas Cheatam, Levy Williams, Carter Williams and others.\nColored recruits are wanted for the 24th Infantry soon to be sent to the Philippines.\nThe colored people of Dayton, Ohio, have raised $7,623 toward a new Y. M. C. A. building.\nThe Marblehead traveling libraries, established by the late James H. Gregory for the benefit of colored people, are being distributed by Atlanta University; some fifty are now in use.\nSidney Mason, of Haverhill, Mass., has recently died. He was a policeman and afterward a fireman, and gained distinction for his courage.",
+   "status": "ok",
+   "confidence": 0.9578127264976501,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 214,
+    "y0": 196,
+    "x1": 723,
+    "y1": 763
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 217,
+    "y0": 774,
+    "x1": 727,
+    "y1": 1165
+   },
+   "text": "In Columbus, Miss., 2,142 colored persons visited the tuberculosis exhibit. At night the audience room was emptied several times in order to give the others a chance to see the pictures.\nSenator Bradley, of Kentucky, has introduced a bill to appropriate $250,000 for the centenary of the signing of the Emancipation Proclamation in 1913. This is on condition that the colored people raise $100,000.\nIn Pennsylvania a bill to appropriate $20,000 for a celebration in Philadelphia has been introduced by Representative Bass.",
+   "status": "ok",
+   "confidence": 0.9522601366043091,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 217,
+    "y0": 772,
+    "x1": 726,
+    "y1": 1165
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 218,
+    "y0": 1176,
+    "x1": 728,
+    "y1": 1731
+   },
+   "text": "The movement for colored hospitals and hospital work seems to be increasing. In Columbia, S. C., a new hospital is planned by Dr. Matilda Evans. In Spartanburg, S. C., a hospital already established has treated 150 patients and spent $1,200 in charitable work. It is appealing for more funds. In Annapolis, Md., the State is preparing for an $80,000 building for a Negro hospital for the indigent insane.\nColored nurses in Atlanta are being appointed to examine colored school children, but the Board refuses to appoint colored doctors.\nTed Cable, a colored boy, is being relied upon to bring the track team championship to Harvard this year. He is a hammer thrower of unusual ability.\nThe New Orleans Times-Democrat publishes the following letter:",
+   "status": "ok",
+   "confidence": 0.9687443375587463,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 219,
+    "y0": 1174,
+    "x1": 726,
+    "y1": 1728
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 220,
+    "y0": 1738,
+    "x1": 731,
+    "y1": 1941
+   },
+   "text": "An act of true heroism has just come to light here, which should be set down to the credit of the \"brother in black.\" About two months ago Clyde Myers, a Negro then employed at the McInnis sawmill, a few miles south of Hattiesburg, while working with Oscar McCullough, another Negro, on the saw car-",
+   "status": "ok",
+   "confidence": 0.970119833946228,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 221,
+    "y0": 1737,
+    "x1": 728,
+    "y1": 1938
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 755,
+    "y0": 189,
+    "x1": 1269,
+    "y1": 741
+   },
+   "text": "riage, was thrown against the saw and the flesh on his legs badly lacerated.\nMyers was sent to Hattiesburg Hospital where he has since been under treatment. Recently the surgeons decided that there was but little hope for the wounded man's complete recovery, without the process of skin grafting. When Oscar McCullough was informed of this, he volunteered to give up a part of his own cuticle, and the surgeon removed a strip of the skin from Oscar's leg and transferred it to that of Clyde. The wounded man seems to be doing well since the operation, with every indication of its success.\nOscar McCullough did not seem to think he had done anything very wonderful. He said: \"They tell me maybe I was to blame for Clyde's accident. If that is so I want to do all I can to help him to get well.\"",
+   "status": "ok",
+   "confidence": 0.9754433631896973,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 753,
+    "y0": 190,
+    "x1": 1268,
+    "y1": 738
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 753,
+    "y0": 747,
+    "x1": 1267,
+    "y1": 1028
+   },
+   "text": "Fifteen medical students were examined as internes in the State hospital at Indianapolis, Ind. One is a colored man, and physicians who have watched him say he is an unusual student. He received the highest average of all. The association of Physicians, Pharmacists and Dentists of Georgia have published a short history of their organization.",
+   "status": "ok",
+   "confidence": 0.9733046293258667,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 754,
+    "y0": 746,
+    "x1": 1265,
+    "y1": 1242
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r7"
+  },
+  {
+   "id": "r7b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 753,
+    "y0": 1028,
+    "x1": 1267,
+    "y1": 1245
+   },
+   "text": "EDUCATION. A colored girl has been chosen to represent the Glen Cove High School at the Nassau-Suffolk Association's oratorical contest. Ten students took part in the preliminary contest and Miss Proctor won over them all. She recited \"Kentucky Belle.\"",
+   "status": "ok",
+   "confidence": 0.9733046293258667,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 754,
+    "y0": 746,
+    "x1": 1265,
+    "y1": 1242
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r7"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 756,
+    "y0": 1251,
+    "x1": 1270,
+    "y1": 1719
+   },
+   "text": "The Paris correspondent of the New York Journal of Commerce says, at the distribution of prizes at the Sorbonne, among the colleges belonging to the university, one of the three principal, that of Latin composition, was awarded to a mulatto youth, a native of Hayti; and the first of Greek composition to another Haytian, quite black.\n\nA poor white boy who is working his way through college at Benton Harbor, Mich., won a State oratorical contest with an oration on the American Negro.\n\nThe re-election of Henry Allen, a Negro, to the board of school directors has caused more trouble at Enterprise, a mining settlement north of Des Moines, Iowa.",
+   "status": "ok",
+   "confidence": 0.9679356813430786,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 756,
+    "y0": 1250,
+    "x1": 1269,
+    "y1": 1717
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 752,
+    "y0": 1716,
+    "x1": 1272,
+    "y1": 1945
+   },
+   "text": "A year ago Mr. Allen succeeded in electing Miss Nellie Leftridge, a Negro girl of Des Moines, as teacher of the Enterprise school. The white patrons of the school made objections, but Mrs. Jennie Steele Huegle, county superintendent, sustained the election because of the character and scholarship of Miss Leftridge.",
+   "status": "ok",
+   "confidence": 0.9664978384971619,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 759,
+    "y0": 1718,
+    "x1": 1270,
+    "y1": 1942
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": [
+   "split r7 at y=1028 before 'EDUCATION.'"
+  ]
+ }
+}

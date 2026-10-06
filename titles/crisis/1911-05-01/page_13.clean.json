@@ -1,0 +1,368 @@
+{
+ "page": 13,
+ "image": "images/page_13.jpg",
+ "width": 1369,
+ "height": 2078,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.3,
+  "at": "2026-10-06T21:39:44+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 547,
+    "y0": 134,
+    "x1": 694,
+    "y1": 164
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.6685769557952881,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 546,
+    "y0": 132,
+    "x1": 691,
+    "y1": 164
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 97,
+    "y0": 199,
+    "x1": 606,
+    "y1": 912
+   },
+   "text": "out asking or admitting the assistance of other races. This is probably true of all parts of the United States and of other parts of the world where, in the struggle for the survival of the fittest, the stronger race—stronger intellectually—predominates. But the statement that persons are not secure from violence and that they are not protected in the enjoyment of their property is absolutely false as to most sections. We have right here in this section a very large percentage of colored population; either the records of the courts of law or impartial observation will convince anyone that the persons of colored people are as well protected from violence as those of the whites. Luckily for the continued good feeling between the two races, the time has come when the white race is no longer fearing the possibility of 'black heels on white necks,' and when the leaders of the colored race seek its salvation in work and thrift, in decency and morality, and not in the braying of jackasses, either white or black, who insist on absolute social and political equality as the only true gospel of living in peace.\"",
+   "status": "ok",
+   "confidence": 0.9775348901748657,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 97,
+    "y0": 200,
+    "x1": 603,
+    "y1": 907
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 95,
+    "y0": 944,
+    "x1": 605,
+    "y1": 1521
+   },
+   "text": "THE ASSAULT ON MR. WASHINGTON\nThe assault on Mr. Washington has called forth an enormous amount of press comment. Most of the 200 or more editorials of the white and colored press are confined to praise or criticism of Mr. Washington personally, and since that is not the Negro problem it does not come within the scope of this department. There is, however, some discussion of other sides of the incident.\nThe Southern papers, for instance, show great satisfaction that their section of the country had nothing to do with the matter. \"The moral—if there is a moral—is self-evident,\" says the Louisville Times. \"Here in the South is where the Negro belongs; here he is valued, considered, appreciated—whenever he deserves to be. Here he has ties. Here, if he knows and keeps his place, the white man respects him.\"",
+   "status": "ok",
+   "confidence": 0.9781378507614136,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 96,
+    "y0": 941,
+    "x1": 602,
+    "y1": 1516
+   },
+   "exclude": [
+    [
+     123,
+     1519,
+     141,
+     1538,
+     "r3"
+    ],
+    [
+     143,
+     1520,
+     155,
+     1538,
+     "r3"
+    ],
+    [
+     181,
+     1520,
+     199,
+     1538,
+     "r3"
+    ],
+    [
+     203,
+     1520,
+     206,
+     1523,
+     "r3"
+    ],
+    [
+     222,
+     1520,
+     233,
+     1538,
+     "r3"
+    ],
+    [
+     290,
+     1520,
+     302,
+     1538,
+     "r3"
+    ],
+    [
+     314,
+     1520,
+     331,
+     1538,
+     "r3"
+    ],
+    [
+     335,
+     1520,
+     338,
+     1523,
+     "r3"
+    ],
+    [
+     399,
+     1520,
+     418,
+     1538,
+     "r3"
+    ],
+    [
+     422,
+     1520,
+     425,
+     1523,
+     "r3"
+    ],
+    [
+     490,
+     1520,
+     502,
+     1538,
+     "r3"
+    ],
+    [
+     528,
+     1520,
+     540,
+     1539,
+     "r3"
+    ],
+    [
+     558,
+     1520,
+     562,
+     1523,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 91,
+    "y0": 1516,
+    "x1": 601,
+    "y1": 1938
+   },
+   "text": "The Richmond Times-Dispatch advises Mr. Washington to stay with \"his own white folks in the future.\" The Montgomery (Ala.) Journal is \"glad those 16 stitches were not made necessary down there;\" and the Atlanta Constitution says: \"It all goes to show that human nature is pretty much the same the world over; red blood boils at the same affront—whether real or imaginary—in every part of the civilized world. We will, no doubt, hear less in future from the North about 'Southern outrages' than in the past!\"\n\nAnother point dwelt upon by a good many papers is that the incident shows the danger to which colored men are",
+   "status": "ok",
+   "confidence": 0.977786660194397,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 91,
+    "y0": 1517,
+    "x1": 599,
+    "y1": 1934
+   },
+   "exclude": [
+    [
+     338,
+     1502,
+     350,
+     1518,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1109,
+    "y0": 133,
+    "x1": 1142,
+    "y1": 161
+   },
+   "text": "13",
+   "status": "ok",
+   "confidence": 0.8360928893089294,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1107,
+    "y0": 132,
+    "x1": 1140,
+    "y1": 158
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 635,
+    "y0": 198,
+    "x1": 1144,
+    "y1": 591
+   },
+   "text": "constantly exposed. \"Suppose,\" says the New York Press, \"a man wholly unknown had been the victim?\" The Pittsburg Dispatch declares the assault shows \"the germ of lynching.\" The Indianapolis Star says Mr. Washington \"paid the penalty of being a black man.\" The Des Moines Tribune points out that the assault \"will serve to show to the country at large how senseless a lot of the hysterical outcry against the Negro really is.\" The Outlook, New York, thinks the lesson is \"one that the whole country, without regard to section, needs to learn. Too many Americans are prone to take the law into their own hands.\"",
+   "status": "ok",
+   "confidence": 0.9725649356842041,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 637,
+    "y0": 197,
+    "x1": 1141,
+    "y1": 588
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 636,
+    "y0": 590,
+    "x1": 1144,
+    "y1": 912
+   },
+   "text": "Several of the colored editors emphasize the fact that Mr. Washington's misadventure goes to disprove his own optimistic theories. Among others, the Richmond Planet, remarking this, says: \"Down here this woman's word would have lifted a less prominent person than Mr. Washington to the limb of a tree, where his life would have paid the penalty for a crime which he never committed. As the matter even now stands, it shows the intensity of race prejudice even in New York City.\"",
+   "status": "ok",
+   "confidence": 0.9728206396102905,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 637,
+    "y0": 590,
+    "x1": 1140,
+    "y1": 907
+   },
+   "exclude": [
+    [
+     664,
+     910,
+     684,
+     929,
+     "r7"
+    ],
+    [
+     744,
+     911,
+     752,
+     929,
+     "r7"
+    ],
+    [
+     777,
+     911,
+     789,
+     929,
+     "r7"
+    ],
+    [
+     943,
+     910,
+     946,
+     913,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 634,
+    "y0": 907,
+    "x1": 1141,
+    "y1": 1394
+   },
+   "text": "One of the most pertinent comments we take from the Christian Recorder, of Philadelphia: \"The Washington assault proves again the disadvantage of the Negro. Mr. Washington is not on trial. The charge against him was that of unlawful entry and was immediately dismissed. Nobody is accusing him. He is prosecutor, not defendant. And yet practically every paper has thought it necessary to 'defend' him. And our representative bodies have voted 'confidence,' etc., in him. So it must ever be; the Negro must ever prove his innocence even to Negroes, and he must do that even though he is the accuser and not the accused. Whenever black and white meet, no matter what may technically be the relation, practically the black man is on the defensive.\"",
+   "status": "ok",
+   "confidence": 0.9806304574012756,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 635,
+    "y0": 909,
+    "x1": 1137,
+    "y1": 1393
+   },
+   "exclude": [
+    [
+     926,
+     893,
+     939,
+     909,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "title",
+   "bbox": {
+    "x0": 629,
+    "y0": 1432,
+    "x1": 1138,
+    "y1": 1942
+   },
+   "text": "EMIGRATION TO CANADA. Much attention is paid to the movement of Negroes from Oklahoma to Canada. The Toronto Mail and Express, a Tory paper, and opposed to the government, is outspoken in calling for action which shall \"guard the interests of this country in the premises.\" It is positive that the people of Canada do not want the Negroes as settlers and future citizens. It asserts that in the slavery days the black people of the Southern States had nowhere more compassionate friends than in the Dominion, \"but to say this is not to invite hosts of Negroes to settle in Canada.\" The Halifax Herald defends the colored immigrants, at least those who come to Nova Scotia. \"They are a good class of citizens. Included among those who came out last year",
+   "status": "ok",
+   "confidence": 0.9792249798774719,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 632,
+    "y0": 1430,
+    "x1": 1135,
+    "y1": 1936
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.26,
+  "box_overlaps_after": 3,
+  "log": []
+ }
+}

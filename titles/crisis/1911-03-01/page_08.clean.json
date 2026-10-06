@@ -1,0 +1,483 @@
+{
+ "page": 8,
+ "image": "images/page_08.jpg",
+ "width": 1085,
+ "height": 1666,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.1,
+  "at": "2026-10-06T21:16:44+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 474,
+    "y0": 93,
+    "x1": 625,
+    "y1": 117
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8557904958724976,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 472,
+    "y0": 90,
+    "x1": 625,
+    "y1": 116
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 126,
+    "y0": 93,
+    "x1": 142,
+    "y1": 115
+   },
+   "text": "8",
+   "status": "ok",
+   "confidence": 0.7821997404098511,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 124,
+    "y0": 92,
+    "x1": 140,
+    "y1": 112
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 126,
+    "y0": 146,
+    "x1": 539,
+    "y1": 644
+   },
+   "text": "breakers which they have been supporting at Mt. Meigs. They give statistics showing that there are 105 reformatory schools in the United States, but only eleven of that number are in the Southern States; two in Virginia, two in Georgia, one in Florida, four in Tennessee, one in Texas, and one in Alabama.\n\nThe Memphis Park Commissioners are having trouble trying to select a location for a Negro park. Although the opinion throughout the city seems to favor such a park, every location suggested is opposed by property owners.\n\nBetter care for the destitute Negro children of Virginia is treated in the annual report of the State Board of Charities and Correction. The Board states that it has now a temporary arrangement by which these children are placed in good family homes, and that it expects soon to have chartered an agency which will undertake to provide for children of this class.",
+   "status": "ok",
+   "confidence": 0.9704319834709167,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 125,
+    "y0": 145,
+    "x1": 537,
+    "y1": 643
+   },
+   "exclude": [
+    [
+     152,
+     631,
+     171,
+     661,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 131,
+    "y0": 629,
+    "x1": 544,
+    "y1": 1218
+   },
+   "text": "The Board, in investigating Virginia jails, says it noted an increase in the number of Negro children confined therein. This was attributed to the fact that there is no adequate provision for the care and training of destitute colored children. They are committed to almshouses, where, for the most part, living in idleness, they become accustomed to getting their bread without being obliged to work for it, or left to shift for themselves, they steal to satisfy their hunger.\n\nTo celebrate Lincoln Day the children of the Congregational churches of Greater Boston donated a sum which may amount to $25,000. The offerings of the children were sent to the headquarters of the American Missionary Association, 20 Beacon Street, and will be distributed in the South for industrial work among the Negroes and the whites of the mountain districts.\n\nObjections to the present method of segregating whites and Negroes were offered at a mass meeting of colored citizens of New Orleans. A formation of a protective race organization was proposed and plans are now being considered.",
+   "status": "ok",
+   "confidence": 0.9689138531684875,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 130,
+    "y0": 643,
+    "x1": 543,
+    "y1": 1214
+   },
+   "exclude": [
+    [
+     159,
+     1217,
+     165,
+     1233,
+     "r4"
+    ],
+    [
+     265,
+     1217,
+     267,
+     1220,
+     "r4"
+    ],
+    [
+     270,
+     1217,
+     279,
+     1233,
+     "r4"
+    ],
+    [
+     368,
+     1217,
+     371,
+     1220,
+     "r4"
+    ],
+    [
+     424,
+     1217,
+     433,
+     1233,
+     "r4"
+    ],
+    [
+     459,
+     1217,
+     468,
+     1232,
+     "r4"
+    ],
+    [
+     525,
+     1217,
+     535,
+     1233,
+     "r4"
+    ],
+    [
+     210,
+     626,
+     219,
+     641,
+     "r2"
+    ],
+    [
+     243,
+     626,
+     249,
+     641,
+     "r2"
+    ],
+    [
+     290,
+     626,
+     299,
+     641,
+     "r2"
+    ],
+    [
+     308,
+     627,
+     312,
+     641,
+     "r2"
+    ],
+    [
+     314,
+     627,
+     323,
+     641,
+     "r2"
+    ],
+    [
+     378,
+     627,
+     384,
+     641,
+     "r2"
+    ],
+    [
+     405,
+     627,
+     413,
+     641,
+     "r2"
+    ],
+    [
+     450,
+     626,
+     454,
+     641,
+     "r2"
+    ],
+    [
+     133,
+     628,
+     138,
+     641,
+     "r2"
+    ],
+    [
+     140,
+     631,
+     150,
+     641,
+     "r2"
+    ],
+    [
+     174,
+     631,
+     180,
+     641,
+     "r2"
+    ],
+    [
+     182,
+     631,
+     191,
+     641,
+     "r2"
+    ],
+    [
+     193,
+     631,
+     201,
+     641,
+     "r2"
+    ],
+    [
+     204,
+     631,
+     207,
+     641,
+     "r2"
+    ],
+    [
+     221,
+     631,
+     229,
+     641,
+     "r2"
+    ],
+    [
+     251,
+     631,
+     260,
+     641,
+     "r2"
+    ],
+    [
+     262,
+     631,
+     269,
+     641,
+     "r2"
+    ],
+    [
+     281,
+     631,
+     289,
+     641,
+     "r2"
+    ],
+    [
+     302,
+     631,
+     306,
+     641,
+     "r2"
+    ],
+    [
+     326,
+     631,
+     333,
+     641,
+     "r2"
+    ],
+    [
+     334,
+     631,
+     341,
+     641,
+     "r2"
+    ],
+    [
+     366,
+     631,
+     375,
+     641,
+     "r2"
+    ],
+    [
+     397,
+     630,
+     402,
+     641,
+     "r2"
+    ],
+    [
+     416,
+     631,
+     419,
+     641,
+     "r2"
+    ],
+    [
+     422,
+     631,
+     428,
+     641,
+     "r2"
+    ],
+    [
+     441,
+     631,
+     448,
+     641,
+     "r2"
+    ],
+    [
+     456,
+     631,
+     465,
+     642,
+     "r2"
+    ],
+    [
+     467,
+     631,
+     473,
+     641,
+     "r2"
+    ],
+    [
+     475,
+     631,
+     482,
+     641,
+     "r2"
+    ],
+    [
+     344,
+     632,
+     353,
+     641,
+     "r2"
+    ],
+    [
+     484,
+     639,
+     486,
+     642,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 137,
+    "y0": 1215,
+    "x1": 549,
+    "y1": 1556
+   },
+   "text": "It was considered consistent by the speakers at the meeting that white teachers should be removed from Negro schools, if objections were raised regarding the attendance of Negro teachers at a lecture delivered before a mixed audience of white and Negro people. It was also declared that the Negro had for many years blindly followed the Republican party regardless of a knowledge of the facts or policies involved. Objections were raised to the segregation methods used in street cars. It was argued that white people were given the privilege of moving the restriction signs back into the Negro reservation in case of a crowded car, and thus forcing the Negroes to stand.",
+   "status": "ok",
+   "confidence": 0.971665620803833,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 136,
+    "y0": 1215,
+    "x1": 548,
+    "y1": 1555
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 562,
+    "y0": 142,
+    "x1": 977,
+    "y1": 642
+   },
+   "text": "It was forbidden to the colored people to move the signs into the white portion in the case of a large crowd of Negroes. The Æsculapian Medical Society, composed of nineteen colored physicians of Indianapolis, has outlined plans for taking up a systematic investigation and study of tuberculosis among the colored people of the city. Dr. A. H. Wilson, president of the society, said that the majority of the colored people is among the laboring class, with the poverty and exposure incident to many of this class; still, he believed that with a system of instruction as to the value of pure air, wholesome food and sanitation, much of their susceptibility to the disease would be removed. The society has as a member Dr. Theodore Kakaza, a native African, who was for years a student in the medical schools of London, where he had much experience in tuberculosis clinic work. Since coming to America he has completed a course in one of the leading medical universities of Canada.",
+   "status": "ok",
+   "confidence": 0.9780272245407104,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 560,
+    "y0": 142,
+    "x1": 976,
+    "y1": 641
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 565,
+    "y0": 650,
+    "x1": 980,
+    "y1": 1075
+   },
+   "text": "The Colored Teachers' Association of New Orleans has subscribed $250 to be used in tuberculosis prevention work. It is proposed to make that amount the nucleus of a fund for the erection of a sanitarium for colored consumptives.\n\nThe Negro Anti-tuberculosis League held its second annual convention at Shaw University, Raleigh, N. C.\n\nMiss Anna Furness, a visiting nurse in Richmond, defended compulsory education before the Central Labor Council of that city. As to the argument against compulsory education that it would throng the schools with Negro children and cause the whites to suffer, she made the declaration, from her observation, that the colored children now go to school and the white children do not.",
+   "status": "ok",
+   "confidence": 0.9703079462051392,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 563,
+    "y0": 659,
+    "x1": 978,
+    "y1": 1075
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 570,
+    "y0": 1085,
+    "x1": 987,
+    "y1": 1556
+   },
+   "text": "Dr. Taylor, health officer of Columbia County, Kentucky, reports that in the first year of his administration he fumigated thirty houses where deaths from consumption had occurred and in the following year performed a similar office for twenty-eight houses. In the first year nine of the thirty were the dwellings of colored people. Dr. Taylor says he gave talks to the Negroes on ventilation and sanitation, told them to put windows in their houses and to live much in the open air. He thinks this did some good, as in the succeeding year he was called to fumigate only three houses where colored people had died of consumption.\n\nAt a fire in Providence, R. I., many inmates of the burning building were saved by Henry Davis, the colored elevator boy, who, without stopping to investigate the alarm, ran his car rapidly up and down. When the fire engines came in response to a",
+   "status": "ok",
+   "confidence": 0.9747699499130249,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 569,
+    "y0": 1094,
+    "x1": 986,
+    "y1": 1554
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

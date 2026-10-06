@@ -1,0 +1,469 @@
+{
+ "page": 25,
+ "image": "images/page_25.jpg",
+ "width": 1381,
+ "height": 2086,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.1,
+  "at": "2026-10-06T21:41:31+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 459,
+    "y0": 123,
+    "x1": 792,
+    "y1": 156
+   },
+   "text": "THE N. A. A. C. P.",
+   "status": "ok",
+   "confidence": 0.8867551684379578,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 458,
+    "y0": 123,
+    "x1": 791,
+    "y1": 154
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 642,
+    "y0": 187,
+    "x1": 1149,
+    "y1": 211
+   },
+   "text": "REPORT OF THE CHAIRMAN OF",
+   "status": "ok",
+   "confidence": 0.9506376385688782,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 641,
+    "y0": 184,
+    "x1": 1143,
+    "y1": 237
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r1b",
+   "label": "title",
+   "bbox": {
+    "x0": 642,
+    "y0": 211,
+    "x1": 1149,
+    "y1": 237
+   },
+   "text": "THE EXECUTIVE COMMITTEE",
+   "status": "ok",
+   "confidence": 0.9506376385688782,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 641,
+    "y0": 184,
+    "x1": 1143,
+    "y1": 237
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 102,
+    "y0": 187,
+    "x1": 612,
+    "y1": 538
+   },
+   "text": "educational facilities be provided for them, which will recognize their right to labor without hindrance and to enjoy the fruits of their labor, and which will assist in every way to remove the prejudice which now retards the progress of the colored race. Finally we believe that no section of the United States can escape responsibility for the conditions that exist, or can claim the exclusive right to deal with the problem. The wrongs which the colored man suffers affect the whole body politic, and it is the duty of every good citizen to aid in righting them.",
+   "status": "ok",
+   "confidence": 0.8969584107398987,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 103,
+    "y0": 188,
+    "x1": 609,
+    "y1": 534
+   },
+   "exclude": [
+    [
+     147,
+     537,
+     155,
+     555,
+     "r4"
+    ],
+    [
+     180,
+     537,
+     182,
+     539,
+     "r4"
+    ],
+    [
+     398,
+     536,
+     400,
+     538,
+     "r4"
+    ],
+    [
+     470,
+     536,
+     472,
+     538,
+     "r4"
+    ],
+    [
+     565,
+     536,
+     577,
+     555,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 640,
+    "y0": 247,
+    "x1": 1155,
+    "y1": 1486
+   },
+   "text": "CONCEIVED two years ago at the celebration of the Abraham Lincoln Centennial in the conscientious belief that the situation of the Negro in the United States called for a strong militant organization to defend his rights and forward his causes, the National Association for the Advancement of Colored People has encountered nothing in its experience save what has confirmed it in its original view of the need of the hour. More than that, it has received from all sides requests for aid and assistance, some few of which it has been able to honor. It has beheld, far and near, opportunities to be of service to the country by obtaining the facts about some phase of the situation and publishing them, but here, too, it has been limited by the funds at its disposal, not by any lack of interest. Wherever it has sought them it has found kindred spirits, men and women whose hearts were attune to the old watchwords of the Republic: Equality before the law; no taxation without representation; a ballot for every man of sound mind; universal human freedom. Just as had been foreseen, there has been discovered a great body of influential citizens who welcome the opportunity to band together anew in defense of the principle as vital now as in 1858, that this nation cannot exist half slave and half free. Determined that the sacrifices of lives and treasure during the Civil War shall not go for naught these men and women are ready for aggressive and even radical action. They have seen the doctrines that would make serfs and segregated outcasts of ten millions of American citizens spreading throughout the North, one Northern newspaper after another falling into Southern hands, and the old antebellum spirit manifesting itself in the highest legislature of the land, where it has but recently taunted the North upon its failure to do for the Negro what the world thought was accomplished in 1863.",
+   "status": "ok",
+   "confidence": 0.9691247344017029,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 644,
+    "y0": 238,
+    "x1": 1148,
+    "y1": 1482
+   },
+   "exclude": [
+    [
+     678,
+     1484,
+     695,
+     1502,
+     "r7"
+    ],
+    [
+     725,
+     1485,
+     729,
+     1503,
+     "r7"
+    ],
+    [
+     734,
+     1484,
+     736,
+     1487,
+     "r7"
+    ],
+    [
+     754,
+     1484,
+     757,
+     1487,
+     "r7"
+    ],
+    [
+     804,
+     1484,
+     812,
+     1503,
+     "r7"
+    ],
+    [
+     828,
+     1485,
+     833,
+     1503,
+     "r7"
+    ],
+    [
+     837,
+     1485,
+     841,
+     1503,
+     "r7"
+    ],
+    [
+     891,
+     1484,
+     896,
+     1503,
+     "r7"
+    ],
+    [
+     900,
+     1485,
+     904,
+     1503,
+     "r7"
+    ],
+    [
+     930,
+     1485,
+     942,
+     1503,
+     "r7"
+    ],
+    [
+     991,
+     1484,
+     1003,
+     1503,
+     "r7"
+    ],
+    [
+     1057,
+     1484,
+     1060,
+     1487,
+     "r7"
+    ],
+    [
+     1139,
+     1485,
+     1151,
+     1503,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 106,
+    "y0": 533,
+    "x1": 616,
+    "y1": 1096
+   },
+   "text": "\"It is our purpose to investigate and to report the result of our investigations, to secure proper legal aid to maintain and defend the colored man's rights, to promote the education of the race, and in every possible way to remove the obstacles which retard its progress. We recognize that the friends of the race may differ as to the means of accomplishing results, or as to the emphasis which is to be laid on one or another evil. We propose to antagonize no one who is honestly laboring to lift the colored race, and we shall welcome aid from everyone who sympathizes with our purposes, and is willing to help a cause which needs all the help that the people of this country can give. No more important question confronts the American people to-day, and the longer existing conditions continue the more certain is it that the results will be disastrous to us all.\"",
+   "status": "ok",
+   "confidence": 0.9452347755432129,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 107,
+    "y0": 535,
+    "x1": 612,
+    "y1": 1095
+   },
+   "exclude": [
+    [
+     459,
+     517,
+     473,
+     535,
+     "r2"
+    ],
+    [
+     523,
+     517,
+     536,
+     535,
+     "r2"
+    ],
+    [
+     158,
+     519,
+     171,
+     535,
+     "r2"
+    ],
+    [
+     182,
+     518,
+     195,
+     535,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 109,
+    "y0": 1096,
+    "x1": 619,
+    "y1": 1442
+   },
+   "text": "To this general declaration were added four resolutions, one protesting against caste, two urging inquiry into Federal aid to education, and the following: Resolved, That we put on record our profound regret at the recent assault on Dr. Booker T. Washington in New York City, in which the Association finds renewed evidence of race discrimination and increased necessity for the awakening of the public conscience. The reception Friday afternoon at the Twentieth Century Club was most enjoyable, and was attended by 250 guests.",
+   "status": "ok",
+   "confidence": 0.9687932133674622,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 109,
+    "y0": 1095,
+    "x1": 616,
+    "y1": 1440
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 1480,
+    "x1": 619,
+    "y1": 1678
+   },
+   "text": "The final session, Friday night, had 800 or more listeners to addresses by the Rev. G. R. Waller, Mr. Samuel Elder and Rabbi Stephen S. Wise. Mr. Waller gave a careful review of the Baltimore segregation movement, and the address of Dr: Wise was a fitting climax to the conference.",
+   "status": "ok",
+   "confidence": 0.9756527543067932,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 111,
+    "y0": 1479,
+    "x1": 616,
+    "y1": 1677
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 649,
+    "y0": 1481,
+    "x1": 1163,
+    "y1": 1931
+   },
+   "text": "Realizing full well that there is much in the industrial condition of the Negro and his progress upward to call for encouragement—so loyal a Southerner as Henry Watterson has described it as nothing less than marvelous—the Association is none the less appalled by the growth of the caste spirit in every section of the Union. It has realized from the beginning that it was a National and not a sectional problem, precisely as the battle for the emancipation of the Negro had to be fought and won in Boston as well as in the South during the anti-slavery crusade. Had it had any doubt upon this point the lynching of innocent people because of their color in Springfield, Ill., the home of Abraham",
+   "status": "ok",
+   "confidence": 0.978700578212738,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 648,
+    "y0": 1482,
+    "x1": 1153,
+    "y1": 1926
+   },
+   "exclude": [
+    [
+     702,
+     1466,
+     714,
+     1483,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 110,
+    "y0": 1678,
+    "x1": 619,
+    "y1": 1929
+   },
+   "text": "All of the chief addresses will be published in full by the Association. The cost of the pamphlet will be about twenty-five cents, and it will be ready by June 1. The success of the conference was largely due to the local committee, under the chairmanship of Dr. Horace Bumstead and the co-operation of Miss Frances Blascoer, the local organizer.",
+   "status": "ok",
+   "confidence": 0.9644929766654968,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 109,
+    "y0": 1678,
+    "x1": 616,
+    "y1": 1926
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 266,
+    "y0": 1450,
+    "x1": 464,
+    "y1": 1475
+   },
+   "text": "Fourth Session.",
+   "status": "ok",
+   "confidence": 0.9056304097175598,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 265,
+    "y0": 1448,
+    "x1": 460,
+    "y1": 1475
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1110,
+    "y0": 122,
+    "x1": 1145,
+    "y1": 151
+   },
+   "text": "25",
+   "status": "ok",
+   "confidence": 0.8355491757392883,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1109,
+    "y0": 121,
+    "x1": 1143,
+    "y1": 148
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 2,
+  "log": [
+   "split r1 at y=211 before 'THE EXECUTIVE COMMITTEE'"
+  ]
+ }
+}

@@ -1,0 +1,294 @@
+{
+ "page": 27,
+ "image": "images/page_27.jpg",
+ "width": 1372,
+ "height": 2089,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.4,
+  "at": "2026-10-06T21:50:35+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 116,
+    "y0": 136,
+    "x1": 1172,
+    "y1": 354
+   },
+   "text": "Vacation Opportunities\nBy G. S. DICKERMAN",
+   "status": "ok",
+   "confidence": 0.92600417137146,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 106,
+    "y0": 133,
+    "x1": 1173,
+    "y1": 352
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 117,
+    "y0": 377,
+    "x1": 628,
+    "y1": 733
+   },
+   "text": "The closing of school and the coming of the long summer vacation is an event that means a good deal. The change is so great for both teachers and pupils; a pause in the round of regular duties and a sudden relief from responsibilities that have been a daily habit; no more necessity for punctuality, nor for orderly system, nor for diligence in the use of time; no pressure to prepare for a recitation, and no anxiety about the coming examination. Three months of doing as you please, at least in those things which belong to your school life.",
+   "status": "ok",
+   "confidence": 0.9772042036056519,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 118,
+    "y0": 385,
+    "x1": 623,
+    "y1": 729
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 121,
+    "y0": 736,
+    "x1": 631,
+    "y1": 1228
+   },
+   "text": "Vacation is a time of peril. In Cambridge, Massachusetts, some years ago, it was noticed that when the schools closed a reign of lawlessness began and the police court was filled with wayward boys who were brought in for all sorts of petty misdeeds, robbing roosts, breaking into houses, annoying peaceable passersby and quarreling with one another. A summer school for manual training was then opened, and forthwith the riot of youthful crime was stayed. The boys had something else to interest them and so gave up their marauding. Not many communities can afford to maintain such a school as that at Cambridge, but in every community there is the same danger of the young people running wild when they are left with very little to do.",
+   "status": "ok",
+   "confidence": 0.9788511991500854,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 120,
+    "y0": 736,
+    "x1": 626,
+    "y1": 1223
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 123,
+    "y0": 1231,
+    "x1": 634,
+    "y1": 1768
+   },
+   "text": "And vacation has its perils also for the teacher. It is about as bad for the teacher to be left with nothing to do as it is for the pupils. The temptation may not be of the same sort; it is not likely that he will break the laws or outrage public sentiment; but if he changes from industry to indolence, or from the earnest interests of the schoolroom to trifling gossip with vulgar companions and other shallow occupations, having no resolute purpose of doing anything useful, he cannot but suffer harm and come to the end of the summer worse rather than better for what he has been through. Teachers sometimes so lose their grip on their work during vacation and get so far away from their school interests that it takes them months to recover—if indeed they are not so caught with other fascinations that they never recover.",
+   "status": "ok",
+   "confidence": 0.9790099859237671,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 122,
+    "y0": 1228,
+    "x1": 630,
+    "y1": 1768
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 123,
+    "y0": 1772,
+    "x1": 634,
+    "y1": 1873
+   },
+   "text": "What safeguards are there against this? Teachers may well put to themselves this question as a vacation draws near.",
+   "status": "ok",
+   "confidence": 0.962826132774353,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 120,
+    "y0": 1773,
+    "x1": 629,
+    "y1": 1873
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 662,
+    "y0": 384,
+    "x1": 1173,
+    "y1": 970
+   },
+   "text": "1. For one thing, the teacher should not relax his interest in his pupils with the close of school. If he does, it proves him to be a hireling, and not a teacher in the higher meaning of that great word. The true teacher does his work in love, and love takes no vacations. \"Love never faileth.\" Having taken it on his heart to do his best with these boys and girls, and to lead them along by all lessons to the nobler meanings of life, his interest in them must grow; it cannot flag and cease because they are out of his sight for awhile, or out from under his official control. That ought only to give his interest a new turn and other ways of showing itself. The pupils are still in his thought and he wants to know how he can be of use to them; how keep them from going wrong; help them each to do something worth while; draw them to himself and win their confidence so as to kindle them with his own ambitions, for them.",
+   "status": "ok",
+   "confidence": 0.9752330780029297,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 661,
+    "y0": 381,
+    "x1": 1169,
+    "y1": 968
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 664,
+    "y0": 969,
+    "x1": 1178,
+    "y1": 1582
+   },
+   "text": "And the true teacher holds on to his pupils long, year after year, while they are in school, and then for scores of years when they are abroad in the world filling their several places and doing their work as men and women. Great numbers of most interesting people, of many ages, engaged in various ways, does the teacher of the better sort have on his mind; and the number becomes ever larger as he grows older. The venerable head of a celebrated school in Tennessee is said to have made the remark that he could drive a horse from Washington to the border of Mexico and be entertained every night on the way at the home of one of his old pupils. Some, even if they knew where all the homes were, might not be so sure of their welcome. Only one who had kept up his warm friendships with old pupils could be confident of that. For such the danger of becoming stale is very small. He carries within him a never-failing spring of freshness and vitality.",
+   "status": "ok",
+   "confidence": 0.978970468044281,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 664,
+    "y0": 970,
+    "x1": 1172,
+    "y1": 1576
+   },
+   "exclude": [
+    [
+     792,
+     1579,
+     795,
+     1582,
+     "r7"
+    ],
+    [
+     838,
+     1579,
+     842,
+     1583,
+     "r7"
+    ],
+    [
+     1048,
+     1579,
+     1059,
+     1598,
+     "r7"
+    ],
+    [
+     1140,
+     1579,
+     1148,
+     1599,
+     "r7"
+    ],
+    [
+     696,
+     1580,
+     708,
+     1599,
+     "r7"
+    ],
+    [
+     741,
+     1580,
+     759,
+     1598,
+     "r7"
+    ],
+    [
+     922,
+     1580,
+     927,
+     1598,
+     "r7"
+    ],
+    [
+     930,
+     1580,
+     942,
+     1599,
+     "r7"
+    ],
+    [
+     962,
+     1580,
+     974,
+     1599,
+     "r7"
+    ],
+    [
+     1086,
+     1580,
+     1099,
+     1599,
+     "r7"
+    ],
+    [
+     1101,
+     1580,
+     1106,
+     1598,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 668,
+    "y0": 1576,
+    "x1": 1179,
+    "y1": 1875
+   },
+   "text": "2. Again, it would be profitable for teachers to think of ways in which they may be helpful to the community. Of course it is to be expected that they will have some thought for the improvement of their schools—what repairs may be needed on the building? What new furniture should be added? What is the condition of the blackboards? What desks and seats are crippled? How the grounds may be beautified by setting out trees? And what generous friends may",
+   "status": "ok",
+   "confidence": 0.9763975143432617,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 666,
+    "y0": 1578,
+    "x1": 1174,
+    "y1": 1872
+   },
+   "exclude": [
+    [
+     967,
+     1562,
+     980,
+     1579,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

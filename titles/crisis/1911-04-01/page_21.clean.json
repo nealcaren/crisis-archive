@@ -1,0 +1,321 @@
+{
+ "page": 21,
+ "image": "images/page_21.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.1,
+  "at": "2026-10-06T21:27:40+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 413,
+    "y0": 87,
+    "x1": 559,
+    "y1": 110
+   },
+   "text": "EDITORIAL",
+   "status": "ok",
+   "confidence": 0.8688103556632996,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 413,
+    "y0": 85,
+    "x1": 557,
+    "y1": 109
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 87,
+    "y0": 138,
+    "x1": 488,
+    "y1": 593
+   },
+   "text": "her writing soberly and earnestly; she gave her life to it, and it gave her fair support. She was a worthy member of that dynasty, beginning with dark Phyllis in 1773 and coming on down past David Walker, Wells Brown, Nell, Whitman and Williams, down to Dunbar, Chesnutt and Braithwaite of our day. To the young colored American Frances Harper leaves a lesson. Here is a nation whose soul is still dumb, yet big with feeling, song and story. What are we doing to develop writers to express this wealth of emotion fitly? Very little. We have among ten millions to-day one poet, one novelist and two or three recognized writers of articles and essays. That is all.",
+   "status": "ok",
+   "confidence": 0.9740558862686157,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 87,
+    "y0": 137,
+    "x1": 486,
+    "y1": 588
+   },
+   "exclude": [
+    [
+     454,
+     591,
+     457,
+     595,
+     "r2"
+    ],
+    [
+     118,
+     592,
+     136,
+     609,
+     "r2"
+    ],
+    [
+     180,
+     592,
+     183,
+     595,
+     "r2"
+    ],
+    [
+     299,
+     592,
+     309,
+     610,
+     "r2"
+    ],
+    [
+     357,
+     592,
+     368,
+     609,
+     "r2"
+    ],
+    [
+     381,
+     592,
+     385,
+     609,
+     "r2"
+    ],
+    [
+     387,
+     592,
+     398,
+     610,
+     "r2"
+    ],
+    [
+     412,
+     592,
+     419,
+     609,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 92,
+    "y0": 589,
+    "x1": 492,
+    "y1": 824
+   },
+   "text": "Here is a tremendous field for improvement, and if in the next six months THE CRISIS receives the same remarkable encouragement as in the past we hope to have ready for the beginning of our second year's work a matured plan for encouraging young writers to follow the hallowed footsteps of Frances Watkins Harper.",
+   "status": "ok",
+   "confidence": 0.9558789134025574,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 92,
+    "y0": 589,
+    "x1": 490,
+    "y1": 1041
+   },
+   "exclude": [
+    [
+     309,
+     574,
+     319,
+     591,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 92,
+    "y0": 824,
+    "x1": 492,
+    "y1": 1045
+   },
+   "text": "A FRIEND. IT HAS become the fashion to hail every Southern white man as a prodigy of liberality if he shows the slightest signs of bursting his shell of provincial prejudice. The result is that the colored man has so many Southern \"friends\" to-day that he often prays devoutly for deliverance.",
+   "status": "ok",
+   "confidence": 0.9558789134025574,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 92,
+    "y0": 589,
+    "x1": 490,
+    "y1": 1041
+   },
+   "exclude": [
+    [
+     406,
+     1044,
+     416,
+     1061,
+     "r3"
+    ],
+    [
+     444,
+     1044,
+     454,
+     1060,
+     "r3"
+    ],
+    [
+     470,
+     1044,
+     480,
+     1061,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 95,
+    "y0": 1042,
+    "x1": 496,
+    "y1": 1495
+   },
+   "text": "Now and then, however, he finds hidden behind the well-advertised and widely paid and petted prophets of the \"new dispensation\" a genuine man who has gone his way and done his work and stood before his God according to the Golden Rule. Such a man is George Williams Walker, of Augusta. He is almost unknown. He has not been exploited in Northern newspapers, nor exhibited on Pullman trains trailing through the South, but for twenty-seven years he has done his day's work like a man. When in his youth they would send him to the black man in Africa, he said quietly, \"I will work with the black man here!\" His family was horrified, his sweetheart jilted him and",
+   "status": "ok",
+   "confidence": 0.9746358394622803,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 95,
+    "y0": 1042,
+    "x1": 493,
+    "y1": 1492
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 509,
+    "y0": 86,
+    "x1": 910,
+    "y1": 683
+   },
+   "text": "his friends dropped him. Yet he founded a Negro school and taught it. He did not teach at long distance, fearing the souls he loved lest their dark bodies soil him by \"social inequality\"—he became the friend of hundreds and thousands of Negroes. The shadow of death is to-day creeping toward this brave, good man, but he cannot die. He is immortal, and the black folk of Augusta recently arose and came to him silently with gifts and low words, and he said in reply: \"But yesterday with trembling hands I displayed to my expectant eyes the handsome gift. I assure you, dear friends, I had no need of such a token to know the high esteem of my constituency. I saw it in their actions—felt it in their words.\" This he wrote to a black woman, and he called her \"Miss Jackson.\" Wherefore the chivalrous white South casts him out.",
+   "status": "ok",
+   "confidence": 0.9782201051712036,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 509,
+    "y0": 85,
+    "x1": 907,
+    "y1": 685
+   },
+   "exclude": [
+    [
+     495,
+     89,
+     523,
+     107,
+     "r0"
+    ],
+    [
+     523,
+     89,
+     540,
+     107,
+     "r0"
+    ],
+    [
+     542,
+     89,
+     557,
+     107,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "title",
+   "bbox": {
+    "x0": 513,
+    "y0": 726,
+    "x1": 912,
+    "y1": 1059
+   },
+   "text": "THE TRUTH. THERE is to-day a tendency among colored people and among their earnest friends to tell the half-truth concerning the situation of the colored people and to condemn those who seek to tell the whole truth. Such people rightly herald the recent peonage decision of the Supreme Court, they commend the saving of Pink Franklin's life, they point to many other instances of help and good will on the part of Southern whites.",
+   "status": "ok",
+   "confidence": 0.9730613231658936,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 514,
+    "y0": 724,
+    "x1": 911,
+    "y1": 1057
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 518,
+    "y0": 1059,
+    "x1": 916,
+    "y1": 1492
+   },
+   "text": "These things are true and deserve wide currency; to conceal or neglect them would be wrong. But they are not the whole truth, and when by silence or intimation the world is given to believe by such well-meaning persons that they are the whole truth, a great and dangerous injustice is perpetrated. With the peonage decision we must not forget the shame of the Berea decision; with the saving of one life we cannot forget the widespread and crying injustice of Southern courts and methods of punishment; with the fact of the rise here and there of Southern white friends of the black men, it is a dangerous falsehood to overlook the tireless and daily assaults",
+   "status": "ok",
+   "confidence": 0.9773539900779724,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 518,
+    "y0": 1059,
+    "x1": 913,
+    "y1": 1490
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.14,
+  "box_overlaps_after": 3,
+  "log": [
+   "split r2 at y=824 before 'A FRIEND.'"
+  ]
+ }
+}

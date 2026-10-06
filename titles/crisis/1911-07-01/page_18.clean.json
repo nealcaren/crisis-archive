@@ -1,0 +1,581 @@
+{
+ "page": 18,
+ "image": "images/page_18.jpg",
+ "width": 1073,
+ "height": 1620,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.6,
+  "at": "2026-10-06T21:58:39+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 475,
+    "y0": 89,
+    "x1": 637,
+    "y1": 113
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8810871839523315,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 474,
+    "y0": 87,
+    "x1": 636,
+    "y1": 111
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 577,
+    "y0": 139,
+    "x1": 977,
+    "y1": 200
+   },
+   "text": "know that fifty-two English beggars starved to death, although they escaped his fate.",
+   "status": "ok",
+   "confidence": 0.9550225734710693,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 576,
+    "y0": 137,
+    "x1": 976,
+    "y1": 198
+   },
+   "exclude": [
+    [
+     913,
+     199,
+     919,
+     214,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 153,
+    "y0": 143,
+    "x1": 550,
+    "y1": 225
+   },
+   "text": "off materially—that is, in the matter of food and drink—than those of most old-world nations. This is no longer a debatable proposition.",
+   "status": "ok",
+   "confidence": 0.6648297309875488,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 152,
+    "y0": 142,
+    "x1": 549,
+    "y1": 222
+   },
+   "exclude": [
+    [
+     470,
+     224,
+     481,
+     239,
+     "r4"
+    ],
+    [
+     525,
+     223,
+     528,
+     226,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 577,
+    "y0": 197,
+    "x1": 978,
+    "y1": 373
+   },
+   "text": "\"It may comfort the hundreds of petty offenders, wholly innocent victims of perverted police justice, that are now forced to disgrace humanity and shame American civilization, working by day in chain gangs and sleeping by night like beasts of the fields in stockades, to know that English paupers do not always receive sufficient food to sustain life.",
+   "status": "ok",
+   "confidence": 0.9765891432762146,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 577,
+    "y0": 198,
+    "x1": 976,
+    "y1": 372
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 153,
+    "y0": 221,
+    "x1": 551,
+    "y1": 608
+   },
+   "text": "\"It would have been more to the point had Mr. Washington drawn comparisons between our Negro policy, or lack of it, and the treatment of its colored population by the British people. That would have been relevant and quite in order. I am more or less familiar with the troubles in India, real or imaginary; of the Egyptian ambition for self-government I have some knowledge, as well as of race relations in the West Indies and Canada; and in the light of that knowledge I challenge Dr. Washington or any one else to deny that there is more oppression, injustice and cruelty witnessed in Mississippi, the Carolinas and other States, North as well as South, during one year than among all the 300 colored millions of India for a decade.",
+   "status": "ok",
+   "confidence": 0.9776849150657654,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 153,
+    "y0": 223,
+    "x1": 549,
+    "y1": 607
+   },
+   "exclude": [
+    [
+     256,
+     210,
+     265,
+     223,
+     "r2"
+    ],
+    [
+     288,
+     210,
+     297,
+     223,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 578,
+    "y0": 372,
+    "x1": 978,
+    "y1": 604
+   },
+   "text": "\"It may content the one hundred and fifty thousand disfranchised colored voters of Louisiana to know that while deprived of all the rights of citizenship guaranteed to them by the Constitution of the United States, they nevertheless will have all the hog and hominy that they want to eat, and, according to Mr. Washington's version of the Scripture, I suppose that immortal psalm will hereafter read, 'Man shall live by bread alone.'\"",
+   "status": "ok",
+   "confidence": 0.9757580757141113,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 577,
+    "y0": 373,
+    "x1": 978,
+    "y1": 603
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 156,
+    "y0": 607,
+    "x1": 553,
+    "y1": 818
+   },
+   "text": "\"When was an Egyptian lynched by his British neighbors? When was a colored man in Hindustan burned at the stake? What disturbance do you hear of in Jamaica and why is it that in the vast territory known as British America, with all its mixed races and Indian tribes, a few hundred policemen are sufficient to maintain as perfect order as exists throughout any rural region of the civilized world?",
+   "status": "ok",
+   "confidence": 0.9767696261405945,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 155,
+    "y0": 607,
+    "x1": 550,
+    "y1": 816
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 579,
+    "y0": 674,
+    "x1": 979,
+    "y1": 981
+   },
+   "text": "In the June Everybody's John A. Avirette writes of \"Diaz and His Peons.\" He says the revolution in Mexico is a revolution of hungry men who have been taught to read and think.\n\n\"It is primarily a war brought on by excessive and unequal taxation. For years the taxes have steadily risen, until the poor can no longer endure them. If a poverty-stricken peon eats his own pig he must pay a tax of two to three dollars for doing so. If he happens to own a cow, and hunger compels him to eat her, he is taxed seven dollars. This alone is indictment enough to damn any government on earth!\"",
+   "status": "ok",
+   "confidence": 0.9783082604408264,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 578,
+    "y0": 672,
+    "x1": 978,
+    "y1": 980
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 157,
+    "y0": 819,
+    "x1": 554,
+    "y1": 1090
+   },
+   "text": "\"On one point I agree with Dr. Washington, but it requires no 'official statistics' to convince people that English pauperism is a dreadful thing. The English people themselves realize it, and the unprecedented measure introduced recently in Parliament by the Chancellor of the Exchequer, and accepted in principle by all political parties, evidences the national determination to grapple with the problem along the boldest lines, just as my old friend, General Booth, of the Salvation Army, urged a quarter of a century ago.",
+   "status": "ok",
+   "confidence": 0.9768428802490234,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 157,
+    "y0": 819,
+    "x1": 552,
+    "y1": 1087
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 579,
+    "y0": 981,
+    "x1": 980,
+    "y1": 1134
+   },
+   "text": "Mr. Avirette thinks the abuses in Mexico were due to Diaz's advanced age and his dependence on those about him rather than to any inhumanity in the old \"benevolent despot,\" but the order he founded is forever gone. What of this to us in the United States? asks Mr. Avirette.",
+   "status": "ok",
+   "confidence": 0.9762746691703796,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 580,
+    "y0": 981,
+    "x1": 979,
+    "y1": 1133
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 159,
+    "y0": 1089,
+    "x1": 554,
+    "y1": 1169
+   },
+   "text": "\"Right here is afforded the real antithesis, the most striking contrast between the British and our own government.",
+   "status": "ok",
+   "confidence": 0.9610843062400818,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 157,
+    "y0": 1088,
+    "x1": 553,
+    "y1": 1166
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 583,
+    "y0": 1134,
+    "x1": 981,
+    "y1": 1294
+   },
+   "text": "\"It is absolutely true that Mexicans view Americans with dislike and suspicion, notwithstanding all polite lies to the contrary. They tolerate us for two principal reasons. The first is that they are weaker than we are in armed power. The second is that they need American ability, energy and capital.",
+   "status": "ok",
+   "confidence": 0.9765259623527527,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 582,
+    "y0": 1134,
+    "x1": 980,
+    "y1": 1288
+   },
+   "exclude": [
+    [
+     606,
+     1291,
+     608,
+     1295,
+     "r13"
+    ],
+    [
+     616,
+     1290,
+     629,
+     1304,
+     "r13"
+    ],
+    [
+     632,
+     1290,
+     640,
+     1304,
+     "r13"
+    ],
+    [
+     644,
+     1290,
+     646,
+     1292,
+     "r13"
+    ],
+    [
+     666,
+     1290,
+     675,
+     1305,
+     "r13"
+    ],
+    [
+     678,
+     1290,
+     681,
+     1292,
+     "r13"
+    ],
+    [
+     693,
+     1290,
+     697,
+     1304,
+     "r13"
+    ],
+    [
+     705,
+     1290,
+     715,
+     1305,
+     "r13"
+    ],
+    [
+     735,
+     1290,
+     737,
+     1293,
+     "r13"
+    ],
+    [
+     788,
+     1291,
+     790,
+     1293,
+     "r13"
+    ],
+    [
+     611,
+     1292,
+     613,
+     1295,
+     "r13"
+    ],
+    [
+     804,
+     1292,
+     807,
+     1306,
+     "r13"
+    ],
+    [
+     840,
+     1292,
+     849,
+     1307,
+     "r13"
+    ],
+    [
+     859,
+     1292,
+     864,
+     1306,
+     "r13"
+    ],
+    [
+     890,
+     1292,
+     899,
+     1307,
+     "r13"
+    ],
+    [
+     970,
+     1292,
+     974,
+     1306,
+     "r13"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 159,
+    "y0": 1168,
+    "x1": 555,
+    "y1": 1359
+   },
+   "text": "\"In comparison with the statesmanlike efforts of England to deal with this question, what have we to offer? Mob murder without protest, lynch law as thoroughly established as though it were upon the statute books, . . . trial by jury suppressed, free speech denied, elections a farce and the Constitution in practical operation a mere sectional document!",
+   "status": "ok",
+   "confidence": 0.9768721461296082,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 158,
+    "y0": 1167,
+    "x1": 554,
+    "y1": 1360
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 584,
+    "y0": 1288,
+    "x1": 983,
+    "y1": 1504
+   },
+   "text": "\"This dislike is racial and fundamental. The Anglo-Saxon and the Indian have never understood each other. The purposeful and resistless advance of the former has first dispossessed, and then exterminated, the latter. The average Mexican is virtually an Indian and feels the menace to him of Mexico's Americanization. Mexicans have never forgiven the war by which we Americans forcibly took from them California, Ari-",
+   "status": "ok",
+   "confidence": 0.9778420925140381,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 583,
+    "y0": 1288,
+    "x1": 981,
+    "y1": 1501
+   },
+   "exclude": [
+    [
+     700,
+     1276,
+     710,
+     1292,
+     "r11"
+    ],
+    [
+     793,
+     1277,
+     802,
+     1290,
+     "r11"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 160,
+    "y0": 1362,
+    "x1": 558,
+    "y1": 1502
+   },
+   "text": "\"Mr. Washington acts wisely in pressing his comparisons between the nations no further than the poorhouse or the unfortunate tramps asleep on the Thames Embankment, and it may alleviate the tortures of the next poor devil roasted at the stake down in Georgia to",
+   "status": "ok",
+   "confidence": 0.9733311533927917,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 159,
+    "y0": 1361,
+    "x1": 556,
+    "y1": 1499
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "abandon",
+   "bbox": {
+    "x0": 152,
+    "y0": 91,
+    "x1": 191,
+    "y1": 114
+   },
+   "text": "106",
+   "status": "ok",
+   "confidence": 0.8493420481681824,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 90,
+    "x1": 189,
+    "y1": 112
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r16",
+   "label": "title",
+   "bbox": {
+    "x0": 726,
+    "y0": 646,
+    "x1": 830,
+    "y1": 666
+   },
+   "text": "MEXICO.",
+   "status": "ok",
+   "confidence": 0.889255702495575,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 726,
+    "y0": 643,
+    "x1": 828,
+    "y1": 665
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 17,
+  "regions_after": 17,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.29,
+  "box_overlaps_after": 7,
+  "log": []
+ }
+}

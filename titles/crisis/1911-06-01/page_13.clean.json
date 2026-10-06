@@ -1,0 +1,315 @@
+{
+ "page": 13,
+ "image": "images/page_13.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 11.3,
+  "at": "2026-10-06T21:48:32+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 555,
+    "y0": 139,
+    "x1": 702,
+    "y1": 169
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.6766132116317749,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 554,
+    "y0": 137,
+    "x1": 699,
+    "y1": 168
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 103,
+    "y0": 206,
+    "x1": 612,
+    "y1": 529
+   },
+   "text": "been a marked improvement, according to Mr. Wright, the proportion of arrests to population in New York being 1 to 9 in 1900 and 1 to 12 in 1910, while for Chicago the same figures were 1 to $ 5 \\frac{1}{2} $ in 1900 and 1 to 11 in 1910. Philadelphia is the only Northern city, Mr. Wright finds, in which there are statistics of arrests going back a generation. There it appears that the Negro arrests have borne always about the same proportion to the total number of arrests and to the total Negro population.",
+   "status": "ok",
+   "confidence": 0.9747840166091919,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 103,
+    "y0": 204,
+    "x1": 608,
+    "y1": 523
+   },
+   "exclude": [
+    [
+     146,
+     527,
+     152,
+     545,
+     "r2"
+    ],
+    [
+     182,
+     527,
+     197,
+     546,
+     "r2"
+    ],
+    [
+     217,
+     527,
+     219,
+     530,
+     "r2"
+    ],
+    [
+     372,
+     527,
+     376,
+     545,
+     "r2"
+    ],
+    [
+     418,
+     527,
+     421,
+     530,
+     "r2"
+    ],
+    [
+     460,
+     527,
+     463,
+     530,
+     "r2"
+    ],
+    [
+     511,
+     527,
+     523,
+     545,
+     "r2"
+    ],
+    [
+     528,
+     527,
+     530,
+     530,
+     "r2"
+    ],
+    [
+     546,
+     527,
+     558,
+     545,
+     "r2"
+    ],
+    [
+     200,
+     528,
+     211,
+     545,
+     "r2"
+    ],
+    [
+     305,
+     528,
+     316,
+     546,
+     "r2"
+    ],
+    [
+     581,
+     528,
+     593,
+     545,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 99,
+    "y0": 524,
+    "x1": 610,
+    "y1": 1209
+   },
+   "text": "\"In Chicago, the only city in which the causes of arrests are given according to races, it appears that three-fourths are due to violations of city ordinances, one-tenth to State misdemeanors; while felonies account for but 15 per cent. of the total number of arrests. Among the felonies larceny is at the head of the list, followed by burglary and assault with intent to kill. In 1907 there were 180 arrests for rape, of which but 16 were of Negroes; the same figures for 1908 being whites 172, Negroes 16. Mr. Wright examined the police books in a typical Negro ward in Philadelphia and found that more than one-half of the 225 arrests of Negroes were due to five causes: disorderly conduct, breach of the peace, intoxication, drunkenness and disorder, and crap shooting. About one-third of those arrested were taken for felonies, that is, on serious charges. 'After arrest,' says Mr. Wright, 'comes conviction. But here we are all at sea, so far as the Negro is concerned. There is nowhere published the number of Negroes convicted or the crimes for which they are convicted.'",
+   "status": "ok",
+   "confidence": 0.9747469425201416,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 101,
+    "y0": 526,
+    "x1": 607,
+    "y1": 1206
+   },
+   "exclude": [
+    [
+     348,
+     509,
+     362,
+     526,
+     "r1"
+    ],
+    [
+     400,
+     509,
+     413,
+     526,
+     "r1"
+    ],
+    [
+     430,
+     509,
+     442,
+     526,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 92,
+    "y0": 1211,
+    "x1": 607,
+    "y1": 1948
+   },
+   "text": "\"In the absence of more definite statistics, Mr. Wright feels that the impressions of officials are of great value. Thus, in reply to a question the sheriff of Hartford, Conn., says that crime is increasing among Negroes, and a slight increase is reported from Albany. But Morristown, N. J.; Ironton, O.; Columbus, O.; Fort Scott, Kan.; Oskaloosa, Ia., and Hudson County, N. J., report that crime is not increasing among the colored people. The chief of police of Cleveland, O., reports an increase, due to increase of population. The prosecuting attorney of Springfield, O., writes that 'the chief offences of Negroes are not essentially different from those committed by white people; they do not seem to confine themselves to any particular classes of crime.' This official is positive that criminals as a class are not increasing among the black people. 'We have a large colored population, something like 15 to 20 per cent. of the total, and I believe there is a greater proportion of them in the criminal class than is true of the white, yet, as a whole, they are not a criminal class of people. Many of them now own homes, are industrious, and make good citizens.'",
+   "status": "ok",
+   "confidence": 0.9053282737731934,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 96,
+    "y0": 1210,
+    "x1": 602,
+    "y1": 1944
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1118,
+    "y0": 139,
+    "x1": 1155,
+    "y1": 168
+   },
+   "text": "57",
+   "status": "ok",
+   "confidence": 0.8421915173530579,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1118,
+    "y0": 138,
+    "x1": 1153,
+    "y1": 165
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 642,
+    "y0": 205,
+    "x1": 1152,
+    "y1": 719
+   },
+   "text": "\"So far as the criminality of Negro women is concerned, the arrests in Chicago for the years 1905-1909 were 18.2 per cent. of all the Negroes apprehended; in New York (from 1905 to 1910), 38.7, and in Philadelphia, 23.4. The chief charges on which the women were arrested seem to be disorderly conduct, breach of the peace, intoxication and immorality. 'The general impression as to the increase of crime among Negroes in the North is,' Mr. Wright concludes, 'erroneous.' He admits, however, that there is still too great a difference between the proportion of Negroes arrested and their relative number to the general population. The chief hope of cutting down the disproportionate amount of crime lies, he feels, in opening up larger economic opportunities for the race.",
+   "status": "ok",
+   "confidence": 0.977238655090332,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 644,
+    "y0": 203,
+    "x1": 1149,
+    "y1": 718
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 638,
+    "y0": 719,
+    "x1": 1149,
+    "y1": 1526
+   },
+   "text": "\"Few people who have not made a study of the subject realize how disproportionate are the temptations of the Negro and the evil effects of his environment when contrasted with the condition confronting white people of the same class. The recently published report of the Chicago Vice Commission dwelt upon the fact that the police of that city have invariably driven the white prostitutes into the best Negro sections, where they are a demoralizing example and influence for the colored youth of both sexes. A large proportion of the Negroes live in the worst parts of every city, but it is by no means always by choice that they drift to quarters distinguished by the lowest forms of vice. \"The bad government of most of our American cities, as Mr. Wright points out, gravely affects the Negro. Bad government makes for bad citizens, black or white. Then, the political organizations debauch Negro and foreigner alike, and permit them both to violate the laws in exchange for votes. If to these causes for mental and moral depression of the race are added the evil effects of race prejudice, it might well be expected that Negro crime would increase faster than it has; that it has not done so must be a cause of rejoicing among the educated colored people.\"",
+   "status": "ok",
+   "confidence": 0.5557761192321777,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 639,
+    "y0": 721,
+    "x1": 1143,
+    "y1": 1525
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "title",
+   "bbox": {
+    "x0": 631,
+    "y0": 1569,
+    "x1": 1144,
+    "y1": 1955
+   },
+   "text": "PROGRESS.\nThe Sacramento (Cal.) Union finds a \"compelling eloquence\" in the figures of the department of commerce and labor as to the Negro's progress, and writes a forceful editorial on the subject. The figures are even a little better than the Union makes apparent, for a cipher has been omitted from the property valuation. It should be over $560,000,000. However, the main point is the paper's cordial appreciation.\n\"In both numbers and moral and mental enlightenment the race has grown with strides of which the average American",
+   "status": "ok",
+   "confidence": 0.9800539612770081,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 631,
+    "y0": 1566,
+    "x1": 1141,
+    "y1": 1950
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.13,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

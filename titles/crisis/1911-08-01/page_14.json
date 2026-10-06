@@ -1,0 +1,141 @@
+{
+  "page": 14,
+  "image": "images/page_14.jpg",
+  "width": 1374,
+  "height": 2071,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 410,
+        "y0": 143,
+        "x1": 1083,
+        "y1": 225
+      },
+      "text": "Men of the Month",
+      "status": "ok",
+      "confidence": 0.7289274334907532,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 219,
+        "y0": 305,
+        "x1": 728,
+        "y1": 515
+      },
+      "text": "J. E. SPINGARN. Joel Elias Spingarn, president of the New York branch of the National Association for the Advancement of Colored People, stands in the front rank of the younger group of American scholars. He is widely known in this country and in Europe as an authority on literature,",
+      "status": "ok",
+      "confidence": 0.9748963713645935,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 232,
+        "y0": 546,
+        "x1": 714,
+        "y1": 1244
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.7433642148971558,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 373,
+        "y0": 1247,
+        "x1": 569,
+        "y1": 1270
+      },
+      "text": "J. E. SPINGARN.",
+      "status": "ok",
+      "confidence": 0.44421079754829407,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 219,
+        "y0": 1302,
+        "x1": 728,
+        "y1": 1846
+      },
+      "text": "especially of the sixteenth and seventeenth centuries. He was born in New York in 1875, and was graduated from Columbia in 1895. After four years of post-graduate study at Harvard and Columbia he received the degree of Doctor of Philosophy from the latter in 1899, and was immediately made assistant in literature, under Professor George E. Woodberry. He was promoted to tutor in comparative literature the following year; and when Professor Woodberry resigned from Columbia in 1904, Dr. Spingarn succeeded him as adjunct professor of comparative literature; he was promoted to a full professorship in 1908, and was elected chairman of the division of modern languages and literatures in 1910. Phi Beta Kappa poet, 1901; represented the university at the New York University Poe Centenary, 1909. He recently engaged in a contro-",
+      "status": "ok",
+      "confidence": 0.9782404899597168,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 760,
+        "y0": 305,
+        "x1": 1274,
+        "y1": 508
+      },
+      "text": "versy with President Butler over a question of academic freedom and was \"relieved from academic service\" without explanation in March last.\nDr. Spingarn was the Republican nominee for member of Congress from the eighteenth New York district in 1908; this is a hopelessly Democratic constit-",
+      "status": "ok",
+      "confidence": 0.9570505023002625,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "figure",
+      "bbox": {
+        "x0": 776,
+        "y0": 543,
+        "x1": 1263,
+        "y1": 1246
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.6438133120536804,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 882,
+        "y0": 1249,
+        "x1": 1143,
+        "y1": 1271
+      },
+      "text": "GILCHRIST STEWART.",
+      "status": "ok",
+      "confidence": 0.6277212500572205,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 761,
+        "y0": 1304,
+        "x1": 1272,
+        "y1": 1774
+      },
+      "text": "nency, but Professor Spingarn received eight thousand more votes than any preceding Republican candidate. Besides numerous contributions to periodicals, chiefly articles of a scholarly nature and some verse, he has written the following books:\n\"History of Literary Criticism in the Renaissance,\" 1899; second edition, 1908; translated into Italian, 1905.\n\"American Scholarship: An Address Before the Congress of Comparative History at Paris,\" 1900.\n\"Critical Essays of the Seventeenth Century,\" in three volumes, published by the Oxford University Press, England, 1908-9.\n\"The New Criticism: A Lecture Delivered at Columbia University,\" 1911.",
+      "status": "ok",
+      "confidence": 0.9589043259620667,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.9,
+    "at": "2026-10-06T22:11:31+00:00"
+  }
+}

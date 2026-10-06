@@ -1,0 +1,358 @@
+{
+ "page": 25,
+ "image": "images/page_25.jpg",
+ "width": 1390,
+ "height": 2077,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.8,
+  "at": "2026-10-06T21:13:10+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 403,
+    "y0": 122,
+    "x1": 851,
+    "y1": 154
+   },
+   "text": "THE NEGRO AS A SOLDIER",
+   "status": "ok",
+   "confidence": 0.8631776571273804,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 402,
+    "y0": 122,
+    "x1": 848,
+    "y1": 154
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 99,
+    "y0": 187,
+    "x1": 612,
+    "y1": 558
+   },
+   "text": "the plains of Addis-Abeba, annihilated an Italian army of 30,000 men, taking 1,000 prisoners of war. Cetewayo, the indomitable Zulu chief, measured arms with the ablest English commanders, and although his military resources were antiquated, he was never conquered. In Brazil, a fullblooded Negro, Henry Diaz, wrested his country from the iron grip of the Dutch. Maceo in Cuba, David Thomas Dumas in France, division general under the First Napoleon, and Gen. Alfred Dodds, to-day the idol of the French army, refute the charge that Negroes lack military capacity to lead.",
+   "status": "ok",
+   "confidence": 0.9772655367851257,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 99,
+    "y0": 187,
+    "x1": 607,
+    "y1": 557
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 642,
+    "y0": 189,
+    "x1": 1153,
+    "y1": 484
+   },
+   "text": "The story of Diaz's organization of a black regiment, officered entirely by men of his own race, his brilliant campaigns against the Dutch, make one of the important chapters in the history of the western hemisphere, for this man emancipated his country from the hard hand of a stubborn, masterful race, and his countrymen have deservedly placed him in the class with Bolivar, Washington, and L'Ouverture, the great liberators and founders of states in the western world.",
+   "status": "ok",
+   "confidence": 0.9761245250701904,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 641,
+    "y0": 187,
+    "x1": 1149,
+    "y1": 484
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 642,
+    "y0": 490,
+    "x1": 1153,
+    "y1": 814
+   },
+   "text": "In conclusion, I take pride in naming to you the greatest soldier, white or black, in ancient or modern wars—the Negro Hannibal. Field Marshal Von Moltke, of the German army, the eminent military critic, says: \"Hannibal is the greatest military genius in history.\" I will not detain you by going into details of how Hannibal landed his little army of 37,000 Carthaginians in the heart of the Roman Empire and battled successfully for seventeen long years with the veteran legions of Rome. I will sum it all up in these words:",
+   "status": "ok",
+   "confidence": 0.9762442111968994,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 642,
+    "y0": 489,
+    "x1": 1149,
+    "y1": 808
+   },
+   "exclude": [
+    [
+     983,
+     811,
+     987,
+     815,
+     "r5"
+    ],
+    [
+     1067,
+     811,
+     1080,
+     830,
+     "r5"
+    ],
+    [
+     1095,
+     811,
+     1103,
+     830,
+     "r5"
+    ],
+    [
+     685,
+     813,
+     709,
+     831,
+     "r5"
+    ],
+    [
+     712,
+     813,
+     723,
+     831,
+     "r5"
+    ],
+    [
+     764,
+     812,
+     782,
+     831,
+     "r5"
+    ],
+    [
+     827,
+     813,
+     830,
+     815,
+     "r5"
+    ],
+    [
+     834,
+     813,
+     845,
+     831,
+     "r5"
+    ],
+    [
+     860,
+     813,
+     864,
+     830,
+     "r5"
+    ],
+    [
+     879,
+     812,
+     891,
+     830,
+     "r5"
+    ],
+    [
+     917,
+     813,
+     928,
+     830,
+     "r5"
+    ],
+    [
+     942,
+     813,
+     954,
+     831,
+     "r5"
+    ],
+    [
+     968,
+     812,
+     979,
+     830,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "title",
+   "bbox": {
+    "x0": 102,
+    "y0": 562,
+    "x1": 614,
+    "y1": 912
+   },
+   "text": "CAPABLE NEGRO OFFICERS. In our own country much of the desperate fighting at Port Hudson was done by those Negro soldiers, under the leadership of Negro officers in those regiments recruited in Louisiana, which became popularly known as the Corps D'Afrique. In the Cuban campaign, many of the companies of Negro soldiers were led by Negro non-commissioned officers, and there is no doubt that, among the 300 Negro officers of volunteers commissioned during the war with Spain, there were men who would have measured up well in an emergency.",
+   "status": "ok",
+   "confidence": 0.9779600501060486,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 99,
+    "y0": 559,
+    "x1": 609,
+    "y1": 908
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 644,
+    "y0": 808,
+    "x1": 1153,
+    "y1": 911
+   },
+   "text": "\"When Hannibal flashed his sword from its scabbard, the boundaries of the broad empire of Rome oscillated on the map. He was the Archangel of War.\"",
+   "status": "ok",
+   "confidence": 0.9587475657463074,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 642,
+    "y0": 809,
+    "x1": 1150,
+    "y1": 908
+   },
+   "exclude": [
+    [
+     861,
+     794,
+     872,
+     811,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "figure",
+   "bbox": {
+    "x0": 167,
+    "y0": 1042,
+    "x1": 1098,
+    "y1": 1706
+   },
+   "text": "",
+   "status": "ok",
+   "confidence": 0.9327360391616821,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 167,
+    "y0": 1042,
+    "x1": 1091,
+    "y1": 1700
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 195,
+    "y0": 1793,
+    "x1": 1064,
+    "y1": 1934
+   },
+   "text": "JAOA CANDIDO (x) THE TOUSSAINT L'OUVERTURE OF THE BRAZILIAN NAVY.\n\nIn the mutiny of the Brazilian navy against the unfair treatment of the government, Joao Candido, a black man, was chosen leader. The mutineers gained the desired concessions, but a number of them, including Candido, have since mysteriously died.",
+   "status": "ok",
+   "confidence": 0.5056052803993225,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 190,
+    "y0": 1788,
+    "x1": 1062,
+    "y1": 1932
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1116,
+    "y0": 120,
+    "x1": 1153,
+    "y1": 151
+   },
+   "text": "25",
+   "status": "ok",
+   "confidence": 0.8228631615638733,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1115,
+    "y0": 120,
+    "x1": 1150,
+    "y1": 148
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r13",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 762,
+    "y0": 1709,
+    "x1": 1095,
+    "y1": 1757
+   },
+   "text": "Courtesy of the Literary Digest.",
+   "status": "ok",
+   "confidence": 0.4327179491519928,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 759,
+    "y0": 1706,
+    "x1": 1090,
+    "y1": 1758
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 13,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.43,
+  "box_overlaps_after": 1,
+  "log": [
+   "drop r6 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r8 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r11 (title): non-latin hallucination 'شار'"
+  ]
+ }
+}

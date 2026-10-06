@@ -1,0 +1,169 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 1365,
+  "height": 2066,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 371,
+        "y0": 137,
+        "x1": 848,
+        "y1": 168
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.888561487197876,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 88,
+        "y0": 203,
+        "x1": 594,
+        "y1": 278
+      },
+      "text": "mob, Allen taken off, tied to a telegraph pole and shot, while the passengers on the train looked on.",
+      "status": "ok",
+      "confidence": 0.9609102606773376,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 631,
+        "y0": 205,
+        "x1": 1135,
+        "y1": 914
+      },
+      "text": "\"The pistol shots brought persons hastily to the place of shooting and a rapid, eager search was begun for the Negro Best. He was not at home and was not in town. In the early following morning he was found and captured at a Negro's house a mile distant from town by two discreet men. When taken before the woman she said: 'Yes, that is the man; that is Reverend Best.' It looked badly for Best. He was hurried to jail. Developed the following day was that fact that at the time of the pistol shooting Best was on his way to the house in which he was found, and that a Negro man about the age, size and color of Best—resident of the town—was seen on the street near where the firing occurred just before the firing. This man, John Sanders, was arrested quietly by the same two men who captured Best, his spirit of effrontery deserted him and he confessed guilt, gave a detailed statement of the whole affair and went with his captors and dug up at the root of a tree the half dollar he had collected and hidden when it seemed the 'game was up.' John Sanders was hurried to jail and Best was released.",
+      "status": "ok",
+      "confidence": 0.979454755783081,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 88,
+        "y0": 279,
+        "x1": 596,
+        "y1": 842
+      },
+      "text": "The mob, several hundred strong, and unmasked, then marched to Monroe, about six miles away, where Joe Watts was confined in jail. They boldly proceeded to the jail, stormed it, took out the Negro, hanged him to a tree and shot him. Both men denied that they were guilty, and there seems to have been no strong evidence against them. Members of the legislature say there will be an investigation and probably impeachment proceedings. Two months ago a Negro was lynched at Lawrenceville, Judge Brand's home town, for alleged attack on a white woman. On that occasion Judge Brand also refused to ask for troops, although urged to do so, saying there was no danger. Two hours later the man was lynched. Judge Brand admitted to a press representative, in an amazing interview, that he had realized the peril.",
+      "status": "ok",
+      "confidence": 0.9800933003425598,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 842,
+        "x1": 596,
+        "y1": 1234
+      },
+      "text": "\"While I want to discharge and have performed every duty which the law imposes upon me,\" he said, \"I don't propose to be the engine of sacrificing any white man's life for all such Negro criminals in the country. Whatever other people may think about it, I am in perfect accord with my conscience and my God. I would not imperil the life of one white man to save the lives of a hundred such Negroes. I am opposed to lynching, but if I had called the military and some young man among the soldiers was killed or some of the citizens of Walton County were killed I would never forgive myself.\"",
+      "status": "ok",
+      "confidence": 0.9800167083740234,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 631,
+        "y0": 915,
+        "x1": 1134,
+        "y1": 1402
+      },
+      "text": "\"These are the facts. Now for the conclusion. The husband of the insulted woman was away from home. He is a man of strong passions, violent temper and extraordinarily powerful physique. Had he been near home or had he returned before the landing of Best in jail about the time the intended victim of Sanders was mistaking Best for Sanders, it is quite easy to imagine what would have happened to Best, innocent yet apparently so clearly guilty.\n\n\"Had Sanders not been met by the woman with a pistol, had he succeeded in getting into the house and after making his escape as Reverend Best, it is not difficult to imagine a proceeding when Best was captured in which Best, though innocent, would have figured very prominently.",
+      "status": "ok",
+      "confidence": 0.9785355925559998,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1248,
+        "x1": 596,
+        "y1": 1421
+      },
+      "text": "A correspondent of the Charleston News and Courier, Ben S. Williams, writes a letter to point out that Southerners should be careful in their lynchings lest they kill the wrong man. He tells a story to show how difficult identification sometimes is:",
+      "status": "ok",
+      "confidence": 0.972110390663147,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 631,
+        "y0": 1403,
+        "x1": 1134,
+        "y1": 1453
+      },
+      "text": "\"It is best to 'be sure you are right before you go ahead.'\"",
+      "status": "ok",
+      "confidence": 0.9378798007965088,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1420,
+        "x1": 598,
+        "y1": 1937
+      },
+      "text": "\"In your issue of the third inst. there appeared an account in which was correctly stated that the wife of a merchant of the town of Brunson sitting alone on the piazza of her dwelling just at dusk was approached by a Negro man who, coming on to the piazza, used insulting language; that fortunately a loaded pistol, near at hand, was quickly procured by the woman; the Negro fled and was fired at through the darkness but escaped unhurt. The Negro on his first approach gave the name of Reverend Best (the name of a Negro man resident of the town) as his name. The lady knew, slightly, the Negro whose name was used and noticed in the twilight that the color and size of the Negro present were about the same as of Best. So confident was she that she paid to him some change due the family of Best at first asked for.",
+      "status": "ok",
+      "confidence": 0.9773610830307007,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 630,
+        "y0": 1467,
+        "x1": 1134,
+        "y1": 1937
+      },
+      "text": "The Wagoner (Okla.) American is responsible for the following tale: \"Pony Starr and Joe Davis, of Porum, Muskogee County, Okla., made it known to the world that those who are members of a mob are nothing more than common cowards who seek to take the life of a human being without the sanction of law. In this little town last week, thirty or more men in broad daylight went to the home of Pony Starr for the purpose of putting to death Starr and his family and Joe Davis. Mrs. Starr first saw the approaching mob dressed in all forms of disguise; some wearing mother hubbards, women's dresses, etc. She quickly notified her husband of the coming mob, and as they were sitting on the front porch of their home, they imme-",
+      "status": "ok",
+      "confidence": 0.9779850244522095,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1088,
+        "y0": 136,
+        "x1": 1137,
+        "y1": 163
+      },
+      "text": "143",
+      "status": "ok",
+      "confidence": 0.8423076868057251,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.5,
+    "at": "2026-10-06T22:11:06+00:00"
+  }
+}

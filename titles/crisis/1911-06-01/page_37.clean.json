@@ -1,0 +1,1252 @@
+{
+ "page": 37,
+ "image": "images/page_37.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.5,
+  "at": "2026-10-06T21:52:00+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 418,
+    "y0": 146,
+    "x1": 886,
+    "y1": 187
+   },
+   "text": "WHAT TO READ",
+   "status": "ok",
+   "confidence": 0.9163130521774292,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 415,
+    "y0": 142,
+    "x1": 886,
+    "y1": 188
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 665,
+    "y0": 205,
+    "x1": 1174,
+    "y1": 728
+   },
+   "text": "\"Negro Criminal Statistics.\" R. R. Wright. Jr. The Southern Workman, May.\n\n\"The Congo Free State and Congo Belge.\" Frederick Starr, of the University of Chicago. The Journal of Race Development, published by Clark University, Worcester, Mass., April.\n\n\"The Dismissal of Prof. Banks.\" James W. Garner. Independent, April 27.\n\n\"The Girlhood of Harriet Beecher Stowe.\" Charles Edward and Lyman Beecher Stowe. McClure's, May.\n\n\"The Man Farthest Down: The Man at the Bottom in London,\" and \"The Man Farthest Down: Life and Labor on the Continent.\" Booker T. Washington. Outlook, May 6 and May 13.\n\n\"The Present Situation in the Congo.\" Rev. W. L. Ferguson. The Journal of Race Development, April.",
+   "status": "ok",
+   "confidence": 0.9670807123184204,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 665,
+    "y0": 203,
+    "x1": 1174,
+    "y1": 726
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 123,
+    "y0": 241,
+    "x1": 632,
+    "y1": 515
+   },
+   "text": "Collier, Price—\"The West in the East from an American Point of View.\" Scribner.\n\nCooney, Dotia Trigg—\"A Study in Ebony.\" Neale. This is the story of a little colored girl who lived in a Mississippi town.\n\nStowe, Charles E. and Lyman Beecher—\"Harriet Beecher Stowe.\" Houghton, Mifflin & Company.",
+   "status": "ok",
+   "confidence": 0.9602714776992798,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 122,
+    "y0": 239,
+    "x1": 630,
+    "y1": 513
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 126,
+    "y0": 553,
+    "x1": 632,
+    "y1": 729
+   },
+   "text": "PERIODICALS.\n\"A Question of Character.\" Edgar C. Macmechen. The American Magazine, May.\n\"India's 'Untouchables.'\" Saint Nihal Singh. The Southern Workman, May.",
+   "status": "ok",
+   "confidence": 0.9381476044654846,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 125,
+    "y0": 551,
+    "x1": 632,
+    "y1": 726
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "figure",
+   "bbox": {
+    "x0": 125,
+    "y0": 735,
+    "x1": 1175,
+    "y1": 986
+   },
+   "text": "While at Wilberforce for Commencement, June 12 to 17, Eat at the\n\nBreakfast..... 35c\nDinner..... 50c\nSupper..... 35c\n\nCafé Service\n7:30 to 12 p. m.\nA la Carte\n\nCOLLEGE INN\nRESTAURANT AND LUNCH ROOM\n\nSpecial Hack Line to and from All Trains\nYORK & PRUITTE, Props.\nWILBERFORCE, OHIO",
+   "status": "ok",
+   "confidence": 0.35220715403556824,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 125,
+    "y0": 744,
+    "x1": 1175,
+    "y1": 976
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "While at Wilberforce for Commencement, June 12 to 17, Eat at the\n\nBreakfast. 35c\nDinner. 50c\nSupper. 35c\n\nCafé Service\n7:30 to 12 p. m.\nA la Carte\n\nCOLLEGE INN\nRESTAURANT AND LUNCH ROOM\n\nSpecial Hack Line to and from All Trains\n\nYORK & PRUITTE, Props.\nWILBERFORCE, OHIO",
+   "role": "text",
+   "needs_review": "heading 'COLLEGE INN' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 164,
+    "y0": 1235,
+    "x1": 1138,
+    "y1": 1259
+   },
+   "text": "OFFICIAL TOUR FOR DELEGATES FROM THE UNITED STATES VISITING",
+   "status": "ok",
+   "confidence": 0.6116316318511963,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 160,
+    "y0": 1231,
+    "x1": 1137,
+    "y1": 1259
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 334,
+    "y0": 1416,
+    "x1": 967,
+    "y1": 1473
+   },
+   "text": "37 DAYS, ALL EXPENSES INCLUDED, $275.00",
+   "status": "ok",
+   "confidence": 0.2705884277820587,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 326,
+    "y0": 1442,
+    "x1": 969,
+    "y1": 1470
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "37 DAYS, ALL EXPENSES INCLUDED, $275.00",
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 121,
+    "y0": 992,
+    "x1": 1176,
+    "y1": 1897
+   },
+   "text": "GO TO LONDON\nFIRST UNIVERSAL RACES CONGRESS\n\nLONDON\n\nSTRATFORD\nWARWICK\nKENILWORTH\nLEAMINGTON\nCHESTER\nLIVERPOOL\nUEENSTOWN\n\nSame trip leaving New York, July 15th, arriving London, July 25th, continue as in above itinerary from London to New York, all expenses included, $175.00\n\nThis rate includes steamer passage, going and returning, railroad fares throughout, good hotels, carriage drives and side trips as stated in itinerary, free allowance of 60 pounds of baggage in addition to usual hand baggage, ordinary gratuities to hotel servants, porters and guards, and the services of an experienced manager from port of arrival in Europe to departure for America.\n\nUnder Management of\nTHE PILGRIM TOURS\n225 FIFTH AVENUE, NEW YORK CITY\nIndorsed by Prof. W. E. Burghardt DuBois, American Co-Secretary of the Congress\n\nMention The Crisis.",
+   "status": "ok",
+   "confidence": 0.7170199751853943,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 147,
+    "y0": 1479,
+    "x1": 1140,
+    "y1": 2065
+   },
+   "exclude": [
+    [
+     164,
+     1172,
+     1133,
+     1177,
+     "r18"
+    ],
+    [
+     903,
+     1184,
+     915,
+     1201,
+     "r18"
+    ],
+    [
+     918,
+     1184,
+     935,
+     1201,
+     "r18"
+    ],
+    [
+     937,
+     1184,
+     953,
+     1201,
+     "r18"
+    ],
+    [
+     955,
+     1184,
+     971,
+     1201,
+     "r18"
+    ],
+    [
+     988,
+     1185,
+     998,
+     1201,
+     "r18"
+    ],
+    [
+     1001,
+     1185,
+     1011,
+     1201,
+     "r18"
+    ],
+    [
+     1024,
+     1184,
+     1035,
+     1201,
+     "r18"
+    ],
+    [
+     1088,
+     1185,
+     1098,
+     1201,
+     "r18"
+    ],
+    [
+     1100,
+     1185,
+     1110,
+     1201,
+     "r18"
+    ],
+    [
+     1124,
+     1185,
+     1134,
+     1200,
+     "r18"
+    ],
+    [
+     1013,
+     1186,
+     1021,
+     1201,
+     "r18"
+    ],
+    [
+     1051,
+     1186,
+     1058,
+     1201,
+     "r18"
+    ],
+    [
+     1113,
+     1186,
+     1121,
+     1201,
+     "r18"
+    ],
+    [
+     1061,
+     1189,
+     1072,
+     1202,
+     "r18"
+    ],
+    [
+     167,
+     1238,
+     182,
+     1255,
+     "r9"
+    ],
+    [
+     183,
+     1238,
+     216,
+     1255,
+     "r9"
+    ],
+    [
+     218,
+     1238,
+     229,
+     1255,
+     "r9"
+    ],
+    [
+     230,
+     1239,
+     244,
+     1255,
+     "r9"
+    ],
+    [
+     246,
+     1238,
+     293,
+     1255,
+     "r9"
+    ],
+    [
+     305,
+     1239,
+     321,
+     1255,
+     "r9"
+    ],
+    [
+     323,
+     1239,
+     339,
+     1255,
+     "r9"
+    ],
+    [
+     340,
+     1239,
+     378,
+     1255,
+     "r9"
+    ],
+    [
+     389,
+     1239,
+     405,
+     1255,
+     "r9"
+    ],
+    [
+     407,
+     1239,
+     423,
+     1256,
+     "r9"
+    ],
+    [
+     425,
+     1239,
+     442,
+     1256,
+     "r9"
+    ],
+    [
+     454,
+     1239,
+     472,
+     1255,
+     "r9"
+    ],
+    [
+     473,
+     1239,
+     490,
+     1255,
+     "r9"
+    ],
+    [
+     491,
+     1238,
+     525,
+     1255,
+     "r9"
+    ],
+    [
+     527,
+     1239,
+     545,
+     1255,
+     "r9"
+    ],
+    [
+     545,
+     1239,
+     564,
+     1255,
+     "r9"
+    ],
+    [
+     565,
+     1239,
+     598,
+     1255,
+     "r9"
+    ],
+    [
+     600,
+     1239,
+     614,
+     1256,
+     "r9"
+    ],
+    [
+     626,
+     1239,
+     661,
+     1255,
+     "r9"
+    ],
+    [
+     662,
+     1239,
+     678,
+     1256,
+     "r9"
+    ],
+    [
+     680,
+     1239,
+     702,
+     1256,
+     "r9"
+    ],
+    [
+     716,
+     1239,
+     770,
+     1256,
+     "r9"
+    ],
+    [
+     781,
+     1239,
+     848,
+     1255,
+     "r9"
+    ],
+    [
+     850,
+     1239,
+     886,
+     1256,
+     "r9"
+    ],
+    [
+     899,
+     1239,
+     912,
+     1256,
+     "r9"
+    ],
+    [
+     914,
+     1239,
+     930,
+     1256,
+     "r9"
+    ],
+    [
+     931,
+     1239,
+     949,
+     1255,
+     "r9"
+    ],
+    [
+     950,
+     1239,
+     983,
+     1256,
+     "r9"
+    ],
+    [
+     986,
+     1239,
+     999,
+     1256,
+     "r9"
+    ],
+    [
+     1011,
+     1239,
+     1042,
+     1256,
+     "r9"
+    ],
+    [
+     1043,
+     1239,
+     1056,
+     1256,
+     "r9"
+    ],
+    [
+     1058,
+     1239,
+     1118,
+     1256,
+     "r9"
+    ],
+    [
+     1118,
+     1239,
+     1135,
+     1255,
+     "r9"
+    ],
+    [
+     234,
+     1275,
+     267,
+     1289,
+     "r16"
+    ],
+    [
+     268,
+     1275,
+     315,
+     1289,
+     "r16"
+    ],
+    [
+     561,
+     1275,
+     574,
+     1289,
+     "r17"
+    ],
+    [
+     576,
+     1275,
+     607,
+     1289,
+     "r17"
+    ],
+    [
+     622,
+     1275,
+     664,
+     1289,
+     "r17"
+    ],
+    [
+     666,
+     1275,
+     695,
+     1289,
+     "r17"
+    ],
+    [
+     234,
+     1299,
+     248,
+     1313,
+     "r16"
+    ],
+    [
+     249,
+     1299,
+     290,
+     1314,
+     "r16"
+    ],
+    [
+     292,
+     1299,
+     303,
+     1313,
+     "r16"
+    ],
+    [
+     560,
+     1298,
+     572,
+     1312,
+     "r17"
+    ],
+    [
+     575,
+     1299,
+     588,
+     1312,
+     "r17"
+    ],
+    [
+     589,
+     1299,
+     603,
+     1313,
+     "r17"
+    ],
+    [
+     604,
+     1298,
+     617,
+     1313,
+     "r17"
+    ],
+    [
+     620,
+     1299,
+     633,
+     1313,
+     "r17"
+    ],
+    [
+     635,
+     1299,
+     665,
+     1313,
+     "r17"
+    ],
+    [
+     236,
+     1323,
+     266,
+     1337,
+     "r16"
+    ],
+    [
+     268,
+     1323,
+     283,
+     1338,
+     "r16"
+    ],
+    [
+     285,
+     1323,
+     296,
+     1337,
+     "r16"
+    ],
+    [
+     297,
+     1323,
+     366,
+     1338,
+     "r16"
+    ],
+    [
+     368,
+     1323,
+     379,
+     1337,
+     "r16"
+    ],
+    [
+     561,
+     1323,
+     575,
+     1337,
+     "r17"
+    ],
+    [
+     577,
+     1323,
+     591,
+     1337,
+     "r17"
+    ],
+    [
+     592,
+     1323,
+     608,
+     1337,
+     "r17"
+    ],
+    [
+     610,
+     1323,
+     621,
+     1337,
+     "r17"
+    ],
+    [
+     623,
+     1323,
+     635,
+     1337,
+     "r17"
+    ],
+    [
+     636,
+     1323,
+     650,
+     1337,
+     "r17"
+    ],
+    [
+     651,
+     1323,
+     665,
+     1337,
+     "r17"
+    ],
+    [
+     667,
+     1323,
+     678,
+     1337,
+     "r17"
+    ],
+    [
+     235,
+     1347,
+     250,
+     1362,
+     "r16"
+    ],
+    [
+     250,
+     1347,
+     266,
+     1362,
+     "r16"
+    ],
+    [
+     268,
+     1347,
+     280,
+     1362,
+     "r16"
+    ],
+    [
+     281,
+     1347,
+     295,
+     1361,
+     "r16"
+    ],
+    [
+     297,
+     1347,
+     342,
+     1362,
+     "r16"
+    ],
+    [
+     560,
+     1347,
+     605,
+     1361,
+     "r17"
+    ],
+    [
+     607,
+     1347,
+     642,
+     1361,
+     "r17"
+    ],
+    [
+     644,
+     1347,
+     659,
+     1361,
+     "r17"
+    ],
+    [
+     660,
+     1347,
+     673,
+     1361,
+     "r17"
+    ],
+    [
+     235,
+     1371,
+     277,
+     1386,
+     "r16"
+    ],
+    [
+     279,
+     1371,
+     294,
+     1386,
+     "r16"
+    ],
+    [
+     295,
+     1371,
+     340,
+     1386,
+     "r16"
+    ],
+    [
+     341,
+     1371,
+     355,
+     1385,
+     "r16"
+    ],
+    [
+     357,
+     1371,
+     371,
+     1386,
+     "r16"
+    ],
+    [
+     372,
+     1371,
+     386,
+     1386,
+     "r16"
+    ],
+    [
+     560,
+     1371,
+     574,
+     1385,
+     "r17"
+    ],
+    [
+     576,
+     1371,
+     589,
+     1385,
+     "r17"
+    ],
+    [
+     590,
+     1371,
+     621,
+     1385,
+     "r17"
+    ],
+    [
+     623,
+     1371,
+     636,
+     1385,
+     "r17"
+    ],
+    [
+     638,
+     1371,
+     653,
+     1385,
+     "r17"
+    ],
+    [
+     237,
+     1395,
+     272,
+     1410,
+     "r16"
+    ],
+    [
+     273,
+     1395,
+     320,
+     1410,
+     "r16"
+    ],
+    [
+     321,
+     1395,
+     333,
+     1410,
+     "r16"
+    ],
+    [
+     335,
+     1395,
+     348,
+     1410,
+     "r16"
+    ],
+    [
+     561,
+     1395,
+     574,
+     1409,
+     "r17"
+    ],
+    [
+     576,
+     1395,
+     606,
+     1409,
+     "r17"
+    ],
+    [
+     607,
+     1395,
+     620,
+     1410,
+     "r17"
+    ],
+    [
+     623,
+     1394,
+     653,
+     1410,
+     "r17"
+    ],
+    [
+     886,
+     1419,
+     899,
+     1437,
+     "r10"
+    ],
+    [
+     381,
+     1449,
+     399,
+     1467,
+     "r10"
+    ],
+    [
+     420,
+     1449,
+     439,
+     1466,
+     "r10"
+    ],
+    [
+     440,
+     1449,
+     453,
+     1467,
+     "r10"
+    ],
+    [
+     479,
+     1449,
+     533,
+     1466,
+     "r10"
+    ],
+    [
+     554,
+     1449,
+     570,
+     1466,
+     "r10"
+    ],
+    [
+     572,
+     1449,
+     608,
+     1466,
+     "r10"
+    ],
+    [
+     609,
+     1449,
+     626,
+     1466,
+     "r10"
+    ],
+    [
+     627,
+     1449,
+     646,
+     1466,
+     "r10"
+    ],
+    [
+     648,
+     1449,
+     661,
+     1466,
+     "r10"
+    ],
+    [
+     663,
+     1449,
+     679,
+     1466,
+     "r10"
+    ],
+    [
+     681,
+     1449,
+     695,
+     1467,
+     "r10"
+    ],
+    [
+     716,
+     1448,
+     747,
+     1466,
+     "r10"
+    ],
+    [
+     748,
+     1449,
+     762,
+     1466,
+     "r10"
+    ],
+    [
+     764,
+     1449,
+     781,
+     1466,
+     "r10"
+    ],
+    [
+     781,
+     1449,
+     799,
+     1466,
+     "r10"
+    ],
+    [
+     800,
+     1449,
+     818,
+     1466,
+     "r10"
+    ],
+    [
+     820,
+     1449,
+     836,
+     1466,
+     "r10"
+    ],
+    [
+     838,
+     1449,
+     856,
+     1466,
+     "r10"
+    ],
+    [
+     883,
+     1449,
+     920,
+     1470,
+     "r10"
+    ],
+    [
+     337,
+     1450,
+     348,
+     1467,
+     "r10"
+    ],
+    [
+     349,
+     1450,
+     360,
+     1467,
+     "r10"
+    ],
+    [
+     400,
+     1450,
+     419,
+     1467,
+     "r10"
+    ],
+    [
+     921,
+     1450,
+     933,
+     1467,
+     "r10"
+    ],
+    [
+     940,
+     1450,
+     964,
+     1467,
+     "r10"
+    ],
+    [
+     454,
+     1463,
+     458,
+     1470,
+     "r10"
+    ],
+    [
+     857,
+     1462,
+     861,
+     1470,
+     "r10"
+    ],
+    [
+     935,
+     1462,
+     938,
+     1466,
+     "r10"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "Same trip leaving New York, July 15th, arriving London, July 25th, continue as in above itinerary from London to New York, all expenses included, $175.00\n\nThis rate includes steamer passage, going and returning, railroad fares throughout, good hotels, carriage drives and side trips as stated in itinerary, free allowance of 60 pounds of baggage in addition to usual hand baggage, ordinary gratuities to hotel servants, porters and guards, and the services of an experienced manager from port of arrival in Europe to departure for America.\n\nUnder Management of\n\nTHE PILGRIM TOURS\n\n225 FIFTH AVENUE, NEW YORK CITY\n\nIndorsed by Prof. W. E. Burghardt DuBois, American Co-Secretary of the Congress\n\nMention THE CRISIS.",
+   "role": "text",
+   "needs_review": "heading 'THE PILGRIM TOURS' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r15",
+   "label": "title",
+   "bbox": {
+    "x0": 321,
+    "y0": 205,
+    "x1": 435,
+    "y1": 231
+   },
+   "text": "BOOKS.",
+   "status": "ok",
+   "confidence": 0.8806153535842896,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 320,
+    "y0": 202,
+    "x1": 432,
+    "y1": 230
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 231,
+    "y0": 1272,
+    "x1": 389,
+    "y1": 1413
+   },
+   "text": "HAVRE\nPARIS\nVERSAILLES\nLUCERNE\nHEIDELBERG\nMAYENCE",
+   "status": "ok",
+   "confidence": 0.3857882022857666,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 233,
+    "y0": 1270,
+    "x1": 389,
+    "y1": 1412
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r17",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 557,
+    "y0": 1272,
+    "x1": 698,
+    "y1": 1413
+   },
+   "text": "THE RHINE\nCOLOGNE\nBRUSSELS\nANTWERP\nLONDON\nOXFORD",
+   "status": "ok",
+   "confidence": 0.2556418776512146,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 555,
+    "y0": 1268,
+    "x1": 699,
+    "y1": 1413
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r18",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 161,
+    "y0": 1169,
+    "x1": 1137,
+    "y1": 1205
+   },
+   "text": "LONDON - - - - - - - JULY 26th to 29th",
+   "status": "ok",
+   "confidence": 0.2511826455593109,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 898,
+    "y0": 1178,
+    "x1": 1135,
+    "y1": 1205
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "JULY 26th to 29th",
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 19,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [
+   "r7",
+   "r14"
+  ],
+  "unowned_ink_pct": 12.49,
+  "box_overlaps_after": 5,
+  "log": [
+   "drop r4 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r5 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r6 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r8 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r12 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r13 (text): non-latin hallucination 'حرَّجَة'",
+   "reshape r7 (figure): lost 0% of its ink, gained 26%",
+   "reshape r10 (plain_text): lost 0% of its ink, gained 4%",
+   "drop r11 (title): owns no words (all ink belongs to other regions)",
+   "reshape r14 (plain_text): lost 0% of its ink, gained 58%",
+   "reshape r18 (plain_text): lost 0% of its ink, gained 81%",
+   "reread r7: 'While at Wilberforce for Commencement, J' -> 'While at Wilberforce for Commencement, J'",
+   "reread r10: '37 DAYS, ALL EXPENSES INCLUDED, $275.00' -> '37 DAYS, ALL EXPENSES INCLUDED, $275.00'",
+   "reread r14: 'Same trip leaving New York, July 15th, a' -> 'GO TO LONDON\\nFIRST UNIVERSAL RACES CONGR'",
+   "reread r18: 'JULY 26th to 29th' -> 'LONDON - - - - - - - JULY 26th to 29th'",
+   "REVIEW r7: heading 'COLLEGE INN' inside box; no verified split at the 3 nearest gaps",
+   "REVIEW r14: heading 'THE PILGRIM TOURS' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

@@ -1,0 +1,300 @@
+{
+ "page": 7,
+ "image": "images/page_07.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.5,
+  "at": "2026-10-06T21:25:17+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 321,
+    "y0": 96,
+    "x1": 657,
+    "y1": 119
+   },
+   "text": "ALONG THE COLOR LINE",
+   "status": "ok",
+   "confidence": 0.8059844374656677,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 323,
+    "y0": 93,
+    "x1": 657,
+    "y1": 119
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 498,
+    "y0": 145,
+    "x1": 896,
+    "y1": 263
+   },
+   "text": "A colored man, J. K. Taylor, now over seventy years of age, has given 480 acres of rich farming land as a site for the sanatorium of the Sumner National Tuberculosis Association for colored consumptives.",
+   "status": "ok",
+   "confidence": 0.9670964479446411,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 496,
+    "y0": 144,
+    "x1": 895,
+    "y1": 260
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 76,
+    "y0": 145,
+    "x1": 481,
+    "y1": 632
+   },
+   "text": "results at the Mont Alto nurseries is due to his intelligent and indefatigable work.",
+   "status": "ok",
+   "confidence": 0.9732351899147034,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 76,
+    "y0": 145,
+    "x1": 473,
+    "y1": 628
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 498,
+    "y0": 278,
+    "x1": 896,
+    "y1": 758
+   },
+   "text": "Young Women's Christian Associations are being founded in Kansas City and St. Louis.\n\nThe New York Assembly committee on military affairs is getting suggestions as to the advisability of the formation of a colored regiment in the National Guard. Assemblyman Brooks, a member of the committee, received letters from R. J. Shand, acting adjutant general of Illinois, and Edward T. Miller of the Ohio State department regarding the colored regiment of these States.\n\nMr. Shand states that there was a colored battalion in Illinois before the Spanish-American War and later that it was increased to a full regiment. The regiment, he says, is still in service and ranks well.\n\nRegarding the Ohio colored troops, Mr. Miller says they are good soldiers and last year were rated among the best in the State National Guard by United States inspectors.",
+   "status": "ok",
+   "confidence": 0.9759376645088196,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 497,
+    "y0": 277,
+    "x1": 893,
+    "y1": 755
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 77,
+    "y0": 677,
+    "x1": 475,
+    "y1": 811
+   },
+   "text": "During 1910 there were shipped 699,629 trees. Of these 434,900 were white pines two years old; 71,800 Scotch pines, one and two years old; 100,000 white ash; 26,824 sugar maples; 17,555 black walnuts and a dozen other species in smaller amounts.",
+   "status": "ok",
+   "confidence": 0.9756650328636169,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 76,
+    "y0": 675,
+    "x1": 473,
+    "y1": 811
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 500,
+    "y0": 796,
+    "x1": 896,
+    "y1": 1235
+   },
+   "text": "In Indianapolis with more than five thousand persons in attendance the dedicatory exercises of the new Pythian temple, built by the colored Knights of Pythias of Indiana, were held. The occasion brought to the city several national and all the State officials of the order. The eleven city lodges marched to the hall, accompanied by the officials in carriages. The Rev. W. H. Weaver, pastor of Senate Avenue Presbyterian Church, made the dedicatory address, in which he commended the enterprise of the colored Pythians which had made the building possible. He followed the history of Pythianism in Indiana from its start, in 1894, to the present time. There are now, he said, more than 3,500 knights in this State, with $2,500 in an endowment treasury for the support of widows and orphans, and $17,000 in the treasuries of the subordinate lodges of the State.",
+   "status": "ok",
+   "confidence": 0.9802531003952026,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 498,
+    "y0": 796,
+    "x1": 893,
+    "y1": 1234
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 74,
+    "y0": 814,
+    "x1": 475,
+    "y1": 1372
+   },
+   "text": "The immense operations of the nurseries are apparent from these figures. As said, Mr. Brock is entitled to very much of the credit for this result. He has not only busied himself assiduously in the nurseries, but has been a very diligent student and an extensive traveler.\n\nMacon, Ga., is to have a Negro hospital, operated by private parties. An organization has been formed by the Negro physicians, nurses, dentists and druggists of the city, and a fund of $6,000 has been subscribed. The city will be asked for a site, and if it is secured the hospital will be built without delay.\n\nAt the forty-second annual session of the Louisiana Freedmen's Baptist Sunday School Association, the members, enthusiastic for the religious and moral upbuilding of the Negro race, pledged themselves to raise funds for the erection of a Negro library. The plans have not as yet taken definite shape, but according to the resolutions adopted the project will be industriously pushed.",
+   "status": "ok",
+   "confidence": 0.9750739336013794,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 76,
+    "y0": 813,
+    "x1": 474,
+    "y1": 1369
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 499,
+    "y0": 1251,
+    "x1": 898,
+    "y1": 1505
+   },
+   "text": "In Galveston, Texas, the colored societies have just purchased a hall for $7,583.\nWhite firemen of the Cincinnati, New Orleans and Texas Pacific Railroad have struck because of a controversy over Negro firemen. The strike was in response to an order from a committee of the Brotherhood of Locomotive Firemen and Enginemen. The action was taken by the Union after a conference with T. Powell, vice-president of the",
+   "status": "ok",
+   "confidence": 0.9768595099449158,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 498,
+    "y0": 1250,
+    "x1": 896,
+    "y1": 1503
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 79,
+    "y0": 1386,
+    "x1": 477,
+    "y1": 1504
+   },
+   "text": "The eighth annual conference of Colored Women's Clubs of Rhode Island has been in session at Providence. Complaints were made of discrimination against colored candidates for appointment to public schools.",
+   "status": "ok",
+   "confidence": 0.9723439812660217,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 76,
+    "y0": 1384,
+    "x1": 476,
+    "y1": 1501
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 193,
+    "y0": 648,
+    "x1": 361,
+    "y1": 668
+   },
+   "text": "Ralph Elwood Brock",
+   "status": "ok",
+   "confidence": 0.576233446598053,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 191,
+    "y0": 646,
+    "x1": 360,
+    "y1": 666
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "abandon",
+   "bbox": {
+    "x0": 878,
+    "y0": 96,
+    "x1": 892,
+    "y1": 118
+   },
+   "text": "7",
+   "status": "ok",
+   "confidence": 0.7054659128189087,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 876,
+    "y0": 94,
+    "x1": 892,
+    "y1": 115
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r11",
+   "label": "title",
+   "bbox": {
+    "x0": 623,
+    "y0": 778,
+    "x1": 771,
+    "y1": 798
+   },
+   "text": "ECONOMICS.",
+   "status": "ok",
+   "confidence": 0.9027502536773682,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 620,
+    "y0": 775,
+    "x1": 768,
+    "y1": 796
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.11,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

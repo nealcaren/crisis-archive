@@ -1,0 +1,93 @@
+{
+ "page": 22,
+ "image": "images/page_22.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 2.6,
+  "at": "2026-10-06T21:59:09+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 869,
+    "y0": 79,
+    "x1": 1029,
+    "y1": 102
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8862014412879944,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 867,
+    "y0": 76,
+    "x1": 1029,
+    "y1": 102
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 137,
+    "y0": 84,
+    "x1": 176,
+    "y1": 107
+   },
+   "text": "110",
+   "status": "ok",
+   "confidence": 0.8654946684837341,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 134,
+    "y0": 83,
+    "x1": 175,
+    "y1": 106
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 185,
+    "y0": 131,
+    "x1": 1066,
+    "y1": 1458
+   },
+   "text": "5",
+   "status": "ok",
+   "confidence": 0.9457985758781433,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 195,
+    "y0": 161,
+    "x1": 1063,
+    "y1": 1449
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 3,
+  "regions_after": 3,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

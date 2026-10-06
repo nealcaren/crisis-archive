@@ -1,0 +1,127 @@
+{
+  "page": 20,
+  "image": "images/page_20.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 166,
+        "y0": 83,
+        "x1": 981,
+        "y1": 180
+      },
+      "text": "THE N. A. A. C. P.",
+      "status": "ok",
+      "confidence": 0.40025919675827026,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 160,
+        "y0": 235,
+        "x1": 556,
+        "y1": 818
+      },
+      "text": "THE NEW YORK BRANCH.\n\nThough the headquarters of the National Association for the Advancement of Colored People are in New York, the Association has for some time felt the need of a New York branch, in order that the national organization might devote all its energies to the whole field and not dissipate them by too much attention to the local problems of New York. As a result the New York branch was formed last winter with the following officers: President, Mr. J. E. Spingarn; vice-president, Bishop Alexander E. Walters; recording secretary, Mrs. F. R. Keyser; corresponding secretary, Miss M. W. Ovington.\n\nThe branch proceeded immediately to organize its work and to spread the propaganda of the Association. Meetings have been held in various places, especially in colored centers, in order that the colored people of the city might themselves be brought to realize the need of organization and effective work. Several important cases have been investigated, with more or less satisfactory results. One of the most interesting is the Mingo case.",
+      "status": "ok",
+      "confidence": 0.9772865772247314,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 157,
+        "y0": 822,
+        "x1": 551,
+        "y1": 1291
+      },
+      "text": "William Mingo, a colored man of good character, living at 351 West 36th Street, was hired by the Walwood Wine Company as teamster and driver in place of a white man who had to be discharged because of continual periods of intoxication. The stable at which the Walwood company put up its horse and wagon is in 38th Street, where most of, if not all, the other wagons and teams were driven by white men. In addition to these a very rough crowd or gang of white men made it their headquarters for lounging. As soon as Mr. Mingo took up his work all kinds of threats were made against him, not only by the discharged employee but by the gang in sympathy with him. They repeatedly stole things off of his wagon, followed it and purloined goods when he would be on the inside of places delivering orders. This, of course, was much to Mingo's annoyance and to the discomfiture of his employers.",
+      "status": "ok",
+      "confidence": 0.8701353669166565,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 156,
+        "y0": 1295,
+        "x1": 551,
+        "y1": 1434
+      },
+      "text": "On Saturday evening, June 3, when he was driving his wagon to the stable, Mingo was attacked by this crowd of hoodlums, but as he was carrying a hatchet from the store to the stable in order to mend his harness, he held them off until the stable was reached. Putting",
+      "status": "ok",
+      "confidence": 0.97719806432724,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "abandon",
+      "bbox": {
+        "x0": 159,
+        "y0": 1473,
+        "x1": 169,
+        "y1": 1484
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.5443909168243408,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 582,
+        "y0": 235,
+        "x1": 982,
+        "y1": 701
+      },
+      "text": "up his horse, he came out with his wife, who is an intelligent woman and who in the meantime had joined him.\n\nWhen in the middle of the block and near Eighth Avenue; he was struck on the head by one of this gang. Immediately his wife screamed, \"Help! Murder!\" and he started to run for the store pursued by the gang, now augmented by large numbers who saw him running. Just as he reached the store and turned to open the screen door so that his wife, who had been running behind him, might enter, a policeman who had been following on a bicycle got off his wheel, and running to the middle of the sidewalk, deliberately, and without any provocation, shot Mingo twice. The man fell half way into the store, and as soon as possible an ambulance was called and he was taken to the New York Hospital, where his wound was pronounced serious, but where he rallied more swiftly than had been deemed possible.",
+      "status": "ok",
+      "confidence": 0.9797611236572266,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 577,
+        "y0": 703,
+        "x1": 976,
+        "y1": 1165
+      },
+      "text": "The policeman, to justify his action, sent in a report that Mingo had the hatchet raised to strike him and that he shot in self-defense. The case came before the Magistrate's Court, 314 West 54th Street, on July 3, Judge Kernochan presiding. The policeman's testimony in many instances contradicted that of the defendant's best witness, Mrs. Mingo, and the judge declared the case should go before the Grand Jury. This will be, probably, some time in September. In the meantime Mingo is out on bail.\n\nThe Association secured the attorney, Counselor William Smith, to defend the case and intends to do all in its power to see that justice is secured.\n\nThe branch feels that it is especially important to fight the Mingo case to a final conclusion, in order that the police of New York may be made to realize the rights of colored citizens.\n\nVery typical is the Mitchell case:",
+      "status": "ok",
+      "confidence": 0.9771913290023804,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 577,
+        "y0": 1165,
+        "x1": 975,
+        "y1": 1434
+      },
+      "text": "Robert Mitchell was walking along 150th Street, near Walton Avenue, the Bronx, when two young white women suddenly turned a corner, and surprised, probably, by seeing a Negro, screamed. Mitchell was attacked at once by two white men, and seeing that he would not be able successfully to ward them off, he started to run. The two white men were joined by others until he was pursued by hundreds, beaten and kicked and cuffed and knocked down until he sank helpless in a doorway through which he was attempting to escape for refuge.",
+      "status": "ok",
+      "confidence": 0.9777665138244629,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.6,
+    "at": "2026-10-06T22:12:24+00:00"
+  }
+}

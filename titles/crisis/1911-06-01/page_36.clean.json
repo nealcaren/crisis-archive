@@ -1,0 +1,208 @@
+{
+ "page": 36,
+ "image": "images/page_36.jpg",
+ "width": 1376,
+ "height": 2092,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.5,
+  "at": "2026-10-06T21:51:50+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 191,
+    "y0": 129,
+    "x1": 1259,
+    "y1": 310
+   },
+   "text": "TALKS ABOUT WOMEN\nNUMBER SIX By Mrs. JOHN E. MILHOLLAND",
+   "status": "ok",
+   "confidence": 0.6832345128059387,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 192,
+    "y0": 131,
+    "x1": 1257,
+    "y1": 304
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 191,
+    "y0": 372,
+    "x1": 708,
+    "y1": 824
+   },
+   "text": "London, May 10.—My spring moving across the Atlantic interfered with last month's \"Talk,\" though I did not intend that it should, and I hope my friends will overlook this seeming carelessness. I really believe I felt the hiatus more than any one else. True, our association has been limited to a few months, yet there is already a sense of acquaintance and co-operative sentiment that I treasure very highly. While sounding this personal note let me take occasion to thank my friends for their many kindly expressions which I cannot acknowledge individually, owing to the exacting demands upon my time and energies, but which are none the less appreciated and gratefully received.",
+   "status": "ok",
+   "confidence": 0.9771027565002441,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 193,
+    "y0": 371,
+    "x1": 706,
+    "y1": 821
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 198,
+    "y0": 822,
+    "x1": 711,
+    "y1": 1193
+   },
+   "text": "In this connection let me add still further, and in doing so I trust that neither Dr. DuBois nor the business management will think I am trespassing on their territory, that I congratulate the colored women of the country for the splendid manner in which they have helped to make THE CRISIS a success; for it is a success now beyond all question, and far beyond the expectation of its founder and friends. How much of this success is due to the devotion and practical assistance of the good women who read it, Dr. DuBois declares, cannot well be overestimated. I rejoice to hear it.",
+   "status": "ok",
+   "confidence": 0.959999144077301,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 199,
+    "y0": 822,
+    "x1": 708,
+    "y1": 1188
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 190,
+    "y0": 1190,
+    "x1": 715,
+    "y1": 1513
+   },
+   "text": "THE CRISIS now has 12,000 circulation. That means at least 50,000 readers. There is no reason why it should not have 100,000 copies circulated and a half million readers. It seems reasonable to expect so splendid a result in the light of present progress. Ten million colored men and women of the United States have at last a national organ, capable of indefinite expansion and usefulness. It rests with them, particularly the women, to say how far and how fast it shall grow.",
+   "status": "ok",
+   "confidence": 0.9760457873344421,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 195,
+    "y0": 1190,
+    "x1": 712,
+    "y1": 1509
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 206,
+    "y0": 1511,
+    "x1": 719,
+    "y1": 1864
+   },
+   "text": "To any man or woman imbued with the principles of modern civilization the recent Ghetto attempts in Baltimore and other American cities is to say the least surprising; to people of the Old World, who have outgrown medieval prejudice, it seems incomprehensible. Here, where class distinctions are supposedly deep rooted, it assumes a ridiculous aspect. It is even more so in France and throughout the Continental countries. The color line is quite indistinct. An attempt in London, Paris, or any city, great or small, to segregate",
+   "status": "ok",
+   "confidence": 0.9753779172897339,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 207,
+    "y0": 1512,
+    "x1": 716,
+    "y1": 1859
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 738,
+    "y0": 370,
+    "x1": 1257,
+    "y1": 931
+   },
+   "text": "any class of people arbitrarily on account of race, color or creed would be almost certain to precipitate a revolution. More congregation and less segregation is the solution of race friction.\n\nRecalling the old Ghettos and the prejudice that once existed in England against the Jews, more intense than Negrophobia, one begins to realize how thoroughly the old countries have advanced on a question touching which we seem to exhibit the most deplorable retrograde movement.\n\nThe famous English statesman who confessed his utter inability to draw an indictment against a nation would find his powers overtaxed still more in framing legislation against a race, and where Edmund Burke failed we doubt that any local limb of the law from Roanoke to the Rio Grande will ever succeed. It is an antiquated effort. It must fail.",
+   "status": "ok",
+   "confidence": 0.9789862036705017,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 739,
+    "y0": 369,
+    "x1": 1254,
+    "y1": 928
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 742,
+    "y0": 932,
+    "x1": 1258,
+    "y1": 1387
+   },
+   "text": "There is no element of our population more thoroughly American than the Negro. He has no yearnings toward Africa, and though he has many reasons to feel bitter toward the government that refuses to defend his rights and right his wrongs, yet who questions his patriotism or devotion to the flag? The truth is our colored friends have been entirely too patient. They have to put up with treatment that no other class of citizens would have endured. Their patience has been banked on by their oppressors. They have submitted too long in silence. They are only beginning to learn the value of agitation and indignant protest and, above all, organized effort.",
+   "status": "ok",
+   "confidence": 0.9791712164878845,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 743,
+    "y0": 930,
+    "x1": 1256,
+    "y1": 1384
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 747,
+    "y0": 1390,
+    "x1": 1263,
+    "y1": 1860
+   },
+   "text": "Let them take a leaf from the experience of the Irish people who are now about to realize the results of their long, long battle for Home Rule against overwhelming odds; a struggle that at times seemed so unequal as to be hopeless, but in which the indomitable spirit of the race never failed to assert and reassert itself regardless of temporary defeat or apparent disaster. In all the vicissitudes of that struggle Irish womanhood is everywhere in evidence, assisting, encouraging, stimulating their husbands, sons and fathers, and defiantly refusing to consider such a thing as ultimate failure among the possibilities, and, as the old Roman poet has it, they are able because they believe themselves to be able.",
+   "status": "ok",
+   "confidence": 0.9799444675445557,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 747,
+    "y0": 1390,
+    "x1": 1259,
+    "y1": 1859
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 3,
+  "log": []
+ }
+}

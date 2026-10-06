@@ -1,0 +1,343 @@
+{
+ "page": 12,
+ "image": "images/page_12.jpg",
+ "width": 1375,
+ "height": 2082,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.4,
+  "at": "2026-10-06T21:39:34+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 158,
+    "y0": 127,
+    "x1": 1220,
+    "y1": 307
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.35036417841911316,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 427,
+    "y0": 175,
+    "x1": 944,
+    "y1": 255
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "OPINION",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 706,
+    "y0": 331,
+    "x1": 1220,
+    "y1": 411
+   },
+   "text": "of human rights as we permit in America to-day cannot be without its retributive results.\"",
+   "status": "ok",
+   "confidence": 0.9510213136672974,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 705,
+    "y0": 331,
+    "x1": 1217,
+    "y1": 409
+   },
+   "exclude": [
+    [
+     1197,
+     409,
+     1210,
+     428,
+     "r3"
+    ],
+    [
+     1043,
+     410,
+     1046,
+     414,
+     "r3"
+    ],
+    [
+     1125,
+     410,
+     1143,
+     428,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 162,
+    "y0": 334,
+    "x1": 676,
+    "y1": 707
+   },
+   "text": "The third conference of the N. A. A. C. P. received a remarkable amount of attention from the newspapers. The Boston papers gave the meeting editorial attention. The Post said: \"There is to open at the Park Street Church to-day the third annual conference of the National Association for the Advancement of Colored People, an organization that has already accomplished a great deal along the line of making the Negro think for himself, help to plan out his own course and solve his own problems.\"",
+   "status": "ok",
+   "confidence": 0.976006269454956,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 331,
+    "x1": 673,
+    "y1": 702
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 707,
+    "y0": 406,
+    "x1": 1221,
+    "y1": 659
+   },
+   "text": "\"The whole meeting,\" said the Record, \"is merely one of protest, as it must be. The country must be awakened to the injustice and discrimination if the nation is to rid itself of this blot.\" The Beacon, too, says frankly: \"North as well as South, the Negroes have reason to complain of the widespread and apparently increasing Caucasian animosity toward their race.\"",
+   "status": "ok",
+   "confidence": 0.977717399597168,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 707,
+    "y0": 409,
+    "x1": 1220,
+    "y1": 656
+   },
+   "exclude": [
+    [
+     760,
+     390,
+     765,
+     408,
+     "r1"
+    ],
+    [
+     768,
+     393,
+     775,
+     408,
+     "r1"
+    ],
+    [
+     778,
+     395,
+     787,
+     408,
+     "r1"
+    ],
+    [
+     710,
+     396,
+     718,
+     408,
+     "r1"
+    ],
+    [
+     721,
+     396,
+     731,
+     408,
+     "r1"
+    ],
+    [
+     734,
+     396,
+     742,
+     408,
+     "r1"
+    ],
+    [
+     745,
+     396,
+     757,
+     408,
+     "r1"
+    ],
+    [
+     790,
+     405,
+     793,
+     408,
+     "r1"
+    ],
+    [
+     1153,
+     657,
+     1172,
+     675,
+     "r4"
+    ],
+    [
+     1053,
+     658,
+     1057,
+     662,
+     "r4"
+    ],
+    [
+     1104,
+     658,
+     1109,
+     676,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 709,
+    "y0": 654,
+    "x1": 1228,
+    "y1": 1055
+   },
+   "text": "From Nebraska the Lincoln News comments: \"Time was when Bostonians did not sit querying, in the words of a recent editorial in one of the Boston papers, which in part read: 'It is not easy to see what we of the North can do.' And although conditions have changed, demanding different ways and means of accomplishing certain things, it is believed that this national organization—whose founders happily formed a thoroughly representative body—will carry on its work with moderation and justice, with the plea that the best way to uplift the Negro is the best way to aid the white man to peace and content.\"",
+   "status": "ok",
+   "confidence": 0.9780986309051514,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 710,
+    "y0": 657,
+    "x1": 1222,
+    "y1": 1049
+   },
+   "exclude": [
+    [
+     711,
+     641,
+     718,
+     656,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 167,
+    "y0": 707,
+    "x1": 683,
+    "y1": 1131
+   },
+   "text": "The Herald commented at length: \"The National Association for the Advancement of Colored People, now in session in this city, was formed none too soon. 'The heart of the North has grown cold toward the bondmen whom it freed' was the oratorical dictum of John M. Harlan, the aged Justice of the Supreme Court of the United States, himself a Kentuckian, in an address before the Loyal Legion a decade ago, which still rings in the ears of all who heard it. He told a manifest truth. The North has acquiesced in one after another of the Southern devices of race proscription. Politics, business, fashion, femininity have decreed this course.",
+   "status": "ok",
+   "confidence": 0.977683424949646,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 171,
+    "y0": 707,
+    "x1": 677,
+    "y1": 1128
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 714,
+    "y0": 1055,
+    "x1": 1236,
+    "y1": 1651
+   },
+   "text": "The Knoxville (Tenn.) Sentinel quotes from Mr. Villard's speech the statement that a Negro after he has spent years accumulating the money to buy a good house, under instructions from his advisers that he will then be respected, finds himself assailed as soon as he has reached his goal. The Sentinel sees here an argument for segregation: \"This is not to be denied, and students of the race problem ought to recognize it and seek a remedy in some different manner. If whites and blacks in this country are thrown into competition and pursue the same avocations or seek to live side by side in the same communities there will be a conflict. The Negro problem is more nearly settled in the South. Certain avocations are pursued by one race only. Segregation has more nearly been brought about. Each race must develop its own civilization. The South understands the colored man and treats him better than does any other section.\"",
+   "status": "ok",
+   "confidence": 0.9784249067306519,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 716,
+    "y0": 1054,
+    "x1": 1228,
+    "y1": 1647
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 176,
+    "y0": 1131,
+    "x1": 694,
+    "y1": 1883
+   },
+   "text": "\"One does not need to be aged to have witnessed great changes in a lifetime. No Negro now sits in either House of Congress; from even the national conventions of the Republican party the colored men are in gradual process of exclusion. Industrial opportunities, North and South, are steadily closing against them. The educated, thrifty, book-reading Negro is, if anything, less welcome to the whites than those of that race who, in popular parlance, 'keep their place.' What crazy old John Brown told the outwardly soundminded Governor Wise of Virginia, as the latter was warning the prisoner awaiting execution of the need of preparing for what was to come, remains essentially true to-day. The old man said he had nothing much to worry about, but that it seemed to him the Governor of the Old Dominion might well give anxious thought to his own future and that of the civilization for which he stood. And in the blood and thunders of fratricidal war this grim prophecy was fulfilled. We of to-day know no better than did Governor Wise how the whirligig of time will work out its revenges but we may be sure that such a denia",
+   "status": "ok",
+   "confidence": 0.9781000018119812,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 178,
+    "y0": 1134,
+    "x1": 685,
+    "y1": 1880
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 724,
+    "y0": 1653,
+    "x1": 1239,
+    "y1": 1881
+   },
+   "text": "The Natchez (Miss.) News objects to our platform and calls our statements false: \"As to rights and opportunities, if the Association refers to political rights and opportunities, it simply amounts to a declaration that the white man, who has worked out whatever there is of civilization in the world to-day, will continue to solve his own problems with-",
+   "status": "ok",
+   "confidence": 0.9732950329780579,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 724,
+    "y0": 1650,
+    "x1": 1236,
+    "y1": 1879
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 2,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 70%",
+   "reread r0: 'OPINION' -> 'OPINION'"
+  ]
+ }
+}

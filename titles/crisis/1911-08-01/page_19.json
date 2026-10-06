@@ -1,0 +1,127 @@
+{
+  "page": 19,
+  "image": "images/page_19.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 425,
+        "y0": 79,
+        "x1": 538,
+        "y1": 103
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.6286695599555969,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 76,
+        "y0": 130,
+        "x1": 472,
+        "y1": 637
+      },
+      "text": "of equal opportunities, if an element or a race is to be set aside and devoted forever to the hard tasks of labor, we should prefer to have the sentence pronounced by somebody other than the Chief Magistrate.\n\n\"Too many Americans have acquired the habit of condemning universal education. They fancy a peasantry, ignorant, respectful and content. They fancy also an aristocratic social organization in which they would take places near the top. No doubt we shall have these superior theorizers, philosophers, snobs, or whatever they may be called, always at our elbows, but they will exert little influence except as they occasionally be devil men in great positions who ought to know better.\n\n\"We advise Mr. Taft to let the subject of education alone. There is no compulsion about college training. Young men and young women, whether white or black, who get it by their own exertions are not to be stopped by anybody's ideas on the subject.\"",
+      "status": "ok",
+      "confidence": 0.9772385358810425,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 76,
+        "y0": 671,
+        "x1": 469,
+        "y1": 988
+      },
+      "text": "MUSIC.\nThe St. Louis Republic prints a tribute to the Negro as a musician. It points out that when Dvorak wanted melodies for his New World Symphony he could get them only from the American Negro. \"Alone of the three racial strains, the Negro has an inalienable native musical inheritance; black laborers in field and forest, black mothers in the whitewashed cabins of the South have a great store of song which belongs to them by right of creation. It has come out of the soul of the race; it is distilled of its melodies and its joys, its oppressions and achievements.",
+      "status": "ok",
+      "confidence": 0.978692352771759,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 68,
+        "y0": 989,
+        "x1": 468,
+        "y1": 1483
+      },
+      "text": "\"The citizen of St. Louis doubtful of the musical capacity of the Negro would do well to visit the schoolhouse which stands near Jefferson Avenue, on the floor of the Mill Creek Valley at Papin Street. This school, named for L'Ouverture, the black liberator of Haiti, enrolls 1,600 pupils, which is more than any other in St. Louis. Principal Gordon realizes the importance of cultivating the musical gift the children of his race possess and takes an active personal interest in the work. Two things are specially notable—the quality of tone and the responsiveness to musical ideas. These colored boys and girls sing fortissimo without splitting their throats, like so many blackbirds (no witticism intended). And the beauty and effectiveness of their crescendo passages must be heard to be appreciated. \"Caucasians might as well admit the artistic superiority of the Negro in the matter of susceptibility to music.\"",
+      "status": "ok",
+      "confidence": 0.9770968556404114,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "abandon",
+      "bbox": {
+        "x0": 499,
+        "y0": 78,
+        "x1": 893,
+        "y1": 244
+      },
+      "text": "The Manassas (Va.) Journal says there is no race problem in that part of the country, and pays a tribute to the influence of the colored industrial school there, and the capacity of the students for hard work and good manners.",
+      "status": "ok",
+      "confidence": 0.8345478773117065,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 497,
+        "y0": 246,
+        "x1": 891,
+        "y1": 702
+      },
+      "text": "\"No matter how large the attendance may be at any of their public meetings, neither town nor county has ever found it necessary to appoint a single extra policeman or deputy sheriff, and nobody ever dreams of peril of either life or property in consequence of the presence of the school. The school itself, conducted in the manner in which it is, is a safeguard to both. As to the great racial bugbear about which theorists exploit theories and dreamers dream dreams—social equality. This is purely a personal and private matter about which neither white man nor black man here bothers himself. There is no such thing as social equality among the members of any race itself on the face of the globe. Men and women choose their likes and ignore their dislikes in every community in the world. Men and women who do things in the world never trouble themselves about any question of equality.\"",
+      "status": "ok",
+      "confidence": 0.9793888926506042,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 495,
+        "y0": 719,
+        "x1": 887,
+        "y1": 1158
+      },
+      "text": "The Afro-American Ledger, of Baltimore, says that the accommodations in the colored school of that city are insufficient. The trouble is, it thinks, that there is no one on the School Board who represents the colored race and knows personally the school's needs. There are fair men, it admits, on the board. \"And yet, with all this in our favor the fact still remains that, as a separation exists in the entire social and economic life of the Negroes so that the ordinary facilities of gaining a real insight into conditions among them do not obtain, it is essential for the community at large, as well for the Negroes themselves, that some sympathetic and adequately intelligent representative of that race should be a member of the board of administration. Until this obtains the board must be at a serious disadvantage in satisfying the real needs of the situation.\"",
+      "status": "ok",
+      "confidence": 0.9797157049179077,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 492,
+        "y0": 1175,
+        "x1": 884,
+        "y1": 1483
+      },
+      "text": "The Portland (Ore.) Leader says: \"A Louisiana Negro stole a watering trough, worth $5. He resisted arrest, and a mob finally effected his capture. He was hanged without a trial, and without authority of law. The mob resolved itself into the courts, the law and the State, and acted summarily. Life at the price of a $5 watering trough is very cheap. In no country in the world is it held more lightly than in the United States. If citizens, acting in a mob capacity, take life in defiance of law, what can we expect but that the crooks will also ignore the law, the courts, justice and constituted authority?\"",
+      "status": "ok",
+      "confidence": 0.9776334166526794,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.9,
+    "at": "2026-10-06T22:12:16+00:00"
+  }
+}

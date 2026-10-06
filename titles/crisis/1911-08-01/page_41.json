@@ -1,0 +1,323 @@
+{
+  "page": 41,
+  "image": "images/page_41.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 302,
+        "y0": 100,
+        "x1": 654,
+        "y1": 127
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8793628215789795,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 68,
+        "y0": 127,
+        "x1": 466,
+        "y1": 856
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 302,
+        "y0": 127,
+        "x1": 654,
+        "y1": 856
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "abandon",
+      "bbox": {
+        "x0": 123,
+        "y0": 261,
+        "x1": 830,
+        "y1": 318
+      },
+      "text": "CLASSIFIED ADVERTISING",
+      "status": "ok",
+      "confidence": 0.5621861815452576,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 125,
+        "y0": 359,
+        "x1": 831,
+        "y1": 747
+      },
+      "text": "Through our Classified Advertising Service you have the opportunity to tell your little wants to 40,000 SELECT readers.\nIf you want HELP, you can find, among THE CRISIS readers, graduates of Industrial Schools and thousands of young people who are trained for efficient, dependable service.\nIf you want a POSITION, THE CRISIS can help you find high-class places for teachers, managers, clerks, stenographers, hotel men, etc., etc.\nYou will find our readers very responsive to this department for Business Opportunities, Investments, Correspondence Schools, Agents Wanted, etc.\nAdvertisers may have replies sent in care of THE CRISIS and forwarded.\nClassified advertising rates made known on application.",
+      "status": "ok",
+      "confidence": 0.9153447151184082,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 71,
+        "y0": 856,
+        "x1": 465,
+        "y1": 984
+      },
+      "text": "EMPLOYMENT AGENCIES\n\nRELIABLE HELP at all times for the most discriminating employers.\nOut-of-town correspondence invited.\nReferences thoroughly investigated\nAddress:",
+      "status": "ok",
+      "confidence": 0.8742451667785645,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 70,
+        "y0": 1039,
+        "x1": 466,
+        "y1": 1345
+      },
+      "text": "Are you in need of\nIs your friend in need of\nIf so, 'phone, call or write the\nMIDDLESEX EMPLOYMENT AGENCY\n2229 Fifth Ave., near 136th St.\nCHAS. A. KNOWLES, Mgr.\nReferences Carefully Investigated\n'Phone 6370 Harlem\n\nSITUATIONS WANTED\n\nYOUNG LADY desires position as teacher in\nan Industrial School. Two years' experience.\nReferences furnished.\n\nAddress:\nE. R., care THE CRISIS MAGAZINE\n20 Vesey Street, New York",
+      "status": "ok",
+      "confidence": 0.9096220135688782,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 68,
+        "y0": 1402,
+        "x1": 466,
+        "y1": 1588
+      },
+      "text": "I make a specialty of buying, selling, exchanging and managing New York City and suburban real estate. Out-of-town correspondence invited.\n\nS. AUGUSTUS Duling, DUNCAN\nand managing New York\n\nREAL ESTATE AND INSURANCE BROKER\n\n2229 Fifthought\nAvenue, New York\n\nMention",
+      "status": "ok",
+      "confidence": 0.542300283908844,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 170,
+        "y0": 986,
+        "x1": 367,
+        "y1": 1003
+      },
+      "text": "MISS I. L. MOORMAN",
+      "status": "ok",
+      "confidence": 0.49946174025535583,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 73,
+        "y0": 1006,
+        "x1": 227,
+        "y1": 1023
+      },
+      "text": "463 Lenox Avenue",
+      "status": "ok",
+      "confidence": 0.3243379592895508,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 171,
+        "y0": 1364,
+        "x1": 361,
+        "y1": 1388
+      },
+      "text": "REAL ESTATE",
+      "status": "ok",
+      "confidence": 0.9017037153244019,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 379,
+        "y0": 1006,
+        "x1": 465,
+        "y1": 1023
+      },
+      "text": "New York",
+      "status": "ok",
+      "confidence": 0.7048161625862122,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 487,
+        "y0": 127,
+        "x1": 889,
+        "y1": 902
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 490,
+        "y0": 902,
+        "x1": 887,
+        "y1": 1033
+      },
+      "text": "SONGS.—There is money to be made in songwriting.\nIf you write poems or compose music, send us your work for examination. If terms are satisfactory we will publish and pay one-half profits.\nGOTHAM-ATTUCKS MUSIC CO.\n136 WEST 37TH STREET NEW YORK",
+      "status": "ok",
+      "confidence": 0.5242249369621277,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 491,
+        "y0": 1107,
+        "x1": 885,
+        "y1": 1281
+      },
+      "text": "LOCAL REPRESENTATIVES for THE CRISIS\nwanted in each locality.\nSome agents sell over 800 copies monthly.\nWrite for particulars.\n\nAddress:\nFRANK M. TURNER\nCIRCULATION MANAGER\nSuite 311\n20 Vesey Street, New York",
+      "status": "ok",
+      "confidence": 0.8091480135917664,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 491,
+        "y0": 1356,
+        "x1": 886,
+        "y1": 1407
+      },
+      "text": "YOUNG MAN, HAVE YOU A TRADE?\nBy our method we teach the Barber Trade in six weeks.",
+      "status": "ok",
+      "confidence": 0.786078929901123,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 487,
+        "y0": 1406,
+        "x1": 886,
+        "y1": 1510
+      },
+      "text": "We give you a complete set of tools and secure you a position in a shop. Call or write for particulars.\nNEW YORK BARBER SCHOOL\nCostello & Wise\nCor. Bowery and Rivington St. NEW YORK",
+      "status": "ok",
+      "confidence": 0.7327147126197815,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 387,
+        "y0": 1519,
+        "x1": 568,
+        "y1": 1537
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.5083979964256287,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "abandon",
+      "bbox": {
+        "x0": 848,
+        "y0": 101,
+        "x1": 889,
+        "y1": 123
+      },
+      "text": "173",
+      "status": "ok",
+      "confidence": 0.879439115524292,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "title",
+      "bbox": {
+        "x0": 645,
+        "y0": 856,
+        "x1": 732,
+        "y1": 881
+      },
+      "text": "MUSIC",
+      "status": "ok",
+      "confidence": 0.8885676264762878,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "title",
+      "bbox": {
+        "x0": 585,
+        "y0": 1060,
+        "x1": 791,
+        "y1": 1084
+      },
+      "text": "HELP WANTED",
+      "status": "ok",
+      "confidence": 0.8910715579986572,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "title",
+      "bbox": {
+        "x0": 626,
+        "y0": 1309,
+        "x1": 751,
+        "y1": 1333
+      },
+      "text": "SCHOOLS",
+      "status": "ok",
+      "confidence": 0.8912050127983093,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.3,
+    "at": "2026-10-06T22:15:43+00:00"
+  }
+}

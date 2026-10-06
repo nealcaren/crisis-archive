@@ -1,0 +1,208 @@
+{
+ "page": 30,
+ "image": "images/page_30.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 5.1,
+  "at": "2026-10-06T21:59:58+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "figure",
+   "bbox": {
+    "x0": 175,
+    "y0": 142,
+    "x1": 551,
+    "y1": 834
+   },
+   "text": "A",
+   "status": "ok",
+   "confidence": 0.9672194123268127,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 175,
+    "y0": 142,
+    "x1": 548,
+    "y1": 830
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 589,
+    "y0": 147,
+    "x1": 992,
+    "y1": 730
+   },
+   "text": "past three years in Atlanta, while men like W. A. Joiner, G. C. Wilkinson, R. N. Mattingly, W. A. DeCatur are responsible for the splendidly controlled system of athletics conducted in the Middle Atlantic States through the co-operation of the schools composing the Interscholastic Athletic Association. Among the leading collegiate athletes of the schools in this section are many whose ability places them in the ranks of the stars of the country. Terry, of Howard University, as halfback; Barco, formerly of Union University and Howard University, as a quarterback and shortstop; Branch, a tackle of Lincoln University, and Oliver, a crack basketball forward of Howard University, have but few peers. Our universities and colleges have been hampered through the general ignorance existing in regard to the value and place of physical education in institutions of learning, but conditions are now improving. When Howard University, Lincoln University, Hampton Institute, Shaw University and Southern colleges decide to adopt rules of eligibility",
+   "status": "ok",
+   "confidence": 0.9781342148780823,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 588,
+    "y0": 146,
+    "x1": 991,
+    "y1": 728
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 593,
+    "y0": 758,
+    "x1": 988,
+    "y1": 1453
+   },
+   "text": "",
+   "status": "ok",
+   "confidence": 0.9675132632255554,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 593,
+    "y0": 759,
+    "x1": 983,
+    "y1": 1449
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 167,
+    "y0": 914,
+    "x1": 564,
+    "y1": 1508
+   },
+   "text": "In Washington there are a few scholastic athletes soon bound to be heard of in collegiate circles. H. B. Desmond and Henry George, of Howard Academy; James Burwell, of Armstrong Technical High School, and Cyrus Miller, of M Street High School, have registered times and distances equivalent to the best marks done by secondary school athletes in these States. Baltimore and Washington have organized public schools athletic leagues of young colored Americans, which will result in an even better class of athletes in the future. Schools for colored youth are slowly realizing the necessity for physical training as a means of preserving healthy conditions among students and of creating school traditions which add to the power of these institutions for good. Baseball and football teams alone have occupied the athletic field in our colored colleges in the past, but now in many places other branches of athletics are taking root. Competition is getting keener and better athletes are resulting. \"Mat\" Bullock, now instructing at Atlanta Baptist College, is responsible for the collegiate track meets held for the",
+   "status": "ok",
+   "confidence": 0.9590073227882385,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 165,
+    "y0": 913,
+    "x1": 563,
+    "y1": 1506
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 166,
+    "y0": 94,
+    "x1": 205,
+    "y1": 116
+   },
+   "text": "118",
+   "status": "ok",
+   "confidence": 0.8588120341300964,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 93,
+    "x1": 204,
+    "y1": 115
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r5",
+   "label": "title",
+   "bbox": {
+    "x0": 293,
+    "y0": 856,
+    "x1": 436,
+    "y1": 891
+   },
+   "text": "JOHN PINKETT\nOf Amherst",
+   "status": "ok",
+   "confidence": 0.8952628970146179,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 292,
+    "y0": 852,
+    "x1": 434,
+    "y1": 891
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "abandon",
+   "bbox": {
+    "x0": 489,
+    "y0": 95,
+    "x1": 651,
+    "y1": 118
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8762913346290588,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 487,
+    "y0": 93,
+    "x1": 650,
+    "y1": 118
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r7",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 718,
+    "y0": 1470,
+    "x1": 860,
+    "y1": 1506
+   },
+   "text": "EDWARD GRAY\nOf Howard",
+   "status": "ok",
+   "confidence": 0.8582839369773865,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 716,
+    "y0": 1466,
+    "x1": 857,
+    "y1": 1506
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

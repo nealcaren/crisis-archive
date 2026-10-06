@@ -1,0 +1,882 @@
+{
+ "page": 31,
+ "image": "images/page_31.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.9,
+  "at": "2026-10-06T22:00:05+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 291,
+    "y0": 95,
+    "x1": 913,
+    "y1": 245
+   },
+   "text": "holders of the world in all classes of athletic performance. Let our leaders encourage development in this field and no race will show to better advantage in fair and clean competition.",
+   "status": "ok",
+   "confidence": 0.9574922919273376,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 289,
+    "y0": 94,
+    "x1": 911,
+    "y1": 242
+   },
+   "exclude": [
+    [
+     875,
+     97,
+     879,
+     115,
+     "r14"
+    ],
+    [
+     888,
+     97,
+     892,
+     115,
+     "r14"
+    ],
+    [
+     897,
+     96,
+     909,
+     114,
+     "r14"
+    ],
+    [
+     315,
+     150,
+     318,
+     153,
+     "r1"
+    ],
+    [
+     328,
+     150,
+     337,
+     165,
+     "r1"
+    ],
+    [
+     435,
+     150,
+     457,
+     165,
+     "r1"
+    ],
+    [
+     320,
+     153,
+     326,
+     165,
+     "r1"
+    ],
+    [
+     298,
+     155,
+     318,
+     165,
+     "r1"
+    ],
+    [
+     355,
+     155,
+     371,
+     165,
+     "r1"
+    ],
+    [
+     372,
+     155,
+     383,
+     165,
+     "r1"
+    ],
+    [
+     384,
+     155,
+     391,
+     165,
+     "r1"
+    ],
+    [
+     393,
+     155,
+     401,
+     165,
+     "r1"
+    ],
+    [
+     418,
+     154,
+     434,
+     165,
+     "r1"
+    ],
+    [
+     459,
+     154,
+     467,
+     164,
+     "r1"
+    ],
+    [
+     469,
+     154,
+     476,
+     164,
+     "r1"
+    ],
+    [
+     478,
+     154,
+     487,
+     163,
+     "r1"
+    ],
+    [
+     308,
+     169,
+     317,
+     184,
+     "r1"
+    ],
+    [
+     319,
+     169,
+     323,
+     183,
+     "r1"
+    ],
+    [
+     344,
+     169,
+     347,
+     171,
+     "r1"
+    ],
+    [
+     478,
+     169,
+     488,
+     183,
+     "r1"
+    ],
+    [
+     300,
+     172,
+     305,
+     184,
+     "r1"
+    ],
+    [
+     336,
+     172,
+     341,
+     184,
+     "r1"
+    ],
+    [
+     378,
+     173,
+     388,
+     183,
+     "r1"
+    ],
+    [
+     390,
+     173,
+     397,
+     183,
+     "r1"
+    ],
+    [
+     398,
+     173,
+     406,
+     183,
+     "r1"
+    ],
+    [
+     418,
+     173,
+     446,
+     183,
+     "r1"
+    ],
+    [
+     448,
+     173,
+     457,
+     183,
+     "r1"
+    ],
+    [
+     459,
+     173,
+     467,
+     183,
+     "r1"
+    ],
+    [
+     468,
+     173,
+     476,
+     183,
+     "r1"
+    ],
+    [
+     289,
+     174,
+     298,
+     184,
+     "r1"
+    ],
+    [
+     326,
+     174,
+     334,
+     184,
+     "r1"
+    ],
+    [
+     344,
+     174,
+     347,
+     183,
+     "r1"
+    ],
+    [
+     349,
+     174,
+     357,
+     184,
+     "r1"
+    ],
+    [
+     359,
+     174,
+     367,
+     183,
+     "r1"
+    ],
+    [
+     335,
+     187,
+     337,
+     190,
+     "r1"
+    ],
+    [
+     415,
+     187,
+     422,
+     202,
+     "r1"
+    ],
+    [
+     449,
+     187,
+     458,
+     201,
+     "r1"
+    ],
+    [
+     483,
+     187,
+     487,
+     201,
+     "r1"
+    ],
+    [
+     361,
+     188,
+     365,
+     202,
+     "r1"
+    ],
+    [
+     295,
+     193,
+     303,
+     203,
+     "r1"
+    ],
+    [
+     305,
+     193,
+     314,
+     203,
+     "r1"
+    ],
+    [
+     317,
+     193,
+     324,
+     202,
+     "r1"
+    ],
+    [
+     326,
+     193,
+     332,
+     202,
+     "r1"
+    ],
+    [
+     334,
+     193,
+     338,
+     202,
+     "r1"
+    ],
+    [
+     340,
+     193,
+     348,
+     203,
+     "r1"
+    ],
+    [
+     350,
+     193,
+     359,
+     202,
+     "r1"
+    ],
+    [
+     368,
+     193,
+     377,
+     202,
+     "r1"
+    ],
+    [
+     379,
+     192,
+     395,
+     202,
+     "r1"
+    ],
+    [
+     403,
+     192,
+     413,
+     202,
+     "r1"
+    ],
+    [
+     429,
+     193,
+     437,
+     203,
+     "r1"
+    ],
+    [
+     438,
+     192,
+     446,
+     202,
+     "r1"
+    ],
+    [
+     460,
+     192,
+     482,
+     202,
+     "r1"
+    ],
+    [
+     313,
+     207,
+     316,
+     221,
+     "r1"
+    ],
+    [
+     319,
+     207,
+     323,
+     221,
+     "r1"
+    ],
+    [
+     392,
+     206,
+     401,
+     221,
+     "r1"
+    ],
+    [
+     404,
+     206,
+     407,
+     221,
+     "r1"
+    ],
+    [
+     472,
+     206,
+     474,
+     208,
+     "r1"
+    ],
+    [
+     477,
+     206,
+     481,
+     221,
+     "r1"
+    ],
+    [
+     483,
+     206,
+     487,
+     220,
+     "r1"
+    ],
+    [
+     384,
+     209,
+     390,
+     221,
+     "r1"
+    ],
+    [
+     420,
+     209,
+     426,
+     221,
+     "r1"
+    ],
+    [
+     291,
+     211,
+     299,
+     221,
+     "r1"
+    ],
+    [
+     301,
+     211,
+     311,
+     221,
+     "r1"
+    ],
+    [
+     325,
+     211,
+     333,
+     221,
+     "r1"
+    ],
+    [
+     335,
+     211,
+     346,
+     224,
+     "r1"
+    ],
+    [
+     347,
+     211,
+     355,
+     221,
+     "r1"
+    ],
+    [
+     373,
+     211,
+     382,
+     221,
+     "r1"
+    ],
+    [
+     410,
+     211,
+     418,
+     221,
+     "r1"
+    ],
+    [
+     427,
+     211,
+     436,
+     221,
+     "r1"
+    ],
+    [
+     454,
+     211,
+     469,
+     221,
+     "r1"
+    ],
+    [
+     471,
+     211,
+     475,
+     221,
+     "r1"
+    ],
+    [
+     307,
+     225,
+     309,
+     228,
+     "r1"
+    ],
+    [
+     358,
+     225,
+     361,
+     228,
+     "r1"
+    ],
+    [
+     371,
+     225,
+     381,
+     239,
+     "r1"
+    ],
+    [
+     398,
+     225,
+     408,
+     239,
+     "r1"
+    ],
+    [
+     478,
+     225,
+     487,
+     240,
+     "r1"
+    ],
+    [
+     312,
+     226,
+     321,
+     240,
+     "r1"
+    ],
+    [
+     289,
+     228,
+     295,
+     241,
+     "r1"
+    ],
+    [
+     364,
+     228,
+     369,
+     240,
+     "r1"
+    ],
+    [
+     391,
+     228,
+     397,
+     240,
+     "r1"
+    ],
+    [
+     437,
+     229,
+     445,
+     239,
+     "r1"
+    ],
+    [
+     457,
+     229,
+     467,
+     240,
+     "r1"
+    ],
+    [
+     297,
+     230,
+     304,
+     240,
+     "r1"
+    ],
+    [
+     306,
+     231,
+     310,
+     240,
+     "r1"
+    ],
+    [
+     323,
+     230,
+     331,
+     240,
+     "r1"
+    ],
+    [
+     341,
+     231,
+     356,
+     240,
+     "r1"
+    ],
+    [
+     358,
+     230,
+     361,
+     239,
+     "r1"
+    ],
+    [
+     410,
+     230,
+     419,
+     240,
+     "r1"
+    ],
+    [
+     429,
+     230,
+     436,
+     239,
+     "r1"
+    ],
+    [
+     448,
+     230,
+     455,
+     240,
+     "r1"
+    ],
+    [
+     470,
+     230,
+     476,
+     239,
+     "r1"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "with more modern athletics are assured curriculum of school college athlete will tride with the record holders of the world in all classes of athletic performance. Let our leaders encourage development in this field and no race will show to better advantage in fair and clean competition.",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 95,
+    "y0": 146,
+    "x1": 490,
+    "y1": 243
+   },
+   "text": "of players in line with more modern schools, and when athletics are assured a fitting place in the curriculum of school work, the Negro college athlete will measure stride for stride with the record",
+   "status": "ok",
+   "confidence": 0.9580305218696594,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 145,
+    "x1": 489,
+    "y1": 242
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "figure",
+   "bbox": {
+    "x0": 116,
+    "y0": 269,
+    "x1": 888,
+    "y1": 870
+   },
+   "text": "ISAA\nCHAMPIONSHIP\nGAMES\nSECOND PLACE\nMOTORSCHOLASTIC\n1908",
+   "status": "ok",
+   "confidence": 0.9751655459403992,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 119,
+    "y0": 275,
+    "x1": 882,
+    "y1": 861
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'SECOND PLACE' inside box but no gap to cut at"
+  },
+  {
+   "id": "r6",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 201,
+    "y0": 879,
+    "x1": 812,
+    "y1": 916
+   },
+   "text": "THE M STREET HIGH SCHOOL TEAM, WASHINGTON, D. C.\nMany of these boys are now distinguishing themselves in college athletics",
+   "status": "ok",
+   "confidence": 0.4497337341308594,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 196,
+    "y0": 875,
+    "x1": 812,
+    "y1": 915
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "title",
+   "bbox": {
+    "x0": 176,
+    "y0": 1043,
+    "x1": 827,
+    "y1": 1101
+   },
+   "text": "The Little Kingdom of Salt",
+   "status": "ok",
+   "confidence": 0.9324309825897217,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 178,
+    "y0": 1037,
+    "x1": 832,
+    "y1": 1099
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 90,
+    "y0": 1137,
+    "x1": 492,
+    "y1": 1481
+   },
+   "text": "IN THE heart of the desert of Sahara there is a tiny oasis, about six miles long and two broad. Here lives and prospers a curious community of black men whose little kingdom has hardly ever been visited by the whites. They number only about 600, and are hundreds of miles from any other civilization, but they are quite content, for they possess what is to them inexhaustible wealth in their salt wells. Just as vessels stop at little coaling stations, so great caravans of camels stop at the oasis of Agram and take up the salt in return for provisions and other necessities. Sometimes as many as 14,000 camels a year halt there on their way across the desert.",
+   "status": "ok",
+   "confidence": 0.9779691696166992,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 90,
+    "y0": 1135,
+    "x1": 488,
+    "y1": 1481
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 514,
+    "y0": 1137,
+    "x1": 914,
+    "y1": 1503
+   },
+   "text": "the Twenty-first Regiment of the French Colonial Infantry, has contributed to the Monde Illustré of Paris a most interesting account of this odd little spot. He says when the massive outlines of an immense caravan are discerned in the distance the natives of the village are ecstatic with joy. Life and abundance are approaching. During the two or three days that the caravan tarries they are assiduously courted and feted. The business of barter is carried on at the salt wells and in the village all is bustle and animation, by night and by day, while the salt is being made up into packages and loaded. An extraordinary uproar fills the air, compounded of the sounds of singing, dancing and quarreling, the loud beat of the tom-tom,",
+   "status": "ok",
+   "confidence": 0.9757093191146851,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 512,
+    "y0": 1135,
+    "x1": 912,
+    "y1": 1500
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 110,
+    "y0": 1481,
+    "x1": 490,
+    "y1": 1519
+   },
+   "text": "Commandant Mowret, commander of",
+   "status": "ok",
+   "confidence": 0.8582883477210999,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 90,
+    "y0": 1480,
+    "x1": 489,
+    "y1": 1595
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "abandon",
+   "bbox": {
+    "x0": 873,
+    "y0": 94,
+    "x1": 911,
+    "y1": 117
+   },
+   "text": "1119",
+   "status": "ok",
+   "confidence": 0.8224101066589355,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 871,
+    "y0": 93,
+    "x1": 910,
+    "y1": 115
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 14,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [
+   "r5"
+  ],
+  "unowned_ink_pct": 0.08,
+  "box_overlaps_after": 2,
+  "log": [
+   "drop r2 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r3 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r4 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r12 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r13 (text): non-latin hallucination 'حرَّجَة'",
+   "reshape r0 (abandon): lost 34% of its ink, gained 0%",
+   "reread r0: 'with more modern athletics are assured c' -> 'holders of the world in all classes of a'",
+   "REVIEW r5: heading 'SECOND PLACE' inside box but no gap to cut at"
+  ]
+ }
+}

@@ -1,0 +1,225 @@
+{
+  "page": 32,
+  "image": "images/page_32.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 591,
+        "y0": 132,
+        "x1": 993,
+        "y1": 174
+      },
+      "text": "Here is another story which points out the evils of exaggeration:",
+      "status": "ok",
+      "confidence": 0.9451925754547119,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 167,
+        "y0": 135,
+        "x1": 564,
+        "y1": 274
+      },
+      "text": "He sees with the coming of the railway and the spread of the French power the return of the old glory of the French Soudan, a glory of which most of us were ignorant until within recent years scholarly men like M. Dubois and others found in Arab libraries and within the",
+      "status": "ok",
+      "confidence": 0.9787939786911011,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 590,
+        "y0": 175,
+        "x1": 992,
+        "y1": 347
+      },
+      "text": "\"Opposite the mosque is a great palm tree. A nut falls. A rat hears it. He is afraid. He rushes into the bush. He sees a hare. He says, 'The palm tree by the mosque has fallen.' The hare goes and says to the dog, 'The mosque of Jenne has fallen.' The dog goes. He sees a cow in the bushes. She says, 'Jenne has fallen.'\"",
+      "status": "ok",
+      "confidence": 0.9787337779998779,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure",
+      "bbox": {
+        "x0": 172,
+        "y0": 297,
+        "x1": 560,
+        "y1": 484
+      },
+      "text": "MONTENEGRO TRADE MUSEUM",
+      "status": "ok",
+      "confidence": 0.9719638824462891,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 589,
+        "y0": 347,
+        "x1": 990,
+        "y1": 519
+      },
+      "text": "And yet another which indicates the evils of boasting:\n\"Little Baba goes into the field with a servant. He says, 'The rice holds up its head and is good.' The servant says, 'No, the rice which lowers its head is good. There is something in it. The rice which holds up its head is not good. There is nothing in it.'\"",
+      "status": "ok",
+      "confidence": 0.9755497574806213,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 165,
+        "y0": 503,
+        "x1": 561,
+        "y1": 541
+      },
+      "text": "THE POST AND TELEGRAPH OFFICE AT\nTIMBUKTU",
+      "status": "ok",
+      "confidence": 0.9013537168502808,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 589,
+        "y0": 520,
+        "x1": 988,
+        "y1": 749
+      },
+      "text": "M. Dubois was particularly delighted with the eagerness and intelligence the children showed in telling these stories. The little black hands waved at him madly from the benches, and he says he thought sadly of the children in the rural schools at home, who possessed no \"poise\" at all before the unaccustomed visitor and promptly forgot all they knew. \"How pleasant a vitality, suggestive of a youthful race, reigned here,\" he reflects.",
+      "status": "ok",
+      "confidence": 0.979383647441864,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 166,
+        "y0": 556,
+        "x1": 563,
+        "y1": 787
+      },
+      "text": "walls of Timbuktu itself the story of the greatness of that dead Soudanese empire.\nOne of the most interesting parts of his narrative is that in which he gives a description of a school he found in the desert. Here the little dark-faced scholars are taught the stories familiar to children of European civilization, but they are changed to give them an African setting. No patriotic American can fail to recognize the origin of this tale:",
+      "status": "ok",
+      "confidence": 0.9781706929206848,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 589,
+        "y0": 749,
+        "x1": 987,
+        "y1": 942
+      },
+      "text": "Above all, the visitor was charmed with the way in which the stories were told. There was nothing monotonous; there was not one word used which seemed to have been learned in parrot fashion. When a story teller hesitated his companions fell over each other in their desire to give the missing word. They almost quarreled to initiate the stranger into the mysteries of the",
+      "status": "ok",
+      "confidence": 0.9773434400558472,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 167,
+        "y0": 788,
+        "x1": 563,
+        "y1": 977
+      },
+      "text": "\"During the feast of Ramadan, the father of Saliou gave him a pretty little knife. Little Saliou was very glad. He went out. He cut everything. He cut the grass. He saw a little lemon tree. Little Saliou cut it with his knife. The father of Saliou saw the dead lemon tree. He said, 'If I knew who cut the little lemon tree I would give him fifty blows with the whip.'",
+      "status": "ok",
+      "confidence": 0.9761430025100708,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "figure",
+      "bbox": {
+        "x0": 609,
+        "y0": 961,
+        "x1": 973,
+        "y1": 1472
+      },
+      "text": "ATLANTIC\nOCEAN\nMiles\n150 200 170\nFRANCE\nSPAIN\nMEDITERRANEAN\nMORROCCO ALGERIA\nOmanapie\nEl Golfo\nTunisie\nAdrar\nIn Salah\nSAHAIRA\nTunisie\nTunisie\nS Lour\nLokal SEREGAL\nSOUAN FRANCAIS\nUrtua\nBarnako MOSSI\nNIGERIA\n(be)\nKamak\nIVORY COAST\nGULF OF GUINEA",
+      "status": "ok",
+      "confidence": 0.9643755555152893,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 167,
+        "y0": 977,
+        "x1": 566,
+        "y1": 1498
+      },
+      "text": "\"Little Saliou was afraid. He reflected. He said, 'Father, I cut the little lemon tree. If you strike, strike; if you forgive, forgive.'\"\nYes, it is the story of George Washington transferred to the Soudan, on the edge of the Sahara, hundreds of miles from a white settlement. The moral is as poignant as ever, though the setting be a Mohammedan festival, and though the language of little Saliou may possess a tropical exuberance lacking in our own sedate Washington.\nThere is the story of the sour grapes, too, but as there are no grapes in the Soudan, the fruit is made a pawpaw and the fox, also non-existent in the desert, is a little boy:\n\"Little Assai sees a large, ripe, yellow pawpaw. The pawpaw tree is high. He climbs a little. He is tired. He comes down. He looks for a stone. He does not see any. He looks for a stick. He does not see any. He raises his head and sees the pawpaw. He says, 'Pawpaws are not good. I do not eat pawpaws. Only pigs eat pawpaws.'\"",
+      "status": "ok",
+      "confidence": 0.9773658514022827,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 166,
+        "y0": 83,
+        "x1": 205,
+        "y1": 104
+      },
+      "text": "164",
+      "status": "ok",
+      "confidence": 0.848555862903595,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 491,
+        "y0": 81,
+        "x1": 654,
+        "y1": 107
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.883297860622406,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 648,
+        "y0": 1478,
+        "x1": 930,
+        "y1": 1497
+      },
+      "text": "WHERE THE RAILROAD RUNS",
+      "status": "ok",
+      "confidence": 0.8165292143821716,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.8,
+    "at": "2026-10-06T22:14:06+00:00"
+  }
+}

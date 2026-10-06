@@ -1,0 +1,470 @@
+{
+ "page": 13,
+ "image": "images/page_13.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.9,
+  "at": "2026-10-06T21:26:13+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 438,
+    "y0": 95,
+    "x1": 552,
+    "y1": 118
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.33661168813705444,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 436,
+    "y0": 93,
+    "x1": 549,
+    "y1": 118
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 83,
+    "y0": 144,
+    "x1": 481,
+    "y1": 395
+   },
+   "text": "welfare of their children. It is from such children that our criminals are made, not from those who attend our schools in any degree of regularity. Everyone here knows that I am only stating the truth when I say this. We have hundreds of Negro parents in this city who are pathetically anxious that their children shall be honest, upright, law abiding and industrious. These parents are not ex-slaves, either, but they are Negroes born since the days of slavery.",
+   "status": "ok",
+   "confidence": 0.9760534167289734,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 82,
+    "y0": 143,
+    "x1": 480,
+    "y1": 391
+   },
+   "exclude": [
+    [
+     110,
+     393,
+     128,
+     409,
+     "r2"
+    ],
+    [
+     130,
+     394,
+     140,
+     409,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 83,
+    "y0": 391,
+    "x1": 480,
+    "y1": 887
+   },
+   "text": "\"The man who delivers all the express packages in Wilson and collects and accounts for all not prepaid is a Negro man. He has held his present position for twelve years. He could not hold it a day, if he did not have a common school education. I could fill several columns of this paper with examples of Negroes I know who are doing well their part of the world's work, who were born since the days of slavery, who are law-abiding, who are educating their children to be useful citizens, and who are contented and happy. These men give the lie to the loose talk of such men as Please and his Alexander county friend. But as long as we have such men who will insist upon turning a whole race of people who are the friends of the white race, into mental slavery, it is somebody's public duty to place such facts as I have given above before the world.\"\n\nSECRETARY DICKINSON ON LYNCH LAW.",
+   "status": "ok",
+   "confidence": 0.9795770645141602,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 82,
+    "y0": 391,
+    "x1": 478,
+    "y1": 886
+   },
+   "exclude": [
+    [
+     132,
+     379,
+     151,
+     393,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'SECRETARY DICKINSON ON LYNCH LAW.' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 80,
+    "y0": 891,
+    "x1": 479,
+    "y1": 1405
+   },
+   "text": "Secretary Dickinson of the War Department, in a speech at Atlanta before the Southern Commercial Congress, expressed the opinion that the commercial development of the South can follow only on the suppression of mob violence. He said that because of frequent lawless outbreaks an unjustifiable prejudice against the Southern States exists, not only in the North, but in foreign countries. Such outbreaks, he said, are the result of abnormal conditions produced by the Civil War. Broadly viewed, however, he added, the South would be found to be a land of law and order, and he emphatically urged the immediate necessity of establishing a reverence for and an impartial enforcement of the law as a primary step to the future greatness of the South. As an ultimate solution of the race problem in the South, Mr. Dickinson suggested the possibility of the voluntary removal of the mass of young Negroes to a country of their own, fostered and guarded by the United States.",
+   "status": "ok",
+   "confidence": 0.9790204167366028,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 78,
+    "y0": 891,
+    "x1": 477,
+    "y1": 1387
+   },
+   "exclude": [
+    [
+     469,
+     1398,
+     474,
+     1400,
+     "r4"
+    ],
+    [
+     101,
+     1389,
+     105,
+     1395,
+     "r4"
+    ],
+    [
+     106,
+     1389,
+     133,
+     1404,
+     "r4"
+    ],
+    [
+     134,
+     1389,
+     144,
+     1403,
+     "r4"
+    ],
+    [
+     290,
+     1388,
+     293,
+     1391,
+     "r4"
+    ],
+    [
+     354,
+     1389,
+     358,
+     1403,
+     "r4"
+    ],
+    [
+     368,
+     1389,
+     378,
+     1404,
+     "r4"
+    ],
+    [
+     413,
+     1389,
+     423,
+     1404,
+     "r4"
+    ],
+    [
+     446,
+     1389,
+     455,
+     1404,
+     "r4"
+    ],
+    [
+     361,
+     1391,
+     366,
+     1403,
+     "r4"
+    ],
+    [
+     178,
+     1392,
+     184,
+     1404,
+     "r4"
+    ],
+    [
+     146,
+     1394,
+     154,
+     1403,
+     "r4"
+    ],
+    [
+     156,
+     1394,
+     166,
+     1404,
+     "r4"
+    ],
+    [
+     198,
+     1394,
+     206,
+     1403,
+     "r4"
+    ],
+    [
+     208,
+     1394,
+     218,
+     1407,
+     "r4"
+    ],
+    [
+     230,
+     1394,
+     240,
+     1406,
+     "r4"
+    ],
+    [
+     242,
+     1394,
+     249,
+     1403,
+     "r4"
+    ],
+    [
+     251,
+     1394,
+     261,
+     1403,
+     "r4"
+    ],
+    [
+     262,
+     1394,
+     277,
+     1403,
+     "r4"
+    ],
+    [
+     289,
+     1394,
+     293,
+     1403,
+     "r4"
+    ],
+    [
+     296,
+     1394,
+     305,
+     1403,
+     "r4"
+    ],
+    [
+     317,
+     1394,
+     332,
+     1404,
+     "r4"
+    ],
+    [
+     334,
+     1394,
+     342,
+     1403,
+     "r4"
+    ],
+    [
+     344,
+     1394,
+     352,
+     1403,
+     "r4"
+    ],
+    [
+     390,
+     1394,
+     399,
+     1403,
+     "r4"
+    ],
+    [
+     401,
+     1394,
+     411,
+     1403,
+     "r4"
+    ],
+    [
+     435,
+     1394,
+     443,
+     1404,
+     "r4"
+    ],
+    [
+     457,
+     1394,
+     466,
+     1403,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 79,
+    "y0": 1386,
+    "x1": 476,
+    "y1": 1504
+   },
+   "text": "\"When they grow in wealth and education,\" said Mr. Dickinson, \"and still find themselves confined in their aspirations by insurmountable barriers which bar their social and political progress and deny them the opportunities of citi-",
+   "status": "ok",
+   "confidence": 0.7308005690574646,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 78,
+    "y0": 1388,
+    "x1": 476,
+    "y1": 1501
+   },
+   "exclude": [
+    [
+     182,
+     1374,
+     204,
+     1403,
+     "r3"
+    ],
+    [
+     278,
+     1375,
+     289,
+     1388,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "abandon",
+   "bbox": {
+    "x0": 504,
+    "y0": 93,
+    "x1": 901,
+    "y1": 470
+   },
+   "text": "zenship open to all others, an ambition to free themselves from such conditions may, if sustained by a liberal governmental policy, lead to such a movement.\" Speaking of mob violence, he said: \"There never was a time in any Southern State in the last thirty years that a Negro could not be speedily and adequately punished for any offense, for the white people controlled absolutely the administration of the law. It does not help us to point out race prejudice and acts of violence to Negroes in the North. No respectable public sentiment justifies such violence there.\" CIVIC PRIDE.",
+   "status": "ok",
+   "confidence": 0.9761679172515869,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 503,
+    "y0": 93,
+    "x1": 899,
+    "y1": 469
+   },
+   "exclude": [
+    [
+     503,
+     97,
+     512,
+     115,
+     "r0"
+    ],
+    [
+     513,
+     97,
+     530,
+     115,
+     "r0"
+    ],
+    [
+     531,
+     97,
+     550,
+     115,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 504,
+    "y0": 473,
+    "x1": 900,
+    "y1": 986
+   },
+   "text": "A rather belated but still very gratifying discovery seems to have been made in several Southern cities. They have found a considerable number of colored folk possessed of race and civic pride and not only anxious but able to cooperate with white citizens for civic betterment. Under the heading, \"A New Light on the Southern White Man's Burden,\" the Atlanta Constitution tells with enthusiasm the story of a campaign to raise a $600,000 fund among Negroes and whites, for the Young Men's Christian Association.\n\n\"The most significant disclosure of an analysis of the campaign,\" says the Constitution, \"is the light it throws upon the capacity of the Negro to respond to influences assuring his good citizenship rather than his instincts toward criminality. From the total of $600,000, $100,000 was to be set aside for the improvement of the branch devoted to the Negroes, and a Chicago philanthropist, Mr. Ben Rosenwald, contributed $25,000 conditioned on the remaining $75,000 being subscribed.",
+   "status": "ok",
+   "confidence": 0.9768530130386353,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 503,
+    "y0": 473,
+    "x1": 898,
+    "y1": 984
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 501,
+    "y0": 986,
+    "x1": 898,
+    "y1": 1503
+   },
+   "text": "\"Of this $100,000, the Negroes were assigned to raise $40,000 in ten days. They did that, and more! At the expiration of the ten-day period they had raised $57,000, in addition to the equity in their present building.\n\n\"That did not satisfy them. They hammered, and fine toothcombed, and persisted until finis was written to the campaign, they had pledged the sum of $67,000, or—\n\n\"Twenty-seven thousand dollars in excess of the amount required of them! And they are still subscribing!\n\n\"The total number of Negroes subscribing is placed at 5,500. The details of their campaign are nothing short of marvelous. The ratio between the white and Negro subscribers, in proportion to population, is about three to one, with the predominance in favor of the Negroes. Their organization was perfect. Their contributions ranged from 25 cents to $1,000.\n\n\"The result stands for itself. Astute students of the Negro have emphasized his lack of race consciousness and cohe-",
+   "status": "ok",
+   "confidence": 0.9772502779960632,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 499,
+    "y0": 985,
+    "x1": 896,
+    "y1": 1502
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [
+   "r2"
+  ],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 3,
+  "log": [
+   "REVIEW r2: heading 'SECRETARY DICKINSON ON LYNCH LAW.' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

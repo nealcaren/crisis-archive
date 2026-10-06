@@ -1,0 +1,336 @@
+{
+ "page": 15,
+ "image": "images/page_15.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.4,
+  "at": "2026-10-06T21:26:55+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 452,
+    "y0": 92,
+    "x1": 566,
+    "y1": 115
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.7436712384223938,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 449,
+    "y0": 90,
+    "x1": 564,
+    "y1": 114
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 102,
+    "y0": 142,
+    "x1": 502,
+    "y1": 546
+   },
+   "text": "\"Personally I venture to believe that much of the antagonism we see now need not be permanent, but may be removed by the further development of the material and religious forces which in the past have worked for the sense of human brotherhood. We must not assume that the conditions of our own time, even if they are of long standing, need last forever. When we consider what triumphs religion and philosophy and a higher sense of moral duty have effected in the past in the way of raising and purifying public sentiment, we have no reason to despair either as regards the problems which the relations of the white man and the Negro present in North America or those which have been raised by the migration of some of the Far Eastern races into countries peopled by the whites.",
+   "status": "ok",
+   "confidence": 0.9669578671455383,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 102,
+    "y0": 139,
+    "x1": 498,
+    "y1": 543
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 106,
+    "y0": 547,
+    "x1": 506,
+    "y1": 817
+   },
+   "text": "\"That the solution of those problems may take many years is not a reason for apathy, much less despair, but rather a reason for setting to work at once to point out how much better it is for each and every nation, and how much more conducive to the peace and welfare of the world, that the narrowness and bitterness which lead men of races that deem themselves superior to despise and often to ill-treat men of other races should be expunged and the feeling of our common humanity strengthened.\"",
+   "status": "ok",
+   "confidence": 0.9764853715896606,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 106,
+    "y0": 545,
+    "x1": 504,
+    "y1": 1021
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 106,
+    "y0": 817,
+    "x1": 506,
+    "y1": 1025
+   },
+   "text": "SOCIALISM AGAIN.\nThe New York Call (Socialist) keeps hammering manfully against color prejudice. Of three or four admirable editorials this month we quote from one entitled \"Our Shame.\"\n\"The strike of the firemen on the Queen and Crescent Railroad has, according to all reports, been caused by the promotion of Negro firemen.",
+   "status": "ok",
+   "confidence": 0.9764853715896606,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 106,
+    "y0": 545,
+    "x1": 504,
+    "y1": 1021
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 1024,
+    "x1": 511,
+    "y1": 1503
+   },
+   "text": "\"It is strikes like this one that reveal the woeful backwardness of the American labor movement. Such a strike would have been impossible if the railway unions were anxious to include all the railway workers in their ranks, without distinction of branch of service or color, for then the railway managements would have found it useless to discriminate in favor of one race or one branch of service as against the others. It is just such strikes as this one that create a feeling of compassion for the colored man, who suffers under a double kind of slavery—wage slavery and color slavery. \"And so long as this will continue, so long as any union discriminates against Negro workers, it will be impossible to rouse against Negro strikebreakers the same feeling of abhorrence as against ordinary or white strikebreakers. For these strikebreakers the unions themselves are responsible, though not necessarily the individual union in the particular trade. All unions must be opened",
+   "status": "ok",
+   "confidence": 0.9512896537780762,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 110,
+    "y0": 1024,
+    "x1": 508,
+    "y1": 1502
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 523,
+    "y0": 90,
+    "x1": 923,
+    "y1": 222
+   },
+   "text": "wide to the Negroes on the same conditions as to the white workers if the Negroes are to cease furnishing strikebreakers to the employers.\"",
+   "status": "ok",
+   "confidence": 0.9707514643669128,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 522,
+    "y0": 89,
+    "x1": 923,
+    "y1": 671
+   },
+   "exclude": [
+    [
+     517,
+     94,
+     526,
+     112,
+     "r0"
+    ],
+    [
+     527,
+     94,
+     544,
+     112,
+     "r0"
+    ],
+    [
+     545,
+     94,
+     564,
+     113,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "split_from": "r4"
+  },
+  {
+   "id": "r4b",
+   "label": "abandon",
+   "bbox": {
+    "x0": 523,
+    "y0": 222,
+    "x1": 923,
+    "y1": 674
+   },
+   "text": "FOUR GROUNDS FOR COMPLAINT\nMr. James H. Dillard, formerly of Tulane University, Louisiana, speaking in New York on \"The Growing South,\" mentioned four grounds on which he thought the colored people might make \"just complaint.\"\n\"They have a right to complain of their treatment in the lower courts, which are the main courts for most of their people. It is a shame that less care is taken, less money paid, less thought given to insure justice in these lower courts than in the higher courts.\n\"Another just ground of complaint is the treatment which they too often receive from the employees of public service corporations, especially from the employees of common carriers, such as ticket sellers and car conductors. I mean the humiliating treatment in the way of gruff words and manner.",
+   "status": "ok",
+   "confidence": 0.9707514643669128,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 522,
+    "y0": 89,
+    "x1": 923,
+    "y1": 671
+   },
+   "exclude": [
+    [
+     561,
+     673,
+     572,
+     688,
+     "r5"
+    ],
+    [
+     582,
+     673,
+     584,
+     675,
+     "r5"
+    ],
+    [
+     588,
+     673,
+     591,
+     688,
+     "r5"
+    ],
+    [
+     594,
+     673,
+     598,
+     688,
+     "r5"
+    ],
+    [
+     656,
+     673,
+     666,
+     688,
+     "r5"
+    ],
+    [
+     779,
+     673,
+     785,
+     688,
+     "r5"
+    ],
+    [
+     910,
+     673,
+     912,
+     676,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "split_from": "r4"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 530,
+    "y0": 671,
+    "x1": 926,
+    "y1": 935
+   },
+   "text": "\"Still another cause of complaint is that in many parts in the South, especially in the rural districts, the colored people are not provided with public schools which are open long enough or have sufficiently competent teachers. The fourth complaint is that we are too apt to generalize the Negroes as a mass and judge the whole by the worst types. On the contrary, the colored people of the South should be encouraged to have self-respect and race respect.\"",
+   "status": "ok",
+   "confidence": 0.971213698387146,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 528,
+    "y0": 672,
+    "x1": 925,
+    "y1": 1020
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r5b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 530,
+    "y0": 935,
+    "x1": 926,
+    "y1": 1021
+   },
+   "text": "THE RACES CONGRESS.\nThe Pittsburg, Pa., Gazette-Times\nwrites of the Universal Races Congress\nwhich will be held this summer:",
+   "status": "ok",
+   "confidence": 0.971213698387146,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 528,
+    "y0": 672,
+    "x1": 925,
+    "y1": 1020
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 533,
+    "y0": 1024,
+    "x1": 932,
+    "y1": 1504
+   },
+   "text": "\"The first 'Universal Races Congress' in the history of the world is to meet in London next July. Natives of Europe, Asia, Africa and the Americas will gather to discuss, in the words of the official invitation, 'how prejudices may be removed and friendlier relations established between the Western nations and the other peoples of the earth.' The United States will be represented, among others, by Charles A. Eastman and W. E. DuBois, who will read papers on 'The American Indian' and 'The Negro in America.' Joseph H. Choate and Gen. Horace Porter are included in the list of vice-presidents of the congress.\n\n\"Gatherings such as this play no small part in promoting the cause of international peace. Indeed, their influence, though avowedly indirect, is often more potent than that of the innumerable peace congresses which devote their entire time to deploring the horrors of war without suggesting how misunderstandings and causes of irritation are",
+   "status": "ok",
+   "confidence": 0.9755294322967529,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 532,
+    "y0": 1023,
+    "x1": 929,
+    "y1": 1501
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 3,
+  "log": [
+   "split r2 at y=817 before 'SOCIALISM AGAIN.'",
+   "split r4 at y=222 before 'FOUR GROUNDS FOR COMPLAINT'",
+   "split r5 at y=935 before 'THE RACES CONGRESS.'"
+  ]
+ }
+}

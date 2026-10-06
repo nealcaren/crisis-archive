@@ -1,0 +1,526 @@
+{
+ "page": 12,
+ "image": "images/page_12.jpg",
+ "width": 1390,
+ "height": 2077,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.7,
+  "at": "2026-10-06T21:11:18+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 632,
+    "y0": 115,
+    "x1": 830,
+    "y1": 146
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.858108401298523,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 629,
+    "y0": 113,
+    "x1": 828,
+    "y1": 146
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 204,
+    "y0": 114,
+    "x1": 236,
+    "y1": 144
+   },
+   "text": "12",
+   "status": "ok",
+   "confidence": 0.8376176357269287,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 200,
+    "y0": 114,
+    "x1": 234,
+    "y1": 141
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 200,
+    "y0": 183,
+    "x1": 712,
+    "y1": 289
+   },
+   "text": "Will not some wise Episcopalian, or any wise citizen, see here an opportunity for going deeper even than Mr. Carnegie or Mr. Rockefeller has yet done?\"",
+   "status": "ok",
+   "confidence": 0.8931891918182373,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 198,
+    "y0": 182,
+    "x1": 710,
+    "y1": 285
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 203,
+    "y0": 321,
+    "x1": 714,
+    "y1": 708
+   },
+   "text": "NEGRO MUSIC. An ancient controversy that involves the Negro as a musician has been renewed in the New York Sun, the Boston Transcript and the Springfield Republican. When Dvorak wrote his \"American Symphony,\" did he or did he not in certain parts copy the music of the American Negro? This is the question. It is not denied-that he was influenced by Negro melodies, but how far? Mr. Philip Hale, of the Boston Transcript, wrote to the sons of Dvorak to ask them to settle the question. The sons replied:",
+   "status": "ok",
+   "confidence": 0.975750744342804,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 201,
+    "y0": 318,
+    "x1": 710,
+    "y1": 703
+   },
+   "exclude": [
+    [
+     246,
+     707,
+     253,
+     725,
+     "r4"
+    ],
+    [
+     287,
+     707,
+     305,
+     725,
+     "r4"
+    ],
+    [
+     353,
+     706,
+     356,
+     709,
+     "r4"
+    ],
+    [
+     400,
+     706,
+     417,
+     725,
+     "r4"
+    ],
+    [
+     500,
+     706,
+     503,
+     710,
+     "r4"
+    ],
+    [
+     569,
+     707,
+     581,
+     725,
+     "r4"
+    ],
+    [
+     585,
+     706,
+     588,
+     709,
+     "r4"
+    ],
+    [
+     602,
+     707,
+     614,
+     725,
+     "r4"
+    ],
+    [
+     644,
+     707,
+     669,
+     725,
+     "r4"
+    ],
+    [
+     699,
+     706,
+     712,
+     725,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 205,
+    "y0": 703,
+    "x1": 716,
+    "y1": 953
+   },
+   "text": "\"In America Negro airs, which abound in melodic particularities, interested our father. He studied them and arranged the scale according to which they are formed. But the passages of the symphony and of other works of this American period, which as some pretend have been taken from Negro airs, are absolutely our father's own mental property; they were only influenced by Negro melodies.",
+   "status": "ok",
+   "confidence": 0.972265899181366,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 204,
+    "y0": 704,
+    "x1": 711,
+    "y1": 949
+   },
+   "exclude": [
+    [
+     231,
+     688,
+     242,
+     705,
+     "r3"
+    ],
+    [
+     320,
+     952,
+     331,
+     971,
+     "r5"
+    ],
+    [
+     335,
+     952,
+     338,
+     955,
+     "r5"
+    ],
+    [
+     363,
+     952,
+     376,
+     971,
+     "r5"
+    ],
+    [
+     379,
+     952,
+     383,
+     971,
+     "r5"
+    ],
+    [
+     436,
+     952,
+     439,
+     955,
+     "r5"
+    ],
+    [
+     497,
+     952,
+     508,
+     971,
+     "r5"
+    ],
+    [
+     673,
+     952,
+     678,
+     956,
+     "r5"
+    ],
+    [
+     682,
+     952,
+     686,
+     970,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 208,
+    "y0": 949,
+    "x1": 722,
+    "y1": 1539
+   },
+   "text": "\"As in his Slav pieces he never used Slav songs, but being a Slav created what his heart dictated, all the works of this American period, the symphony included, respond to Slav origin and anyone who has the least feeling will proclaim this fact. Who will not recognize the homesickness in the largo of this symphony? The secondary phrase of the first movement, the first theme of the scherzo, the beginning of the finale and perhaps also the melody of the largo which give a certain impression of the groaning Negro song, are only influenced by this song and determined by change of land and the influence of a foreign climate.\"\n\nAnother investigation led to the conclusion, in the mind of the Boston critic, that the Negro airs influenced and \"only slightly\" but two or three passages.\n\n\"Yet,\" adds Mr. Hale, with sarcasm, \"some will undoubtedly continue to insist that the symphony 'From the New World' is based for the most part on Negro themes.\"",
+   "status": "ok",
+   "confidence": 0.9766279458999634,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 206,
+    "y0": 950,
+    "x1": 718,
+    "y1": 1537
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 212,
+    "y0": 1538,
+    "x1": 728,
+    "y1": 1940
+   },
+   "text": "Mr. W. J. Henderson, of the Sun, thinks that Mr. Hale has proved the case of his adversaries and that Dvorak was very much influenced by \"the idiom of our Negro music, which he thought was the only characteristic musical thing in the United States,\" and that he said as much plainly to New York critics. It is settled in Mr. Henderson's mind, but he thinks the other side so unreasonable that they will probably \"continue to insist that Dr. Dvorak never made any study of Negro themes, that he never asserted that upon them might be reared a distinctly American type of music, that he made no endeavor to do anything of the kind, that he never told any",
+   "status": "ok",
+   "confidence": 0.971082866191864,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 211,
+    "y0": 1538,
+    "x1": 722,
+    "y1": 1935
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 745,
+    "y0": 178,
+    "x1": 1262,
+    "y1": 262
+   },
+   "text": "New York critic that he did, and that all New York critics are habitual evaders of the truth.\"",
+   "status": "ok",
+   "confidence": 0.9765844941139221,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 742,
+    "y0": 178,
+    "x1": 1259,
+    "y1": 627
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r7"
+  },
+  {
+   "id": "r7b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 745,
+    "y0": 262,
+    "x1": 1262,
+    "y1": 634
+   },
+   "text": "COLORED PREACHERS. Some discussion has arisen over the standing of the Negro as a preacher. The Literary Digest quotes several opinions of this subject. The discussion began with an article in the Southwestern Christian Advocate (colored), written by the Rev. Robert E. Jones, who asserted that the race had produced no preacher of real eminence. In other walks there have been colored men of much distinction, but in the pulpit, he claimed, they have not shone, in spite of their religious temperament.",
+   "status": "ok",
+   "confidence": 0.9765844941139221,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 742,
+    "y0": 178,
+    "x1": 1259,
+    "y1": 627
+   },
+   "exclude": [
+    [
+     853,
+     631,
+     856,
+     634,
+     "r8"
+    ],
+    [
+     909,
+     631,
+     917,
+     650,
+     "r8"
+    ],
+    [
+     942,
+     631,
+     955,
+     649,
+     "r8"
+    ],
+    [
+     985,
+     631,
+     993,
+     649,
+     "r8"
+    ],
+    [
+     1052,
+     631,
+     1063,
+     649,
+     "r8"
+    ],
+    [
+     1112,
+     630,
+     1116,
+     648,
+     "r8"
+    ],
+    [
+     788,
+     632,
+     795,
+     650,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "split_from": "r7"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 744,
+    "y0": 627,
+    "x1": 1266,
+    "y1": 1023
+   },
+   "text": "\"In spite of the fact that there are approximately 10,000 Negroes who are ministers of the Gospel,\" he says, \"we have no man among us who has made outstanding and unquestioned success as a preacher. In making this statement we are not unmindful of the fact that here and there are preachers who have local reputations and who are somewhat known in the nation, but there is no towering, masterful, persuasive preacher of the Gospel. There is certainly no man among us who is to the nation what Talmage or Moody or Beecher was. Nor is there any man among us who is the undisputed Talmage or Moody or Beecher of the race.",
+   "status": "ok",
+   "confidence": 0.9777988791465759,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 746,
+    "y0": 630,
+    "x1": 1261,
+    "y1": 1020
+   },
+   "exclude": [
+    [
+     1093,
+     611,
+     1117,
+     629,
+     "r7"
+    ],
+    [
+     973,
+     613,
+     992,
+     630,
+     "r7"
+    ],
+    [
+     760,
+     614,
+     772,
+     631,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 750,
+    "y0": 1021,
+    "x1": 1272,
+    "y1": 1617
+   },
+   "text": "\"True enough, we have the spiritual temperament. Our preachers are particularly apt in giving the Gospel narrative and expounding the truth. There are men of piety, and, in some instances, there are men of scholarly attainments, but the preacher has not yet arrived. We are not attempting to assign a reason for this, we are simply stating a fact.\"\n\nMr. John Edward Bruce writes to the New York Sun, joining in the discussion and taking the opposite view. He gives a list of distinguished Negro preachers:\n\n\"The Rev. John C. Penington, born a slave, was a great preacher and highly esteemed by all who knew him. He was a member of the Hartford Central Association of Congregational Ministers, which consisted of about twenty of the leading ministers of that denomination in Connecticut. He was twice elected its president, in which capacity, as the record will show, he presided over assemblies composed entirely of whites.",
+   "status": "ok",
+   "confidence": 0.9769740700721741,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 750,
+    "y0": 1022,
+    "x1": 1267,
+    "y1": 1612
+   },
+   "exclude": [
+    [
+     796,
+     1616,
+     814,
+     1635,
+     "r10"
+    ],
+    [
+     897,
+     1616,
+     905,
+     1635,
+     "r10"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 756,
+    "y0": 1613,
+    "x1": 1276,
+    "y1": 1942
+   },
+   "text": "\"At one of these meetings two young men from Kentucky presented themselves for licenses to preach. The rules required that the president examine the candidates on experimental religion, church history and theology. This Dr. Penington did acceptably, and the white candidates were both licensed and their certificates signed by the black president. In 1841 he published a book, 'The History and Origin of the Colored Race.' Penington was born in Maryland in 1809. He was elected by the State of Connecticut in 1843 as a delegate to the",
+   "status": "ok",
+   "confidence": 0.9756209254264832,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 756,
+    "y0": 1615,
+    "x1": 1270,
+    "y1": 1937
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.11,
+  "box_overlaps_after": 6,
+  "log": [
+   "split r7 at y=262 before 'COLORED PREACHERS.'"
+  ]
+ }
+}

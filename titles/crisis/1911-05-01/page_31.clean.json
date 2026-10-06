@@ -1,0 +1,216 @@
+{
+ "page": 31,
+ "image": "images/page_31.jpg",
+ "width": 1369,
+ "height": 2078,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.5,
+  "at": "2026-10-06T21:42:30+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 475,
+    "y0": 133,
+    "x1": 801,
+    "y1": 164
+   },
+   "text": "THE N. A. A. C. P.",
+   "status": "ok",
+   "confidence": 0.8663020730018616,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 474,
+    "y0": 132,
+    "x1": 799,
+    "y1": 163
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 652,
+    "y0": 198,
+    "x1": 1161,
+    "y1": 473
+   },
+   "text": "difficult. Moreover, the same thing that happens so often in the North is accentuated is this case, i.e., the small householder pays a disproportionately large share of the taxes as compared with the large householder or capitalist. The burden of taxation in Southern cities is shifted upon the small Negro property owner to an extent which is astounding. All this discourages accumulation and particularly discourages investment.",
+   "status": "ok",
+   "confidence": 0.9771597981452942,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 652,
+    "y0": 196,
+    "x1": 1158,
+    "y1": 470
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 199,
+    "x1": 622,
+    "y1": 840
+   },
+   "text": "favorite slaves accumulated before the war. In other cases the client has died and his heirs have been deliberately cheated by the natron. This has often been defended: Here is an old and favorite colored man whose property is kept by a white man. So long as he lives the property is safe in the white man's hands. If he dies the white man decides that the children ought not have the property or do not deserve it, and takes it for his own purposes. In still other cases there is a deliberate attempt to cheat the client by false accounts or other devices. It is of course impossible to present figures to show the extent of this practice, but I have never been in a community in the South where the number of cases of deliberate cheating that could be pointed out was not simply appalling in frequency. I have great hopes in this respect of the Postal Savings Banks if the government will be careful not to put them all in the cities where they are not needed, but in the back country districts of the South.",
+   "status": "ok",
+   "confidence": 0.9791937470436096,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 113,
+    "y0": 198,
+    "x1": 617,
+    "y1": 835
+   },
+   "exclude": [
+    [
+     147,
+     839,
+     155,
+     843,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 653,
+    "y0": 482,
+    "x1": 1161,
+    "y1": 680
+   },
+   "text": "Moreover, the gross and glaring injustice to Negroes in the lower courts makes it difficult and often impossible to defend their property rights. The magistrates and judges are usually elected for short terms, often on an anti-Negro platform, and are bitter and openly unfair.",
+   "status": "ok",
+   "confidence": 0.9759182929992676,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 653,
+    "y0": 481,
+    "x1": 1158,
+    "y1": 681
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 653,
+    "y0": 691,
+    "x1": 1160,
+    "y1": 1187
+   },
+   "text": "Third, wage discrimination. It is the deliberate policy of the South to pay Negroes less wages for the same work than they would pay white people, just as is the case in the North where they pay women less wages for the same work than they pay men. The argument in the South is that the Negro has a lower standard of life, and therefore does not need as much money. The discrimination varies from 25 to 50 per cent. This makes it more difficult for Negroes to save money, because, as a matter of fact, while their standard of living is lower than that of the average white person, it is rapidly rising, and the demand upon their meagre income for better housing, better food and better clothing is such that the margin for saving is very small or entirely disappears.",
+   "status": "ok",
+   "confidence": 0.9807999134063721,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 654,
+    "y0": 691,
+    "x1": 1157,
+    "y1": 1182
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 112,
+    "y0": 836,
+    "x1": 623,
+    "y1": 1945
+   },
+   "text": "Second, the hostility of municipal policy. Much has been said about the discrimination against Negroes by the State, and that in the South is large, but the real oppression in every-day life comes in the municipalities. The courts, for instance, are undoubtedly prejudiced against black men, but nevertheless it is possible in the higher State courts often to get substantial justice if the man has the money to take the case up. The legislatures are vicious in their attacks on Negro rights, but their doings are open to the public inspection of the whole United States, and must be somewhat curbed by law and public opinion. On the other hand, the action of the petty town, county and city governments is largely unnoticed and is often prejudiced and unfair to a degree almost unbelievable to those who do not know the facts. If, for instance, you go to an ordinary Southern town you are shown the Negro districts; the streets are unpaved; sidewalks are in a dilapidated condition; the drainage is bad; the garbage is not cared for, and the houses are dilapidated. Now, without doubt, part of this condition can be charged to the colored dwellers, but much of it is due to the deliberate refusal of the city to spend any public money on city improvements in the Negro district or to properly police this district. The Negro district is consequently not only without decent accommodations so far as the city is concerned, but it is at the mercy of the vicious, both of its own race and among the white race. There is scarcely a city in the South where the tenderloin district has not been deliberately placed in the Negro quarter and kept there despite the protest of the better class of Negroes. All this hurts Negro property and makes the investment of Negroes in property",
+   "status": "ok",
+   "confidence": 0.9729122519493103,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 114,
+    "y0": 835,
+    "x1": 619,
+    "y1": 1950
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 651,
+    "y0": 1197,
+    "x1": 1181,
+    "y1": 1945
+   },
+   "text": "Fourth, mob violence. Of all the hindrances enumerated—lack of facilities for saving, hostility of municipal policy and wage discrimination—none are such detriments to saving in the South as the fear of mob violence. It is hard to realize in a law-abiding community how the fear of physical violence broods in the air in the South. No Negro can feel himself safe from it. He cannot invest in property without taking it into account. In some cases it is impossible to get his property insured for this very reason, and almost always when for any reason there is an outbreak of great violence in the South, it is the Negro property holder who actually pays the bill. The result is that continually men who might otherwise invest in property refrain from doing this, and other colored men who invest do so with the idea of removing to the North just as soon as they get large enough investments. The feeling of insecurity against the jealousy and viciousness of certain Southern elements is daily in their minds. It is this feeling, too, that drives the Negro into the cities; there his property gets greater police protection because it cannot be destroyed without in some degree injur-",
+   "status": "ok",
+   "confidence": 0.9762009382247925,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 650,
+    "y0": 1198,
+    "x1": 1171,
+    "y1": 1940
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1124,
+    "y0": 131,
+    "x1": 1154,
+    "y1": 160
+   },
+   "text": "31",
+   "status": "ok",
+   "confidence": 0.8358500003814697,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1123,
+    "y0": 131,
+    "x1": 1153,
+    "y1": 157
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

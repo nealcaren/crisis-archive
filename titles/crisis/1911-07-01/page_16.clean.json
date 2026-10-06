@@ -1,0 +1,315 @@
+{
+ "page": 16,
+ "image": "images/page_16.jpg",
+ "width": 1073,
+ "height": 1620,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.9,
+  "at": "2026-10-06T21:58:20+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 163,
+    "y0": 103,
+    "x1": 992,
+    "y1": 242
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.7030206322669983,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 373,
+    "y0": 138,
+    "x1": 780,
+    "y1": 206
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "OPINION",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 591,
+    "y0": 263,
+    "x1": 991,
+    "y1": 327
+   },
+   "text": "The Richmond (Va.) Times-Dispatch quotes the Tribune and then says frankly:",
+   "status": "ok",
+   "confidence": 0.9404515624046326,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 589,
+    "y0": 262,
+    "x1": 989,
+    "y1": 323
+   },
+   "exclude": [
+    [
+     675,
+     325,
+     684,
+     340,
+     "r3"
+    ],
+    [
+     894,
+     325,
+     904,
+     339,
+     "r3"
+    ],
+    [
+     966,
+     324,
+     976,
+     339,
+     "r3"
+    ],
+    [
+     623,
+     326,
+     638,
+     344,
+     "r3"
+    ],
+    [
+     662,
+     326,
+     666,
+     340,
+     "r3"
+    ],
+    [
+     670,
+     326,
+     672,
+     328,
+     "r3"
+    ],
+    [
+     697,
+     326,
+     706,
+     341,
+     "r3"
+    ],
+    [
+     716,
+     326,
+     726,
+     340,
+     "r3"
+    ],
+    [
+     755,
+     326,
+     764,
+     340,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 164,
+    "y0": 266,
+    "x1": 562,
+    "y1": 454
+   },
+   "text": "THE OKLAHOMA DECISION. It is generally conceded that Judge Cotteral's decision that the Oklahoma \"grandfather\" clause is unconstitutional will result in an appeal to the Supreme Court. Most newspapers avoid discussion of the decision. The Indianapolis Star, however, cheers Judge Cotteral heartily:",
+   "status": "ok",
+   "confidence": 0.9757524132728577,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 263,
+    "x1": 561,
+    "y1": 451
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 588,
+    "y0": 322,
+    "x1": 990,
+    "y1": 862
+   },
+   "text": "\"Qualified by the statement that we do not think that the colored man should have the right to vote, this being a white man's country, there is much force in what the Tribune says—if the suffrage is to be placed on an educational qualification, that qualification should be enforced without discrimination. If the suffrage is worth having, it is worth winning. Our present purpose, however, is not to discuss the subject on this broad line, but simply to suggest that this is not the time—we do not think the time will ever come—for amending the Constitution as to the method of electing United States Senators; particularly, is it not the time for Senators from the Southern States to open the way for a return of the day when we shall have to fight the Negro question all over again. There are about 4,000,000 [sic] Negroes in the United States, most of them in the South, and it would not be comfortable to have them taking part in the election of Senators, should the Federal courts hold to the doctrine of universal suffrage. It is worth thinking about.\"",
+   "status": "ok",
+   "confidence": 0.9790950417518616,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 587,
+    "y0": 323,
+    "x1": 987,
+    "y1": 862
+   },
+   "exclude": [
+    [
+     649,
+     312,
+     660,
+     325,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 164,
+    "y0": 454,
+    "x1": 562,
+    "y1": 1037
+   },
+   "text": "\"His argument is to the effect that the power to grant the right to vote was not given to the Federal Government, but the Fifteenth Amendment decreed that the right to vote should not be denied any person because of 'race, color or previous condition of servitude.' To make the subjection of certain individuals to the 'educational test' dependent on their condition before 1866 would make it dependent on their race and color, the Court held.\n\n\"It is refreshing to find one court with courage and clear understanding enough to decide directly on the merits of the question and not evade it by ruling on a technicality. An appeal will probably be taken, and the Supreme Court will hardly be able to evade decision when the question comes before it in this way. Should it sustain the Oklahoma court the ruling will affect all the other States where a similar disfranchising law is in force. The point in dispute does not touch on the wisdom or unwisdom of Negro suffrage, but of whether a State has the power to overrule the Federal Constitution. For the present, at least, Oklahoma will have to refrain from doing so.\"",
+   "status": "ok",
+   "confidence": 0.9792280197143555,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 454,
+    "x1": 560,
+    "y1": 1035
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "title",
+   "bbox": {
+    "x0": 588,
+    "y0": 919,
+    "x1": 986,
+    "y1": 1046
+   },
+   "text": "THE ALABAMA DECISION.\nThe Boston Herald refers to the admirable decision of the Supreme Court of Alabama, which has removed a sheriff who allowed his prisoner to be lynched, and says:",
+   "status": "ok",
+   "confidence": 0.9641973972320557,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 585,
+    "y0": 917,
+    "x1": 985,
+    "y1": 1043
+   },
+   "exclude": [
+    [
+     619,
+     1045,
+     632,
+     1060,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 185,
+    "y0": 1039,
+    "x1": 473,
+    "y1": 1061
+   },
+   "text": "The New York Tribune says:",
+   "status": "ok",
+   "confidence": 0.8271116614341736,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 184,
+    "y0": 1036,
+    "x1": 474,
+    "y1": 1058
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 587,
+    "y0": 1043,
+    "x1": 986,
+    "y1": 1470
+   },
+   "text": "\"The Montgomery Times speaks of the decision being received with satisfaction by lovers of law enforcement and haters of lawlessness. And it is fair to assume that it reflects the sober sentiment of the State, as the newly elected Governor, Emmett O'Neal, is responsible for pushing the case. Nothing will so help to make this a law-abiding country as a widespread conviction that law is intended for enforcement. Alabama is to be congratulated on officials who, appreciating the gravity of the issue, have had the courage to take the righteous stand. Laxity in the South has arisen in part from a failure to gauge the public opinion of the world. The people of that section no more lack 'a decent respect for the opinion of mankind' than do others. They have simply failed to take in the condemnation meted out to them by the civilized world.\"",
+   "status": "ok",
+   "confidence": 0.9798386096954346,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 586,
+    "y0": 1043,
+    "x1": 984,
+    "y1": 1468
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 164,
+    "y0": 1062,
+    "x1": 561,
+    "y1": 1470
+   },
+   "text": "\"It is time that restrictions on the suffrage which are apparently based solely on race and color should be passed on by the Federal courts. There is no good excuse for such restrictions, since any State wishing to deny the ballot to the ignorant, the vicious or the defective can employ legitimate means to improve the character of its electorate. It can impose an educational or property qualification, levy a poll tax or insist on a long term of residence. But it is imperative that the restrictions imposed should apply equally to all voters, whatever their race or color. There should be no discrimination in favor of the white illiterate or undesirable person and against the colored illiterate and undesirable. Each voter should stand on his own merit and owe nothing to the undemocratic distinction of family descent.\"",
+   "status": "ok",
+   "confidence": 0.9801140427589417,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 1063,
+    "x1": 559,
+    "y1": 1467
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.28,
+  "box_overlaps_after": 2,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 71%",
+   "reread r0: 'OPINION' -> 'OPINION'"
+  ]
+ }
+}

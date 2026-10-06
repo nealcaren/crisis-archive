@@ -1,0 +1,157 @@
+{
+ "page": 22,
+ "image": "images/page_22.jpg",
+ "width": 1369,
+ "height": 2078,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 3.9,
+  "at": "2026-10-06T21:41:03+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1000,
+    "y0": 126,
+    "x1": 1191,
+    "y1": 157
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8017317056655884,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 998,
+    "y0": 122,
+    "x1": 1191,
+    "y1": 157
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 137,
+    "y0": 133,
+    "x1": 174,
+    "y1": 162
+   },
+   "text": "22",
+   "status": "ok",
+   "confidence": 0.8495160937309265,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 136,
+    "y0": 131,
+    "x1": 173,
+    "y1": 160
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 229,
+    "y0": 0,
+    "x1": 1369,
+    "y1": 1778
+   },
+   "text": "[Image of six military officers in uniform, arranged in a row, facing the camera. The officers are wearing dark uniforms with gold buttons and insignia. The background is a blurred interior space, possibly a hall or a building with arched windows.]",
+   "status": "ok",
+   "confidence": 0.9574743509292603,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 234,
+    "y0": 357,
+    "x1": 1362,
+    "y1": 1773
+   },
+   "exclude": [
+    [
+     1144,
+     129,
+     1159,
+     152,
+     "r0"
+    ],
+    [
+     1161,
+     129,
+     1171,
+     151,
+     "r0"
+    ],
+    [
+     1172,
+     129,
+     1188,
+     151,
+     "r0"
+    ],
+    [
+     1003,
+     130,
+     1022,
+     154,
+     "r0"
+    ],
+    [
+     1023,
+     130,
+     1049,
+     154,
+     "r0"
+    ],
+    [
+     1049,
+     130,
+     1070,
+     154,
+     "r0"
+    ],
+    [
+     1087,
+     130,
+     1106,
+     153,
+     "r0"
+    ],
+    [
+     1108,
+     130,
+     1130,
+     153,
+     "r0"
+    ],
+    [
+     1132,
+     130,
+     1142,
+     152,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 3,
+  "regions_after": 3,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

@@ -1,0 +1,169 @@
+{
+  "page": 23,
+  "image": "images/page_23.jpg",
+  "width": 1067,
+  "height": 1611,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 318,
+        "y0": 91,
+        "x1": 705,
+        "y1": 115
+      },
+      "text": "THE NATIONAL ASSOCIATION",
+      "status": "ok",
+      "confidence": 0.7239454388618469,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 142,
+        "x1": 494,
+        "y1": 238
+      },
+      "text": "ish Honduras and Central America spoke on the subject; Miss Elizabeth Robins, the author; Mrs. Arthur Philip and Mr. Maurice Hewlett also made brief addresses.",
+      "status": "ok",
+      "confidence": 0.9531588554382324,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 521,
+        "y0": 143,
+        "x1": 916,
+        "y1": 355
+      },
+      "text": "\"Moreover, science to-day places no meets and bounds to the development of races given the favorable environment and there is no scientific proof that an individual of any race may not reach the highest. For this reason is it not the wisest and best course to refuse to tread the paths of exclusion and human despisery and to see that the gates of opportunity are absolutely closed in the faces of no race or people?\"",
+      "status": "ok",
+      "confidence": 0.9717730283737183,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 99,
+        "y0": 238,
+        "x1": 494,
+        "y1": 505
+      },
+      "text": "Dr. DuBois described conditions in America, the denial of civil rights, the insults and humiliation the colored man and woman must face:\n\"Why is this? It is not because the American white people are unusually devilish—they are on the whole about the same kind of people that you are and you under similar circumstances in India and Africa have shown similar tendencies. Consequently the Americans interpret the public opinion of Europe as justify them to make what I may call the three refusals:",
+      "status": "ok",
+      "confidence": 0.9697026014328003,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 355,
+        "x1": 916,
+        "y1": 679
+      },
+      "text": "On July 19 Dr. DuBois spoke before the Sociological Society, of which ex-Premier Balfour is president. Sir Sidney Olivier, Governor of Jamaica, presided. On July 24 he spoke before the Subject Races Society. Dr. DuBois has met and been entertained by many persons interested in social problems as well as by a number of persons distinguished in literature, Sir Harry Johnston, Sir Percy Bunting, editor of the Temporary Review; Mr. Kier Harding, the labor leader; Mr. Herbert Burrowes, the socialist; Mr. Arthur Ponsonby, the M.P.; Mr. Maurice Hewlett, Mr. and Mrs. Havelock Ellis, Miss Elizabeth Robins and many others.",
+      "status": "ok",
+      "confidence": 0.9602768421173096,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 99,
+        "y0": 507,
+        "x1": 494,
+        "y1": 981
+      },
+      "text": "1. The refusal to treat civilized black men as civilized.\n2. The refusal to allow particular black men to become civilized.\n3. The refusal to assume the possibility of civilizing most black men.\n\"These refusals involve great and threatening social cost.\n\"Among the whites they give rise to insulting manners toward the lowly; they prevent the contact of the cultured and the undeveloped; they lead to an absurd lack of logic, as, for instance, accusing of bad manners those against whom every effort is made to give them no chance to see good manners, and above all crying for purity of race after the whites have been responsible for two or three million mulattoes. Further than this the three refusals lead to injustice in the courts and a terrible paradox in religion, for while professing a religion of humility and equality the Christian Church in America has for the most part refused fellowship with black men.",
+      "status": "ok",
+      "confidence": 0.9673223495483398,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 679,
+        "x1": 915,
+        "y1": 870
+      },
+      "text": "The Ranee of Sarawak has been particularly interested in the problem of the color line in this country. On July 11 she gave a reception in honor of Dr. DuBois, inviting the Archbishop of Canterbury and various distinguished guests to meet him. Receptions to the delegates of the Races Congress have been given by the Countess of Warwick and one of the Indian princes.",
+      "status": "ok",
+      "confidence": 0.921973705291748,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 521,
+        "y0": 918,
+        "x1": 914,
+        "y1": 1126
+      },
+      "text": "INCORPORATION.\nThe National Association is now a duly incorporated body. The incorporation took place June 19, 1911. Lack of space prevents our giving the articles and by-laws in this issue, but next month we hope to present them to our readers. At the first meeting of the Board of Directors, June 20, the officers already serving the committee were nominated:",
+      "status": "ok",
+      "confidence": 0.9242522716522217,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 100,
+        "y0": 983,
+        "x1": 494,
+        "y1": 1517
+      },
+      "text": "\"Among Negroes these three refusals lead to a loss of self-respect or immoderate self-assertion; they hinder the natural differentiation into classes according to culture and efficiency, and they force thinking Negroes either into subservient hypocrisy or paralyzing bitterness.\n\"How far now is America's interpretations of Europe's attitude toward the darker world justified? It must be confessed with sorrow that modern European civilization has fallen victim to the temptation of all former civilizations—the temptation of despising men; of assuming that no other peoples are worth consideration and respect but those who share their own culture. The tendency is to assume an inevitable aristocracy of races, with whites at the top and blacks at the bottom. No sooner is this assumption boldly stated, however, than we remember that the same assumption was made less than a century ago concerning classes in the same nation, and that today European culture is largely sustained by descendants of social classes whom the eighteenth century pronounced incapable of uplift.",
+      "status": "ok",
+      "confidence": 0.9758567214012146,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 519,
+        "y0": 1127,
+        "x1": 915,
+        "y1": 1516
+      },
+      "text": "President, Mr. Moorfield Storey; vicepresident, Mr. John E. Milholland; vicepresident, Bishop Alexander Walters; chairman of board, Oswald G. Villard; secretary, Miss Mary Ovington; treasurer, Mr. Walter Sachs; director of publicity and research, Dr. W. E. B. DuBois. The following appointments of committees were announced by the chairman: Finance—Walter E. Sachs, chairman; Oswald G. Villard, Dr. W. E. B. DuBois, Miss Mary Ovington. Legal Redress—O. G. Villard, Thomas Ewing, Jr., chairman; William M. Wherry, Jr., C. Ames Brooks. Publications—Dr. W. E. B. DuBois, chairman; Mrs. M. D. Maclean, W. L. Bulkley. Membership—Miss L. O'Reilly, Mrs. M. D. Maclean, Rev. Clayton Powell. General Attorney—C. Ames Brooks.",
+      "status": "ok",
+      "confidence": 0.9253656268119812,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 875,
+        "y0": 91,
+        "x1": 913,
+        "y1": 113
+      },
+      "text": "155",
+      "status": "ok",
+      "confidence": 0.8169566988945007,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.4,
+    "at": "2026-10-06T22:12:55+00:00"
+  }
+}

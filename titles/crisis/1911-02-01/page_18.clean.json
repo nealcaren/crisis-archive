@@ -1,0 +1,120 @@
+{
+ "page": 18,
+ "image": "images/page_18.jpg",
+ "width": 1390,
+ "height": 2077,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 4.8,
+  "at": "2026-10-06T21:12:11+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1225,
+    "y0": 148,
+    "x1": 1390,
+    "y1": 188
+   },
+   "text": "THE CRIS",
+   "status": "ok",
+   "confidence": 0.8352067470550537,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1222,
+    "y0": 144,
+    "x1": 1387,
+    "y1": 179
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "THE CRISI",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 216,
+    "y0": 158,
+    "x1": 249,
+    "y1": 187
+   },
+   "text": "18",
+   "status": "ok",
+   "confidence": 0.8418809771537781,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 212,
+    "y0": 157,
+    "x1": 246,
+    "y1": 185
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 224,
+    "y0": 247,
+    "x1": 1390,
+    "y1": 1885
+   },
+   "text": "John Henry Adams-10",
+   "status": "ok",
+   "confidence": 0.8965407609939575,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 224,
+    "y0": 247,
+    "x1": 1381,
+    "y1": 1879
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 739,
+    "y0": 1898,
+    "x1": 1293,
+    "y1": 1986
+   },
+   "text": "\"The colored man that saves his money and buys a brick house will be universally respected by his white neighbors.\"",
+   "status": "ok",
+   "confidence": 0.47066396474838257,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 732,
+    "y0": 1895,
+    "x1": 1292,
+    "y1": 1987
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 4,
+  "regions_after": 4,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r0 (abandon): lost 0% of its ink, gained 12%",
+   "reread r0: 'THE CRISI' -> 'THE CRIS'"
+  ]
+ }
+}

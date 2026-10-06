@@ -1,0 +1,406 @@
+{
+ "page": 25,
+ "image": "images/page_25.jpg",
+ "width": 1090,
+ "height": 1669,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.0,
+  "at": "2026-10-06T21:18:53+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 360,
+    "y0": 100,
+    "x1": 683,
+    "y1": 125
+   },
+   "text": "AFRICAN CIVILIZATION",
+   "status": "ok",
+   "confidence": 0.8816933631896973,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 360,
+    "y0": 99,
+    "x1": 683,
+    "y1": 124
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 534,
+    "y0": 152,
+    "x1": 940,
+    "y1": 290
+   },
+   "text": "in Crete. The Cretans seem to have been a dark race, rather small, with regular, almost Greek profiles and full lips. Nothing has been found to indicate that civilization came to them or to Africa from Asia, whence it was once thought all knowledge originated.",
+   "status": "ok",
+   "confidence": 0.9770731925964355,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 533,
+    "y0": 150,
+    "x1": 939,
+    "y1": 289
+   },
+   "exclude": [
+    [
+     558,
+     278,
+     573,
+     308,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 102,
+    "y0": 153,
+    "x1": 509,
+    "y1": 369
+   },
+   "text": "queens, each bearing the name of Candace. This accounts for the different descriptions of the lady, some showing her as very beautiful and some allowing her but one eye and painting her as very much of a haraden. These kings and queens, whose records have been deciphered, are of comparatively recent years—not more than 2,500 or 3,000 years old. Even more interesting will be the results of the excavations of the older",
+   "status": "ok",
+   "confidence": 0.9685850143432617,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 100,
+    "y0": 151,
+    "x1": 508,
+    "y1": 369
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 535,
+    "y0": 276,
+    "x1": 940,
+    "y1": 371
+   },
+   "text": "Everything so far unearthed in Crete and in the Soudan seems to favor the theory that all around the Mediterranean there arose, in the Stone Age, a common",
+   "status": "ok",
+   "confidence": 0.9600560665130615,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 535,
+    "y0": 289,
+    "x1": 938,
+    "y1": 369
+   },
+   "exclude": [
+    [
+     618,
+     273,
+     627,
+     287,
+     "r1"
+    ],
+    [
+     601,
+     275,
+     607,
+     288,
+     "r1"
+    ],
+    [
+     537,
+     277,
+     547,
+     288,
+     "r1"
+    ],
+    [
+     549,
+     277,
+     556,
+     287,
+     "r1"
+    ],
+    [
+     580,
+     277,
+     589,
+     287,
+     "r1"
+    ],
+    [
+     591,
+     277,
+     600,
+     288,
+     "r1"
+    ],
+    [
+     608,
+     277,
+     616,
+     288,
+     "r1"
+    ],
+    [
+     558,
+     278,
+     561,
+     287,
+     "r1"
+    ],
+    [
+     574,
+     278,
+     578,
+     287,
+     "r1"
+    ],
+    [
+     629,
+     284,
+     632,
+     288,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "figure",
+   "bbox": {
+    "x0": 151,
+    "y0": 429,
+    "x1": 891,
+    "y1": 963
+   },
+   "text": "Royal black Nubians sacrificing after Victory. (The victory is recorded in hieroglyphics below.) (After Lepsius.)",
+   "status": "ok",
+   "confidence": 0.9610078930854797,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 151,
+    "y0": 429,
+    "x1": 883,
+    "y1": 961
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 538,
+    "y0": 1015,
+    "x1": 942,
+    "y1": 1113
+   },
+   "text": "race of men who in the course of the centuries developed differing physical characteristics, and they peopled Europe and Africa where the first civilizations arose in Crete and the Soudan.",
+   "status": "ok",
+   "confidence": 0.9645568132400513,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 538,
+    "y0": 1013,
+    "x1": 940,
+    "y1": 1113
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 106,
+    "y0": 1015,
+    "x1": 511,
+    "y1": 1134
+   },
+   "text": "ruins. \"The Ethiopians,\" says Herodotus, \"were the first men who ever lived,\" and if they were not the first to live it would seem fairly well established that they were either the first or among the first to found a civilization.",
+   "status": "ok",
+   "confidence": 0.9618874788284302,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 104,
+    "y0": 1013,
+    "x1": 509,
+    "y1": 1132
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 539,
+    "y0": 1117,
+    "x1": 944,
+    "y1": 1294
+   },
+   "text": "So we see that five centuries ago there was a high civilization which fell before some barbarian invasion, just as Rome fell two thousand years ago and remained for centuries only a romance and a dream. Everywhere we find evidence that there was no one commanding race, that all developed, some faster than others, a civilization.",
+   "status": "ok",
+   "confidence": 0.9775141477584839,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 539,
+    "y0": 1116,
+    "x1": 941,
+    "y1": 1294
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 106,
+    "y0": 1133,
+    "x1": 513,
+    "y1": 1470
+   },
+   "text": "Within the last ten years there has been dug out in Crete the remains of a civilization two thousand years more ancient than any hitherto known in Europe. We have the actual buildings, the theatres, palaces and temples, of Crete in 3000 B. C., and we know as facts what was guesswork even in Homer's time. Now, that there was communication between Crete and Egypt 2,000 years before Christ is certain. One of the frescoes found at Crete shows some religious ceremonial done very much in the Egyptian style. Some of the priestesses are white, while others are black. How far back the connection between the African and Cretan civilization dates is a question soon perhaps to be settled.",
+   "status": "ok",
+   "confidence": 0.9773637056350708,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 1133,
+    "x1": 510,
+    "y1": 1465
+   },
+   "exclude": [
+    [
+     265,
+     1469,
+     273,
+     1484,
+     "r12"
+    ],
+    [
+     418,
+     1469,
+     427,
+     1484,
+     "r12"
+    ],
+    [
+     471,
+     1469,
+     480,
+     1484,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 540,
+    "y0": 1298,
+    "x1": 945,
+    "y1": 1544
+   },
+   "text": "In some respects we appear to have been traveling in a circle; certainly there have been considerable declines in civilization from time to time, dark ages that followed periods of greatness. There has been no steady evolution from the cave man to the twentieth-century person, who is so sure he stands at the summit. Man seems to have progressed more or less like the famous frog who jumped three feet and fell back two—only sometimes man fell back four.",
+   "status": "ok",
+   "confidence": 0.9767111539840698,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 540,
+    "y0": 1298,
+    "x1": 943,
+    "y1": 1544
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 106,
+    "y0": 1467,
+    "x1": 513,
+    "y1": 1549
+   },
+   "text": "At any rate there appear to have been two great civilizations at a very early time, that in the Nile country, begun and largely maintained by black men, and that",
+   "status": "ok",
+   "confidence": 0.9622267484664917,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 1468,
+    "x1": 511,
+    "y1": 1546
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "abandon",
+   "bbox": {
+    "x0": 911,
+    "y0": 100,
+    "x1": 939,
+    "y1": 122
+   },
+   "text": "25",
+   "status": "ok",
+   "confidence": 0.835544764995575,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 911,
+    "y0": 99,
+    "x1": 938,
+    "y1": 120
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 16,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 3,
+  "log": [
+   "drop r4 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r5 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r13 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r14 (text): non-latin hallucination 'حرَّجَة'"
+  ]
+ }
+}

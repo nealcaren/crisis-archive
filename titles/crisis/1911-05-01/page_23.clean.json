@@ -1,0 +1,139 @@
+{
+ "page": 23,
+ "image": "images/page_23.jpg",
+ "width": 1369,
+ "height": 2078,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.8,
+  "at": "2026-10-06T21:41:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "figure",
+   "bbox": {
+    "x0": 0,
+    "y0": 336,
+    "x1": 1075,
+    "y1": 1751
+   },
+   "text": "",
+   "status": "error",
+   "confidence": 0.9678536057472229,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 0,
+    "y0": 337,
+    "x1": 1068,
+    "y1": 1751
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 0,
+    "y0": 1777,
+    "x1": 129,
+    "y1": 1796
+   },
+   "text": "EL MARSHALL",
+   "status": "ok",
+   "confidence": 0.5019413828849792,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 0,
+    "y0": 1772,
+    "x1": 128,
+    "y1": 1796
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "abandon",
+   "bbox": {
+    "x0": 141,
+    "y0": 114,
+    "x1": 318,
+    "y1": 145
+   },
+   "text": "MAY, 1911",
+   "status": "ok",
+   "confidence": 0.7979402542114258,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 139,
+    "y0": 110,
+    "x1": 319,
+    "y1": 144
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1146,
+    "y0": 115,
+    "x1": 1185,
+    "y1": 145
+   },
+   "text": "23",
+   "status": "ok",
+   "confidence": 0.8471898436546326,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1145,
+    "y0": 115,
+    "x1": 1183,
+    "y1": 143
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r4",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 564,
+    "y0": 1792,
+    "x1": 1037,
+    "y1": 1888
+   },
+   "text": "Officers of the Eighth Regiment Illinois National Guard; Colonel Marshall is now attending the maneuvers in Texas.",
+   "status": "ok",
+   "confidence": 0.5324516892433167,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 560,
+    "y0": 1788,
+    "x1": 1038,
+    "y1": 1888
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 5,
+  "regions_after": 5,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

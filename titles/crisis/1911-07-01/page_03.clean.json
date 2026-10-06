@@ -1,0 +1,251 @@
+{
+ "page": 3,
+ "image": "images/page_03.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 4.9,
+  "at": "2026-10-06T21:56:33+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 109,
+    "y0": 94,
+    "x1": 931,
+    "y1": 490
+   },
+   "text": "THE CRISIS\nA RECORD OF THE DARKER RACES\n\nPublished by the National Association for the Advancement of Colored People, at\n20 Vesey Street, New York City.\n\nW. E. BURGHARDT DU BOIS, Editor\nM. D. MACLEAN, Managing Editor\nFRANK M. TURNER, Circulation Manager\nALBON L. HOLSEY, Advertising Manager\n\nContributing Editors\nOSWALD GARRISON VILLARD\nJ. MAX BARBER\nCHARLES EDWARD RUSSELL\nW. S. BRAITHWAITE\nKELLY MILLER",
+   "status": "ok",
+   "confidence": 0.47717973589897156,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 94,
+    "x1": 931,
+    "y1": 487
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'OSWALD GARRISON VILLARD' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 112,
+    "y0": 538,
+    "x1": 929,
+    "y1": 642
+   },
+   "text": "ALONG THE COLOR LINE..... 95",
+   "status": "ok",
+   "confidence": 0.9276862740516663,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 531,
+    "x1": 931,
+    "y1": 676
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r1b",
+   "label": "title",
+   "bbox": {
+    "x0": 112,
+    "y0": 642,
+    "x1": 929,
+    "y1": 675
+   },
+   "text": "MEN OF THE MONTH:",
+   "status": "ok",
+   "confidence": 0.9276862740516663,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 531,
+    "x1": 931,
+    "y1": 676
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 688,
+    "x1": 930,
+    "y1": 826
+   },
+   "text": "Rev. H. C. Bishop..... 102\nRight Hon. H. H. Asquith..... 103\nRight Hon. A. J. Balfour..... 103\n\nTHE VISION: Poem. By W. S. Braithwaite..... 103",
+   "status": "ok",
+   "confidence": 0.7152712345123291,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 688,
+    "x1": 935,
+    "y1": 1240
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 826,
+    "x1": 930,
+    "y1": 873
+   },
+   "text": "OPINION ..... 104",
+   "status": "ok",
+   "confidence": 0.7152712345123291,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 688,
+    "x1": 935,
+    "y1": 1240
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2b"
+  },
+  {
+   "id": "r2bb",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 873,
+    "x1": 930,
+    "y1": 920
+   },
+   "text": "N. A. A. C. P.....107",
+   "status": "ok",
+   "confidence": 0.7152712345123291,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 688,
+    "x1": 935,
+    "y1": 1240
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2bb"
+  },
+  {
+   "id": "r2bbb",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 920,
+    "x1": 930,
+    "y1": 968
+   },
+   "text": "BASKETBALL TEAM OF THE Y. M. C. A., WASHINGTON.....110",
+   "status": "ok",
+   "confidence": 0.7152712345123291,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 688,
+    "x1": 935,
+    "y1": 1240
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2bbb"
+  },
+  {
+   "id": "r2bbbb",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 968,
+    "x1": 930,
+    "y1": 1237
+   },
+   "text": "EDITORIAL ..... 112\nFAMOUS COLORED COLLEGE ATHLETES. By Edwin B. Henderson..... 115\nTHE LITTLE KINGDOM OF SALT..... 119\nWOMEN'S CLUB: Caring for the Young Women. By Mrs. W. A. Hunton.. 121\nTHE BURDEN..... 123\nWHAT TO READ..... 125",
+   "status": "ok",
+   "confidence": 0.7152712345123291,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 688,
+    "x1": 935,
+    "y1": 1240
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2bbb"
+  },
+  {
+   "id": "r3",
+   "label": "abandon",
+   "bbox": {
+    "x0": 109,
+    "y0": 1292,
+    "x1": 930,
+    "y1": 1441
+   },
+   "text": "Agents wanted who can furnish references.\nEntered as second-class matter in the post office at New York City.\n\nThis is to certify that I print fifteen thousand copies of the July Crisis, 1911.\nROBERT N. WOOD, Printer,\n202 East 99th St.\n\nSworn to before me this 19th day of June, 1911.\nP. J. BURKE,\nNotary Public, N. Y. C.",
+   "status": "ok",
+   "confidence": 0.43579503893852234,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 1284,
+    "x1": 929,
+    "y1": 1444
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'P. J. BURKE,' inside box; no verified split at the 3 nearest gaps"
+  }
+ ],
+ "clean": {
+  "regions_before": 4,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [
+   "r0",
+   "r3"
+  ],
+  "unowned_ink_pct": 5.59,
+  "box_overlaps_after": 0,
+  "log": [
+   "REVIEW r0: heading 'OSWALD GARRISON VILLARD' inside box; no verified split at the 3 nearest gaps",
+   "split r1 at y=642 before 'MEN OF THE MONTH:'",
+   "split r2 at y=826 before 'OPINION ..... 104'",
+   "split r2b at y=873 before 'N. A. A. C. P..... 107'",
+   "split r2bb at y=920 before 'BASKETBALL TEAM OF THE Y. M. C. A., WASHINGTON..... 110'",
+   "split r2bbb at y=968 before 'EDITORIAL ..... 112'",
+   "REVIEW r3: heading 'P. J. BURKE,' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

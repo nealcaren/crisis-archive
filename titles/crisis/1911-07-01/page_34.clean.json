@@ -1,0 +1,1155 @@
+{
+ "page": 34,
+ "image": "images/page_34.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.5,
+  "at": "2026-10-06T22:00:32+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 590,
+    "y0": 138,
+    "x1": 993,
+    "y1": 259
+   },
+   "text": "the women have paid more than two thirds of the purchase price of their home, and have thoroughly established themselves in the confidence of the public by their fine business acumen and high ideals.",
+   "status": "ok",
+   "confidence": 0.7943727970123291,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 587,
+    "y0": 137,
+    "x1": 990,
+    "y1": 254
+   },
+   "exclude": [
+    [
+     962,
+     255,
+     964,
+     258,
+     "r2"
+    ],
+    [
+     744,
+     257,
+     758,
+     272,
+     "r2"
+    ],
+    [
+     802,
+     257,
+     805,
+     259,
+     "r2"
+    ],
+    [
+     827,
+     256,
+     830,
+     259,
+     "r2"
+    ],
+    [
+     660,
+     258,
+     674,
+     273,
+     "r2"
+    ],
+    [
+     698,
+     258,
+     704,
+     273,
+     "r2"
+    ],
+    [
+     716,
+     258,
+     721,
+     273,
+     "r2"
+    ],
+    [
+     723,
+     258,
+     733,
+     273,
+     "r2"
+    ],
+    [
+     953,
+     258,
+     959,
+     271,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 165,
+    "y0": 140,
+    "x1": 564,
+    "y1": 269
+   },
+   "text": "tional Training School, New York City, preparing for future service in Association work. The city Association presents a field of immense opportunity, as yet, scarcely appreciated.",
+   "status": "ok",
+   "confidence": 0.9567972421646118,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 139,
+    "x1": 563,
+    "y1": 266
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 588,
+    "y0": 253,
+    "x1": 992,
+    "y1": 739
+   },
+   "text": "The Norfolk Association, co-operating with the Travelers' Aid and Protective Association, is meeting a long-felt need of that seaport town in giving its large number of migratory young women respectable and comfortable rooms, and it has a wonderful opportunity to pour something of moral and spiritual fragrance into their lives. In one year 702 steamers and trains were met and 479 girls assisted in various ways. So effective has been the work of this association that its very strong president, Mrs. Laura E. Titus, who has been one of the foremost leaders in all reform and social movements of her State, was invited to active membership in the white Association of social workers of Norfolk and vicinity and was accorded every courtesy. This is surely a long step in advance in the annals of Virginia. St. Paul, although in the far northwest, has realized the value of Association work, and is calling to the national board for a trained secretary.",
+   "status": "ok",
+   "confidence": 0.9807456731796265,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 588,
+    "y0": 254,
+    "x1": 989,
+    "y1": 734
+   },
+   "exclude": [
+    [
+     975,
+     737,
+     979,
+     752,
+     "r4"
+    ],
+    [
+     612,
+     738,
+     628,
+     753,
+     "r4"
+    ],
+    [
+     632,
+     738,
+     634,
+     741,
+     "r4"
+    ],
+    [
+     668,
+     738,
+     680,
+     753,
+     "r4"
+    ],
+    [
+     713,
+     738,
+     717,
+     753,
+     "r4"
+    ],
+    [
+     720,
+     738,
+     723,
+     740,
+     "r4"
+    ],
+    [
+     749,
+     738,
+     764,
+     753,
+     "r4"
+    ],
+    [
+     779,
+     738,
+     783,
+     752,
+     "r4"
+    ],
+    [
+     786,
+     738,
+     789,
+     752,
+     "r4"
+    ],
+    [
+     610,
+     245,
+     620,
+     257,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 165,
+    "y0": 268,
+    "x1": 564,
+    "y1": 1002
+   },
+   "text": "Four years ago we reported four Associations; we must now mention five others, with beginnings in several additional cities, and calls for organization coming from still other cities. For want of close supervision, intelligent volunteer service and money, the problem of maintaining a city Association is a difficult one; but the results already attained in New York, Brooklyn, Baltimore, Washington, Norfolk and St. Paul prove, without doubt, the possibility and value of the movement. The New York Association, providing rooms which are constantly filled with girls and women from other cities, finding employment daily for those who seek it, offering opportunities for classwork and emphasizing the value of practical Christianity in a girl's life, has already overtaxed its present quarters, and is demanding a large and well-equipped building to do a greater work for the restless, surging army of women of that great metropolis. In Brooklyn the home life and social atmosphere are the chief charms, and they are so strong that its building is constantly crowded, and one appeals often vainly for room and board. Girls from New England, Canada, Colorado, California, Missouri, Georgia, Florida and the Carolinas have lived in this home and returned to their own distant homes full of praise for the Brooklyn Association. Last year 110 women found permanent positions through this Association, while 544 were given day or temporary employment.",
+   "status": "ok",
+   "confidence": 0.9777970314025879,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 269,
+    "x1": 561,
+    "y1": 998
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 588,
+    "y0": 735,
+    "x1": 990,
+    "y1": 1102
+   },
+   "text": "Miss Cecelia Holloway, a young college woman of exceptional ability and strong personality, assumed the position of Student Secretary of the National Board last fall, when Miss Ross became Mrs. Haynes, and has been following the lead of her predecessor with splendid results. The city work, under the supervision of Mrs. Haynes and the writer, has reached a psychological point in its development that will present in the near future some very positive results in increased volunteer service on the part of our public-spirited women, in a more enthusiastic response to the call of the secretaryship by our best-educated young women, and larger facilities in buildings and equipment.",
+   "status": "ok",
+   "confidence": 0.9786992073059082,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 587,
+    "y0": 735,
+    "x1": 987,
+    "y1": 1099
+   },
+   "exclude": [
+    [
+     743,
+     724,
+     753,
+     737,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 166,
+    "y0": 1002,
+    "x1": 837,
+    "y1": 1539
+   },
+   "text": "Baltimore owns its building and is doing a work similar in its influence and results to New York, with much stress placed on the Christian life and usefulness of its members. In Washington our public-spirited women enthusiastic response to secretaryship by our best women, and larger facility and equipment.\n\nAN EVENING IN THE NEW YORK ASSOCIATION",
+   "status": "ok",
+   "confidence": 0.9720337986946106,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 1002,
+    "x1": 832,
+    "y1": 1539
+   },
+   "exclude": [
+    [
+     590,
+     1011,
+     600,
+     1021,
+     "r4"
+    ],
+    [
+     602,
+     1011,
+     611,
+     1021,
+     "r4"
+    ],
+    [
+     613,
+     1011,
+     621,
+     1021,
+     "r4"
+    ],
+    [
+     637,
+     1011,
+     647,
+     1024,
+     "r4"
+    ],
+    [
+     649,
+     1011,
+     658,
+     1021,
+     "r4"
+    ],
+    [
+     679,
+     1011,
+     682,
+     1020,
+     "r4"
+    ],
+    [
+     685,
+     1011,
+     692,
+     1021,
+     "r4"
+    ],
+    [
+     703,
+     1011,
+     709,
+     1021,
+     "r4"
+    ],
+    [
+     711,
+     1011,
+     721,
+     1024,
+     "r4"
+    ],
+    [
+     724,
+     1011,
+     727,
+     1020,
+     "r4"
+    ],
+    [
+     730,
+     1011,
+     736,
+     1020,
+     "r4"
+    ],
+    [
+     739,
+     1011,
+     742,
+     1020,
+     "r4"
+    ],
+    [
+     752,
+     1011,
+     760,
+     1020,
+     "r4"
+    ],
+    [
+     789,
+     1011,
+     804,
+     1020,
+     "r4"
+    ],
+    [
+     806,
+     1010,
+     815,
+     1020,
+     "r4"
+    ],
+    [
+     817,
+     1010,
+     833,
+     1019,
+     "r4"
+    ],
+    [
+     835,
+     1010,
+     843,
+     1020,
+     "r4"
+    ],
+    [
+     695,
+     1014,
+     700,
+     1016,
+     "r4"
+    ],
+    [
+     621,
+     1025,
+     630,
+     1039,
+     "r4"
+    ],
+    [
+     655,
+     1025,
+     657,
+     1027,
+     "r4"
+    ],
+    [
+     614,
+     1028,
+     619,
+     1040,
+     "r4"
+    ],
+    [
+     680,
+     1028,
+     685,
+     1039,
+     "r4"
+    ],
+    [
+     716,
+     1029,
+     722,
+     1039,
+     "r4"
+    ],
+    [
+     735,
+     1029,
+     741,
+     1039,
+     "r4"
+    ],
+    [
+     755,
+     1029,
+     765,
+     1039,
+     "r4"
+    ],
+    [
+     780,
+     1029,
+     786,
+     1039,
+     "r4"
+    ],
+    [
+     788,
+     1029,
+     796,
+     1039,
+     "r4"
+    ],
+    [
+     810,
+     1028,
+     815,
+     1039,
+     "r4"
+    ],
+    [
+     818,
+     1029,
+     828,
+     1039,
+     "r4"
+    ],
+    [
+     591,
+     1030,
+     600,
+     1040,
+     "r4"
+    ],
+    [
+     602,
+     1030,
+     611,
+     1039,
+     "r4"
+    ],
+    [
+     633,
+     1030,
+     642,
+     1039,
+     "r4"
+    ],
+    [
+     645,
+     1030,
+     652,
+     1040,
+     "r4"
+    ],
+    [
+     655,
+     1030,
+     658,
+     1039,
+     "r4"
+    ],
+    [
+     660,
+     1030,
+     668,
+     1039,
+     "r4"
+    ],
+    [
+     671,
+     1030,
+     678,
+     1040,
+     "r4"
+    ],
+    [
+     688,
+     1030,
+     691,
+     1039,
+     "r4"
+    ],
+    [
+     694,
+     1030,
+     701,
+     1039,
+     "r4"
+    ],
+    [
+     724,
+     1030,
+     732,
+     1039,
+     "r4"
+    ],
+    [
+     744,
+     1030,
+     753,
+     1043,
+     "r4"
+    ],
+    [
+     768,
+     1030,
+     776,
+     1039,
+     "r4"
+    ],
+    [
+     671,
+     1037,
+     673,
+     1039,
+     "r4"
+    ],
+    [
+     687,
+     1044,
+     696,
+     1058,
+     "r4"
+    ],
+    [
+     700,
+     1044,
+     702,
+     1046,
+     "r4"
+    ],
+    [
+     724,
+     1044,
+     727,
+     1058,
+     "r4"
+    ],
+    [
+     793,
+     1044,
+     802,
+     1057,
+     "r4"
+    ],
+    [
+     639,
+     1047,
+     644,
+     1059,
+     "r4"
+    ],
+    [
+     824,
+     1046,
+     829,
+     1058,
+     "r4"
+    ],
+    [
+     590,
+     1049,
+     597,
+     1059,
+     "r4"
+    ],
+    [
+     600,
+     1049,
+     608,
+     1059,
+     "r4"
+    ],
+    [
+     610,
+     1049,
+     617,
+     1059,
+     "r4"
+    ],
+    [
+     620,
+     1049,
+     627,
+     1058,
+     "r4"
+    ],
+    [
+     629,
+     1049,
+     636,
+     1059,
+     "r4"
+    ],
+    [
+     647,
+     1049,
+     655,
+     1058,
+     "r4"
+    ],
+    [
+     658,
+     1049,
+     664,
+     1058,
+     "r4"
+    ],
+    [
+     666,
+     1049,
+     675,
+     1059,
+     "r4"
+    ],
+    [
+     699,
+     1049,
+     702,
+     1058,
+     "r4"
+    ],
+    [
+     705,
+     1049,
+     708,
+     1062,
+     "r4"
+    ],
+    [
+     710,
+     1049,
+     714,
+     1058,
+     "r4"
+    ],
+    [
+     735,
+     1049,
+     744,
+     1061,
+     "r4"
+    ],
+    [
+     754,
+     1049,
+     763,
+     1058,
+     "r4"
+    ],
+    [
+     765,
+     1049,
+     770,
+     1058,
+     "r4"
+    ],
+    [
+     771,
+     1049,
+     774,
+     1058,
+     "r4"
+    ],
+    [
+     777,
+     1048,
+     784,
+     1058,
+     "r4"
+    ],
+    [
+     804,
+     1049,
+     812,
+     1058,
+     "r4"
+    ],
+    [
+     815,
+     1048,
+     821,
+     1056,
+     "r4"
+    ],
+    [
+     678,
+     1050,
+     684,
+     1057,
+     "r4"
+    ],
+    [
+     729,
+     1050,
+     733,
+     1058,
+     "r4"
+    ],
+    [
+     832,
+     1052,
+     837,
+     1054,
+     "r4"
+    ],
+    [
+     666,
+     1059,
+     670,
+     1062,
+     "r4"
+    ],
+    [
+     697,
+     1063,
+     706,
+     1078,
+     "r4"
+    ],
+    [
+     718,
+     1063,
+     722,
+     1077,
+     "r4"
+    ],
+    [
+     785,
+     1063,
+     790,
+     1077,
+     "r4"
+    ],
+    [
+     814,
+     1062,
+     816,
+     1064,
+     "r4"
+    ],
+    [
+     819,
+     1063,
+     822,
+     1077,
+     "r4"
+    ],
+    [
+     826,
+     1062,
+     829,
+     1065,
+     "r4"
+    ],
+    [
+     832,
+     1065,
+     837,
+     1077,
+     "r4"
+    ],
+    [
+     724,
+     1067,
+     733,
+     1077,
+     "r4"
+    ],
+    [
+     735,
+     1067,
+     742,
+     1077,
+     "r4"
+    ],
+    [
+     756,
+     1067,
+     764,
+     1078,
+     "r4"
+    ],
+    [
+     766,
+     1067,
+     773,
+     1077,
+     "r4"
+    ],
+    [
+     792,
+     1067,
+     800,
+     1077,
+     "r4"
+    ],
+    [
+     803,
+     1067,
+     810,
+     1077,
+     "r4"
+    ],
+    [
+     813,
+     1067,
+     816,
+     1077,
+     "r4"
+    ],
+    [
+     826,
+     1067,
+     829,
+     1077,
+     "r4"
+    ],
+    [
+     592,
+     1068,
+     606,
+     1078,
+     "r4"
+    ],
+    [
+     608,
+     1068,
+     618,
+     1078,
+     "r4"
+    ],
+    [
+     619,
+     1068,
+     635,
+     1078,
+     "r4"
+    ],
+    [
+     638,
+     1068,
+     645,
+     1078,
+     "r4"
+    ],
+    [
+     648,
+     1068,
+     656,
+     1078,
+     "r4"
+    ],
+    [
+     674,
+     1068,
+     683,
+     1078,
+     "r4"
+    ],
+    [
+     686,
+     1068,
+     694,
+     1077,
+     "r4"
+    ],
+    [
+     744,
+     1068,
+     754,
+     1081,
+     "r4"
+    ],
+    [
+     660,
+     1075,
+     663,
+     1079,
+     "r4"
+    ],
+    [
+     614,
+     1083,
+     624,
+     1098,
+     "r4"
+    ],
+    [
+     670,
+     1082,
+     673,
+     1084,
+     "r4"
+    ],
+    [
+     728,
+     1085,
+     733,
+     1096,
+     "r4"
+    ],
+    [
+     591,
+     1087,
+     600,
+     1098,
+     "r4"
+    ],
+    [
+     603,
+     1087,
+     612,
+     1097,
+     "r4"
+    ],
+    [
+     636,
+     1087,
+     644,
+     1097,
+     "r4"
+    ],
+    [
+     646,
+     1087,
+     655,
+     1100,
+     "r4"
+    ],
+    [
+     658,
+     1087,
+     667,
+     1097,
+     "r4"
+    ],
+    [
+     687,
+     1087,
+     702,
+     1096,
+     "r4"
+    ],
+    [
+     705,
+     1087,
+     713,
+     1097,
+     "r4"
+    ],
+    [
+     716,
+     1087,
+     724,
+     1096,
+     "r4"
+    ],
+    [
+     670,
+     1088,
+     673,
+     1096,
+     "r4"
+    ],
+    [
+     675,
+     1088,
+     685,
+     1100,
+     "r4"
+    ],
+    [
+     735,
+     1094,
+     737,
+     1096,
+     "r4"
+    ],
+    [
+     739,
+     1005,
+     741,
+     1008,
+     "r4"
+    ],
+    [
+     661,
+     1006,
+     670,
+     1021,
+     "r4"
+    ],
+    [
+     673,
+     1006,
+     676,
+     1020,
+     "r4"
+    ],
+    [
+     680,
+     1006,
+     682,
+     1008,
+     "r4"
+    ],
+    [
+     762,
+     1006,
+     772,
+     1021,
+     "r4"
+    ],
+    [
+     745,
+     1008,
+     749,
+     1020,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'AN EVENING IN THE NEW YORK ASSOCIATION' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r6",
+   "label": "abandon",
+   "bbox": {
+    "x0": 167,
+    "y0": 90,
+    "x1": 204,
+    "y1": 112
+   },
+   "text": "122",
+   "status": "ok",
+   "confidence": 0.7941334843635559,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 165,
+    "y0": 89,
+    "x1": 203,
+    "y1": 111
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r7",
+   "label": "abandon",
+   "bbox": {
+    "x0": 489,
+    "y0": 88,
+    "x1": 651,
+    "y1": 112
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8786506056785583,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 488,
+    "y0": 87,
+    "x1": 650,
+    "y1": 111
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [
+   "r5"
+  ],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 4,
+  "log": [
+   "REVIEW r5: heading 'AN EVENING IN THE NEW YORK ASSOCIATION' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

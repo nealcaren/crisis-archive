@@ -1,0 +1,674 @@
+{
+ "page": 9,
+ "image": "images/page_09.jpg",
+ "width": 1410,
+ "height": 2091,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.3,
+  "at": "2026-10-06T21:10:48+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 417,
+    "y0": 128,
+    "x1": 862,
+    "y1": 160
+   },
+   "text": "ALONG THE COLOR LINE",
+   "status": "ok",
+   "confidence": 0.870256781578064,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 418,
+    "y0": 126,
+    "x1": 861,
+    "y1": 160
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 114,
+    "y0": 194,
+    "x1": 626,
+    "y1": 446
+   },
+   "text": "J. H. Murphy, editor of the Afro-American, and one of the most progressive Negroes of Baltimore, is 70 years of age. He has had an interesting career, serving in the Union Army during the Civil War and later as a post-office clerk. He became engaged in the printing business in 1890 and has gradually widened his scope. His paper is one of the best-known publications of its kind in the country.",
+   "status": "ok",
+   "confidence": 0.9706511497497559,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 114,
+    "y0": 193,
+    "x1": 624,
+    "y1": 442
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 657,
+    "y0": 193,
+    "x1": 1168,
+    "y1": 545
+   },
+   "text": "A Negro tuberculosis conference was held in St. Louis. A clinic for colored consumptives has been opened in Chicago.\n\nThe colored people of Scranton, Pa., will raise $40,000 for a clubhouse. Half the amount has been pledged.\n\nA colored baseball league has been formed and has adopted a circuit of eight cities. The new league selected Chicago, Louisville, New Orleans, Mobile, St. Louis, Kansas City, Mo.; Kansas City, Kan., and Columbus, O.",
+   "status": "ok",
+   "confidence": 0.9453937411308289,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 656,
+    "y0": 194,
+    "x1": 1165,
+    "y1": 542
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 115,
+    "y0": 464,
+    "x1": 627,
+    "y1": 614
+   },
+   "text": "News received from Georgetown, Miss., says that the northbound passenger train on the New Orleans Great Northern Railroad there narrowly escaped being wrecked at the Copiah Creek trestle, about one mile south of there.",
+   "status": "ok",
+   "confidence": 0.9610978364944458,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 114,
+    "y0": 464,
+    "x1": 625,
+    "y1": 612
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 659,
+    "y0": 551,
+    "x1": 1168,
+    "y1": 768
+   },
+   "text": "The American Historical Association, at its annual meeting recently at Indianapolis, gave the Justin Winsor prize to Edward Raymond Turner, Ph. D., graduate of Johns Hopkins University, and now Associate in History at Bryn Mawr College, for his book entitled \"The Negro in Pennsylvania—Slavery, Servitude, Freedom.\"",
+   "status": "ok",
+   "confidence": 0.9633541107177734,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 659,
+    "y0": 563,
+    "x1": 1166,
+    "y1": 764
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 115,
+    "y0": 612,
+    "x1": 628,
+    "y1": 820
+   },
+   "text": "Charlie Bush, a Negro, who lives near the bridge, discovered the danger just before the train was due, built a bonfire in the center of the track and flagged the train.\n\nIn St. Joseph, Mo., a colored club with library, reading rooms and gymnasium is projected.",
+   "status": "ok",
+   "confidence": 0.9536561965942383,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 114,
+    "y0": 613,
+    "x1": 626,
+    "y1": 817
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 660,
+    "y0": 791,
+    "x1": 1168,
+    "y1": 951
+   },
+   "text": "VAGARIES OF THE COLOR LINE. New Orleans is in a pretty pother. A new superintendent of schools from Missouri invited colored teachers to meet with white teachers and listen to a lecture on penmanship.",
+   "status": "ok",
+   "confidence": 0.9416085481643677,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 658,
+    "y0": 789,
+    "x1": 1167,
+    "y1": 946
+   },
+   "exclude": [
+    [
+     987,
+     947,
+     1002,
+     967,
+     "r8"
+    ],
+    [
+     1158,
+     947,
+     1166,
+     966,
+     "r8"
+    ],
+    [
+     701,
+     948,
+     718,
+     968,
+     "r8"
+    ],
+    [
+     720,
+     949,
+     732,
+     968,
+     "r8"
+    ],
+    [
+     780,
+     949,
+     798,
+     967,
+     "r8"
+    ],
+    [
+     865,
+     948,
+     884,
+     968,
+     "r8"
+    ],
+    [
+     898,
+     949,
+     902,
+     967,
+     "r8"
+    ],
+    [
+     1016,
+     949,
+     1028,
+     967,
+     "r8"
+    ],
+    [
+     1076,
+     948,
+     1078,
+     951,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 116,
+    "y0": 845,
+    "x1": 630,
+    "y1": 1070
+   },
+   "text": "Nashville Negroes are paying the last $1,000 on a $15,000 hospital. George W. Murray, of Columbia, S. C., a former Negro member of the lower house at Washington, was the principal speaker during the annual convention of the Interstate Literary Association at Des Moines, Iowa.",
+   "status": "ok",
+   "confidence": 0.9412859678268433,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 113,
+    "y0": 844,
+    "x1": 627,
+    "y1": 1066
+   },
+   "exclude": [
+    [
+     146,
+     1068,
+     163,
+     1088,
+     "r9"
+    ],
+    [
+     267,
+     1069,
+     269,
+     1072,
+     "r9"
+    ],
+    [
+     295,
+     1069,
+     298,
+     1073,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 660,
+    "y0": 944,
+    "x1": 1169,
+    "y1": 1074
+   },
+   "text": "\"The New Orleans Federation of Women's Clubs have called meetings to adopt resolutions attacking what they term a repudiation of Southern ideals and the trampling under foot of tradition.",
+   "status": "ok",
+   "confidence": 0.9205077290534973,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 660,
+    "y0": 946,
+    "x1": 1165,
+    "y1": 1068
+   },
+   "exclude": [
+    [
+     701,
+     1071,
+     718,
+     1091,
+     "r10"
+    ],
+    [
+     887,
+     1071,
+     889,
+     1074,
+     "r10"
+    ],
+    [
+     933,
+     1071,
+     944,
+     1089,
+     "r10"
+    ],
+    [
+     995,
+     1071,
+     1007,
+     1089,
+     "r10"
+    ],
+    [
+     1153,
+     1070,
+     1166,
+     1088,
+     "r10"
+    ],
+    [
+     694,
+     1073,
+     697,
+     1079,
+     "r10"
+    ],
+    [
+     809,
+     1072,
+     819,
+     1089,
+     "r10"
+    ],
+    [
+     893,
+     1072,
+     904,
+     1090,
+     "r10"
+    ],
+    [
+     782,
+     931,
+     794,
+     948,
+     "r6"
+    ],
+    [
+     664,
+     932,
+     675,
+     948,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 117,
+    "y0": 1065,
+    "x1": 629,
+    "y1": 1194
+   },
+   "text": "The association is made up of Negroes of the Middle West and each year the association awards liberal prizes to the successful contestants in oratory, original poetic and musical compositions.",
+   "status": "ok",
+   "confidence": 0.9423439502716064,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 116,
+    "y0": 1067,
+    "x1": 628,
+    "y1": 1190
+   },
+   "exclude": [
+    [
+     204,
+     1060,
+     208,
+     1067,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 659,
+    "y0": 1067,
+    "x1": 1169,
+    "y1": 1313
+   },
+   "text": "\"One teacher said that she was seated in the second row at the meeting yesterday, and that two Negro teachers sat directly behind her, and several more sat behind these. In fact, she said, the Negro teachers, numbering about thirty, were spread all over one side of the room. The white teachers were highly indignant at being forced to submit to such treatment.\"",
+   "status": "ok",
+   "confidence": 0.9685682654380798,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 660,
+    "y0": 1069,
+    "x1": 1166,
+    "y1": 1311
+   },
+   "exclude": [
+    [
+     717,
+     1053,
+     729,
+     1071,
+     "r8"
+    ],
+    [
+     759,
+     1053,
+     772,
+     1070,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 114,
+    "y0": 1219,
+    "x1": 630,
+    "y1": 1641
+   },
+   "text": "Upholding the complaint of the most substantial colored citizens and propertyowners in the city, Judge S. B. Witt, of the Hustings Court, Richmond, Va., refused to allow the transfer of a liquor license to 701 North Second Street. Several white people, among them being representatives of the owner, Mrs. McGeorge and her agent, N. W. Bowe, testified in favor of the bar, and said that in their opinion it was a suitable location. They were no match, however, for the large array of colored citizens, who showed to the satisfaction of the court that such a place, even though properly handled, would increase the disorder in one of the most respectable residential districts in the city.",
+   "status": "ok",
+   "confidence": 0.973887026309967,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 117,
+    "y0": 1218,
+    "x1": 628,
+    "y1": 1636
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 662,
+    "y0": 1311,
+    "x1": 1172,
+    "y1": 1783
+   },
+   "text": "Attention is called to the fact that this policy is almost unprecedented. A local paper says:\n\"Some years ago the attention of the presidents of the Public School Co-operative Clubs was called to the fact that white teachers and Negro teachers were paid at the same time at the City Hall. As this was not considered necessary, and it was not desired by the white or the Negro teachers, the attention of the school officials at that time was called to it, and the promise was made that it should never be repeated, and it was not. The Negro teachers in the schools come from the best element of their race, and it is probable that not one of them desired to be placed in the position they were put yesterday by the new superintendent.\"",
+   "status": "ok",
+   "confidence": 0.9764925241470337,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 662,
+    "y0": 1311,
+    "x1": 1167,
+    "y1": 1777
+   },
+   "exclude": [
+    [
+     689,
+     1780,
+     706,
+     1800,
+     "r14"
+    ],
+    [
+     810,
+     1781,
+     815,
+     1801,
+     "r14"
+    ],
+    [
+     844,
+     1781,
+     863,
+     1801,
+     "r14"
+    ],
+    [
+     1002,
+     1781,
+     1005,
+     1785,
+     "r14"
+    ],
+    [
+     708,
+     1782,
+     720,
+     1800,
+     "r14"
+    ],
+    [
+     769,
+     1782,
+     781,
+     1800,
+     "r14"
+    ],
+    [
+     877,
+     1782,
+     879,
+     1785,
+     "r14"
+    ],
+    [
+     896,
+     1782,
+     901,
+     1800,
+     "r14"
+    ],
+    [
+     966,
+     1782,
+     970,
+     1800,
+     "r14"
+    ],
+    [
+     1071,
+     1782,
+     1083,
+     1801,
+     "r14"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 119,
+    "y0": 1666,
+    "x1": 631,
+    "y1": 1842
+   },
+   "text": "Advocating the application of Y. M. C. A. methods to the Negroes of Washington, Thomas Nelson Page addressed a meeting. Mr. Page said that proper development would bring to the surface a high poetic temperament which would raise the level of the entire colored race.",
+   "status": "ok",
+   "confidence": 0.9406167268753052,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 118,
+    "y0": 1664,
+    "x1": 630,
+    "y1": 1841
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 663,
+    "y0": 1777,
+    "x1": 1173,
+    "y1": 1956
+   },
+   "text": "The school officials apologize and say: \"The white and the Negro teachers are placed on an entirely different footing with the School Board. Their pay is not graded in the same way, and they have been kept as separate from each other as it was possible for them to be.\"",
+   "status": "ok",
+   "confidence": 0.9373269081115723,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 662,
+    "y0": 1778,
+    "x1": 1171,
+    "y1": 1952
+   },
+   "exclude": [
+    [
+     750,
+     1763,
+     762,
+     1780,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 121,
+    "y0": 1877,
+    "x1": 631,
+    "y1": 1958
+   },
+   "text": "Colored Masons, representing 150 lodges and 4,000 members, held a meeting of the Grand Lodge in Danville, Va.",
+   "status": "ok",
+   "confidence": 0.7001338005065918,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 119,
+    "y0": 1876,
+    "x1": 630,
+    "y1": 1955
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1144,
+    "y0": 127,
+    "x1": 1165,
+    "y1": 157
+   },
+   "text": "9",
+   "status": "ok",
+   "confidence": 0.7760332822799683,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1144,
+    "y0": 127,
+    "x1": 1163,
+    "y1": 152
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 17,
+  "regions_after": 17,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.63,
+  "box_overlaps_after": 6,
+  "log": []
+ }
+}

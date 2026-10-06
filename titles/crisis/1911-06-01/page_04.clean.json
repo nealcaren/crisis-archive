@@ -1,0 +1,170 @@
+{
+ "page": 4,
+ "image": "images/page_04.jpg",
+ "width": 1372,
+ "height": 2089,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.5,
+  "at": "2026-10-06T21:47:06+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 471,
+    "y0": 128,
+    "x1": 930,
+    "y1": 160
+   },
+   "text": "THE CRISIS ADVERTISER",
+   "status": "ok",
+   "confidence": 0.8398047685623169,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 466,
+    "y0": 125,
+    "x1": 930,
+    "y1": 162
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 172,
+    "y0": 131,
+    "x1": 209,
+    "y1": 160
+   },
+   "text": "48",
+   "status": "ok",
+   "confidence": 0.7185927033424377,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 169,
+    "y0": 129,
+    "x1": 208,
+    "y1": 159
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 171,
+    "y0": 193,
+    "x1": 1235,
+    "y1": 299
+   },
+   "text": "Marshall's Hotel 127-129 West 53d Street Telephones 4693-4694 Columbus",
+   "status": "ok",
+   "confidence": 0.9461444020271301,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 165,
+    "y0": 192,
+    "x1": 1237,
+    "y1": 575
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "title",
+   "bbox": {
+    "x0": 171,
+    "y0": 299,
+    "x1": 1235,
+    "y1": 574
+   },
+   "text": "SPECIAL FEATURE BEGINNING FEBRUARY 1\nBreakfast, 7:30 to 12:30, 30c. Luncheon, 12:30 to 3 p. m., 30c.\nRegular Dinner, 6 to 8, 35c.\nSpecial Course Dinner Every Sunday and Holidays, 50c.\nService and Food Unsurpassed Anywhere Good Music—Vocal and Instrumental\nShell Fish a Specialty Restaurant Open All Night\nJ. L. MARSHALL, Proprietor",
+   "status": "ok",
+   "confidence": 0.9461444020271301,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 165,
+    "y0": 192,
+    "x1": 1237,
+    "y1": 575
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r3",
+   "label": "figure",
+   "bbox": {
+    "x0": 175,
+    "y0": 614,
+    "x1": 1229,
+    "y1": 1704
+   },
+   "text": "This Is\nTHE CRISIS\n\nFew people see you\nMany people see your letters\n\nCorrect in Type,\nProofreading and\nStyle. I print it.\n\nWhy?\n\nAsk Editor\nW. E. B. Du Bois\nby permission\n\nUse Good Stationery\n\nNot the cheapest; but the\nbest for the money charged\n\nSPECIALTY\n\nWedding Invitations printed\nor engraved — correct style\n\nWRITE OR 'PHONE TO\n\nROBERT N. WOOD, Printer\n202 East 99th Street\nNew York City\n\n'Phone Lenox 6667",
+   "status": "ok",
+   "confidence": 0.7917797565460205,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 175,
+    "y0": 619,
+    "x1": 1222,
+    "y1": 1704
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading \"WRITE OR 'PHONE TO\" inside box but no gap to cut at"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 172,
+    "y0": 1715,
+    "x1": 1230,
+    "y1": 1998
+   },
+   "text": "Phone 2877 Lenox\nWhite Rose Working Girls' Home\n217 EAST 86TH STREET\nBet. Second and Third Avenues\nPleasant temporary lodgings for working girls,\nwith privileges, at reasonable rates. The Home\nsolicit orders for working dresses, aprons, etc.\nAddress:\nMRS. FRANCES R. KEYSER, Supt.\n\nJ. N. Washington Mrs. J. N. Washington\nProprietor Manager\n\nHotel Washington\n3252 WABASH AVENUE\nCHICAGO\nFirst-class Service for First-class People\nRates: 75c., $1.00 and $2.00 Per Day\nTelephone Aldine 516\n\nMention The Crisis.",
+   "status": "ok",
+   "confidence": 0.23661325871944427,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 1717,
+    "x1": 1226,
+    "y1": 2000
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 5,
+  "regions_after": 6,
+  "lost_words": [],
+  "needs_review": [
+   "r3"
+  ],
+  "unowned_ink_pct": 0.31,
+  "box_overlaps_after": 0,
+  "log": [
+   "split r2 at y=299 before 'SPECIAL FEATURE BEGINNING FEBRUARY 1'",
+   "REVIEW r3: heading \"WRITE OR 'PHONE TO\" inside box but no gap to cut at"
+  ]
+ }
+}

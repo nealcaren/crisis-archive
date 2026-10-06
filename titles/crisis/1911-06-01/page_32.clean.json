@@ -1,0 +1,275 @@
+{
+ "page": 32,
+ "image": "images/page_32.jpg",
+ "width": 1379,
+ "height": 2095,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.1,
+  "at": "2026-10-06T21:51:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 191,
+    "y0": 132,
+    "x1": 1258,
+    "y1": 307
+   },
+   "text": "THE BURDEN",
+   "status": "ok",
+   "confidence": 0.46541208028793335,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 427,
+    "y0": 177,
+    "x1": 1023,
+    "y1": 255
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "THE BURDEN",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 734,
+    "y0": 334,
+    "x1": 1254,
+    "y1": 1379
+   },
+   "text": "a restaurant, one of a number under the same management in New York, and, as we had been told, one in which Negroes would be served, but were kept waiting for fifteen minutes. Finding that our neighbors were served and not ourselves, we left. Entering a smaller, less pretentious establishment, we received the same treatment. In a third we were told by the man at the door that 'niggers' wouldn't be served. By this time it was nearly one o'clock, and we were becoming tired. Inquiring of a policeman, we were directed to a block further uptown, but on reaching there we found no restaurant of any sort. Another policeman treated us in the same manner. I do not know whether they meant to amuse themselves with our plight, or whether they simply wished to get us out of the way. In any case, they were of no service. I, for one, began to feel very faint as well as sadly mortified. We were quietly dressed, unobtrusive persons, with money to pay for a meal, and yet we were obliged to go hungry in the cosmopolitan city of New York. At length I suggested that we try a department store. In the Western city from which I had come I was always treated with especial courtesy in such stores, and I felt we should try in New York. We walked wearily still further uptown and, entering at last a large establishment, made our way upstairs to the restaurant. We were treated with the greatest courtesy. It seemed to me that the waitress must understand how we felt, she was so helpful in letting us know the good but inexpensive dishes and in making us feel at home. I 'blessed the store and the friendly service it gave us.'",
+   "status": "ok",
+   "confidence": 0.9718934893608093,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 734,
+    "y0": 332,
+    "x1": 1249,
+    "y1": 1374
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 194,
+    "y0": 335,
+    "x1": 704,
+    "y1": 388
+   },
+   "text": "COLORED MEN LYNCHED WITHOUT TRIAL.",
+   "status": "ok",
+   "confidence": 0.8663303256034851,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 192,
+    "y0": 333,
+    "x1": 703,
+    "y1": 386
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 195,
+    "y0": 386,
+    "x1": 708,
+    "y1": 787
+   },
+   "text": "1885..... 78 1898..... 102\n1886..... 71 1899..... 84\n1887..... 80 1900..... 107\n1888..... 95 1901..... 107\n1889..... 95 1902..... 86\n1890..... 90 1903..... 86\n1891..... 121 1904..... 83\n1892..... 155 1905..... 61\n1893..... 154 1906..... 64\n1894..... 134 1907..... 60\n1895..... 112 1908..... 93\n1896..... 80 1909..... 73\n1897..... 122 1910..... 65\nTotal.....2,458",
+   "status": "ok",
+   "confidence": 0.8951432108879089,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 190,
+    "y0": 385,
+    "x1": 704,
+    "y1": 811
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 195,
+    "y0": 787,
+    "x1": 708,
+    "y1": 812
+   },
+   "text": "THE AFRICAN.",
+   "status": "ok",
+   "confidence": 0.8951432108879089,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 190,
+    "y0": 385,
+    "x1": 704,
+    "y1": 811
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 192,
+    "y0": 810,
+    "x1": 704,
+    "y1": 1357
+   },
+   "text": "Not long ago a missionary was to preach upon Africa in a wealthy white church of the South. It was announced that he would make an appeal for money to carry the gospel of Christ to the ignorant, unenlightened heathen of the Dark Continent. The missionary was a well-known personage, and the church was well attended on the morning announced for him to preach. A few minutes before the service was to commence a young colored girl, quietly dressed and of pleasant manner, mounted the church steps. She was met in the vestibule by a polite but determined usher, who told her that she had come to the wrong church. \"The colored church is further downtown,\" he said. \"I am an African,\" the young girl replied, \"and I came to hear the preacher tell about my own country. I felt it would be pleasant to hear of home.\"",
+   "status": "ok",
+   "confidence": 0.9764103889465332,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 189,
+    "y0": 813,
+    "x1": 700,
+    "y1": 1353
+   },
+   "exclude": [
+    [
+     220,
+     1354,
+     238,
+     1373,
+     "r5"
+    ],
+    [
+     241,
+     1355,
+     252,
+     1373,
+     "r5"
+    ],
+    [
+     313,
+     1356,
+     324,
+     1374,
+     "r5"
+    ],
+    [
+     493,
+     1356,
+     497,
+     1375,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 191,
+    "y0": 1351,
+    "x1": 703,
+    "y1": 1651
+   },
+   "text": "The usher was nonplussed. Leaving the young girl to stand and wait, he consulted with the important trustees whom he could gather around him; and when the good missionary stood up to tell of the need in Africa of teaching the gospel of Christ—the gospel to which the church he stood in was dedicated—away off in a corner of the gallery, where few white people could see her, and where no white person might sit next her, was one little African \"sister in Christ.\"",
+   "status": "ok",
+   "confidence": 0.9736670255661011,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 189,
+    "y0": 1353,
+    "x1": 698,
+    "y1": 1649
+   },
+   "exclude": [
+    [
+     327,
+     1337,
+     339,
+     1354,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 734,
+    "y0": 1411,
+    "x1": 1249,
+    "y1": 1888
+   },
+   "text": "PARKS AGAIN. We have called attention more than once to the discrimination practiced against Negroes in public parks of the South, parks supported by taxes levied upon black and white alike. In those places where race prejudice is recognized as a legitimate attitude on the part of a municipality, a common solution for the evident injustice practiced against the black man is to give him a park of his own. Such a recognition of race prejudice, however, only brings out more race prejudice. At Memphis, Tenn., owing to the protest of the colored citizens, the Park Commission passed an ordinance to purchase a park for colored people. Bids were called for, and one site after another was chosen only to be",
+   "status": "ok",
+   "confidence": 0.9767758846282959,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 733,
+    "y0": 1408,
+    "x1": 1244,
+    "y1": 1883
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "title",
+   "bbox": {
+    "x0": 191,
+    "y0": 1679,
+    "x1": 702,
+    "y1": 1883
+   },
+   "text": "A colored woman, a stranger to New York, tells the following story of her effort to get a midday meal. \"I was on. Broadway shopping with two colored women friends, and at twelve o'clock we decided that we were ready for our luncheon. We went into",
+   "status": "ok",
+   "confidence": 0.9554360508918762,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 188,
+    "y0": 1678,
+    "x1": 698,
+    "y1": 1879
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.28,
+  "box_overlaps_after": 3,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 58%",
+   "reread r0: 'THE BURDEN' -> 'THE BURDEN'",
+   "split r3 at y=787 before 'THE AFRICAN.'"
+  ]
+ }
+}

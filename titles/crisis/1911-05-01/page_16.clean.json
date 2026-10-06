@@ -1,0 +1,586 @@
+{
+ "page": 16,
+ "image": "images/page_16.jpg",
+ "width": 1374,
+ "height": 2082,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.1,
+  "at": "2026-10-06T21:40:15+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 592,
+    "y0": 126,
+    "x1": 780,
+    "y1": 157
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.6558492183685303,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 588,
+    "y0": 124,
+    "x1": 778,
+    "y1": 157
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 164,
+    "y0": 126,
+    "x1": 198,
+    "y1": 155
+   },
+   "text": "16",
+   "status": "ok",
+   "confidence": 0.7340474128723145,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 161,
+    "y0": 126,
+    "x1": 194,
+    "y1": 152
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 161,
+    "y0": 193,
+    "x1": 672,
+    "y1": 638
+   },
+   "text": "the President's factors in the solution of the South's problem, caused it. The whites saw that industrially educated blacks stood in their way to lucrative employment, and they forthwith attempted to remove the stumbling block. This leads to the observation that industrial education, the accumulation of wealth, uprightness nor meekness, nor all of them when exercised only by the Negro portion of the population of the South, is a solvent of the problem of the races. It begins to look as if greater results would be accomplished if the whites could get the benefit of some of the advice which every speaker seems to feel duty bound to give a Negro audience.\"",
+   "status": "ok",
+   "confidence": 0.9753316640853882,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 162,
+    "y0": 191,
+    "x1": 667,
+    "y1": 636
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 163,
+    "y0": 638,
+    "x1": 673,
+    "y1": 864
+   },
+   "text": "This comment is borne out by the remark of the Knoxville (Tenn.) Sentinel, one of the few white papers to refer to the strike. \"The settlement appears to be a fair one. Ultimately we believe whites and blacks in the South will not be encouraged to follow any similar line of skilled labor. Their competition produces friction.\"",
+   "status": "ok",
+   "confidence": 0.9754491448402405,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 639,
+    "x1": 669,
+    "y1": 860
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "title",
+   "bbox": {
+    "x0": 166,
+    "y0": 895,
+    "x1": 676,
+    "y1": 1426
+   },
+   "text": "THE CORNELL INCIDENT. The appearance of race prejudice at Cornell University leads the Milwaukee Wisconsin to observe: \"There was a time in the early days of the abolition movement when a high-minded New England woman, Prudence Crandall, suffered the breaking up of her establishment, one of the then most prosperous young ladies' seminaries in the East, rather than deny its advantages to colored pupils. There was a later time when in any part of the North such a protest as that of the 300 white remonstrators at Cornell would have been looked upon as narrow and unpatriotic. Allegations have been made of late by white friends of the colored race as well as by members of that race that prejudice against them expressing itself in proscription is growing. This is a reactionary tendency.\"",
+   "status": "ok",
+   "confidence": 0.8897338509559631,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 166,
+    "y0": 892,
+    "x1": 670,
+    "y1": 1420
+   },
+   "exclude": [
+    [
+     527,
+     1420,
+     532,
+     1423,
+     "r5"
+    ],
+    [
+     196,
+     1423,
+     214,
+     1443,
+     "r5"
+    ],
+    [
+     217,
+     1424,
+     229,
+     1443,
+     "r5"
+    ],
+    [
+     262,
+     1424,
+     277,
+     1443,
+     "r5"
+    ],
+    [
+     364,
+     1424,
+     381,
+     1443,
+     "r5"
+    ],
+    [
+     383,
+     1425,
+     389,
+     1443,
+     "r5"
+    ],
+    [
+     406,
+     1425,
+     418,
+     1443,
+     "r5"
+    ],
+    [
+     476,
+     1425,
+     480,
+     1443,
+     "r5"
+    ],
+    [
+     484,
+     1425,
+     489,
+     1443,
+     "r5"
+    ],
+    [
+     530,
+     1425,
+     541,
+     1443,
+     "r5"
+    ],
+    [
+     573,
+     1425,
+     580,
+     1443,
+     "r5"
+    ],
+    [
+     624,
+     1425,
+     628,
+     1443,
+     "r5"
+    ],
+    [
+     656,
+     1425,
+     660,
+     1431,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 168,
+    "y0": 1417,
+    "x1": 678,
+    "y1": 1941
+   },
+   "text": "The Boston Globe calls the faculty's task of deciding whether or not the colored girls are to be admitted to Sage Dormitory an unenviable one. \"If it were possible to distinguish between civil, political, economic, educational and social rights and privileges, the task of the Cornell trustees might not be so difficult, but those rights and privileges are all bound up together. Deny one and you infringe all the others. The colored students at Cornell are entitled to a fair and square answer to the question raised by the white women students, and the whole country will await it with interest.\"\n\nThe Norwich (Conn.) Record goes into an interesting argument: \"The issue is one that does not directly interest the South. Certainly it can cause the South no alarm. The Southern col-",
+   "status": "ok",
+   "confidence": 0.9593257308006287,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 166,
+    "y0": 1421,
+    "x1": 675,
+    "y1": 1940
+   },
+   "exclude": [
+    [
+     586,
+     1401,
+     597,
+     1419,
+     "r4"
+    ],
+    [
+     455,
+     1404,
+     462,
+     1419,
+     "r4"
+    ],
+    [
+     548,
+     1404,
+     555,
+     1419,
+     "r4"
+    ],
+    [
+     172,
+     1406,
+     185,
+     1422,
+     "r4"
+    ],
+    [
+     242,
+     1406,
+     254,
+     1419,
+     "r4"
+    ],
+    [
+     257,
+     1406,
+     270,
+     1422,
+     "r4"
+    ],
+    [
+     341,
+     1406,
+     350,
+     1419,
+     "r4"
+    ],
+    [
+     367,
+     1406,
+     376,
+     1419,
+     "r4"
+    ],
+    [
+     385,
+     1406,
+     396,
+     1419,
+     "r4"
+    ],
+    [
+     404,
+     1406,
+     414,
+     1419,
+     "r4"
+    ],
+    [
+     416,
+     1407,
+     425,
+     1419,
+     "r4"
+    ],
+    [
+     429,
+     1406,
+     439,
+     1419,
+     "r4"
+    ],
+    [
+     442,
+     1407,
+     451,
+     1419,
+     "r4"
+    ],
+    [
+     465,
+     1406,
+     469,
+     1419,
+     "r4"
+    ],
+    [
+     473,
+     1406,
+     484,
+     1419,
+     "r4"
+    ],
+    [
+     487,
+     1406,
+     499,
+     1419,
+     "r4"
+    ],
+    [
+     502,
+     1406,
+     513,
+     1419,
+     "r4"
+    ],
+    [
+     516,
+     1406,
+     525,
+     1419,
+     "r4"
+    ],
+    [
+     527,
+     1407,
+     539,
+     1419,
+     "r4"
+    ],
+    [
+     558,
+     1407,
+     568,
+     1419,
+     "r4"
+    ],
+    [
+     571,
+     1407,
+     582,
+     1419,
+     "r4"
+    ],
+    [
+     601,
+     1407,
+     611,
+     1419,
+     "r4"
+    ],
+    [
+     614,
+     1407,
+     625,
+     1419,
+     "r4"
+    ],
+    [
+     629,
+     1407,
+     639,
+     1419,
+     "r4"
+    ],
+    [
+     641,
+     1407,
+     654,
+     1423,
+     "r4"
+    ],
+    [
+     657,
+     1416,
+     660,
+     1419,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 700,
+    "y0": 187,
+    "x1": 1218,
+    "y1": 1152
+   },
+   "text": "leges and universities open to the white race exclusively are increasing in wealth and facilities, and the South will be able to educate its own sons and daughters. Whenever the doors of a Northern institution are thrown open to the Negroes, the North thereby assumes a part of the South's race problem. As time goes on and the more capable and ambitious young Negroes discover that they will oe received sincerely on terms of equality in the Northern colleges, they will go to the Northern colleges—and remain in the North when they have been graduated. The presence of two Negresses in Sage Dormitory would not establish social equality in Cornell, but if it should be followed by the admission of 220 during the coming ten or twenty years the genuineness of some of the Northern doctrines would be established, and Cornell would be arrayed aggressively in a campaign to break down racial barriers. Heretofore, the Northern institutions have, as a rule, said one thing and acted another. The opportunity is offered to Cornell to set itself in the front rank as an institution opposed to race separation, and its course will be looked upon from the South with an interest very slightly biased by selfish considerations. Meanwhile, the Northern acumen exhibited in the lavish endowment of Negro schools, such as Tuskegee, in the South, so that embarrassing questions of the kind that now exercise students and trustees at Cornell may be avoided so long as possible, finds itself unable to escape attention.\"",
+   "status": "ok",
+   "confidence": 0.9700797200202942,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 701,
+    "y0": 191,
+    "x1": 1214,
+    "y1": 1146
+   },
+   "exclude": [
+    [
+     734,
+     1151,
+     752,
+     1170,
+     "r7"
+    ],
+    [
+     797,
+     1151,
+     814,
+     1170,
+     "r7"
+    ],
+    [
+     817,
+     1151,
+     821,
+     1155,
+     "r7"
+    ],
+    [
+     933,
+     1151,
+     951,
+     1170,
+     "r7"
+    ],
+    [
+     954,
+     1151,
+     958,
+     1154,
+     "r7"
+    ],
+    [
+     1019,
+     1151,
+     1038,
+     1170,
+     "r7"
+    ],
+    [
+     1042,
+     1151,
+     1046,
+     1155,
+     "r7"
+    ],
+    [
+     1168,
+     1151,
+     1171,
+     1155,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 706,
+    "y0": 1148,
+    "x1": 1219,
+    "y1": 1374
+   },
+   "text": "The Richmond Times-Dispatch thinks the faculty's decision of little importance: \"No college law can break up ostracism. A snub is not unlawful. Social discrimination can be drawn. West Point, with all its discipline, cannot prevent 'silence.' A white student would not be welcome in a colored college, and the reverse is equally true.\"",
+   "status": "ok",
+   "confidence": 0.9680070877075195,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 705,
+    "y0": 1148,
+    "x1": 1215,
+    "y1": 1370
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 708,
+    "y0": 1410,
+    "x1": 1222,
+    "y1": 1735
+   },
+   "text": "The Darlington, S. C., News and Press is not a believer in the Blease doctrines. \"It is a noteworthy fact,\" it says, \"that few Negroes who can read and write fill our jails in comparison with the number who cannot write their names. \"The Negro is here to stay, not as a slave, or under conditions in which he could be governed as in a state of slavery, but as a free individual, and his propensity to crime can be removed only by means which operate for his uplift.\"",
+   "status": "ok",
+   "confidence": 0.9640187621116638,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 707,
+    "y0": 1408,
+    "x1": 1218,
+    "y1": 1732
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "abandon",
+   "bbox": {
+    "x0": 709,
+    "y0": 1766,
+    "x1": 1222,
+    "y1": 1945
+   },
+   "text": "\"The big pow-wow, called the National Association, etc., having pow-wowed out in New York, that is fortunately impatient of whining problem solvers, will be held this year up Boston way, where the people like big talk from empty heads.\" N. Y. Age (colored).",
+   "status": "ok",
+   "confidence": 0.9052587151527405,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 707,
+    "y0": 1763,
+    "x1": 1220,
+    "y1": 1943
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.5,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

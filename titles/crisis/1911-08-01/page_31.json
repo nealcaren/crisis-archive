@@ -1,0 +1,127 @@
+{
+  "page": 31,
+  "image": "images/page_31.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "figure",
+      "bbox": {
+        "x0": 84,
+        "y0": 151,
+        "x1": 712,
+        "y1": 504
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.6169389486312866,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 74,
+        "y0": 563,
+        "x1": 709,
+        "y1": 776
+      },
+      "text": "The Congo Express\nBy VIRGINIA WRIGHT\n\n\"Express train for Timbuktu ready!\" announced the Parisian papers a few weeks ago. \"This way to buy your ticket for the Congo!\"\n\nTimbuktu is become trade. Its houses are and it takes on the modern city. The to",
+      "status": "ok",
+      "confidence": 0.9551295042037964,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 75,
+        "y0": 777,
+        "x1": 468,
+        "y1": 909
+      },
+      "text": "They were not announcing the arrival of some new sort of exhibition with a miniature desert enlivened by real Arabs; they were stating sober fact. If you live in Paris and want to go to the heart of Africa you just go and buy your ticket as you would for any other place.",
+      "status": "ok",
+      "confidence": 0.967231810092926,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 76,
+        "y0": 910,
+        "x1": 469,
+        "y1": 1175
+      },
+      "text": "In short, a railway has been built across the desert from the West Coast of Africa to the Congo, running along the course of the Niger passing Timbuktu, that ancient city of mystery, stopping at Gao, the capital of a mighty empire until the demand for slaves sent raiders across the sands to capture and sell, going on safely and comfortably until it reaches the frontier of the Belgian Congo. It means the rapid development of that part of Africa and the restoration of the civilization so cruelly uprooted two hundred and fifty years ago.",
+      "status": "ok",
+      "confidence": 0.9677613973617554,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 76,
+        "y0": 1177,
+        "x1": 469,
+        "y1": 1389
+      },
+      "text": "The country is fertile if properly cultivated. The Niger carries wealth along with it and fine crops of grain are being raised along its banks. The Soudanese are industrious and capable, and above all the French apparently are really trying to do the right thing—they want the native to get an education and they respect his point of view. \"White superiority\" is not the chief clause in their credo.",
+      "status": "ok",
+      "confidence": 0.9745743870735168,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 495,
+        "y0": 698,
+        "x1": 887,
+        "y1": 870
+      },
+      "text": "Timbuktu is becoming a center of trade. Its houses are growing larger and it takes on the appearance of a modern city. The town of Gao, once the capital of the empire, is still a collection of huts, but all along the banks of the Niger busy emporiums are springing up and the natives share largely in the development of the country.",
+      "status": "ok",
+      "confidence": 0.9739544987678528,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 495,
+        "y0": 871,
+        "x1": 886,
+        "y1": 1135
+      },
+      "text": "A lively Frenchman, Monsieur Felix Dubois, has written a book in which he gives an account of French progress in the Soudan which is extremely entertaining reading. Seventeen years ago he studied the country. At that time all the papers in France were crying out that there was nothing worth having in that sandy desert. Alone among all the critics, Monsieur Dubois stoutly held to his belief that the country would prove a tremendous commercial asset to the French and that its people would prove the best of citizens.",
+      "status": "ok",
+      "confidence": 0.9793897271156311,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 495,
+        "y0": 1137,
+        "x1": 887,
+        "y1": 1384
+      },
+      "text": "The Soudanese, he says, is brave at the same time that he is gentle, industrious and good tempered. Crime is almost unknown among them. They deserve, he declares, the best possible education. He thinks that France has done better than any other Colonial power in the country of the blacks because the French soul shrinks from the brutal exploits of the native people and regards color prejudice as a vice rather than as the virtue \"certain other nations would make it.\"",
+      "status": "ok",
+      "confidence": 0.9756860136985779,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.0,
+    "at": "2026-10-06T22:13:57+00:00"
+  }
+}

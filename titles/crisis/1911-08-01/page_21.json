@@ -1,0 +1,267 @@
+{
+  "page": 21,
+  "image": "images/page_21.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 268,
+        "y0": 108,
+        "x1": 656,
+        "y1": 133
+      },
+      "text": "THE NATIONAL ASSOCIATION",
+      "status": "ok",
+      "confidence": 0.8734173774719238,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 471,
+        "y0": 160,
+        "x1": 869,
+        "y1": 200
+      },
+      "text": "trouble they should immediately communicate their case to the committee.",
+      "status": "ok",
+      "confidence": 0.7556806802749634,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 52,
+        "y0": 161,
+        "x1": 445,
+        "y1": 468
+      },
+      "text": "He would undoubtedly have been beaten to death had it not been for Mr. John Huble and Mr. Arthur Graham, two white men, who successfully warded off the crowd, fighting the crowd back and themselves receiving very rough treatment until the police officer appeared. Instead of the officer arresting some of his assailants or commissioning Mr. Huble and Mr. Graham to do so as citizens, he blew his whistle, and upon the arrival of other officers, Mr. Mitchell was taken to jail where his wounds were dressed by a physician, who had accompanied the officers and who was returning from a visit, Dr. Hall.",
+      "status": "ok",
+      "confidence": 0.9775526523590088,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 472,
+        "y0": 200,
+        "x1": 868,
+        "y1": 335
+      },
+      "text": "The New York Vigilance Committee will feel that its work has been successful when every colored man and woman in the city has come to feel that their rights are safeguarded by a disinterested and responsible body which will leave no means unemployed to give them justice.",
+      "status": "ok",
+      "confidence": 0.9717066884040833,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 473,
+        "y0": 374,
+        "x1": 868,
+        "y1": 596
+      },
+      "text": "THE OKLAHOMA LYNCHING.\nAfter the lynching in Oklahoma of a colored woman and her child the Association sent a letter to the Governor of Oklahoma commenting on the horror of the action and expressing the association's belief that the State would bring the guilty parties to justice. The following reply was received from Governor Cruce. With his permission we print it in full:",
+      "status": "ok",
+      "confidence": 0.9761186838150024,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 54,
+        "y0": 471,
+        "x1": 447,
+        "y1": 644
+      },
+      "text": "By the evidence of a Mr. Gregory, a white man, who fortunately had seen the whole thing, the evidence of the girls that Mitchell had sprung at them was so thoroughly discredited that Mitchell was discharged. Mr. Gregory was passing on the other side of the street and saw Mitchell leisurely walking along when the girls turned the corner.",
+      "status": "ok",
+      "confidence": 0.9756681323051453,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 472,
+        "y0": 627,
+        "x1": 869,
+        "y1": 706
+      },
+      "text": "Mr. Oswald Garrison Villard, Chairman of Ex. Com. of National Assoc. for Advancement of Colored People, New York City.",
+      "status": "ok",
+      "confidence": 0.6238440871238708,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 54,
+        "y0": 647,
+        "x1": 447,
+        "y1": 726
+      },
+      "text": "The case was investigated by Mr. MacNeal, 219 West 63d Street, who secured Mr. Gregory's attendance at court, as well as that of the other witnesses.",
+      "status": "ok",
+      "confidence": 0.9651341438293457,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 475,
+        "y0": 707,
+        "x1": 606,
+        "y1": 729
+      },
+      "text": "My Dear Sir:",
+      "status": "ok",
+      "confidence": 0.5768596529960632,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 55,
+        "y0": 728,
+        "x1": 448,
+        "y1": 996
+      },
+      "text": "This case illustrates the proposition which has been laid before the Police Commissioner that in the cases where hoodlums are attacking colored men, whenever the officers arrive and have to beat back the crowd, a number should be arrested, even if at the point of revolvers, in order that charges of felonious assault may be brought against them. District Attorney Whitman has promised to prosecute to the utmost extent of the law any bona fide case of these outrages that come within his province.",
+      "status": "ok",
+      "confidence": 0.9768915772438049,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 473,
+        "y0": 731,
+        "x1": 870,
+        "y1": 1017
+      },
+      "text": "I was out of the city when your letter of the 27th ult. reached my office, and have had no opportunity to reply to it until this date.\n\nWith reference to the. lynching of the Negro woman and boy at Okemah, to which you call attention, I beg to state, that immediately after this lynching the District Judge of that district called a Grand Jury investigation, to try to apprehend the perpetrators of this outrage. The result has not been satisfactory, but the effort is still being made and will continue to be made to apprehend the guilty parties.",
+      "status": "ok",
+      "confidence": 0.9574333429336548,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 55,
+        "y0": 1003,
+        "x1": 449,
+        "y1": 1196
+      },
+      "text": "But the most important work of the branch has been the creation of a New York Vigilance Committee for the immediate investigation and relief of all cases of outrage or discrimination against colored people in Greater New York and its vicinity. The executive chairmanship of this committee has been entrusted to Gilchrist Stewart, whose work in the Brownsville investigation is well known.",
+      "status": "ok",
+      "confidence": 0.9756483435630798,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 475,
+        "y0": 1018,
+        "x1": 870,
+        "y1": 1284
+      },
+      "text": "It is not a question of the civilization of our people, as you seem to think. In this connection, permit me to state to you, that our people are just as highly civilized as the people of New York; in fact, more highly civilized than the masses of your people. There is not a State in the Union that can boast of a citizenship more cultured than Oklahoma when you take its population as a whole. With our Negro population eliminated we can show a higher percentage of literacy than most of the States in the Union.",
+      "status": "ok",
+      "confidence": 0.9760593175888062,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 55,
+        "y0": 1203,
+        "x1": 449,
+        "y1": 1359
+      },
+      "text": "The committee will welcome all factions and sections of the community to its membership, regardless of their affiliation with the national organization or local branch, and will make every attempt to stop the outrages which have been perpetrated against colored people in this city.",
+      "status": "ok",
+      "confidence": 0.9742048382759094,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 475,
+        "y0": 1285,
+        "x1": 871,
+        "y1": 1518
+      },
+      "text": "It was simply a question of passion and race prejudice that resulted in the unfortunate lynching of the Negro woman and boy. An officer in the discharge of his sworn duty was wantonly shot to death by this woman and her son. I thoroughly agree that there was no justification for this lynching, and as Governor of the State I shall do everything it is possible for the Chief Executive to do to see that those who are guilty are brought to punishment.",
+      "status": "ok",
+      "confidence": 0.9761362075805664,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 55,
+        "y0": 1361,
+        "x1": 449,
+        "y1": 1517
+      },
+      "text": "The city has been divided into districts, each with its \"captain,\" who is to report all cases of injustice immediately to the executive offices. A corps of voluntary investigators is also being formed. A campaign of publicity will soon be started, so that all colored people in the city may realize that in case of",
+      "status": "ok",
+      "confidence": 0.9760948419570923,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "abandon",
+      "bbox": {
+        "x0": 828,
+        "y0": 109,
+        "x1": 867,
+        "y1": 130
+      },
+      "text": "153",
+      "status": "ok",
+      "confidence": 0.8516589999198914,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 725,
+        "y0": 599,
+        "x1": 846,
+        "y1": 620
+      },
+      "text": "June 9, 1911.",
+      "status": "ok",
+      "confidence": 0.5089183449745178,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.8,
+    "at": "2026-10-06T22:12:34+00:00"
+  }
+}

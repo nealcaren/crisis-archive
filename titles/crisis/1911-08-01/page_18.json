@@ -1,0 +1,225 @@
+{
+  "page": 18,
+  "image": "images/page_18.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 571,
+        "y0": 147,
+        "x1": 969,
+        "y1": 206
+      },
+      "text": "tion of a new system, whereby the tricks of that party could be met and overcome. The conditions demanded this.",
+      "status": "ok",
+      "confidence": 0.9526431560516357,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 149,
+        "y0": 151,
+        "x1": 544,
+        "y1": 364
+      },
+      "text": "clause' are strongly to be condemned, not only because they deprive a large number of our citizens of their well-established rights, but because they are educating our white people in the way of deceit and fraud, in the way of legal illegality. They teach us to obey the letter and break the spirit of the law, and in a country where laws are as little respected as they are in this country, this is a most insidious danger.",
+      "status": "ok",
+      "confidence": 0.9743513464927673,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 572,
+        "y0": 208,
+        "x1": 969,
+        "y1": 550
+      },
+      "text": "\"In the last Presidential election, out of the 300,000 white men in the State of Alabama over 21 years of age, but 125,000 were qualified voters. Of the 200,000 colored men of voting age less than 3,000 of them were at the polls to vote. It is not enough. The last Governor of Alabama was elected on a ballot showing about 75,000 votes, whereas there are, combining whites and blacks, 500,000 male citizens in the State of voting age. The last Presidential election showed twelve Southern States voting for the Democracy on a total vote from these States of less than 1,200,000, which is 800,000 less than the total of colored men of voting age alone, saying nothing of the 4,000,000 whites.",
+      "status": "ok",
+      "confidence": 0.9796018600463867,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 150,
+        "y0": 366,
+        "x1": 545,
+        "y1": 823
+      },
+      "text": "\"Now we approach the last phase, the Negro's position in our society. It is here that the Dixons and Vardamans raise their most strenuous cry, resurrecting that old ghost of 'social equality,' answer every argument with the retort, 'How would you like for your daughter to marry a nigger.' The advocates of the uplift plan do not urge social equality, they do not believe that the Negro is a social equal, but they do believe that in his right to walk down the street without being jeered at, in his right to earn an honest living, in whatever trade or profession he makes himself proficient in, he is your equal and the equal of any man alive. There are plenty of educated, refined Negroes in this town, yet they never intrude, nor ever desire to mix with the whites. They do not ask to attend your receptions, they do not ask to marry your daughters, but they do ask a square deal in the struggle of life.",
+      "status": "ok",
+      "confidence": 0.9771087765693665,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 572,
+        "y0": 553,
+        "x1": 969,
+        "y1": 1028
+      },
+      "text": "\"It was not many years ago that white men enslaved the Negro. Now some of these white men, bent on bossism, are using the Negro to aid in the enslaving of other white men. This is in the form of ballot-box stuffing that is looming up in Alabama.\n\n\"I have taken this matter up because I am of the South; I have lived among the conditions and have seen them. The Negro should vote. The same God that created the white man created the black man, and God intended, I believe, that every man should have equal opportunity under the law to protect his own. I have made some pretty definite charges against the Bourbon Democracy, and I have been sustained by the Federal authorities after investigations, but certain localities in the South were made pretty hot for me as a result. To critics who have condemned me in my work I have always replied, as I now say to you, 'What I am doing is for the sake of the South itself.'\"",
+      "status": "ok",
+      "confidence": 0.9800884127616882,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 152,
+        "y0": 824,
+        "x1": 546,
+        "y1": 1072
+      },
+      "text": "\"I have tried to show wherein it is expedient that we succor these people we brought to our shores, but there is a greater reason than that of expediency, there is a higher law than that of dollars and cents. We are strong and they are weak, we are rich and they are poor. The oppressor suffers more by his actions than does the oppressed, the benefactor reaps a greater reward than does the benefited. Remember, that when you choose, you choose for yourselves no less than for the Negro.\"",
+      "status": "ok",
+      "confidence": 0.9763571619987488,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 574,
+        "y0": 1091,
+        "x1": 972,
+        "y1": 1207
+      },
+      "text": "President Taft, in his letter to Fisk University, observed that industrial education will be the salvation of the coloured people, although there should be a few colleges where those who are to \"lead the people\" may be trained.",
+      "status": "ok",
+      "confidence": 0.9702282547950745,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 154,
+        "y0": 1131,
+        "x1": 548,
+        "y1": 1247
+      },
+      "text": "Mr. Joseph C. Manning, formerly a member of the Alabama Legislature, has been touring New England to speak against the \"Let the South Alone\" policy. From the Brockton (Mass.) Times we take a report of some things he said:",
+      "status": "ok",
+      "confidence": 0.9698848724365234,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 575,
+        "y0": 1208,
+        "x1": 973,
+        "y1": 1438
+      },
+      "text": "The New York World thinks this would have been better left unsaid \"We do not dislike this expression because it is new or because it is false but because it falls from the President of the United States—the President of whites as well as the President of blacks. We have in this country plenty of men and women learned in pedagogy and sociology who are perfectly able to give us all that we care to read or hear on the subject of selected classes.",
+      "status": "ok",
+      "confidence": 0.9652129411697388,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 157,
+        "y0": 1248,
+        "x1": 550,
+        "y1": 1516
+      },
+      "text": "\"This issue in the South is a national problem, and knowing the conditions as I do I am trying to make the people of the North realize what the condition of politics is in the South and to know the seriousness of the situation. It is popularly believed that the big majority of white voters in the South are Democrats. The opposition vote to the Democratic party, the white vote and the black vote, has beeen kept down through frauds of many kinds. Ballot-box stuffing and other things have been resorted to by the Democrats, causing the adop-",
+      "status": "ok",
+      "confidence": 0.9745897650718689,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 577,
+        "y0": 1440,
+        "x1": 974,
+        "y1": 1518
+      },
+      "text": "\"It is obviously true that no great nation can be made up wholly of members of the learned professions, but in a republic of equal rights and supposedly",
+      "status": "ok",
+      "confidence": 0.960357666015625,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 148,
+        "y0": 99,
+        "x1": 186,
+        "y1": 120
+      },
+      "text": "150",
+      "status": "ok",
+      "confidence": 0.837803065776825,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 205,
+        "y0": 1102,
+        "x1": 497,
+        "y1": 1123
+      },
+      "text": "A SOUTHERNER SPEAKS.",
+      "status": "ok",
+      "confidence": 0.9049285650253296,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 471,
+        "y0": 96,
+        "x1": 632,
+        "y1": 121
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8604080080986023,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "title",
+      "bbox": {
+        "x0": 661,
+        "y0": 1062,
+        "x1": 881,
+        "y1": 1084
+      },
+      "text": "THE OPEN DOOR.",
+      "status": "ok",
+      "confidence": 0.9115721583366394,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.3,
+    "at": "2026-10-06T22:12:07+00:00"
+  }
+}

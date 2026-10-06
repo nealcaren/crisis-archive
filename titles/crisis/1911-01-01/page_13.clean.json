@@ -1,0 +1,309 @@
+{
+ "page": 13,
+ "image": "images/page_13.jpg",
+ "width": 1074,
+ "height": 1576,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.4,
+  "at": "2026-10-06T21:03:13+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 455,
+    "y0": 76,
+    "x1": 569,
+    "y1": 99
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.8606204986572266,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 453,
+    "y0": 74,
+    "x1": 566,
+    "y1": 98
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 102,
+    "y0": 127,
+    "x1": 498,
+    "y1": 699
+   },
+   "text": "the inscrutable problems of our time and generation. His own unaided efforts are blocked everywhere by caste restrictions and discriminations.\"\nThe New York Globe says:\n\"The Negro has been told to smile and look pleasant as his political rights have been taken from him. The argument has been that if he did not make a fuss over voting the race prejudice of his white fellow citizen would abate—that he would be given a freer chance to work, to acquire property, to become of material weight in the community. But, North as well as South, doors of industry are being shut against the Negro. The economic tragedy of the educated Negro who aspires to good things is pitiful. He finds either that personal effort and merit do not count, or that they do not count much. In many places it is against the Negro who is not willing to stay down in the mire that antipathy blazes the most brightly. He is the 'biggotty nigger.\"\nFinally the Boston Herald pauses to remark:\n\"We purchased more than we knew with that first cargo of slaves sold by the Dutch captain to the Virginia planters now almost three hundred years ago.\"",
+   "status": "ok",
+   "confidence": 0.9767684936523438,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 102,
+    "y0": 126,
+    "x1": 496,
+    "y1": 696
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 101,
+    "y0": 723,
+    "x1": 496,
+    "y1": 1231
+   },
+   "text": "GOMPERS.\nIt seems pretty certain that Samuel Gompers, president of the American Federation of Labor, was to some extent misquoted on the Negro problem. The official version given by Mr. Charles Stetzle is as follows:\n\"The race problem came up in the convention, but not altogether by the choice of the delegates. President Gompers had given an address on the depressed races, remarking that it could not be expected that the Negro, for instance, could have as high an ideal for himself as the Caucasian. A morning newspaper came out next morning and in big headlines said that Gompers had 'read the Negro out of the trades union,' when, as a matter of fact, Gompers meant exactly the opposite. He took occasion to correct the erroneous impression which had been made upon the public. At any rate, he spoke of it at least three different times in public addresses.\"\nThe incident has caused much comment, most of it based on the supposition that union labor is officially drawing the color line. The Chicago Post says:",
+   "status": "ok",
+   "confidence": 0.958012580871582,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 100,
+    "y0": 721,
+    "x1": 494,
+    "y1": 1227
+   },
+   "exclude": [
+    [
+     270,
+     1229,
+     282,
+     1244,
+     "r3"
+    ],
+    [
+     404,
+     1229,
+     425,
+     1245,
+     "r3"
+    ],
+    [
+     131,
+     1230,
+     155,
+     1245,
+     "r3"
+    ],
+    [
+     226,
+     1230,
+     229,
+     1232,
+     "r3"
+    ],
+    [
+     293,
+     1230,
+     302,
+     1244,
+     "r3"
+    ],
+    [
+     339,
+     1230,
+     341,
+     1232,
+     "r3"
+    ],
+    [
+     386,
+     1230,
+     393,
+     1244,
+     "r3"
+    ],
+    [
+     427,
+     1230,
+     435,
+     1244,
+     "r3"
+    ],
+    [
+     465,
+     1230,
+     474,
+     1244,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 100,
+    "y0": 1227,
+    "x1": 495,
+    "y1": 1477
+   },
+   "text": "\"The American Federation of Labor has always declared that 'the working people must unite and organize, irrespective of creed, color, sex, nationality or politics.' For many years the Federation denied membership to all unions which drew the color line—a stand which kept out, for example, the International Association of Machinists until it eliminated the word 'white' from its constitution. Even when the A. F. of L. relented sufficiently to admit several of the railroad brotherhoods which were closed to Negroes, Mr. Gompers was",
+   "status": "ok",
+   "confidence": 0.9732562899589539,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 100,
+    "y0": 1228,
+    "x1": 493,
+    "y1": 1474
+   },
+   "exclude": [
+    [
+     254,
+     1216,
+     264,
+     1229,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 896,
+    "y0": 75,
+    "x1": 920,
+    "y1": 97
+   },
+   "text": "13",
+   "status": "ok",
+   "confidence": 0.8190520405769348,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 893,
+    "y0": 75,
+    "x1": 918,
+    "y1": 95
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 524,
+    "y0": 127,
+    "x1": 920,
+    "y1": 415
+   },
+   "text": "always very robust in his assertion that organized labor welcomed the Negro worker. When the Industrial Commission of 1900 quizzed Mr. Gompers on the race issue, it drew from him some very touching stories of Negro loyalty to the trade union movement. He talked pretty much like an abolitionist up to a few years ago.\"\n\nThe Chicago Daily News says:\n\n\"Mr. Gompers was represented in the original report of his address to have dealt with Negroes and Asiatics as if the problems presented by the two were similar. Everybody should know that they are not.\"",
+   "status": "ok",
+   "confidence": 0.971792459487915,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 522,
+    "y0": 126,
+    "x1": 917,
+    "y1": 412
+   },
+   "exclude": [
+    [
+     555,
+     414,
+     568,
+     429,
+     "r6"
+    ],
+    [
+     607,
+     414,
+     618,
+     428,
+     "r6"
+    ],
+    [
+     616,
+     414,
+     620,
+     418,
+     "r6"
+    ],
+    [
+     905,
+     414,
+     907,
+     417,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 522,
+    "y0": 412,
+    "x1": 918,
+    "y1": 979
+   },
+   "text": "\"The Negroes are native-born American citizens. They know no other land. It is their sincere desire, according to the measure of their abilities, to share in the life of the American people. They are making progress in education and industry. Under these conditions, to deny to Negroes the right to join labor unions when they meet the standards required of white applicants for membership would be clearly un-American.\"\n\nThe comments of two other papers are characteristic. The Charleston (S. C.) News and Courier is complacent:\n\n\"There is no use to palaver about and invent reasons. Everybody who knows anything at all knows that racial antipathy is a real thing, even though intangible. Why beat about the bush and denw it? Aside from the ignorance of the Negro, his many weaknesses, his fatal physiological structure, his extraction prevents his recognition as a social equal, be he in South Africa, America or anywhere else. On that ground his elimination from white unions is a necessity. Concomitant reasons need not be given. They follow in natural sequence.\"\n\nThe New York Evening Post says, however:",
+   "status": "ok",
+   "confidence": 0.9759464263916016,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 521,
+    "y0": 411,
+    "x1": 915,
+    "y1": 979
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 521,
+    "y0": 978,
+    "x1": 915,
+    "y1": 1480
+   },
+   "text": "\"But even should a reactionary policy of rigid exclusion prevail, it cannot keep the Negro down industrially; it will doubtless handicap him in many sections, but the only people who can keep the Negroes in an inferior economic and social position are the Negroes themselves. A race that has risen so rapidly against such wonderful odds is to be held back by no organization of workingmen, however powerful.\"\n\n\"COLORED.\"\n\nThe case of the child with one-sixteenth Negro blood whom the District of Columbia courts call a \"Negro\" has brought some comment. The Detroit News says:\n\n\"Eventually the courts must draw the line. The dark races when intimately associated with the white in overpowering numbers gradually bleach out. At the fourth remove the descendants are often blond in type. As the court seems to take no account of the actual color of the individual in applying the classification 'colored,' it must be assumed that definition must depend upon simple mathematics.\"",
+   "status": "ok",
+   "confidence": 0.9750645160675049,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 520,
+    "y0": 979,
+    "x1": 912,
+    "y1": 1476
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.1,
+  "box_overlaps_after": 3,
+  "log": []
+ }
+}

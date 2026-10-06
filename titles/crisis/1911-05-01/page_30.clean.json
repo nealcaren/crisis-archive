@@ -1,0 +1,457 @@
+{
+ "page": 30,
+ "image": "images/page_30.jpg",
+ "width": 1369,
+ "height": 2078,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 11.5,
+  "at": "2026-10-06T21:42:19+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 189,
+    "y0": 118,
+    "x1": 227,
+    "y1": 147
+   },
+   "text": "30",
+   "status": "ok",
+   "confidence": 0.8550618290901184,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 188,
+    "y0": 117,
+    "x1": 225,
+    "y1": 144
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 620,
+    "y0": 114,
+    "x1": 809,
+    "y1": 150
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8286874890327454,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 619,
+    "y0": 118,
+    "x1": 808,
+    "y1": 150
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 188,
+    "y0": 186,
+    "x1": 699,
+    "y1": 265
+   },
+   "text": "States, and only in one State have these figures gone back for a considerable period.",
+   "status": "ok",
+   "confidence": 0.9495121836662292,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 189,
+    "y0": 185,
+    "x1": 696,
+    "y1": 261
+   },
+   "exclude": [
+    [
+     218,
+     264,
+     236,
+     283,
+     "r3"
+    ],
+    [
+     238,
+     264,
+     250,
+     283,
+     "r3"
+    ],
+    [
+     281,
+     264,
+     294,
+     283,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 190,
+    "y0": 261,
+    "x1": 700,
+    "y1": 977
+   },
+   "text": "The State of Georgia, beginning with 1874, has kept a careful account of the assessed value of the property owned by its Negro citizens. I have put on a chart the way in which that property has increased. It began at $6,000,000 in 1874, and did not increase for about six years, owing to the reconstruction troubles in this State. Then as gradually law and order were restored the accumulations began to go up, and once started they went very rapidly until they reached the culminating point in 1893. At that time the Negroes of Georgia were paying taxes on $14,000,000 worth of property. Then there came a check. First the panic of 1892, then a series of Jim Crow laws, four-cent cotton, and the epidemic of lynching. The result was that for five years the accumulations decreased or wavered. Then they took a new forward movement with the new century and went up rapidly until to-day the Negroes of Georgia pay taxes on about $30,000,000 worth of property. Moreover, as the assessments of property in Georgia are low, it is probable that this represents between $50,000,000 and $60,000,000 of actual value.",
+   "status": "ok",
+   "confidence": 0.9790457487106323,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 190,
+    "y0": 262,
+    "x1": 697,
+    "y1": 974
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 191,
+    "y0": 976,
+    "x1": 699,
+    "y1": 1177
+   },
+   "text": "I have also tried to indicate on the chart the increase per capita of Negro property by a dotted line, and I have put down the Atlanta riot and the campaign for disfranchisement to indicate to you what is very clear in my mind, that this campaign was carried on chiefly because the Negroes were getting on too well.",
+   "status": "ok",
+   "confidence": 0.9745481014251709,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 191,
+    "y0": 977,
+    "x1": 696,
+    "y1": 1173
+   },
+   "exclude": [
+    [
+     223,
+     1175,
+     241,
+     1195,
+     "r5"
+    ],
+    [
+     316,
+     1175,
+     324,
+     1180,
+     "r5"
+    ],
+    [
+     574,
+     1175,
+     577,
+     1178,
+     "r5"
+    ],
+    [
+     605,
+     1175,
+     607,
+     1178,
+     "r5"
+    ],
+    [
+     676,
+     1175,
+     687,
+     1194,
+     "r5"
+    ],
+    [
+     255,
+     1176,
+     259,
+     1193,
+     "r5"
+    ],
+    [
+     405,
+     1176,
+     409,
+     1193,
+     "r5"
+    ],
+    [
+     515,
+     1176,
+     526,
+     1194,
+     "r5"
+    ],
+    [
+     612,
+     1176,
+     616,
+     1193,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 189,
+    "y0": 1172,
+    "x1": 701,
+    "y1": 1592
+   },
+   "text": "Other States have made similar advancement, although there are fewer data. In Virginia, for instance, in 1891 Negroes paid taxes on $12,000,000 worth of property; in 1908 they paid taxes on $25,500,000. In North Carolina in 1900 Negroes paid taxes on nine and a third million dollars' worth of property; in 1909 they paid taxes on $21,000,000 worth. Taking these three States together and considering simply the years 1900 to 1908 we find that in Georgia, Virginia and North Carolina colored people owned in 1900 $40,000,000 worth of taxable property, and in 1908 it had increased to $74,000,000, or an increase of 87 1/3 per cent.",
+   "status": "ok",
+   "confidence": 0.9781954288482666,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 192,
+    "y0": 1174,
+    "x1": 697,
+    "y1": 1589
+   },
+   "exclude": [
+    [
+     498,
+     1157,
+     511,
+     1174,
+     "r4"
+    ],
+    [
+     280,
+     1158,
+     293,
+     1174,
+     "r4"
+    ],
+    [
+     427,
+     1158,
+     439,
+     1174,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 192,
+    "y0": 1589,
+    "x1": 703,
+    "y1": 1947
+   },
+   "text": "Not only this, but the census of 1900 made an attempt to get some figures of the ownership of property by Negroes as a whole. They found that the Negroes, both as owners and tenants, operated 750,000 farms, containing 60,000 square miles, and that the total value of the property thus under Negro control was $500,000,000, with annual products to the amount of $256,000,000. Of these 750,000 farms one-fourth were owned by colored people, and the number of owners increased nearly 60 per cent. between 1890 and 1900, and there is every reason",
+   "status": "ok",
+   "confidence": 0.979373574256897,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 192,
+    "y0": 1591,
+    "x1": 699,
+    "y1": 1941
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 729,
+    "y0": 184,
+    "x1": 1246,
+    "y1": 761
+   },
+   "text": "to believe that between 1900 and 1910 the increase has been far more than 60 per cent., and that to-day Negroes own somewhere near one-third of the farms which they operate.\nTaking the 200,000 farms of the Negro owners we find that they had in 1900 nearly 15,000,000 acres of land, which was worth $180,000,000, and raised $60,000,000 worth of products. All Negro farm property was estimated by the census to be worth about $230,000,000 ten years ago. The American Economic Association took up the subject, and concluded that the total property of the Negro race in 1900 was $300,000,000. If, however, the property has increased in the last ten years throughout the land in the same ratio as in Georgia, North Carolina and Virginia, then it would be fair to infer that the property of the Negroes in the United States should be assessed at $600,000,000.",
+   "status": "ok",
+   "confidence": 0.9760505557060242,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 729,
+    "y0": 183,
+    "x1": 1243,
+    "y1": 755
+   },
+   "exclude": [
+    [
+     1171,
+     757,
+     1179,
+     775,
+     "r8"
+    ],
+    [
+     1215,
+     757,
+     1227,
+     775,
+     "r8"
+    ],
+    [
+     932,
+     758,
+     934,
+     761,
+     "r8"
+    ],
+    [
+     948,
+     759,
+     960,
+     777,
+     "r8"
+    ],
+    [
+     998,
+     758,
+     1002,
+     776,
+     "r8"
+    ],
+    [
+     1098,
+     758,
+     1103,
+     776,
+     "r8"
+    ],
+    [
+     1117,
+     758,
+     1129,
+     776,
+     "r8"
+    ],
+    [
+     761,
+     760,
+     776,
+     779,
+     "r8"
+    ],
+    [
+     870,
+     760,
+     882,
+     778,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 728,
+    "y0": 754,
+    "x1": 1244,
+    "y1": 1178
+   },
+   "text": "Compared with the wealth of the United States these figures are small, but considered in the light of the fact that they represent the savings of a race that began practically without capital a generation ago, they are simply astounding. But what I want to point out to-day is that this accumulation has been made in the face of discouragements and violations of property rights such as no other class of Americans ever met. In the first place we must remember that it is the despised second generation since slavery that has made these accumulations and that these people have saved their money in the face of the following impediments:",
+   "status": "ok",
+   "confidence": 0.9767459630966187,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 732,
+    "y0": 756,
+    "x1": 1241,
+    "y1": 1174
+   },
+   "exclude": [
+    [
+     734,
+     735,
+     745,
+     758,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 733,
+    "y0": 1184,
+    "x1": 1244,
+    "y1": 1442
+   },
+   "text": "1. The lack of facilities for saving, and deliberate cheating.\n2. The hostility of local municipal policy.\n3. Discrimination in wages.\n4. Mob violence.\n5. Legal violence.\nI want to take up each one of these in turn.",
+   "status": "ok",
+   "confidence": 0.8896324038505554,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 732,
+    "y0": 1182,
+    "x1": 1244,
+    "y1": 1442
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 734,
+    "y0": 1442,
+    "x1": 1248,
+    "y1": 1944
+   },
+   "text": "First, as to the lack of facilities for saving. Few people realize how difficult it is in the South for the poor man to save who wants to. Usually in the country districts there are but two methods open to him: To hoard his money or to hand it over to some white friend. There have been numberless cases where such white friends and patrons have taken care of the money of their Negro clients and acted as bankers, with the result that the colored man has been able to keep his savings secure and to accumulate. However, in an unfortunately large number of other cases the colored man has been cheated. Sometimes the patron has died suddenly and the client has been able to get no accounting from the heirs. This was peculiarly the case in regard to the property which free Negroes and",
+   "status": "ok",
+   "confidence": 0.9765532612800598,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 735,
+    "y0": 1442,
+    "x1": 1244,
+    "y1": 1939
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 5,
+  "log": []
+ }
+}

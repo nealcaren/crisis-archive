@@ -1,0 +1,47 @@
+{
+ "page": 36,
+ "image": "images/page_36.jpg",
+ "width": 1080,
+ "height": 1580,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 13.0,
+  "at": "2026-10-06T21:06:34+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "text",
+   "bbox": {
+    "x0": 125,
+    "y0": 51,
+    "x1": 1071,
+    "y1": 1507
+   },
+   "text": "How to Elevate the Moral and Civic Tone of the Negro Community\n\nNegroes—good, bad and indifferent—as long as they have lived in tenements, have had to live shamefully intermingled. Formerly they were forced to live in ramshackle tenements that had been abandoned by the whites, at exorbitant rents for wretched accommodations. But now, thanks to the thrift and enterprise of certain progressive Negro real estate agents, they may live in houses having the same conveniences and accommodations as the whites. While, happily, the physical surroundings of the Negro tenant have been radically altered, unhappily his moral surroundings remain unchanged. How, then, can we improve his moral surroundings? Co-operation is a sine qua non in the solution of this problem. Tenants MUST co-operate with their agents and agents MUST co-operate with one another in ameliorating the moral and civic condition of Negro communities. We can't lean on the landlord. He is an indifferent third party. He cares not, so to speak, whether his house is tenanted with respectable or disrespectable tenants, so long as it is full and he gets his rents. If he's at all concerned about the disrespectable or respectable tenants in his house, it's only to the extent that he's afraid the former may be the cause of some or all of the latter moving, thus leaving him with some vacancies.\n\nThe present moral conditions of Negro tenantry are indeed bad. The individual efforts of certain Negro agents toward bettering the conditions have been praiseworthy, to say the least, but as far as making any progress toward the desired goal is concerned, such efforts must needs be and practically have been of little or no avail. What is the desirable goal is too obvious to command explanation. But how to reach that goal is the matter under consideration. In the first place, we repeat that the united efforts of tenants and agents are the desideratum.\n\nLet the agent compel a prospective tenant to furnish references satisfying fair and reasonable requirements as imposed by, agreed upon and accepted in toto by all agents. The respectable tenant will be glad to do it. Any tenant not furnishing such references should be \"jim-crowed,\" as it were, from decent neighborhoods.\n\nThis matter of bettering the moral and civic condition of Negro communities is a case of a wheel within a wheel. As has been emphasized before, the agent can do absolutely nothing without co-operation. Ministers wielding great influence over large congregations can lend a powerfully helping hand, if they will. We must all pull together. We cannot work resultfully in factions. It is unquestionably within our power to do it, if all others do their respective parts and the colored real estate agent does his.\n\nDesirable Apartments for Desirable Tenants\nAlso Homes for Sale on Easy Terms\n\nPhilip A. Payton, Jr., Company\nNew York's Pioneer Negro Real Estate Agents\nBROKERS = APPRAISERS\n\nTELEPHONES\n917 - 918 HARLEM\n67 West 134th St., New York City",
+   "status": "ok",
+   "confidence": 0.0,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 126,
+    "y0": 52,
+    "x1": 1068,
+    "y1": 1504
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 1,
+  "regions_after": 1,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

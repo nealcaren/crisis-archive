@@ -1,0 +1,501 @@
+{
+ "page": 26,
+ "image": "images/page_26.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 11.5,
+  "at": "2026-10-06T21:50:26+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 207,
+    "y0": 193,
+    "x1": 720,
+    "y1": 273
+   },
+   "text": "ing and tears, prayers that indelibly impressed my heart, and made me what I am, the enemy of all slavery.\"",
+   "status": "ok",
+   "confidence": 0.9541671276092529,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 207,
+    "y0": 191,
+    "x1": 718,
+    "y1": 268
+   },
+   "exclude": [
+    [
+     237,
+     271,
+     259,
+     289,
+     "r2"
+    ],
+    [
+     301,
+     271,
+     314,
+     290,
+     "r2"
+    ],
+    [
+     376,
+     271,
+     379,
+     277,
+     "r2"
+    ],
+    [
+     417,
+     271,
+     433,
+     290,
+     "r2"
+    ],
+    [
+     471,
+     271,
+     474,
+     274,
+     "r2"
+    ],
+    [
+     516,
+     271,
+     524,
+     290,
+     "r2"
+    ],
+    [
+     590,
+     271,
+     602,
+     290,
+     "r2"
+    ],
+    [
+     614,
+     271,
+     626,
+     290,
+     "r2"
+    ],
+    [
+     682,
+     271,
+     685,
+     274,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 753,
+    "y0": 193,
+    "x1": 1270,
+    "y1": 319
+   },
+   "text": "Mrs. Stowe had learned the oneness of human nature under a black or a white skin. What she learned she taught to others; on finishing \"Uncle Tom's Cabin\" as a serial in the Era, she wrote:",
+   "status": "ok",
+   "confidence": 0.6189457774162292,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 752,
+    "y0": 191,
+    "x1": 1266,
+    "y1": 317
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 207,
+    "y0": 268,
+    "x1": 720,
+    "y1": 471
+   },
+   "text": "Mrs. Stowe's affection for and devotion to the colored race continued to the last, and was the burden of her farewell words to the American people when she spoke as follows on the occasion of the garden party given in her honor on her seventieth birthday. She said among other things:",
+   "status": "ok",
+   "confidence": 0.9740518927574158,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 208,
+    "y0": 268,
+    "x1": 717,
+    "y1": 466
+   },
+   "exclude": [
+    [
+     384,
+     253,
+     397,
+     270,
+     "r0"
+    ],
+    [
+     250,
+     469,
+     258,
+     488,
+     "r4"
+    ],
+    [
+     262,
+     469,
+     270,
+     488,
+     "r4"
+    ],
+    [
+     354,
+     470,
+     361,
+     488,
+     "r4"
+    ],
+    [
+     431,
+     470,
+     444,
+     488,
+     "r4"
+    ],
+    [
+     525,
+     470,
+     538,
+     488,
+     "r4"
+    ],
+    [
+     570,
+     470,
+     582,
+     488,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 749,
+    "y0": 316,
+    "x1": 1268,
+    "y1": 765
+   },
+   "text": "\"In particular the dear children who have followed her story have the author's warmest love! Dear children, you will soon be men and women, and I hope that you will learn from this story always to pity the poor and the oppressed. When you grow up, show your pity by doing all you can for them. Never, if you can help it, let a colored child be shut out of school, or treated with neglect on account of his color. Remember the sweet example of little Eva, and try to feel the same regard for all that she did. Then I hope that when you grow up the foolish and unchristian prejudice against people merely on account of their complexion will be done away with.\"",
+   "status": "ok",
+   "confidence": 0.7179355025291443,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 751,
+    "y0": 319,
+    "x1": 1263,
+    "y1": 759
+   },
+   "exclude": [
+    [
+     779,
+     764,
+     787,
+     783,
+     "r5"
+    ],
+    [
+     834,
+     764,
+     838,
+     768,
+     "r5"
+    ],
+    [
+     933,
+     764,
+     946,
+     783,
+     "r5"
+    ],
+    [
+     1088,
+     764,
+     1091,
+     768,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 199,
+    "y0": 466,
+    "x1": 719,
+    "y1": 1155
+   },
+   "text": "\"If any of you have a doubt or a sorrow or a pain, if you doubt about this world, just remember what God has done; just remember that this great sorrow of slavery has gone, gone by forever. I see it every day at the South. I walk there and see the lowly cabins. I see these people growing richer and richer. I see men very happy in their lowly lot; but, to be sure, you must have patience with them. They are not perfect; but have their faults, and they are serious faults in the eyes of white people. But they are very happy, that is evident, and they do know how to enjoy themselves—a great deal more than you do. An old Negro friend in our neighborhood has got a nice two-story house, and an orange grove, and a sugar mill. He's got lots of money in the bank, too. Mr. Stowe met him one day, and he said: 'I have got twenty head of cattle, four head of hoss, forty head of hen, and I have got ten children, all mine, every one mine.' Well, now, that's a thing that a black man could not say once, and this man was sixty years old before he could say it.",
+   "status": "ok",
+   "confidence": 0.9786550402641296,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 206,
+    "y0": 468,
+    "x1": 714,
+    "y1": 1150
+   },
+   "exclude": [
+    [
+     333,
+     451,
+     346,
+     468,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 747,
+    "y0": 761,
+    "x1": 1273,
+    "y1": 1302
+   },
+   "text": "In view of the approaching centennial of Mrs. Stowe's birth on June 14 next, her publishers, Houghton, Mifflin & Company, of Boston, Mass., are to bring out a new life of her, written by her son and grandson. It is not to be a \"Life and Letters,\" still less a \"Life and Times.\" Nor, indeed, is it to be a biography in the ordinary sense of the term; but her life story told as one would tell the story of a character in a work of fiction. That is, it seeks to portray not so much what she did and what she said as what she was and what her life meant to her. It is an effort, in short, to bring the personality of Harriet Beecher Stowe vividly before the reader's mind. It tells how the child grew, and became a teacher and writer, wife and mother, and rose from obscurity to fame through the writing of \"Uncle Tom's Cabin.\"",
+   "status": "ok",
+   "confidence": 0.9789698719978333,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 749,
+    "y0": 760,
+    "x1": 1262,
+    "y1": 1300
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 206,
+    "y0": 1152,
+    "x1": 715,
+    "y1": 1279
+   },
+   "text": "\"With all the faults of the colored people, take a man and set him down at sixty years of age with nothing but his hands, how many could do better? I think that they have done well!\"",
+   "status": "ok",
+   "confidence": 0.9659808874130249,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 205,
+    "y0": 1152,
+    "x1": 713,
+    "y1": 1275
+   },
+   "exclude": [
+    [
+     235,
+     1278,
+     254,
+     1297,
+     "r7"
+    ],
+    [
+     312,
+     1278,
+     320,
+     1297,
+     "r7"
+    ],
+    [
+     343,
+     1278,
+     356,
+     1296,
+     "r7"
+    ],
+    [
+     523,
+     1278,
+     526,
+     1281,
+     "r7"
+    ],
+    [
+     573,
+     1278,
+     576,
+     1281,
+     "r7"
+    ],
+    [
+     609,
+     1278,
+     612,
+     1281,
+     "r7"
+    ],
+    [
+     693,
+     1278,
+     697,
+     1281,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 206,
+    "y0": 1275,
+    "x1": 719,
+    "y1": 1915
+   },
+   "text": "One of the most touching incidents in Mrs. Stowe's life is that she narrates in a letter to the Duchess of Southerland at the time that her oldest son, Henry Stowe, was drowned. \"While I was visiting in Hanover, where Henry died, a poor, deaf old slave woman, who has still five children in bondage, came to comfort me. 'Bear up, dear soul,' she said, 'you must bear it for the Lord loves ye.' She said further: 'Sunday is a heavy day to me, 'cause I can't read so I can't keep my mind off my poor children. Some on 'em the blessed Master's got, and they're safe; but O there are five that I don't know where they are.' What are our mother sorrows to this! I shall try to search out and redeem these children, though, from the ill success of efforts already made I fear it will be hopeless. Every sorrow I have, every lesson on the sacredness of family love, makes me the more determined to resist to the last this dreadful evil that makes so many mothers so much deeper mourners than I ever can be.\"",
+   "status": "ok",
+   "confidence": 0.9778158664703369,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 205,
+    "y0": 1274,
+    "x1": 714,
+    "y1": 1913
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 748,
+    "y0": 1300,
+    "x1": 1266,
+    "y1": 1943
+   },
+   "text": "It was the passage of the Fugitive Slave Law that woke Mrs. Stowe to a sense of the full horror of the condition of the poor slave at the South. It seemed to her as if the system once confined to the Southern States was about to invade the entire country and overwhelm the institutions of free society. It was with astonishment and distress that she heard even humane and Christian people declare that slavery of the Negro was a guaranteed constitutional right that could be interfered with only at the peril of disunion and blood-shed. She saw tender-hearted and truly humane men and women closing their eyes and ears to the cries of those in bondage, and she said to herself that it was impossible to believe that they knew the true nature of slavery, and hence came the purpose of writing a book to show the world the true nature of slavery as it then existed in the Southern States, and threatened to spread all over the North under the baleful influence of the celebrated Dred Scott decision.",
+   "status": "ok",
+   "confidence": 0.9796720147132874,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 747,
+    "y0": 1301,
+    "x1": 1260,
+    "y1": 1941
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 233,
+    "y0": 1914,
+    "x1": 717,
+    "y1": 1945
+   },
+   "text": "No wonder that with such experiences",
+   "status": "ok",
+   "confidence": 0.8958306908607483,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 228,
+    "y0": 1914,
+    "x1": 712,
+    "y1": 1941
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "abandon",
+   "bbox": {
+    "x0": 210,
+    "y0": 124,
+    "x1": 245,
+    "y1": 153
+   },
+   "text": "70",
+   "status": "ok",
+   "confidence": 0.8451877236366272,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 209,
+    "y0": 123,
+    "x1": 243,
+    "y1": 150
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 622,
+    "y0": 125,
+    "x1": 830,
+    "y1": 155
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8620023727416992,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 621,
+    "y0": 123,
+    "x1": 829,
+    "y1": 155
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 8,
+  "log": []
+ }
+}

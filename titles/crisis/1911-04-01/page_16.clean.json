@@ -1,0 +1,208 @@
+{
+ "page": 16,
+ "image": "images/page_16.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.4,
+  "at": "2026-10-06T21:27:05+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 163,
+    "y0": 94,
+    "x1": 189,
+    "y1": 116
+   },
+   "text": "16",
+   "status": "ok",
+   "confidence": 0.8232192993164062,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 161,
+    "y0": 93,
+    "x1": 187,
+    "y1": 114
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 492,
+    "y0": 95,
+    "x1": 639,
+    "y1": 118
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.510775625705719,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 490,
+    "y0": 93,
+    "x1": 639,
+    "y1": 119
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 158,
+    "y0": 146,
+    "x1": 559,
+    "y1": 559
+   },
+   "text": "to be removed or prevented. The most sensible workers for universal peace agree that the numerous international organizations not affiliated with the cause, but formed for the advancement of science or with other laudable purposes in view, are helping greatly to bring about that day when wars shall cease, simply because they enable the intelligent persons of differenet nations to become better acquainted. \"At Brussels is the Central Office of International Institutions, which issues an annual giving information regarding the 200 or more unions, bureaus and congresses that are doing their work across national boundaries. While from 1840 to 1860 there were only 28 international congresses of various kinds, since the latter year there have been about 2,000, and they now average 150 a year.",
+   "status": "ok",
+   "confidence": 0.970704972743988,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 157,
+    "y0": 144,
+    "x1": 557,
+    "y1": 556
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 144,
+    "y0": 560,
+    "x1": 555,
+    "y1": 907
+   },
+   "text": "\"Prof. Paul S. Reinsch, of the University of Wisconsin, recently said: 'Through the effective organization of all these international interests there will be created a large number of bonds between the nations which will make war more and more difficult. To tear up all these ties, to interrupt all these normal activities, will seem, as they go on increasing in numbers and power, an unnatural and intolerable proceeding.' If the 'Universal Races Congress' lives up to its name, and if it meets at regular intervals in different countries of the world, it should prove no unimportant factor in hastening the era of universal good feeling that will make war more difficult, if not impossible.\"",
+   "status": "ok",
+   "confidence": 0.9719623923301697,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 145,
+    "y0": 559,
+    "x1": 552,
+    "y1": 905
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "title",
+   "bbox": {
+    "x0": 151,
+    "y0": 952,
+    "x1": 552,
+    "y1": 1513
+   },
+   "text": "BALANCING APPOINTMENTS.\nThe Vicksburg, Miss., Herald takes a philosophical view of the appointment of colored men to office. Two such appointments were made one day, but the Herald noted the next day a Washington dispatch to the Memphis News-Scimitar to this effect:\n\"Senator Percy discussed this morning with President Taft some matters of local interest to Mississippi. He had the satisfaction of learning that several Negro postmasters in the State will be removed and white men appointed.\"\nThe Herald continues: \"When President Taft announced, in substance, that there would be no more appointments, or reappointments, of Negroes in Southern offices, the Herald remarked that this was as much as the South could ask, in reason. Of course, it would be best to have it a 'white man's government' in all its departments and degrees. This is, however, largely a theory outside of the South. But departure from the theory in the North, or even at Washington, is of relatively minor consequence.\"",
+   "status": "ok",
+   "confidence": 0.9769343733787537,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 151,
+    "y0": 949,
+    "x1": 550,
+    "y1": 1510
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 581,
+    "y0": 145,
+    "x1": 987,
+    "y1": 575
+   },
+   "text": "The Des Moines, Ia., Register-Leader quotes at length a \"Southern Senator\" on the social complications that must arise from the appointment of colored men to high office in Washington. There is a bewildering recital of matters of precedence and calling cards, whereupon the Register-Leader observes it is easy to see that the significance of this is not as it affects the new Attorney-General. \"That a Senator of the United States should accept social standing as a test of fitness for the public service is the really important thing. \"Not many will interest themselves in this particular case. But we may rest assured that the proscription once recognized will not be limited to members of another race. In the end it will be a sufficient objection to the purest bred Caucasian that he does not fit into the social situation.\"",
+   "status": "ok",
+   "confidence": 0.9778879284858704,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 580,
+    "y0": 143,
+    "x1": 984,
+    "y1": 575
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 577,
+    "y0": 597,
+    "x1": 980,
+    "y1": 1127
+   },
+   "text": "\"The 'Jim Crow' bill introduced in the House at Lincoln by a Gage County Democrat should be promptly defeated,\" says the Omaha Bee. \"The number of Negroes in Nebraska is small in proportion to population. Its colored people are industrious and law abiding, as a rule, many of them being property owners and taxpayers, and there is no demand, irrespective of race or color, for imposing such discrimination upon them.\"\n\n{\"text\": \"Major\" Vardman is campaigning for the United States Senatorship in Mississippi. His platform includes the observance of the Golden Rule and the subjugation of the Negro. \"If there were more of the Golden Rule and less of the rule of gold,\" he said, \"we should not need such a big navy.\" Blending happily with this aphorism there occurs in the same speech: \"The most illiterate white man is better equipped to understand the scheme of this government and to vote intelligently to perpetuate it than any Negro.\"\"}",
+   "status": "ok",
+   "confidence": 0.9767311811447144,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 577,
+    "y0": 596,
+    "x1": 978,
+    "y1": 1124
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 576,
+    "y0": 1142,
+    "x1": 977,
+    "y1": 1515
+   },
+   "text": "The colored citizens of Atlanta have had the pleasure last month of addresses from President Taft and Colonel Roosevelt. The President said if Negroes made themselves useful they would be valued, but they must not hang around saloons wasting time. His speech was marked by one enlivening incident.\n\n\"The secret of the solution of the problem of the South,\" he said, \"is education, primary, and industrial.\"\n\nVoice from the Floor: \"We don't get it.\"\n\nColonel Roosevelt in his address warned the colored people not to become conceited. \"It would be the very worst thing that could happen to you,\" he said!",
+   "status": "ok",
+   "confidence": 0.9779893755912781,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 573,
+    "y0": 1151,
+    "x1": 974,
+    "y1": 1515
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.07,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

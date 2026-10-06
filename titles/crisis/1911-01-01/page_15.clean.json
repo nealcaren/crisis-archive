@@ -1,0 +1,1518 @@
+{
+ "page": 15,
+ "image": "images/page_15.jpg",
+ "width": 1074,
+ "height": 1576,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.0,
+  "at": "2026-10-06T21:03:33+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 89,
+    "y0": 467,
+    "x1": 746,
+    "y1": 654
+   },
+   "text": "The race problem is not one problem. It differs not only in time, but in place. Therefore I always go to different groups of colored people in this land with much of interest and curiosity, knowing that each will present its peculiar phase of relationship between the white and colored group.",
+   "status": "ok",
+   "confidence": 0.9373945593833923,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 88,
+    "y0": 463,
+    "x1": 745,
+    "y1": 651
+   },
+   "exclude": [
+    [
+     533,
+     544,
+     542,
+     553,
+     "r10"
+    ],
+    [
+     554,
+     544,
+     564,
+     556,
+     "r10"
+    ],
+    [
+     579,
+     544,
+     585,
+     553,
+     "r10"
+    ],
+    [
+     587,
+     544,
+     596,
+     553,
+     "r10"
+    ],
+    [
+     598,
+     545,
+     607,
+     553,
+     "r10"
+    ],
+    [
+     615,
+     544,
+     621,
+     553,
+     "r10"
+    ],
+    [
+     682,
+     545,
+     689,
+     554,
+     "r10"
+    ],
+    [
+     692,
+     545,
+     700,
+     554,
+     "r10"
+    ],
+    [
+     733,
+     545,
+     741,
+     554,
+     "r10"
+    ],
+    [
+     743,
+     545,
+     749,
+     554,
+     "r10"
+    ],
+    [
+     513,
+     557,
+     519,
+     571,
+     "r10"
+    ],
+    [
+     594,
+     558,
+     596,
+     560,
+     "r10"
+    ],
+    [
+     615,
+     559,
+     617,
+     572,
+     "r10"
+    ],
+    [
+     676,
+     559,
+     685,
+     573,
+     "r10"
+    ],
+    [
+     586,
+     561,
+     590,
+     573,
+     "r10"
+    ],
+    [
+     522,
+     562,
+     529,
+     571,
+     "r10"
+    ],
+    [
+     530,
+     562,
+     539,
+     572,
+     "r10"
+    ],
+    [
+     541,
+     563,
+     555,
+     572,
+     "r10"
+    ],
+    [
+     565,
+     563,
+     573,
+     572,
+     "r10"
+    ],
+    [
+     575,
+     563,
+     584,
+     572,
+     "r10"
+    ],
+    [
+     593,
+     563,
+     597,
+     572,
+     "r10"
+    ],
+    [
+     606,
+     563,
+     612,
+     573,
+     "r10"
+    ],
+    [
+     620,
+     563,
+     628,
+     573,
+     "r10"
+    ],
+    [
+     630,
+     563,
+     638,
+     572,
+     "r10"
+    ],
+    [
+     640,
+     563,
+     648,
+     573,
+     "r10"
+    ],
+    [
+     650,
+     563,
+     656,
+     572,
+     "r10"
+    ],
+    [
+     657,
+     563,
+     666,
+     576,
+     "r10"
+    ],
+    [
+     686,
+     563,
+     696,
+     573,
+     "r10"
+    ],
+    [
+     739,
+     562,
+     744,
+     573,
+     "r10"
+    ],
+    [
+     697,
+     564,
+     712,
+     573,
+     "r10"
+    ],
+    [
+     714,
+     564,
+     721,
+     574,
+     "r10"
+    ],
+    [
+     723,
+     564,
+     729,
+     573,
+     "r10"
+    ],
+    [
+     599,
+     566,
+     604,
+     568,
+     "r10"
+    ],
+    [
+     534,
+     577,
+     543,
+     591,
+     "r10"
+    ],
+    [
+     616,
+     577,
+     619,
+     591,
+     "r10"
+    ],
+    [
+     720,
+     578,
+     729,
+     592,
+     "r10"
+    ],
+    [
+     730,
+     578,
+     733,
+     592,
+     "r10"
+    ],
+    [
+     523,
+     581,
+     531,
+     591,
+     "r10"
+    ],
+    [
+     558,
+     581,
+     567,
+     591,
+     "r10"
+    ],
+    [
+     569,
+     581,
+     577,
+     591,
+     "r10"
+    ],
+    [
+     580,
+     580,
+     584,
+     591,
+     "r10"
+    ],
+    [
+     598,
+     581,
+     604,
+     591,
+     "r10"
+    ],
+    [
+     634,
+     581,
+     640,
+     592,
+     "r10"
+    ],
+    [
+     665,
+     581,
+     670,
+     592,
+     "r10"
+    ],
+    [
+     699,
+     581,
+     704,
+     592,
+     "r10"
+    ],
+    [
+     514,
+     582,
+     516,
+     584,
+     "r10"
+    ],
+    [
+     513,
+     582,
+     521,
+     591,
+     "r10"
+    ],
+    [
+     586,
+     582,
+     595,
+     591,
+     "r10"
+    ],
+    [
+     606,
+     582,
+     614,
+     591,
+     "r10"
+    ],
+    [
+     641,
+     582,
+     650,
+     591,
+     "r10"
+    ],
+    [
+     672,
+     582,
+     679,
+     591,
+     "r10"
+    ],
+    [
+     681,
+     582,
+     688,
+     591,
+     "r10"
+    ],
+    [
+     690,
+     582,
+     698,
+     591,
+     "r10"
+    ],
+    [
+     736,
+     582,
+     744,
+     592,
+     "r10"
+    ],
+    [
+     514,
+     596,
+     525,
+     609,
+     "r10"
+    ],
+    [
+     591,
+     596,
+     593,
+     598,
+     "r10"
+    ],
+    [
+     673,
+     596,
+     679,
+     610,
+     "r10"
+    ],
+    [
+     538,
+     599,
+     542,
+     610,
+     "r10"
+    ],
+    [
+     527,
+     601,
+     535,
+     610,
+     "r10"
+    ],
+    [
+     554,
+     601,
+     561,
+     610,
+     "r10"
+    ],
+    [
+     563,
+     601,
+     572,
+     610,
+     "r10"
+    ],
+    [
+     573,
+     601,
+     587,
+     610,
+     "r10"
+    ],
+    [
+     590,
+     601,
+     593,
+     610,
+     "r10"
+    ],
+    [
+     596,
+     601,
+     598,
+     610,
+     "r10"
+    ],
+    [
+     600,
+     601,
+     604,
+     610,
+     "r10"
+    ],
+    [
+     606,
+     601,
+     615,
+     613,
+     "r10"
+    ],
+    [
+     626,
+     601,
+     635,
+     610,
+     "r10"
+    ],
+    [
+     637,
+     601,
+     646,
+     610,
+     "r10"
+    ],
+    [
+     648,
+     601,
+     661,
+     610,
+     "r10"
+    ],
+    [
+     690,
+     601,
+     699,
+     610,
+     "r10"
+    ],
+    [
+     745,
+     601,
+     758,
+     610,
+     "r10"
+    ],
+    [
+     682,
+     602,
+     688,
+     610,
+     "r10"
+    ],
+    [
+     700,
+     602,
+     715,
+     611,
+     "r10"
+    ],
+    [
+     726,
+     602,
+     729,
+     604,
+     "r10"
+    ],
+    [
+     725,
+     602,
+     734,
+     610,
+     "r10"
+    ],
+    [
+     512,
+     615,
+     546,
+     629,
+     "r10"
+    ],
+    [
+     586,
+     615,
+     595,
+     629,
+     "r10"
+    ],
+    [
+     638,
+     616,
+     647,
+     630,
+     "r10"
+    ],
+    [
+     723,
+     616,
+     732,
+     629,
+     "r10"
+    ],
+    [
+     707,
+     619,
+     711,
+     630,
+     "r10"
+    ],
+    [
+     559,
+     620,
+     574,
+     629,
+     "r10"
+    ],
+    [
+     576,
+     620,
+     584,
+     629,
+     "r10"
+    ],
+    [
+     597,
+     620,
+     604,
+     629,
+     "r10"
+    ],
+    [
+     617,
+     620,
+     625,
+     629,
+     "r10"
+    ],
+    [
+     649,
+     620,
+     653,
+     629,
+     "r10"
+    ],
+    [
+     654,
+     620,
+     664,
+     633,
+     "r10"
+    ],
+    [
+     676,
+     620,
+     691,
+     629,
+     "r10"
+    ],
+    [
+     693,
+     620,
+     696,
+     629,
+     "r10"
+    ],
+    [
+     699,
+     620,
+     705,
+     629,
+     "r10"
+    ],
+    [
+     714,
+     620,
+     722,
+     630,
+     "r10"
+    ],
+    [
+     734,
+     621,
+     742,
+     631,
+     "r10"
+    ],
+    [
+     513,
+     634,
+     522,
+     648,
+     "r10"
+    ],
+    [
+     523,
+     634,
+     526,
+     648,
+     "r10"
+    ],
+    [
+     547,
+     634,
+     557,
+     648,
+     "r10"
+    ],
+    [
+     584,
+     634,
+     589,
+     648,
+     "r10"
+    ],
+    [
+     602,
+     634,
+     605,
+     648,
+     "r10"
+    ],
+    [
+     607,
+     634,
+     616,
+     648,
+     "r10"
+    ],
+    [
+     673,
+     634,
+     675,
+     636,
+     "r10"
+    ],
+    [
+     724,
+     634,
+     730,
+     648,
+     "r10"
+    ],
+    [
+     529,
+     638,
+     537,
+     648,
+     "r10"
+    ],
+    [
+     539,
+     638,
+     546,
+     648,
+     "r10"
+    ],
+    [
+     590,
+     638,
+     600,
+     648,
+     "r10"
+    ],
+    [
+     617,
+     639,
+     644,
+     648,
+     "r10"
+    ],
+    [
+     645,
+     638,
+     654,
+     648,
+     "r10"
+    ],
+    [
+     656,
+     639,
+     670,
+     648,
+     "r10"
+    ],
+    [
+     672,
+     639,
+     676,
+     648,
+     "r10"
+    ],
+    [
+     689,
+     639,
+     698,
+     652,
+     "r10"
+    ],
+    [
+     740,
+     639,
+     750,
+     648,
+     "r10"
+    ],
+    [
+     678,
+     640,
+     687,
+     648,
+     "r10"
+    ],
+    [
+     733,
+     640,
+     739,
+     648,
+     "r10"
+    ],
+    [
+     111,
+     653,
+     117,
+     667,
+     "r4"
+    ],
+    [
+     323,
+     653,
+     326,
+     655,
+     "r4"
+    ],
+    [
+     548,
+     653,
+     556,
+     666,
+     "r10"
+    ],
+    [
+     559,
+     652,
+     561,
+     655,
+     "r10"
+    ],
+    [
+     737,
+     653,
+     750,
+     668,
+     "r10"
+    ],
+    [
+     641,
+     521,
+     650,
+     535,
+     "r10"
+    ],
+    [
+     734,
+     521,
+     737,
+     535,
+     "r10"
+    ],
+    [
+     541,
+     523,
+     545,
+     533,
+     "r10"
+    ],
+    [
+     513,
+     525,
+     519,
+     533,
+     "r10"
+    ],
+    [
+     521,
+     525,
+     528,
+     533,
+     "r10"
+    ],
+    [
+     530,
+     525,
+     533,
+     533,
+     "r10"
+    ],
+    [
+     534,
+     525,
+     539,
+     533,
+     "r10"
+    ],
+    [
+     548,
+     525,
+     554,
+     534,
+     "r10"
+    ],
+    [
+     563,
+     525,
+     571,
+     534,
+     "r10"
+    ],
+    [
+     580,
+     524,
+     584,
+     534,
+     "r10"
+    ],
+    [
+     588,
+     525,
+     593,
+     534,
+     "r10"
+    ],
+    [
+     595,
+     525,
+     602,
+     534,
+     "r10"
+    ],
+    [
+     600,
+     524,
+     603,
+     528,
+     "r10"
+    ],
+    [
+     605,
+     525,
+     619,
+     534,
+     "r10"
+    ],
+    [
+     621,
+     525,
+     628,
+     535,
+     "r10"
+    ],
+    [
+     630,
+     525,
+     639,
+     535,
+     "r10"
+    ],
+    [
+     651,
+     525,
+     661,
+     535,
+     "r10"
+    ],
+    [
+     663,
+     525,
+     671,
+     535,
+     "r10"
+    ],
+    [
+     673,
+     525,
+     679,
+     535,
+     "r10"
+    ],
+    [
+     689,
+     525,
+     703,
+     535,
+     "r10"
+    ],
+    [
+     705,
+     525,
+     714,
+     535,
+     "r10"
+    ],
+    [
+     716,
+     525,
+     722,
+     535,
+     "r10"
+    ],
+    [
+     724,
+     525,
+     732,
+     535,
+     "r10"
+    ],
+    [
+     609,
+     539,
+     613,
+     553,
+     "r10"
+    ],
+    [
+     650,
+     539,
+     669,
+     553,
+     "r10"
+    ],
+    [
+     672,
+     540,
+     680,
+     553,
+     "r10"
+    ],
+    [
+     723,
+     540,
+     731,
+     554,
+     "r10"
+    ],
+    [
+     512,
+     543,
+     521,
+     556,
+     "r10"
+    ],
+    [
+     522,
+     543,
+     532,
+     553,
+     "r10"
+    ],
+    [
+     544,
+     543,
+     552,
+     553,
+     "r10"
+    ],
+    [
+     716,
+     543,
+     721,
+     554,
+     "r10"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "The race problem is not one problem. It differs not only in time, but in place. Therefore I always go to different groups of colored people in this land with much of interest and curiosity, knowing that each will present its peculiar phase of relationship between the white and colored group. presents a tremendous moral young souls. When these from anti-slavery homes and natural to treat black But coming now from a God made a big mistake black folk—coming fro",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 438,
+    "y0": 83,
+    "x1": 552,
+    "y1": 106
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.8141930103302002,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 436,
+    "y0": 81,
+    "x1": 549,
+    "y1": 105
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 87,
+    "y0": 136,
+    "x1": 483,
+    "y1": 387
+   },
+   "text": "The prophecy of Professor Broon, to which A. P. O. refers, is thus described in the Tsalo Ea Becoana:\n\n\"Prof. R. Broon, lecturing recently in Johannesburg on 'South Africa 100 Years Hence,' made some curious and interesting statements. He said he had gone into the question and was thoroughly convinced that the black man, if the present policy was continued, was going to rule South Africa in 100 years. He did not include the colored people in his meaning, but he re-",
+   "status": "ok",
+   "confidence": 0.9778605699539185,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 86,
+    "y0": 135,
+    "x1": 482,
+    "y1": 384
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 87,
+    "y0": 651,
+    "x1": 483,
+    "y1": 844
+   },
+   "text": "I have just come back from such a journey, and its scenes and lessons are filling my thought.\n\nThere was Toledo, with its colored group a little pushed aside and half forgotten in the onward rush of the growing city till the group gripped itself and awoke and said: \"We are a part of Toledo—you may not forget us.\" So now slowly comes the push forward and upward.",
+   "status": "ok",
+   "confidence": 0.9729459881782532,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 87,
+    "y0": 651,
+    "x1": 481,
+    "y1": 840
+   },
+   "exclude": [
+    [
+     139,
+     843,
+     151,
+     858,
+     "r5"
+    ],
+    [
+     188,
+     843,
+     191,
+     857,
+     "r5"
+    ],
+    [
+     215,
+     843,
+     224,
+     857,
+     "r5"
+    ],
+    [
+     257,
+     843,
+     259,
+     845,
+     "r5"
+    ],
+    [
+     280,
+     843,
+     286,
+     857,
+     "r5"
+    ],
+    [
+     315,
+     843,
+     324,
+     857,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 88,
+    "y0": 841,
+    "x1": 483,
+    "y1": 1167
+   },
+   "text": "In Cleveland it is far different—it is not so much a matter of gaining civic recognition as men and women—that battle was fought by worthy men long years ago. It is the deeper problem of holding the ground gained; of not letting theatres and restaurants and hotels inaugurate a new discrimination which had once disappeared. This is a difficult battle of the new economic rise of the Negro; when few Negroes applied or had money to apply it was easy to say theoretically, \"Live where you will, go where you please.\" But when a group of black folk growing in power put a $75,000 church on your corner—that is a phase of the race problem that hadn't struck you before.",
+   "status": "ok",
+   "confidence": 0.9772244691848755,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 88,
+    "y0": 841,
+    "x1": 481,
+    "y1": 1163
+   },
+   "exclude": [
+    [
+     398,
+     1165,
+     407,
+     1179,
+     "r6"
+    ],
+    [
+     314,
+     1166,
+     321,
+     1180,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 86,
+    "y0": 1163,
+    "x1": 482,
+    "y1": 1415
+   },
+   "text": "Between these cities of past and present lies the mystic city of the future, with its great cloud walls.\n\nIn Oberlin there are nearly two thousand young folk at study and at play. Working and playing beside them are a hundred colored boys and girls, and they all walk on sacred ground, on ground long since consecrated to racial equality and hatred of caste and slavery. Yet among these venerable ideals obtrudes the Present and it, with all its odd corners, must be builted into the future city.",
+   "status": "ok",
+   "confidence": 0.9785378575325012,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 86,
+    "y0": 1164,
+    "x1": 480,
+    "y1": 1412
+   },
+   "exclude": [
+    [
+     448,
+     1413,
+     452,
+     1427,
+     "r7"
+    ],
+    [
+     249,
+     1414,
+     252,
+     1428,
+     "r7"
+    ],
+    [
+     254,
+     1414,
+     263,
+     1428,
+     "r7"
+    ],
+    [
+     345,
+     1414,
+     348,
+     1427,
+     "r7"
+    ],
+    [
+     378,
+     1414,
+     387,
+     1427,
+     "r7"
+    ],
+    [
+     438,
+     1414,
+     447,
+     1428,
+     "r7"
+    ],
+    [
+     153,
+     1153,
+     162,
+     1165,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 86,
+    "y0": 1411,
+    "x1": 483,
+    "y1": 1492
+   },
+   "text": "The present holds not only the problem of the treatment of ten million black folk elsewhere, but of the hundred colored boys and girls right there in Oberlin. It pre-",
+   "status": "ok",
+   "confidence": 0.9601840972900391,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 84,
+    "y0": 1412,
+    "x1": 480,
+    "y1": 1489
+   },
+   "exclude": [
+    [
+     252,
+     1401,
+     261,
+     1413,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "abandon",
+   "bbox": {
+    "x0": 877,
+    "y0": 81,
+    "x1": 900,
+    "y1": 103
+   },
+   "text": "15",
+   "status": "ok",
+   "confidence": 0.8088139295578003,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 874,
+    "y0": 81,
+    "x1": 899,
+    "y1": 100
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 506,
+    "y0": 133,
+    "x1": 904,
+    "y1": 387
+   },
+   "text": "ferred to the Kafir or Bantu race. There were some 1,200,000 white people in South Africa, while there were 7,200,000 Kafirs. One of the principal factors that was welding the natives together was religion. More and more black labor was being employed in the Cape Colony, and in a short time the native would have a large number of trades in his hands. Intermarriage between natives and whites was taking place in Cape Colony. The segregation policy seemed to be the most practical way of saving South Africa for the whites.\"",
+   "status": "ok",
+   "confidence": 0.9764987826347351,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 507,
+    "y0": 133,
+    "x1": 902,
+    "y1": 385
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 510,
+    "y0": 519,
+    "x1": 904,
+    "y1": 730
+   },
+   "text": "sents a tremendous moral dilemma to frank young souls. When these children came from anti-slavery homes they found it easy and natural to treat black men as men. But coming now from a world that thinks God made a big mistake in ever creating black folk—coming from such social teaching, they hesitate. Once in a while a black student (or rather a yellow one) may be elected a society, but usually no desert in character or scholarship avails.",
+   "status": "ok",
+   "confidence": 0.9770614504814148,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 509,
+    "y0": 517,
+    "x1": 901,
+    "y1": 726
+   },
+   "exclude": [
+    [
+     533,
+     729,
+     545,
+     742,
+     "r11"
+    ],
+    [
+     580,
+     729,
+     589,
+     743,
+     "r11"
+    ],
+    [
+     592,
+     729,
+     594,
+     731,
+     "r11"
+    ],
+    [
+     660,
+     729,
+     662,
+     743,
+     "r11"
+    ],
+    [
+     680,
+     729,
+     682,
+     731,
+     "r11"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 511,
+    "y0": 727,
+    "x1": 904,
+    "y1": 881
+   },
+   "text": "Yet this fact brings no mental peace or moral satisfaction. The spirit of democracy is strong, the influence of the faculty is righteous, and I came from five hours' earnest conference with these young fok with a sense of seeing a mighty battle for righteousness, and a belief that somehow, sometime, justice would prevail.",
+   "status": "ok",
+   "confidence": 0.9733467698097229,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 510,
+    "y0": 727,
+    "x1": 902,
+    "y1": 877
+   },
+   "exclude": [
+    [
+     534,
+     880,
+     544,
+     894,
+     "r12"
+    ],
+    [
+     585,
+     880,
+     591,
+     894,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 509,
+    "y0": 878,
+    "x1": 903,
+    "y1": 1334
+   },
+   "text": "But after all it was the men I met that meant most. Could I introduce them? Let me see. There was the young lawyer who burned to awaken a sleeping city to its duties and rights; there was the brown physician who is one of the leading surgeons in the city, and his knife finds no color line. Then the girl who ran a political campaign last month had a father who was director in a white bank and one of the solid business men of the town. In their parlor gathered a brown father, a yellow mother, the white pastor and the white girl chum—but why should we catalog the colors of their skins and not those of their clothes? In Oberlin the chief book store is \"colored,\" and the chief paper-hanger and the chief building contractor. Elsewhere I sat with the man who had just been elected a member of a leading white city club and heard how the second highest mechanic in the Peerless motor factory wore \"the shadowed livery of the sun.\"",
+   "status": "ok",
+   "confidence": 0.9801961779594421,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 509,
+    "y0": 878,
+    "x1": 900,
+    "y1": 1332
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 505,
+    "y0": 1333,
+    "x1": 902,
+    "y1": 1491
+   },
+   "text": "Therefore, all is well? Therefore, all is not well. Here are a climbing people. The hardiest and most talented and the pushing are literally forcing a way. But against them and against the ordinary black man the bonds of medievalism are drawn and ghettos and sumptuary laws are encompassed in the color line. W. E. B. D.",
+   "status": "ok",
+   "confidence": 0.9757708311080933,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 507,
+    "y0": 1333,
+    "x1": 900,
+    "y1": 1488
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 14,
+  "regions_after": 13,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.88,
+  "box_overlaps_after": 8,
+  "log": [
+   "drop r3 (title): non-latin hallucination '尬'",
+   "reshape r0 (title): lost 25% of its ink, gained 0%",
+   "reread r0: 'The race problem is not one problem. It ' -> 'The race problem is not one problem. It '"
+  ]
+ }
+}

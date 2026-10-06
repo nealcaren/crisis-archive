@@ -1,0 +1,350 @@
+{
+ "page": 15,
+ "image": "images/page_15.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.3,
+  "at": "2026-10-06T21:48:54+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 578,
+    "y0": 118,
+    "x1": 725,
+    "y1": 148
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.8120743036270142,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 576,
+    "y0": 117,
+    "x1": 724,
+    "y1": 147
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 125,
+    "y0": 182,
+    "x1": 637,
+    "y1": 307
+   },
+   "text": "'Guilty—next!' There is no sense of justice and no fear of retribution, since the people who are most wronged have no voice in the administration of the government itself.\"",
+   "status": "ok",
+   "confidence": 0.9620197415351868,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 124,
+    "y0": 181,
+    "x1": 635,
+    "y1": 308
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 127,
+    "y0": 343,
+    "x1": 638,
+    "y1": 678
+   },
+   "text": "\"It is provoking,\" observes the New York Independent, \"that whatever we want to do the Negro should be everlastingly putting himself in the way to bother us. In the most unexpected ways and places he bobs up, stumbles in where he is not wanted and sets agley the wisest plans of statesmen. One has to look out for him always. If some new scheme of public reform is proposed, the first thought is, \"Cherchez le nègre.'\"",
+   "status": "ok",
+   "confidence": 0.9763509035110474,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 128,
+    "y0": 341,
+    "x1": 635,
+    "y1": 673
+   },
+   "exclude": [
+    [
+     156,
+     677,
+     174,
+     695,
+     "r3"
+    ],
+    [
+     176,
+     677,
+     189,
+     695,
+     "r3"
+    ],
+    [
+     217,
+     677,
+     225,
+     695,
+     "r3"
+    ],
+    [
+     244,
+     677,
+     256,
+     695,
+     "r3"
+    ],
+    [
+     315,
+     677,
+     327,
+     695,
+     "r3"
+    ],
+    [
+     419,
+     677,
+     422,
+     680,
+     "r3"
+    ],
+    [
+     493,
+     677,
+     505,
+     695,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 125,
+    "y0": 674,
+    "x1": 639,
+    "y1": 1360
+   },
+   "text": "The Independent reviews the most recent intrusion of the Negro question in the Senate, where it defeated the bill for the popular election of Senators, and concludes: \"The sole reason why the Negro is so everlastingly poking himself in front of every national discussion is because a dominant white oligarchy is trying to hold him unjustly in subjection in certain States. In other States where the Negro is politically just like the white man he does not bother us. It is simply because certain States shut out the Negro that the Negro jumps up and says he does not want to be shut out in the voting for Senators. If we cannot secure from Congress the privilege to elect Senators by popular vote, it is the Southern Negro, not the Northern Negro, that stands in the way. An injustice is always a nuisance; it always is ready to block reform. More than half the States want the right to elect Senators by popular vote, but others refuse to allow it unless the privilege is given to shut out the Negro vote. That is the block. That is the everlasting Negro.\"",
+   "status": "ok",
+   "confidence": 0.9797919988632202,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 126,
+    "y0": 676,
+    "x1": 636,
+    "y1": 1356
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "title",
+   "bbox": {
+    "x0": 121,
+    "y0": 1391,
+    "x1": 636,
+    "y1": 1923
+   },
+   "text": "THE CATHOLIC CHURCH.\nAt the Unitarian Club in Boston a tribute was paid to the influence of the Unitarians in abolishing slavery. The Republic, of Boston, a Catholic paper, quoting this tribute, calls attention to the work of the Catholic Church among colored people. It declares that \"in purely Catholic countries race prejudice is unknown. A Negro bishop in the New World, Sylveria Gomez Pimeta, Archbishop of Marianna, Brazil, died not many months ago, and he, as a singularly beloved churchman, is still mourned throughout the great Southern republic. Incidentally, Blessed Martin de Porres, of Lima, Peru, was a colored man, a member of the Dominican Order. Born in the sixteenth century, he lived a life of wonderful holiness, founded the College of the Holy Cross for orphans—",
+   "status": "ok",
+   "confidence": 0.9793497920036316,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 123,
+    "y0": 1389,
+    "x1": 632,
+    "y1": 1919
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1142,
+    "y0": 116,
+    "x1": 1179,
+    "y1": 145
+   },
+   "text": "59",
+   "status": "ok",
+   "confidence": 0.8568735718727112,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1141,
+    "y0": 116,
+    "x1": 1177,
+    "y1": 142
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 669,
+    "y0": 184,
+    "x1": 1181,
+    "y1": 701
+   },
+   "text": "this was, in part, a school of manual training—and died in 1639. He was beatified in 1836.\n\n\"We all know the College of the Propaganda in Rome, where Negro and Mongolian students sit side by side with white men of various nationalities, all preparing for the same priesthood. Wendell Phillips renders testimony to the profound impression made on him in a visit to St. Peter's, Rome, when he saw a Negro priest celebrating mass and two white priests assisting him.\n\n\"The fewness and poverty of Catholics in most of the Southern States hindered the Church's Apostolate to the Negroes until after the war; but where she was fairly strong, as in Maryland and Louisiana, free Negroes were numerous and conditions better, in general, than elsewhere in the section.",
+   "status": "ok",
+   "confidence": 0.9770433306694031,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 670,
+    "y0": 184,
+    "x1": 1179,
+    "y1": 700
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 668,
+    "y0": 699,
+    "x1": 1180,
+    "y1": 876
+   },
+   "text": "\"Direct mission work to the Negroes has been growing steadily in the South for over forty years, as well as in all Northern cities where there are a considerable number of Negroes. We have already five Negro priests in America. We hope soon to have many more.\"",
+   "status": "ok",
+   "confidence": 0.975265622138977,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 670,
+    "y0": 701,
+    "x1": 1177,
+    "y1": 872
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "title",
+   "bbox": {
+    "x0": 774,
+    "y0": 906,
+    "x1": 1075,
+    "y1": 932
+   },
+   "text": "THE DARKER SIDE.",
+   "status": "ok",
+   "confidence": 0.8930314779281616,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 780,
+    "y0": 904,
+    "x1": 1071,
+    "y1": 932
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 666,
+    "y0": 942,
+    "x1": 1179,
+    "y1": 1528
+   },
+   "text": "The Chicago Evening Post comments on the proposition to celebrate the jubilee of emancipation in Boston. \"Such a celebration,\" it says, \"especially if it brought together in the large cities in the North such exposition material as would show the social and economic progress of the Negro, would be a useful thing. It could scarcely give the other side of the picture, could not give the whole story; could not—as, indeed, perhaps, it should not—trace the growth of race prejudice in the North with the disappearance of the old Abolition generation. Such an exposition could not show the discouragement—not to say weariness—which has paralyzed that most idealistic of Southern movements, the one represented by the efforts of men like Wade Hampton, of South Carolina, and Senator Lamar, of Mississippi, to work out the redemption of the South by the political co-operation of blacks and whites.",
+   "status": "ok",
+   "confidence": 0.9785106182098389,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 667,
+    "y0": 942,
+    "x1": 1176,
+    "y1": 1526
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 665,
+    "y0": 1527,
+    "x1": 1175,
+    "y1": 1654
+   },
+   "text": "\"But if the race problem has acquired many somber aspects during the last half century, no one will contend that the old situation was not far blacker, far more demoralizing to both races.\"",
+   "status": "ok",
+   "confidence": 0.964080810546875,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 664,
+    "y0": 1527,
+    "x1": 1173,
+    "y1": 1651
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "title",
+   "bbox": {
+    "x0": 662,
+    "y0": 1686,
+    "x1": 1171,
+    "y1": 1924
+   },
+   "text": "HONEST ELECTIONS.\nEight officers have been found guilty of fraud in Louisiana. The New Orleans States explains the mental processes of the convicted officials as follows:\n\"For the men who must suffer imprisonment in order that a stern lesson may be taught, The States is not without sympathy. Apparently they believed that",
+   "status": "ok",
+   "confidence": 0.9611085057258606,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 661,
+    "y0": 1683,
+    "x1": 1169,
+    "y1": 1921
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.64,
+  "box_overlaps_after": 3,
+  "log": []
+ }
+}

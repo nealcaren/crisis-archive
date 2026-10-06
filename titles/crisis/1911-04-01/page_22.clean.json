@@ -1,0 +1,269 @@
+{
+ "page": 22,
+ "image": "images/page_22.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.1,
+  "at": "2026-10-06T21:27:48+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 480,
+    "y0": 89,
+    "x1": 627,
+    "y1": 112
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8583849668502808,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 478,
+    "y0": 87,
+    "x1": 626,
+    "y1": 112
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 144,
+    "y0": 89,
+    "x1": 171,
+    "y1": 111
+   },
+   "text": "22",
+   "status": "ok",
+   "confidence": 0.843704342842102,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 143,
+    "y0": 88,
+    "x1": 170,
+    "y1": 109
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 141,
+    "y0": 143,
+    "x1": 541,
+    "y1": 508
+   },
+   "text": "of enemies of humanity like Judge Harris Dickson.\nBut where is the harm? many think. If we tell the good things, will not the good things multiply and the hateful things die? No. It is a dangerous thing to daily with the truth. Some of the greatest catastrophes in history have come because the mass of men have been deceived and misled as to the truth of conditions by timid, wellmeaning persons, who, knowing the awful facts, suppressed them systematically and spread the sweet and gentle lie.",
+   "status": "ok",
+   "confidence": 0.9783115983009338,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 140,
+    "y0": 141,
+    "x1": 538,
+    "y1": 503
+   },
+   "exclude": [
+    [
+     168,
+     507,
+     184,
+     525,
+     "r3"
+    ],
+    [
+     185,
+     507,
+     197,
+     525,
+     "r3"
+    ],
+    [
+     287,
+     507,
+     293,
+     524,
+     "r3"
+    ],
+    [
+     306,
+     507,
+     309,
+     510,
+     "r3"
+    ],
+    [
+     382,
+     507,
+     389,
+     524,
+     "r3"
+    ],
+    [
+     468,
+     507,
+     475,
+     524,
+     "r3"
+    ],
+    [
+     496,
+     507,
+     507,
+     524,
+     "r3"
+    ],
+    [
+     521,
+     507,
+     523,
+     509,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 142,
+    "y0": 505,
+    "x1": 543,
+    "y1": 928
+   },
+   "text": "There are friends of black folk in this land. There is continual advance in human sympathy. There is an awakening in the white South on the race problem. All that is true. It is also true that the Negro American today faces the crisis of his career; race prejudice is rampant and is successfully overcoming humanitarianism in many lines, and the determination of the dominant South to beat the black man to his knees, to make him a docile ignorant beast of burden, was never stronger than to-day. This is the truth. Let us tell the truth, unpleasant though it be, and through the truth seek freedom. There is no other way.",
+   "status": "ok",
+   "confidence": 0.9781783223152161,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 141,
+    "y0": 503,
+    "x1": 541,
+    "y1": 1073
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 142,
+    "y0": 928,
+    "x1": 543,
+    "y1": 1072
+   },
+   "text": "SMITH JONES.\nA CURIOUS thing happened at Harvard last fall: A boy walked from Mississippi and sought to enter the college because he wanted to learn to write.",
+   "status": "ok",
+   "confidence": 0.9781783223152161,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 141,
+    "y0": 503,
+    "x1": 541,
+    "y1": 1073
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 144,
+    "y0": 1074,
+    "x1": 544,
+    "y1": 1511
+   },
+   "text": "\"Certainly. Why not?\" asks the reader.\nWell—he was black.\n\"Oh,\" says the reader, as the dean of the college said, \"why didn't he go to an industrial school?\"\n\"Because,\" said Smith Jones, \"I want to study literature and become a poet.\"\n\"Why not become a carpenter?\"\n\"Because I don't want to.\"\n\"Is not a trade honorable?\"\n\"Yes; but the trade I want is writing in numbers.\"\n\"But can you write?\"\nNow, the strange thing is that Smith Jones has the gift of song.\n\"My song floats softly up to thee,\"",
+   "status": "ok",
+   "confidence": 0.9429836273193359,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 141,
+    "y0": 1073,
+    "x1": 543,
+    "y1": 1508
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 565,
+    "y0": 140,
+    "x1": 970,
+    "y1": 1265
+   },
+   "text": "he sings to Ethiopia in verses that halt yet have the feel of poetry—not that song is to be compared with potatoes—for potatoes are the end of song (or is song the end of potatoes?). At any rate, why shouldn't such a boy be heralded, pushed onward and encouraged? He aspires. Why does not America cry Hurrah! The reason lies deep, but the reason is there, and it exercises itself again and again. \"There is one place in this land for black men. We want no exceptions. Exceptions make the Negro problem.\" Curious. How like to well-known echoes of the past. How like, too, sounds Smith Jones' life; he was born in a Mississippi cotton field; he supported his mother, sent his sister to school. Then at last came his chance. He got to Louisville and worked at service. Then he printed his Ode to Ethiopia and came to Indianapolis. There the Star published his Ode to the Soldiers' and Sailors' Monument which James Whitcomb Riley and other writers praised. Yet when they saw the black face of the poet they sighed. It was no use to try there, so the black boy started for Harvard with thirty-four cents in his pocket and a bundle of Odes to Ethiopia! He rode on engines, skulked, starved and walked, and finally was arrested in Worcester, Mass., a dirty, black, redeyed vagabond, and sent to the workhouse. \"I am a poet,\" he protested, \"not a tramp;\" but the guard dropped his letter to the editors in the waste paper basket and grinned. Finally, on a dark night he came to Harvard Square. He saw its dim trees and scattered buildings and, venturing in the yard, was promptly arrested again and clapped into jail. Oh! our brave and efficient police!",
+   "status": "ok",
+   "confidence": 0.9563401341438293,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 565,
+    "y0": 146,
+    "x1": 967,
+    "y1": 1265
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 569,
+    "y0": 1264,
+    "x1": 972,
+    "y1": 1509
+   },
+   "text": "This time his judge was a man. While his jailers were proving beyond peradventure that any man whose whole luggage consisted of a bag of poems was either a vagabond or a fool, the judge was reading his poems. So he went free, \"on probation.\" At last a man came forward and put Jones into the Boston Latin School, where he is now preparing for Harvard.",
+   "status": "ok",
+   "confidence": 0.9751592874526978,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 569,
+    "y0": 1263,
+    "x1": 971,
+    "y1": 1506
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 2,
+  "log": [
+   "split r3 at y=928 before 'SMITH JONES.'"
+  ]
+ }
+}

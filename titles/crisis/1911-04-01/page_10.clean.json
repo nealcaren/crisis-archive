@@ -1,0 +1,325 @@
+{
+ "page": 10,
+ "image": "images/page_10.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.1,
+  "at": "2026-10-06T21:25:44+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 158,
+    "y0": 89,
+    "x1": 183,
+    "y1": 111
+   },
+   "text": "10",
+   "status": "ok",
+   "confidence": 0.832290530204773,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 155,
+    "y0": 88,
+    "x1": 182,
+    "y1": 109
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 487,
+    "y0": 91,
+    "x1": 635,
+    "y1": 115
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.7776409983634949,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 486,
+    "y0": 89,
+    "x1": 633,
+    "y1": 114
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 151,
+    "y0": 144,
+    "x1": 554,
+    "y1": 648
+   },
+   "text": "necessary to allow the colored runner to seek a place on the squad. The trouble last year arose when the crowd hissed when a colored runner won one of the heats in an indoor meet. At that time the college publication took the viewpoint that a Negro had no right to participate in athletics; that he should be barred from participation in the public activities of the university. The Negro who competed last season did not display much, if any, class, and as he was in no sense a competitor for a place on the 'Varsity the issue was not forced.\n\nNegroes will not be admitted to the reception to Colonel Theodore Roosevelt in the French Opera House, New Orleans, La. A delegation of prominent Negroes were informed, in reply to an inquiry as to what provision would be made for their race, that the reception was being given under the auspices of the Progressive Union, and that it had no political aspect whatever.",
+   "status": "ok",
+   "confidence": 0.977238655090332,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 151,
+    "y0": 142,
+    "x1": 551,
+    "y1": 714
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 151,
+    "y0": 648,
+    "x1": 554,
+    "y1": 718
+   },
+   "text": "THE CHURCH.\nCardinal Gibbons, in a letter to Catholic churches, says:",
+   "status": "ok",
+   "confidence": 0.977238655090332,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 151,
+    "y0": 142,
+    "x1": 551,
+    "y1": 714
+   },
+   "exclude": [
+    [
+     179,
+     717,
+     181,
+     722,
+     "r3"
+    ],
+    [
+     189,
+     716,
+     202,
+     731,
+     "r3"
+    ],
+    [
+     204,
+     716,
+     214,
+     731,
+     "r3"
+    ],
+    [
+     324,
+     717,
+     332,
+     731,
+     "r3"
+    ],
+    [
+     336,
+     716,
+     339,
+     719,
+     "r3"
+    ],
+    [
+     352,
+     717,
+     361,
+     732,
+     "r3"
+    ],
+    [
+     415,
+     717,
+     424,
+     731,
+     "r3"
+    ],
+    [
+     518,
+     716,
+     521,
+     719,
+     "r3"
+    ],
+    [
+     524,
+     717,
+     533,
+     732,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 158,
+    "y0": 714,
+    "x1": 559,
+    "y1": 1237
+   },
+   "text": "\"The money which you have contributed of late years has been very fruitfully employed, among both the Negroes and the Indians. Our schools and churches have been supported and many new ones built.\n\n\"But the good done is very small indeed in comparison to what is yet to be done. Among the millions of Negroes in the Southern States Catholics are only a handful. In one State, for example, we have only 700 Catholics in a population of more than a million and a quarter Negroes. The religious condition of these vast multitudes is most deplorable. They are abandoned by Protestantism to themselves. Having no white ministers, they depend for their religious instruction and guidance and for their moral elevation upon preachers of their own race, who are very inadequately equipped for their duties. Only the Catholic church, with its watchfulness, its strong moral discipline and powerful religious helps, can raise the Negro to that plane which belongs to him as a man and a Christian.\"",
+   "status": "ok",
+   "confidence": 0.979105532169342,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 156,
+    "y0": 715,
+    "x1": 555,
+    "y1": 1237
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 162,
+    "y0": 1256,
+    "x1": 563,
+    "y1": 1516
+   },
+   "text": "Race feeling which developed among the Southern delegates to the Salvation Army conference held in Washington the last week in February resulted in the abandonment for the time being of the army's plans for the organization of a movement among the colored people of the United States. A storm of protest went up from the officers from the South when a Northern delegate proposed that white officers be required to conduct meetings among the colored people. They virtually de-",
+   "status": "ok",
+   "confidence": 0.9646846055984497,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 161,
+    "y0": 1254,
+    "x1": 561,
+    "y1": 1514
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 576,
+    "y0": 143,
+    "x1": 980,
+    "y1": 619
+   },
+   "text": "clared they would not assume such duties, with the result that the committee appointed at the same meeting to draft a plan for the new work was discharged before it had time to commence work.\n\nCommander Evangeline Booth, head of the American Salvation Army, said before leaving for New York that if necessary a Salvation Army with colored leaders to conduct the meetings will be organized.\n\n\"We thought it better to drop the matter temporarily,\" said Miss Booth, \"owing to the feeling among our Southern officers.\n\n\"They have worked amid a vast colored population for years, and I presume they know more about the colored people than the rest of us. I have no criticism to make against them. Our plans were never matured. I think the matter was never formally discussed among us before.",
+   "status": "ok",
+   "confidence": 0.9731366038322449,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 575,
+    "y0": 142,
+    "x1": 978,
+    "y1": 618
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 579,
+    "y0": 619,
+    "x1": 983,
+    "y1": 792
+   },
+   "text": "\"There are practically no colored people engaged in Salvation Army work in this country. In India we have native officers in command, and I suppose it would be just as well, if not better, to have colored officers here. I am confident we shall accomplish a great deal for the general welfare.\"",
+   "status": "ok",
+   "confidence": 0.9782258868217468,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 578,
+    "y0": 619,
+    "x1": 980,
+    "y1": 1088
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r6"
+  },
+  {
+   "id": "r6b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 579,
+    "y0": 792,
+    "x1": 983,
+    "y1": 1091
+   },
+   "text": "EDUCATION.\nOf the four orators who have been chosen to speak in the final contest for the Curtis Medals at Columbia University, one, G. W. A. Scott, '11, is a Negro. Scott has selected the topic \"Child Slavery.\" As a junior a year ago he competed in the Curtis contest and won one of the two medals. The three other candidates who weathered the elimination trials are A. M. Grill, '11, \"Woman Suffrage\"; P. M. Beck, '11, \"Character and Social Achievement,\" and A. W. Macmahon, '12, \"Public Opinion and the People's Rule.\"",
+   "status": "ok",
+   "confidence": 0.9782258868217468,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 578,
+    "y0": 619,
+    "x1": 980,
+    "y1": 1088
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r6"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 583,
+    "y0": 1107,
+    "x1": 988,
+    "y1": 1516
+   },
+   "text": "The greatest excitement prevails among the patrons of Roanoke College, as well as among Confederate veterans, owing to the introduction of a history of the United States which carries paragraphs relating to the treatment of Negro women in slavery days by their masters. The history is also said to vilify Robert E. Lee. The history is entitled \"A History of the United States by H. W. Elson.\" Mr. Elson is said to be a former Kansas classmate of Prof. H. J. Thorstenburg, who is Professor of History at the college.\n\nThe chief objection to the work is an extract from page 55, which reads in part:\n\n\"The most revolting feature of slavery in America, one that the historian blushes to record (but history must deal with facts) is that too often the attract-",
+   "status": "ok",
+   "confidence": 0.9791966080665588,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 583,
+    "y0": 1105,
+    "x1": 986,
+    "y1": 1513
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 1,
+  "log": [
+   "split r2 at y=648 before 'THE CHURCH.'",
+   "split r6 at y=792 before 'EDUCATION.'"
+  ]
+ }
+}

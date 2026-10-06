@@ -1,0 +1,316 @@
+{
+ "page": 34,
+ "image": "images/page_34.jpg",
+ "width": 1374,
+ "height": 2081,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 11.6,
+  "at": "2026-10-06T21:43:01+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 183,
+    "y0": 1341,
+    "x1": 1236,
+    "y1": 1940
+   },
+   "text": "My Little Love Salome\nBy L. A. PROCTOR\n\n[The writer of the following verses is a colored man employed as janitor by the Commoner and Glassworker, of Pittsburg. The poem first appeared in that magazine. We are glad to reproduce it here because of its remarkable sweetness of cadence, and we urge Mr. Proctor to persist in his work. He has undoubted talent.]\n\nI have wander'd late and early to the spot I love so dearly,\nWhere the scent of honeysuckle mingles with the tender rose.\nThere the incense sweet and holy sheathing me, I dreaming only\nWhile a subtle spell fast held me as the mist above me posed.\nA sweet fragrance as of clover all around me seem'd to hover,\nWhile a secret power charmed me and my senses idly roam'd,\nThen a magic something shower'd and a halo 'round me flowered\nWhile I courted fancy notions of my little love Salome.\n\nI have faced from climates warmer, white and dusky wily charmers,\nAnd I've watched their flirting eyelash and their actions blithe or shy\nBut withal their fetching manner did not charm me nor enamor,\nI saw nothing in their graces that was pleasing to my eye.\nBut the rose to me so sweetly cooing, loving so discreetly,\nSends a summons of devotion ev'ry place that I may roam,\nFor she is a gem completely, clad in robes precise and neatly,\nAnd the bond of love is lasting between me and sweet Salome.",
+   "status": "ok",
+   "confidence": 0.966136634349823,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 183,
+    "y0": 1337,
+    "x1": 1233,
+    "y1": 1937
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 611,
+    "y0": 120,
+    "x1": 800,
+    "y1": 151
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.7593696713447571,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 609,
+    "y0": 118,
+    "x1": 799,
+    "y1": 151
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "abandon",
+   "bbox": {
+    "x0": 179,
+    "y0": 120,
+    "x1": 215,
+    "y1": 149
+   },
+   "text": "34",
+   "status": "ok",
+   "confidence": 0.8296974301338196,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 179,
+    "y0": 120,
+    "x1": 213,
+    "y1": 146
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 179,
+    "y0": 187,
+    "x1": 694,
+    "y1": 610
+   },
+   "text": "that the English came with good intentions, they took to the woods. Major-General John Moore was called upon to take possession of the vanquished forces. \"On May 26, 1796, two thousand men, chiefly Negroes and men of color, laid down their arms, and marched out prisoners of war. It took 11,000 men over a month to take Morne Fortunee, and it is impossible to mention the island without lamenting that it has proved in every war a grave to thousands of brave men\" (B. Edwards). The historian Breen states \"never were these advantages turned to a more melancholy account than on this occasion by the Negroes of St. Lucia.\"",
+   "status": "ok",
+   "confidence": 0.976622462272644,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 180,
+    "y0": 186,
+    "x1": 688,
+    "y1": 607
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 181,
+    "y0": 608,
+    "x1": 692,
+    "y1": 1178
+   },
+   "text": "General Moore was dejected when he was informed of the boldness of the Negroes who had taken to the woods. In a letter to his superior officer he said: \"I am involved in a most disagreeable scene, a considerable number of the Negroes are in the woods in arms.\" Seeing it was impossible to overcome their daring and stubborn persistency to harass his outposts, he again wrote Gen. Abercrombie: \"The Negroes in the island are to a man attached to the French cause; neither hanging, threats or money would obtain for me any intelligence from them. If the island is a desirable acquisition an immediate stop must be put to the present troubles by sending a body of 800 or 1,000 blacks (soldiers) to scour the woods, whilst the British, whom I find from experience incapable of acting in the interior, occupy positions on the coast.\" (Sir John Moore's Diary.)",
+   "status": "ok",
+   "confidence": 0.9779647588729858,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 182,
+    "y0": 607,
+    "x1": 688,
+    "y1": 1172
+   },
+   "exclude": [
+    [
+     212,
+     1177,
+     227,
+     1196,
+     "r5"
+    ],
+    [
+     231,
+     1177,
+     242,
+     1195,
+     "r5"
+    ],
+    [
+     315,
+     1177,
+     334,
+     1195,
+     "r5"
+    ],
+    [
+     326,
+     1177,
+     333,
+     1180,
+     "r5"
+    ],
+    [
+     338,
+     1177,
+     340,
+     1179,
+     "r5"
+    ],
+    [
+     500,
+     1177,
+     502,
+     1179,
+     "r5"
+    ],
+    [
+     522,
+     1177,
+     524,
+     1179,
+     "r5"
+    ],
+    [
+     529,
+     1177,
+     540,
+     1196,
+     "r5"
+    ],
+    [
+     544,
+     1177,
+     548,
+     1195,
+     "r5"
+    ],
+    [
+     641,
+     1177,
+     644,
+     1180,
+     "r5"
+    ],
+    [
+     648,
+     1177,
+     659,
+     1196,
+     "r5"
+    ],
+    [
+     676,
+     1177,
+     687,
+     1196,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 183,
+    "y0": 1174,
+    "x1": 691,
+    "y1": 1249
+   },
+   "text": "Charles Kingsley has vividly described the events which followed: \"Those glens and forests of St. Lucia, over them and",
+   "status": "ok",
+   "confidence": 0.9539376497268677,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 182,
+    "y0": 1174,
+    "x1": 689,
+    "y1": 1248
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "figure",
+   "bbox": {
+    "x0": 629,
+    "y0": 1272,
+    "x1": 782,
+    "y1": 1317
+   },
+   "text": "==========================================================",
+   "status": "ok",
+   "confidence": 0.4618443250656128,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 629,
+    "y0": 1272,
+    "x1": 781,
+    "y1": 1317
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 722,
+    "y0": 182,
+    "x1": 1239,
+    "y1": 612
+   },
+   "text": "through them,\" he writes, \"Sir John Moore and Sir Ralph Abercrombie fought, week after week, month after month, not merely against French soldiers, but against worse enemies, 'brigands,' as the poor fellows were called—Negroes liberated by the Revolution of 1792. With their heads full (and who can blame them?) of the 'Rights of Man' and the democratic teachings of that valiant and able friend of Robespierre, Victor Hugues, they had destroyed their masters, man, woman and child, horribly enough, and then helped to drive out of the island the invading English, who were already half destroyed, not with fighting, but with fever.",
+   "status": "ok",
+   "confidence": 0.9779720306396484,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 723,
+    "y0": 182,
+    "x1": 1236,
+    "y1": 608
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 723,
+    "y0": 615,
+    "x1": 1237,
+    "y1": 1253
+   },
+   "text": "\"The poor black fellows, who only knew that they were free and intended to remain free, took to the bush, and fed on the wild cush-cush roots and the plunder of the plantations, man hunting, murdering French and English alike, and being put to death on return whenever caught. Gentle Abercrombie could not coax them into peace; stern Moore could not shoot and hang them into it, and the 'brigand' war dragged hideously on till Moore, who was nearly caught by them in a six-oared boat off the Pitons, had to row for life to St. Vincent, so saving himself for the glory of the Corunna—was all but dead of fever, and Col. James Drummond had to carry on the miserable work till the whole 'Armee Francais dans les bois' laid down their rusty muskets on the one condition that free they had been, and free they should remain. So they were formed into an English regiment and sent to fight on the coast of Africa, and in more senses than one 'went to their own place.'\"",
+   "status": "ok",
+   "confidence": 0.9794082045555115,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 723,
+    "y0": 613,
+    "x1": 1234,
+    "y1": 1249
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

@@ -1,0 +1,534 @@
+{
+ "page": 13,
+ "image": "images/page_13.jpg",
+ "width": 1390,
+ "height": 2077,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.8,
+  "at": "2026-10-06T21:11:29+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 578,
+    "y0": 131,
+    "x1": 724,
+    "y1": 162
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.6508185267448425,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 573,
+    "y0": 130,
+    "x1": 720,
+    "y1": 161
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 128,
+    "y0": 198,
+    "x1": 640,
+    "y1": 643
+   },
+   "text": "world's anti-slavery convention and to represent it in the world's peace convention held the same year in London. He addressed the anti-slavery convention at considerable length. Dr. Penington was much in demand as a speaker during his stay in England and preached in many of the prominent churches. \"Henry Highland Garnet, of New York, is another Negro clergyman who may be said to have been pre-eminent as a preacher. He was the first Negro Chaplain of the National House of Representatives by special invitation. President Arthur made him United States Minister to Liberia in 1881. He died there after a residence of about one year, honored and respected by his race on both sides of the Atlantic.",
+   "status": "ok",
+   "confidence": 0.9733927249908447,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 128,
+    "y0": 197,
+    "x1": 636,
+    "y1": 641
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 129,
+    "y0": 640,
+    "x1": 641,
+    "y1": 967
+   },
+   "text": "\"Dr. Alexander Crummell, late pastor of St. Luke's Protestant Episcopal Church, Washington, was graduated from Oxford University in England. He was president of Liberia College for some time, and was a preacher of great force and power. His books, 'The Greatness of Christ' and 'Africa and America' are masterpieces of good English. The Rev. J. B. Reeve, of Philadelphia, is one of the ablest and most scholarly Negro clergymen of the present day. He is a fine Greek and Hebrew scholar and an eloquent and instructive preacher.",
+   "status": "ok",
+   "confidence": 0.601170003414154,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 128,
+    "y0": 643,
+    "x1": 637,
+    "y1": 961
+   },
+   "exclude": [
+    [
+     159,
+     963,
+     163,
+     971,
+     "r3"
+    ],
+    [
+     165,
+     963,
+     169,
+     971,
+     "r3"
+    ],
+    [
+     171,
+     962,
+     188,
+     982,
+     "r3"
+    ],
+    [
+     190,
+     964,
+     202,
+     982,
+     "r3"
+    ],
+    [
+     226,
+     964,
+     245,
+     983,
+     "r3"
+    ],
+    [
+     288,
+     964,
+     299,
+     986,
+     "r3"
+    ],
+    [
+     315,
+     964,
+     327,
+     983,
+     "r3"
+    ],
+    [
+     354,
+     964,
+     369,
+     983,
+     "r3"
+    ],
+    [
+     371,
+     964,
+     383,
+     983,
+     "r3"
+    ],
+    [
+     413,
+     964,
+     416,
+     967,
+     "r3"
+    ],
+    [
+     462,
+     964,
+     470,
+     983,
+     "r3"
+    ],
+    [
+     482,
+     964,
+     508,
+     983,
+     "r3"
+    ],
+    [
+     523,
+     965,
+     535,
+     983,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 130,
+    "y0": 959,
+    "x1": 642,
+    "y1": 1235
+   },
+   "text": "\"The Rev. John Chavis, of Wake county, N. C., had the remarkable distinction of being not only a great preacher, who preached to white congregations only, up to 1833, throughout Wake county, N. C., but was the first Negro to open a classical school in the South for white youths. He was proficient in Greek, Hebrew and French. The accomplishments of such men as I have mentioned entitle them, I think, to be called pre-eminent.\"",
+   "status": "ok",
+   "confidence": 0.5585105419158936,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 129,
+    "y0": 960,
+    "x1": 637,
+    "y1": 1231
+   },
+   "exclude": [
+    [
+     253,
+     945,
+     279,
+     962,
+     "r2"
+    ],
+    [
+     537,
+     946,
+     548,
+     964,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "title",
+   "bbox": {
+    "x0": 129,
+    "y0": 1265,
+    "x1": 642,
+    "y1": 1765
+   },
+   "text": "A LATTER-DAY DRED SCOTT.\nThe Providence Journal thinks that Pink Franklin's case, with which the readers of THE CRISIS are familiar, may not become as famous as that of Dred Scott, but that he has certainly been an object of solicitude to courts, statesmen and people over a wide area.\n\"So far as Pink himself is concerned,\" remarks the Journal, \"interest in his celebrated case is probably satisfied by his escape from the gallows. The offence for which his arrest was attempted was a violation of an agricultural contract statute, of a nature which, in an Alabama case, the Supreme Court of the United States has since decided to be unconstitutional. The Supreme Court of South Carolina had already declared this statute unconstitutional.",
+   "status": "ok",
+   "confidence": 0.9752653241157532,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 129,
+    "y0": 1263,
+    "x1": 638,
+    "y1": 1762
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 128,
+    "y0": 1763,
+    "x1": 642,
+    "y1": 1937
+   },
+   "text": "\"The Supreme Court of the United States, appealed to for relief, failed to be convinced that the verdict essentially disregarded the unconstitutionality of the statute. The record afforded no sufficient ground for doubting that what the jury considered was whether Pink Franklin was",
+   "status": "ok",
+   "confidence": 0.9746049642562866,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 128,
+    "y0": 1763,
+    "x1": 637,
+    "y1": 1937
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1148,
+    "y0": 127,
+    "x1": 1181,
+    "y1": 157
+   },
+   "text": "13",
+   "status": "ok",
+   "confidence": 0.8209744095802307,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1144,
+    "y0": 127,
+    "x1": 1178,
+    "y1": 154
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 671,
+    "y0": 194,
+    "x1": 1181,
+    "y1": 568
+   },
+   "text": "warranted in resisting arrest with deadly vigor. Technicalities aside, the fact remained apparent that the Negro was initially the victim of an illegal procedure. The warrant should never have been issued. \"At the thrilling juncture where Pink Franklin found himself, with the court of last resort heard from, facing the gallows, the National Association for the Advancement of Colored People appealed to President Taft, who appealed in turn to the Governor of South Carolina, who on the eve of his retirement has now commuted Pink Franklin's sentence to life imprisonment.",
+   "status": "ok",
+   "confidence": 0.7536059617996216,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 669,
+    "y0": 195,
+    "x1": 1177,
+    "y1": 567
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 671,
+    "y0": 565,
+    "x1": 1182,
+    "y1": 1154
+   },
+   "text": "\"Peonage in the South has been responsible for so much mischief that, irrespective of race or color, there ought to be general satisfaction at Pink Franklin's escape from contributing with his life to the evil record.\"\n\nWAS HANNIBAL A NEGRO?\n\nGeneral Burt's article on the Negro soldier, reprinted elsewhere in this magazine, aroused some discussion. Dr. G. Harrison wrote to the New York Evening Post saying that he had no criticism to make of the heroism of the colored soldiers, but he would would like to know on what authority Clitus, the Macedonian cavalry commander, and Hannibal and the Carthaginians are classed as Negroes.\n\n\"I do not think,\" adds Dr. Harrison, \"that the Abyssinians are considered Negroes. I would like to know what authority the author has for the number of Negro soldiers he states served in the Revolutionary War.\"",
+   "status": "ok",
+   "confidence": 0.9675222039222717,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 670,
+    "y0": 566,
+    "x1": 1178,
+    "y1": 1149
+   },
+   "exclude": [
+    [
+     699,
+     1152,
+     716,
+     1171,
+     "r9"
+    ],
+    [
+     779,
+     1153,
+     785,
+     1171,
+     "r9"
+    ],
+    [
+     800,
+     1152,
+     815,
+     1171,
+     "r9"
+    ],
+    [
+     900,
+     1153,
+     905,
+     1171,
+     "r9"
+    ],
+    [
+     909,
+     1152,
+     912,
+     1156,
+     "r9"
+    ],
+    [
+     927,
+     1153,
+     939,
+     1171,
+     "r9"
+    ],
+    [
+     989,
+     1153,
+     997,
+     1171,
+     "r9"
+    ],
+    [
+     1013,
+     1153,
+     1018,
+     1171,
+     "r9"
+    ],
+    [
+     1020,
+     1153,
+     1026,
+     1171,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 669,
+    "y0": 1149,
+    "x1": 1183,
+    "y1": 1621
+   },
+   "text": "General Burt replied as follows: \"In the New York Herald was published during the St. Louis Exposition extracts from the diary of Baron von Clausen, a German army officer, who came to the country during the Revolutionary War and visited General Washington's camp at White Plains, N. Y. Among other interesting things which this diary contained was the statement that 'of the 20,000 soldiers in this camp one-fourth of them are Negroes, and the best-drilled and disciplined regiment here is one from Rhode Island, three-fourths of which are composed of Negroes.' Again, in G. W. Williams' admirable history of the Negro soldier Dr. Harrison will find much valuable data regarding the military services of the black man in our war for independence.",
+   "status": "ok",
+   "confidence": 0.9772104620933533,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 671,
+    "y0": 1150,
+    "x1": 1178,
+    "y1": 1613
+   },
+   "exclude": [
+    [
+     733,
+     1134,
+     755,
+     1151,
+     "r8"
+    ],
+    [
+     699,
+     1619,
+     704,
+     1626,
+     "r10"
+    ],
+    [
+     705,
+     1619,
+     710,
+     1627,
+     "r10"
+    ],
+    [
+     712,
+     1619,
+     730,
+     1637,
+     "r10"
+    ],
+    [
+     762,
+     1619,
+     782,
+     1637,
+     "r10"
+    ],
+    [
+     820,
+     1619,
+     823,
+     1622,
+     "r10"
+    ],
+    [
+     899,
+     1619,
+     912,
+     1637,
+     "r10"
+    ],
+    [
+     937,
+     1619,
+     946,
+     1637,
+     "r10"
+    ],
+    [
+     1065,
+     1619,
+     1077,
+     1638,
+     "r10"
+    ],
+    [
+     1105,
+     1619,
+     1109,
+     1622,
+     "r10"
+    ],
+    [
+     1146,
+     1619,
+     1154,
+     1638,
+     "r10"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 671,
+    "y0": 1616,
+    "x1": 1184,
+    "y1": 1938
+   },
+   "text": "\"Dr. Harrison asks for my authority for stating that Clitus (Alexander the Great's foster brother—Enc. Britannica) was a Negro. The proofs concerning the ethnic origin of Clitus were obtained from Mr. Daniel Murray, who for about thirty years has been an assistant to the Librarian of Congress, and has collected more than 25,000 biographies of people of African origin, which is soon to be published. Among these biographical sketches is that of Clitus, Alexander's great cavalry leader, the Phil Sheridan of his time.",
+   "status": "ok",
+   "confidence": 0.9740948677062988,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 671,
+    "y0": 1617,
+    "x1": 1179,
+    "y1": 1937
+   },
+   "exclude": [
+    [
+     1047,
+     1601,
+     1060,
+     1618,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.09,
+  "box_overlaps_after": 6,
+  "log": []
+ }
+}

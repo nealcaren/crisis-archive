@@ -1,0 +1,71 @@
+{
+  "page": 38,
+  "image": "images/page_38.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 390,
+        "y0": 96,
+        "x1": 748,
+        "y1": 125
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8451572060585022,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 157,
+        "y0": 98,
+        "x1": 983,
+        "y1": 229
+      },
+      "text": "WHERE TO STOP",
+      "status": "ok",
+      "confidence": 0.853623628616333,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 214,
+        "y0": 262,
+        "x1": 925,
+        "y1": 385
+      },
+      "text": "Our readers are urged to use these columns in outlining their vacation and travel plans. These hotels and stopping places are modern in every sense, and the traveling public is assured comfort and efficient service. For detailed information concerning resorts and hotels write",
+      "status": "ok",
+      "confidence": 0.7905018329620361,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "table",
+      "bbox": {
+        "x0": 154,
+        "y0": 445,
+        "x1": 985,
+        "y1": 1524
+      },
+      "text": "NEW YORK CITY\n\nMarshall's Hotel\n127-129 West 53d Street\nNEW YORK CITY\n\nCOMFORT—Large, airy rooms, offering genuine home comforts plus the conveniences and privileges of a modern hotel.\n\nSERVICE—In the hotel and dining room the \"Marshall\" service is an exceptional feature, which assures comfort and pleasure for our patrons.\n\nRestaurant open all night. Cuisine to satisfy the most discriminating VOCAL AND INSTRUMENTAL MUSIC EVERY EVENING\n\nBreakfast, 7:30 to 12:30, 30c. Luncheon, 12:30 to 3, 30c. Dinner, 6 to 8, 35c.\n\nSpecial Course Dinner Every Sunday and Holidays, 50c.\n\nTelephones 4693 - 4694 Columbus J. L. MARSHALL, Proprietor\n\nTHE CLIFF HOUSE\n253 WEST 134TH STREET\nNEWLY OPENED\n\nSpecial summer rates to permanent or transient guests. Special attention to out-of-town tourists. Up-to-date private house in every respect. Telephone connection.\n\nMRS. W. E. PERKINS, Prop.\n\nTelephone 4121 Harlem\n\n\"THE IDLE HOUR\"\nMrs. P. Brown\n\nHANDSOME FURNISHED ROOMS\nWith All Improvements\n\nPermanent and Transient Guests Accommodated\n\nMEALS SERVED AT ALL HOURS\n77 WEST 134TH STREET NEW YORK\n\n'Phone 2877 Lenox\n\nWHITE ROSE WORKING GIRLS' HOME\n217 East 86th Street\nBet. Second and Third Avenues\n\nPleasant temporary lodgings for working girls, with privileges, at reasonable rates. The Home solicits orders for working dresses, aprons, etc.\n\nAddress:\nMRS. FRANCES R. KEYSER, Supt.\n\n'Phone Chelsea 2957\n\nTHE TEN EYCK HOUSE\n232 WEST 20TH STREET\nBetween 7th and 8th Avenues NEW YORK\n\nNeatly Furnished Rooms for Permanent or Transient Guests by Day or Week\n\nMRS. THOMAS L. TEN EYCK, Proprietress\n\n\"A quiet place for quiet people to dine\"\n\n\"THE BRADFORD\"\n73 WEST 134TH STREET\n\nBetween Fifth and Lenox Avenues NEW YORK\n\nOysters, Chops, Steaks, Rarebits, Salads, Club Sandwiches, Etc. Regular Dinner, 25c., from 2 p. m. to 9 p. m. Meals Served at All Hours.\n\nPrivate Dining Room. Furnished Rooms To Let. Permanent or Transient.\n\nJOHN E. BRADFORD, Proprietor\n\nTHE ALLEN HOUSE\n62 WEST 132D STREET\n\nSELECT, NEATLY FURNISHED ROOMS\n\nAll Improvements\n\nWash-rooms, hot and cold water in every room\n\nFOR RENT BY DAY OR WEEK\n\nPrices Moderate\n\nMRS. M. A. ANDERSON JOHNSON\n\nTHE ROSALINE\n128 WEST 29TH STREET NEW YORK\n\nFURNISHED ROOMS\n\nBY DAY OR WEEK\n\nEDWARD D. SMALL, Proprietor\n\nTelephone 5395 Chelsea\n\nTHE LAWS HOUSE\nFURNISHED ROOMS\n\nBY DAY, WEEK OR MONTH\n\nConvenient to the Pennsylvania Depot and All Car Lines\n\n245 WEST 20TH STREET NEW YORK\n\nMRS. L. D. LAWS, Proprietress",
+      "status": "ok",
+      "confidence": 0.30092763900756836,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 15.5,
+    "at": "2026-10-06T22:15:03+00:00"
+  }
+}

@@ -1,0 +1,329 @@
+{
+ "page": 27,
+ "image": "images/page_27.jpg",
+ "width": 1369,
+ "height": 2078,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.6,
+  "at": "2026-10-06T21:41:52+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 480,
+    "y0": 119,
+    "x1": 805,
+    "y1": 148
+   },
+   "text": "THE N. A. A. C. P.",
+   "status": "ok",
+   "confidence": 0.8870810866355896,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 479,
+    "y0": 117,
+    "x1": 804,
+    "y1": 148
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 657,
+    "y0": 185,
+    "x1": 1164,
+    "y1": 827
+   },
+   "text": "His crime was shooting his landlord who had three times shot him merely because Greene had refused to renew his lease at an advance of almost 100 per cent. in rent. The details of this wounded man's flight, his hiding on a Mississippi River sand bank, his arrest in Chicago, his being placed on a train by officers of the law who said to him: \"Steve, you are the most popular man in Arkansas there are three thousand people waiting to burn you when we get back;\" his being rescued by the last sheriff in Illinois, thanks again to the great writ of habeas corpus, and his finally being smuggled into Canada as if he were a fugitive slave and the year 1856—all of these things make thrilling reading, furnish material for a new Uncle Tom's Cabin, just as they portray a fearful state of civilization for the year 1911. They also explain why it is that the National Association finds work without end to do, and thousands who acclaim its entrance into active service on behalf of the colored people.",
+   "status": "ok",
+   "confidence": 0.9776347875595093,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 656,
+    "y0": 183,
+    "x1": 1162,
+    "y1": 822
+   },
+   "exclude": [
+    [
+     685,
+     825,
+     702,
+     844,
+     "r4"
+    ],
+    [
+     819,
+     826,
+     822,
+     828,
+     "r4"
+    ],
+    [
+     850,
+     826,
+     852,
+     828,
+     "r4"
+    ],
+    [
+     887,
+     826,
+     890,
+     833,
+     "r4"
+    ],
+    [
+     1077,
+     826,
+     1088,
+     844,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 113,
+    "y0": 185,
+    "x1": 625,
+    "y1": 631
+   },
+   "text": "average per year to each teacher of $51.54. Can anyone with sane senses believe that the education given here merits that name, or that any child can master the rudiments of an education even if he should attend these schools for ten terms of 65 days? It was only the other day that the Superintendent of Education in South Carolina declared that the rural colored schools of the State, inadequate as they are, were wholly without any supervision or inspection, or settled State policy. This Association believes that public education of the colored child in the South is steadily retrograding, and it asks for the means to make a scientific investigation and to demonstrate these facts to the country.",
+   "status": "ok",
+   "confidence": 0.9774033427238464,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 116,
+    "y0": 186,
+    "x1": 621,
+    "y1": 624
+   },
+   "exclude": [
+    [
+     146,
+     629,
+     154,
+     647,
+     "r3"
+    ],
+    [
+     226,
+     629,
+     229,
+     632,
+     "r3"
+    ],
+    [
+     390,
+     629,
+     401,
+     647,
+     "r3"
+    ],
+    [
+     406,
+     629,
+     409,
+     632,
+     "r3"
+    ],
+    [
+     526,
+     629,
+     533,
+     648,
+     "r3"
+    ],
+    [
+     575,
+     629,
+     578,
+     632,
+     "r3"
+    ],
+    [
+     210,
+     630,
+     222,
+     648,
+     "r3"
+    ],
+    [
+     233,
+     630,
+     245,
+     648,
+     "r3"
+    ],
+    [
+     247,
+     630,
+     252,
+     647,
+     "r3"
+    ],
+    [
+     285,
+     630,
+     296,
+     648,
+     "r3"
+    ],
+    [
+     313,
+     630,
+     324,
+     648,
+     "r3"
+    ],
+    [
+     559,
+     630,
+     570,
+     648,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 113,
+    "y0": 626,
+    "x1": 625,
+    "y1": 1755
+   },
+   "text": "Incredibly bad as this state of things is we are less apt to be shocked by it than by the cases of individual hardship and injustice. In this field the Association has turned no deaf ear to any individual appeal for aid. Thus in the case of Thomas Williams, an Asbury Park, N. J., Negro, accused of committing the most fearful of crimes upon a white child, whose dead body was found on Thanksgiving Day, the Association acted as soon as its attention was called to this case. Of course the sensational New York newspapers saw to that. They had on their first pages great startling headlines telling what the \"Negro brute\" had done, and so great was the excitement at Asbury Park that the man would have been lynched—almost in sight of New York—had there not been a determined sheriff who, after standing off the mob, rushed his prisoner in an automobile to the Freehold, N. J., jail, and there this unfortunate was subjected, as he told our attorney, to every form of that torture which is known as the third degree, another species of lynching and quite as lawless. \"They did everything to me but electrocute me,\" he told our attorney, when, after considerable difficulty, he forced his way to the prisoner. Through habeas corpus proceedings it was possible to free this innocent man after the Grand Jury had failed to indict. But though the Judge thanked the Association for its services in the matter, not one word about the exculpation of this black man appeared in those newspapers which had devoted their most conspicuous columns to the horror of his alleged crime. Not even when the real murderer, a young white man, was detected did any newspaper do justice to the black man; nor did they place the word WHITE all through their story of the confession of the murderer.",
+   "status": "ok",
+   "confidence": 0.9750885963439941,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 113,
+    "y0": 627,
+    "x1": 621,
+    "y1": 1753
+   },
+   "exclude": [
+    [
+     353,
+     612,
+     366,
+     628,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 652,
+    "y0": 822,
+    "x1": 1163,
+    "y1": 1932
+   },
+   "text": "The Association's year now under review has been one of steady progress despite the difficulty of campaigning while organizing and building up, not only the membership of the Association but its national headquarters and local organizations in New York, Chicago and elsewhere. The Bureau of Publicity and Research began work on September 1 last, since which time it has carried on a heavy correspondence, and as the report of the Director will show, there have been given under its auspices fifty-eight lectures on subjects pertaining to the cause, at which 21,000 persons have been reached. Our monthly, THE CRISIS, has met with astounding success, and although but half a year old has already a circulation of 10,000 copies. Subject to the approval of the Association, papers have been drawn for its incorporation under the laws of the State of New York, and by-laws have been prepared. A Civil Rights Committee has been formed under the chairmanship of Mr. Thomas Ewing, Jr., and is in readiness to cooperate with those who seek to test in the Supreme Court of the United States the Jim Crow and Disfranchisement Clause recently placed on the statute books of Oklahoma, and with those who are ready to oppose any segregation ordinance in Baltimore or elsewhere, as well as with those who have the curiosity to ascertain if the New York laws forbidding race discrimination are, or are not, dead letters. From a most valued member of our Executive Committee, Miss Jane Addams, of Chicago, has come an urgent request for a similar testing of the laws in Illinois, to which it is hoped to respond ere long. As Miss Addams has expressed it: \"If the National Association for the Advancement of Colored People will soberly take up every flag-",
+   "status": "ok",
+   "confidence": 0.9720643162727356,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 654,
+    "y0": 824,
+    "x1": 1160,
+    "y1": 1929
+   },
+   "exclude": [
+    [
+     892,
+     807,
+     904,
+     824,
+     "r1"
+    ],
+    [
+     849,
+     808,
+     861,
+     824,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 110,
+    "y0": 1753,
+    "x1": 622,
+    "y1": 1932
+   },
+   "text": "To give you one other case in which the Association has acted successfully, this time through its Chicago members, I would refer to the case of Steve Greene, an Arkansas Negro, who succeeded in escaping the lynching mob and getting to Chicago after incredible hardships.",
+   "status": "ok",
+   "confidence": 0.9714264273643494,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 111,
+    "y0": 1755,
+    "x1": 619,
+    "y1": 1928
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1126,
+    "y0": 119,
+    "x1": 1163,
+    "y1": 147
+   },
+   "text": "27",
+   "status": "ok",
+   "confidence": 0.8345001935958862,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1126,
+    "y0": 118,
+    "x1": 1160,
+    "y1": 145
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 7,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 3,
+  "log": []
+ }
+}

@@ -1,0 +1,197 @@
+{
+  "page": 9,
+  "image": "images/page_09.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 318,
+        "y0": 104,
+        "x1": 690,
+        "y1": 130
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8792564868927002,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 155,
+        "x1": 916,
+        "y1": 368
+      },
+      "text": "The Rev. E. C. Morris, president of the National Baptist Convention of North America, has been honored by being made one of the American members of the executive committee of the Baptist World Alliance. The colored Baptists of America have now suitable recognition in this international association. Dr. Morris has been prominent in the Alliance since the first meeting, held in London six years ago.",
+      "status": "ok",
+      "confidence": 0.9721121788024902,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 157,
+        "x1": 493,
+        "y1": 426
+      },
+      "text": "ing promiscuously. \"The white and black employees are prohibited from riding to the factory or laundry in the same compartments of cars, or eating in the same restaurant or confectionery, and yet they are permitted to work all day together.\" All of which distresses her, but there is no law prohibiting it. To get their licenses to work, too, \"pretty timid little white girls\" have to stand in line with colored girls, and even with colored boys. The inspector thinks there should be separation but hasn't been able to \"study out\" a way.",
+      "status": "ok",
+      "confidence": 0.968896746635437,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 519,
+        "y0": 375,
+        "x1": 915,
+        "y1": 720
+      },
+      "text": "An exhibition of mission work called \"The Orient in Providence,\" is planned in Providence, R. I., and representative Negroes have protested against a proposed drawing of the color line. A meeting of colored ministers proposed that their churches withdraw from the movement. \"While all other churches are grouped according to locality, the Negro churches are all grouped by themselves,\" the ministers say in their statement. \"This narrow, unchristian spirit is resented by the colored people. It is strange that a 'missionary exposition' in reference to the people of China, Japan and Korea cannot be given in Providence without also giving an exhibition of race prejudice.\"",
+      "status": "ok",
+      "confidence": 0.9446651935577393,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 99,
+        "y0": 433,
+        "x1": 493,
+        "y1": 919
+      },
+      "text": "From 1900 to 1910 the number of farms in South Carolina increased by 20,825; but the number owned by Negroes increased by 11,295 against an increase of only 9,530 in the number owned by whites. In a total of 176,180 farms, 96,696, or more than one-half, are now owned by colored people.\nThe City Times, of Galveston, gives some statistics about that city's colored population of 8,000 souls. They are engaged in twenty-nine different industries and professions. There are three public schools, one Catholic school, together representing an attendance of about 1,200. Over 250 homes are owned in the city of Galveston alone, valued at about $200,000. There are fifteen churches, their property representing about $120,000. There are eight organizations in Galveston, owning real estate to the value of about $75,000. The total wealth of the colored people in Galveston from all sources will fairly represent a sum over $600,000.",
+      "status": "ok",
+      "confidence": 0.9756927490234375,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 728,
+        "x1": 914,
+        "y1": 1013
+      },
+      "text": "In keeping with its policy of turning its large colored schools over to the management of Negroes as soon as practicable, the American Baptist Home Mission Society has recently named Prof. Z. T. Hubert, president of Jackson College, Jackson, Miss., to succeed Dr. Luther G. Barrett, a white man. Mr. Hubert is a graduate of Atlanta Baptist College, of Massachusetts Agricultural College and Boston University, and has had long experience as a teacher in the Florida State Agricultural College and with the Home Mission schools in Atlanta.",
+      "status": "ok",
+      "confidence": 0.9758031368255615,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 99,
+        "y0": 927,
+        "x1": 493,
+        "y1": 1158
+      },
+      "text": "Answering the question why there are so few Negro members of the molders' union, the International Molders' Journal says that the largest union in the South has recently voted to take qualified Negro mechanics into membership, and that, while this action may not be in line with the prevailing sentiment of twenty years ago, it is in line with justice both to whites and to Negroes, \"for industrial competition pays no heed to questions of social equality.\"",
+      "status": "ok",
+      "confidence": 0.9746187329292297,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1084,
+        "x1": 914,
+        "y1": 1316
+      },
+      "text": "A council of presidents of the schools of the African Methodist Episcopal Church was formed by the sixteen heads of colleges attending the convention in connection with the Wilberforce University commencement. John R. Hawkins, of Kittrell, N. C., secretary of education, was elected president, and J. A. Jones, of Turner Normal School, Nashville, Tenn., secretary. Special committees on college work and general school management were named.",
+      "status": "ok",
+      "confidence": 0.9774615168571472,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 99,
+        "y0": 1218,
+        "x1": 494,
+        "y1": 1506
+      },
+      "text": "The New England Colored Baptists' Missionary convention, in Providence, voted to send a delegation of 5,000 to Washington, with a committee of fifteen for spokesmen, to tell President Taft of the wrongs the race suffers in the South. None of the details were fixed, but a member of the executive committee said that they would probably gather in a Washington church and ask President Taft to address them, and send the committee to the White House later. The plan was introduced by the Rev. G. L. P. Taliaferro, D.D., editor of the Christian Banner, of Philadelphia.",
+      "status": "ok",
+      "confidence": 0.9772008657455444,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 519,
+        "y0": 1323,
+        "x1": 915,
+        "y1": 1506
+      },
+      "text": "The Tennessee State Board of Education is receiving bids for the Negro normal school to be erected near Nashville.\nThe color question in the public schools is before the Supreme Court of Illinois. Aaron Brown, of Quincy, has two children, nine and twelve years old. The board of education of Quincy built a school for the colored children of the",
+      "status": "ok",
+      "confidence": 0.8896744847297668,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 227,
+        "y0": 1189,
+        "x1": 364,
+        "y1": 1211
+      },
+      "text": "RELIGIOUS.",
+      "status": "ok",
+      "confidence": 0.9048091769218445,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 876,
+        "y0": 105,
+        "x1": 912,
+        "y1": 126
+      },
+      "text": "141",
+      "status": "ok",
+      "confidence": 0.8130309581756592,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 642,
+        "y0": 1055,
+        "x1": 789,
+        "y1": 1077
+      },
+      "text": "EDUCATION.",
+      "status": "ok",
+      "confidence": 0.8995822668075562,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.0,
+    "at": "2026-10-06T22:10:45+00:00"
+  }
+}

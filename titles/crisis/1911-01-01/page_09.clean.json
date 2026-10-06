@@ -1,0 +1,511 @@
+{
+ "page": 9,
+ "image": "images/page_09.jpg",
+ "width": 1080,
+ "height": 1580,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.9,
+  "at": "2026-10-06T21:02:35+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 108,
+    "y0": 76,
+    "x1": 926,
+    "y1": 211
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.5338326692581177,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 314,
+    "y0": 112,
+    "x1": 713,
+    "y1": 173
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "OPINION",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 157,
+    "y0": 233,
+    "x1": 456,
+    "y1": 254
+   },
+   "text": "THE APPEAL TO EUROPE.",
+   "status": "ok",
+   "confidence": 0.8727840781211853,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 157,
+    "y0": 231,
+    "x1": 453,
+    "y1": 254
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 530,
+    "y0": 233,
+    "x1": 924,
+    "y1": 313
+   },
+   "text": "When we seek to buy property in better quarters we are sometimes in danger of mob violence or, as now in Baltimore, of actual legislation to prevent.",
+   "status": "ok",
+   "confidence": 0.9600748419761658,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 529,
+    "y0": 232,
+    "x1": 922,
+    "y1": 309
+   },
+   "exclude": [
+    [
+     562,
+     312,
+     582,
+     326,
+     "r4"
+    ],
+    [
+     639,
+     312,
+     645,
+     326,
+     "r4"
+    ],
+    [
+     674,
+     312,
+     693,
+     326,
+     "r4"
+    ],
+    [
+     736,
+     312,
+     756,
+     326,
+     "r4"
+    ],
+    [
+     775,
+     312,
+     779,
+     326,
+     "r4"
+    ],
+    [
+     896,
+     312,
+     903,
+     326,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 262,
+    "x1": 504,
+    "y1": 510
+   },
+   "text": "On October 26 a statement and appeal was sent to Europe signed by thirty-two Negro Americans. The appeal was not sent out by the National Association for the Advancement of Colored People, nor did the association stand sponsor for it. It was sent solely on the authority of the men who signed it. These men include two editors, one dentist, seven lawyers, two ministers, two bishops, three physicians, one teacher, two presidents of educational institutions, one member of a Legislature and others.",
+   "status": "ok",
+   "confidence": 0.978633463382721,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 110,
+    "y0": 260,
+    "x1": 503,
+    "y1": 509
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 531,
+    "y0": 310,
+    "x1": 925,
+    "y1": 677
+   },
+   "text": "\"We are forced to take lower wages for equal work, and our standard of living is then criticised. Fully half the labor unions refuse us admittance, and then claim that as 'scabs' we lower the price of labor.\n\n\"A persistent caste proscription seeks to force us and confine us to menial occupations where the conditions of work are worst.\n\n\"Our women in the South are without protection in law and custom, and are then derided as lewd. A widespread system of deliberate public insult is customary, which makes it difficult, if not impossible, to secure decent accommodation in hotels, railway trains, restaurants and theatres, and even in the Christian church we are in most cases given to understand that we are unwelcome unless segregated.",
+   "status": "ok",
+   "confidence": 0.9780893921852112,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 529,
+    "y0": 310,
+    "x1": 923,
+    "y1": 675
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 511,
+    "x1": 506,
+    "y1": 874
+   },
+   "text": "This appeal, after stating that its signers do not agree with Mr. Washington's picture of conditions here, states the following grievances:\n\n\"Our people were emancipated in a whirl of passion, and then left naked to the mercies of their enraged and impoverished exmasters. As our sole means of defense we were given the ballot, and we used it so as to secure the real fruits of the war. Without it we would have returned to slavery; with it we struggled toward freedom. No sooner, however, had we rid ourselves of nearly two-thirds of our illiteracy and accumulated $600,000,000 worth of property in a generation, than this ballot, which had become increasingly necessary to the defense of our civil and property rights, was taken from us by force and fraud.",
+   "status": "ok",
+   "confidence": 0.9773311018943787,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 110,
+    "y0": 511,
+    "x1": 503,
+    "y1": 870
+   },
+   "exclude": [
+    [
+     156,
+     873,
+     184,
+     888,
+     "r7"
+    ],
+    [
+     217,
+     873,
+     220,
+     875,
+     "r7"
+    ],
+    [
+     254,
+     873,
+     257,
+     875,
+     "r7"
+    ],
+    [
+     270,
+     873,
+     279,
+     887,
+     "r7"
+    ],
+    [
+     299,
+     872,
+     310,
+     887,
+     "r7"
+    ],
+    [
+     379,
+     873,
+     388,
+     887,
+     "r7"
+    ],
+    [
+     435,
+     873,
+     444,
+     887,
+     "r7"
+    ],
+    [
+     465,
+     873,
+     474,
+     887,
+     "r7"
+    ],
+    [
+     486,
+     873,
+     490,
+     887,
+     "r7"
+    ],
+    [
+     492,
+     873,
+     502,
+     887,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 531,
+    "y0": 679,
+    "x1": 924,
+    "y1": 965
+   },
+   "text": "\"Worse than all this is the wilful miscarriage of justice in the courts. Not only have 2,500 black men been lynched publicly by mobs in the last twenty-five years, without semblance or pretense of trial, but regularly every day throughout the South the machinery of the courts is used, not to prevent crime and correct the wayward among the Negroes, but to wreak public dislike and vengeance and to raise public funds. This dealing in crime as a means of public revenue is a system well-nigh universal in the South, and while its glaring brutality through private lease has been checked, the underlying principle is still unchanged.",
+   "status": "ok",
+   "confidence": 0.9791445136070251,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 530,
+    "y0": 678,
+    "x1": 922,
+    "y1": 962
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 870,
+    "x1": 505,
+    "y1": 1047
+   },
+   "text": "\"To-day in eight States where the bulk of the Negroes live, black men of property and university training can be, and usually are, by law denied the ballot, while the most ignorant white man votes. This attempt to put the personal and property rights of the best of the blacks at the absolute political mercy of the worst of the whites is spreading each day.",
+   "status": "ok",
+   "confidence": 0.9764180779457092,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 110,
+    "y0": 871,
+    "x1": 503,
+    "y1": 1041
+   },
+   "exclude": [
+    [
+     261,
+     859,
+     270,
+     872,
+     "r5"
+    ],
+    [
+     264,
+     1043,
+     278,
+     1057,
+     "r9"
+    ],
+    [
+     489,
+     1043,
+     492,
+     1045,
+     "r9"
+    ],
+    [
+     132,
+     1044,
+     134,
+     1049,
+     "r9"
+    ],
+    [
+     136,
+     1045,
+     139,
+     1049,
+     "r9"
+    ],
+    [
+     141,
+     1044,
+     155,
+     1058,
+     "r9"
+    ],
+    [
+     157,
+     1044,
+     161,
+     1058,
+     "r9"
+    ],
+    [
+     235,
+     1044,
+     244,
+     1058,
+     "r9"
+    ],
+    [
+     300,
+     1044,
+     327,
+     1057,
+     "r9"
+    ],
+    [
+     228,
+     1046,
+     233,
+     1058,
+     "r9"
+    ],
+    [
+     440,
+     1046,
+     445,
+     1057,
+     "r9"
+    ],
+    [
+     482,
+     1046,
+     487,
+     1057,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 531,
+    "y0": 966,
+    "x1": 924,
+    "y1": 1216
+   },
+   "text": "\"Everywhere in the United States the old democratic doctrine of recognizing fitness wherever it occurs is losing ground before a reactionary policy of denying preferment in political or industrial life to competent men if they have a trace of Negro blood, and of using the weapons of public insult and humiliation to keep such men down. It is to-day a universal demand in the South that on all occasions social courtesies shall be denied any person of known Negro descent, even to the extent of refusing to apply the titles of 'Mr.,' 'Mrs.' or 'Miss.'",
+   "status": "ok",
+   "confidence": 0.9770788550376892,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 530,
+    "y0": 965,
+    "x1": 922,
+    "y1": 1212
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 110,
+    "y0": 1041,
+    "x1": 504,
+    "y1": 1251
+   },
+   "text": "\"Along with this has gone a systematic attempt to curtail the education of the black race. Under a widely advertised system of 'universal' education, not one black boy in three to-day has in the United States a chance to learn to read and write. The proportion of school funds due to black children are often spent on whites, and the burden on private charity to support education, which is a public duty, has become almost intolerable.",
+   "status": "ok",
+   "confidence": 0.9776297807693481,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 109,
+    "y0": 1041,
+    "x1": 503,
+    "y1": 1249
+   },
+   "exclude": [
+    [
+     207,
+     1029,
+     217,
+     1043,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 531,
+    "y0": 1214,
+    "x1": 925,
+    "y1": 1427
+   },
+   "text": "\"Against this dominant tendency, strong and brave Americans, white and black, are fighting, but they need, and need sadly, the moral support of England and of Europe in this crusade for the recognition of manhood, despite adventitious differences of race, and it is like a blow in the face to have one who himself suffers daily insult and humiliation in America give the impression that all is well. It is one thing to be optimistic, self-forgetful and forgiving,",
+   "status": "ok",
+   "confidence": 0.977146565914154,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 530,
+    "y0": 1213,
+    "x1": 923,
+    "y1": 1425
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 110,
+    "y0": 1250,
+    "x1": 505,
+    "y1": 1422
+   },
+   "text": "\"In every walk of life we meet discrimination, based solely on race and color, but continually and persistently misrepresented to the world as the natural difference due to condition.\n\n\"We are, for instance, usually forced to live in the worst quarters, and our consequent death rate is noted as a race trait, and reason for further discrimination.",
+   "status": "ok",
+   "confidence": 0.9688716530799866,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 1250,
+    "x1": 504,
+    "y1": 1423
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 5,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 77%",
+   "reread r0: 'OPINION' -> 'OPINION'"
+  ]
+ }
+}

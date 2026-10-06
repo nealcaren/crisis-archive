@@ -1,0 +1,259 @@
+{
+ "page": 29,
+ "image": "images/page_29.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.2,
+  "at": "2026-10-06T21:50:48+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "figure",
+   "bbox": {
+    "x0": 107,
+    "y0": 127,
+    "x1": 1169,
+    "y1": 890
+   },
+   "text": "",
+   "status": "ok",
+   "confidence": 0.9696848392486572,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 110,
+    "y0": 129,
+    "x1": 1166,
+    "y1": 882
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 235,
+    "y0": 906,
+    "x1": 1050,
+    "y1": 930
+   },
+   "text": "ARMSTRONG MANUAL TRAINING HIGH SCHOOL, WASHINGTON, D. C.",
+   "status": "ok",
+   "confidence": 0.6778243780136108,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 233,
+    "y0": 901,
+    "x1": 1048,
+    "y1": 929
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 313,
+    "y0": 999,
+    "x1": 971,
+    "y1": 1163
+   },
+   "text": "Colored High Schools\nBy MASON A. HAWKINS\nPrincipal of the Baltimore Colored High School",
+   "status": "ok",
+   "confidence": 0.9358030557632446,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 311,
+    "y0": 993,
+    "x1": 969,
+    "y1": 1161
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 117,
+    "y0": 1200,
+    "x1": 626,
+    "y1": 1468
+   },
+   "text": "The average colored American citizen has a very inadequate conception of the work and standards of the best public high schools for colored youth, while many whites are absolutely ignorant of the existence of such schools as the M Street High School and the Armstrong Manual Training School, in Washington, and the colored high schools of St. Louis, Baltimore, Kansas City and elsewhere.",
+   "status": "ok",
+   "confidence": 0.9774287343025208,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 117,
+    "y0": 1197,
+    "x1": 622,
+    "y1": 1467
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 118,
+    "y0": 1467,
+    "x1": 626,
+    "y1": 1692
+   },
+   "text": "The larger schools are for the most part furnished with the modern buildings and apparatus, and are directed by efficient teachers, trained chiefly in the best colleges of the country. The smaller schools are not so well appointed either in buildings or equipment, and are generally ordinary grammar schools doing one or more years of high school work.",
+   "status": "ok",
+   "confidence": 0.8465778827667236,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 118,
+    "y0": 1468,
+    "x1": 623,
+    "y1": 1687
+   },
+   "exclude": [
+    [
+     145,
+     1689,
+     163,
+     1708,
+     "r5"
+    ],
+    [
+     500,
+     1689,
+     503,
+     1693,
+     "r5"
+    ],
+    [
+     564,
+     1689,
+     573,
+     1709,
+     "r5"
+    ],
+    [
+     299,
+     1691,
+     312,
+     1710,
+     "r5"
+    ],
+    [
+     597,
+     1690,
+     609,
+     1708,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 118,
+    "y0": 1686,
+    "x1": 628,
+    "y1": 1834
+   },
+   "text": "To get an adequate conception of the work which these schools are doing and the things wherein they fall short, one may examine a few figures from the Report of the United States Commissioner of Education:",
+   "status": "ok",
+   "confidence": 0.9177008271217346,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 117,
+    "y0": 1688,
+    "x1": 624,
+    "y1": 1835
+   },
+   "exclude": [
+    [
+     286,
+     1672,
+     300,
+     1689,
+     "r4"
+    ],
+    [
+     424,
+     1672,
+     438,
+     1689,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 659,
+    "y0": 1199,
+    "x1": 1168,
+    "y1": 1564
+   },
+   "text": "There were in 1908-9, the latest published figures, 112 high schools, 383 teachers (about one-third of whom were males), 6,806 pupils (4,646 girls and 2,160 boys. In other words, there were in 1908-9, in round numbers, 7,000 pupils enrolled in public high schools. There were, according to the twelfth census, about one million colored boys and girls of high-school age. An enrollment then of 7,000 means that only seven colored boys and girls out of a thousand are enrolled in public secondary schools. Of white children, 100 out of every 1,000 are enrolled.",
+   "status": "ok",
+   "confidence": 0.9771618247032166,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 659,
+    "y0": 1198,
+    "x1": 1164,
+    "y1": 1563
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 658,
+    "y0": 1564,
+    "x1": 1167,
+    "y1": 1840
+   },
+   "text": "Considering the fact that the oldest colored high school was established little more than forty years ago, and that there are not more than 112 separate schools of this grade in all the States providing separate schools, one need not marvel at the present showing, although it is disquieting to know that the number of colored schools has decreased $ 33 \\frac{1}{2} $ per cent. since 1905. To the 7,000 pupils in the public high schools may be added",
+   "status": "ok",
+   "confidence": 0.9766840934753418,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 659,
+    "y0": 1564,
+    "x1": 1164,
+    "y1": 1836
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

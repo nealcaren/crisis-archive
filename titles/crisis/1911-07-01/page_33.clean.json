@@ -1,0 +1,162 @@
+{
+ "page": 33,
+ "image": "images/page_33.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.8,
+  "at": "2026-10-06T22:00:23+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 89,
+    "y0": 87,
+    "x1": 910,
+    "y1": 221
+   },
+   "text": "WOMEN'S CLUBS\nCARING FOR YOUNG WOMEN. By Mrs. W. A. HUNTON",
+   "status": "ok",
+   "confidence": 0.4327477812767029,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 90,
+    "y0": 91,
+    "x1": 908,
+    "y1": 221
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 86,
+    "y0": 246,
+    "x1": 479,
+    "y1": 829
+   },
+   "text": "MRS. ELIZABETH BOSS HAYNES",
+   "status": "ok",
+   "confidence": 0.9718257188796997,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 90,
+    "y0": 250,
+    "x1": 472,
+    "y1": 829
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 88,
+    "y0": 839,
+    "x1": 484,
+    "y1": 1130
+   },
+   "text": "The Young Women's Christian Association is no longer an experiment, but has fully proven itself one of the keys to most satisfactory success in the attainment of all that is highest and best in the fourfold nature of womanhood. It is constantly demonstrating its wonderful adaptability to meet the varying conditions and needs of each generation of women. It is not strange, therefore, that many of the intelligent colored women have been quick to discern the magnificent opportunity offered by this movement for the solution of their problems.",
+   "status": "ok",
+   "confidence": 0.9767475724220276,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 88,
+    "y0": 838,
+    "x1": 483,
+    "y1": 1127
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 87,
+    "y0": 1136,
+    "x1": 486,
+    "y1": 1444
+   },
+   "text": "Some four years ago, while the new national board of Young Women's Christian Associations of the United States decided to extend its manifold supervision to the work being done for colored young women, a representative was sent to study that particular field. Among other facts ascertained, it was noted that in fourteen of our educational institutions, associations for young women had been organized, although hardly half that number were doing any effective work. Several city associations had likewise been launched, but only four were doing anything appreciable along Association lines.",
+   "status": "ok",
+   "confidence": 0.9783007502555847,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 87,
+    "y0": 1135,
+    "x1": 484,
+    "y1": 1443
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 511,
+    "y0": 247,
+    "x1": 908,
+    "y1": 627
+   },
+   "text": "In the spring of 1908 Miss Elizabeth Ross was called by the national board to be the first student secretary for work among colored women, and, after some special preparation, began her vigorous and remarkably successful labors the following fall. Whether at conferences at Silver Bay, on beautiful Lake George, or at work at headquarters in New York, or in college visiting, the magnetic personality of this young woman left its impress, and has proven of inestimable value in these pioneer days of Association effort. She has demonstrated by her splendid powers the possibility of our college-trained girls serving their generation in a new and important movement for the salvation of womanhood.",
+   "status": "ok",
+   "confidence": 0.9778904318809509,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 510,
+    "y0": 245,
+    "x1": 907,
+    "y1": 627
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 510,
+    "y0": 635,
+    "x1": 908,
+    "y1": 1445
+   },
+   "text": "Student conferences were held within two years at Talladega College, Claflin, Tougaloo and Fisk universities, and fifty-two student organizations, in as many educational institutions, quickly supplanted the fourteen found in 1908. Those who were fortunate enough to attend the Fisk Conference and to sit in the various sessions, hearing methods expounded and reports read by the enthusiastic student delegates, or who could watch the sea of eager responsive student faces as they sat under the spell of those last hours in the Meharry Auditorium, will never doubt the beneficent influence of the Association movement on the lives of the thousands of young women now in school. The magnificent possibilities of the Association are most naturally presented first of all to the student world because it is from the output of our higher educational institutions that we look for leadership in this great movement. From this rank we must choose the Association secretary, or, better stated, the executive—a woman who knows and has great sympathy for girls—who is able to comprehend and meet the needs in the spiritual, social, educational and economic conditions that surround her. Our largest need at present is not more associations, although that need at several centers is alarmingly pressing. We must first find trained leaders. To that end three young colored women, graduates respectively of Radcliffe, Hartshorn and Fisk, will spend the summer months at the Na-",
+   "status": "ok",
+   "confidence": 0.9767521023750305,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 510,
+    "y0": 635,
+    "x1": 906,
+    "y1": 1442
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 6,
+  "regions_after": 6,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

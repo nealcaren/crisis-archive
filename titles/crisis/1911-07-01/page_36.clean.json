@@ -1,0 +1,2388 @@
+{
+ "page": 36,
+ "image": "images/page_36.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 28.8,
+  "at": "2026-10-06T22:01:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 582,
+    "y0": 133,
+    "x1": 985,
+    "y1": 392
+   },
+   "text": "men, 'five of them probably innocent,' is taken as a matter of course, without unfavorable comment by the press of the State in which the murder occurs; that in another State a citizen, able to read and write, resents the use of the word 'mob' as applying to 'the good citizens who hang up a worthless Negro,' and he regards murder by the mob as an economy, since thereby the feeding and sheltering of a prisoner are saved his county. The name of the county is 'Emanuel.'",
+   "status": "ok",
+   "confidence": 0.9733641743659973,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 582,
+    "y0": 136,
+    "x1": 982,
+    "y1": 389
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 158,
+    "y0": 138,
+    "x1": 557,
+    "y1": 627
+   },
+   "text": "guilty, was hanged by a lynching party. The editor of the Swainsboro Forest Blade referred to the lynching party as a 'mob,' and for this he was gently taken to task by one of his readers in the following letter: 'Please allow me to say that I, for one, do not like to hear our good citizens who hang up a worthless Negro and riddle his hide with bullets for shooting down one of our worthy officers, without provocation, as did the black brute in Swainsboro on the night of the 12th instant, referred to as a \"mob.\" I understand the word \"mob\" to mean a disorderly crowd, riotous assemblage, etc., and the paper stated that the \"mob\" dispersed quietly as they had gathered—a little strange procedure for a \"mob,\" don't you think? The word \"mob\" has a bad sound to me, and I am sure, had I been with those who saved the expense of feeding and sheltering that black fiend by the county, I would not have enjoyed being termed a part of a \"mob.\"'",
+   "status": "ok",
+   "confidence": 0.9360842704772949,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 157,
+    "y0": 137,
+    "x1": 555,
+    "y1": 623
+   },
+   "exclude": [
+    [
+     540,
+     625,
+     543,
+     628,
+     "r3"
+    ],
+    [
+     190,
+     626,
+     204,
+     641,
+     "r3"
+    ],
+    [
+     246,
+     626,
+     256,
+     641,
+     "r3"
+    ],
+    [
+     259,
+     626,
+     261,
+     628,
+     "r3"
+    ],
+    [
+     306,
+     626,
+     315,
+     641,
+     "r3"
+    ],
+    [
+     351,
+     626,
+     360,
+     641,
+     "r3"
+    ],
+    [
+     429,
+     626,
+     432,
+     629,
+     "r3"
+    ],
+    [
+     448,
+     626,
+     450,
+     628,
+     "r3"
+    ],
+    [
+     510,
+     626,
+     516,
+     641,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 581,
+    "y0": 391,
+    "x1": 982,
+    "y1": 761
+   },
+   "text": "\"Is 'God with us' still, or has he turned his face away? Do we fear the Lord no longer, nor dread to bear the mark of Cain? Is it not time that organs of civilization in America were beginning again to take notice of this national sin of lawless murder? Certainly it cannot be said that the mob takes the law into its own hands in these cases for fear that justice will be denied by the courts. I do not claim that the Negro does not get justice generally, but he is certainly not likely to escape the just penalty of the law when he has murdered a white man and the administration of the law is in the hands of white men. In view of these two of the many recent instances of mob murder, I have felt that some voice should be raised in protest.\"",
+   "status": "ok",
+   "confidence": 0.9705554842948914,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 580,
+    "y0": 391,
+    "x1": 980,
+    "y1": 758
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 155,
+    "y0": 623,
+    "x1": 981,
+    "y1": 941
+   },
+   "text": "\"To which the editor rejoins: 'It is true, the crowd did not make any great demonstration, and it was as orderly as could be expected under the circumstances.'\n\"To this we have come, then, in the South—that the murdering of six black\n\nWHAT",
+   "status": "ok",
+   "confidence": 0.9450364112854004,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 155,
+    "y0": 623,
+    "x1": 555,
+    "y1": 978
+   },
+   "exclude": [
+    [
+     726,
+     745,
+     734,
+     756,
+     "r2"
+    ],
+    [
+     746,
+     745,
+     762,
+     755,
+     "r2"
+    ],
+    [
+     765,
+     745,
+     768,
+     754,
+     "r2"
+    ],
+    [
+     771,
+     745,
+     778,
+     755,
+     "r2"
+    ],
+    [
+     780,
+     745,
+     788,
+     755,
+     "r2"
+    ],
+    [
+     812,
+     745,
+     816,
+     755,
+     "r2"
+    ],
+    [
+     818,
+     745,
+     827,
+     755,
+     "r2"
+    ],
+    [
+     839,
+     745,
+     849,
+     759,
+     "r2"
+    ],
+    [
+     852,
+     745,
+     859,
+     755,
+     "r2"
+    ],
+    [
+     860,
+     745,
+     870,
+     755,
+     "r2"
+    ],
+    [
+     880,
+     745,
+     887,
+     756,
+     "r2"
+    ],
+    [
+     890,
+     745,
+     897,
+     756,
+     "r2"
+    ],
+    [
+     583,
+     746,
+     593,
+     756,
+     "r2"
+    ],
+    [
+     607,
+     746,
+     611,
+     756,
+     "r2"
+    ],
+    [
+     613,
+     746,
+     621,
+     756,
+     "r2"
+    ],
+    [
+     623,
+     746,
+     631,
+     756,
+     "r2"
+    ],
+    [
+     642,
+     746,
+     650,
+     756,
+     "r2"
+    ],
+    [
+     907,
+     753,
+     910,
+     756,
+     "r2"
+    ],
+    [
+     530,
+     843,
+     572,
+     886,
+     "r4"
+    ],
+    [
+     574,
+     843,
+     619,
+     887,
+     "r4"
+    ],
+    [
+     661,
+     843,
+     705,
+     886,
+     "r4"
+    ],
+    [
+     708,
+     843,
+     748,
+     886,
+     "r4"
+    ],
+    [
+     750,
+     843,
+     799,
+     886,
+     "r4"
+    ],
+    [
+     802,
+     843,
+     848,
+     886,
+     "r4"
+    ],
+    [
+     181,
+     612,
+     191,
+     625,
+     "r1"
+    ],
+    [
+     661,
+     625,
+     665,
+     640,
+     "r2"
+    ],
+    [
+     801,
+     625,
+     809,
+     639,
+     "r2"
+    ],
+    [
+     835,
+     624,
+     837,
+     627,
+     "r2"
+    ],
+    [
+     925,
+     625,
+     929,
+     639,
+     "r2"
+    ],
+    [
+     973,
+     625,
+     979,
+     639,
+     "r2"
+    ],
+    [
+     627,
+     626,
+     630,
+     640,
+     "r2"
+    ],
+    [
+     639,
+     626,
+     649,
+     640,
+     "r2"
+    ],
+    [
+     690,
+     627,
+     695,
+     640,
+     "r2"
+    ],
+    [
+     793,
+     627,
+     798,
+     640,
+     "r2"
+    ],
+    [
+     862,
+     627,
+     867,
+     640,
+     "r2"
+    ],
+    [
+     609,
+     629,
+     614,
+     640,
+     "r2"
+    ],
+    [
+     749,
+     629,
+     758,
+     639,
+     "r2"
+    ],
+    [
+     932,
+     628,
+     936,
+     639,
+     "r2"
+    ],
+    [
+     585,
+     630,
+     593,
+     640,
+     "r2"
+    ],
+    [
+     597,
+     630,
+     607,
+     640,
+     "r2"
+    ],
+    [
+     634,
+     630,
+     636,
+     639,
+     "r2"
+    ],
+    [
+     651,
+     630,
+     659,
+     640,
+     "r2"
+    ],
+    [
+     667,
+     630,
+     677,
+     644,
+     "r2"
+    ],
+    [
+     697,
+     630,
+     707,
+     640,
+     "r2"
+    ],
+    [
+     720,
+     630,
+     728,
+     640,
+     "r2"
+    ],
+    [
+     730,
+     630,
+     737,
+     640,
+     "r2"
+    ],
+    [
+     739,
+     630,
+     747,
+     640,
+     "r2"
+    ],
+    [
+     760,
+     630,
+     769,
+     643,
+     "r2"
+    ],
+    [
+     772,
+     630,
+     779,
+     639,
+     "r2"
+    ],
+    [
+     813,
+     630,
+     821,
+     639,
+     "r2"
+    ],
+    [
+     833,
+     630,
+     837,
+     642,
+     "r2"
+    ],
+    [
+     841,
+     630,
+     845,
+     639,
+     "r2"
+    ],
+    [
+     846,
+     630,
+     850,
+     639,
+     "r2"
+    ],
+    [
+     853,
+     630,
+     859,
+     639,
+     "r2"
+    ],
+    [
+     880,
+     630,
+     890,
+     643,
+     "r2"
+    ],
+    [
+     892,
+     630,
+     900,
+     640,
+     "r2"
+    ],
+    [
+     903,
+     630,
+     911,
+     639,
+     "r2"
+    ],
+    [
+     914,
+     630,
+     922,
+     639,
+     "r2"
+    ],
+    [
+     939,
+     630,
+     948,
+     643,
+     "r2"
+    ],
+    [
+     961,
+     630,
+     971,
+     640,
+     "r2"
+    ],
+    [
+     853,
+     637,
+     855,
+     639,
+     "r2"
+    ],
+    [
+     592,
+     645,
+     602,
+     659,
+     "r2"
+    ],
+    [
+     625,
+     645,
+     629,
+     659,
+     "r2"
+    ],
+    [
+     685,
+     644,
+     694,
+     659,
+     "r2"
+    ],
+    [
+     730,
+     644,
+     739,
+     659,
+     "r2"
+    ],
+    [
+     763,
+     644,
+     772,
+     659,
+     "r2"
+    ],
+    [
+     844,
+     645,
+     853,
+     659,
+     "r2"
+    ],
+    [
+     885,
+     644,
+     894,
+     659,
+     "r2"
+    ],
+    [
+     945,
+     644,
+     954,
+     659,
+     "r2"
+    ],
+    [
+     958,
+     644,
+     960,
+     647,
+     "r2"
+    ],
+    [
+     584,
+     647,
+     590,
+     660,
+     "r2"
+    ],
+    [
+     963,
+     647,
+     968,
+     659,
+     "r2"
+    ],
+    [
+     631,
+     649,
+     640,
+     659,
+     "r2"
+    ],
+    [
+     697,
+     649,
+     705,
+     659,
+     "r2"
+    ],
+    [
+     707,
+     649,
+     717,
+     659,
+     "r2"
+    ],
+    [
+     742,
+     649,
+     750,
+     659,
+     "r2"
+    ],
+    [
+     775,
+     649,
+     783,
+     659,
+     "r2"
+    ],
+    [
+     786,
+     649,
+     792,
+     659,
+     "r2"
+    ],
+    [
+     805,
+     649,
+     821,
+     659,
+     "r2"
+    ],
+    [
+     823,
+     649,
+     827,
+     658,
+     "r2"
+    ],
+    [
+     829,
+     649,
+     832,
+     658,
+     "r2"
+    ],
+    [
+     835,
+     649,
+     842,
+     659,
+     "r2"
+    ],
+    [
+     856,
+     649,
+     863,
+     659,
+     "r2"
+    ],
+    [
+     866,
+     649,
+     873,
+     659,
+     "r2"
+    ],
+    [
+     875,
+     649,
+     882,
+     659,
+     "r2"
+    ],
+    [
+     907,
+     649,
+     915,
+     659,
+     "r2"
+    ],
+    [
+     970,
+     649,
+     978,
+     659,
+     "r2"
+    ],
+    [
+     604,
+     650,
+     612,
+     659,
+     "r2"
+    ],
+    [
+     642,
+     650,
+     656,
+     659,
+     "r2"
+    ],
+    [
+     668,
+     650,
+     683,
+     659,
+     "r2"
+    ],
+    [
+     928,
+     650,
+     942,
+     659,
+     "r2"
+    ],
+    [
+     957,
+     650,
+     960,
+     659,
+     "r2"
+    ],
+    [
+     765,
+     663,
+     767,
+     666,
+     "r2"
+    ],
+    [
+     834,
+     663,
+     836,
+     666,
+     "r2"
+    ],
+    [
+     659,
+     664,
+     668,
+     679,
+     "r2"
+    ],
+    [
+     690,
+     664,
+     699,
+     678,
+     "r2"
+    ],
+    [
+     734,
+     664,
+     744,
+     679,
+     "r2"
+    ],
+    [
+     887,
+     664,
+     893,
+     679,
+     "r2"
+    ],
+    [
+     914,
+     664,
+     923,
+     678,
+     "r2"
+    ],
+    [
+     948,
+     664,
+     951,
+     678,
+     "r2"
+    ],
+    [
+     682,
+     666,
+     688,
+     679,
+     "r2"
+    ],
+    [
+     798,
+     666,
+     803,
+     679,
+     "r2"
+    ],
+    [
+     825,
+     666,
+     830,
+     678,
+     "r2"
+    ],
+    [
+     906,
+     666,
+     911,
+     679,
+     "r2"
+    ],
+    [
+     584,
+     669,
+     600,
+     678,
+     "r2"
+    ],
+    [
+     602,
+     669,
+     611,
+     679,
+     "r2"
+    ],
+    [
+     613,
+     669,
+     623,
+     678,
+     "r2"
+    ],
+    [
+     636,
+     668,
+     644,
+     679,
+     "r2"
+    ],
+    [
+     647,
+     669,
+     657,
+     679,
+     "r2"
+    ],
+    [
+     702,
+     668,
+     710,
+     679,
+     "r2"
+    ],
+    [
+     724,
+     668,
+     732,
+     678,
+     "r2"
+    ],
+    [
+     746,
+     668,
+     762,
+     678,
+     "r2"
+    ],
+    [
+     765,
+     668,
+     768,
+     678,
+     "r2"
+    ],
+    [
+     771,
+     669,
+     774,
+     678,
+     "r2"
+    ],
+    [
+     776,
+     668,
+     779,
+     677,
+     "r2"
+    ],
+    [
+     783,
+     668,
+     786,
+     678,
+     "r2"
+    ],
+    [
+     789,
+     668,
+     795,
+     678,
+     "r2"
+    ],
+    [
+     806,
+     668,
+     813,
+     678,
+     "r2"
+    ],
+    [
+     814,
+     668,
+     823,
+     678,
+     "r2"
+    ],
+    [
+     833,
+     668,
+     837,
+     678,
+     "r2"
+    ],
+    [
+     839,
+     668,
+     849,
+     678,
+     "r2"
+    ],
+    [
+     851,
+     668,
+     860,
+     678,
+     "r2"
+    ],
+    [
+     875,
+     668,
+     885,
+     679,
+     "r2"
+    ],
+    [
+     926,
+     668,
+     933,
+     678,
+     "r2"
+    ],
+    [
+     954,
+     668,
+     962,
+     679,
+     "r2"
+    ],
+    [
+     964,
+     669,
+     979,
+     679,
+     "r2"
+    ],
+    [
+     585,
+     683,
+     588,
+     686,
+     "r2"
+    ],
+    [
+     608,
+     683,
+     611,
+     686,
+     "r2"
+    ],
+    [
+     641,
+     683,
+     650,
+     698,
+     "r2"
+    ],
+    [
+     670,
+     683,
+     679,
+     698,
+     "r2"
+    ],
+    [
+     704,
+     683,
+     714,
+     698,
+     "r2"
+    ],
+    [
+     746,
+     683,
+     751,
+     697,
+     "r2"
+    ],
+    [
+     777,
+     683,
+     786,
+     697,
+     "r2"
+    ],
+    [
+     790,
+     683,
+     792,
+     685,
+     "r2"
+    ],
+    [
+     881,
+     683,
+     888,
+     698,
+     "r2"
+    ],
+    [
+     922,
+     683,
+     925,
+     686,
+     "r2"
+    ],
+    [
+     973,
+     683,
+     979,
+     698,
+     "r2"
+    ],
+    [
+     633,
+     686,
+     639,
+     698,
+     "r2"
+    ],
+    [
+     682,
+     687,
+     690,
+     698,
+     "r2"
+    ],
+    [
+     693,
+     687,
+     702,
+     697,
+     "r2"
+    ],
+    [
+     716,
+     687,
+     724,
+     698,
+     "r2"
+    ],
+    [
+     734,
+     687,
+     744,
+     698,
+     "r2"
+    ],
+    [
+     789,
+     687,
+     792,
+     697,
+     "r2"
+    ],
+    [
+     795,
+     686,
+     800,
+     697,
+     "r2"
+    ],
+    [
+     802,
+     687,
+     810,
+     697,
+     "r2"
+    ],
+    [
+     820,
+     687,
+     835,
+     697,
+     "r2"
+    ],
+    [
+     849,
+     687,
+     857,
+     697,
+     "r2"
+    ],
+    [
+     891,
+     687,
+     900,
+     697,
+     "r2"
+    ],
+    [
+     927,
+     687,
+     935,
+     698,
+     "r2"
+    ],
+    [
+     585,
+     688,
+     588,
+     698,
+     "r2"
+    ],
+    [
+     591,
+     688,
+     598,
+     698,
+     "r2"
+    ],
+    [
+     607,
+     688,
+     611,
+     698,
+     "r2"
+    ],
+    [
+     614,
+     688,
+     623,
+     698,
+     "r2"
+    ],
+    [
+     653,
+     688,
+     661,
+     698,
+     "r2"
+    ],
+    [
+     760,
+     688,
+     774,
+     697,
+     "r2"
+    ],
+    [
+     838,
+     688,
+     846,
+     697,
+     "r2"
+    ],
+    [
+     910,
+     688,
+     920,
+     697,
+     "r2"
+    ],
+    [
+     922,
+     688,
+     925,
+     698,
+     "r2"
+    ],
+    [
+     938,
+     688,
+     951,
+     698,
+     "r2"
+    ],
+    [
+     961,
+     688,
+     971,
+     698,
+     "r2"
+    ],
+    [
+     860,
+     694,
+     863,
+     697,
+     "r2"
+    ],
+    [
+     727,
+     701,
+     737,
+     717,
+     "r2"
+    ],
+    [
+     894,
+     701,
+     897,
+     705,
+     "r2"
+    ],
+    [
+     593,
+     703,
+     601,
+     717,
+     "r2"
+    ],
+    [
+     702,
+     702,
+     708,
+     717,
+     "r2"
+    ],
+    [
+     584,
+     705,
+     590,
+     717,
+     "r2"
+    ],
+    [
+     644,
+     705,
+     650,
+     717,
+     "r2"
+    ],
+    [
+     720,
+     704,
+     726,
+     717,
+     "r2"
+    ],
+    [
+     875,
+     704,
+     881,
+     717,
+     "r2"
+    ],
+    [
+     921,
+     705,
+     927,
+     717,
+     "r2"
+    ],
+    [
+     604,
+     707,
+     612,
+     717,
+     "r2"
+    ],
+    [
+     614,
+     707,
+     621,
+     718,
+     "r2"
+    ],
+    [
+     623,
+     707,
+     631,
+     717,
+     "r2"
+    ],
+    [
+     652,
+     707,
+     666,
+     717,
+     "r2"
+    ],
+    [
+     668,
+     707,
+     678,
+     717,
+     "r2"
+    ],
+    [
+     690,
+     707,
+     700,
+     717,
+     "r2"
+    ],
+    [
+     740,
+     707,
+     748,
+     717,
+     "r2"
+    ],
+    [
+     760,
+     707,
+     776,
+     717,
+     "r2"
+    ],
+    [
+     778,
+     706,
+     787,
+     717,
+     "r2"
+    ],
+    [
+     789,
+     707,
+     798,
+     716,
+     "r2"
+    ],
+    [
+     801,
+     707,
+     811,
+     720,
+     "r2"
+    ],
+    [
+     823,
+     707,
+     831,
+     717,
+     "r2"
+    ],
+    [
+     833,
+     707,
+     840,
+     717,
+     "r2"
+    ],
+    [
+     843,
+     707,
+     850,
+     717,
+     "r2"
+    ],
+    [
+     853,
+     707,
+     860,
+     717,
+     "r2"
+    ],
+    [
+     863,
+     707,
+     872,
+     717,
+     "r2"
+    ],
+    [
+     893,
+     707,
+     898,
+     717,
+     "r2"
+    ],
+    [
+     899,
+     707,
+     909,
+     717,
+     "r2"
+    ],
+    [
+     912,
+     707,
+     919,
+     717,
+     "r2"
+    ],
+    [
+     929,
+     707,
+     937,
+     717,
+     "r2"
+    ],
+    [
+     939,
+     707,
+     948,
+     717,
+     "r2"
+    ],
+    [
+     951,
+     707,
+     959,
+     718,
+     "r2"
+    ],
+    [
+     961,
+     707,
+     969,
+     718,
+     "r2"
+    ],
+    [
+     971,
+     707,
+     978,
+     717,
+     "r2"
+    ],
+    [
+     708,
+     721,
+     718,
+     736,
+     "r2"
+    ],
+    [
+     757,
+     721,
+     763,
+     736,
+     "r2"
+    ],
+    [
+     779,
+     721,
+     789,
+     736,
+     "r2"
+    ],
+    [
+     836,
+     721,
+     842,
+     736,
+     "r2"
+    ],
+    [
+     854,
+     721,
+     857,
+     736,
+     "r2"
+    ],
+    [
+     888,
+     721,
+     898,
+     736,
+     "r2"
+    ],
+    [
+     597,
+     722,
+     602,
+     736,
+     "r2"
+    ],
+    [
+     646,
+     722,
+     655,
+     736,
+     "r2"
+    ],
+    [
+     791,
+     725,
+     799,
+     736,
+     "r2"
+    ],
+    [
+     860,
+     724,
+     866,
+     736,
+     "r2"
+    ],
+    [
+     880,
+     724,
+     886,
+     736,
+     "r2"
+    ],
+    [
+     911,
+     724,
+     916,
+     736,
+     "r2"
+    ],
+    [
+     584,
+     726,
+     594,
+     737,
+     "r2"
+    ],
+    [
+     616,
+     726,
+     632,
+     736,
+     "r2"
+    ],
+    [
+     634,
+     726,
+     644,
+     736,
+     "r2"
+    ],
+    [
+     669,
+     726,
+     685,
+     736,
+     "r2"
+    ],
+    [
+     688,
+     726,
+     697,
+     736,
+     "r2"
+    ],
+    [
+     699,
+     726,
+     706,
+     736,
+     "r2"
+    ],
+    [
+     720,
+     726,
+     728,
+     736,
+     "r2"
+    ],
+    [
+     730,
+     726,
+     737,
+     736,
+     "r2"
+    ],
+    [
+     802,
+     726,
+     811,
+     736,
+     "r2"
+    ],
+    [
+     813,
+     726,
+     821,
+     736,
+     "r2"
+    ],
+    [
+     843,
+     726,
+     851,
+     736,
+     "r2"
+    ],
+    [
+     900,
+     726,
+     909,
+     736,
+     "r2"
+    ],
+    [
+     931,
+     727,
+     938,
+     737,
+     "r2"
+    ],
+    [
+     940,
+     726,
+     950,
+     737,
+     "r2"
+    ],
+    [
+     952,
+     727,
+     968,
+     736,
+     "r2"
+    ],
+    [
+     970,
+     727,
+     978,
+     737,
+     "r2"
+    ],
+    [
+     739,
+     733,
+     742,
+     738,
+     "r2"
+    ],
+    [
+     608,
+     740,
+     610,
+     743,
+     "r2"
+    ],
+    [
+     652,
+     741,
+     661,
+     755,
+     "r2"
+    ],
+    [
+     687,
+     740,
+     691,
+     755,
+     "r2"
+    ],
+    [
+     693,
+     741,
+     703,
+     756,
+     "r2"
+    ],
+    [
+     714,
+     741,
+     724,
+     756,
+     "r2"
+    ],
+    [
+     766,
+     740,
+     768,
+     743,
+     "r2"
+    ],
+    [
+     790,
+     741,
+     800,
+     756,
+     "r2"
+    ],
+    [
+     813,
+     740,
+     816,
+     743,
+     "r2"
+    ],
+    [
+     912,
+     741,
+     915,
+     746,
+     "r2"
+    ],
+    [
+     917,
+     741,
+     920,
+     746,
+     "r2"
+    ],
+    [
+     872,
+     743,
+     878,
+     756,
+     "r2"
+    ],
+    [
+     899,
+     743,
+     905,
+     756,
+     "r2"
+    ],
+    [
+     595,
+     745,
+     605,
+     756,
+     "r2"
+    ],
+    [
+     664,
+     745,
+     674,
+     756,
+     "r2"
+    ],
+    [
+     675,
+     745,
+     685,
+     755,
+     "r2"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "\"To which the editor rejoins: 'It is true, the crowd did not make any great demonstration, and it was as orderly as could be expected under the circumstances.'\n\"To this we have come, then, in the South—that the murdering of six black\n\nWHAT T\n\nBOOKS.",
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 155,
+    "y0": 941,
+    "x1": 981,
+    "y1": 971
+   },
+   "text": "BOOKS.",
+   "status": "ok",
+   "confidence": 0.9450364112854004,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 155,
+    "y0": 623,
+    "x1": 555,
+    "y1": 978
+   },
+   "exclude": [
+    [
+     673,
+     954,
+     682,
+     968,
+     "r5"
+    ],
+    [
+     858,
+     954,
+     864,
+     969,
+     "r5"
+    ],
+    [
+     881,
+     954,
+     891,
+     969,
+     "r5"
+    ],
+    [
+     933,
+     954,
+     935,
+     956,
+     "r5"
+    ],
+    [
+     603,
+     956,
+     608,
+     968,
+     "r5"
+    ],
+    [
+     666,
+     956,
+     671,
+     968,
+     "r5"
+    ],
+    [
+     766,
+     956,
+     771,
+     969,
+     "r5"
+    ],
+    [
+     791,
+     956,
+     796,
+     969,
+     "r5"
+    ],
+    [
+     809,
+     956,
+     815,
+     969,
+     "r5"
+    ],
+    [
+     874,
+     956,
+     879,
+     969,
+     "r5"
+    ],
+    [
+     611,
+     958,
+     619,
+     968,
+     "r5"
+    ],
+    [
+     622,
+     958,
+     628,
+     968,
+     "r5"
+    ],
+    [
+     630,
+     958,
+     645,
+     968,
+     "r5"
+    ],
+    [
+     648,
+     958,
+     655,
+     968,
+     "r5"
+    ],
+    [
+     685,
+     958,
+     693,
+     968,
+     "r5"
+    ],
+    [
+     703,
+     958,
+     713,
+     971,
+     "r5"
+    ],
+    [
+     715,
+     959,
+     722,
+     968,
+     "r5"
+    ],
+    [
+     724,
+     958,
+     732,
+     969,
+     "r5"
+    ],
+    [
+     734,
+     958,
+     741,
+     969,
+     "r5"
+    ],
+    [
+     743,
+     959,
+     751,
+     969,
+     "r5"
+    ],
+    [
+     754,
+     959,
+     763,
+     968,
+     "r5"
+    ],
+    [
+     782,
+     959,
+     789,
+     969,
+     "r5"
+    ],
+    [
+     799,
+     959,
+     807,
+     969,
+     "r5"
+    ],
+    [
+     817,
+     959,
+     826,
+     969,
+     "r5"
+    ],
+    [
+     829,
+     959,
+     835,
+     969,
+     "r5"
+    ],
+    [
+     846,
+     959,
+     856,
+     969,
+     "r5"
+    ],
+    [
+     893,
+     959,
+     901,
+     969,
+     "r5"
+    ],
+    [
+     912,
+     959,
+     920,
+     969,
+     "r5"
+    ],
+    [
+     922,
+     959,
+     930,
+     969,
+     "r5"
+    ],
+    [
+     932,
+     959,
+     936,
+     969,
+     "r5"
+    ],
+    [
+     938,
+     959,
+     946,
+     969,
+     "r5"
+    ],
+    [
+     948,
+     959,
+     958,
+     969,
+     "r5"
+    ],
+    [
+     960,
+     959,
+     968,
+     969,
+     "r5"
+    ],
+    [
+     970,
+     959,
+     978,
+     969,
+     "r5"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "\"To which the editor rejoins: 'It is true, the crowd did not make any great demonstration, and it was as orderly as could be expected under the circumstances.'\n\"To this we have come, then, in the South—that the murdering of six black\n\nWHAT T\n\nBOOKS.",
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r4",
+   "label": "title",
+   "bbox": {
+    "x0": 528,
+    "y0": 841,
+    "x1": 850,
+    "y1": 889
+   },
+   "text": "TO READ",
+   "status": "ok",
+   "confidence": 0.7930994629859924,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 276,
+    "y0": 833,
+    "x1": 852,
+    "y1": 894
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "WHAT TO READ",
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 601,
+    "y0": 952,
+    "x1": 980,
+    "y1": 992
+   },
+   "text": "terms the present status of the science of eugenics.",
+   "status": "ok",
+   "confidence": 0.5225937962532043,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 596,
+    "y0": 950,
+    "x1": 978,
+    "y1": 990
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 159,
+    "y0": 980,
+    "x1": 555,
+    "y1": 1019
+   },
+   "text": "Chailleu, Joseph—\"Administrative Problems of British India.\" Macmillan.",
+   "status": "ok",
+   "confidence": 0.9379479885101318,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 158,
+    "y0": 978,
+    "x1": 554,
+    "y1": 1018
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 582,
+    "y0": 994,
+    "x1": 981,
+    "y1": 1055
+   },
+   "text": "Ovington, Mary White—\"Half a Man: The Status of the Negro in New York.\" Longmans.",
+   "status": "ok",
+   "confidence": 0.464548259973526,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 583,
+    "y0": 993,
+    "x1": 979,
+    "y1": 1051
+   },
+   "exclude": [
+    [
+     625,
+     1054,
+     631,
+     1069,
+     "r9"
+    ],
+    [
+     702,
+     1054,
+     715,
+     1070,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 178,
+    "y0": 1018,
+    "x1": 555,
+    "y1": 1135
+   },
+   "text": "The book gives a complete survey, though summary in part, of religious, social, economic and political conditions in India, including, also, such topics as caste, codes of law and education.",
+   "status": "ok",
+   "confidence": 0.4381345510482788,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 175,
+    "y0": 1019,
+    "x1": 553,
+    "y1": 1132
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 599,
+    "y0": 1052,
+    "x1": 981,
+    "y1": 1346
+   },
+   "text": "In the \"Foreword\" of \"Half a Man,\" Dr. Franz Boas of Columbia University says, \"Miss Ovington's description of the status of the Negro in New York City is based on a most painstaking inquiry into his social and economic conditions, and brings out in the most forceful way the difficulties under which the race is laboring, even in the large cosmopolitan population of New York. It is a refutation of the claims that the Negro has equal opportunity with the whites, and that his failure to advance more rapidly than he has is due to innate inability.\"",
+   "status": "ok",
+   "confidence": 0.9572945237159729,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 589,
+    "y0": 1053,
+    "x1": 979,
+    "y1": 1342
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 157,
+    "y0": 1134,
+    "x1": 556,
+    "y1": 1425
+   },
+   "text": "Gerderner, G. B. A.—\"Studies in the Evangelization of South Africa.\" Longmans.\nGrubb, W. Barbrooke—\"Unknown People in an Unknown Land.\" Lippincountaincott. An account of a tribe of Indians in South America.\nJohnston, Sir Harry—\"Britain Across the Seas-Africa: A History and Description of the British Empire in Africa.\" London: National Society's Depository.\nKellicott, William Erskine—\"Social Direction of Human Evolution.\" Appleton.",
+   "status": "ok",
+   "confidence": 0.48687121272087097,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 155,
+    "y0": 1132,
+    "x1": 554,
+    "y1": 1424
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 582,
+    "y0": 1346,
+    "x1": 981,
+    "y1": 1506
+   },
+   "text": "Wilkinson, William Cleaver—\"Daniel Webster: A Vindication.\" Funk.\nProf. Wilkinson of the University of Chicago in his initial essay shows that Daniel Webster is to be praised, not blamed, for his seventh of March speech, and for his support of the Fugitive Slave Law.",
+   "status": "ok",
+   "confidence": 0.9445903301239014,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 579,
+    "y0": 1345,
+    "x1": 980,
+    "y1": 1503
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 177,
+    "y0": 1425,
+    "x1": 556,
+    "y1": 1511
+   },
+   "text": "An essay based upon three lectures delivered at Oberlin College in 1910 whose aim is to state briefly and suggestively in simple, matter-of-fact",
+   "status": "ok",
+   "confidence": 0.8254402279853821,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 155,
+    "y0": 1425,
+    "x1": 555,
+    "y1": 1595
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "abandon",
+   "bbox": {
+    "x0": 160,
+    "y0": 84,
+    "x1": 199,
+    "y1": 107
+   },
+   "text": "124",
+   "status": "ok",
+   "confidence": 0.8418979644775391,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 158,
+    "y0": 83,
+    "x1": 198,
+    "y1": 105
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r15",
+   "label": "abandon",
+   "bbox": {
+    "x0": 483,
+    "y0": 86,
+    "x1": 645,
+    "y1": 109
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8808463215827942,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 481,
+    "y0": 84,
+    "x1": 645,
+    "y1": 108
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 15,
+  "regions_after": 16,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 8,
+  "log": [
+   "reshape r3 (plain_text): lost 3% of its ink, gained 25%",
+   "reshape r4 (title): lost 41% of its ink, gained 0%",
+   "reread r3: '\"To which the editor rejoins: \\'It is tru' -> '\"To which the editor rejoins: \\'It is tru'",
+   "reread r4: 'WHAT TO READ' -> 'TO READ'",
+   "split r3 at y=941 before 'BOOKS.'"
+  ]
+ }
+}

@@ -1,0 +1,248 @@
+{
+ "page": 27,
+ "image": "images/page_27.jpg",
+ "width": 1080,
+ "height": 1609,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.8,
+  "at": "2026-10-06T21:28:32+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 86,
+    "y0": 93,
+    "x1": 904,
+    "y1": 227
+   },
+   "text": "TALKS ABOUT WOMEN\nNUMBER FIVE By Mrs. JOHN E. MILHOLLAND",
+   "status": "ok",
+   "confidence": 0.3370109796524048,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 87,
+    "y0": 95,
+    "x1": 903,
+    "y1": 224
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 85,
+    "y0": 262,
+    "x1": 482,
+    "y1": 588
+   },
+   "text": "Fifteen or more years ago, before women were so anxious to go into the professional, business or commercial world, a few old-fashioned ones, eager to do something to solve the ever-perplexing domestic problem, started a school for \"home economy.\" The idea was to have a place where girls wishing to become trained domestics might get proper instruction under a good teacher. Outside of the originators of the plan it seemed impossible to get any one interested. The home-loving women refused to co-operate, the girls that were expected to flock for instruction did not come, and so this very excellent scheme was abandoned.",
+   "status": "ok",
+   "confidence": 0.9766846895217896,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 85,
+    "y0": 260,
+    "x1": 480,
+    "y1": 586
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 86,
+    "y0": 588,
+    "x1": 482,
+    "y1": 1009
+   },
+   "text": "Later on, however, the public schools took up this idea, and at present Domestic Science is a regular department in all the larger schools. It seems a much-needed reform, but even done in this way it does not reach the masses as it should and training schools in connection with all churches would, it seems to me, be a good idea. Here girls having a taste for domestic labor could be taught properly. There should be cooking, plain laundry and waiting departments, and those having served a certain apprenticeship in any one special course should be graduated with a proper diploma for excellence just the same as for the study in any other profession. For, after all, the dignity of household labor is the only thing by which it can be raised to such a standard that our better class of American girls will consider it.",
+   "status": "ok",
+   "confidence": 0.978908896446228,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 85,
+    "y0": 587,
+    "x1": 480,
+    "y1": 1006
+   },
+   "exclude": [
+    [
+     316,
+     1008,
+     323,
+     1023,
+     "r4"
+    ],
+    [
+     332,
+     1008,
+     335,
+     1011,
+     "r4"
+    ],
+    [
+     380,
+     1008,
+     383,
+     1010,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 83,
+    "y0": 1006,
+    "x1": 481,
+    "y1": 1430
+   },
+   "text": "Abroad, where girls of intelligence and education go in for a domestic life, there is no thought of that occupation being below the standard of any other work or skilled labor. Indeed, in England, for instance, these girls consider themselves far superior socially to those working in factories or shops. However that may be in these countries, there is no \"Servant Problem,\" and may not this be true, because, instead of being looked upon as a haven for untrained and unskilled labor of every sort and condition, it is there looked upon as legitimate work for which a girl must be properly trained. She is then quite as much a part of her social world as is any other working woman of good standing. When the advantages of domestic work are considered the wonder is that more American women do not properly equip",
+   "status": "ok",
+   "confidence": 0.9771539568901062,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 82,
+    "y0": 1007,
+    "x1": 479,
+    "y1": 1428
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 507,
+    "y0": 264,
+    "x1": 902,
+    "y1": 668
+   },
+   "text": "themselves for such a life! To be a thoroughly competent cook, waitress or maid means better pay, more comfort and far superior surroundings than to be a shopgirl or do work in a factory—the one advantage here being, perhaps, a little more liberty regarding time. When this sort of labor is put on a purely business basis, when mistress and maid have a fuller and better understanding of each other, when the hours of labor can be better arranged, then let us hope our young women—colored and white—will feel that if they have a taste for domestic service they may go into it without thinking, as they now do, that they are losing their social standing among their own set. In any case, this is a foolish thought, for all honest labor, domestic or otherwise, is honorable and should be always so considered.",
+   "status": "ok",
+   "confidence": 0.9785738587379456,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 506,
+    "y0": 262,
+    "x1": 900,
+    "y1": 664
+   },
+   "exclude": [
+    [
+     529,
+     667,
+     544,
+     682,
+     "r6"
+    ],
+    [
+     591,
+     667,
+     597,
+     682,
+     "r6"
+    ],
+    [
+     616,
+     667,
+     626,
+     681,
+     "r6"
+    ],
+    [
+     732,
+     667,
+     734,
+     669,
+     "r6"
+    ],
+    [
+     736,
+     667,
+     746,
+     681,
+     "r6"
+    ],
+    [
+     749,
+     667,
+     752,
+     669,
+     "r6"
+    ],
+    [
+     795,
+     667,
+     799,
+     681,
+     "r6"
+    ],
+    [
+     801,
+     667,
+     805,
+     681,
+     "r6"
+    ],
+    [
+     863,
+     667,
+     866,
+     669,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 505,
+    "y0": 665,
+    "x1": 902,
+    "y1": 1427
+   },
+   "text": "One of the most striking illustrations of what can be done by a strong desire for a home and home ties is shown in the life of Dinah Watts Pace, a colored woman of over fifty, who has devoted her life to making a home for homeless boys and girls. Mrs. Pace was educated at Atlanta University, and came to Covington, Ga., when about twenty to teach school. She had a big, motherly heart and began to take into her cabin an occasional stray or lost youngster. It soon became known that the young teacher kept open house for the lonely or homeless children, and very soon there were more children than rooms. Nothing frightened this devoted worker and lover of her race. She taught one of her adopted children to work in the home—the boys as well as the girls—the boys doing the heavier, the girls the lighter duties. Later on by their united efforts a few acres of land were bought. A friend donated money for a very modest house, and the family was added to from time to time. It is over twenty years now since Mrs. Pace kept \"open house,\" and during that time she has raised and sent out into the world about 200 children all equipped in some way to earn a living. All this has been done with very little money, but chiefly by a desire to make a home life for these helpless and homeless children of her own race. She has most certainly succeeded, for in teaching to them the dignity of labor in the home she has given them an inheritance they cannot lose, no matter how high up any of them may yet rise in the affairs of state.",
+   "status": "ok",
+   "confidence": 0.9744040966033936,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 504,
+    "y0": 665,
+    "x1": 899,
+    "y1": 1425
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 6,
+  "regions_after": 6,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

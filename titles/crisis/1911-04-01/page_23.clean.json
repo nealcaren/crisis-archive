@@ -1,0 +1,553 @@
+{
+ "page": 23,
+ "image": "images/page_23.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.2,
+  "at": "2026-10-06T21:27:56+00:00"
+ },
+ "regions": [
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 209,
+    "y0": 174,
+    "x1": 764,
+    "y1": 238
+   },
+   "text": "Leaving It to the South",
+   "status": "ok",
+   "confidence": 0.8219242095947266,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 205,
+    "y0": 169,
+    "x1": 763,
+    "y1": 323
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r1b",
+   "label": "title",
+   "bbox": {
+    "x0": 209,
+    "y0": 238,
+    "x1": 764,
+    "y1": 322
+   },
+   "text": "CHARLES EDWARD RUSSELL",
+   "status": "ok",
+   "confidence": 0.8219242095947266,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 205,
+    "y0": 169,
+    "x1": 763,
+    "y1": 323
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 76,
+    "y0": 357,
+    "x1": 475,
+    "y1": 590
+   },
+   "text": "SIX representative Southern men sat talking one day in a lawyer's office in Atlanta. They were talking about the race problem. With no intention of jocularity I may say that to one that knows the South as it is to mention their subject is quite superfluous. It is enough to say that they were Southerners, and they were talking. That would usually mean that they were talking about the one great overshadowing issue.",
+   "status": "ok",
+   "confidence": 0.9653959274291992,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 74,
+    "y0": 354,
+    "x1": 472,
+    "y1": 585
+   },
+   "exclude": [
+    [
+     99,
+     588,
+     105,
+     603,
+     "r3"
+    ],
+    [
+     121,
+     588,
+     125,
+     603,
+     "r3"
+    ],
+    [
+     128,
+     588,
+     131,
+     591,
+     "r3"
+    ],
+    [
+     182,
+     588,
+     192,
+     603,
+     "r3"
+    ],
+    [
+     213,
+     589,
+     222,
+     603,
+     "r3"
+    ],
+    [
+     248,
+     588,
+     251,
+     591,
+     "r3"
+    ],
+    [
+     291,
+     588,
+     297,
+     604,
+     "r3"
+    ],
+    [
+     362,
+     589,
+     364,
+     592,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 76,
+    "y0": 586,
+    "x1": 473,
+    "y1": 741
+   },
+   "text": "I listened, hoping for enlightenment. These were university men; all but one (though Southern born) were from great Northern universities, Harvard, Yale, Princeton; all were lawyers and of standing in their profession. Here, I said, I shall find the best Southern thought on this tangled monster.",
+   "status": "ok",
+   "confidence": 0.9734032154083252,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 74,
+    "y0": 586,
+    "x1": 472,
+    "y1": 737
+   },
+   "exclude": [
+    [
+     99,
+     739,
+     112,
+     755,
+     "r4"
+    ],
+    [
+     134,
+     740,
+     144,
+     755,
+     "r4"
+    ],
+    [
+     161,
+     740,
+     170,
+     754,
+     "r4"
+    ],
+    [
+     183,
+     740,
+     193,
+     755,
+     "r4"
+    ],
+    [
+     256,
+     740,
+     260,
+     755,
+     "r4"
+    ],
+    [
+     283,
+     740,
+     285,
+     742,
+     "r4"
+    ],
+    [
+     167,
+     574,
+     178,
+     588,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 76,
+    "y0": 737,
+    "x1": 473,
+    "y1": 1059
+   },
+   "text": "Each had a solution to offer or to favor. One advocated deportation. The government, he said, should charter enough steamships to take all the Negroes from America, land them in Africa and leave them there.\n\nTo this all the others had strong objections. They pointed out that the expense would be enormous and that to secure the necessary appropriation would be almost impossible. They seemed also to think that this suggestion was weak and womanish and I gathered that its advocate was regarded as a rather foolish person. It happened that he was the Southern university man, but doubtless that was a mere coincidence.",
+   "status": "ok",
+   "confidence": 0.9737071394920349,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 74,
+    "y0": 738,
+    "x1": 471,
+    "y1": 1058
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 75,
+    "y0": 1059,
+    "x1": 473,
+    "y1": 1347
+   },
+   "text": "The next man thought that the problem was working itself out in a satisfactory way without further legislation. He took from his pocket a paper of statistics showing comparatively by years the increase of tuberculosis and pulmonary complaints among the Negroes, and read these to a deeply interested audience. He had added many calculations of his own as to the probable progress of these diseases and seemed to prove that at the existing rates of increase the Negroes would in so many years be reduced to inconsiderable numbers and in so many more would be extinct.",
+   "status": "ok",
+   "confidence": 0.9783481955528259,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 74,
+    "y0": 1059,
+    "x1": 471,
+    "y1": 1343
+   },
+   "exclude": [
+    [
+     98,
+     1346,
+     105,
+     1360,
+     "r6"
+    ],
+    [
+     193,
+     1346,
+     197,
+     1360,
+     "r6"
+    ],
+    [
+     318,
+     1346,
+     327,
+     1361,
+     "r6"
+    ],
+    [
+     353,
+     1346,
+     362,
+     1361,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 74,
+    "y0": 1344,
+    "x1": 472,
+    "y1": 1442
+   },
+   "text": "It was also suggested that the increased use of cocaine among the Negroes would greatly hasten this result and there was considerable information adduced on this point. It seemed that",
+   "status": "ok",
+   "confidence": 0.9621155858039856,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 72,
+    "y0": 1343,
+    "x1": 470,
+    "y1": 1439
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 497,
+    "y0": 361,
+    "x1": 895,
+    "y1": 587
+   },
+   "text": "the cocaine habit was spreading rapidly. There was a suggested question whether the State had done well to abolish liquor selling, but the general opinion was that the advantages outweighed any possible disadvantages. Someone observed that there was a marked decline in the average physical condition of the Negroes, and this was taken as indicating that in all probability tuberculosis or some other form of disease would solve the problem.",
+   "status": "ok",
+   "confidence": 0.9783365726470947,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 496,
+    "y0": 359,
+    "x1": 892,
+    "y1": 586
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 496,
+    "y0": 588,
+    "x1": 893,
+    "y1": 873
+   },
+   "text": "I did not hear any of the gentlemen at any time say anything to indicate a belief that the South or the country owed any duty, to the Negroes except to get rid of them. I have never heard any Southerner of this order make any such admission nor concede that the Negroes had any right to education or citizenship or a fair chance in life. A suggestion to that effect has usually been regarded as absurd, lunatic or incomprehensible. The Negro, in my observation, is regarded basically as a wilful and hateful intruder whose presence is by all men rightfully resented.",
+   "status": "ok",
+   "confidence": 0.9785304665565491,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 496,
+    "y0": 588,
+    "x1": 890,
+    "y1": 869
+   },
+   "exclude": [
+    [
+     514,
+     858,
+     534,
+     887,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 496,
+    "y0": 856,
+    "x1": 894,
+    "y1": 1251
+   },
+   "text": "Now the men that I listened to in the lawyer's office were without exception good men. They were able, intelligent and honest; on any other subject in the world they were reasonable and just; toward all other persons but Negro persons they were kindly, generous and charitable. I think all were professing Christians, and I know all were of irreproachable characters. To relieve the unfortunate of their own color they would at all times do most generous things, and at any news of any great disaster among their own people they were moved with genuine pity. Yet they would learn with satisfaction of the progress of disease among colored persons and talk coldbloodedly of the relative merits of cocaine and consumption in reducing the Negro population.",
+   "status": "ok",
+   "confidence": 0.6145214438438416,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 496,
+    "y0": 870,
+    "x1": 890,
+    "y1": 1249
+   },
+   "exclude": [
+    [
+     526,
+     853,
+     535,
+     868,
+     "r8"
+    ],
+    [
+     545,
+     853,
+     552,
+     868,
+     "r8"
+    ],
+    [
+     564,
+     853,
+     568,
+     868,
+     "r8"
+    ],
+    [
+     571,
+     853,
+     574,
+     868,
+     "r8"
+    ],
+    [
+     665,
+     854,
+     674,
+     868,
+     "r8"
+    ],
+    [
+     538,
+     856,
+     543,
+     868,
+     "r8"
+    ],
+    [
+     647,
+     856,
+     653,
+     868,
+     "r8"
+    ],
+    [
+     499,
+     858,
+     506,
+     868,
+     "r8"
+    ],
+    [
+     508,
+     859,
+     512,
+     868,
+     "r8"
+    ],
+    [
+     553,
+     858,
+     562,
+     868,
+     "r8"
+    ],
+    [
+     576,
+     858,
+     586,
+     871,
+     "r8"
+    ],
+    [
+     597,
+     858,
+     604,
+     868,
+     "r8"
+    ],
+    [
+     606,
+     858,
+     613,
+     868,
+     "r8"
+    ],
+    [
+     616,
+     858,
+     623,
+     868,
+     "r8"
+    ],
+    [
+     625,
+     858,
+     633,
+     868,
+     "r8"
+    ],
+    [
+     636,
+     858,
+     644,
+     868,
+     "r8"
+    ],
+    [
+     655,
+     858,
+     662,
+     868,
+     "r8"
+    ],
+    [
+     676,
+     865,
+     679,
+     868,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 496,
+    "y0": 1249,
+    "x1": 894,
+    "y1": 1439
+   },
+   "text": "A short time before, seated in the buffet car of a Southern Pacific express from New Orleans, I had heard men of a coarser type talking about the Galveston flood. One of them, a Galveston man, said that the militia shot a large number of Negroes for alleged looting, but that not five per cent. of the men shot were looters or had any idea of theft. He said:",
+   "status": "ok",
+   "confidence": 0.5844976305961609,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 495,
+    "y0": 1249,
+    "x1": 890,
+    "y1": 1439
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 4.48,
+  "box_overlaps_after": 5,
+  "log": [
+   "drop r0 (abandon): empty ''",
+   "split r1 at y=238 before 'CHARLES EDWARD RUSSELL'"
+  ]
+ }
+}

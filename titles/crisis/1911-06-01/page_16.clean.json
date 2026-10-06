@@ -1,0 +1,416 @@
+{
+ "page": 16,
+ "image": "images/page_16.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.3,
+  "at": "2026-10-06T21:49:03+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 723,
+    "y0": 192,
+    "x1": 1238,
+    "y1": 641
+   },
+   "text": "Since the union depot has been in use, there is but one window and one seller for white and colored patrons alike.' The Corporation Commission of the State in question will be hard put to it to justify its exemption of this and other cities from the two-window provision. It would doubtless fall back upon the argument that the amount of traffic does not warrant the added expense of the second window, but this is to put expediency above principle, and dollars above prejudice. From separate depots to a common window is degeneracy indeed. If it is undesirable to prohibit the Negroes from using the railroads altogether, why not limit them to, say, the first and the fifteenth of each month?\"",
+   "status": "ok",
+   "confidence": 0.9774381518363953,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 722,
+    "y0": 192,
+    "x1": 1235,
+    "y1": 640
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 178,
+    "y0": 196,
+    "x1": 689,
+    "y1": 370
+   },
+   "text": "because the election was entirely perfunctory in character. they were inflicting no injury upon anyone by returning a larger vote than was cast. They have, however, now been made to realize that public sentiment is no longer tolerant of crookedness at the ballot box.",
+   "status": "ok",
+   "confidence": 0.9714314937591553,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 178,
+    "y0": 194,
+    "x1": 686,
+    "y1": 369
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 179,
+    "y0": 370,
+    "x1": 690,
+    "y1": 818
+   },
+   "text": "\"Ballot-box stuffing was the natural sequel of the war. Manipulation of the elections or expulsion of the Negroes from the polls was necessary to prevent the State from falling back into the control of the inferior race. These conditions, justified by the law of self-preservation, continued to a greater or less extent, not only in the city, but wherever in the State there was a preponderance of Negro population, until the convention of 1898 which, following the example of Mississippi, constitutionally eliminated the Negro from the electorate. Since then there has been no warrant for dishonesty in elections, though frauds have continued, not generally but sporadically, both here and in the country parishes.\"",
+   "status": "ok",
+   "confidence": 0.9774214029312134,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 179,
+    "y0": 371,
+    "x1": 687,
+    "y1": 813
+   },
+   "exclude": [
+    [
+     210,
+     815,
+     227,
+     834,
+     "r4"
+    ],
+    [
+     276,
+     815,
+     289,
+     834,
+     "r4"
+    ],
+    [
+     230,
+     816,
+     241,
+     833,
+     "r4"
+    ],
+    [
+     422,
+     816,
+     426,
+     834,
+     "r4"
+    ],
+    [
+     444,
+     817,
+     456,
+     835,
+     "r4"
+    ],
+    [
+     512,
+     817,
+     516,
+     834,
+     "r4"
+    ],
+    [
+     566,
+     817,
+     577,
+     834,
+     "r4"
+    ],
+    [
+     595,
+     817,
+     598,
+     834,
+     "r4"
+    ],
+    [
+     603,
+     817,
+     607,
+     834,
+     "r4"
+    ],
+    [
+     645,
+     817,
+     657,
+     835,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 724,
+    "y0": 650,
+    "x1": 1238,
+    "y1": 971
+   },
+   "text": "Mr. James Bryce, ambassador from Great Britain, recently addressed the colored Young Men's Christian Association in Washington. In the course of his address he said: \"Your forefathers were brought to this country by our forefathers, and it is our duty to see that you have every chance for advancement and education. This is not an obligation resting upon any one country, but upon every nation that was instrumental in taking your ancestors from their native lands.",
+   "status": "ok",
+   "confidence": 0.9743446707725525,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 722,
+    "y0": 650,
+    "x1": 1236,
+    "y1": 970
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 182,
+    "y0": 812,
+    "x1": 691,
+    "y1": 1122
+   },
+   "text": "\"The New South is a little too new for some of those who live in it,\" observes the New York Evening Post. \"As one of its newspapers points out, it was not long ago that the railroads passing through a certain town maintained separate stations, or, to be more accurate, 'depots,' each with its ticket-seller.",
+   "status": "ok",
+   "confidence": 0.9469171166419983,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 181,
+    "y0": 813,
+    "x1": 690,
+    "y1": 1120
+   },
+   "exclude": [
+    [
+     542,
+     799,
+     550,
+     814,
+     "r2"
+    ],
+    [
+     571,
+     798,
+     583,
+     815,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 725,
+    "y0": 971,
+    "x1": 1238,
+    "y1": 1123
+   },
+   "text": "\"England, Germany, France, Spain and Portugal, all were responsible for taking Negroes to Europe, and it has fallen upon the present generation to stand by the acts of their ancestors, and to see that you are properly educated.\"",
+   "status": "ok",
+   "confidence": 0.9608794450759888,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 725,
+    "y0": 971,
+    "x1": 1236,
+    "y1": 1120
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "title",
+   "bbox": {
+    "x0": 185,
+    "y0": 1226,
+    "x1": 1244,
+    "y1": 1398
+   },
+   "text": "THE N. A. A. C. P.",
+   "status": "ok",
+   "confidence": 0.2716367840766907,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 290,
+    "y0": 1269,
+    "x1": 1134,
+    "y1": 1348
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "THE N. A. A. C. P.",
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 184,
+    "y0": 1427,
+    "x1": 695,
+    "y1": 1777
+   },
+   "text": "A month ago a woman was brutally murdered in a wood near Lakewood, New Jersey. New Jersey seems lately to have changed the phrase \"Look for the criminal\" to \"Look for the Negro.\" As in the case of the murder of Marie Smith at Asbury Park, in which this Association secured the release of an innocent black man, the first Negro found near the scene of the crime was arrested. He proved an alibi, however, and was not long detained. The police, nothing daunted, arrested another colored man, Henry Graham.",
+   "status": "ok",
+   "confidence": 0.9755350947380066,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 184,
+    "y0": 1425,
+    "x1": 692,
+    "y1": 1772
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 728,
+    "y0": 1415,
+    "x1": 1244,
+    "y1": 1809
+   },
+   "text": "our representative was greeted on his arrival with the remark: \"We thought you people would send somebody down.\"\n\nThe press despatches which reported the arrest of Graham said that the search for the murderer would now be abandoned, so sure were the authorities that Graham was the man. It turned out, however, that there was not the remotest bit of evidence to hold him, any more than there was to hold Williams in the Marie Smith case, and at the protest of the Association's lawyer the prisoner was released.",
+   "status": "ok",
+   "confidence": 0.9776389002799988,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 727,
+    "y0": 1426,
+    "x1": 1242,
+    "y1": 1809
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 184,
+    "y0": 1777,
+    "x1": 697,
+    "y1": 1956
+   },
+   "text": "While the Association was preparing to take up the case Mrs. Graham sent us a letter asking our aid and saying that her husband was ill in prison. We at once sent a lawyer to Lakewood and it was a somewhat gratifying evidence of the Association's growing influence that",
+   "status": "ok",
+   "confidence": 0.9751176834106445,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 183,
+    "y0": 1777,
+    "x1": 694,
+    "y1": 1953
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 731,
+    "y0": 1813,
+    "x1": 1246,
+    "y1": 1951
+   },
+   "text": "There is said to be no clue whatever to the murderer. It will be remembered that in the Asbury Park case the guilty man (white) subsequently made a confession.",
+   "status": "ok",
+   "confidence": 0.9664483070373535,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 722,
+    "y0": 1813,
+    "x1": 1242,
+    "y1": 2065
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "abandon",
+   "bbox": {
+    "x0": 178,
+    "y0": 127,
+    "x1": 214,
+    "y1": 156
+   },
+   "text": "60",
+   "status": "ok",
+   "confidence": 0.8410863876342773,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 177,
+    "y0": 126,
+    "x1": 213,
+    "y1": 152
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r15",
+   "label": "abandon",
+   "bbox": {
+    "x0": 594,
+    "y0": 127,
+    "x1": 801,
+    "y1": 157
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.7882415056228638,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 593,
+    "y0": 126,
+    "x1": 800,
+    "y1": 157
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 16,
+  "regions_after": 13,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 2.1,
+  "box_overlaps_after": 1,
+  "log": [
+   "drop r6 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r7 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r13 (text): non-latin hallucination 'حرَّجَة'",
+   "reshape r8 (title): lost 0% of its ink, gained 57%",
+   "reread r8: 'THE N. A. A. C. P.' -> 'THE N. A. A. C. P.'"
+  ]
+ }
+}

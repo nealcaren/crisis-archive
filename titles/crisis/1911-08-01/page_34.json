@@ -1,0 +1,197 @@
+{
+  "page": 34,
+  "image": "images/page_34.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 497,
+        "y0": 94,
+        "x1": 659,
+        "y1": 119
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.7743231058120728,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 178,
+        "y0": 119,
+        "x1": 695,
+        "y1": 633
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 209,
+        "y0": 146,
+        "x1": 995,
+        "y1": 717
+      },
+      "text": "THE MOSQUE AT JENNE\n\nlited in the plantations of the New world the cities of the desert have been the march of progress in the Soudan will be startlingly rapid.",
+      "status": "ok",
+      "confidence": 0.9673092365264893,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 178,
+        "y0": 679,
+        "x1": 573,
+        "y1": 965
+      },
+      "text": "ploited in the plantations of the New World the cities of the desert have been laid waste by enemies, who, if they did not have more courage than their black opponents and certainly were morally their inferiors, were able to conquer them by superiority of weapons. When the black man was weakened by perpetuous warfare against such tremendous odds, the roving tribes of the empire of Morocco preyed on him still further. Only within recent years has he learned how to defend himself. It is safe to prophesy that now he has learned a lesson,",
+      "status": "ok",
+      "confidence": 0.9760417938232422,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 599,
+        "y0": 717,
+        "x1": 996,
+        "y1": 965
+      },
+      "text": "The railway will put the country in touch with modern ideas and the French are willing to be fair with the people. Although they may fall short of their ideal of liberty, equality, fraternity, it is still an ideal. They are still ashamed when it is violated. The black Soudanese of the West is coming into his own again. Before very long there may be re-established along the yellow waters of the Niger the old civilization and perhaps even the old power.",
+      "status": "ok",
+      "confidence": 0.9740490913391113,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 178,
+        "y0": 965,
+        "x1": 695,
+        "y1": 1173
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 596,
+        "y0": 965,
+        "x1": 998,
+        "y1": 1176
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 329,
+        "y0": 1056,
+        "x1": 843,
+        "y1": 1115
+      },
+      "text": "SOME LETTERS",
+      "status": "ok",
+      "confidence": 0.333931028842926,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 262,
+        "y0": 1173,
+        "x1": 551,
+        "y1": 1215
+      },
+      "text": "FROM THE SOUTH.\nMay 8, 1911.",
+      "status": "ok",
+      "confidence": 0.8507486581802368,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 596,
+        "y0": 1176,
+        "x1": 998,
+        "y1": 1588
+      },
+      "text": "kindly appearing man will come up and pay my fine and take me to his farm to allow me to work it out. At the end of a month I find that I owe him more than I did when I went there. The debt is increased year in and year out. You would ask, \"How is that?\" It is simply that he is charging you more for your board, lodging and washing than they allow you for your work, and you can't help yourself either, nor can anyone else help you, because you are still a prisoner and never get your fine worked out. If you do as they say and be a good Negro, you are allowed to marry, provided you can get somee one to have you, and of course the debt still in-",
+      "status": "ok",
+      "confidence": 0.953784167766571,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 181,
+        "y0": 1213,
+        "x1": 576,
+        "y1": 1504
+      },
+      "text": "KIND SIR:\nI am not an educated man. I will give you the peonage system as it is practised here in the name of the law.\nIf a colored man is arrested here and hasn't any money, whether he is guilty or not, he has to pay just the same. A man of color is never tried in this country. It is simply a farce. Everything is fixed before he enters the courtroom. I will try to give you an illustration of how it is done:\nI am brought in a prisoner, go through the farce of being tried. The whole of my fine may amount to fifty dollars. A",
+      "status": "ok",
+      "confidence": 0.9755256175994873,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 178,
+        "y0": 1504,
+        "x1": 695,
+        "y1": 1588
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 175,
+        "y0": 99,
+        "x1": 213,
+        "y1": 120
+      },
+      "text": "166",
+      "status": "ok",
+      "confidence": 0.8591302633285522,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.4,
+    "at": "2026-10-06T22:14:19+00:00"
+  }
+}

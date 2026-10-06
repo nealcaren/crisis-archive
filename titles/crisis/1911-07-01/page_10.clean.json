@@ -1,0 +1,389 @@
+{
+ "page": 10,
+ "image": "images/page_10.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.1,
+  "at": "2026-10-06T21:57:31+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 455,
+    "y0": 88,
+    "x1": 618,
+    "y1": 112
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8669136166572571,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 453,
+    "y0": 86,
+    "x1": 617,
+    "y1": 111
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 557,
+    "y0": 138,
+    "x1": 961,
+    "y1": 296
+   },
+   "text": "men, banks and others will be interested in the project and every effort made to prevent Orientals and colored persons from renting or buying property in sections in which many pretty homes have been erected. Certain sections of the city have been designated as \"restricted\" areas.",
+   "status": "ok",
+   "confidence": 0.9745877385139465,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 555,
+    "y0": 138,
+    "x1": 960,
+    "y1": 296
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 130,
+    "y0": 141,
+    "x1": 542,
+    "y1": 485
+   },
+   "text": "Nashville, Tenn. The Hubbard Hospital was opened several months ago. The wing already completed cost about $15,000, which was raised among the colored people themselves. The furniture in the building was supplied by funds raised by numerous colored women's clubs. q At the forty-eighth annual commencement of Wilberforce University the centenary of the birth of the late Bishop Daniel A. Payne, founder of the college, was observed on the 11th and 12th of June. Bishops H. M. Turner, W. B. Derrick, L. J. Coppin, B. F. Lee, C. T. Shaffer and others delivered addresses eulogizing the founder.",
+   "status": "ok",
+   "confidence": 0.9722328782081604,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 130,
+    "y0": 139,
+    "x1": 532,
+    "y1": 482
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 558,
+    "y0": 308,
+    "x1": 961,
+    "y1": 542
+   },
+   "text": "Colored ushers have supplanted white ushers in the new Northwestern depot in Chicago. In making the change a time-honored custom has been abandoned. Officials of the road have advanced a number of reasons for the change, chief among which is that colored ushers are easier to obtain, and thatinasmuch as the Pullman porters are now all of that race it is thought advisable to make the system uniform throughout.",
+   "status": "ok",
+   "confidence": 0.9772824048995972,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 557,
+    "y0": 308,
+    "x1": 960,
+    "y1": 542
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 133,
+    "y0": 500,
+    "x1": 533,
+    "y1": 558
+   },
+   "text": "The colored teachers of Spartanburg County, S. C., are trying to organize a summer school.",
+   "status": "ok",
+   "confidence": 0.9472718834877014,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 132,
+    "y0": 498,
+    "x1": 531,
+    "y1": 559
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 558,
+    "y0": 560,
+    "x1": 962,
+    "y1": 911
+   },
+   "text": "At a meeting of the Tenth Ward Citizens' Association of Kansas City, Andrew E. Gallagher, a member of the Tenth Ward Citizens' League, made the announcement that great pressure was being brought to bear on the Board of Education with reference to Negro teachers living on Montgall Avenue, between Twenty-fourth and Twenty-fifth Streets. The meeting was in the nature of an \"anti-Negro\" gathering. The league was formed two years ago for the purpose of forcing the Negroes from the south end of the tenth ward. This was the topic of discussion at the recent meeting. One of the speakers was Floyd E. Jacobs, an assistant prosecutor in Kansas City.",
+   "status": "ok",
+   "confidence": 0.9782581925392151,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 558,
+    "y0": 559,
+    "x1": 959,
+    "y1": 907
+   },
+   "exclude": [
+    [
+     595,
+     910,
+     600,
+     925,
+     "r7"
+    ],
+    [
+     621,
+     910,
+     630,
+     925,
+     "r7"
+    ],
+    [
+     683,
+     910,
+     686,
+     913,
+     "r7"
+    ],
+    [
+     805,
+     910,
+     814,
+     925,
+     "r7"
+    ],
+    [
+     834,
+     910,
+     840,
+     925,
+     "r7"
+    ],
+    [
+     943,
+     910,
+     945,
+     913,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 134,
+    "y0": 622,
+    "x1": 535,
+    "y1": 913
+   },
+   "text": "The New England African Methodist Episcopal Conference voted at their annual conference to advise the Secretary of the Navy \"that there has come to our knowledge that there exists at navy recruiting stations an impossibility for Negroes to enlist except as coal passers or mess attendants, that the Negro is discriminated against aboard the receiving ships Hancock at New York and Franklin at Norfolk, that on several battleships the Negro is segregated, and that he has no opportunity to rise. It is petitioned that these conditions be investigated and remedied.\"",
+   "status": "ok",
+   "confidence": 0.9786524176597595,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 134,
+    "y0": 621,
+    "x1": 531,
+    "y1": 910
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 561,
+    "y0": 908,
+    "x1": 970,
+    "y1": 1293
+   },
+   "text": "\"I have just returned from a trip through the South,\" said Mr. Jacobs. \"There the people have to deal with the Negro problem upon a large scale and they know how to accomplish many things better than we who live in the North. In all of the principal cities of the Southern States the Negroes are segregated from the whites. Consequently there is no deterioration of property as we know it here. In this movement to organize Kansas City for its best development I am with you from beginning to end. It is the duty of every man here and every citizen of Kansas City to line up in this move which the Tenth Ward Citizens' League has initiated. I do not say this because of race prejudice or of social prejudice, but it is a question of economics.\"",
+   "status": "ok",
+   "confidence": 0.9795733690261841,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 560,
+    "y0": 908,
+    "x1": 961,
+    "y1": 1294
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 134,
+    "y0": 919,
+    "x1": 537,
+    "y1": 1338
+   },
+   "text": "\"Wanted, 400 men! 100 boys! To use our association home.\" This was the caption of a large whole-page advertisement used by the Alice Johnson colored Young Men's Christian Association in Knoxville. Tenn. A membership campaign was started by the members of the colored branch of the Young Men's Christian Association in May to obtain 400 adult and 100 junior members of the association. It is said that the advertisement has been the means of attracting many new members.\n\nPresident Taft made an address before a congregation of colored men in Washington who are endeavoring to raise money for the completion of their Young Men's Christian Association building in that city. He praised the generosity of Julius Rosenwald, of Chicago, who gave $25,000 for that purpose.",
+   "status": "ok",
+   "confidence": 0.9788354635238647,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 135,
+    "y0": 917,
+    "x1": 535,
+    "y1": 1334
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 564,
+    "y0": 1313,
+    "x1": 965,
+    "y1": 1511
+   },
+   "text": "Opposition to the continued immigration of American Negroes from Oklahoma into the Canadian northwest grew so rapidly that it was believed that the Canadian government might take action to put a stop to any further influx. The Edmonton, Alberta, Board of Trade passed resolutions to protest against the continuance of the immigration. The Winnipeg Board of Trade protested on",
+   "status": "ok",
+   "confidence": 0.9734110236167908,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 562,
+    "y0": 1311,
+    "x1": 964,
+    "y1": 1509
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 137,
+    "y0": 1381,
+    "x1": 538,
+    "y1": 1510
+   },
+   "text": "To check the invasion of choice residence districts by Japanese, Chinese and Negroes, citizens of North Berkeley, California, have formed an organization. According to the circular issued by the association, property owners, real estate",
+   "status": "ok",
+   "confidence": 0.9752615690231323,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 136,
+    "y0": 1388,
+    "x1": 537,
+    "y1": 1508
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 128,
+    "y0": 89,
+    "x1": 157,
+    "y1": 111
+   },
+   "text": "98",
+   "status": "ok",
+   "confidence": 0.8535069227218628,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 127,
+    "y0": 88,
+    "x1": 156,
+    "y1": 109
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r12",
+   "label": "title",
+   "bbox": {
+    "x0": 249,
+    "y0": 594,
+    "x1": 417,
+    "y1": 614
+   },
+   "text": "THE CHURCH.",
+   "status": "ok",
+   "confidence": 0.9047195911407471,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 248,
+    "y0": 591,
+    "x1": 413,
+    "y1": 613
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "title",
+   "bbox": {
+    "x0": 263,
+    "y0": 1361,
+    "x1": 413,
+    "y1": 1380
+   },
+   "text": "ECONOMICS.",
+   "status": "ok",
+   "confidence": 0.8911876082420349,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 262,
+    "y0": 1358,
+    "x1": 411,
+    "y1": 1382
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 14,
+  "regions_after": 14,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.28,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

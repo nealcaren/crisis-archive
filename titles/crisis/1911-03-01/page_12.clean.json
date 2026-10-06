@@ -1,0 +1,296 @@
+{
+ "page": 12,
+ "image": "images/page_12.jpg",
+ "width": 1085,
+ "height": 1666,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.6,
+  "at": "2026-10-06T21:17:22+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 513,
+    "y0": 92,
+    "x1": 666,
+    "y1": 117
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8177012801170349,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 512,
+    "y0": 90,
+    "x1": 665,
+    "y1": 116
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 162,
+    "y0": 95,
+    "x1": 574,
+    "y1": 413
+   },
+   "text": "(N. Y.) Journal writes from Washington: \"When the proposition for the election of senators by direct vote came before the senate there was every indication that it would command the necessary two-thirds vote and might be speedily passed. Then the Negro issue was raised. As a result there was a long period of waiting. From different sections of the country came reports of apprehension on the part of Negro leaders. It was evident that the Negro is a power in many States even if he is no longer much of a factor in the South.\"",
+   "status": "ok",
+   "confidence": 0.9755293130874634,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 161,
+    "y0": 94,
+    "x1": 572,
+    "y1": 625
+   },
+   "exclude": [
+    [
+     515,
+     95,
+     530,
+     115,
+     "r0"
+    ],
+    [
+     530,
+     95,
+     551,
+     115,
+     "r0"
+    ],
+    [
+     552,
+     95,
+     569,
+     115,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r1b",
+   "label": "abandon",
+   "bbox": {
+    "x0": 162,
+    "y0": 413,
+    "x1": 574,
+    "y1": 626
+   },
+   "text": "THE SOCIALISTS.\nThe race question has been receiving a good deal of attention from Socialists in New York. The Socialist organ, the Call, printed an editorial on a lecture delivered before a \"local\" by Dr. W. E. B. DuBois, and this editorial brought a protest, of a familiar sort, from one who signed himself \"Southern Socialist.\" In a lengthy reply the Call said:",
+   "status": "ok",
+   "confidence": 0.9755293130874634,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 161,
+    "y0": 94,
+    "x1": 572,
+    "y1": 625
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 163,
+    "y0": 625,
+    "x1": 575,
+    "y1": 1099
+   },
+   "text": "\"The letter by a 'Southern Socialist' brings forward the old stock argument against granting the Negro the economic, political, educational and other social rights that are enjoyed by the white man.\n\n\"Granting the Negro equal rights does not mean that you are obliged to be on terms of personal intimacy with him, that you must invite him to your home, and that you must give him your daughter in marriage. But it does mean that he is to have the same economic opportunities as the white man, that his vote is to be of equal effect with the white man's, that the educational opportunities offered by school, college and university are to be open to him on the same conditions as to the white man, and that in all other respects he is to be treated as the peer, and not as the inferior, of the white man. If you desire to be on terms of friendly intimacy with a Negro, that is your affair and the Negro's affair. Society is not concerned with it in the least.",
+   "status": "ok",
+   "confidence": 0.977473795413971,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 162,
+    "y0": 625,
+    "x1": 573,
+    "y1": 1097
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 166,
+    "y0": 1100,
+    "x1": 579,
+    "y1": 1561
+   },
+   "text": "\"Socialism calls upon all workers, irrespective of nationality, creed or color, to join hands against the capitalist oppressors. The Negro worker is, quite naturally, somewhat suspicious. He has been imposed upon again and again. Nevertheless, he is bound to discover, sooner or later, that the Socialist movement is radically different from every other movement of the past or present.\n\n\"The ideal of this movement—the abolition of all classes and all exploitation—cements everywhere the unity of all who are engaged in it. It is also bound to profoundly affect the relation of the white worker to his Negro comrade. It is bound to open the doors of the trade unions to the Negro workers, who are to be placed on a footing of perfect equality. To the unions this is, indeed, a necessity of their very existence, for to exclude Negroes from equal participation in the struggles of labor for immediate improvement is equiva-",
+   "status": "ok",
+   "confidence": 0.9759002327919006,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 167,
+    "y0": 1099,
+    "x1": 577,
+    "y1": 1558
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 598,
+    "y0": 143,
+    "x1": 1013,
+    "y1": 646
+   },
+   "text": "lent to the artificial breeding of strikebreakers.\n\"But a successful Socialist movement will do for the Negro infinitely more than this. At the very best, Negro equality under capitalism can be only equality with his fellow workers in wage slavery. But a Socialist state of society is the only society in which the Negro will be given, for the first time in recorded history, the opportunity to develop all that is best in him, physically and mentally.\n\"And in the meanwhile, while the struggle for this great ideal is going on, it is the duty of the Socialist movement everywhere to champion the rights of the Negro. This course, which is the only one we can take, will undoubtedly retard our growth in the States of the South. But steadfast adherence to principle has been demonstrated again and again to be the only course that leads to Socialist success. And in the long run our success in the South is as certain, as preordained, as our success in the rest of the country and in the world.\"",
+   "status": "ok",
+   "confidence": 0.9751753807067871,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 596,
+    "y0": 142,
+    "x1": 1012,
+    "y1": 642
+   },
+   "exclude": [
+    [
+     737,
+     645,
+     744,
+     661,
+     "r5"
+    ],
+    [
+     894,
+     645,
+     896,
+     648,
+     "r5"
+    ],
+    [
+     926,
+     645,
+     928,
+     648,
+     "r5"
+    ],
+    [
+     931,
+     645,
+     954,
+     661,
+     "r5"
+    ],
+    [
+     956,
+     645,
+     961,
+     661,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 599,
+    "y0": 643,
+    "x1": 1013,
+    "y1": 977
+   },
+   "text": "A number of readers enthusiastically endorsed by letter the Call's attitude. One man wrote that the race question was the most important issue before the Socialists to-day and warned them against \"expedient hypocrisy.\" The writer concludes: \"Let us frankly seek the economic freedom of our own class, realizing that the vast majority of the Negroes are of us and must needs be with us or we are lost. Education means agitation. Let us start the propaganda by doing all in our power to bring the Negro into our organization and thus educate our white members to work with him and thus overcome the habit of race prejudice.\"",
+   "status": "ok",
+   "confidence": 0.9773454666137695,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 599,
+    "y0": 644,
+    "x1": 1011,
+    "y1": 1197
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r5b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 599,
+    "y0": 977,
+    "x1": 1013,
+    "y1": 1200
+   },
+   "text": "SEGREGATION AGAIN.\nThe Baltimore segregation ordinance continues to bring out comment. When it was pronounced void, on account of technical defects, the New York Evening Post said: \"It is interesting to note that while the judges rendered their decision on the ground of improper framing of the ordinance, they took occasion, in handing down the decision, to touch upon the real issue involved, as follows:",
+   "status": "ok",
+   "confidence": 0.9773454666137695,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 599,
+    "y0": 644,
+    "x1": 1011,
+    "y1": 1197
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 602,
+    "y0": 1198,
+    "x1": 1014,
+    "y1": 1562
+   },
+   "text": "\"Whether it is possible to pass a valid ordinance providing for the segregation of the white and colored races in their places of residence, is a question of great importance, but is one which in our judgment ought to be decided when an ordinance not otherwise void is before this court.\n\n\"It happens that of the two judges sitting in the case one is a Democrat and the other a Republican, but there is apparently no difference of opinion between them as to the grave doubt that attaches to the question whether it would be possible constitutionally to effect the object arrived at by any device whatsoever.\"\n\nHarper's Weekly observes: \"Baltimore may be the first large community to attempt to legalize a discrimination against Negroes",
+   "status": "ok",
+   "confidence": 0.9753983020782471,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 601,
+    "y0": 1198,
+    "x1": 1013,
+    "y1": 1559
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 4,
+  "log": [
+   "split r1 at y=413 before 'THE SOCIALISTS.'",
+   "split r5 at y=977 before 'SEGREGATION AGAIN.'"
+  ]
+ }
+}

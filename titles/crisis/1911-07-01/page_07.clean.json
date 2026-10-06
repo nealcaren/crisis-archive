@@ -1,0 +1,189 @@
+{
+ "page": 7,
+ "image": "images/page_07.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.7,
+  "at": "2026-10-06T21:57:03+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 106,
+    "y0": 103,
+    "x1": 929,
+    "y1": 240
+   },
+   "text": "Along the Color Line",
+   "status": "ok",
+   "confidence": 0.6726769208908081,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 212,
+    "y0": 143,
+    "x1": 818,
+    "y1": 206
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Along the Color Line",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 110,
+    "y0": 264,
+    "x1": 507,
+    "y1": 571
+   },
+   "text": "POLITICAL.\nOn June 12 the Senate voted to amend the Constitution so as to permit the election of senators by the people and passed the Bristow amendment which adds a clause giving Congress the right of supervision over such elections. The vote stood 44 to 44; the tie was broken by the Vice-President who cast his vote for the Bristow amendment. Mr. Clarke of Arkansas was the only Democrat who voted for the amendment. Five Republicans—Borah, Gronna, La Follette, Poindexter and Works—all insurgents, voted against it.",
+   "status": "ok",
+   "confidence": 0.9775046706199646,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 109,
+    "y0": 261,
+    "x1": 505,
+    "y1": 568
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 109,
+    "y0": 581,
+    "x1": 506,
+    "y1": 910
+   },
+   "text": "The House, which has already declared for the direct election of senators, will now have to pass on the amendment which takes the place of the measure proposed by Mr. Sutherland and defeated some months ago. There is strong opposition to the amendment on the part of the Southern representatives. In the debate many held that the right to control elections was already vested in Congress and that the Sutherland and Bristow amendments in no way altered the situation should Congress ever desire to interfere. On the other hand, some felt that the proposition, without the amendment, strengthened the South in the position it has taken in disfranchising the Negro.",
+   "status": "ok",
+   "confidence": 0.9781661629676819,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 580,
+    "x1": 504,
+    "y1": 907
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 107,
+    "y0": 920,
+    "x1": 506,
+    "y1": 1462
+   },
+   "text": "The bills in the Sixty-second Congress concerning the Negro are a curious assortment. Byrd, of Mississippi, has a bill pending, designed to make it a crime for whites, Negroes and Mongolians to intermarry in the District of Columbia; Clark, of Florida, has a measure providing for \"jim crow\" street cars in the District; Hardwick, of Georgia, wants the Fourteenth and Fifteenth Amendments abrogated; and Roddenburg, of Mississippi, will endeavor to restrict the congressional restaurant to white patrons. There is no chance that any of these bills will become law. They are brought forward merely as proof to the voters at home that their promoters are \"sound on the question.\" Representative Roddenburg, by the way, has joined the ranks of Congressmen who have assaulted colored men, a society adorned by Senator Stone, who slapped a waiter some time ago, and Congressman Heflin, who shot a Negro in Washington. The Georgian recently fought a colored passenger in a crowded street car because the man jostled him more than he thought necessary.",
+   "status": "ok",
+   "confidence": 0.9659269452095032,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 107,
+    "y0": 918,
+    "x1": 505,
+    "y1": 1459
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 530,
+    "y0": 264,
+    "x1": 932,
+    "y1": 632
+   },
+   "text": "A favorable report on the nomination of William H. Lewis to be Assistant Attorney-General has been authorized by the Senate committee on the judiciary.\n\nThe Secretary of the Interior has appointed William T. Vernon, former Registrar of the Federal Treasury, to be assistant supervisor of Indian schools in Oklahoma. The State officials protested.\n\nCarter Harrison, the Democratic mayor of Chicago, has appointed W. A. T. Watkins, a colored man, to be assistant corporation counsel. Mr. Harrison's election was due largely to the votes of Negroes who believed his attitude on race questions to be just.",
+   "status": "ok",
+   "confidence": 0.9757909178733826,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 531,
+    "y0": 262,
+    "x1": 929,
+    "y1": 630
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 531,
+    "y0": 647,
+    "x1": 928,
+    "y1": 876
+   },
+   "text": "The New York legislature defeated Mr. Cuvillier's bill providing for the organization of a colored regiment of the National Guard in New York City. The colored people did not, however, give up the fight. They aroused sentiment, saw the Governor and other prominent Democrats, and the Assembly reconsidered the vote, passing the bill unanimously. As we go to press it seems almost certain that the Senate will concur.",
+   "status": "ok",
+   "confidence": 0.9758711457252502,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 530,
+    "y0": 645,
+    "x1": 926,
+    "y1": 875
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 529,
+    "y0": 914,
+    "x1": 927,
+    "y1": 1465
+   },
+   "text": "JUDICIAL.\nIn the matter of the Oklahoma disfranchising \"grandfather\" clause two decisions have been rendered. It would now appear that it is legal to disfranchise the Negro in the eastern half of Oklahoma and illegal in the western half. Judge John H. Cotteral, of the western district, sitting in Oklahoma City, held positively that the amendment adopted by the people of the State last August is in violation of the Fifteenth Amendment to the Constitution of the United States, while Judge Ralph E. Campbell, of the eastern district, sitting at Muskogee, sustained demurrers in the case brought against election officials who refused Negroes the right to vote, holding that no offense had been committed against the United States.\nIn his opinion, Judge Cotteral said that it is the prerogative of a State to establish educational and other restrictions for voters, but that the Oklahoma educational test clearly applies to one race only and is therefore unconstitutional. This \"grandfather\" clause is the familiar sort which provides that no person be",
+   "status": "ok",
+   "confidence": 0.9788796305656433,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 528,
+    "y0": 911,
+    "x1": 926,
+    "y1": 1462
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 7,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.22,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 61%",
+   "reread r0: 'Along the Color Line' -> 'Along the Color Line'"
+  ]
+ }
+}

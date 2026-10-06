@@ -1,0 +1,191 @@
+{
+ "page": 24,
+ "image": "images/page_24.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.1,
+  "at": "2026-10-06T21:50:04+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 611,
+    "y0": 124,
+    "x1": 819,
+    "y1": 155
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.784606397151947,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 608,
+    "y0": 121,
+    "x1": 820,
+    "y1": 155
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 145,
+    "y0": 218,
+    "x1": 1304,
+    "y1": 1578
+   },
+   "text": "",
+   "status": "ok",
+   "confidence": 0.8245983719825745,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 192,
+    "y0": 218,
+    "x1": 1294,
+    "y1": 1578
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 498,
+    "y0": 1599,
+    "x1": 953,
+    "y1": 1623
+   },
+   "text": "HARRIET BEECHER STOWE, 1811-1911.",
+   "status": "ok",
+   "confidence": 0.3905591368675232,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 496,
+    "y0": 1595,
+    "x1": 952,
+    "y1": 1621
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 299,
+    "y0": 1635,
+    "x1": 1155,
+    "y1": 1686
+   },
+   "text": "From a Drawing by Richmond, Done in 1853, While Mrs. Stowe Was Making Her First Visit in England.",
+   "status": "ok",
+   "confidence": 0.6657810211181641,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 295,
+    "y0": 1632,
+    "x1": 1151,
+    "y1": 1684
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 201,
+    "y0": 1740,
+    "x1": 711,
+    "y1": 1942
+   },
+   "text": "\"Britain, Frenchman, Swede and Dane,\nTurk, Spaniard, Tartar of Ukraine,\nHidalgo, Cassock, Cadi,\nHigh Dutchman, and Low Dutchman,\ntoo,\nThe Russian Serf, the Polish Jew,\nArab, Armenian, and Manchoo,\nAll shout 'We know the lady!'",
+   "status": "ok",
+   "confidence": 0.9123387336730957,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 198,
+    "y0": 1736,
+    "x1": 711,
+    "y1": 1941
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 744,
+    "y0": 1738,
+    "x1": 1255,
+    "y1": 1938
+   },
+   "text": "\"Know her! Who knows not Uncle Tom, And her he learned his gospel from, Has never heard of Moses; Full well the brave black hand we know That gave to freedom's hand the hoe, That killed the weed that used to grow Among the Southern roses.\" Oliver Wendell Holmes.",
+   "status": "ok",
+   "confidence": 0.6609797477722168,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 742,
+    "y0": 1736,
+    "x1": 1255,
+    "y1": 1938
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 196,
+    "y0": 127,
+    "x1": 233,
+    "y1": 156
+   },
+   "text": "68",
+   "status": "ok",
+   "confidence": 0.8435809016227722,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 195,
+    "y0": 127,
+    "x1": 231,
+    "y1": 154
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 7,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.34,
+  "box_overlaps_after": 0,
+  "log": [
+   "drop r1 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r4 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r5 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r6 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r10 (text): non-latin hallucination 'حرَّجَة'"
+  ]
+ }
+}

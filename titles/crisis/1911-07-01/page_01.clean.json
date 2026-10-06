@@ -1,0 +1,526 @@
+{
+ "page": 1,
+ "image": "images/page_01.jpg",
+ "width": 1370,
+ "height": 2076,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 5.3,
+  "at": "2026-10-06T21:55:45+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 41,
+    "y0": 61,
+    "x1": 1241,
+    "y1": 475
+   },
+   "text": "ACATION NUMBE\nTHE CRISIS\nA RECORD OF THE DARKER RACES\nVolume Two JULY, 1911 Number Three",
+   "status": "ok",
+   "confidence": 0.4953327178955078,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 82,
+    "y0": 47,
+    "x1": 1199,
+    "y1": 491
+   },
+   "exclude": [
+    [
+     43,
+     115,
+     1240,
+     1969,
+     "r1"
+    ],
+    [
+     56,
+     129,
+     1225,
+     1956,
+     "r1"
+    ],
+    [
+     127,
+     454,
+     140,
+     466,
+     "r1"
+    ],
+    [
+     149,
+     454,
+     163,
+     466,
+     "r1"
+    ],
+    [
+     165,
+     454,
+     198,
+     466,
+     "r1"
+    ],
+    [
+     238,
+     454,
+     262,
+     466,
+     "r1"
+    ],
+    [
+     263,
+     454,
+     276,
+     466,
+     "r1"
+    ],
+    [
+     1017,
+     455,
+     1032,
+     466,
+     "r1"
+    ],
+    [
+     1033,
+     454,
+     1054,
+     466,
+     "r1"
+    ],
+    [
+     1069,
+     454,
+     1079,
+     466,
+     "r1"
+    ],
+    [
+     1081,
+     454,
+     1093,
+     466,
+     "r1"
+    ],
+    [
+     1148,
+     454,
+     1159,
+     466,
+     "r1"
+    ],
+    [
+     1160,
+     454,
+     1170,
+     466,
+     "r1"
+    ],
+    [
+     1171,
+     454,
+     1182,
+     466,
+     "r1"
+    ],
+    [
+     648,
+     463,
+     653,
+     468,
+     "r1"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "ACATION NUMBE\nTHE CRISIS\nA RECORD OF THE DARKER RACES\nVolume Two JULY, 1911 Number Three",
+   "role": "text",
+   "text_reread": "VACATION NUMBER",
+   "needs_review": "heading 'THE CRISIS' inside box but no gap to cut at"
+  },
+  {
+   "id": "r1",
+   "label": "figure",
+   "bbox": {
+    "x0": 40,
+    "y0": 112,
+    "x1": 1243,
+    "y1": 2061
+   },
+   "text": "THE LATE JOHN B. TAYLOR, UNIVERSITY OF PENNSYLVANIA\nWhose record for the quarter-mile run still remains untouched\n\nONE DOLLAR A YEAR\nTEN CENTS A COPY\n\nFAMOUS COLORED ATHLETES",
+   "status": "ok",
+   "confidence": 0.27604442834854126,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 44,
+    "y0": 453,
+    "x1": 1236,
+    "y1": 2061
+   },
+   "exclude": [
+    [
+     1092,
+     177,
+     1181,
+     313,
+     "r0"
+    ],
+    [
+     102,
+     178,
+     239,
+     312,
+     "r0"
+    ],
+    [
+     250,
+     178,
+     395,
+     312,
+     "r0"
+    ],
+    [
+     409,
+     179,
+     529,
+     312,
+     "r0"
+    ],
+    [
+     590,
+     178,
+     716,
+     313,
+     "r0"
+    ],
+    [
+     727,
+     179,
+     858,
+     312,
+     "r0"
+    ],
+    [
+     868,
+     178,
+     919,
+     313,
+     "r0"
+    ],
+    [
+     927,
+     178,
+     1017,
+     314,
+     "r0"
+    ],
+    [
+     1023,
+     178,
+     1085,
+     312,
+     "r0"
+    ],
+    [
+     99,
+     355,
+     137,
+     389,
+     "r0"
+    ],
+    [
+     169,
+     355,
+     203,
+     389,
+     "r0"
+    ],
+    [
+     209,
+     355,
+     241,
+     389,
+     "r0"
+    ],
+    [
+     249,
+     355,
+     283,
+     390,
+     "r0"
+    ],
+    [
+     290,
+     355,
+     325,
+     390,
+     "r0"
+    ],
+    [
+     335,
+     355,
+     368,
+     389,
+     "r0"
+    ],
+    [
+     377,
+     355,
+     412,
+     389,
+     "r0"
+    ],
+    [
+     449,
+     355,
+     483,
+     390,
+     "r0"
+    ],
+    [
+     492,
+     355,
+     522,
+     389,
+     "r0"
+    ],
+    [
+     554,
+     355,
+     586,
+     389,
+     "r0"
+    ],
+    [
+     596,
+     355,
+     633,
+     389,
+     "r0"
+    ],
+    [
+     644,
+     355,
+     674,
+     389,
+     "r0"
+    ],
+    [
+     757,
+     355,
+     795,
+     389,
+     "r0"
+    ],
+    [
+     1037,
+     355,
+     1075,
+     389,
+     "r0"
+    ],
+    [
+     1078,
+     355,
+     1111,
+     390,
+     "r0"
+    ],
+    [
+     1120,
+     355,
+     1150,
+     389,
+     "r0"
+    ],
+    [
+     1159,
+     355,
+     1182,
+     390,
+     "r0"
+    ],
+    [
+     714,
+     356,
+     749,
+     390,
+     "r0"
+    ],
+    [
+     803,
+     356,
+     836,
+     390,
+     "r0"
+    ],
+    [
+     843,
+     356,
+     876,
+     390,
+     "r0"
+    ],
+    [
+     883,
+     356,
+     914,
+     390,
+     "r0"
+    ],
+    [
+     923,
+     357,
+     956,
+     391,
+     "r0"
+    ],
+    [
+     997,
+     356,
+     1030,
+     390,
+     "r0"
+    ],
+    [
+     98,
+     412,
+     1182,
+     418,
+     "r0"
+    ],
+    [
+     98,
+     419,
+     1183,
+     426,
+     "r0"
+    ],
+    [
+     99,
+     441,
+     126,
+     465,
+     "r0"
+    ],
+    [
+     140,
+     441,
+     149,
+     466,
+     "r0"
+    ],
+    [
+     213,
+     441,
+     237,
+     466,
+     "r0"
+    ],
+    [
+     556,
+     442,
+     570,
+     472,
+     "r0"
+    ],
+    [
+     573,
+     442,
+     598,
+     466,
+     "r0"
+    ],
+    [
+     600,
+     442,
+     619,
+     466,
+     "r0"
+    ],
+    [
+     621,
+     442,
+     646,
+     466,
+     "r0"
+    ],
+    [
+     988,
+     442,
+     1015,
+     466,
+     "r0"
+    ],
+    [
+     1054,
+     442,
+     1067,
+     466,
+     "r0"
+    ],
+    [
+     1107,
+     442,
+     1146,
+     466,
+     "r0"
+    ],
+    [
+     672,
+     445,
+     682,
+     466,
+     "r0"
+    ],
+    [
+     684,
+     445,
+     698,
+     466,
+     "r0"
+    ],
+    [
+     702,
+     445,
+     712,
+     466,
+     "r0"
+    ],
+    [
+     717,
+     445,
+     727,
+     466,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'ONE DOLLAR A YEAR' inside box; no verified split at the 3 nearest gaps"
+  }
+ ],
+ "clean": {
+  "regions_before": 2,
+  "regions_after": 2,
+  "lost_words": [],
+  "needs_review": [
+   "r0",
+   "r1"
+  ],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": [
+   "reshape r0 (title): lost 12% of its ink, gained 1%",
+   "reread r0: 'ACATION NUMBE\\nTHE CRISIS\\nA RECORD OF THE' -> 'VACATION NUMBER'",
+   "REVIEW r0: reread lost crisis july three volume; kept old text",
+   "REVIEW r0: heading 'THE CRISIS' inside box but no gap to cut at",
+   "REVIEW r1: heading 'ONE DOLLAR A YEAR' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

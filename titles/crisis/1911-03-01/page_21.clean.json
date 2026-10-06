@@ -1,0 +1,287 @@
+{
+ "page": 21,
+ "image": "images/page_21.jpg",
+ "width": 1085,
+ "height": 1666,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.6,
+  "at": "2026-10-06T21:18:23+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 399,
+    "y0": 111,
+    "x1": 549,
+    "y1": 135
+   },
+   "text": "EDITORIAL",
+   "status": "ok",
+   "confidence": 0.7506211400032043,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 398,
+    "y0": 109,
+    "x1": 547,
+    "y1": 135
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 54,
+    "y0": 163,
+    "x1": 465,
+    "y1": 699
+   },
+   "text": "cratic ticket continuously since, to be shown by the certificates of ten white Democratic voters, who will pledge themselves to support the nominee of such elections, may vote.\"\nThe Georgia Democrats declare:\n\"All white electors, who have duly registered according to law, irrespective of past political affiliations, and who intend in good faith to abide by the result of the party primary and support the nominations thereby, are hereby declared qualified, and are invited to participate in said primary election.\"\nA friend of mine asked a prominent Florida white man in 1910:\n\"Are there any Negro Democrats?\"\nHe answered with the utmost surprise:\n\"Why, we wouldn't let a Negro vote the Democratic ticket.\"",
+   "status": "ok",
+   "confidence": 0.9736565351486206,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 54,
+    "y0": 162,
+    "x1": 463,
+    "y1": 700
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 59,
+    "y0": 701,
+    "x1": 468,
+    "y1": 1312
+   },
+   "text": "In other words, by erecting a single party as a State within a State and giving it absolute private control of primary elections and the absolute right to say who shall vote in the election there arises the complete disfranchisement of any group the majority wills. For instance, Louisiana disfranchises all of her Negro voters except 1,743, and then by the \"White Primary\" system she disfranchises the rest. Such a system must, of course, be backed by a strong invincible public opinion to be successful. It involves two elections—the second merely a formal registering of the decision of the first. Since, however, the first election is a party affair there can be no official returns. Moreover, the State cannot vote upon the great questions of the day that divide the nation into parties. Secondly, the official election becomes simply an unimportant and perfunctory thing.",
+   "status": "ok",
+   "confidence": 0.9766468405723572,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 58,
+    "y0": 703,
+    "x1": 465,
+    "y1": 1306
+   },
+   "exclude": [
+    [
+     230,
+     1311,
+     238,
+     1329,
+     "r3"
+    ],
+    [
+     291,
+     1311,
+     302,
+     1329,
+     "r3"
+    ],
+    [
+     305,
+     1311,
+     307,
+     1314,
+     "r3"
+    ],
+    [
+     366,
+     1311,
+     368,
+     1314,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 59,
+    "y0": 1309,
+    "x1": 469,
+    "y1": 1412
+   },
+   "text": "How long before this curious combination of law and mob rule, backed by class and race hatred, will be used in other parts of this nation?",
+   "status": "ok",
+   "confidence": 0.9594126343727112,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 57,
+    "y0": 1308,
+    "x1": 467,
+    "y1": 1555
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 59,
+    "y0": 1412,
+    "x1": 469,
+    "y1": 1558
+   },
+   "text": "POLITENESS.\nTHERE are two situations where it is hard to be courteous: when courtesy involves public condemnation; and when courtesy",
+   "status": "ok",
+   "confidence": 0.9594126343727112,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 57,
+    "y0": 1308,
+    "x1": 467,
+    "y1": 1555
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 865,
+    "y0": 109,
+    "x1": 889,
+    "y1": 131
+   },
+   "text": "21",
+   "status": "ok",
+   "confidence": 0.8260021209716797,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 864,
+    "y0": 108,
+    "x1": 889,
+    "y1": 129
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 490,
+    "y0": 162,
+    "x1": 896,
+    "y1": 436
+   },
+   "text": "is demanded by the discourteous. The first is the problem of the white American, the second is the dilemma of the black American. Shall you rise in the street car and give that colored woman a seat, Mr. O'Brien, despite the grins and comments of your fellows? And you, Mr. Johnson, shall you surrender your seat to the white woman whose manner toward you is a personal insult?",
+   "status": "ok",
+   "confidence": 0.9749348163604736,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 489,
+    "y0": 161,
+    "x1": 895,
+    "y1": 431
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 492,
+    "y0": 437,
+    "x1": 898,
+    "y1": 855
+   },
+   "text": "Yes—yes, in both cases, and yes, with a full realization, a personal realization, of the cost. A raised hat, or a title of courtesy in the South by any white man to any colored woman usually means severe social condemnation. For a Negro to offer courtesies to white people usually means that the courtesy will be snatched as a right, or angrily refused; even if it is graciously accepted there remains in the Negro's breast the knowledge that he is giving what he, his wife or his child would never receive under reversed circumstances, and he half despises himself for being a gentleman.",
+   "status": "ok",
+   "confidence": 0.9805640578269958,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 492,
+    "y0": 436,
+    "x1": 895,
+    "y1": 851
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 493,
+    "y0": 856,
+    "x1": 899,
+    "y1": 1346
+   },
+   "text": "Such feelings explain much apparent discourtesy. White men, particularly Southern white men, are often more harsh, sharp and insulting to colored people than they would dream of being were it not for the battle between instinctive courtesy and fear of public opinion which is raging in their own hearts. They resent passionately the false position to which they are thus forced and the victim suffers. So, too, black men are often rudely and impudently impolite, truculent even toward friends and well-wishers because they are blindly and instinctively throwing up defenses against possible insult or taking present revenge for past discourtesy.",
+   "status": "ok",
+   "confidence": 0.9789749383926392,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 493,
+    "y0": 856,
+    "x1": 897,
+    "y1": 1344
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 495,
+    "y0": 1347,
+    "x1": 899,
+    "y1": 1560
+   },
+   "text": "All this is wrong. No black man can afford to be less than studiously polite even in the face of possible insult. And the white man, North or South, whose courtesy does not extend to the weak, the helpless and the black, is not a gentleman, no matter whose grandson he may be.",
+   "status": "ok",
+   "confidence": 0.9759469032287598,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 495,
+    "y0": 1346,
+    "x1": 898,
+    "y1": 1556
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": [
+   "split r3 at y=1412 before 'POLITENESS.'"
+  ]
+ }
+}

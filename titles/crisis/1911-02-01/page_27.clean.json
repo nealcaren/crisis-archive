@@ -1,0 +1,279 @@
+{
+ "page": 27,
+ "image": "images/page_27.jpg",
+ "width": 1390,
+ "height": 2077,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.9,
+  "at": "2026-10-06T21:13:31+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 462,
+    "y0": 100,
+    "x1": 841,
+    "y1": 133
+   },
+   "text": "A BLACK STATESMAN",
+   "status": "ok",
+   "confidence": 0.8842918872833252,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 463,
+    "y0": 99,
+    "x1": 838,
+    "y1": 131
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 124,
+    "y0": 168,
+    "x1": 638,
+    "y1": 762
+   },
+   "text": "tion. A young woman, one of Moshesh's many wives, was out one day cultivating her land, when a great light shone round her. She was amazed and frightened, and sought counsel of a Christian friend, asking her what she thought the light could have been. This friend said she did not know, that perhaps God had let his light shine on her to lead her to himself, and that she advised her to go and tell the Chief. At first the young woman hesitated, fearing to disturb the Chief with her small affairs, but eventually she did tell him. \"My child,\" said he, \"go on Sundays to the Mission church; listen attentively, and come always and tell me what is said.\" This she did obediently for about a year. Then one day Moshesh called her to him, and said he was going to send her home to her father (his way of releasing her from her union with him) and that, if her father consented, she might join the Christian church. This, after some time, she did.",
+   "status": "ok",
+   "confidence": 0.9778663516044617,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 125,
+    "y0": 167,
+    "x1": 632,
+    "y1": 758
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 667,
+    "y0": 167,
+    "x1": 1180,
+    "y1": 912
+   },
+   "text": "administration and system. The Basuto are a monument of his genius. Recruited from many and various tribes, with a strong Zulu element pervading it, the Basuto nation as we know it to-day in the Protectorate of that name, inhabits a beautiful mountainous country about the size of Switzerland, intersected by fruitful valleys, and affording fine grazing grounds to large herds of cattle, and to the strong, hardy Basuto ponies which the country breeds. The paramount chief, Letsie, is a slave to the strong liquor which unprincipled white men have smuggled into the country, contrary to government regulations. He is not devoid of good qualities, but he is weak, as those under the slavery of drink always are. As an illustration of the sturdiness which may be found in Basutoland to-day, I may relate that, on a visit paid a few months ago to Maseru, the administrative capital, I saw the female prisoners, in for murder, infanticide and theft, who are marched daily across the town, from one end to the other and back to the Hospital (where they do the washing and rough work), by the native wardress, Leah, who controls them easily without the help of any weapon. The male prisoners were in the charge of fully armed warders.",
+   "status": "ok",
+   "confidence": 0.9780956506729126,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 666,
+    "y0": 170,
+    "x1": 1175,
+    "y1": 907
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 122,
+    "y0": 758,
+    "x1": 635,
+    "y1": 1497
+   },
+   "text": "For a polygamous chief this treatment of the young wife, as related, is singularly gentle and wise. Other testimony points also to kindly domestic relations. Moshesh was one of Nature's gentlemen, dignified, considerate, courteous, hardy as to personal habits, alert and possessed in an unusual degree, of good judgment, discretion and wisdom. The marvel is that he had such an intuitive knowledge of how to deal with both savage and civilized foes and to make the best of the situation in which he found himself. What Germans call mother wit was one of his distinguishing characteristics, and to this must be added charm of manner and an uncommon faculty for conciliation and gaining his ends by peaceful means. Taken altogether, Moshesh shows us native life and tribal rule at its best, and he is a most picturesque representative of a régime, too rapid perhaps passing away, which was not devoid of suitability to its environment in the hands of a capable man. Moshesh is but one of many great chiefs whom Africa has produced. What distinguishes him from all the rest is mainly the diplomatic turn of mind which in him was so conspicuous a feature as to call for special mention and comment.",
+   "status": "ok",
+   "confidence": 0.9790593385696411,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 122,
+    "y0": 763,
+    "x1": 630,
+    "y1": 1494
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 664,
+    "y0": 911,
+    "x1": 1174,
+    "y1": 1382
+   },
+   "text": "The career of Moshesh is instructive as showing what may be the outcome of such training as native chiefs undergo in tribal life, under the guidance of counselors and older men of the tribe—a practical education of considerable value, which it is customary to overlook, but which is in many cases fruitful of results. Education as we understand it Moshesh never had, and his outlook on life was bounded by the necessities of his people, as is the case with Khama at the present day. Moshesh's life, however, is illustrative of the great world-wide fact that, whereas talent and mediocrity require careful cultivation and good educational methods, genius bursts forth irrespective of methods or special training, and dazzles the world by its brightness and force.",
+   "status": "ok",
+   "confidence": 0.979037880897522,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 664,
+    "y0": 912,
+    "x1": 1170,
+    "y1": 1379
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 663,
+    "y0": 1384,
+    "x1": 1172,
+    "y1": 1573
+   },
+   "text": "As a result of the great work of Moshesh we have to-day Basutoland, an English Crown colony of South Africa, almost entirely self-governing, with nearly 300,000 inhabitants, with annual exports of grain cattle and wool amounting to $700,000 year.",
+   "status": "ok",
+   "confidence": 0.9732863306999207,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 661,
+    "y0": 1383,
+    "x1": 1169,
+    "y1": 1570
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 121,
+    "y0": 1495,
+    "x1": 632,
+    "y1": 1575
+   },
+   "text": "Moshesh was the founder of the Basuto nationality, compact, progressive, patriotic, sure to persist and survive changes of",
+   "status": "ok",
+   "confidence": 0.9558829665184021,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 119,
+    "y0": 1496,
+    "x1": 628,
+    "y1": 1572
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "title",
+   "bbox": {
+    "x0": 121,
+    "y0": 1683,
+    "x1": 632,
+    "y1": 1718
+   },
+   "text": "N. A. A. C. P. MEETINGS",
+   "status": "ok",
+   "confidence": 0.9328963756561279,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 117,
+    "y0": 1680,
+    "x1": 630,
+    "y1": 1719
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 662,
+    "y0": 1682,
+    "x1": 1171,
+    "y1": 1910
+   },
+   "text": "The Association will hold its first Philadelphia meeting on February 22 at the Race Street Meeting House of the Religious Society of Friends. Justice Wendell Phillips Stafford, of the Supreme Court of the District of Columbia, will preside. John E. Milholland, Rev. R. C. Ransom, Oswald Garrison Villard and W. E. B. DuBois will be the speakers.",
+   "status": "ok",
+   "confidence": 0.9748348593711853,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 660,
+    "y0": 1681,
+    "x1": 1167,
+    "y1": 1907
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 120,
+    "y0": 1731,
+    "x1": 631,
+    "y1": 1909
+   },
+   "text": "The third annual conference will be held in Boston in the middle of April. The subject for discussion will be the violation of property and labor rights, with special reference to the Baltimore segregation law. The Hon. Charles J. Bonaparte has been invited to be the chief speaker.",
+   "status": "ok",
+   "confidence": 0.9735803604125977,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 118,
+    "y0": 1730,
+    "x1": 627,
+    "y1": 1906
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1144,
+    "y0": 99,
+    "x1": 1181,
+    "y1": 128
+   },
+   "text": "27",
+   "status": "ok",
+   "confidence": 0.8322932720184326,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1143,
+    "y0": 98,
+    "x1": 1177,
+    "y1": 125
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.89,
+  "box_overlaps_after": 3,
+  "log": [
+   "drop r10 (title): non-latin hallucination '尬'"
+  ]
+ }
+}

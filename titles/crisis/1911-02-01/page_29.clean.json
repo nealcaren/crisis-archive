@@ -1,0 +1,470 @@
+{
+ "page": 29,
+ "image": "images/page_29.jpg",
+ "width": 1390,
+ "height": 2077,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.3,
+  "at": "2026-10-06T21:13:51+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 112,
+    "y0": 143,
+    "x1": 1172,
+    "y1": 312
+   },
+   "text": "THE BURDEN",
+   "status": "ok",
+   "confidence": 0.5632206797599792,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 348,
+    "y0": 185,
+    "x1": 943,
+    "y1": 263
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "THE BURDEN",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 140,
+    "y0": 339,
+    "x1": 555,
+    "y1": 463
+   },
+   "text": "If blood be the price of liberty,\nIf blood be the price of liberty,\nIf blood be the price of liberty,\nLord God, we have paid in full.",
+   "status": "ok",
+   "confidence": 0.9311767220497131,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 136,
+    "y0": 337,
+    "x1": 551,
+    "y1": 461
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 659,
+    "y0": 340,
+    "x1": 1171,
+    "y1": 763
+   },
+   "text": "lit a cigarette. I said to him, 'Please do not smoke in here; it is bad enough as it is.' He said nothing, but he did not smoke.\"\n\nAnd so the letter continues. The cars are swept only when the passengers are in them; the dust thus flying into eyes and throat; and the letter ends, \"I think the tuberculosis society needs to direct its attention to the spread of consumption among Negroes through their enforced use of cars allowed to remain in a vile condition. I know these cars transmit disease. Won't the Association for the Advancement of Colored People make a war-cry on this matter? The health of the whole community is involved in it.\"",
+   "status": "ok",
+   "confidence": 0.9738986492156982,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 656,
+    "y0": 338,
+    "x1": 1167,
+    "y1": 759
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "table",
+   "bbox": {
+    "x0": 116,
+    "y0": 504,
+    "x1": 633,
+    "y1": 950
+   },
+   "text": "1885. 78 1898. 102\n1886. 71 1899. 84\n1887. 80 1900. 107\n1888. 95 1901. 107\n1889. 95 1902. 86\n1890. 90 1903. 86\n1891. 121 1904. 83\n1892. 155 1905*. 60\n1893. 154 1906*. 60\n1894. 134 1907*. 60\n1895. 112 1908*. 80\n1896. 80 1909. 73\n1897. 122 1910. 65",
+   "status": "ok",
+   "confidence": 0.2931765615940094,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 115,
+    "y0": 502,
+    "x1": 629,
+    "y1": 935
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 663,
+    "y0": 793,
+    "x1": 1172,
+    "y1": 1089
+   },
+   "text": "The Reverend H. H. Proctor, of Atlanta, is one of the most prominent colored ministers of the South. Not long ago he arranged to take a trip to the Holy Land with a party of white clergymen. When he applied for his ticket, the Boston booking agent, seeing that he was colored, refused to sell to him. There would be Southern ministers in the party he said. These spiritual leaders could not journey with a colored man through the country of the Christ.",
+   "status": "ok",
+   "confidence": 0.972834050655365,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 662,
+    "y0": 792,
+    "x1": 1168,
+    "y1": 1088
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 122,
+    "y0": 1009,
+    "x1": 633,
+    "y1": 1230
+   },
+   "text": "A great deal is made of the fact that Negroes are peculiarly susceptible to tuberculosis, but little is done to prevent the spread of the disease; instead it is blithely propagated by the villainous jim-crow car. A colored woman, familiar with many cities of the North and of Europe, writes thus of her recent experience in traveling in the South:",
+   "status": "ok",
+   "confidence": 0.9689494371414185,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 120,
+    "y0": 1007,
+    "x1": 629,
+    "y1": 1230
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 665,
+    "y0": 1124,
+    "x1": 1175,
+    "y1": 1350
+   },
+   "text": "When we begin to harbor race prejudice we cannot tell where it will end or how deeply we shall injure the opportunities of others. A colored girl in a city of a border State, wishing to study art, was admitted to a class of white students on the condition that she would allow a screen to be placed around her seat. Her presence might then at least be ignored.",
+   "status": "ok",
+   "confidence": 0.970945417881012,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 664,
+    "y0": 1122,
+    "x1": 1170,
+    "y1": 1345
+   },
+   "exclude": [
+    [
+     694,
+     1347,
+     709,
+     1366,
+     "r8"
+    ],
+    [
+     1118,
+     1347,
+     1136,
+     1367,
+     "r8"
+    ],
+    [
+     883,
+     1348,
+     888,
+     1367,
+     "r8"
+    ],
+    [
+     915,
+     1348,
+     919,
+     1351,
+     "r8"
+    ],
+    [
+     995,
+     1348,
+     1007,
+     1367,
+     "r8"
+    ],
+    [
+     1044,
+     1348,
+     1058,
+     1367,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 123,
+    "y0": 1234,
+    "x1": 635,
+    "y1": 1387
+   },
+   "text": "\"Some of the cars have been filthy. I never permit Mary (her daughter) to sit until I have cleaned the seat; we have used newspapers, wash-rags, even our handkerchiefs, and then have thrown them away, they have been so black.",
+   "status": "ok",
+   "confidence": 0.9639192223548889,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 120,
+    "y0": 1234,
+    "x1": 630,
+    "y1": 1384
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 665,
+    "y0": 1344,
+    "x1": 1176,
+    "y1": 1619
+   },
+   "text": "But more recently in another State, Tennessee, a brilliant music student was denied the right, even when in a class alone, to study at her profession. Having been received by a German musician as a pupil, she was told after returning from a vacation that she might no longer come to his studio. \"I regret it deeply,\" he said, \"but the prejudice among my other pupils is such that I endanger my means of livelihood by receiving you.\"",
+   "status": "ok",
+   "confidence": 0.9752511382102966,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 664,
+    "y0": 1345,
+    "x1": 1172,
+    "y1": 1615
+   },
+   "exclude": [
+    [
+     669,
+     1330,
+     681,
+     1346,
+     "r6"
+    ],
+    [
+     806,
+     1330,
+     819,
+     1346,
+     "r6"
+    ],
+    [
+     1064,
+     1330,
+     1091,
+     1347,
+     "r6"
+    ],
+    [
+     695,
+     1617,
+     710,
+     1637,
+     "r10"
+    ],
+    [
+     739,
+     1617,
+     745,
+     1636,
+     "r10"
+    ],
+    [
+     840,
+     1617,
+     843,
+     1620,
+     "r10"
+    ],
+    [
+     748,
+     1618,
+     760,
+     1637,
+     "r10"
+    ],
+    [
+     825,
+     1618,
+     836,
+     1636,
+     "r10"
+    ],
+    [
+     887,
+     1618,
+     899,
+     1636,
+     "r10"
+    ],
+    [
+     952,
+     1618,
+     976,
+     1637,
+     "r10"
+    ],
+    [
+     1159,
+     1618,
+     1162,
+     1622,
+     "r10"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 124,
+    "y0": 1388,
+    "x1": 637,
+    "y1": 1813
+   },
+   "text": "\"Leaving Atlanta for Rome the other evening, the car was stifling with the odor of decayed fruit. Two cuspidors filled with apple cores and banana peel and the news agent's fruit-stand helped things along. The train had been two and a half hours late, the seats were particularly filthy, and I was 'afire.' I asked the conductor if there was no one to throw the garbage out, and he answered that there was no one. He was not impolite, but seemed astonished at my nerve. I had a terrible cough; Mary had one also. I could hardly gasp. I opened the window over one cuspidor and pinned newspapers up to protect Mary and myself from the draught. I was really afraid to breathe the fetid air.",
+   "status": "ok",
+   "confidence": 0.9775181412696838,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 123,
+    "y0": 1388,
+    "x1": 632,
+    "y1": 1808
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 666,
+    "y0": 1614,
+    "x1": 1178,
+    "y1": 1891
+   },
+   "text": "Could anything have been more pathetically absurd than the sight of the grand opera at Atlanta last winter, to which the most musical part of the population, the Negroes, were denied admittance?\n\nIn these days when the world is full of important and interesting happenings, when democracy struggles for new life in Portugal and Mexico, when England faces a revolution, it is a matter for amazement",
+   "status": "ok",
+   "confidence": 0.961158275604248,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 664,
+    "y0": 1616,
+    "x1": 1174,
+    "y1": 1888
+   },
+   "exclude": [
+    [
+     755,
+     1599,
+     768,
+     1616,
+     "r8"
+    ],
+    [
+     873,
+     1599,
+     886,
+     1616,
+     "r8"
+    ],
+    [
+     903,
+     1600,
+     915,
+     1616,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 126,
+    "y0": 1812,
+    "x1": 636,
+    "y1": 1898
+   },
+   "text": "\"The white news agent opened his window shortly after this. Two friends of his, one a cripple, came, and the cripple",
+   "status": "ok",
+   "confidence": 0.9543812870979309,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 123,
+    "y0": 1812,
+    "x1": 633,
+    "y1": 1890
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 150,
+    "y0": 947,
+    "x1": 285,
+    "y1": 974
+   },
+   "text": "*Estimated.",
+   "status": "ok",
+   "confidence": 0.6022214889526367,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 148,
+    "y0": 945,
+    "x1": 281,
+    "y1": 973
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 13,
+  "regions_after": 13,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.51,
+  "box_overlaps_after": 4,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 60%",
+   "reread r0: 'THE BURDEN' -> 'THE BURDEN'"
+  ]
+ }
+}

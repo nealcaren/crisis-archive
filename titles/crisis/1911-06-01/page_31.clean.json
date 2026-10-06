@@ -1,0 +1,310 @@
+{
+ "page": 31,
+ "image": "images/page_31.jpg",
+ "width": 1372,
+ "height": 2090,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.4,
+  "at": "2026-10-06T21:51:02+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 450,
+    "y0": 116,
+    "x1": 896,
+    "y1": 148
+   },
+   "text": "COLORED HIGH SCHOOLS",
+   "status": "ok",
+   "confidence": 0.8702232241630554,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 448,
+    "y0": 115,
+    "x1": 893,
+    "y1": 147
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 676,
+    "y0": 180,
+    "x1": 1185,
+    "y1": 283
+   },
+   "text": "cuse; two M.E. degrees, representing Cornell University and Armour Institute, and one Master of Arts degree from Columbia University.",
+   "status": "ok",
+   "confidence": 0.9533302187919617,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 674,
+    "y0": 179,
+    "x1": 1183,
+    "y1": 280
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 132,
+    "y0": 182,
+    "x1": 643,
+    "y1": 365
+   },
+   "text": "The 7,250 pupils enrolled in public colored high schools in 1905 pursued courses as follows:\n1,575, or 15.7 per cent., classical course.\n1,943, or 19.3 per cent., scientific course.\n6,309, or 63.2 per cent., English course.\n147, or 1.4 per cent., business course.",
+   "status": "ok",
+   "confidence": 0.9496803283691406,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 131,
+    "y0": 180,
+    "x1": 641,
+    "y1": 361
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 676,
+    "y0": 283,
+    "x1": 1187,
+    "y1": 948
+   },
+   "text": "The Baltimore building cost $28,000, and enrolls 612 pupils. A few facts concerning other schools may be of interest. The Sumner High School, of St. Louis, was erected and furnished at a cost of $500,000, and is one of the best buildings in the United States; there are 24 teachers and 543 pupils. The Lincoln High School, of Kansas City, Mo., has a building worth $80,000, with 14 teachers and 310 pupils. In Washington, D. C., there are two high schools—the M Street, erected in 1890 at a cost of $107,000, with 33 teachers and 726 pupils. Congress has appropriated $60,000 for a new building site, where a new schoolhouse will be erected. There is also the Armstrong Manual Training High School, which, with building and equipment, cost $185,000. It has 36 teachers and 697 pupils. The Lincoln Polytechnic High School, East St. Louis, Ill., building cost $66,000. Richmond, Va., has a colored high-school building which cost $30,000, with 375 pupils. Fort Worth, Texas, has a fine new high school, and several other Texas cities are supplied.",
+   "status": "ok",
+   "confidence": 0.9785343408584595,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 676,
+    "y0": 281,
+    "x1": 1184,
+    "y1": 944
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 135,
+    "y0": 364,
+    "x1": 645,
+    "y1": 783
+   },
+   "text": "It is to be observed that many pupils are counted in more than one course. The graduates of the best colored high schools enter many of the Northern, Western and New England colleges upon certificate privilege without examination. In addition to the small number that go to college, 50 per cent. of the high-school graduates engage in teaching, others take up business positions, and some few find their way into civil service. But all, in whatever community you find them, contribute perceptibly to the moral and intellectual advancement of the people. The high-school teacher, too, exerts a helpful influence in his community.",
+   "status": "ok",
+   "confidence": 0.9749353528022766,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 134,
+    "y0": 364,
+    "x1": 641,
+    "y1": 777
+   },
+   "exclude": [
+    [
+     348,
+     781,
+     352,
+     785,
+     "r5"
+    ],
+    [
+     417,
+     781,
+     425,
+     800,
+     "r5"
+    ],
+    [
+     472,
+     781,
+     484,
+     802,
+     "r5"
+    ],
+    [
+     488,
+     781,
+     491,
+     784,
+     "r5"
+    ],
+    [
+     572,
+     781,
+     585,
+     800,
+     "r5"
+    ],
+    [
+     616,
+     781,
+     627,
+     799,
+     "r5"
+    ],
+    [
+     167,
+     782,
+     186,
+     801,
+     "r5"
+    ],
+    [
+     278,
+     782,
+     282,
+     801,
+     "r5"
+    ],
+    [
+     286,
+     782,
+     290,
+     800,
+     "r5"
+    ],
+    [
+     383,
+     782,
+     395,
+     801,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 137,
+    "y0": 778,
+    "x1": 646,
+    "y1": 1221
+   },
+   "text": "How well trained for his work the public secondary teacher is might be seen from a classification of the teachers in the Baltimore Colored High School. Of the twenty-eight teachers employed here sixteen are college graduates, six are graduates of trade or technical schools, such as Pratt, Drexel, Hampton and business colleges, and the remaining five are teachers of experience and proven worth. Of the sixteen holding degrees, there are nine A.B.'s—two from Harvard University, one from the University of Illinois, one from Wesleyan, three from Howard, one from Atlanta and one from Wilberforce; five hold the degree of Ph.B., representing the University of Chicago, Brown, Wesleyan and Syra-",
+   "status": "ok",
+   "confidence": 0.9770832061767578,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 136,
+    "y0": 779,
+    "x1": 643,
+    "y1": 1218
+   },
+   "exclude": [
+    [
+     437,
+     764,
+     449,
+     780,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 678,
+    "y0": 947,
+    "x1": 1187,
+    "y1": 1227
+   },
+   "text": "From these facts one may get some faint idea of the work which is being done by the public high schools for colored youth. That more is not accomplished is due to lack of schools, inadequate salaries for teachers, and a regrettable indifference on the part of the public, for in most cases public officials would willingly vote necessary improvements if the sentiment of the community did not oppose it.",
+   "status": "ok",
+   "confidence": 0.9732450246810913,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 678,
+    "y0": 949,
+    "x1": 1185,
+    "y1": 1217
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "figure",
+   "bbox": {
+    "x0": 140,
+    "y0": 1432,
+    "x1": 1184,
+    "y1": 1912
+   },
+   "text": "CLASS IN CHEMISTRY, HOWARD UNIVERSITY, WASHINGTON, D. C.",
+   "status": "ok",
+   "confidence": 0.9694344997406006,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 141,
+    "y0": 1434,
+    "x1": 1180,
+    "y1": 1911
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1151,
+    "y0": 114,
+    "x1": 1185,
+    "y1": 143
+   },
+   "text": "75",
+   "status": "ok",
+   "confidence": 0.8248038291931152,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1150,
+    "y0": 114,
+    "x1": 1183,
+    "y1": 141
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.02,
+  "box_overlaps_after": 3,
+  "log": []
+ }
+}

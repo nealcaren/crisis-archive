@@ -1,0 +1,197 @@
+{
+  "page": 12,
+  "image": "images/page_12.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 583,
+        "y0": 155,
+        "x1": 982,
+        "y1": 332
+      },
+      "text": "publicly, and that the others might attend or stay away, as they pleased. All the boys but one gave in. Wilkinson has been an honor student. He is very light, and some of the teachers did not know he was colored until the six boys made their protest. There was no objection to him whatever until the Clanmorgan case came up.",
+      "status": "ok",
+      "confidence": 0.9748947024345398,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 160,
+        "y0": 156,
+        "x1": 556,
+        "y1": 524
+      },
+      "text": "diately went into their rooms and returned with their automatic Winchester rifles and revolvers, and opened a continual fire on those who sought to take their lives. This momentary battle was so spirited that three were killed instantly and eight or ten of the members of the mob were seriously wounded and several have died since from their wounds, and the surviving members retreated in fast order. A few days after this battle Starr and Davis gave themselves up to the officers of the law, and as popular sentiment was so much in their favor the officers refused to incarcerate them. The old saying that mobs are usually made up of cowards who are willing to take life but unwilling to give up their own is a true axiom.\"",
+      "status": "ok",
+      "confidence": 0.9771955013275146,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 581,
+        "y0": 338,
+        "x1": 982,
+        "y1": 657
+      },
+      "text": "A Denver physician's automobile ran over a colored man and injured him badly. He was taken in the car and driven to four hospitals. He was refused at all of them though he was thought to be dying. Finally the owner of the automobile took him to his own home.\n\nApplication to admit a Japanese girl to the public schools caused a split in the Memphis School Board. It finally resulted in the passage of resolutions declaring that the Japanese are not of the white race, and therefore will not be permitted to share the same privileges in the public schools as white children.",
+      "status": "ok",
+      "confidence": 0.972061038017273,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 161,
+        "y0": 569,
+        "x1": 555,
+        "y1": 980
+      },
+      "text": "VAGARIES OF PREJUDICE.\nThe Clanmorgan-Collins suit in St. Louis has received much attention in the daily press, but it is sufficiently curious to be summarized here. Cora Clanmorgan married John Collins last August. In June the young husband, who is only nineteen years old, sued for annulment of the marriage on the ground that the wife had Negro blood. Though the percentage of Negro blood is very small, it appears that the Clanmorgan family were known by many people not to be entirely white. The laws of Missouri forbid the marriage of whites with persons of Negro or Mongolian blood. Mr. Clanmorgan said that he had opposed the marriage of his daughter but that the young couple had eloped. The case is further complicated by the fact that there is a new-born baby.",
+      "status": "ok",
+      "confidence": 0.9771543145179749,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 581,
+        "y0": 664,
+        "x1": 980,
+        "y1": 1028
+      },
+      "text": "A correspondent signing himself \"Protection\" writes to the New Orleans Times-Democrat: \"While escorting a lady friend to the railroad train one morning during the week past, I was brought face to face with a condition that it would seem could not exist in this Southland of ours, and yet, it was painfully apparent does exist, to the disgrace it would seem of our State legislatures of the past. I refer to the fact probably undreamed of by many of our citizens, that Negroes are allowed free access to the Pullman coaches of our railroads and by payment of the regular fare can occupy seats in these coaches for as long journeys as they care to take, the fare also entitling them to a berth, if the journey be at night.\"",
+      "status": "ok",
+      "confidence": 0.9773844480514526,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 161,
+        "y0": 981,
+        "x1": 556,
+        "y1": 1151
+      },
+      "text": "Mrs. Collins' sister has been active in the Christian Science Church in St. Louis, where she had been accepted as white. The papers report that a meeting was held to consider the case and that it was decided not to ask Miss Clanmorgan to retire from such positions as she held. The two youngest Clanmorgan children are at white schools.",
+      "status": "ok",
+      "confidence": 0.9753961563110352,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 582,
+        "y0": 1029,
+        "x1": 980,
+        "y1": 1163
+      },
+      "text": "\"Protection\" gives a lively description of the horror of the \"lady friend,\" and appeals to the \"chivalry and fearlessness\" of legislators to \"take up the fight for the sake of women and children, their own mothers, wives and sisters.\" It is a \"vital point,\" he says.",
+      "status": "ok",
+      "confidence": 0.9733662009239197,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 162,
+        "y0": 1152,
+        "x1": 557,
+        "y1": 1306
+      },
+      "text": "The St. Louis Republic reporter after a long description of the case remarked that \"much sympathy was felt for the Collins family,\" though he went so far later as to observe that some persons extended a portion of that sympathy to the wife. The Clanmorgans have lived in St. Louis for over 100 years.",
+      "status": "ok",
+      "confidence": 0.9717636704444885,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 584,
+        "y0": 1237,
+        "x1": 982,
+        "y1": 1510
+      },
+      "text": "Theodore Cable, Harvard's colored athlete, who broke the university's record for the hammer throw on April 30, competed with twenty-two Harvard and Yale athletes in the international meet with Oxford and Cambridge in July. Cable is twenty years old, weighs 185 pounds and is 5 feet $ 8 \\frac{1}{2} $ inches in height. In his freshman year at Harvard he won the hammer event in the freshman meet against Yale with a throw of 117 feet. His athletic ability is not confined to the hammer, for he won places at Harvard both in the sprints and the hurdles.",
+      "status": "ok",
+      "confidence": 0.9760391116142273,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 162,
+        "y0": 1313,
+        "x1": 558,
+        "y1": 1509
+      },
+      "text": "As the direct result of the agitation of the Collins-Clanmorgan case six members of the senior class at the Christian Brothers' College notified Brother Justin, the president, that they refused to accept diplomas or participate in the commencement exercises, June 23, if a diploma was given to Albert Wilkinson, a colored boy. Brother Justin announced that Wilkinson would receive his diploma",
+      "status": "ok",
+      "confidence": 0.9680966734886169,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 160,
+        "y0": 104,
+        "x1": 199,
+        "y1": 125
+      },
+      "text": "144",
+      "status": "ok",
+      "confidence": 0.8234083652496338,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 481,
+        "y0": 103,
+        "x1": 643,
+        "y1": 128
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.86158686876297,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 704,
+        "y0": 1207,
+        "x1": 847,
+        "y1": 1230
+      },
+      "text": "PERSONAL",
+      "status": "ok",
+      "confidence": 0.9007437825202942,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.4,
+    "at": "2026-10-06T22:11:15+00:00"
+  }
+}

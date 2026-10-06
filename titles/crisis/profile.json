@@ -47,6 +47,26 @@
       "name": "Foreign Comment",
       "type": "editorial",
       "era": "1910"
+    },
+    {
+      "name": "Men of the Month",
+      "type": "department",
+      "era": "1911"
+    },
+    {
+      "name": "Little Letters from the South",
+      "type": "letter",
+      "era": "1911"
+    },
+    {
+      "name": "Women's Clubs",
+      "type": "department",
+      "era": "1911"
+    },
+    {
+      "name": "Bureau of Information",
+      "type": "notice",
+      "era": "1911"
     }
   ],
   "columns": [
@@ -205,7 +225,11 @@
     "Opinion is a run of quotations from other newspapers and magazines, usually introduced by the source's name (\"The Boston Transcript says:\"). Each quotation is a separate article, with the quoted paper as its source; never make a whole Opinion page one article. Foreign Comment works the same way.",
     "Editorial (by Du Bois) is a series of short editorials, each starting under its own capitalized heading (SEGREGATION., VOTING., THE GHETTO). Each heading starts a new article that runs until the next heading, across a page break if needed.",
     "Letters: each letter is a separate article. A heading such as FROM DUTCH WORKINGMEN. or FROM A SOUTHERN WHITE MAN. starts a letter, and everything after it up to the next heading, including a quoted motion or resolution, belongs to that letter.",
-    "Signed feature articles (e.g. THE REAL RACE PROBLEM by Franz Boas) run across several pages; the title repeated as a running head on later pages continues the same article, it does not start a new one."
+    "Signed feature articles (e.g. THE REAL RACE PROBLEM by Franz Boas) run across several pages; the title repeated as a running head on later pages continues the same article, it does not start a new one.",
+    "Men of the Month: each person profiled (a name in capitals, often with a portrait) is a separate article; the portrait belongs to that person's article.",
+    "Little Letters from the South: each letter (starting \"Mr. Editor:\", \"Dear Sir:\" or similar, ending with the writer's name and town) is a separate article, with the signer as author.",
+    "Long signed features, often with a large title and byline (e.g. The Manufacture of Prejudice by Oswald Garrison Villard; Violations of Property Rights by W. E. Burghardt Du Bois; The Fight for Liberty in St. Lucia by Arthur A. Schomburg), run for several pages. Everything from the title to the next large title or section heading belongs to them: internal parts and chapters (PART II, Chapter III.—The Truth), subheads, and quoted newspaper headlines or dispatches reproduced inside them are NOT separate articles and NOT Along the Color Line items.",
+    "Full-page photographs and their captions are one article each; a caption belongs to the photograph above it."
   ],
   "ocr_fixes": {
     "Charles Edw": "Charles Edward Russell",

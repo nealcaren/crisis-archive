@@ -1,0 +1,116 @@
+{
+ "page": 23,
+ "image": "images/page_23.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 2.9,
+  "at": "2026-10-06T21:59:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 98,
+    "y0": 97,
+    "x1": 237,
+    "y1": 123
+   },
+   "text": "JULY, 1911",
+   "status": "ok",
+   "confidence": 0.8472691178321838,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 95,
+    "x1": 237,
+    "y1": 121
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 923,
+    "y0": 106,
+    "x1": 958,
+    "y1": 127
+   },
+   "text": "111",
+   "status": "ok",
+   "confidence": 0.8340520858764648,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 920,
+    "y0": 104,
+    "x1": 958,
+    "y1": 127
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 0,
+    "y0": 149,
+    "x1": 911,
+    "y1": 1462
+   },
+   "text": "MCA\n19-10\n\nScurlock\nPhoto.",
+   "status": "ok",
+   "confidence": 0.9546124339103699,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 0,
+    "y0": 168,
+    "x1": 905,
+    "y1": 1451
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 381,
+    "y0": 1476,
+    "x1": 893,
+    "y1": 1528
+   },
+   "text": "Young Men's Christian Association Basketball Team at Washington D. C. This team was never defeated.",
+   "status": "ok",
+   "confidence": 0.8688204288482666,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 377,
+    "y0": 1474,
+    "x1": 893,
+    "y1": 1528
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 4,
+  "regions_after": 4,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

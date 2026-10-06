@@ -1,0 +1,197 @@
+{
+  "page": 13,
+  "image": "images/page_13.jpg",
+  "width": 1069,
+  "height": 1612,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 290,
+        "y0": 91,
+        "x1": 661,
+        "y1": 116
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8747644424438477,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 70,
+        "y0": 141,
+        "x1": 465,
+        "y1": 297
+      },
+      "text": "Last fall in the handicap games he took first place in the 220-yard low hurdles. This past winter he won second place in an indoor broad jump competition with a leap of 20 feet 7 inches. Mr. Cable is a good violinist as well as an athlete. He is partially working his way through college.",
+      "status": "ok",
+      "confidence": 0.9704301953315735,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 492,
+        "y0": 144,
+        "x1": 886,
+        "y1": 431
+      },
+      "text": "beside him. Stanton died a few weeks ago and was duly buried in the Welles plot in Hartford, whereupon a reporter in search of a sensation sent out dispatches to the effect that the \"exclusive\" owners of cemetery lots objected to the interment to such an extent that they would remove the bones of their own relatives from the pernicious contact. This silly story, of course untrue, was quite widely circulated and believed. Only the New York World, among the papers that printed it, was honest enough to investigate and contradict its own dispatch.",
+      "status": "ok",
+      "confidence": 0.9771619439125061,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 71,
+        "y0": 302,
+        "x1": 465,
+        "y1": 477
+      },
+      "text": "Dr. Burt C. Wilder, of Cornell, the great authority in this country on the brain, has just received a handsome loving cup with the inscription: \"To Professor Burt G. Wilder, from a group of colored citizens of Ithaca, N. Y., in appreciation of his services to the race and his unfailing courtesy and friendliness to the colored people of Ithaca.\"",
+      "status": "ok",
+      "confidence": 0.968518078327179,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 492,
+        "y0": 443,
+        "x1": 886,
+        "y1": 655
+      },
+      "text": "At last 250 colored children of Memphis have seen the Zoo. For four hours they were permitted to look upon the wonders of that white sanctum, the park, in which colored folk may not walk, though they have always the simple pleasure of paying taxes for it. There were \"special deputized executors of the law\" to see that their conduct was seemly. As nothing desperate occurred, the children may go again some day.",
+      "status": "ok",
+      "confidence": 0.9763659238815308,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 72,
+        "y0": 477,
+        "x1": 465,
+        "y1": 668
+      },
+      "text": "Dr. Wilder said his first definite association with the Negro was as a student at Harvard under Prof. Jeffries Wyman. During the Civil War his observations of the physical and moral courage of the colored troops had convinced him that they could be not only efficient soldiers but worthy citizens, and the publication of these records will be his first duty after retirement from university work.",
+      "status": "ok",
+      "confidence": 0.9752992987632751,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 492,
+        "y0": 665,
+        "x1": 886,
+        "y1": 1087
+      },
+      "text": "It may safely be said that the colored Georgia convict by the name of Neal has established a record for honesty. He was convicted of assault with intent to murder in 1909. His offense consisted of pointing a gun at another, and the jury recommended Neal to mercy. The judge felt that the recommendation was not justified and sentenced Neal to imprisonment on two counts, four years for one and one year for the other. By mistake the man was liberated after having served one year. He presented his case to Judge Edwards and said that he did not know what to do about it but felt he ought to serve his full time. The judge told him to go back to prison, but was so much impressed with the man's honesty that he has petitioned the Governor for a pardon saying that he himself was mistaken in not accepting the jury's recommendation to mercy.",
+      "status": "ok",
+      "confidence": 0.9793662428855896,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 72,
+        "y0": 706,
+        "x1": 465,
+        "y1": 1222
+      },
+      "text": "MISCELLANEOUS.\nVardaman, of Mississippi, can always be relied on for entertainment of a melodramatic nature. In his capacity of white man's champion he recently paraded through the streets dressed in white linen in a cart drawn by sixteen white oxen and surrounded by attendants also arrayed in white. Various fair ladies who believe that the Negro should be kept down threw white flowers at the gentleman and the populace generally had an entertaining time.\nGovernor Blease, of South Carolina, is having history written to suit himself. It is a disputed point whether or not the Federal army fired Columbia in 1865 when the city was burned. The author of the history of South Carolina which is to be used in the public schools said there was some doubt about it, but Governor Blease said there was none in his mind and ordered the offending paragraph changed. The author of the history obligingly did as he was told and his text book has been adopted.",
+      "status": "ok",
+      "confidence": 0.9752554297447205,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 492,
+        "y0": 1093,
+        "x1": 886,
+        "y1": 1287
+      },
+      "text": "Mrs. Isabelle Worrell Ball made an address, in presenting a play to a colored social settlement in Washington, and said: \"If the United States government were to pay ten cents a day to the descendants of the slaves, who tilled the soil in the South during the eighty-seven years that slavery existed in this country, it would be indebted to them more than $11,000,000,000.\"",
+      "status": "ok",
+      "confidence": 0.97586989402771,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 71,
+        "y0": 1229,
+        "x1": 465,
+        "y1": 1385
+      },
+      "text": "\"Chocolate\" is the stage name of a colored clown in Paris who has delighted that city for twenty-seven years, while in his spare hours he has gone to hospitals and amused sick children. He is now retiring and at a meeting in his honor he will be decorated by the French government.",
+      "status": "ok",
+      "confidence": 0.9715878367424011,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 492,
+        "y0": 1294,
+        "x1": 887,
+        "y1": 1488
+      },
+      "text": "Life, the humorous weekly, becomes serious in speaking of several recent cases of Negro-baiting in New York. \"New York,\" it says, \"is a cosmopolitan city. It should have more cosmopolitan manners. It is quite intolerable that light-complexioned voters should regard themselves as clothed with congenital police powers for the regulation of voters whose skins are dark.\"",
+      "status": "ok",
+      "confidence": 0.9760922193527222,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 71,
+        "y0": 1390,
+        "x1": 465,
+        "y1": 1489
+      },
+      "text": "Gideon Welles, Secretary of the Navy in Lincoln's cabinet, felt that he owed his life to Chester Stanton, his colored body-servant, and on his deathbed requested that the man should be buried",
+      "status": "ok",
+      "confidence": 0.9635564684867859,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 848,
+        "y0": 91,
+        "x1": 885,
+        "y1": 112
+      },
+      "text": "145",
+      "status": "ok",
+      "confidence": 0.8379861116409302,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.5,
+    "at": "2026-10-06T22:11:25+00:00"
+  }
+}

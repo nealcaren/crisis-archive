@@ -1,0 +1,549 @@
+{
+ "page": 3,
+ "image": "images/page_03.jpg",
+ "width": 1396,
+ "height": 2081,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.3,
+  "at": "2026-10-06T21:09:53+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 296,
+    "y0": 134,
+    "x1": 855,
+    "y1": 183
+   },
+   "text": "THE CRISIS ADVERTISER",
+   "status": "ok",
+   "confidence": 0.8372365832328796,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 133,
+    "x1": 854,
+    "y1": 247
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "LETTERS.",
+   "role": "text",
+   "split_from": "r0"
+  },
+  {
+   "id": "r0b",
+   "label": "abandon",
+   "bbox": {
+    "x0": 296,
+    "y0": 183,
+    "x1": 855,
+    "y1": 247
+   },
+   "text": "LETTERS.",
+   "status": "ok",
+   "confidence": 0.8372365832328796,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 133,
+    "x1": 854,
+    "y1": 247
+   },
+   "exclude": [
+    [
+     654,
+     207,
+     708,
+     262,
+     "r9"
+    ],
+    [
+     712,
+     207,
+     775,
+     262,
+     "r9"
+    ],
+    [
+     782,
+     208,
+     832,
+     263,
+     "r9"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "LETTERS.",
+   "role": "text",
+   "split_from": "r0"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 107,
+    "y0": 249,
+    "x1": 618,
+    "y1": 552
+   },
+   "text": "\"I have read the first copy with interest.\"\nTHOMAS JESSE JONES,\nBureau of the Census,\nWashington, D. C.\n\"I think THE CRISIS has come to the kingdom just at the present time. Its information in regard to the Negro in politics and their condition is certainly very helpful to any man who is interested in the condition that is confronting our race of people in this country.\" JAMES H. GORDON,",
+   "status": "ok",
+   "confidence": 0.8767169117927551,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 199,
+    "x1": 615,
+    "y1": 549
+   },
+   "exclude": [
+    [
+     406,
+     551,
+     420,
+     569,
+     "r3"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "LETTERS.\n\"I have read the first copy with interest.\"\nTHOMAS JESSE JONES,\nBureau of the Census,\nWashington, D. C.\n\"I think THE CRISIS has come to the kingdom just at the present time. Its information in regard to the Negro in politics and their condition is certainly very helpful to any man who is interested in the condition that is confronting our race of people in this country.\" JAMES H. GORDON,",
+   "role": "text",
+   "needs_review": "heading 'THOMAS JESSE JONES,' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 106,
+    "y0": 548,
+    "x1": 616,
+    "y1": 731
+   },
+   "text": "\"I wish to tell you how wonderfully well I think you have done with THE CRISIS. It is stupendously strong in its repression. I have just read every word, including the advertisements.\" WALTER E. WEYL,",
+   "status": "ok",
+   "confidence": 0.7778337001800537,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 102,
+    "y0": 548,
+    "x1": 614,
+    "y1": 727
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 103,
+    "y0": 728,
+    "x1": 615,
+    "y1": 1008
+   },
+   "text": "\"I want the inclosed to tell you how much I like THE CRISIS. Would that I could italicize my approbation with a great amount. The little magazine is going to fill a great need, and will be to me personally a most instructive and interesting monthly visitor.\" FRANCES R. BARTHOLOMEW, Philadelphia, Pa.",
+   "status": "ok",
+   "confidence": 0.7977821826934814,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 100,
+    "y0": 726,
+    "x1": 612,
+    "y1": 1004
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "title",
+   "bbox": {
+    "x0": 132,
+    "y0": 1040,
+    "x1": 583,
+    "y1": 1149
+   },
+   "text": "The Georgia State Industrial College\nGood for a Trade, Normal, Industrial and\nCollegiate Education.\nWrite for Catalogue to\nR. R. WRIGHT, A.B., LL.D., President.",
+   "status": "ok",
+   "confidence": 0.8354295492172241,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 135,
+    "y0": 1038,
+    "x1": 580,
+    "y1": 1147
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 95,
+    "y0": 1165,
+    "x1": 613,
+    "y1": 1264
+   },
+   "text": "Legal Directory\nReal Estate and Probate Matters a Specialty",
+   "status": "ok",
+   "confidence": 0.9081828594207764,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 1179,
+    "x1": 606,
+    "y1": 1751
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Legal Directory\n\nReal Estate and Probate Matters a Specialty\n\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nNOTARY PUBLIC\nOffice: Room 502, Eberly Block Columbus, O.\n\nB. S. SMITH\nATTORNEY-AT-LAW\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL\nATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.\n\nJ. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet\n\nFREDERICK L. McGHEE",
+   "role": "text",
+   "split_from": "r6"
+  },
+  {
+   "id": "r6b",
+   "label": "title",
+   "bbox": {
+    "x0": 95,
+    "y0": 1264,
+    "x1": 613,
+    "y1": 1310
+   },
+   "text": "ROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW",
+   "status": "ok",
+   "confidence": 0.9081828594207764,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 1179,
+    "x1": 606,
+    "y1": 1751
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Legal Directory\n\nReal Estate and Probate Matters a Specialty\n\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nNOTARY PUBLIC\nOffice: Room 502, Eberly Block Columbus, O.\n\nB. S. SMITH\nATTORNEY-AT-LAW\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL\nATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.\n\nJ. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet\n\nFREDERICK L. McGHEE",
+   "role": "text",
+   "split_from": "r6b"
+  },
+  {
+   "id": "r6bb",
+   "label": "title",
+   "bbox": {
+    "x0": 95,
+    "y0": 1310,
+    "x1": 613,
+    "y1": 1352
+   },
+   "text": "NOTARY PUBLIC\nOffice: Room 502, Eberly Block Columbus, O.",
+   "status": "ok",
+   "confidence": 0.9081828594207764,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 1179,
+    "x1": 606,
+    "y1": 1751
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Legal Directory\n\nReal Estate and Probate Matters a Specialty\n\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nNOTARY PUBLIC\nOffice: Room 502, Eberly Block Columbus, O.\n\nB. S. SMITH\nATTORNEY-AT-LAW\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL\nATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.\n\nJ. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet\n\nFREDERICK L. McGHEE",
+   "role": "text",
+   "split_from": "r6bb"
+  },
+  {
+   "id": "r6bbb",
+   "label": "title",
+   "bbox": {
+    "x0": 95,
+    "y0": 1352,
+    "x1": 613,
+    "y1": 1454
+   },
+   "text": "B. S. SMITH\nATTORNEY-AT-LAW\nOffices: Suite 610, Sykes Block",
+   "status": "ok",
+   "confidence": 0.9081828594207764,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 1179,
+    "x1": 606,
+    "y1": 1751
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Legal Directory\n\nReal Estate and Probate Matters a Specialty\n\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nNOTARY PUBLIC\nOffice: Room 502, Eberly Block Columbus, O.\n\nB. S. SMITH\nATTORNEY-AT-LAW\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL\nATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.\n\nJ. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet\n\nFREDERICK L. McGHEE",
+   "role": "text",
+   "split_from": "r6bbb"
+  },
+  {
+   "id": "r6bbbb",
+   "label": "title",
+   "bbox": {
+    "x0": 95,
+    "y0": 1454,
+    "x1": 613,
+    "y1": 1752
+   },
+   "text": "Minneapolis, Minn.\n\nGEORGE W. MITCHELL\nATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.\n\nJ. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet\n\nFREDERICK L. McGHEE",
+   "status": "ok",
+   "confidence": 0.9081828594207764,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 1179,
+    "x1": 606,
+    "y1": 1751
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Legal Directory\n\nReal Estate and Probate Matters a Specialty\n\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nNOTARY PUBLIC\nOffice: Room 502, Eberly Block Columbus, O.\n\nB. S. SMITH\nATTORNEY-AT-LAW\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL\nATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.\n\nJ. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet\n\nFREDERICK L. McGHEE",
+   "role": "text",
+   "split_from": "r6bbb"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 95,
+    "y0": 1757,
+    "x1": 607,
+    "y1": 1954
+   },
+   "text": "ATTORNEY AND COUNSELOR-AT-LAW\nUnion Block, Fourth and Cedar Streets\nSt. Paul, Minn.\n\nRural Practice Notary Public\n\nWILLIAM R. MORRIS\nATTORNEY AND COUNSELOR-AT-LAW\n1020 Metropolitan Life Building\nMinneapolis, Minn.",
+   "status": "ok",
+   "confidence": 0.9042066335678101,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 145,
+    "y0": 1756,
+    "x1": 603,
+    "y1": 1951
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'WILLIAM R. MORRIS' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r8",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1145,
+    "y0": 135,
+    "x1": 1163,
+    "y1": 163
+   },
+   "text": "3",
+   "status": "ok",
+   "confidence": 0.6933181285858154,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1142,
+    "y0": 134,
+    "x1": 1161,
+    "y1": 160
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 651,
+    "y0": 203,
+    "x1": 1163,
+    "y1": 267
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8833006024360657,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 649,
+    "y0": 198,
+    "x1": 1161,
+    "y1": 270
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "title",
+   "bbox": {
+    "x0": 787,
+    "y0": 292,
+    "x1": 1025,
+    "y1": 388
+   },
+   "text": "A Business Proposition",
+   "status": "ok",
+   "confidence": 0.7621918320655823,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 784,
+    "y0": 288,
+    "x1": 1024,
+    "y1": 387
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 649,
+    "y0": 421,
+    "x1": 1161,
+    "y1": 921
+   },
+   "text": "THE CRISIS was established in September, 1910, and has issued four copies. Its circulation has been as follows:\n\nNovember .....1,000 copies\nDecember .....2,500 \"\nJanuary .....3,000 \"\nFebruary .....4,000 \"\n\nThe demand for the magazine has steadily kept ahead of the supply, so that sample copies have not been available and agents often could not be supplied.\n\nThe magazine circulates now in every State in the Union and in five foreign countries. In the near future it is planned to enlarge the size of the page of the magazine and to increase the number of pages so as to include more articles and some fiction.",
+   "status": "ok",
+   "confidence": 0.9661895036697388,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 648,
+    "y0": 420,
+    "x1": 1158,
+    "y1": 921
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 648,
+    "y0": 956,
+    "x1": 1156,
+    "y1": 1056
+   },
+   "text": "It is especially desired to increase the number and quality of the illustrations so as to make the magazine a pictorial history of the Color Line.",
+   "status": "ok",
+   "confidence": 0.9387638568878174,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 645,
+    "y0": 955,
+    "x1": 1153,
+    "y1": 1057
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 646,
+    "y0": 1104,
+    "x1": 1156,
+    "y1": 1353
+   },
+   "text": "In order to realize our plans we need 10,000 subscribers—6,000 more than we have. Every reader of THE CRISIS can by personal solicitation help us to this goal. Probably no magazine in America has a more interesting set of readers—we have on our books judges, financiers, philanthropists, college presidents and scholars, besides the best educated colored people of the country.",
+   "status": "ok",
+   "confidence": 0.9718918204307556,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 646,
+    "y0": 1102,
+    "x1": 1152,
+    "y1": 1350
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 643,
+    "y0": 1385,
+    "x1": 1152,
+    "y1": 1638
+   },
+   "text": "This magazine has as yet paid no salaries to its workers. Outside of this its income has more than paid its expenses each month. Our books are open to those interested. What we need now is capital. Anyone interested in investing money in this enterprise, either as a pure matter of business or as a philanthropy, can get hold of some interesting facts by addressing the manager at 20 Vesey Street, New York City.",
+   "status": "ok",
+   "confidence": 0.9683887958526611,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 641,
+    "y0": 1383,
+    "x1": 1149,
+    "y1": 1635
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 641,
+    "y0": 1676,
+    "x1": 1151,
+    "y1": 1953
+   },
+   "text": "Do not hesitate to criticize us. We want ideas. We want short, live articles, with facts done into English. We are not anxious for opinion and we write poetry ourselves.\n\nIf you do not get your copy, write us. If you do, and like it, write us. If you do not like it, do not fail to write us.\n\nHave you got any interesting pictures \"along the Color Line?\" Send them to us. In fact, help us to help you and yours.",
+   "status": "ok",
+   "confidence": 0.9389581680297852,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 639,
+    "y0": 1673,
+    "x1": 1148,
+    "y1": 1951
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 16,
+  "regions_after": 20,
+  "lost_words": [],
+  "needs_review": [
+   "r2",
+   "r7"
+  ],
+  "unowned_ink_pct": 4.57,
+  "box_overlaps_after": 3,
+  "log": [
+   "drop r1 (text): non-latin hallucination 'حرَّجَة'",
+   "reshape r0 (abandon): lost 47% of its ink, gained 0%",
+   "reshape r2 (title): lost 6% of its ink, gained 0%",
+   "reshape r6 (title): lost 0% of its ink, gained 7%",
+   "reread r0: 'LETTERS.' -> 'THE CRISIS ADVERTISER\\nLETTERS.'",
+   "reread r2: 'LETTERS.\\n\"I have read the first copy wit' -> '\"I have read the first copy with interes'",
+   "reread r6: 'Legal Directory\\n\\nReal Estate and Probate' -> 'Legal Directory\\n\\nReal Estate and Probate'",
+   "split r0 at y=183 before 'LETTERS.'",
+   "REVIEW r2: heading 'THOMAS JESSE JONES,' inside box; no verified split at the 3 nearest gaps",
+   "split r6 at y=1264 before 'ROBERT B. BARCUS'",
+   "split r6b at y=1310 before 'NOTARY PUBLIC'",
+   "split r6bb at y=1352 before 'B. S. SMITH'",
+   "split r6bbb at y=1454 before 'GEORGE W. MITCHELL'",
+   "REVIEW r7: heading 'WILLIAM R. MORRIS' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

@@ -1,0 +1,182 @@
+{
+ "page": 3,
+ "image": "images/page_03.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.5,
+  "at": "2026-10-06T21:47:00+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 114,
+    "y0": 122,
+    "x1": 1184,
+    "y1": 632
+   },
+   "text": "THE CRISIS\nA RECORD OF THE DARKER RACES\n\nPublished by the National Association for the Advancement of Colored People, at\n20 Vesey Street, New York City.\n\nW. E. BURGHARDT DU BOIS, Editor\nM. D. MACLEAN, Managing Editor\nFRANK M. TURNER, Circulation Manager\nALBON L. HOLSEY, Advertising Manager\n\nContributing Editors\nOSWALD GARRISON VILLARD\nJ. MAX BARBER\nCHARLES EDWARD RUSSELL\nW. S. BRAITHWAITE\nKELLY MILLER",
+   "status": "ok",
+   "confidence": 0.6310596466064453,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 113,
+    "y0": 128,
+    "x1": 1174,
+    "y1": 628
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'OSWALD GARRISON VILLARD' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 118,
+    "y0": 677,
+    "x1": 1169,
+    "y1": 788
+   },
+   "text": "ALONG THE COLOR LINE. 49",
+   "status": "ok",
+   "confidence": 0.9261440634727478,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 112,
+    "y0": 670,
+    "x1": 1174,
+    "y1": 1065
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r1b",
+   "label": "title",
+   "bbox": {
+    "x0": 118,
+    "y0": 788,
+    "x1": 1169,
+    "y1": 1070
+   },
+   "text": "MEN OF THE MONTH:\nCol. T. W. Higginson..... 54\nEdward D. Green..... 54\nMr. and Mrs. G. E. Wibecan, Sr..... 55\n\nOPINION ..... 56\n\nN. A. A. C. P..... 60\nThe Lakewood Case.\nThe Delaware Case.\nThe Kentucky Lynching.",
+   "status": "ok",
+   "confidence": 0.9261440634727478,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 112,
+    "y0": 670,
+    "x1": 1174,
+    "y1": 1065
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1",
+   "needs_review": "heading 'OPINION ..... 56' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 119,
+    "y0": 1083,
+    "x1": 1170,
+    "y1": 1196
+   },
+   "text": "EDITORIAL ..... 62\nTHE FREEDMEN'S FRIENDS: Some Founders of Negro Education..... 66\nHARRIET BEECHER STOWE: Portrait by Richmond..... 68",
+   "status": "ok",
+   "confidence": 0.5278646349906921,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 111,
+    "y0": 1079,
+    "x1": 1174,
+    "y1": 1651
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 119,
+    "y0": 1196,
+    "x1": 1170,
+    "y1": 1651
+   },
+   "text": "HARRIET BEECHER STOWE'S PERSONAL KNOWLEDGE OF THE\nNEGRO CHARACTER. By Charles Edward Stowe..... 69\nVACATION OPPORTUNITIES. By G. S. Dickerman..... 71\nCOLORED HIGH SCHOOLS..... 73\nTHE BURDEN..... 76\nTHE BLACK SOLDIER: A Letter from Gen. G. M. Dodge..... 77\nWOMEN'S CLUBS: Caring for the Children. By A. W. Hunton..... 78\nA COLLEGE GIRL'S CREDO. By Miriam E. Oatman..... 79\nTALKS ABOUT WOMEN. By Mrs. John E. Milholland..... 80\nWHAT TO READ..... 81\n\nAgents wanted who can furnish reliable references.\nEntered as second-class matter in the post office at New York City.",
+   "status": "ok",
+   "confidence": 0.5278646349906921,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 111,
+    "y0": 1079,
+    "x1": 1174,
+    "y1": 1651
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2",
+   "needs_review": "heading 'COLORED HIGH SCHOOLS..... 73' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 118,
+    "y0": 1683,
+    "x1": 1171,
+    "y1": 1856
+   },
+   "text": "The July number of THE CRISIS will be a vacation number. It will contain an article on Colored Athletes by Edwin B. Henderson, of Washington, D. C., illustrated by photographs of many celebrated men. There will also be an analysis of the segregation situation in the city of Baltimore.\n\nThis is to certify that I print twelve thousand copies of the June Crisis, 1911.\n\nROBERT N. WOOD, Printer,\n202 East 99th St.\n\nSworn to before me this 17th day of May, 1911.\n\nP. J. BURKE,\nNotary Public, N. Y. C.",
+   "status": "ok",
+   "confidence": 0.3099082410335541,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 119,
+    "y0": 1679,
+    "x1": 1168,
+    "y1": 1856
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'P. J. BURKE,' inside box; no verified split at the 3 nearest gaps"
+  }
+ ],
+ "clean": {
+  "regions_before": 4,
+  "regions_after": 6,
+  "lost_words": [],
+  "needs_review": [
+   "r0",
+   "r1b",
+   "r2b",
+   "r3"
+  ],
+  "unowned_ink_pct": 5.4,
+  "box_overlaps_after": 0,
+  "log": [
+   "REVIEW r0: heading 'OSWALD GARRISON VILLARD' inside box; no verified split at the 3 nearest gaps",
+   "split r1 at y=788 before 'MEN OF THE MONTH:'",
+   "REVIEW r1b: heading 'OPINION ..... 56' inside box; no verified split at the 3 nearest gaps",
+   "split r2 at y=1196 before \"HARRIET BEECHER STOWE'S PERSONAL KNOWLEDGE OF THE\"",
+   "REVIEW r2b: heading 'COLORED HIGH SCHOOLS..... 73' inside box; no verified split at the 3 nearest gaps",
+   "REVIEW r3: heading 'P. J. BURKE,' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

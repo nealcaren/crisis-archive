@@ -1,0 +1,622 @@
+{
+ "page": 7,
+ "image": "images/page_07.jpg",
+ "width": 1396,
+ "height": 2080,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.4,
+  "at": "2026-10-06T21:10:28+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 454,
+    "y0": 104,
+    "x1": 897,
+    "y1": 136
+   },
+   "text": "ALONG THE COLOR LINE",
+   "status": "ok",
+   "confidence": 0.8791400194168091,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 456,
+    "y0": 103,
+    "x1": 897,
+    "y1": 136
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 690,
+    "y0": 168,
+    "x1": 1200,
+    "y1": 320
+   },
+   "text": "The International Committee of the Y. M. C. A. has been promised a salary for two field secretaries in addition to the three men now on the force to assist in the extension of the Colored Y. M. C. A. movement.",
+   "status": "ok",
+   "confidence": 0.9615005850791931,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 689,
+    "y0": 169,
+    "x1": 1198,
+    "y1": 319
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 150,
+    "y0": 169,
+    "x1": 660,
+    "y1": 395
+   },
+   "text": "by the railroads that the railroads cannot be compelled to interfere with their operation.\n\nWhen a Negro makes a contract to buy a house in a first-class residence district without concealing his color, the seller cannot declare the contract invalid merely because the purchaser is a Negro.",
+   "status": "ok",
+   "confidence": 0.9443196654319763,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 148,
+    "y0": 169,
+    "x1": 659,
+    "y1": 391
+   },
+   "exclude": [
+    [
+     180,
+     391,
+     196,
+     412,
+     "r4"
+    ],
+    [
+     199,
+     393,
+     211,
+     412,
+     "r4"
+    ],
+    [
+     319,
+     393,
+     327,
+     397,
+     "r4"
+    ],
+    [
+     399,
+     393,
+     407,
+     398,
+     "r4"
+    ],
+    [
+     267,
+     394,
+     279,
+     412,
+     "r4"
+    ],
+    [
+     514,
+     394,
+     529,
+     412,
+     "r4"
+    ],
+    [
+     645,
+     394,
+     657,
+     412,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 691,
+    "y0": 329,
+    "x1": 1200,
+    "y1": 422
+   },
+   "text": "The Episcopal community of colored Sisters has been moved from Baltimore to Kansas City.",
+   "status": "ok",
+   "confidence": 0.92714923620224,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 691,
+    "y0": 340,
+    "x1": 1199,
+    "y1": 419
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "The Episcopal community of colored Sisters has been moved from Baltimore to Kansas City.",
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 150,
+    "y0": 388,
+    "x1": 660,
+    "y1": 542
+   },
+   "text": "Thus the State Supreme Court ruled recently in the case of David Cole, a Negro, against a real estate company of Seattle, which contended that selling a lot to Cole would depreciate the value of its other property in the neighborhood.",
+   "status": "ok",
+   "confidence": 0.9519180059432983,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 391,
+    "x1": 658,
+    "y1": 539
+   },
+   "exclude": [
+    [
+     293,
+     375,
+     305,
+     392,
+     "r2"
+    ],
+    [
+     499,
+     376,
+     511,
+     392,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 690,
+    "y0": 427,
+    "x1": 1200,
+    "y1": 742
+   },
+   "text": "The Right Rev. Silveria Gomez Pimentar, who died a few years ago in South America, was the first Catholic Negro bishop in the New World. His parents were slaves, but he became auxiliary bishop of Balua at an early age, and in 1902 was made Bishop of Marianna by Pope Leo XIII. There were 2,000,000 people in his diocese. He succeeded in restoring and elevating the religious and social life of his district, and was a man of vast learning, with high reputation as an Orientalist.",
+   "status": "ok",
+   "confidence": 0.9641361236572266,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 691,
+    "y0": 439,
+    "x1": 1198,
+    "y1": 739
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 150,
+    "y0": 598,
+    "x1": 661,
+    "y1": 847
+   },
+   "text": "Negro settlements with considerable landholdings are being projected in California and Nevada by local colored capitalists. The two colored banks of Nashville, Tenn., are in good condition, but the Nickel Savings Bank of Richmond, Va., has failed. It had a capital of $10,000. An application for a bank charter has been filed in Wicomico county, Md.",
+   "status": "ok",
+   "confidence": 0.961540699005127,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 149,
+    "y0": 598,
+    "x1": 659,
+    "y1": 844
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 692,
+    "y0": 748,
+    "x1": 1199,
+    "y1": 888
+   },
+   "text": "Pope Pius X. is manifesting great interest in mission work among colored people in the United States. Rev. J. E. Burk, the director-general of this work, is undertaking to raise $50,000 a year for it.",
+   "status": "ok",
+   "confidence": 0.946664035320282,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 690,
+    "y0": 759,
+    "x1": 1198,
+    "y1": 885
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Pope Pius X. is manifesting great interest in mission work among colored people in the United States. Rev. J. E. Burk, the director-general of this work, is undertaking to raise $50,000 a year for it.",
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 152,
+    "y0": 874,
+    "x1": 660,
+    "y1": 934
+   },
+   "text": "A building and loan association has been started in Scranton, Pa.",
+   "status": "ok",
+   "confidence": 0.8994641900062561,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 151,
+    "y0": 871,
+    "x1": 659,
+    "y1": 925
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 692,
+    "y0": 895,
+    "x1": 1200,
+    "y1": 1157
+   },
+   "text": "The colored Methodists of Baltimore have finally taken possession of the former home of St. Peter's Protestant Episcopal Church. Fifty thousand colored people live within a radius of eight blocks of this church, and there are twelve colored churches in the neighborhood. This is the largest church owned by Negroes in the United States. The congregation was founded by Daniel Coker.",
+   "status": "ok",
+   "confidence": 0.9661680459976196,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 692,
+    "y0": 905,
+    "x1": 1198,
+    "y1": 1155
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 151,
+    "y0": 933,
+    "x1": 661,
+    "y1": 1221
+   },
+   "text": "Mississippi planters in the Black Belt are warning labor agents not to entice their colored laborers away to Arkansas.\nThe Pullman Company pays its colored porters $15 and $20 a month, occasionally $25. For the larger part of their income these porters depend on tins.\nThe increased cost of living and the disposition of the public to stop tipping have led the porters to petition for higher wages.",
+   "status": "ok",
+   "confidence": 0.9485028982162476,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 945,
+    "x1": 659,
+    "y1": 1218
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 692,
+    "y0": 1201,
+    "x1": 1199,
+    "y1": 1256
+   },
+   "text": "In Shreveport, La., the principal of the colored school says in an appeal for funds:",
+   "status": "ok",
+   "confidence": 0.771710991859436,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 691,
+    "y0": 1202,
+    "x1": 1198,
+    "y1": 1252
+   },
+   "exclude": [
+    [
+     734,
+     1252,
+     751,
+     1272,
+     "r13"
+    ],
+    [
+     722,
+     1254,
+     725,
+     1261,
+     "r13"
+    ],
+    [
+     728,
+     1255,
+     731,
+     1260,
+     "r13"
+    ],
+    [
+     754,
+     1254,
+     765,
+     1272,
+     "r13"
+    ],
+    [
+     889,
+     1254,
+     891,
+     1257,
+     "r13"
+    ],
+    [
+     985,
+     1255,
+     997,
+     1273,
+     "r13"
+    ],
+    [
+     1069,
+     1255,
+     1080,
+     1273,
+     "r13"
+    ],
+    [
+     1143,
+     1255,
+     1154,
+     1274,
+     "r13"
+    ],
+    [
+     1160,
+     1254,
+     1197,
+     1273,
+     "r13"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 150,
+    "y0": 1245,
+    "x1": 662,
+    "y1": 1492
+   },
+   "text": "Four million dollars is the amount of money that the Negroes of Philadelphia have on deposit in the various savings institutions in that city, according to addresses made the other evening by leading Negro business and professional men at a banquet given by the board of directors of the People's Savings Bank of Philadelphia, which is the only Negro bank north of the Mason and Dixon line.",
+   "status": "ok",
+   "confidence": 0.9718176126480103,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 1243,
+    "x1": 659,
+    "y1": 1492
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 692,
+    "y0": 1249,
+    "x1": 1200,
+    "y1": 1599
+   },
+   "text": "\"There are, in round numbers, 3,000 educable colored school children in Shreveport. About 1,000 are in school, 350 have applied for admission, but because of a lack of room and teachers they have been turned away with tearful eyes. Others knowing that there is no room have not applied. Two thousand children cannot get into our schools.\"\n\nIn Florence, S. C., the 105 white teachers receive $36,804 a year in salaries for teaching 59 schools; while the 56 Negro teachers get $7,359 for teaching 49 schools.",
+   "status": "ok",
+   "confidence": 0.9344294667243958,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 690,
+    "y0": 1252,
+    "x1": 1199,
+    "y1": 1597
+   },
+   "exclude": [
+    [
+     891,
+     1236,
+     903,
+     1253,
+     "r11"
+    ],
+    [
+     1007,
+     1236,
+     1018,
+     1253,
+     "r11"
+    ],
+    [
+     1020,
+     1236,
+     1043,
+     1253,
+     "r11"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 149,
+    "y0": 1520,
+    "x1": 661,
+    "y1": 1921
+   },
+   "text": "Julius Rosenwald, a prominent Chicago Jew, has offered to give $25,000 to every city that shall raise $75,000 for a colored Young Men's Christian Association building. M. W. Harris, a banker, has contributed $25,000 to the colored building for Chicago. President Taft has written a commendatory letter. After a ten days' campaign the colored people raised $66,000 in Chicago, so that the building there is assured. It will be between 24th and 39th Streets and will contain a gymnasium, swimming pool, shower baths, bowling alleys, billiard room, restaurant, dormitories, reading room and library, night school, lecture rooms and clubrooms for boys.",
+   "status": "ok",
+   "confidence": 0.9655038118362427,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 149,
+    "y0": 1519,
+    "x1": 659,
+    "y1": 1918
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 691,
+    "y0": 1605,
+    "x1": 1200,
+    "y1": 1921
+   },
+   "text": "Founders' Day at Hampton Institute was largely devoted to a discussion of Negro industrial education by Northern and Southern white men.\n\nThe State Board of Education has voted to place the new colored normal school at Nashville, Tenn., provided $80,000 is raised.\n\nFire has destroyed the girl's dormitory of the colored school at Conroe, Tex., and nearly the whole plant of the Methodist",
+   "status": "ok",
+   "confidence": 0.9453767538070679,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 690,
+    "y0": 1617,
+    "x1": 1199,
+    "y1": 1919
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "title",
+   "bbox": {
+    "x0": 324,
+    "y0": 567,
+    "x1": 487,
+    "y1": 593
+   },
+   "text": "ECONOMIC.",
+   "status": "ok",
+   "confidence": 0.8847687244415283,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 326,
+    "y0": 564,
+    "x1": 483,
+    "y1": 593
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r17",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1180,
+    "y0": 102,
+    "x1": 1199,
+    "y1": 132
+   },
+   "text": "7",
+   "status": "ok",
+   "confidence": 0.754746675491333,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1178,
+    "y0": 102,
+    "x1": 1197,
+    "y1": 128
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r18",
+   "label": "title",
+   "bbox": {
+    "x0": 856,
+    "y0": 1163,
+    "x1": 1036,
+    "y1": 1202
+   },
+   "text": "EDUCATION.",
+   "status": "ok",
+   "confidence": 0.8162305355072021,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 854,
+    "y0": 1173,
+    "x1": 1033,
+    "y1": 1201
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "EDUCATION.",
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 19,
+  "regions_after": 19,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.4,
+  "box_overlaps_after": 4,
+  "log": [
+   "reshape r3 (plain_text): lost 0% of its ink, gained 3%",
+   "reshape r7 (plain_text): lost 0% of its ink, gained 3%",
+   "reshape r18 (title): lost 0% of its ink, gained 18%",
+   "reread r3: 'The Episcopal community of colored Siste' -> 'The Episcopal community of colored Siste'",
+   "reread r7: 'Pope Pius X. is manifesting great intere' -> 'Pope Pius X. is manifesting great intere'",
+   "reread r18: 'EDUCATION.' -> 'EDUCATION.'"
+  ]
+ }
+}

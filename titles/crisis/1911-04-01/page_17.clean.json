@@ -1,0 +1,173 @@
+{
+ "page": 17,
+ "image": "images/page_17.jpg",
+ "width": 1080,
+ "height": 1610,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.2,
+  "at": "2026-10-06T21:27:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 83,
+    "y0": 97,
+    "x1": 904,
+    "y1": 232
+   },
+   "text": "THE N. A. A. C. P.",
+   "status": "ok",
+   "confidence": 0.2438264787197113,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 168,
+    "y0": 132,
+    "x1": 818,
+    "y1": 193
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "THE N. A. A. C. P.",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 83,
+    "y0": 252,
+    "x1": 481,
+    "y1": 1134
+   },
+   "text": "The Third Annual Conference of the National Association for the Advancement of Colored People will take place in Park Street Church, Boston, on Thursday and Friday, March 30 and 31, 1911. The following programme will be carried out:\n\nTHURSDAY, MARCH 30.\n\nAfternoon Session:\n2:30 o'clock.\n\nViolations of Property Rights.\nChairman: Mr. Moorfield Storey.\nSpeakers: Mr. Oswald Garrison Villard, Dr W. E. B. DuBois, Rabbi Charles Fleischer, Mr. R. R. Wright, Jr., and Miss Adelene Moffat.\n\nEvening Session:\n8 o'clock.\n\nViolations of Labor Rights and Peonage.\nFederal Aid to Education.\nChairman: Hon. Albert E. Pillsbury.\nSpeakers: Mr. John E. Milholland, Rev. John Haynes Holmes, Mr. L. M. Hershaw, Mrs. Mary Church Terrell, and Mrs. Florence Kelley.\n\nFRIDAY, MARCH 31.\n\nMorning Session:\n10 o'clock.\n\nExecutive Session:\nBusiness and Credentials.\n\nEvening Session:\n8 o'clock.\n\nSegregation and Ultimate Effects of Race Discrimination.\nChairman: Mr. Moorfield Storey.\nSpeakers: Hon. Charles J. Bonaparte, ex-United States Attorney General; Justice Wendell Phillips Stafford, of the Supreme Court of the District of Columbia: Rabbi Stephen S. Wise, of the Free Synagogue, New York.",
+   "status": "ok",
+   "confidence": 0.8045219779014587,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 79,
+    "y0": 240,
+    "x1": 481,
+    "y1": 1133
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'THURSDAY, MARCH 30.' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 83,
+    "y0": 1136,
+    "x1": 480,
+    "y1": 1456
+   },
+   "text": "The Department of Publicity and Research makes the following report of activities from September 1, 1910, to April 1, 1911:\n\nLectures have been delivered as follows:\n\nNew York and vicinity, eighteen:\nBethel Church\nSt. Mark's Church (3)\nRepublican Club\nStillman House\nSocialist Local Number Seven\nLincoln Centre\nEthical Culture Hall (2)\nCosmopolitan Club\nConcord Baptist Church",
+   "status": "ok",
+   "confidence": 0.7311797142028809,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 79,
+    "y0": 1135,
+    "x1": 478,
+    "y1": 1455
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 505,
+    "y0": 254,
+    "x1": 784,
+    "y1": 903
+   },
+   "text": "Clinton Hall\nBedford Reformatory (2)\nPaterson\nMontclair\nNewark.\n\n**The East,** thirteen:\nSouthold, L. I.\nBoston:\nFord Hall\nTwentieth Century Club\nShaw House\nCambridge\nPark Street Church.\nGreenacre, Me.\nSea Isle City, N. J.\nOcean Grove, N. J.\nAtlantic City, N. J.\nWest Chester, Pa.\nHouse of Refuge, Pa.\nPhiladelphia,\nN. A. A. C. P. Meeting\nSettlement Workers.\n\n**The West,** twenty:\nBuffalo, N. Y.\nOberlin, O. (5)\nToledo, O.\nCleveland, O.\nColumbus, O.,\nBaptist Church\nOhio State University\nXenia, O.\nWilberforce University\nDetroit, Mich.,",
+   "status": "ok",
+   "confidence": 0.922902524471283,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 501,
+    "y0": 253,
+    "x1": 790,
+    "y1": 1206
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 505,
+    "y0": 903,
+    "x1": 784,
+    "y1": 1201
+   },
+   "text": "Y. M. C. A.\nUniversalist Church\nWoman's Club\nSteubenville, O.\nChicago,\nEthical Culture Society\nAnn Arbor, Mich.\nIndianapolis, Ind.\nBig Rapids, Mich.\nThe South, six:\nWashington, D. C.\nDurham, N. C. (3)\nAtlanta,\nBethel Church\nAtlanta Baptist College.",
+   "status": "ok",
+   "confidence": 0.922902524471283,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 501,
+    "y0": 253,
+    "x1": 790,
+    "y1": 1206
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 503,
+    "y0": 1203,
+    "x1": 899,
+    "y1": 1454
+   },
+   "text": "Of these fifty-eight lectures, twenty-three were to white audiences, twenty-five to colored audiences and ten to mixed audiences. The hearers aggregated 21,000 persons.\n\nFive magazine articles have been placed, six letters to newspapers and three articles for press associations.\n\nThe correspondence of the office has involved the writing of 2,949 letters.",
+   "status": "ok",
+   "confidence": 0.864557683467865,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 498,
+    "y0": 1201,
+    "x1": 897,
+    "y1": 1452
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 5,
+  "regions_after": 6,
+  "lost_words": [],
+  "needs_review": [
+   "r1"
+  ],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 65%",
+   "reread r0: 'THE N. A. A. C. P.' -> 'THE N. A. A. C. P.'",
+   "REVIEW r1: heading 'THURSDAY, MARCH 30.' inside box; no verified split at the 3 nearest gaps",
+   "split r3 at y=903 before 'Y. M. C. A.'"
+  ]
+ }
+}

@@ -1,0 +1,222 @@
+{
+ "page": 17,
+ "image": "images/page_17.jpg",
+ "width": 1074,
+ "height": 1576,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.5,
+  "at": "2026-10-06T21:03:48+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 418,
+    "y0": 95,
+    "x1": 564,
+    "y1": 119
+   },
+   "text": "EDITORIAL",
+   "status": "ok",
+   "confidence": 0.7896933555603027,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 417,
+    "y0": 93,
+    "x1": 562,
+    "y1": 118
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 83,
+    "y0": 147,
+    "x1": 483,
+    "y1": 461
+   },
+   "text": "prominent judge on the Mississippi bench says \"The Negroes in Mississippi do not vote and should not,\" and it is a matter of plain official record in Louisiana that of over 150,000 Negro males 21 years of age and over (of whom nearly 70,000 could read and write) there were in 1908 only 1,743 registered as voters, and these were disfranchised by the \"White Primary\" system. In the face of these facts, does it pay deliberately to misrepresent the truth?",
+   "status": "ok",
+   "confidence": 0.9755236506462097,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 85,
+    "y0": 146,
+    "x1": 479,
+    "y1": 457
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 88,
+    "y0": 493,
+    "x1": 488,
+    "y1": 909
+   },
+   "text": "OPPORTUNITY. A FRIEND of our Association writes: \"While I heartily approve of the colored people being given an opportunity to improve their condition, I feel that after doing what I can to help them to earn a living honorably, they must depend on their own resources to advance themselves.\" This is the attitude of many excellent friends of humanity, but it assumes that if a man is fairly equipped for earning a living to-day he will have the opportunity to do so, and that the paths before him will be open so as to make the rise of the deserving possible.",
+   "status": "ok",
+   "confidence": 0.9778404831886292,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 88,
+    "y0": 490,
+    "x1": 485,
+    "y1": 904
+   },
+   "exclude": [
+    [
+     384,
+     908,
+     395,
+     924,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 92,
+    "y0": 906,
+    "x1": 491,
+    "y1": 1503
+   },
+   "text": "It is precisely because the opportunity to earn a living, even for those equipped to do so, is not given to-day to thousands of colored people in the United States, that the National Association for the Advancement of Colored People exists. It is wrong and wasteful to do for people what they can and ought to do for themselves, but when the doors of opportunity are so shut in their faces so as to discourage and keep back the hard-working and deserving, then action is called for. To-day Negroes may work freely as menials at low wages; they may work freely as farm laborers under conditions of semi-slavery; higher than that they meet unusual difficulties—the difficulty of saving capital from low wages to farm or go into business; the difficulty of securing admission to the trades even when competent; the difficulty of securing protection under the law and of rearing a family in decency; the difficulty of educating their",
+   "status": "ok",
+   "confidence": 0.9705513119697571,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 91,
+    "y0": 906,
+    "x1": 488,
+    "y1": 1500
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 504,
+    "y0": 93,
+    "x1": 904,
+    "y1": 530
+   },
+   "text": "children; the difficulty of protecting their rights by the ballot. To be sure, if they are unusually gifted and pushing they may push higher at the risk of insult and bitter opposition. Thus the fact remains that the mass of the willing, eager workers of the race are held back and forced down by a deep and growing race prejudice, and these, pressing down on the lower strata, encourage in them laziness and vagrancy and crime. The National Association for the Advancement of Colored People is an organization for giving the colored race a reasonable opportunity to help itself.",
+   "status": "ok",
+   "confidence": 0.9781203866004944,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 505,
+    "y0": 92,
+    "x1": 901,
+    "y1": 527
+   },
+   "exclude": [
+    [
+     548,
+     97,
+     562,
+     116,
+     "r0"
+    ],
+    [
+     501,
+     98,
+     518,
+     116,
+     "r0"
+    ],
+    [
+     520,
+     98,
+     528,
+     115,
+     "r0"
+    ],
+    [
+     529,
+     98,
+     545,
+     116,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "title",
+   "bbox": {
+    "x0": 510,
+    "y0": 565,
+    "x1": 907,
+    "y1": 1093
+   },
+   "text": "THE philanthropist of a city like New York is bewildered and often exasperated by the demands and begging of colored schools in the South.\nTo some extent this is inevitable, and is due to the fact that the United States is undertaking to give elementary education to a race of ten million people very largely by private philanthropy instead of making this a State and even a national charge, and leaving to voluntary effort the college work and work of social uplift.\nBut beyond this the philanthropic world is to some extent itself to blame because of the encouragement it gives to unknown and unvouched-for enterprises and to unwise and unjustifiable attempts to duplicate existing foundations.",
+   "status": "ok",
+   "confidence": 0.9758762717247009,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 508,
+    "y0": 561,
+    "x1": 905,
+    "y1": 1094
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 514,
+    "y0": 1095,
+    "x1": 911,
+    "y1": 1505
+   },
+   "text": "The representative of a great fund once called on the writer and expressed great sorrow that an alleged school in the South to which one of the most prominent New York philanthropists had given $5,000 was found on investigation to be no school at all. This was unfortunate, but there are hundreds of good and deserving schools starving for help which this philanthropist did not give to because their representatives did not appear so glib or plausible. It is not the smoothest talker who necessarily is doing the best work. Again, indiscriminate and ill-advised giving encourages such things as are",
+   "status": "ok",
+   "confidence": 0.9796776175498962,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 513,
+    "y0": 1095,
+    "x1": 909,
+    "y1": 1501
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 7,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.19,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

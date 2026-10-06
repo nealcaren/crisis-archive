@@ -1,0 +1,220 @@
+{
+ "page": 27,
+ "image": "images/page_27.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.2,
+  "at": "2026-10-06T21:59:41+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 318,
+    "y0": 110,
+    "x1": 705,
+    "y1": 133
+   },
+   "text": "FAMOUS COLLEGE ATHLETES",
+   "status": "ok",
+   "confidence": 0.8493215441703796,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 315,
+    "y0": 108,
+    "x1": 705,
+    "y1": 133
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "figure",
+   "bbox": {
+    "x0": 148,
+    "y0": 158,
+    "x1": 853,
+    "y1": 738
+   },
+   "text": "THE PREPARATION OF COLLEGE ATHLETES\nTeam of the Armstrong High School, Washington, D. C.",
+   "status": "ok",
+   "confidence": 0.9669798016548157,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 148,
+    "y0": 159,
+    "x1": 853,
+    "y1": 736
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "title",
+   "bbox": {
+    "x0": 168,
+    "y0": 833,
+    "x1": 838,
+    "y1": 891
+   },
+   "text": "The Colored College Athlete",
+   "status": "ok",
+   "confidence": 0.935038685798645,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 170,
+    "y0": 827,
+    "x1": 837,
+    "y1": 890
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 319,
+    "y0": 939,
+    "x1": 687,
+    "y1": 965
+   },
+   "text": "EDWIN B. HENDERSON",
+   "status": "ok",
+   "confidence": 0.918524444103241,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 318,
+    "y0": 933,
+    "x1": 685,
+    "y1": 964
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 208,
+    "y0": 989,
+    "x1": 824,
+    "y1": 1008
+   },
+   "text": "Physical Director M Street and Armstrong High Schools, Washington, D. C.",
+   "status": "ok",
+   "confidence": 0.897249698638916,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 206,
+    "y0": 986,
+    "x1": 822,
+    "y1": 1007
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 91,
+    "y0": 1073,
+    "x1": 491,
+    "y1": 1516
+   },
+   "text": "The colored college athlete of the past and present bears an enviable reputation. His athletic prowess has brought him fame, his skill and courage have gained for him the respect and admiration of thousands, and it is impossible to overestimate the effect of his career upon the minds of thousands of Americans who have seen him perform or have read of his doings. The path of the Negro athlete is not strewn with roses. He must fight the prejudiced attacks of Negroaters, whose methods are low and despicable. Fraternities often rule and hamper his efforts, so that in nearly all cases where he does win out his superiority is made evident beyond the slightest doubt. Nearly every Negro athlete of prominence in college has been a gentleman, has worn his honors with modesty, and has gained respect by playing the game and ignoring the taunts of prejudiced opponents.",
+   "status": "ok",
+   "confidence": 0.9779344201087952,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 92,
+    "y0": 1070,
+    "x1": 488,
+    "y1": 1513
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 514,
+    "y0": 1068,
+    "x1": 916,
+    "y1": 1517
+   },
+   "text": "When competent physical directors and equal training facilities are afforded the colored youth the white athlete will find an equal or superior in nearly every line of athletic endeavor. The native muscular development and vitality of the Negro of the South, if directed in channels of athletic activities, would lower many records now standing, and our leaders should grasp the situation and develop agencies to conserve the vital forces of the race. Physical training, including athletics, should be a well-outlined course in every school for colored youth; it should not be thrown into the hand of inexperienced student control, but should be developed under the direction of a department of physical education. At least one organization, the Interscholastic Athletic Association of the Middle Atlantic States, exists for the purpose of spreading the doctrine of sound health for colored people, and has prob-",
+   "status": "ok",
+   "confidence": 0.977156400680542,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 514,
+    "y0": 1070,
+    "x1": 914,
+    "y1": 1514
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r19",
+   "label": "abandon",
+   "bbox": {
+    "x0": 876,
+    "y0": 108,
+    "x1": 913,
+    "y1": 131
+   },
+   "text": "115",
+   "status": "ok",
+   "confidence": 0.7897273302078247,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 873,
+    "y0": 108,
+    "x1": 912,
+    "y1": 129
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 19,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": [
+   "drop r1 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r3 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r5 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r6 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r7 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r10 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r11 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r12 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r16 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r17 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r18 (text): non-latin hallucination 'حرَّجَة'"
+  ]
+ }
+}

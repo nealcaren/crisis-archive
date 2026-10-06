@@ -1,0 +1,70 @@
+{
+ "page": 18,
+ "image": "images/page_18.jpg",
+ "width": 1085,
+ "height": 1666,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 2.5,
+  "at": "2026-10-06T21:18:05+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 946,
+    "y0": 113,
+    "x1": 1085,
+    "y1": 139
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.6426353454589844,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 943,
+    "y0": 108,
+    "x1": 1085,
+    "y1": 139
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "figure",
+   "bbox": {
+    "x0": 164,
+    "y0": 173,
+    "x1": 1085,
+    "y1": 1479
+   },
+   "text": "",
+   "status": "ok",
+   "confidence": 0.7257161140441895,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 165,
+    "y0": 173,
+    "x1": 1083,
+    "y1": 1479
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 2,
+  "regions_after": 2,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

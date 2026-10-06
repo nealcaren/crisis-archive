@@ -1,0 +1,155 @@
+{
+  "page": 30,
+  "image": "images/page_30.jpg",
+  "width": 1365,
+  "height": 2066,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 189,
+        "y0": 170,
+        "x1": 697,
+        "y1": 543
+      },
+      "text": "conscience—that is to say, the ordinary citizen going about his business or pleasure. A very large responsibility rests upon all agencies for social uplift. If they do not take the right stand it is hard to expect individuals here and there to do so. The encouraging aspect of the matter is that the difficulties are usually much more imagined than real, and this will be realized sooner or later. In a certain social work, covering a period of some years, there has been the opportunity to observe and compare most interestingly the workings of this unintelligent tendency to race prejudice.",
+      "status": "ok",
+      "confidence": 0.9758565425872803,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 730,
+        "y0": 171,
+        "x1": 1244,
+        "y1": 298
+      },
+      "text": "other nationality you most certainly will be requested to leave.\" Again the result was the same as on previous occasions. Almost immediately the whole incident was forgotten.",
+      "status": "ok",
+      "confidence": 0.9658411145210266,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 732,
+        "y0": 302,
+        "x1": 1241,
+        "y1": 772
+      },
+      "text": "In a social settlement in Cambridge, in a colored and white district, colored and white have been coming to the house in equal numbers for over fifteen years. So little is the question of color thought of that it not infrequently happens that in selecting persons for a play the young people entirely forget that perhaps some of the audience may feel that the dramatic unities are not being altogether preserved, when a flaxen-haired, blue-eyed boy or girl and a very dark colored child elect to be brother and sister in the play. The Woman's Club has always had about an equal number of white and colored members. The colored people are often in greater demand than some of their white neighbors owing to their agreeable and refined manners.",
+      "status": "ok",
+      "confidence": 0.9807317852973938,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 187,
+        "y0": 543,
+        "x1": 695,
+        "y1": 1129
+      },
+      "text": "The first to appear on the scene were the Irish, the next were the French Canadians; upon the approach of the latter the Irish rose in a body and demanded that the French-Canadians be excluded, saying that they did not want them coming there, that they would break up the club if they came, and that many of the best members would leave. The reply of the authorities was: \"This institution is open to all nationalities and all creeds. The only basis of admission is good character and good behavior. The French-Canadian members fulfil those requirements. The house is here for those who come to it; if you do not come, then you have nothing to say about how it shall be run.\" The Irish and French-Canadians soon found that they liked each other very well indeed. The Jews were the next to approach. Both Irish and French-Canadians united against them. Again the management stood firm and the results were the same.",
+      "status": "ok",
+      "confidence": 0.9447851777076721,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 727,
+        "y0": 777,
+        "x1": 1239,
+        "y1": 1324
+      },
+      "text": "The distinctive traits of the colored people, those in which they seem to surpass the other nationalities which go to make up the American people, are urbanity, love of music, poetic imagination and social adaptability. Has America so many of these qualities that it can afford to cavil if the gift comes to it wrapped up in brown paper instead of white? When one looks at what the Negro has accomplished in a generation since the war, when one considers the amount of education he has been able to acquire, the amount of his savings and his investments, when one catches in the literature of his race the strong, clear note of a rising people, a people meaning to rise to the highest American ideals (they know no other), it seems to be no longer a question of the education of the black, but of the education of the educated whites.",
+      "status": "ok",
+      "confidence": 0.9742781519889832,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 187,
+        "y0": 1131,
+        "x1": 692,
+        "y1": 1328
+      },
+      "text": "This experience was repeated with more than fifteen nationalities. Finally all combined against the Negro. The management again withstood the combined pressure, saying cheerfully, \"If you all leave, the place can still be run for colored people, and if you remain and make it uncomfortable for them or any",
+      "status": "ok",
+      "confidence": 0.920292317867279,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 508,
+        "y0": 1363,
+        "x1": 858,
+        "y1": 1423
+      },
+      "text": "THE HEART'S DESIRE.\nBy Robert W. Justice.",
+      "status": "ok",
+      "confidence": 0.7545848488807678,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 453,
+        "y0": 1396,
+        "x1": 992,
+        "y1": 1925
+      },
+      "text": "By Robert W. Justice.\nFloat ever by me\nIn countless numbers,\nLike waves in the mighty sea,\nStrange faces of alien gaze,\nHurrying on to and from the daily strife,\nThis way, and now that, yet all, all\nForeign, unfamiliar—still I stand and call\nIn hushed breath, and wait for one\nWho passeth by, never.\nYet I fear to leave my lonely place—\nMy watch-tower of delight where with me\nDwell Hope and Patience;\nThe one—sweet counselling voice—\nMakes day grow short, and I rejoice\nWhen Patience laves my distressed soul\nWith reason and points to the goal\nWhere, though faint and dim,\nI shall stand face to face,\nAnd in love's sweet embrace,\nFind and know My Heart's Desire.",
+      "status": "ok",
+      "confidence": 0.9189614057540894,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "abandon",
+      "bbox": {
+        "x0": 189,
+        "y0": 103,
+        "x1": 238,
+        "y1": 131
+      },
+      "text": "162",
+      "status": "ok",
+      "confidence": 0.8238691687583923,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 604,
+        "y0": 103,
+        "x1": 811,
+        "y1": 134
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.861479640007019,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.0,
+    "at": "2026-10-06T22:13:51+00:00"
+  }
+}

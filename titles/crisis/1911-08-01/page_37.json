@@ -1,0 +1,211 @@
+{
+  "page": 37,
+  "image": "images/page_37.jpg",
+  "width": 1067,
+  "height": 1610,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 410,
+        "y0": 105,
+        "x1": 916,
+        "y1": 366
+      },
+      "text": "ay to give; once I be- ternal life, al. Any time then; of rever- the white oe whose Thus the natural and made\n\nIn obedience to primitive instinct the dead man was laid to sleep on his bed in his subterranean chamber, surrounded by the things which would be to him the most useful on his awakening. The soldier had his weapons, sword, lance, dagger, etc., all of iron; the huntsman his bow and arrows—even the dogs were sometimes sacrificed with him. The women had equally their beads and their jewels.",
+      "status": "ok",
+      "confidence": 0.9756056070327759,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 103,
+        "y0": 158,
+        "x1": 495,
+        "y1": 407
+      },
+      "text": "\"As a child, I understood how to give; I have forgotten that grace since I became civilized. I lived the natural life, whereas now I live the artificial. Any pretty pebble was valuable to me then; every growing tree an object of reverence. Now I worship with the white man before a painted landscape whose value is estimated in dollars! Thus the Indian is reconstructed, as the natural rocks are ground to powder, and made into artificial blocks which may be built into the walls of modern society.\"",
+      "status": "ok",
+      "confidence": 0.9740031361579895,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 102,
+        "y0": 424,
+        "x1": 495,
+        "y1": 541
+      },
+      "text": "The very rare tenth book of the \"History of the Ethiopians,\" by Heliodorus, printed in 1552, was one of the treasures of the recent Hoe sale in New York City. It was bought by Walter M. Hill, of Chicago, for $5,000.",
+      "status": "ok",
+      "confidence": 0.953826367855072,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 104,
+        "y0": 579,
+        "x1": 495,
+        "y1": 897
+      },
+      "text": "EXCAVATIONS IN ETHIOPIA.\nTHE CRISIS has from time to time mentioned the remarkable explorations on the site of the ancient Ethiopian city of Meroe, the capital of the great black empire of the eastern Soudan. For more than one hundred years the pyramids of Meroe have been known, but only within the last three years have explorers known that a great city lay buried under the sand not far from them. Professor Garstang, who has been in charge of the work of uncovering Meroe, has just returned from Africa with many treasures and a description of a wonderful civilization.",
+      "status": "ok",
+      "confidence": 0.9781950116157532,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 103,
+        "y0": 900,
+        "x1": 496,
+        "y1": 1327
+      },
+      "text": "Great temples, royal palaces, public buildings and splendid tombs have been rescued from the desert. The result shows that the black men were in close relation to Greece as well as Egypt. A magnificent temple in the Greek style has been uncovered. The architecture, the explorers say, in the construction of its columns, as well as in the elegance of their forms, recalls the best Greek works of antiquity and not at all the styles common upon the Nile. The sanctuary is in the middle and raised above the level of the rest of the temple. It was approached by a number of steps in black stone. Its floor and its walls were originally covered with glazed tiles, blue and yellow. A number are still in position. Round the sanctuary was a kind of corridor exposed to view on the outside, to show the processions and the ceremonies of the priests.",
+      "status": "ok",
+      "confidence": 0.9795799255371094,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 102,
+        "y0": 1330,
+        "x1": 496,
+        "y1": 1504
+      },
+      "text": "In the tombs vases of a special and rare kind were recovered, made of thin pottery decorated with paintings in colors. The subjects were animals, trees or natural features, or with designs stamped upon the clay. In addition to pottery vessels there were in these tombs a variety of objects not merely funerary in character.",
+      "status": "ok",
+      "confidence": 0.9737937450408936,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 876,
+        "y0": 103,
+        "x1": 914,
+        "y1": 124
+      },
+      "text": "169",
+      "status": "ok",
+      "confidence": 0.8372141122817993,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 522,
+        "y0": 369,
+        "x1": 916,
+        "y1": 523
+      },
+      "text": "Professor Garstang thinks he has found evidences of human sacrifices. The Ethiopians apparently were reluctant to take life, their worse criminals being told to commit suicide so that blood guilt might not rest on an executioner, and the matter of the human sacrifices is not yet settled.",
+      "status": "ok",
+      "confidence": 0.9759997129440308,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 522,
+        "y0": 527,
+        "x1": 916,
+        "y1": 812
+      },
+      "text": "Well-preserved remains have been found of the period of great splendor, six or seven hundred years B. C., when the Ethiopians conquered Egypt. There are also relics of Roman influence, and among the art treasures is a beautiful head which is placed at the end of the first century B. C. The eyes are of alabaster, with the iris and pupil inlaid, while the eyelashes are in bronze. It is twice life size. It is possible that this head represents Germanicus, who is known from the Annals of Tacitus to have made a voyage by the Nile to Assouan.",
+      "status": "ok",
+      "confidence": 0.9769287705421448,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 519,
+        "y0": 843,
+        "x1": 916,
+        "y1": 929
+      },
+      "text": "The National Religious Training School, DURHAM, N.C.",
+      "status": "ok",
+      "confidence": 0.9549731016159058,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 521,
+        "y0": 934,
+        "x1": 915,
+        "y1": 1103
+      },
+      "text": "Offers special training to young men and women as Settlement Workers, Association Secretaries, Missionaries, Literary and Other Branches.\nThe following departments are now in successful operation:\nCommercial, Literary, Music, Theological",
+      "status": "ok",
+      "confidence": 0.8543712496757507,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 622,
+        "y0": 1165,
+        "x1": 812,
+        "y1": 1183
+      },
+      "text": "SUMMER SCHOOL.",
+      "status": "ok",
+      "confidence": 0.8660709261894226,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 549,
+        "y0": 1185,
+        "x1": 887,
+        "y1": 1356
+      },
+      "text": "The Summer School and Chautauqua opened July 5, 1911, and closes August 14.\nThe attractions and advantages offered in the Summer School are unsurpassed in the country for colored young men and women.\nApplications should be sent in at an early date.",
+      "status": "ok",
+      "confidence": 0.9517644047737122,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1357,
+        "x1": 919,
+        "y1": 1505
+      },
+      "text": "Loan Scholarships have been established for deserving young men and women.\nFor further information address\nThe President, National Religious Training School, Durham, N. C.",
+      "status": "ok",
+      "confidence": 0.9170668125152588,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.3,
+    "at": "2026-10-06T22:14:48+00:00"
+  }
+}

@@ -1,0 +1,534 @@
+{
+ "page": 11,
+ "image": "images/page_11.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.5,
+  "at": "2026-10-06T21:48:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 459,
+    "y0": 116,
+    "x1": 838,
+    "y1": 148
+   },
+   "text": "MEN OF THE MONTH",
+   "status": "ok",
+   "confidence": 0.8879614472389221,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 459,
+    "y0": 116,
+    "x1": 839,
+    "y1": 146
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "figure",
+   "bbox": {
+    "x0": 659,
+    "y0": 189,
+    "x1": 1163,
+    "y1": 860
+   },
+   "text": "",
+   "status": "ok",
+   "confidence": 0.972413182258606,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 661,
+    "y0": 194,
+    "x1": 1155,
+    "y1": 852
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 111,
+    "y0": 196,
+    "x1": 614,
+    "y1": 863
+   },
+   "text": "",
+   "status": "ok",
+   "confidence": 0.9726056456565857,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 116,
+    "y0": 199,
+    "x1": 608,
+    "y1": 855
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 741,
+    "y0": 878,
+    "x1": 1059,
+    "y1": 899
+   },
+   "text": "MRS. GEORGE E. WIBECAN",
+   "status": "ok",
+   "confidence": 0.8861889839172363,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 742,
+    "y0": 875,
+    "x1": 1057,
+    "y1": 899
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 105,
+    "y0": 917,
+    "x1": 613,
+    "y1": 1049
+   },
+   "text": "son became intimate with such men as Emerson, Longfellow, Whittier, Holmes, Lowell and Thoreau, and in his old age he had many things to tell of this brilliant circle.",
+   "status": "ok",
+   "confidence": 0.9649658203125,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 923,
+    "x1": 612,
+    "y1": 1047
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 646,
+    "y0": 926,
+    "x1": 1153,
+    "y1": 1077
+   },
+   "text": "Mr. Green has just succeeded in securing the passage of the amended Civil Rights bill, which makes it unlawful for the owners of cemeteries to discriminate in the price of graves against colored people or other nationalities.",
+   "status": "ok",
+   "confidence": 0.9681711792945862,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 646,
+    "y0": 924,
+    "x1": 1151,
+    "y1": 1072
+   },
+   "exclude": [
+    [
+     734,
+     1075,
+     752,
+     1095,
+     "r7"
+    ],
+    [
+     1039,
+     1074,
+     1041,
+     1077,
+     "r7"
+    ],
+    [
+     675,
+     1076,
+     697,
+     1095,
+     "r7"
+    ],
+    [
+     823,
+     1076,
+     826,
+     1079,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 105,
+    "y0": 1047,
+    "x1": 616,
+    "y1": 1321
+   },
+   "text": "When the Civil War began the well-known kindliness that Mr. Higginson had for Negroes made him particularly fitted for a command in a black regiment. He was at first gazetted Captain in the Fifty-first Massachusetts Volunteers, but resigned to become Colonel of the First South Carolina Volunteers. He captured Jacksonville, Fla., and was wounded at Milltown Bluff, S. C., with the result that he was forced by ill-health to resign.",
+   "status": "ok",
+   "confidence": 0.8355892300605774,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 1047,
+    "x1": 611,
+    "y1": 1317
+   },
+   "exclude": [
+    [
+     133,
+     1319,
+     151,
+     1338,
+     "r8"
+    ],
+    [
+     496,
+     1318,
+     505,
+     1338,
+     "r8"
+    ],
+    [
+     519,
+     1318,
+     522,
+     1322,
+     "r8"
+    ],
+    [
+     554,
+     1319,
+     566,
+     1338,
+     "r8"
+    ],
+    [
+     602,
+     1318,
+     611,
+     1337,
+     "r8"
+    ],
+    [
+     154,
+     1320,
+     167,
+     1338,
+     "r8"
+    ],
+    [
+     201,
+     1320,
+     217,
+     1339,
+     "r8"
+    ],
+    [
+     234,
+     1320,
+     240,
+     1338,
+     "r8"
+    ],
+    [
+     285,
+     1320,
+     291,
+     1338,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 646,
+    "y0": 1071,
+    "x1": 1153,
+    "y1": 1293
+   },
+   "text": "Mr. Green is a member of the committees on building, loan and homestead associations, Chicago charter, education finance, judicial appointment, liberal, military affairs, parks and boulevards, primary elections, public buildings and grounds, and State institutions. He is well liked by both his Republican and Democratic associates.",
+   "status": "ok",
+   "confidence": 0.9761592745780945,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 646,
+    "y0": 1074,
+    "x1": 1152,
+    "y1": 1293
+   },
+   "exclude": [
+    [
+     649,
+     1058,
+     661,
+     1074,
+     "r5"
+    ],
+    [
+     691,
+     1058,
+     703,
+     1074,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 104,
+    "y0": 1315,
+    "x1": 614,
+    "y1": 1561
+   },
+   "text": "The Colonel was a warm friend of women's education, and was one of those with sufficient courage to attend the first Women's Rights Convention. He was ever on the side of progress and ready as a young man to move forward. He was too feeble to take active part in the work of the N. A. A. C. P., but repeatedly expressed his deep sympathy with our movement.",
+   "status": "ok",
+   "confidence": 0.8778334259986877,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 1317,
+    "x1": 610,
+    "y1": 1561
+   },
+   "exclude": [
+    [
+     575,
+     1300,
+     589,
+     1317,
+     "r6"
+    ],
+    [
+     356,
+     1302,
+     369,
+     1318,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 643,
+    "y0": 1345,
+    "x1": 1154,
+    "y1": 1828
+   },
+   "text": "A golden nuptial mass for a colored man and wife was celebrated for the first time in this country on May 1, in honor of the 50th anniversary of the marriage of Mr. and Mrs. George E. Wibecan, Sr. They were married in Liverpool, England, in 1861, came to this country shortly afterward, and settled in Ridgewood, Long Island. For half a century they have been prominently identified with every forward movement in their section of the country, and are among the most respected citizens of Long Island. The parish, white and colored, turned out to honor the pair on their golden anniversary, and the parish priest paid a high tribute to their influence in the community.",
+   "status": "ok",
+   "confidence": 0.9773882031440735,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 645,
+    "y0": 1343,
+    "x1": 1151,
+    "y1": 1822
+   },
+   "exclude": [
+    [
+     783,
+     1825,
+     801,
+     1846,
+     "r11"
+    ],
+    [
+     830,
+     1825,
+     858,
+     1845,
+     "r11"
+    ],
+    [
+     861,
+     1825,
+     865,
+     1829,
+     "r11"
+    ],
+    [
+     675,
+     1826,
+     692,
+     1846,
+     "r11"
+    ],
+    [
+     868,
+     1827,
+     880,
+     1846,
+     "r11"
+    ],
+    [
+     964,
+     1826,
+     975,
+     1849,
+     "r11"
+    ],
+    [
+     1024,
+     1826,
+     1028,
+     1830,
+     "r11"
+    ],
+    [
+     1143,
+     1826,
+     1152,
+     1845,
+     "r11"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "title",
+   "bbox": {
+    "x0": 104,
+    "y0": 1613,
+    "x1": 612,
+    "y1": 1925
+   },
+   "text": "A COLORED LEGISLATOR. Edward·D. Green, Illinois' only colored member of the legislature, has fought race battles with energy and success on more occasions than one. The Supreme Court has just decided in favor of his \"Anti-Mob-Law\" bill, put through the Assembly, and bitterly contested. The bill provides for the severe punishment of lynchers and delinquent sheriffs. It is the first law of the kind to stand the test of any supreme court.",
+   "status": "ok",
+   "confidence": 0.9770656824111938,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 103,
+    "y0": 1610,
+    "x1": 610,
+    "y1": 1922
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 646,
+    "y0": 1822,
+    "x1": 1155,
+    "y1": 1926
+   },
+   "text": "George E. Wibecan, Jr., is one of Brooklyn's well-known colored men, and is high in the councils of the Republican party.",
+   "status": "ok",
+   "confidence": 0.9574743509292603,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 645,
+    "y0": 1822,
+    "x1": 1152,
+    "y1": 1924
+   },
+   "exclude": [
+    [
+     718,
+     1808,
+     732,
+     1825,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 204,
+    "y0": 877,
+    "x1": 515,
+    "y1": 898
+   },
+   "text": "MR. GEORGE E. WIBECAN",
+   "status": "ok",
+   "confidence": 0.6295379400253296,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 204,
+    "y0": 874,
+    "x1": 512,
+    "y1": 898
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1118,
+    "y0": 115,
+    "x1": 1153,
+    "y1": 143
+   },
+   "text": "55",
+   "status": "ok",
+   "confidence": 0.8426805138587952,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1118,
+    "y0": 114,
+    "x1": 1152,
+    "y1": 141
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 14,
+  "regions_after": 14,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.12,
+  "box_overlaps_after": 4,
+  "log": []
+ }
+}

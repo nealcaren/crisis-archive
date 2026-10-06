@@ -1,0 +1,155 @@
+{
+  "page": 26,
+  "image": "images/page_26.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 592,
+        "y0": 151,
+        "x1": 991,
+        "y1": 296
+      },
+      "text": "Those who dread intermarriage should, therefore, reflect both that there is no such thing as purity of race, and that the rate of crossing decreases with the increase of interracial and international amity.",
+      "status": "ok",
+      "confidence": 0.8240148425102234,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 168,
+        "y0": 154,
+        "x1": 565,
+        "y1": 516
+      },
+      "text": "suggested above, to unenlightened psychological repulsion and underestimation of the dynamic or environmental factors. (b) Since, therefore, there is no fair proof of some races being substantially superior to others in inborn capacity, our moral standard, or the manner of treating others—seeing how under favorable circumstances one people after another rises to fame, and how members of all human groups pass through universities with equal success—should remain the same whatever people we are dealing with.",
+      "status": "ok",
+      "confidence": 0.9778214693069458,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 591,
+        "y0": 298,
+        "x1": 989,
+        "y1": 679
+      },
+      "text": "9. (a) Each people might study with advantage the customs and civilizations of other races or peoples, including those it thinks the lowest ones, for the definite purpose of improving its own customs and civilization, since the lowliest civilizations even have much to teach. (b) Dignified and unostentatious conduct and deferential respect for the customs of others, provided these are not morally objectionable to an unprejudiced mind, should be recommended to all who come in passing or permanent contact with members of human groups that are unfamiliar to them.",
+      "status": "ok",
+      "confidence": 0.978847324848175,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 170,
+        "y0": 522,
+        "x1": 565,
+        "y1": 1045
+      },
+      "text": "7. (a) So far at least as intellectual and moral aptitudes are concerned, we ought to speak of civilizations where we now speak of races. (b) Indeed, even the physical characteristics, excluding the skin color of a people, are to no small extent the direct result of the physical and social environment under which it is living at any moment, and hence these characteristics differ measurably both in the history and in the different social strata of one and the same people; and (c) these physical characteristics are furthermore too indefinite and elusive to serve as a basis for any rigid classification or division of human groups, more especially as there has been much interbreeding among all peoples and because race characteristics are even said to distinguish every country and almost every province.",
+      "status": "ok",
+      "confidence": 0.9790266752243042,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 589,
+        "y0": 680,
+        "x1": 988,
+        "y1": 824
+      },
+      "text": "These are a fair summary of the conclusions of writers who are among the best-known names in modern science. In the next number of THE CRISIS we shall give some of their views at length.",
+      "status": "ok",
+      "confidence": 0.9739904999732971,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 589,
+        "y0": 870,
+        "x1": 990,
+        "y1": 1510
+      },
+      "text": "THE mob spirit in America is far from dead. Time and time again the disappearance of lynching has been confidently announced. Still this species of murder and lawlessness flourishes blithely. Its sickening details in the last few weeks have been as bad as could be imagined. The cause of this is obvious: a disrespect for law and a growing cheapness of human life. Why should America lose respect for law? Because for years some of its best brains have been striving both in the profession of law and on the bench to show how worthless legislation is and helpless to accomplish its ends. To cite an instance: The Constitution of the United States, the highest law of the land, says that citizens of the United States cannot be disfranchised on account of race or color. Yet every schoolboy knows that Negro Americans are disfranchised in large areas of the South for no other reason than race and color. This is but one instance of our laughing at law.",
+      "status": "ok",
+      "confidence": 0.9753339290618896,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 1053,
+        "x1": 566,
+        "y1": 1509
+      },
+      "text": "8. (a) The most fruitful cause of race crossing is ill-will—as illustrated by war, conquest, slavery, exploitation and persecution—for where there exists mutual respect the differences in differing traditions, etc., make it almost an invariable rule that intermarriage is avoided—as is shown by any two nations friendly to each other; (b) but intermarriage, we find—contrary to popular tenets—improves the vitality and capacity of a people, and cannot, therefore, be objectionable in itself. (c) The chief drawback to intermarriage between peoples is the same as the drawback to intermarriage between different social classes—i. e., the different traditions of the partners in marriage. (d)",
+      "status": "ok",
+      "confidence": 0.9776656627655029,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "abandon",
+      "bbox": {
+        "x0": 169,
+        "y0": 102,
+        "x1": 209,
+        "y1": 123
+      },
+      "text": "158",
+      "status": "ok",
+      "confidence": 0.8364307284355164,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "abandon",
+      "bbox": {
+        "x0": 491,
+        "y0": 100,
+        "x1": 654,
+        "y1": 124
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8545097708702087,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 722,
+        "y0": 844,
+        "x1": 855,
+        "y1": 865
+      },
+      "text": "LYNCHING.",
+      "status": "ok",
+      "confidence": 0.8847479224205017,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.9,
+    "at": "2026-10-06T22:13:14+00:00"
+  }
+}

@@ -1,0 +1,277 @@
+{
+ "page": 10,
+ "image": "images/page_10.jpg",
+ "width": 1408,
+ "height": 2089,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.2,
+  "at": "2026-10-06T21:10:58+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 680,
+    "y0": 112,
+    "x1": 878,
+    "y1": 143
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8772736191749573,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 678,
+    "y0": 110,
+    "x1": 876,
+    "y1": 142
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 255,
+    "y0": 115,
+    "x1": 289,
+    "y1": 144
+   },
+   "text": "10",
+   "status": "ok",
+   "confidence": 0.8562865853309631,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 252,
+    "y0": 114,
+    "x1": 286,
+    "y1": 141
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 245,
+    "y0": 182,
+    "x1": 759,
+    "y1": 574
+   },
+   "text": "The Times-Democrat sums up the matter in a serious editorial utterance: \"When, a short time ago, the prize pupils of our public schools went to the Cleveland 'spelling bec,' and it was discovered that the competition was between white and Negro pupils, Mr. Easton was bitterly denounced for his action in taking the New Orleans white children into this contest with Negroes. He accepted the responsibility, explaining that there was no time for thought, made public apology for his mistake, and promised that no mixture of races should ever again occur in any school function, lecture or any ceremony.\"",
+   "status": "ok",
+   "confidence": 0.9739795327186584,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 243,
+    "y0": 182,
+    "x1": 755,
+    "y1": 557
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 247,
+    "y0": 581,
+    "x1": 760,
+    "y1": 1153
+   },
+   "text": "\"Prof. Gwinn's defense seems to be that, being a stranger, knowing little of New Orleans sentiment, he was ignorant of how grossly he had violated our ideals and our practices. 'I paid no special attention to the matter,' he says in his excuses, whereas any Southerner would have paid special attention at once to a gathering of whites and Negroes, and would have seen the mistake that had been made.\"\n\nTwo cases of intermarriage have aroused the South: in Chattanooga Miss Grace Doty ran away to Cincinnati and married an octoroon. In Baltimore a couple were arrested and put in jail for getting married because the groom is suspected of Negro blood. The Maryland law reads:\n\n\"It is a felony for a white person and a Negro, or a white person and a person of Negro descent to the third generation, to marry.\" The penalty is imprisonment for 18 months to 10 years in the penitentiary.",
+   "status": "ok",
+   "confidence": 0.973443329334259,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 245,
+    "y0": 578,
+    "x1": 757,
+    "y1": 1150
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 249,
+    "y0": 1159,
+    "x1": 778,
+    "y1": 1740
+   },
+   "text": "The presence of a little girl with one-thirtieth of Negro blood in a Maryland school has disrupted it and the case is under serious consideration.\n\nAdverse action is recommended by the commissioners on House bill 30568, which provides for \"jim crow\" cars in the District of Columbia. The bill was introduced by Representative Clark, of Florida, several weeks ago.\n\nThe bill was sent to the commissioners by Chairman Smith, of the House District committee, for an opinion. After carefully considering the matter the commissioners, in a letter to Mr. Smith sent to the Capitol yesterday, said:\n\n\"The commissioners know of no local demand or sentiment in the District of Columbia for any legislation of this character, and do not believe that any such legislation is desirable. They recommend adverse action on the bill.\"",
+   "status": "ok",
+   "confidence": 0.9622364640235901,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 247,
+    "y0": 1170,
+    "x1": 767,
+    "y1": 1740
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 249,
+    "y0": 1763,
+    "x1": 763,
+    "y1": 1943
+   },
+   "text": "The Rev. W. W. Landrum, one of the most prominent white clergymen of the South, says:\n\"I don't doubt that in the course of time —500 years, 1,000 years—the Negro may be absorbed. I believe in time that the race in America will be a composite one—Afri-",
+   "status": "ok",
+   "confidence": 0.9491775631904602,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 246,
+    "y0": 1762,
+    "x1": 760,
+    "y1": 1940
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 790,
+    "y0": 175,
+    "x1": 1310,
+    "y1": 580
+   },
+   "text": "can, Asiatic, European, all combined. But what may be expected in a future so distant does not affect the problem we have to deal with to-day.\"\n\nAbout thirty-five medical students from Georgetown and George Washington Universities went on strike recently against the lectures given by Dr. William White, superintendent of the Government Hospital for the Insane at Washington, D. C., because of the presence at the last lecture of about thirty Negro medical students from Howard University. Dr. White refuses to give a separate course of lectures for whites.",
+   "status": "ok",
+   "confidence": 0.9613423347473145,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 789,
+    "y0": 175,
+    "x1": 1307,
+    "y1": 578
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 791,
+    "y0": 583,
+    "x1": 1309,
+    "y1": 882
+   },
+   "text": "Guy Fitzgerald, a Virginian, enrolled in the college of agriculture of the University of Minnesota, is conducting a losing fight against allowing Negro students to belong to the Agricultural Society, a college organization. Fitzgerald refused to pose in the society's group picture along with the Negroes whom the president would not bar out. Then he introduced a resolution permitting only white students to become members of the society. This was defeated.",
+   "status": "ok",
+   "confidence": 0.9566858410835266,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 790,
+    "y0": 584,
+    "x1": 1306,
+    "y1": 880
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 793,
+    "y0": 881,
+    "x1": 1310,
+    "y1": 1279
+   },
+   "text": "ART.\nWilliam Stanley Braithwaite attended the dinner of the Poetry Society of New York.\n\nWilliam E. Scott, the colored artist, has several pictures in the exhibition of the Society of Western Artists.\n\nHenry O. Tanner has two paintings in the special exhibit department of the Corcoran Gallery of Art, Washington, D. C. One is \"The Three Marys\" and the other \"The Return of the Holy Women.\"\n\nGeorge W. Walker, the well-known comedian, is dead. CRIME.",
+   "status": "ok",
+   "confidence": 0.9523519277572632,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 790,
+    "y0": 879,
+    "x1": 1308,
+    "y1": 1306
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "isolate_formula",
+   "bbox": {
+    "x0": 791,
+    "y0": 1280,
+    "x1": 1311,
+    "y1": 1603
+   },
+   "text": "CRIME.\nNegro farm laborers are being driven out of Turner County, Ga., and all Negroes have been warned to leave the town of Butler, Okla.\nThree Negroes were lynched in Shelby county, Ky. One was accused of throwing kisses at white girls.\nThe colored man who was arrested in New York on the charge of killing servants in the home of Dr. Cannon, 123d Street, has been finally released.",
+   "status": "ok",
+   "confidence": 0.9460561275482178,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 791,
+    "y0": 1280,
+    "x1": 1309,
+    "y1": 1600
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 795,
+    "y0": 1606,
+    "x1": 1314,
+    "y1": 1946
+   },
+   "text": "In the Ohio lynching, the only lynching that occurred in the North during 1910, one of the mob leaders has been sentenced to twenty years in the penitentiary, and this one man is a black man. If no other of the Ohio lynchers are punished, it will appear that Ohio picked the black man for the scapegoat, and that suggests what is probably true, that the North, if it had the blacks to deal with on as large a scale as in the South, would give them the worst of it in the administration of the law.—Sioux City Tribune.",
+   "status": "ok",
+   "confidence": 0.9711751341819763,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 793,
+    "y0": 1615,
+    "x1": 1309,
+    "y1": 1942
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.07,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

@@ -1,0 +1,474 @@
+{
+ "page": 7,
+ "image": "images/page_07.jpg",
+ "width": 1369,
+ "height": 2078,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.6,
+  "at": "2026-10-06T21:38:50+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 413,
+    "y0": 130,
+    "x1": 850,
+    "y1": 162
+   },
+   "text": "ALONG THE COLOR LINE",
+   "status": "ok",
+   "confidence": 0.8847362995147705,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 415,
+    "y0": 129,
+    "x1": 850,
+    "y1": 161
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 647,
+    "y0": 196,
+    "x1": 1154,
+    "y1": 324
+   },
+   "text": "Washington denied this report and stated his determination to press the charge. The case came up April 3, but Mr. Washington was not present and it was postponed indefinitely.",
+   "status": "ok",
+   "confidence": 0.9597246646881104,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 646,
+    "y0": 194,
+    "x1": 1150,
+    "y1": 321
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 110,
+    "y0": 195,
+    "x1": 616,
+    "y1": 379
+   },
+   "text": "white patrons and in general to exercise an unwarranted supervision over colored and white people who happen to meet in any way.\nIn Indiaapolis an attempt is being made to separate the white and colored divorce cases.",
+   "status": "ok",
+   "confidence": 0.9548642039299011,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 110,
+    "y0": 195,
+    "x1": 614,
+    "y1": 379
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 648,
+    "y0": 330,
+    "x1": 1152,
+    "y1": 385
+   },
+   "text": "Several lynchings have taken place in Georgia and Alabama.",
+   "status": "ok",
+   "confidence": 0.9307627081871033,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 648,
+    "y0": 329,
+    "x1": 1150,
+    "y1": 381
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 390,
+    "x1": 617,
+    "y1": 660
+   },
+   "text": "Much difficulty arises in Washington and other places on account of the high degree of efficiency shown by colored applicants who take the civil service examination. Many chiefs of divisions who do not look with favor on the appointment of colored clerks have ignored civil service rules completely. It is said that in the future all attempts at discrimination are to be placed before the President and his Cabinet.",
+   "status": "ok",
+   "confidence": 0.9724543690681458,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 111,
+    "y0": 388,
+    "x1": 614,
+    "y1": 659
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 648,
+    "y0": 391,
+    "x1": 1154,
+    "y1": 681
+   },
+   "text": "The colored women of Alabama have for some years been supporting a reformatory for colored children. They are now asking the State to help them in the work and a bill for this purpose has passed the lower house. There are thirty-seven boys in the reformatory at present. In Tennessee and North Carolina the movement toward reformatories is still being pushed by the colored people.",
+   "status": "ok",
+   "confidence": 0.9664661288261414,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 649,
+    "y0": 390,
+    "x1": 1151,
+    "y1": 675
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 112,
+    "y0": 670,
+    "x1": 619,
+    "y1": 817
+   },
+   "text": "A split in the Mississippi Letter Carriers' Association has developed on account of the color question. In Meridian, Miss., all the carriers are white; in Jackson and other cities all the carriers are colored.",
+   "status": "ok",
+   "confidence": 0.9417222738265991,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 111,
+    "y0": 669,
+    "x1": 615,
+    "y1": 817
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 650,
+    "y0": 684,
+    "x1": 1155,
+    "y1": 890
+   },
+   "text": "Colored people of Delaware are trying to get the Governor to grant a respite to Reese Roberts, who is condemned to be hanged.\nA wounded colored man is accused of being one of the men who assaulted and killed the station agent at White Plains, New York.",
+   "status": "ok",
+   "confidence": 0.9012219309806824,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 649,
+    "y0": 682,
+    "x1": 1151,
+    "y1": 891
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 113,
+    "y0": 828,
+    "x1": 623,
+    "y1": 1196
+   },
+   "text": "Dr. T. E. Bailey, of Kansas City, Mo., a reputable colored physician with wide and practical knowledge of medicine, has won appointment as physician at the workhouse through a competitive examination. Effort is being made to have him ousted on account of color. Dr. W. S. Wheeler, the health commissioner, says: \"Dr. Bailey is a graduate from a Chicago school and has taken a course at Kansas University. He is highly recommended by all who know him and it would be brutal to remove him now on account of racial feeling, even if such a thing were possible.\"",
+   "status": "ok",
+   "confidence": 0.972402036190033,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 113,
+    "y0": 826,
+    "x1": 616,
+    "y1": 1193
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 649,
+    "y0": 900,
+    "x1": 1155,
+    "y1": 1244
+   },
+   "text": "The report of the vice commission of Chicago has the following paragraph:\n\"In addition to this proximity to immoral conditions young colored girls are often forced into idleness because of a prejudice against them, and they are eventually forced to accept positions as maids in houses of prostitution.\n\"Employment agents do not hesitate to send colored girls as servants to these houses. They make the astounding statement that the law does not allow them to send white girls but they will furnish colored help!",
+   "status": "ok",
+   "confidence": 0.9486879110336304,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 649,
+    "y0": 899,
+    "x1": 1152,
+    "y1": 1240
+   },
+   "exclude": [
+    [
+     691,
+     1243,
+     708,
+     1262,
+     "r11"
+    ],
+    [
+     937,
+     1243,
+     941,
+     1246,
+     "r11"
+    ],
+    [
+     968,
+     1243,
+     971,
+     1246,
+     "r11"
+    ],
+    [
+     1014,
+     1243,
+     1016,
+     1246,
+     "r11"
+    ],
+    [
+     1110,
+     1243,
+     1113,
+     1246,
+     "r11"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 113,
+    "y0": 1203,
+    "x1": 619,
+    "y1": 1353
+   },
+   "text": "In Baltimore William J. O'Connor has been charged with breaking the Maryland law by marrying a white girl. He gave no evidence of colored blood but his mother's appearance did. He was therefore handcuffed and sent to jail.",
+   "status": "ok",
+   "confidence": 0.9620007276535034,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 112,
+    "y0": 1202,
+    "x1": 617,
+    "y1": 1351
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 649,
+    "y0": 1240,
+    "x1": 1155,
+    "y1": 1549
+   },
+   "text": "\"The apparent discrimination against the colored citizens of the city in permitting vice to be set down in their midst is unjust and abhorrent to all fair-minded people. Colored children should receive the same moral protection that white children receive.\"\n\nThe cases against the members of the mob who murdered twenty Negroes in Palestine, Tex., last July has not yet come to trial: The cases are continually postponed when the matter comes up.",
+   "status": "ok",
+   "confidence": 0.962028443813324,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 650,
+    "y0": 1240,
+    "x1": 1151,
+    "y1": 1545
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 112,
+    "y0": 1433,
+    "x1": 620,
+    "y1": 1925
+   },
+   "text": "In the case of the assault on Mr. Booker T. Washington, principal of Tuskegee Institute, the latest developments are as follows: Daniel C. Smith, auditor of Tuskegee, has said that he had no appointment with Mr. Washington. Mr. Washington's private secretary says that the mistake was his. Several Southern towns are reported to have raised money for Ulrich's defense and one lynching has taken place on account of an argument between a white man and a colored man. The colored people have held a mass meeting in New York to express confidence in Mr. Washington, and a delegation has thanked President Taft for his telegram. The Associated Press reported that Mr. Washington thought that Ulrich's attack upon him was justifiable under the circumstances. Mr.",
+   "status": "ok",
+   "confidence": 0.9794695377349854,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 113,
+    "y0": 1433,
+    "x1": 615,
+    "y1": 1925
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 649,
+    "y0": 1555,
+    "x1": 1155,
+    "y1": 1631
+   },
+   "text": "R. T. Hill, cashier of the defunct True Reformers' Bank, of Richmond, has absconded.",
+   "status": "ok",
+   "confidence": 0.8123075366020203,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 648,
+    "y0": 1554,
+    "x1": 1152,
+    "y1": 1630
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 649,
+    "y0": 1701,
+    "x1": 1156,
+    "y1": 1926
+   },
+   "text": "Peoria, Ill., is to have a colored hook and ladder company.\nCharles Ward Chappelle, a colored man, has invented an aeroplane with unusual features.\nThe Citizens' Protective Alliance of New Jersey has been incorporated by the colored men to promote and protect",
+   "status": "ok",
+   "confidence": 0.8546821475028992,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 649,
+    "y0": 1700,
+    "x1": 1153,
+    "y1": 1923
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "title",
+   "bbox": {
+    "x0": 312,
+    "y0": 1397,
+    "x1": 420,
+    "y1": 1423
+   },
+   "text": "CRIME.",
+   "status": "ok",
+   "confidence": 0.8862355947494507,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 312,
+    "y0": 1394,
+    "x1": 415,
+    "y1": 1422
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1134,
+    "y0": 131,
+    "x1": 1152,
+    "y1": 160
+   },
+   "text": "7",
+   "status": "ok",
+   "confidence": 0.7674038410186768,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1132,
+    "y0": 131,
+    "x1": 1150,
+    "y1": 155
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r17",
+   "label": "title",
+   "bbox": {
+    "x0": 780,
+    "y0": 1665,
+    "x1": 1025,
+    "y1": 1691
+   },
+   "text": "SOCIAL UPLIFT.",
+   "status": "ok",
+   "confidence": 0.8926903605461121,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 779,
+    "y0": 1662,
+    "x1": 1023,
+    "y1": 1691
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 18,
+  "regions_after": 18,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.33,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

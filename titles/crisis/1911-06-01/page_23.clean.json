@@ -1,0 +1,125 @@
+{
+ "page": 23,
+ "image": "images/page_23.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 5.4,
+  "at": "2026-10-06T21:49:58+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1159,
+    "y0": 70,
+    "x1": 1195,
+    "y1": 98
+   },
+   "text": "67",
+   "status": "ok",
+   "confidence": 0.8580780625343323,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1157,
+    "y0": 69,
+    "x1": 1193,
+    "y1": 96
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 40,
+    "y0": 71,
+    "x1": 220,
+    "y1": 106
+   },
+   "text": "JUNE. 1911",
+   "status": "ok",
+   "confidence": 0.8470057845115662,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 39,
+    "y0": 69,
+    "x1": 221,
+    "y1": 102
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 0,
+    "y0": 136,
+    "x1": 1207,
+    "y1": 1872
+   },
+   "text": "strong-\npton Institute\n\nJohn Eaton -\nSuperintendent\nof Freedmen.\n\nissionary. Ass.\n\nJ. E. Roy -\nField Secretary Americ. Missionary Association",
+   "status": "ok",
+   "confidence": 0.7073119878768921,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 0,
+    "y0": 159,
+    "x1": 1190,
+    "y1": 1857
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "strong-\npton Institute\n\nJohn Eaton -\nSuperintendent\nof Freedmen.\n\nissionary. Ass.\n\nJ. E. Roy -\nField Secretary Americ. Missionary Association",
+   "role": "text",
+   "text_reread": "John Eaton -\nSuperintendent\nof Freedmen.\n\nJ. E. Roy -\nField Secretary Americ. Missionary Association",
+   "needs_review": "reread lost words: institute strong"
+  },
+  {
+   "id": "r3",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 752,
+    "y0": 1885,
+    "x1": 1165,
+    "y1": 1950
+   },
+   "text": "Friends of the Freedmen: Some Founders of Negro Education.",
+   "status": "ok",
+   "confidence": 0.4994700849056244,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 747,
+    "y0": 1882,
+    "x1": 1167,
+    "y1": 1949
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 4,
+  "regions_after": 4,
+  "lost_words": [],
+  "needs_review": [
+   "r2"
+  ],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r2 (figure): lost 0% of its ink, gained 5%",
+   "reread r2: 'strong-\\npton Institute\\n\\nJohn Eaton -\\nSup' -> 'John Eaton -\\nSuperintendent\\nof Freedmen.'",
+   "REVIEW r2: reread lost institute strong; kept old text"
+  ]
+ }
+}

@@ -1,0 +1,369 @@
+{
+ "page": 26,
+ "image": "images/page_26.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.2,
+  "at": "2026-10-06T21:59:35+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 582,
+    "y0": 154,
+    "x1": 987,
+    "y1": 374
+   },
+   "text": "debarred from Grace Church—why not? Because the color of neither hair nor skin, no merely physical peculiarity and no merely racial difference, is sufficient to be made a basis of far-reaching and positive discrimination and segregation in a democratic government; it is silly, and dehumanizing.",
+   "status": "ok",
+   "confidence": 0.9767659902572632,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 582,
+    "y0": 152,
+    "x1": 983,
+    "y1": 371
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 155,
+    "y0": 156,
+    "x1": 556,
+    "y1": 543
+   },
+   "text": "complained. The committee of six found a site, but two small property owners would not yield. The committee of six sat up half the night with them and finally themselves paid the difference in price out of their own pockets. Then the white neighbors rose in arms. The newspapers flamed, and meetings were held to keep the Negro schoolhouse out of decent quarters; finally it was planned to seize the proposed site for a park. The matter came to a vote, the Negroes rallied, and the project was defeated. (Does the black man need the ballot?)",
+   "status": "ok",
+   "confidence": 0.9773009419441223,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 154,
+    "y0": 153,
+    "x1": 554,
+    "y1": 539
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 579,
+    "y0": 376,
+    "x1": 983,
+    "y1": 786
+   },
+   "text": "If Scotch or Negro or Welsh people wish to unite in their own churches or schools that is their business; but to force them to do so is unchristian and uncivilized. If a separation on a basis of ignorance throws more Italians in one group than in another, that is a matter of learning, not of blood, and can be cured by schools. But for a sane, decent American here in the twentieth century to encumber his paper with a defense of caste and discrimination based on nothing more than race and color shows the moral plane on which a certain class of Americans are living.",
+   "status": "ok",
+   "confidence": 0.9805476665496826,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 580,
+    "y0": 376,
+    "x1": 981,
+    "y1": 783
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 153,
+    "y0": 541,
+    "x1": 553,
+    "y1": 877
+   },
+   "text": "At last all was arranged when the chairman of the committee of six was told confidentially that the board stood six to six on the project of the new Negro high school, and that unless a certain man was won over all was lost. Dodge went to see the man. The gentleman's secretary refused him admission. Dodge went to another man and got a letter. The vote stood seven to five, and black St. Louis got a one-hundred-thousand-dollar high school, the best-equipped school of its kind in the country.",
+   "status": "ok",
+   "confidence": 0.9785395860671997,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 153,
+    "y0": 541,
+    "x1": 552,
+    "y1": 872
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 578,
+    "y0": 855,
+    "x1": 979,
+    "y1": 1025
+   },
+   "text": "GEORGE V. has been duly crowned King, Emperor and so forth. There was not at the coronation any special attempt, we understand, to emphasize the fact that the British Empire is predominantly colored.",
+   "status": "ok",
+   "confidence": 0.9738603234291077,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 578,
+    "y0": 852,
+    "x1": 977,
+    "y1": 1022
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 154,
+    "y0": 875,
+    "x1": 552,
+    "y1": 925
+   },
+   "text": "Moral—Heaven and St. Louis help them who help themselves.",
+   "status": "ok",
+   "confidence": 0.9371881484985352,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 153,
+    "y0": 874,
+    "x1": 551,
+    "y1": 922
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 151,
+    "y0": 985,
+    "x1": 551,
+    "y1": 1055
+   },
+   "text": "A NORTHERN paper defends race discrimination in this wise:",
+   "status": "ok",
+   "confidence": 0.9022982120513916,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 149,
+    "y0": 982,
+    "x1": 550,
+    "y1": 1055
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 578,
+    "y0": 1027,
+    "x1": 979,
+    "y1": 1266
+   },
+   "text": "The typical American is an octo-ron or, counting the islands, a mulatto; but the typical Britisher is only one-eighth white. Of the 450,000,000 of beings under the Union Jack only 54,000,000 are white. Next to them come 300,000,000 yellow, brown and black Asiatics, and British Africa with perhaps 100,000,000 blacks and mixed bloods.",
+   "status": "ok",
+   "confidence": 0.9774912595748901,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 578,
+    "y0": 1026,
+    "x1": 977,
+    "y1": 1266
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 152,
+    "y0": 1057,
+    "x1": 552,
+    "y1": 1371
+   },
+   "text": "\"A Negro is good enough to associate with a Negro. If not, why not? Why is not a 'Jim Crow' car good enough for a Negro to ride in if it is just as good as the cars used by white people? Why is not a colored church good enough for a colored congregation? Why is not a colored school good enough for colored children? To say that they are not is to join Governor Vardaman in declaring that Negroes are an inferior and criminal people.\"",
+   "status": "ok",
+   "confidence": 0.9756453037261963,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 151,
+    "y0": 1057,
+    "x1": 550,
+    "y1": 1367
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 580,
+    "y0": 1272,
+    "x1": 979,
+    "y1": 1517
+   },
+   "text": "The coming world man is colored. For the handful of whites in this world to dream that they with their present declining birth rate can ever inherit the earth and hold the darker millions in perpetual subjection is the wildest of wild dreams. Humanity is the goal of all good, and no single race, whatever its color or deeds, can disinherit God's anointed peoples.",
+   "status": "ok",
+   "confidence": 0.976482629776001,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 580,
+    "y0": 1271,
+    "x1": 978,
+    "y1": 1514
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 152,
+    "y0": 1369,
+    "x1": 553,
+    "y1": 1517
+   },
+   "text": "A red-headed man is good enough to associate with red-headed men; all persons with bald heads might be made to ride in special coaches; all Irishmen could be forced to go to the Irish school; cripples might be",
+   "status": "ok",
+   "confidence": 0.9729974269866943,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 152,
+    "y0": 1369,
+    "x1": 553,
+    "y1": 1514
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 161,
+    "y0": 103,
+    "x1": 200,
+    "y1": 124
+   },
+   "text": "114",
+   "status": "ok",
+   "confidence": 0.780646026134491,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 158,
+    "y0": 101,
+    "x1": 199,
+    "y1": 122
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r12",
+   "label": "title",
+   "bbox": {
+    "x0": 246,
+    "y0": 956,
+    "x1": 459,
+    "y1": 976
+   },
+   "text": "DISCRIMINATION.",
+   "status": "ok",
+   "confidence": 0.8686196208000183,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 247,
+    "y0": 953,
+    "x1": 456,
+    "y1": 976
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "abandon",
+   "bbox": {
+    "x0": 484,
+    "y0": 103,
+    "x1": 646,
+    "y1": 125
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8579156398773193,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 481,
+    "y0": 100,
+    "x1": 646,
+    "y1": 125
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r14",
+   "label": "title",
+   "bbox": {
+    "x0": 665,
+    "y0": 826,
+    "x1": 894,
+    "y1": 846
+   },
+   "text": "THE CORONATION.",
+   "status": "ok",
+   "confidence": 0.9097943902015686,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 664,
+    "y0": 823,
+    "x1": 892,
+    "y1": 846
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 15,
+  "regions_after": 15,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.39,
+  "box_overlaps_after": 3,
+  "log": []
+ }
+}

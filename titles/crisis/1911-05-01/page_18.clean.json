@@ -1,0 +1,254 @@
+{
+ "page": 18,
+ "image": "images/page_18.jpg",
+ "width": 1369,
+ "height": 2078,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.2,
+  "at": "2026-10-06T21:40:34+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 606,
+    "y0": 124,
+    "x1": 797,
+    "y1": 167
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.6604160070419312,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 605,
+    "y0": 121,
+    "x1": 796,
+    "y1": 155
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 181,
+    "y0": 123,
+    "x1": 215,
+    "y1": 151
+   },
+   "text": "18",
+   "status": "ok",
+   "confidence": 0.8459333777427673,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 180,
+    "y0": 122,
+    "x1": 213,
+    "y1": 149
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 170,
+    "y0": 190,
+    "x1": 688,
+    "y1": 810
+   },
+   "text": "The next period of Association activity was represented by the forming of State Federations. This was not only foreseen to be wise as a means of greater strength, influence and unity of purpose for the club movement in various States, but a resource for harmonious adjustment of representation in the National Association at some future time when the members in individual clubs would become unwieldy. The development in State organization has been very rapid. Already every important State of the country has a State Federation. Every Gulf, South Atlantic and South Central State has been organized. The Northeast is represented by the Northeastern Federation, in itself a powerful organization. The North Central and Northwest are almost solidly organized, while California, Colorado, Utah and other Western States have strong organizations, and are thoroughly liberal in their financial support of the National Association.",
+   "status": "ok",
+   "confidence": 0.9787883758544922,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 177,
+    "y0": 189,
+    "x1": 684,
+    "y1": 806
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 177,
+    "y0": 812,
+    "x1": 687,
+    "y1": 1283
+   },
+   "text": "Aside from the efforts of its individual clubs, each State Federation has for its object the promotion of some cause that will make for the good of the people of the whole State. The State Federation of Alabama has labored for several years for the erection of a reformatory that should save their youth from the coal mines of that State. Their prayers and work have finally borne themselves upon the Legislature of Alabama, until it has recognized the splendid efforts of these colored women and rewarded them by State appropriation for their reformatory. A similar effort by the Virginia State Federation, in the interest of an industrial home for the wayward girls of the State, also promises to meet with like approval by State appropriation.",
+   "status": "ok",
+   "confidence": 0.9794158935546875,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 178,
+    "y0": 812,
+    "x1": 683,
+    "y1": 1278
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 178,
+    "y0": 1282,
+    "x1": 687,
+    "y1": 1551
+   },
+   "text": "Conventions of the National Association have been held at Nashville, Chicago, Buffalo, St. Louis, Detroit, Brooklyn and Louisville, and have been thoroughly national in character. Each of these conventions has added something of strength, permanence and influence to the movement, and has brought before the American people, as never before, the colored woman of character and intellect.",
+   "status": "ok",
+   "confidence": 0.9787073135375977,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 178,
+    "y0": 1281,
+    "x1": 683,
+    "y1": 1551
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 178,
+    "y0": 1558,
+    "x1": 689,
+    "y1": 1938
+   },
+   "text": "A word with reference to the women who have guided this Association will further emphasize the reasons for its admirable construction and policy. Mrs. Mary Church Terrell was the first president, and, standing at the head in the important period of organization, her splendid ability was of inestimable value. She was followed by Mrs. J. Silone Yates, under whose guardianship the National Association reached its second period and made great progress in departmental work. The impetus for State federation was given and was further emphasized during the administration of",
+   "status": "ok",
+   "confidence": 0.9792147874832153,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 178,
+    "y0": 1558,
+    "x1": 685,
+    "y1": 1934
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 718,
+    "y0": 187,
+    "x1": 1234,
+    "y1": 762
+   },
+   "text": "Mrs. Lucy Thurman. Miss Elizabeth C. Carter, of New Bedford, has, in the three years of her administration, traveled throughout the country and is known and loved in a personal way by the humblest sister of the ranks. Her administration has been marked by great harmony and increased activity and results all over the country. Among the women who have worked faithfully for the Association from its beginning, none have been more constant nor more energetic than its first vice-president, Mrs. Booker Washington. The names of Ida Joyce Jackson, of Columbus, O.; Mary E. Stewart and Mary Parrish, of Louisville; Sylvania Williams, of New Orleans; Josephine Bruce, of Washington; Josephine Holmes, of Atlanta, and Hester Jeffries, of Rochester, are among those who have followed the cause from its very beginning till the present.",
+   "status": "ok",
+   "confidence": 0.9776208996772766,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 719,
+    "y0": 187,
+    "x1": 1231,
+    "y1": 757
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 715,
+    "y0": 762,
+    "x1": 1230,
+    "y1": 1183
+   },
+   "text": "The National Association of Colored Women became affiliated with the National Council of Women in 1900, and has been regularly represented in its conclaves since that time. Only recently Mrs. Mary Talbert, of Buffalo, and Mrs. Ida Joyce Jackson, of Columbus, were most warmly welcomed and entertained as delegates to the National Council in its sessions at Cleveland, O. A few years ago Mrs. Terrell represented the National Association at the meeting of the International Council of Women, held in Berlin. Mrs. Terrell was most enthusiastically received, and delivered her address in German and French as well as in English.",
+   "status": "ok",
+   "confidence": 0.9791656136512756,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 717,
+    "y0": 761,
+    "x1": 1227,
+    "y1": 1178
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 718,
+    "y0": 1184,
+    "x1": 1232,
+    "y1": 1654
+   },
+   "text": "Such is a very brief outline of the most interesting and helpful work being done by colored women. Every feature of it has a story all its own. There are many individual clubs whose accomplishments are well worth relating. One might tell of the Fresh Air and Empty Stocking Association of Baltimore; of the Woman's Era Club, of Boston; the Phyllis Wheatley Clubs, of Chicago and New Orleans; the Kindergarten Associations of Charleston and Atlanta; Loyal Union, of Brooklyn; Lincoln Home Club, of Springfield. Ill.; the Jackson (Miss.) Woman's Club and others—each one doing its work in its own chosen way, and yet each seeking to follow the motto of the Association, \"Lifting as We Climb.\"",
+   "status": "ok",
+   "confidence": 0.9803430438041687,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 719,
+    "y0": 1183,
+    "x1": 1228,
+    "y1": 1651
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 720,
+    "y0": 1656,
+    "x1": 1232,
+    "y1": 1936
+   },
+   "text": "No. the Association is not yet perfect; for all of its planting there has not been golden grain, but we have reaped abundantly, and miracles that only unselfish, determined, enthusiastic service can bring to pass have been wrought for us. Resting upon the unified aim and spirit of 45,000 workers, quick to discern opportunities, what can the National Association of Colored Women not achieve?",
+   "status": "ok",
+   "confidence": 0.9778540730476379,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 719,
+    "y0": 1655,
+    "x1": 1230,
+    "y1": 1936
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

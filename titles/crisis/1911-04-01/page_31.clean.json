@@ -1,0 +1,98 @@
+{
+ "page": 31,
+ "image": "images/page_31.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 5.4,
+  "at": "2026-10-06T21:34:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 439,
+    "y0": 82,
+    "x1": 584,
+    "y1": 104
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8415865898132324,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 435,
+    "y0": 79,
+    "x1": 585,
+    "y1": 105
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 888,
+    "y0": 83,
+    "x1": 912,
+    "y1": 105
+   },
+   "text": "31",
+   "status": "ok",
+   "confidence": 0.8006032705307007,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 886,
+    "y0": 81,
+    "x1": 913,
+    "y1": 106
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 122,
+    "y0": 127,
+    "x1": 881,
+    "y1": 1487
+   },
+   "text": "CHEF\nTAFT\n\nFEDERAL OFFICES AND PAC\nWHITE HELP ONLY\n\nPOLITICAL POT\nSTEW\n\n\"Mr. Lewis gets his!\"",
+   "status": "ok",
+   "confidence": 0.8630390763282776,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 304,
+    "y0": 127,
+    "x1": 879,
+    "y1": 1487
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'FEDERAL OFFICES AND PAC' inside box but no gap to cut at"
+  }
+ ],
+ "clean": {
+  "regions_before": 3,
+  "regions_after": 3,
+  "lost_words": [],
+  "needs_review": [
+   "r2"
+  ],
+  "unowned_ink_pct": 0.48,
+  "box_overlaps_after": 0,
+  "log": [
+   "REVIEW r2: heading 'FEDERAL OFFICES AND PAC' inside box but no gap to cut at"
+  ]
+ }
+}

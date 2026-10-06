@@ -1,0 +1,169 @@
+{
+ "page": 29,
+ "image": "images/page_29.jpg",
+ "width": 1376,
+ "height": 2083,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 5.8,
+  "at": "2026-10-06T21:42:08+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 465,
+    "y0": 130,
+    "x1": 791,
+    "y1": 161
+   },
+   "text": "THE N. A. A. C. P.",
+   "status": "ok",
+   "confidence": 0.8650922775268555,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 464,
+    "y0": 130,
+    "x1": 790,
+    "y1": 161
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 193,
+    "y0": 199,
+    "x1": 1051,
+    "y1": 1626
+   },
+   "text": "PROPERTY PER CAPITA\n1910\n27.50\n25.00\n22.50\n20.00\n17.50\n15.00\n12.50\n10.00\n7.50\n5.00\n2.50\n0\n1875\n1880\n1885\n1890\n1895\n1900\n1905\nDISTRANCHISEMENT OF NEGROES\nATLANTA RIOT\nCAMPAIGN FOR DISTRANCHISEMENT\nSEPARATE SLEEPING CARS\nJIM-CROW CAR DAW\nLOW PRICE\nOF COTTON\nLUNCHING",
+   "status": "ok",
+   "confidence": 0.9308940172195435,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 194,
+    "y0": 201,
+    "x1": 1048,
+    "y1": 1623
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'DISTRANCHISEMENT OF NEGROES' inside box but no gap to cut at"
+  },
+  {
+   "id": "r3",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 174,
+    "y0": 1633,
+    "x1": 1070,
+    "y1": 1658
+   },
+   "text": "Assessed Value of Colored Property in Georgia. (From Atlanta Univ. Pub. No. 14)",
+   "status": "ok",
+   "confidence": 0.7986667156219482,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 1630,
+    "x1": 1070,
+    "y1": 1656
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 636,
+    "y0": 1709,
+    "x1": 1146,
+    "y1": 1940
+   },
+   "text": "gists there is absolutely undisputed evidence that the Negro has accumulated property. Full statistics unfortunately do not exist to prove this assertion; so far as crime is concerned we can get statistics of Negroes in practically every State, county and city in the United States, but when it comes to property there are only available figures in three",
+   "status": "ok",
+   "confidence": 0.974746823310852,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 637,
+    "y0": 1707,
+    "x1": 1145,
+    "y1": 1937
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 98,
+    "y0": 1709,
+    "x1": 606,
+    "y1": 1933
+   },
+   "text": "and observers to be optimistic and to dwell simply upon the shortcomings of the Negroes. What has been the result of this policy? In the first place so far as the Negroes are concerned there can be no doubt that their energies have more and more been given to work and thrift, and despite all the testimonies of car-window sociolo-",
+   "status": "ok",
+   "confidence": 0.9682331085205078,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 96,
+    "y0": 1708,
+    "x1": 603,
+    "y1": 1933
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1111,
+    "y0": 131,
+    "x1": 1149,
+    "y1": 160
+   },
+   "text": "29",
+   "status": "ok",
+   "confidence": 0.8524582982063293,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1111,
+    "y0": 131,
+    "x1": 1148,
+    "y1": 158
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 6,
+  "lost_words": [],
+  "needs_review": [
+   "r2"
+  ],
+  "unowned_ink_pct": 0.07,
+  "box_overlaps_after": 0,
+  "log": [
+   "drop r1 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r6 (text): non-latin hallucination 'حرَّجَة'",
+   "REVIEW r2: heading 'DISTRANCHISEMENT OF NEGROES' inside box but no gap to cut at"
+  ]
+ }
+}

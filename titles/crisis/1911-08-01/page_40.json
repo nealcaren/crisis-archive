@@ -1,0 +1,127 @@
+{
+  "page": 40,
+  "image": "images/page_40.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 150,
+        "y0": 99,
+        "x1": 188,
+        "y1": 122
+      },
+      "text": "172",
+      "status": "ok",
+      "confidence": 0.8572603464126587,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 383,
+        "y0": 100,
+        "x1": 736,
+        "y1": 125
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8712356686592102,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 347,
+        "y0": 179,
+        "x1": 756,
+        "y1": 209
+      },
+      "text": "WHERE TO STOP—(Continued)",
+      "status": "ok",
+      "confidence": 0.24239373207092285,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 177,
+        "y0": 258,
+        "x1": 947,
+        "y1": 313
+      },
+      "text": "The Elegantly Remodeled BAY STATE HOTEL",
+      "status": "ok",
+      "confidence": 0.2444317489862442,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 376,
+        "y0": 324,
+        "x1": 903,
+        "y1": 561
+      },
+      "text": "instrumental music every evening. Our To please our patrons in the matter of comfort. Modern in every particular. Y & OTTERY, Proprietors ssee Avenue ATLANTIC CITY. N.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 229,
+        "y0": 334,
+        "x1": 376,
+        "y1": 447
+      },
+      "text": "Vocal and motto: service an",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 229,
+        "y0": 486,
+        "x1": 376,
+        "y1": 561
+      },
+      "text": "HARD\nNorth Tenne",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "figure",
+      "bbox": {
+        "x0": 147,
+        "y0": 574,
+        "x1": 968,
+        "y1": 1544
+      },
+      "text": "MASSACHUSETTS\n\nHOTEL UPTON\n130 Dartmouth Street and\n5 Harwich Street\nBOSTON, MASS.\n\nLong Distance Telephone in each room. ALL\nOUTSIDE ROOMS. Steam Heated. One dollar\nand upwards. Vocal and Instrumental Music\nevery evening. Service and comfort unexcelled.\n\nThe UPTON INVESTMENT COMPANY\nWM. H. HARDY, President\nPhone Tremont 41771.\nISRAEL RUE, Treasurer\n\nLEGAL DIRECTORY\n\nJ. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet\n\nFREDERICK L. McGHEE\nATTORNEY AND COUNSELOR-AT-LAW\nUnion Block, Fourth and Cedar Streets\nSt. Paul, Minn.\n\nGeneral Practice Notary Public\nWILLIAM R. MORRIS\nATTORNEY AND COUNSELOR-AT-LAW\n1020 Metropolitan Life Building\nMinneapolis, Minn.\n\nReal Estate and Probate Matters a Specialty\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL\nATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.\n\nMention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7925804257392883,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.5,
+    "at": "2026-10-06T22:15:33+00:00"
+  }
+}

@@ -1,0 +1,680 @@
+{
+ "page": 8,
+ "image": "images/page_08.jpg",
+ "width": 1372,
+ "height": 2090,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.8,
+  "at": "2026-10-06T21:47:47+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 747,
+    "y0": 192,
+    "x1": 1265,
+    "y1": 421
+   },
+   "text": "The new location consists of 572 acres of well-cultivated land, a gas plant which supplies all the buildings with lighting fluid, and a water plant, with an 18,000gallon tank and fourteen horsepower gas engine, capable of irrigating the farm. Seven new buildings are almost completed. The old ones are being repaired, the entire cost amounting to $100,000.",
+   "status": "ok",
+   "confidence": 0.9697846174240112,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 748,
+    "y0": 191,
+    "x1": 1262,
+    "y1": 418
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 202,
+    "y0": 197,
+    "x1": 715,
+    "y1": 447
+   },
+   "text": "terior of the State, signs pointing directly contrary. Examination of the census figures so far published, says the Democrat, tend to the conclusion that the publication of the census race figures will reveal that South Carolina is losing a considerable part of its colored population and that the ratio of Negroes to whites in the State has grown perceptibly smaller.",
+   "status": "ok",
+   "confidence": 0.9739242196083069,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 202,
+    "y0": 196,
+    "x1": 712,
+    "y1": 447
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 747,
+    "y0": 421,
+    "x1": 1264,
+    "y1": 600
+   },
+   "text": "Subscriptions for a $100,000 building to be used as a headquarters in Atlanta for the colored Odd Fellows of Georgia, are well under way. The sum of $65,000 has been already raised. A campaign to complete the desired amount will be started on June 1.",
+   "status": "ok",
+   "confidence": 0.9658527374267578,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 747,
+    "y0": 422,
+    "x1": 1260,
+    "y1": 597
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 202,
+    "y0": 451,
+    "x1": 713,
+    "y1": 800
+   },
+   "text": "The Plaindealer, a (white) Palestine Texas, paper, bears witness to the advance of the colored men in that illfamed town. It says ten years have brought about a great change in Negro business enterprise in Palestine. More of the colored men are owning homes, operating business houses, accumulating property and real estate and investing in various commercial projects. Grocery stores, dry goods stores, bank, printing offices, real estate business, all of which are thriving, are owned and operated by Negroes.",
+   "status": "ok",
+   "confidence": 0.9774593710899353,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 202,
+    "y0": 450,
+    "x1": 711,
+    "y1": 796
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 745,
+    "y0": 601,
+    "x1": 1261,
+    "y1": 799
+   },
+   "text": "Recently the Atlanta recruiting station received orders from the War Department to enlist colored recruits for the Twenty-fourth Regiment, which was under orders to sail for the Philippines. The response was instantaneous, and in a short time more men had applied than could be taken.",
+   "status": "ok",
+   "confidence": 0.9697749018669128,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 745,
+    "y0": 601,
+    "x1": 1258,
+    "y1": 799
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 204,
+    "y0": 801,
+    "x1": 715,
+    "y1": 1051
+   },
+   "text": "Colonel Allensworth's colored colony in California has grown into a thriving little town named after the founder. It already boasts a postoffice, hotel, school, telephone exchange, a church, several general stores, and other places of business. It controls several thousand acres of land along the Santa Fe Railroad, through which an irrigation system has been completed.",
+   "status": "ok",
+   "confidence": 0.9767271280288696,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 202,
+    "y0": 801,
+    "x1": 712,
+    "y1": 1048
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 744,
+    "y0": 805,
+    "x1": 1261,
+    "y1": 1233
+   },
+   "text": "A unique feature of the Confederate Memorial Day celebration at Newberry, S. C., was the presentation to an old Negro, Ned Gilliam, of a badge for heroism. Gilliam, at the risk of his life, recovered the body of his master from the field of battle at Fredericksburg, and dug a temporary grave for it. As soon as possible he carried the body back home to South Carolina for final burial. Among the awards of the Carnegie Hero Medal Commission, last month, was the following: To Boyce Lindsay (colored), sixteen, saved E. Reynolds-Smith from train at Spartanburg, S. C., May 26, 1910. Bronze medal and $2,000 as needed for educational purposes.",
+   "status": "ok",
+   "confidence": 0.9092163443565369,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 744,
+    "y0": 804,
+    "x1": 1255,
+    "y1": 1227
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 200,
+    "y0": 1119,
+    "x1": 710,
+    "y1": 1468
+   },
+   "text": "The American Tuberculosis Exhibition is going through the South and attempting especially to attract the attention of colored people. Special programs have been arranged for them under the charge of colored committees. The exhibition seems to have done good educational work, for we note the Natchez (Miss.) Times says that while the \"dread destroyer of all the colored races in America\" is tuberculosis, this is so not because of race or color, but because of the living conditions of the great majority.",
+   "status": "ok",
+   "confidence": 0.9768730401992798,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 201,
+    "y0": 1118,
+    "x1": 707,
+    "y1": 1463
+   },
+   "exclude": [
+    [
+     230,
+     1467,
+     236,
+     1485,
+     "r9"
+    ],
+    [
+     261,
+     1466,
+     264,
+     1470,
+     "r9"
+    ],
+    [
+     329,
+     1467,
+     340,
+     1485,
+     "r9"
+    ],
+    [
+     357,
+     1467,
+     368,
+     1485,
+     "r9"
+    ],
+    [
+     372,
+     1467,
+     376,
+     1484,
+     "r9"
+    ],
+    [
+     412,
+     1466,
+     422,
+     1484,
+     "r9"
+    ],
+    [
+     468,
+     1466,
+     479,
+     1484,
+     "r9"
+    ],
+    [
+     587,
+     1467,
+     599,
+     1485,
+     "r9"
+    ],
+    [
+     654,
+     1466,
+     658,
+     1484,
+     "r9"
+    ],
+    [
+     690,
+     1466,
+     693,
+     1469,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 742,
+    "y0": 1232,
+    "x1": 1258,
+    "y1": 1506
+   },
+   "text": "Theodore Cable, Harvard's colored athlete, broke the Harvard record for the hammer throw in the annual Harvard handicap games held at the Harvard stadium. Cable's heave measured 150 feet 7 7-10 inches. The previous record made in the intercollegiate games in 1907 was 149 feet 6 inches. Mr. Cable is in his freshman year, and during the winter won second place in the broad jump.",
+   "status": "ok",
+   "confidence": 0.9665678143501282,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 743,
+    "y0": 1231,
+    "x1": 1254,
+    "y1": 1503
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 199,
+    "y0": 1463,
+    "x1": 709,
+    "y1": 1664
+   },
+   "text": "It is probable that the new tuberculosis sanatorium at Atlanta will have a judiciously remote annex for colored patients, though this idea was not a part of the original plan. \"The plan, as it is being now considered, of course does not contemplate any intercourse whatever between the white and colored patients.\"",
+   "status": "ok",
+   "confidence": 0.9729446172714233,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 198,
+    "y0": 1464,
+    "x1": 707,
+    "y1": 1660
+   },
+   "exclude": [
+    [
+     227,
+     1663,
+     244,
+     1681,
+     "r11"
+    ],
+    [
+     248,
+     1663,
+     252,
+     1681,
+     "r11"
+    ],
+    [
+     302,
+     1662,
+     305,
+     1665,
+     "r11"
+    ],
+    [
+     363,
+     1663,
+     369,
+     1681,
+     "r11"
+    ],
+    [
+     385,
+     1663,
+     400,
+     1681,
+     "r11"
+    ],
+    [
+     397,
+     1663,
+     402,
+     1670,
+     "r11"
+    ],
+    [
+     434,
+     1663,
+     440,
+     1681,
+     "r11"
+    ],
+    [
+     457,
+     1663,
+     462,
+     1681,
+     "r11"
+    ],
+    [
+     465,
+     1662,
+     477,
+     1681,
+     "r11"
+    ],
+    [
+     499,
+     1662,
+     518,
+     1681,
+     "r11"
+    ],
+    [
+     203,
+     1449,
+     215,
+     1465,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 743,
+    "y0": 1507,
+    "x1": 1256,
+    "y1": 1682
+   },
+   "text": "One of the four runners who represented Boston in the Pennsylvania relay carnival and won the race was a colored boy, I. T. Howe, of the Boston High School. This team also defeated the Boston Latin School and the Harvard freshmen last winter.",
+   "status": "ok",
+   "confidence": 0.9713906645774841,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 743,
+    "y0": 1507,
+    "x1": 1254,
+    "y1": 1681
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 198,
+    "y0": 1659,
+    "x1": 708,
+    "y1": 1763
+   },
+   "text": "The city of Norfolk, Va., reports that the $6,000 allowed for the establishment of a colored tuberculosis clinic seems to have been well spent.",
+   "status": "ok",
+   "confidence": 0.9583145380020142,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 197,
+    "y0": 1659,
+    "x1": 706,
+    "y1": 1757
+   },
+   "exclude": [
+    [
+     593,
+     1645,
+     604,
+     1661,
+     "r9"
+    ],
+    [
+     449,
+     1761,
+     464,
+     1781,
+     "r13"
+    ],
+    [
+     555,
+     1761,
+     568,
+     1780,
+     "r13"
+    ],
+    [
+     227,
+     1762,
+     235,
+     1781,
+     "r13"
+    ],
+    [
+     270,
+     1762,
+     285,
+     1781,
+     "r13"
+    ],
+    [
+     304,
+     1762,
+     308,
+     1780,
+     "r13"
+    ],
+    [
+     352,
+     1762,
+     362,
+     1780,
+     "r13"
+    ],
+    [
+     406,
+     1762,
+     416,
+     1779,
+     "r13"
+    ],
+    [
+     467,
+     1762,
+     478,
+     1780,
+     "r13"
+    ],
+    [
+     508,
+     1762,
+     511,
+     1780,
+     "r13"
+    ],
+    [
+     664,
+     1762,
+     679,
+     1780,
+     "r13"
+    ],
+    [
+     676,
+     1762,
+     681,
+     1771,
+     "r13"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 743,
+    "y0": 1742,
+    "x1": 1256,
+    "y1": 1946
+   },
+   "text": "An odd example of \"Christianity\" comes from South Carolina, where Bishop Guerry, of the Episcopal Church, has been asked to appoint a Negro Suffragan bishop. Although the movement is reported to have \"ardent supporters,\" the bishop says he is consistently opposed to it, largely because it would",
+   "status": "ok",
+   "confidence": 0.977091372013092,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 743,
+    "y0": 1741,
+    "x1": 1254,
+    "y1": 1943
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 198,
+    "y0": 1758,
+    "x1": 708,
+    "y1": 1944
+   },
+   "text": "In Colorado the Charles Sumner National Tuberculosis Association has been organized \"not for pecuniary profit,\" but especially for the relief of colored people. The Howard Colored Orphan Asylum moves on June 1 from Brooklyn to its new home at King's Park, Long Island.",
+   "status": "ok",
+   "confidence": 0.9666846394538879,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 196,
+    "y0": 1759,
+    "x1": 706,
+    "y1": 1940
+   },
+   "exclude": [
+    [
+     407,
+     1743,
+     418,
+     1760,
+     "r11"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "abandon",
+   "bbox": {
+    "x0": 203,
+    "y0": 130,
+    "x1": 239,
+    "y1": 160
+   },
+   "text": "52",
+   "status": "ok",
+   "confidence": 0.8447673916816711,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 202,
+    "y0": 130,
+    "x1": 238,
+    "y1": 157
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r15",
+   "label": "title",
+   "bbox": {
+    "x0": 327,
+    "y0": 1082,
+    "x1": 583,
+    "y1": 1108
+   },
+   "text": "SOCIAL UPLIFT.",
+   "status": "ok",
+   "confidence": 0.8978248834609985,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 326,
+    "y0": 1079,
+    "x1": 582,
+    "y1": 1108
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "abandon",
+   "bbox": {
+    "x0": 620,
+    "y0": 128,
+    "x1": 828,
+    "y1": 159
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.85012286901474,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 619,
+    "y0": 126,
+    "x1": 826,
+    "y1": 158
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r17",
+   "label": "title",
+   "bbox": {
+    "x0": 887,
+    "y0": 1712,
+    "x1": 1111,
+    "y1": 1738
+   },
+   "text": "THE CHURCH.",
+   "status": "ok",
+   "confidence": 0.8979976177215576,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 887,
+    "y0": 1709,
+    "x1": 1107,
+    "y1": 1736
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 18,
+  "regions_after": 18,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.39,
+  "box_overlaps_after": 4,
+  "log": []
+ }
+}

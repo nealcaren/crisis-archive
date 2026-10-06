@@ -1,0 +1,925 @@
+{
+ "page": 23,
+ "image": "images/page_23.jpg",
+ "width": 1390,
+ "height": 2077,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.2,
+  "at": "2026-10-06T21:12:50+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 129,
+    "y0": 100,
+    "x1": 1182,
+    "y1": 276
+   },
+   "text": "THE NEGRO AS A SOLDIER\nBy Brigadier-General ANDREW S. BURT, U. S. A. (Retired)",
+   "status": "ok",
+   "confidence": 0.778166651725769,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 131,
+    "y0": 105,
+    "x1": 1177,
+    "y1": 260
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 127,
+    "y0": 293,
+    "x1": 638,
+    "y1": 895
+   },
+   "text": "We have in our regular army four regiments of colored soldiers, the Ninth and Tenth Cavalry and the Twenty-fourth and Twenty-fifth Infantry. The two cavalry regiments have fine records in campaigns on our Western frontier, in the old days of Indian warfare. These troopers also have splendid records made in Cuba and the Philippines. To-day there are no finer horsemen who carry sabres and carbines than the Negro soldiers. Indeed, it is whispered abroad that the Tenth Regiment arrived on the field of Santiago in the nick of time to save a much heralded cavalry command from being wiped out or otherwise rough-ridden by the Spanish forces. That kindly help by the Negro troopers has not, to my knowledge, been bruited about with any very loud acclaim. Gratitude is a fickle jade. \"Where self the wavering balance shakes 'tis rarely right adjusted,\" says Bobby Burns.",
+   "status": "ok",
+   "confidence": 0.9774461388587952,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 127,
+    "y0": 302,
+    "x1": 634,
+    "y1": 890
+   },
+   "exclude": [
+    [
+     149,
+     875,
+     173,
+     912,
+     "r2"
+    ],
+    [
+     212,
+     875,
+     230,
+     912,
+     "r2"
+    ],
+    [
+     310,
+     893,
+     317,
+     912,
+     "r2"
+    ],
+    [
+     175,
+     894,
+     186,
+     912,
+     "r2"
+    ],
+    [
+     367,
+     894,
+     379,
+     912,
+     "r2"
+    ],
+    [
+     392,
+     894,
+     400,
+     912,
+     "r2"
+    ],
+    [
+     418,
+     894,
+     425,
+     912,
+     "r2"
+    ],
+    [
+     498,
+     894,
+     509,
+     912,
+     "r2"
+    ],
+    [
+     555,
+     894,
+     558,
+     896,
+     "r2"
+    ],
+    [
+     561,
+     894,
+     573,
+     912,
+     "r2"
+    ],
+    [
+     608,
+     894,
+     611,
+     896,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 127,
+    "y0": 872,
+    "x1": 638,
+    "y1": 1439
+   },
+   "text": "The Twenty-fourth Infantry has likewise made an enviable record in Indian warfare in Cuba and in the Philippines, not only for its fighting, but as well for its law-abiding conduct wherever it has served in this country and in foreign lands. In addition, this Negro regiment has the privilege of painting on her battle flag, in letters of gold, a record for a deed of magnificent moral courage and great-hearted humanity. In Cuba, after the battle of Santiago, the yellow fever broke out among our white troops. Quarantine hospital camps were established for patients stricken down with the dread disease. Some weeks had elapsed when the colonel commanding the Twenty-fourth Regiment received an order to detail sixty men from his command to replace the regular Hospital Corps nurses who had been attacked by yellow fever, and a number of whom had died of this sickness.",
+   "status": "ok",
+   "confidence": 0.9778098464012146,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 127,
+    "y0": 893,
+    "x1": 633,
+    "y1": 1467
+   },
+   "exclude": [
+    [
+     164,
+     869,
+     175,
+     887,
+     "r1"
+    ],
+    [
+     211,
+     869,
+     223,
+     887,
+     "r1"
+    ],
+    [
+     281,
+     869,
+     292,
+     887,
+     "r1"
+    ],
+    [
+     301,
+     869,
+     304,
+     875,
+     "r1"
+    ],
+    [
+     307,
+     869,
+     310,
+     875,
+     "r1"
+    ],
+    [
+     385,
+     869,
+     399,
+     887,
+     "r1"
+    ],
+    [
+     468,
+     869,
+     482,
+     887,
+     "r1"
+    ],
+    [
+     415,
+     870,
+     426,
+     888,
+     "r1"
+    ],
+    [
+     428,
+     870,
+     439,
+     888,
+     "r1"
+    ],
+    [
+     178,
+     873,
+     185,
+     887,
+     "r1"
+    ],
+    [
+     132,
+     875,
+     148,
+     887,
+     "r1"
+    ],
+    [
+     198,
+     874,
+     209,
+     887,
+     "r1"
+    ],
+    [
+     235,
+     875,
+     247,
+     887,
+     "r1"
+    ],
+    [
+     249,
+     875,
+     258,
+     887,
+     "r1"
+    ],
+    [
+     260,
+     874,
+     266,
+     887,
+     "r1"
+    ],
+    [
+     268,
+     875,
+     278,
+     888,
+     "r1"
+    ],
+    [
+     325,
+     875,
+     333,
+     888,
+     "r1"
+    ],
+    [
+     335,
+     875,
+     346,
+     887,
+     "r1"
+    ],
+    [
+     347,
+     875,
+     359,
+     892,
+     "r1"
+    ],
+    [
+     363,
+     875,
+     368,
+     878,
+     "r1"
+    ],
+    [
+     402,
+     875,
+     413,
+     887,
+     "r1"
+    ],
+    [
+     441,
+     875,
+     453,
+     892,
+     "r1"
+    ],
+    [
+     510,
+     875,
+     521,
+     887,
+     "r1"
+    ],
+    [
+     524,
+     875,
+     532,
+     887,
+     "r1"
+    ],
+    [
+     485,
+     876,
+     496,
+     888,
+     "r1"
+    ],
+    [
+     500,
+     876,
+     507,
+     887,
+     "r1"
+    ],
+    [
+     361,
+     879,
+     369,
+     887,
+     "r1"
+    ],
+    [
+     295,
+     884,
+     298,
+     891,
+     "r1"
+    ],
+    [
+     535,
+     885,
+     538,
+     888,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 127,
+    "y0": 1439,
+    "x1": 638,
+    "y1": 1469
+   },
+   "text": "BRAVED YELLOW FEVER.",
+   "status": "ok",
+   "confidence": 0.9778098464012146,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 127,
+    "y0": 893,
+    "x1": 633,
+    "y1": 1467
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 126,
+    "y0": 1473,
+    "x1": 637,
+    "y1": 1847
+   },
+   "text": "The colonel, recognizing the peculiar work to be performed by his men who would go to the yellow fever camps, ordered out his regiment in line, and said to them:\n\"Soldiers of the Twenty-fourth, I want sixty volunteers to help nurse your white comrades who are suffering with yellow fever.\"\nHe commanded: \"Volunteers, three paces to the front. March.\"\nEvery man of that line stepped to the front!\nBut, wait! Mark well the sequel to such Christian heroism. It was only a short time",
+   "status": "ok",
+   "confidence": 0.9598231911659241,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 124,
+    "y0": 1471,
+    "x1": 634,
+    "y1": 1845
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 669,
+    "y0": 302,
+    "x1": 1178,
+    "y1": 807
+   },
+   "text": "before word came to the colonel that half of his men who had volunteered to nurse their white comrades had been taken down with yellow fever. A number of them had died of that terrible disease, and thirty more nurses were wanted to take their places. Again the colonel called out his black soldiers in line. He told them what had happened, and again he commanded \"Volunteers, three paces to the front. March.\" And again every man of that line stepped to the front. I was captain of an infantry company in the Civil War. That ought to make me a good judge of a marching column, and I say I never saw better marchers than my Twenty-fifth United States Infantry Negro soldiers. I dwell on this matter, for on the legs of his men many a general has depended for a victorious campaign.",
+   "status": "ok",
+   "confidence": 0.9756500720977783,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 667,
+    "y0": 301,
+    "x1": 1174,
+    "y1": 794
+   },
+   "exclude": [
+    [
+     701,
+     797,
+     713,
+     817,
+     "r5"
+    ],
+    [
+     758,
+     797,
+     775,
+     817,
+     "r5"
+    ],
+    [
+     716,
+     799,
+     727,
+     817,
+     "r5"
+    ],
+    [
+     859,
+     798,
+     863,
+     800,
+     "r5"
+    ],
+    [
+     869,
+     798,
+     876,
+     816,
+     "r5"
+    ],
+    [
+     888,
+     799,
+     900,
+     817,
+     "r5"
+    ],
+    [
+     919,
+     798,
+     937,
+     817,
+     "r5"
+    ],
+    [
+     965,
+     798,
+     967,
+     801,
+     "r5"
+    ],
+    [
+     1039,
+     799,
+     1044,
+     817,
+     "r5"
+    ],
+    [
+     1063,
+     799,
+     1075,
+     817,
+     "r5"
+    ],
+    [
+     1102,
+     798,
+     1114,
+     817,
+     "r5"
+    ],
+    [
+     854,
+     801,
+     865,
+     817,
+     "r5"
+    ],
+    [
+     823,
+     802,
+     829,
+     817,
+     "r5"
+    ],
+    [
+     880,
+     803,
+     884,
+     817,
+     "r5"
+    ],
+    [
+     1018,
+     802,
+     1024,
+     817,
+     "r5"
+    ],
+    [
+     729,
+     805,
+     739,
+     817,
+     "r5"
+    ],
+    [
+     778,
+     805,
+     794,
+     817,
+     "r5"
+    ],
+    [
+     797,
+     805,
+     807,
+     817,
+     "r5"
+    ],
+    [
+     809,
+     805,
+     820,
+     817,
+     "r5"
+    ],
+    [
+     831,
+     805,
+     843,
+     821,
+     "r5"
+    ],
+    [
+     938,
+     805,
+     948,
+     817,
+     "r5"
+    ],
+    [
+     949,
+     805,
+     961,
+     821,
+     "r5"
+    ],
+    [
+     963,
+     805,
+     968,
+     817,
+     "r5"
+    ],
+    [
+     971,
+     805,
+     990,
+     817,
+     "r5"
+    ],
+    [
+     992,
+     805,
+     1001,
+     817,
+     "r5"
+    ],
+    [
+     1004,
+     805,
+     1015,
+     817,
+     "r5"
+    ],
+    [
+     1026,
+     805,
+     1037,
+     817,
+     "r5"
+    ],
+    [
+     1077,
+     805,
+     1087,
+     817,
+     "r5"
+    ],
+    [
+     1089,
+     804,
+     1100,
+     817,
+     "r5"
+    ],
+    [
+     1115,
+     804,
+     1127,
+     821,
+     "r5"
+    ],
+    [
+     1129,
+     805,
+     1141,
+     817,
+     "r5"
+    ],
+    [
+     1143,
+     804,
+     1154,
+     817,
+     "r5"
+    ],
+    [
+     1156,
+     805,
+     1165,
+     817,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 657,
+    "y0": 794,
+    "x1": 1177,
+    "y1": 1189
+   },
+   "text": "The Twenty-fifth Regimental headquarters, four companies, and the band were stationed for more than ten years at Fort Missoula, Mont., near the city of that name. One day I asked the Democratic Mayor of that city how my men behaved in his bailiwick. He replied:\n\"Why, colonel, there isn't any class of citizens here more orderly and peaceful. The Police Court records will prove my assertion.\"\nWhen the regiment was ordered to the front in '98, the ministers of every denomination in Missoula joined in an open letter commending the men for their good behavior.",
+   "status": "ok",
+   "confidence": 0.9704673290252686,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 656,
+    "y0": 796,
+    "x1": 1174,
+    "y1": 1217
+   },
+   "exclude": [
+    [
+     696,
+     780,
+     709,
+     804,
+     "r4"
+    ],
+    [
+     1035,
+     780,
+     1046,
+     797,
+     "r4"
+    ],
+    [
+     1068,
+     780,
+     1093,
+     797,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r5b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 657,
+    "y0": 1189,
+    "x1": 1177,
+    "y1": 1217
+   },
+   "text": "THE TWENTY-FIFTH'S RECORD.",
+   "status": "ok",
+   "confidence": 0.9704673290252686,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 656,
+    "y0": 796,
+    "x1": 1174,
+    "y1": 1217
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 668,
+    "y0": 1227,
+    "x1": 1178,
+    "y1": 1775
+   },
+   "text": "The Twenty-fifth Infantry has made a record for fighting at El Caney, in Cuba, at Mt. Aryat, O'Donell, and in numerous skirmishes in the Philippines. Speaking of the Negro soldier generally, I can find nowhere in the histories of the Revolutionary War, the Indian Wars, Spanish-American Wars, or in the Philippines, a single instance where a Negro regiment showed the white feather or refused to charge the enemy when called on to do so. You will recall Gen. Grant's testimony before the Congressional committee on the conduct of the war of the rebellion. He said in part: \"If the black troops had been properly supported by the white troops at the springing of the mines at Petersburg, that day we would have gone into Richmond.\" The Negro soldiers were the only ones to charge into and out of that hell-hole. Just keep that in your minds.",
+   "status": "ok",
+   "confidence": 0.9485026001930237,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 666,
+    "y0": 1224,
+    "x1": 1174,
+    "y1": 1769
+   },
+   "exclude": [
+    [
+     1169,
+     1768,
+     1171,
+     1772,
+     "r7"
+    ],
+    [
+     698,
+     1773,
+     713,
+     1791,
+     "r7"
+    ],
+    [
+     779,
+     1772,
+     786,
+     1791,
+     "r7"
+    ],
+    [
+     901,
+     1772,
+     908,
+     1791,
+     "r7"
+    ],
+    [
+     932,
+     1772,
+     947,
+     1790,
+     "r7"
+    ],
+    [
+     977,
+     1772,
+     989,
+     1791,
+     "r7"
+    ],
+    [
+     1035,
+     1772,
+     1055,
+     1791,
+     "r7"
+    ],
+    [
+     1058,
+     1772,
+     1062,
+     1775,
+     "r7"
+    ],
+    [
+     1065,
+     1772,
+     1069,
+     1791,
+     "r7"
+    ],
+    [
+     1072,
+     1772,
+     1077,
+     1791,
+     "r7"
+    ],
+    [
+     1117,
+     1772,
+     1121,
+     1780,
+     "r7"
+    ],
+    [
+     1123,
+     1773,
+     1127,
+     1780,
+     "r7"
+    ],
+    [
+     1130,
+     1772,
+     1149,
+     1791,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 668,
+    "y0": 1765,
+    "x1": 1177,
+    "y1": 1848
+   },
+   "text": "Bancroft says of Bunker Hill: \"Nor should history forget that as in the army at Cambridge, so also in this gallant band,",
+   "status": "ok",
+   "confidence": 0.9486247301101685,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 667,
+    "y0": 1770,
+    "x1": 1173,
+    "y1": 1845
+   },
+   "exclude": [
+    [
+     672,
+     1748,
+     683,
+     1771,
+     "r6"
+    ],
+    [
+     746,
+     1754,
+     756,
+     1767,
+     "r6"
+    ],
+    [
+     770,
+     1754,
+     781,
+     1772,
+     "r6"
+    ],
+    [
+     888,
+     1754,
+     900,
+     1770,
+     "r6"
+    ],
+    [
+     1022,
+     1763,
+     1025,
+     1767,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 3,
+  "log": [
+   "split r2 at y=1439 before 'BRAVED YELLOW FEVER.'",
+   "split r5 at y=1189 before \"THE TWENTY-FIFTH'S RECORD.\""
+  ]
+ }
+}

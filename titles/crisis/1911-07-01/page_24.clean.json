@@ -1,0 +1,234 @@
+{
+ "page": 24,
+ "image": "images/page_24.jpg",
+ "width": 1073,
+ "height": 1620,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.7,
+  "at": "2026-10-06T21:59:19+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 163,
+    "y0": 92,
+    "x1": 994,
+    "y1": 228
+   },
+   "text": "EDITORIAL",
+   "status": "ok",
+   "confidence": 0.8077512383460999,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 310,
+    "y0": 126,
+    "x1": 844,
+    "y1": 191
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "EDITORIAL",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 164,
+    "y0": 252,
+    "x1": 565,
+    "y1": 717
+   },
+   "text": "REPRESENTATIVES from a number of organizations concerned with securing justice to the Negro—among them the N. A. A. C. P.—called upon President Taft the other day in regard to the recent lynchings in Kentucky, Florida, Georgia and Oklahoma. In view of the fact that Negroes had been murdered at an average of one a day, the committee respectfully asked that the President call the attention of Congress to this reign of lawlessness and that appropriate legislation be enacted. The President received the delegates with every courtesy, but assured them that the matter of lynching must be left entirely to the individual States.",
+   "status": "ok",
+   "confidence": 0.973510205745697,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 248,
+    "x1": 563,
+    "y1": 712
+   },
+   "exclude": [
+    [
+     192,
+     716,
+     207,
+     734,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 166,
+    "y0": 714,
+    "x1": 565,
+    "y1": 1239
+   },
+   "text": "There is a side to this doctrine of States rights not without interest. A black man finds his status in the United States safer if he is a British subject than if he is an American citizen. Thus, a colored woman, entering the country a year ago, was subjected to grave indignities until it was learned that her husband was a Britisher, when the attitude toward her at once changed and she was given due consideration. It would be a matter for Federal interference if black British subjects were taken from jail and used as quarry by hunting gentlemen, but black American citizens, unable to appeal to the Union Jack, are assured that the Stars and Stripes have no power to protect them from serving as living targets or from slowly burning at the stake.",
+   "status": "ok",
+   "confidence": 0.9783438444137573,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 165,
+    "y0": 714,
+    "x1": 561,
+    "y1": 1239
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 167,
+    "y0": 1279,
+    "x1": 565,
+    "y1": 1456
+   },
+   "text": "ALLIES.\nOCCASIONALLY we find in the columns of a national press, which as a rule regards the wrongs of colored citizens as \"stale news\" not worth printing, some really splendid argument in support",
+   "status": "ok",
+   "confidence": 0.9675854444503784,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 165,
+    "y0": 1276,
+    "x1": 564,
+    "y1": 1454
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 589,
+    "y0": 250,
+    "x1": 993,
+    "y1": 784
+   },
+   "text": "of the militant position taken by this Association. What, for instance, could be more gratifying than this? It is a reprimand from the Commander-in-Chief of the army, the President himself, to a colonel who failed to advance a man on account of a prejudice against his race:\n\"The President directs the Secretary of War to inform Col. Garrard that his attitude in this matter is strongly disapproved as contrary to the ideals and principles of this country.\n\"Such procedure indicates not only prejudice that should not be found in an officer of his position and experience, but amounts to a failure to justly and fairly consider the merits and claims of the applicant as shown by his efficient service and excellent standing in the mental examinations.",
+   "status": "ok",
+   "confidence": 0.974734365940094,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 589,
+    "y0": 248,
+    "x1": 991,
+    "y1": 780
+   },
+   "exclude": [
+    [
+     627,
+     782,
+     641,
+     800,
+     "r5"
+    ],
+    [
+     677,
+     783,
+     693,
+     801,
+     "r5"
+    ],
+    [
+     769,
+     783,
+     780,
+     800,
+     "r5"
+    ],
+    [
+     937,
+     783,
+     940,
+     786,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 588,
+    "y0": 780,
+    "x1": 991,
+    "y1": 1308
+   },
+   "text": "\"Col. Garrard has been admonished to avoid a repetition of the action taken in this case.\"\nAnd read this argument against disfranchisement. Does it not deal clearly and comprehensively with the matter? It is the Saturday Evening Post of Philadelphia which speaks:\n\"For a hundred years they have been demonstrating that they know how to fight; and the last century of history shows that ability to fight, without some political ability, does a people little good. After each victory they remain, as before, subject to whatever mere luck may bring them of good or bad in a ruler. Excluding a people from politics . . . because they are politically inexperienced, is of a piece with keeping a child out of the water because he doesn't know how to swim.\"",
+   "status": "ok",
+   "confidence": 0.9781925082206726,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 588,
+    "y0": 781,
+    "x1": 989,
+    "y1": 1307
+   },
+   "exclude": [
+    [
+     665,
+     764,
+     677,
+     782,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 593,
+    "y0": 1309,
+    "x1": 992,
+    "y1": 1458
+   },
+   "text": "How, then, has our cause gained two great allies? Is the fold larger by two wandering sheep? Not so, reader. Be not too lifted up. President Taft was dealing with the case of a Jewish soldier and the Saturday",
+   "status": "ok",
+   "confidence": 0.9746408462524414,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 592,
+    "y0": 1310,
+    "x1": 990,
+    "y1": 1455
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 7,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.15,
+  "box_overlaps_after": 2,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 63%",
+   "reread r0: 'EDITORIAL' -> 'EDITORIAL'"
+  ]
+ }
+}

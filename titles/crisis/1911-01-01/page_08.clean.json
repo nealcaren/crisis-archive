@@ -1,0 +1,235 @@
+{
+ "page": 8,
+ "image": "images/page_08.jpg",
+ "width": 1080,
+ "height": 1580,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.9,
+  "at": "2026-10-06T21:02:26+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 501,
+    "y0": 94,
+    "x1": 650,
+    "y1": 118
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.7287368774414062,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 500,
+    "y0": 92,
+    "x1": 648,
+    "y1": 117
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 166,
+    "y0": 94,
+    "x1": 182,
+    "y1": 116
+   },
+   "text": "8",
+   "status": "ok",
+   "confidence": 0.755158007144928,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 93,
+    "x1": 181,
+    "y1": 114
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 167,
+    "y0": 147,
+    "x1": 564,
+    "y1": 717
+   },
+   "text": "THERE CHURCH.\n\nThere are now five Negro priests in the Catholic Church in the United States; three are in the Order of St. Joseph, one is a member of the Holy Ghost order, and the fifth is attached to Archbishop Ireland's diocese in St. Paul, Minn.\n\nOn Sunday afternoon, October 30, the societies of the Holy Name of the Roman Catholic Church made a big demonstration in Washington, D. C. One feature of it was the parade, with several thousand in line, including delegations from Baltimore and other nearby places. There were many colored men in line, but there was no semblance of \"jim crowing.\" Each marched with his own parish members of whatever color. There was a full share of colored mounted marshals and two of the six bands were colored, but the colored bands were not leading colored contingents.\n\nThis was in striking contrast to the action of the local committee of the World's Sunday School Congress here last May, which barred the few colored delegates from the parade altogether, while in other places they were segregated as far as possible.",
+   "status": "ok",
+   "confidence": 0.969162106513977,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 167,
+    "y0": 144,
+    "x1": 562,
+    "y1": 716
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 170,
+    "y0": 740,
+    "x1": 568,
+    "y1": 858
+   },
+   "text": "Two thousand Negro Baptists have been meeting in Little Rock, Ark.\nThe M. E. Conference at Nacogdoches, Texas, opened by singing \"And are we yet alive!\"",
+   "status": "ok",
+   "confidence": 0.9727707505226135,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 737,
+    "x1": 567,
+    "y1": 1252
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 170,
+    "y0": 858,
+    "x1": 568,
+    "y1": 1254
+   },
+   "text": "ECONOMIC.\n\nDuring the last few days Negroes, generally known as \"freedmen\" from the Choctaw and Chickasaw nations, have paid over $50,000 to the commissioner to the five tribes of Indians at Muskogee for land. The \"freedmen\" were allowed to select enough land to bring their allotments up to forty acres, paying for it the appraised value of the land. This appraisement was made by the government several years ago, and is about one-fourth of the actual cash value of the land now. The Negroes were given this preferential right to buy by a special act of Congress and their right expired December 1, which caused the rush.\n\nA colored church in Atlanta has opened a labor exchange.",
+   "status": "ok",
+   "confidence": 0.9727707505226135,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 737,
+    "x1": 567,
+    "y1": 1252
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 171,
+    "y0": 1275,
+    "x1": 570,
+    "y1": 1508
+   },
+   "text": "A number of Omaha colored men have incorporated the International Railroad Safety Pipe Coupling Company. It will manufacture the Harris coupling for cars. This aims at enabling coupling of steam air brake and emergency pipes without compelling a man to go under the cars and risk being crushed. The appliance is made to go under the Janney coupler. A. H. Harris of Denver is the inventor, and an Omaha foundry is making the castings for railways to try out.",
+   "status": "ok",
+   "confidence": 0.9561887979507446,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 171,
+    "y0": 1273,
+    "x1": 568,
+    "y1": 1506
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 589,
+    "y0": 143,
+    "x1": 992,
+    "y1": 523
+   },
+   "text": "Attorney-General Foy of the Province of Ontario, Canada, has included the name of Delos R. Davis in a new list of king's counsels for that province. Mr. Davis is a colored barrister before the Amherstburg bar of long standing, and will do honor to his new title of \"K. C.\"\n\nIt required 55,000 enumerators to take the census; of these 1,605 were Negroes, and 1,295 of these Negroes were in the Southern States. Secretary Nagel said, a few days ago, that he had not heard a single complaint against them. Ten years ago there were no Negroes at all taking census in South Carolina, but this year 131 colored were employed.\n\nART.",
+   "status": "ok",
+   "confidence": 0.9652624130249023,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 588,
+    "y0": 143,
+    "x1": 990,
+    "y1": 523
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 591,
+    "y0": 531,
+    "x1": 993,
+    "y1": 1011
+   },
+   "text": "The playing of Miss Helen Hagan at the concert of the Second Company, Governor's Foot Guard Band, has been the subject of much enthusiastic comment during the past week. Many of the best musicians of New Haven were present, and their opinions constitute for Miss Hagan a \"judgment of her peers.\" Miss Hagan is a \"prize student\" of the Yale department of music and has been heard several times in concert work accompanied by the New Haven Symphony Orchestra. Her playing has always brought down the house. On the occasion of the Foot Guard concert she appeared twice upon the program in solos by Chopin, Liszt, Rachmaninoff, Schumann and MacDowell, and responded to vehement demands for encores with compositions by Grieg and Mosznowski. Although Miss Hagan is not yet twenty years of age and was graduated from the New Haven High School only last June, she has gone a long way up on the road toward being a successful concert artist.—New Haven Register.",
+   "status": "ok",
+   "confidence": 0.9751869440078735,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 590,
+    "y0": 530,
+    "x1": 991,
+    "y1": 1008
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 595,
+    "y0": 1016,
+    "x1": 996,
+    "y1": 1507
+   },
+   "text": "William E. Scott has returned to Indianapolis from Paris, where he went nearly two years ago to continue his art work. He was born and reared in Indiananolis. He began his art studies under Otto Stark. while a student at the Manual Training High School. After graduating he became assistant teacher of art in the high school, which position he held a year and a half. He entered the Chicago Art Institute in 1904, won some cash scholarships and became proficient as a mural artist. During his last year's attendance at the institute he did the mural decorations for five of the public school buildings of Chicago. For a short time after graduating from the institute he was engaged in special work in illustration, after which he went to Paris and studied under P. Marcel Beareneau and later under H. O. Tanner. He exhibited three paintings last August in a Paris salon, and traveled over England, Holland and Belgium before returning here. Both of the persons mentioned above are colored.",
+   "status": "ok",
+   "confidence": 0.9606034755706787,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 594,
+    "y0": 1024,
+    "x1": 995,
+    "y1": 1507
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.17,
+  "box_overlaps_after": 0,
+  "log": [
+   "split r3 at y=858 before 'ECONOMIC.'"
+  ]
+ }
+}

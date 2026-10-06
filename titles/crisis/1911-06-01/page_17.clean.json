@@ -1,0 +1,323 @@
+{
+ "page": 17,
+ "image": "images/page_17.jpg",
+ "width": 1371,
+ "height": 2088,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.3,
+  "at": "2026-10-06T21:49:14+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 489,
+    "y0": 135,
+    "x1": 803,
+    "y1": 164
+   },
+   "text": "THE N. A. A. C. P.",
+   "status": "ok",
+   "confidence": 0.8753316402435303,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 489,
+    "y0": 133,
+    "x1": 801,
+    "y1": 164
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 116,
+    "y0": 198,
+    "x1": 626,
+    "y1": 711
+   },
+   "text": "The Association interested itself two months ago in the case of two boys, James Sharp, aged 17, and Harry Brown, alias Williams, 19 years old, who had been sentenced to death at Georgetown, Delaware, for the murder of a white boy, the fourteen-year-old Wilmore Rogers. The boys had been before the Children's Court in Philadelphia, where they had relatives, and from these persons and court officials the Association received word of their conviction. The story told in Philadelphia was that the two boys who were sent to work for John Rogers, a farmer, had been terribly ill-treated. \"They had been whipped with a goad; their clothing was torn from their backs.\" They tried to run away but were brought back. Eventually they beat young Rogers, one of their torturers, to death.",
+   "status": "ok",
+   "confidence": 0.9779300689697266,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 117,
+    "y0": 196,
+    "x1": 622,
+    "y1": 711
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 660,
+    "y0": 201,
+    "x1": 1171,
+    "y1": 816
+   },
+   "text": "already indicted eighteen men. All but six of those indicted are under arrest, and earnest work will be done to arrest all. I do not permit any lynching if I know of it before hand. There has never been a case where I had any reason to fear a mob committing a crime that I have not taken every possible precaution against it, but this was a sudden mob gathered on the Negro shooting a white man, the merits of which I know nothing, and it was in the western part of the State, a long distance from the capital, and no one outside of the immediate locality knew anything about it until the next day. I have taken a great deal of care to prevent injustice through race prejudice being done to our colored people. I have pardoned them when it was plain they were wrongfully convicted or too severely punished, and I have in every case where there was reason to fear a mob taken great care to prevent such a disgrace.",
+   "status": "ok",
+   "confidence": 0.9779614210128784,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 658,
+    "y0": 199,
+    "x1": 1168,
+    "y1": 812
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 118,
+    "y0": 716,
+    "x1": 627,
+    "y1": 1062
+   },
+   "text": "The evidence at the trial did not altogether bear out this story, but it was clear that the Rogers boys terrorized the neighborhood. So great was the fear of them that few persons dared say a word about them. The murder was described in Delaware as revolting. The boys borrowed the gun of young Rogers and shot him with it, burying the body in a swamp. Their attitude during the trial was described as hardened and indifferent, though a letter to the mother of Brown pathetically shows a boy's terror at his plight.",
+   "status": "ok",
+   "confidence": 0.9791337251663208,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 118,
+    "y0": 715,
+    "x1": 623,
+    "y1": 1058
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 660,
+    "y0": 817,
+    "x1": 1169,
+    "y1": 1066
+   },
+   "text": "\"The Executive Department has no control whatever of any prosecution except to grant clemency. I have the power to offer rewards for the apprehension and conviction of people who confederate together to injure another and I had that power in this case and should have exercised it if it had been necessary, but the action of the Grand Jury makes it unnecessary.",
+   "status": "ok",
+   "confidence": 0.9747917056083679,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 659,
+    "y0": 816,
+    "x1": 1166,
+    "y1": 1062
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 118,
+    "y0": 1062,
+    "x1": 627,
+    "y1": 1237
+   },
+   "text": "Whether or not they were hardened or merely terrified and hopeless, the fact remains that they made a bad impression on the jury and judges, and were sentenced to death. Our lawyer arrived after the sentence, but we were able to secure commutation to life imprisonment.",
+   "status": "ok",
+   "confidence": 0.9738768339157104,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 118,
+    "y0": 1061,
+    "x1": 624,
+    "y1": 1234
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 660,
+    "y0": 1065,
+    "x1": 1170,
+    "y1": 1582
+   },
+   "text": "\"With your horror of this crime as it was I fully sympathize. I feel as earnestly as you do the solemn duty of preventing men being put to death by mobs or in any other way except by law. When men are guilty of offenses punishable with death, I do not interfere with the sentence, but they are entitled to the protection of the State if it takes the whole State to do it, until convicted, and in cases like this there could be no question whatever of at least just punishment very promptly, so there was no excuse whatever for a mob. Before I came to your letter I had written this in answer to a letter from the County Judge asking me to offer a reward for the murderers if his request was necessary, but the indictment and the arrest of the people guilty have made it unnecessary.",
+   "status": "ok",
+   "confidence": 0.9802438020706177,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 660,
+    "y0": 1065,
+    "x1": 1166,
+    "y1": 1578
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 119,
+    "y0": 1281,
+    "x1": 627,
+    "y1": 1477
+   },
+   "text": "The Association sent a protest to the Governor of Kentucky after the shocking press reports of the lynching in the theatre at Livermore, when it was said admission was charged and spectators were allowed to shoot one or more bullets at the victim, according to the location of their seats.",
+   "status": "ok",
+   "confidence": 0.9726089239120483,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 119,
+    "y0": 1279,
+    "x1": 624,
+    "y1": 1476
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 117,
+    "y0": 1512,
+    "x1": 627,
+    "y1": 1933
+   },
+   "text": "\"I have the honor to acknowledge to your letter of May 5th calling my attention to the recent lynching at Livermore, Ky. Of course my attention was called to this shocking crime at the time and I immediately made inquiry about it, and while it was bad enough, I am glad to say that it was not as bad as reported in the sensational dispatches; that it was not conducted as a public exhibition, that the theatre was not opened nor lighted, much less were people there by admission either paid or unpaid, but a small mob did murder this man in that building in the dark, and I am very glad to say that the Grand Jury under the earnest instruction of the judge has",
+   "status": "ok",
+   "confidence": 0.9790712594985962,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 118,
+    "y0": 1512,
+    "x1": 623,
+    "y1": 1930
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 660,
+    "y0": 1705,
+    "x1": 1188,
+    "y1": 1929
+   },
+   "text": "The Boston branch will not be definitely organized until the autumn, but a local committee is working, and meetings to protest against race prejudice have been held and noted in the newspapers. The local committee on organization consists of Mr. and Mrs. Joseph P. Loud, Dr. Horace Bumstead. Mr. Francis J. Garrison and Mr. Butler R. Wilson.",
+   "status": "ok",
+   "confidence": 0.9632810950279236,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 659,
+    "y0": 1703,
+    "x1": 1185,
+    "y1": 1930
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 146,
+    "y0": 1481,
+    "x1": 472,
+    "y1": 1511
+   },
+   "text": "Governor Willson replied:",
+   "status": "ok",
+   "confidence": 0.8767837882041931,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 146,
+    "y0": 1479,
+    "x1": 471,
+    "y1": 1508
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1133,
+    "y0": 135,
+    "x1": 1165,
+    "y1": 163
+   },
+   "text": "61",
+   "status": "ok",
+   "confidence": 0.8209761381149292,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1132,
+    "y0": 135,
+    "x1": 1164,
+    "y1": 160
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 781,
+    "y0": 1589,
+    "x1": 1147,
+    "y1": 1652
+   },
+   "text": "\"Yours truly,\n\"AUGUSTUS E. WILLSON.\"",
+   "status": "ok",
+   "confidence": 0.7941559553146362,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 782,
+    "y0": 1586,
+    "x1": 1146,
+    "y1": 1652
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 13,
+  "regions_after": 13,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.17,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

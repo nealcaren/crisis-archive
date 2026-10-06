@@ -1,0 +1,691 @@
+{
+ "page": 10,
+ "image": "images/page_10.jpg",
+ "width": 1074,
+ "height": 1576,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.6,
+  "at": "2026-10-06T21:02:45+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 497,
+    "y0": 84,
+    "x1": 649,
+    "y1": 107
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8913481831550598,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 495,
+    "y0": 82,
+    "x1": 647,
+    "y1": 106
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 168,
+    "y0": 83,
+    "x1": 193,
+    "y1": 105
+   },
+   "text": "10",
+   "status": "ok",
+   "confidence": 0.8282422423362732,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 166,
+    "y0": 82,
+    "x1": 192,
+    "y1": 103
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 163,
+    "y0": 136,
+    "x1": 558,
+    "y1": 748
+   },
+   "text": "but it is quite a different thing, consciously or unconsciously, to misrepresent the truth.\"\n\nThis appeal has provoked widespread comment all over the world. The Vienna (Austria) Die Zeit, in publishing the document, says:\n\n\"During the sojourn in Vienna of Booker T. Washington, the distinguished apostle of the Negro, there appeared in Die Zeit a report from his pen in which he defended the white race of North America against the charge of systematic race prejudice and pictured the condition of the Negro race as on the whole very favorable. This report created great excitement in America and a deep disagreement among the intelligent leaders of the American Negroes. Booker T. Washington was warmly attacked in many American papers by both white and black speakers, and finally the American Negro leaders drew up an outspoken protest against Washington's declarations.\"\n\nThe Kolnische Volk Zeitung, Germany, speaks of an article which was \"widely printed in Austria and Germany,\" in which Mr. Washington \"expressed himself in very optimistic words concerning his race in America and the undoubted solution of the problem,\" and then reprints a part of the appeal.",
+   "status": "ok",
+   "confidence": 0.9775552749633789,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 161,
+    "y0": 135,
+    "x1": 560,
+    "y1": 730
+   },
+   "exclude": [
+    [
+     226,
+     732,
+     234,
+     746,
+     "r3"
+    ],
+    [
+     258,
+     732,
+     270,
+     746,
+     "r3"
+    ],
+    [
+     269,
+     732,
+     273,
+     743,
+     "r3"
+    ],
+    [
+     287,
+     732,
+     289,
+     735,
+     "r3"
+    ],
+    [
+     308,
+     732,
+     317,
+     746,
+     "r3"
+    ],
+    [
+     332,
+     732,
+     342,
+     747,
+     "r3"
+    ],
+    [
+     405,
+     733,
+     413,
+     746,
+     "r3"
+    ],
+    [
+     528,
+     733,
+     537,
+     747,
+     "r3"
+    ],
+    [
+     219,
+     735,
+     223,
+     746,
+     "r3"
+    ],
+    [
+     292,
+     735,
+     296,
+     746,
+     "r3"
+    ],
+    [
+     344,
+     735,
+     349,
+     747,
+     "r3"
+    ],
+    [
+     361,
+     735,
+     366,
+     747,
+     "r3"
+    ],
+    [
+     397,
+     735,
+     402,
+     748,
+     "r3"
+    ],
+    [
+     195,
+     737,
+     204,
+     746,
+     "r3"
+    ],
+    [
+     236,
+     737,
+     244,
+     746,
+     "r3"
+    ],
+    [
+     275,
+     737,
+     284,
+     746,
+     "r3"
+    ],
+    [
+     302,
+     737,
+     305,
+     741,
+     "r3"
+    ],
+    [
+     509,
+     736,
+     513,
+     747,
+     "r3"
+    ],
+    [
+     286,
+     738,
+     289,
+     746,
+     "r3"
+    ],
+    [
+     298,
+     738,
+     305,
+     746,
+     "r3"
+    ],
+    [
+     351,
+     738,
+     359,
+     747,
+     "r3"
+    ],
+    [
+     367,
+     738,
+     374,
+     747,
+     "r3"
+    ],
+    [
+     377,
+     738,
+     383,
+     747,
+     "r3"
+    ],
+    [
+     415,
+     738,
+     422,
+     747,
+     "r3"
+    ],
+    [
+     436,
+     738,
+     444,
+     747,
+     "r3"
+    ],
+    [
+     445,
+     738,
+     454,
+     747,
+     "r3"
+    ],
+    [
+     456,
+     738,
+     470,
+     747,
+     "r3"
+    ],
+    [
+     472,
+     738,
+     481,
+     746,
+     "r3"
+    ],
+    [
+     482,
+     738,
+     486,
+     747,
+     "r3"
+    ],
+    [
+     489,
+     738,
+     496,
+     747,
+     "r3"
+    ],
+    [
+     497,
+     738,
+     507,
+     747,
+     "r3"
+    ],
+    [
+     539,
+     738,
+     547,
+     747,
+     "r3"
+    ],
+    [
+     549,
+     738,
+     555,
+     747,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 165,
+    "y0": 730,
+    "x1": 558,
+    "y1": 809
+   },
+   "text": "In the United States the comment has taken wide range. From the South comes some bitterness when, for instance, the Raleigh News and Courier says:",
+   "status": "ok",
+   "confidence": 0.9603614211082458,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 729,
+    "x1": 556,
+    "y1": 806
+   },
+   "exclude": [
+    [
+     196,
+     808,
+     202,
+     822,
+     "r4"
+    ],
+    [
+     186,
+     718,
+     196,
+     746,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 165,
+    "y0": 806,
+    "x1": 560,
+    "y1": 1343
+   },
+   "text": "\"It is hard to tell which is the worst enemy of the Negro race—the brute who invites lynching by the basest of crimes, or the social-equality-hunting fellow like Du Bois, who slanders his country. Fortunately for the peaceable and industrious Negroes in the South, the world does not judge them either by Du Bois or the animal, and helps them and is in sympathy with their efforts to better their condition.\"\n\nThe Richmond Leader adds:\n\n\"Efforts on the part of the Negro to give practical expression to the dream of equality may, indeed, cause temporary trouble and discomfort to the whites, but ultimately and necessarily they could not fail to provoke stern repression, and, if necessary, cruel punishment to the blacks. Fortunately, the great bulk of the Negro population in the South realizes this, and, having—at least for the time—accepted it as inevitable, they adjust themselves to the subordinate place to which their race consigns them, and in which the very existence of the superior race makes it absolutely necessary to keep them. There is little friction, therefore, between them and the white people among whom they live.\"",
+   "status": "ok",
+   "confidence": 0.9786721467971802,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 805,
+    "x1": 557,
+    "y1": 1338
+   },
+   "exclude": [
+    [
+     350,
+     1328,
+     364,
+     1356,
+     "r5"
+    ],
+    [
+     188,
+     1341,
+     201,
+     1356,
+     "r5"
+    ],
+    [
+     204,
+     1342,
+     212,
+     1356,
+     "r5"
+    ],
+    [
+     232,
+     1342,
+     244,
+     1356,
+     "r5"
+    ],
+    [
+     246,
+     1342,
+     254,
+     1356,
+     "r5"
+    ],
+    [
+     366,
+     1342,
+     369,
+     1344,
+     "r5"
+    ],
+    [
+     460,
+     1342,
+     469,
+     1356,
+     "r5"
+    ],
+    [
+     494,
+     1342,
+     503,
+     1356,
+     "r5"
+    ],
+    [
+     523,
+     1342,
+     532,
+     1356,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 167,
+    "y0": 1326,
+    "x1": 562,
+    "y1": 1496
+   },
+   "text": "The Chattanooga Times regards the document as \"treasonable incendiarism,\" and many papers denounce it as a demand for \"social equality.\" The New Orleans Times-Democrat says:\n\"To the average American the most striking feature is this 'appeal,' aside from its attack upon Booker Washington, is its con-",
+   "status": "ok",
+   "confidence": 0.9643972516059875,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 166,
+    "y0": 1339,
+    "x1": 560,
+    "y1": 1493
+   },
+   "exclude": [
+    [
+     180,
+     1323,
+     182,
+     1337,
+     "r4"
+    ],
+    [
+     282,
+     1323,
+     290,
+     1336,
+     "r4"
+    ],
+    [
+     334,
+     1322,
+     342,
+     1336,
+     "r4"
+    ],
+    [
+     370,
+     1322,
+     374,
+     1336,
+     "r4"
+    ],
+    [
+     326,
+     1325,
+     332,
+     1337,
+     "r4"
+    ],
+    [
+     169,
+     1328,
+     177,
+     1341,
+     "r4"
+    ],
+    [
+     185,
+     1328,
+     192,
+     1337,
+     "r4"
+    ],
+    [
+     201,
+     1328,
+     209,
+     1337,
+     "r4"
+    ],
+    [
+     211,
+     1328,
+     225,
+     1337,
+     "r4"
+    ],
+    [
+     227,
+     1328,
+     236,
+     1337,
+     "r4"
+    ],
+    [
+     237,
+     1328,
+     246,
+     1337,
+     "r4"
+    ],
+    [
+     249,
+     1328,
+     259,
+     1340,
+     "r4"
+    ],
+    [
+     267,
+     1328,
+     280,
+     1336,
+     "r4"
+    ],
+    [
+     293,
+     1328,
+     302,
+     1337,
+     "r4"
+    ],
+    [
+     303,
+     1328,
+     317,
+     1336,
+     "r4"
+    ],
+    [
+     344,
+     1328,
+     352,
+     1337,
+     "r4"
+    ],
+    [
+     376,
+     1328,
+     379,
+     1336,
+     "r4"
+    ],
+    [
+     382,
+     1328,
+     391,
+     1336,
+     "r4"
+    ],
+    [
+     393,
+     1328,
+     400,
+     1337,
+     "r4"
+    ],
+    [
+     402,
+     1335,
+     404,
+     1337,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 585,
+    "y0": 135,
+    "x1": 984,
+    "y1": 675
+   },
+   "text": "fession, virtually in so many words, that the theory of racial social equality is losing ground 'everywhere in the United States.' Thoughtful students of the American race problem long ago noted the steady spread of race instinct, or prejudice, into sections other than the South; but it was hardly to be expected that the blatant Negro agitators would confess that their strident demands for race equality have not only completely failed, but have helped to turn the scale against them. Such progress as the Negro has made is recorded not by aid of these aspirants for social equality, but in spite of them.\"\n\nThe Jersey City Journal says Negroes can vote in the North, they are educated in the North, they are only partially restricted in residence, they usually get equal pay for equal work, and the \"objection to having colored people in residence sections is natural.\"\n\nThe Chicago Tribune \"can understand and sympathize\" with the signers of the protest, but points out that the positions occupied by the signers themselves show the progress of the Negro.\n\nThe New York World says:",
+   "status": "ok",
+   "confidence": 0.9718322157859802,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 583,
+    "y0": 134,
+    "x1": 981,
+    "y1": 671
+   },
+   "exclude": [
+    [
+     937,
+     674,
+     943,
+     688,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 585,
+    "y0": 672,
+    "x1": 984,
+    "y1": 1149
+   },
+   "text": "\"Undeniably, the black population of the United States has just grievances. So also has the white population in the United States. Race prejudice is here as it is in Europe, and blacks are not the only sufferers. There is brutal tyranny in industry, but the blacks are not the only victims. There are social limitations that are cruel and inexcusable, but the blacks are not the only ones against whom the gates are shut. \"This is a world in which true men give and take. It is a world in which all must make allowances. It is a world in which, after all, men are judged not so much by race or nationality or possessions as by personal merit. Otherwise, how could a Booker Washington, born a Virginia slave, have 'stood before kings' and associated for the greater part of his life with the earth's greatest and best? \"We do not condemn the American men of color who have made this protest. We simply remonstrate with them. They are asking more than a white man's chance, and in the circumstances that is inadmissible.\"",
+   "status": "ok",
+   "confidence": 0.9361792802810669,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 584,
+    "y0": 672,
+    "x1": 982,
+    "y1": 1148
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 587,
+    "y0": 1147,
+    "x1": 986,
+    "y1": 1498
+   },
+   "text": "The Boston Globe, however, thinks that \"these and other complaints are backed by educated Negroes, who demand that the old world shall know their wrongs. They deny that Dr. Washington is giving the right impression of the situation in this country. It would seem to the average person that admittedly there is much truth in the catalog of wrongs the association recites.\"\n\nThe Brooklyn Times, too, acknowledges that \"the lot of the colored American is a hard one at best, but there is nothing to be gained by complaining over conditions and prejudices that cannot be altered or eradicated in the lifetime of a single generation. There are obstacles in the path of the Afro-American, even the most intelligent",
+   "status": "ok",
+   "confidence": 0.9773054122924805,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 586,
+    "y0": 1148,
+    "x1": 984,
+    "y1": 1495
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 5,
+  "log": []
+ }
+}

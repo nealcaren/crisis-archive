@@ -1,0 +1,183 @@
+{
+  "page": 16,
+  "image": "images/page_16.jpg",
+  "width": 1067,
+  "height": 1610,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 346,
+        "y0": 122,
+        "x1": 751,
+        "y1": 186
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.5580734014511108,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 160,
+        "y0": 242,
+        "x1": 512,
+        "y1": 266
+      },
+      "text": "THE BRISTOW AMENDMENT.",
+      "status": "ok",
+      "confidence": 0.8960155844688416,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 559,
+        "y0": 244,
+        "x1": 958,
+        "y1": 284
+      },
+      "text": "responsible will feel the lash of popular\ndiscredit when the time comes.\"",
+      "status": "ok",
+      "confidence": 0.944392204284668,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 137,
+        "y0": 273,
+        "x1": 533,
+        "y1": 563
+      },
+      "text": "The Bristow Amendment to the bill providing for the popular election of United States senators has not been very favorably received by the press. In our last issue we described the way in which this amendment had passed the Senate by a majority of one vote. Most papers think that the introduction of the amendment was insincere—that the senators who voted for it had no feeling whatever on the question of Negro disfranchisement, but thought it a good opportunity to drag in the Negro question, frighten off the Southern votes and defeat the so-called progressive measure.",
+      "status": "ok",
+      "confidence": 0.9763910174369812,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 560,
+        "y0": 285,
+        "x1": 959,
+        "y1": 630
+      },
+      "text": "In fact, it is difficult to find a paper which approves the Bristow Amendment. They are either silent or vigorously declare that the whole thing was an attempt to defeat a measure that would have benefited the whole population of the country.\nThe Southern papers naturally object strongly to the amendment. The Montgomery Advertiser, which favors the direct election of senators, says: \"The proposed reform is prohibitively dear, if we have to buy it with our complaisant acceptance of the atrocious Force Bill, which a small band of devoted and courageous senators defeated in the last generation when it appeared certain of enactment.\"",
+      "status": "ok",
+      "confidence": 0.9769121408462524,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 138,
+        "y0": 566,
+        "x1": 534,
+        "y1": 797
+      },
+      "text": "The New York World, for instance, calls the Bristow Amendment unnecessary and mischievous, and claims that it was put in for no purpose except to arouse sectional animosity and repeal the movement for the election of senators by a direct vote. It thinks \"the fact that Lorimer, du Pont, Gallinger, Gamble, Guggenheim, Root, Smoot, Penrose and Stephenson voted for it explained its real meaning far more clearly than the text itself.\"",
+      "status": "ok",
+      "confidence": 0.9758790135383606,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 559,
+        "y0": 630,
+        "x1": 959,
+        "y1": 708
+      },
+      "text": "There is practically no voice raised in praise of the amendment giving Congress control over the popular election of senators.",
+      "status": "ok",
+      "confidence": 0.9615271687507629,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 561,
+        "y0": 746,
+        "x1": 960,
+        "y1": 1255
+      },
+      "text": "A BRAVE YOUNG MAN.\nThe Dallas Morning News is the most influential paper in its section of Texas. It publishes in full the oration on the Negro problem by a white lad, Alex. Spence, eighteen years old. The young orator took part in a contest at the high school, and we believe was awarded the first prize. That the boy deserves a prize for the clearness and logic of his address, regardless of subject, is evident. We are informed that the editor of the Morning News has received a number of protests about the publication of Mr. Spence's address, and it is as gratifying to find a Texan newspaper printing such sentiments as to find a Southern white boy entertaining them and expressing them in public, necessarily with the approval of his parents. After outlining the history of slavery and summarizing the progress of the colored man, young Mr. Spence describes the attitude of that portion of the Southern people which urges that the Negro be \"discouraged and kept down\":",
+      "status": "ok",
+      "confidence": 0.9802982211112976,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 139,
+        "y0": 799,
+        "x1": 536,
+        "y1": 1270
+      },
+      "text": "The New York Press, a \"progressive\" Republican paper, also thinks that nothing shows the insincerity of the Bristow Amendment to the Borah joint resolution more than the character of most of its supporters. \"Under cover of protecting the freedom of suffrage in the Black Belt, the promoters of this insincere and unenforcible project intend to deny the people of all the States the right to elect their senators.\"\n\nThe New York Globe thinks the amendment was \"fathered of the desire to mix things up.\"\n\nThe Brooklyn Eagle is of the opinion that the effect of the Constitutional amendment in its amended form would be the nullification of the restrictions now imposed by the Southern States upon Negro suffrage, but to this the New York Tribune replies: \"There is no ground of power in the Senate amendment which is not as old as the Constitution.\"",
+      "status": "ok",
+      "confidence": 0.9777956008911133,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 563,
+        "y0": 1256,
+        "x1": 964,
+        "y1": 1314
+      },
+      "text": "\"The advocates of the forceful repression theory, as it is called, usually urge about the following principles:",
+      "status": "ok",
+      "confidence": 0.8829277157783508,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 142,
+        "y0": 1272,
+        "x1": 538,
+        "y1": 1449
+      },
+      "text": "The New Haven Courier-Journal says the issue of direct election of senators has been clouded by the injection of the Bristow Amendment. It declares that \"the people of this country have a right to decide what is best for them in the organization of their political household, and if in this regard the Senate has played fast and loose with them, those",
+      "status": "ok",
+      "confidence": 0.9739011526107788,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 563,
+        "y0": 1316,
+        "x1": 965,
+        "y1": 1451
+      },
+      "text": "1. The 'nigger' must remain a 'servant to the whites.'\n2. He must not be educated, for 'education ruins niggers.'\n3. He must have no political rights.\n4. There must be no justice between 'nigger' and white-if a 'nigger' kills a",
+      "status": "ok",
+      "confidence": 0.6290779709815979,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.2,
+    "at": "2026-10-06T22:11:46+00:00"
+  }
+}

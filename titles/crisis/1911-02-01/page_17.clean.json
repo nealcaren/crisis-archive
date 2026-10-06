@@ -1,0 +1,262 @@
+{
+ "page": 17,
+ "image": "images/page_17.jpg",
+ "width": 1390,
+ "height": 2077,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.5,
+  "at": "2026-10-06T21:12:06+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 536,
+    "y0": 136,
+    "x1": 725,
+    "y1": 166
+   },
+   "text": "EDITORIAL",
+   "status": "ok",
+   "confidence": 0.6606753468513489,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 535,
+    "y0": 134,
+    "x1": 721,
+    "y1": 167
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 108,
+    "y0": 203,
+    "x1": 622,
+    "y1": 482
+   },
+   "text": "210; average cost per month of operating wagonettes, $7,272.37. In the sparsely settled country school districts the State furnishes wagonettes for the transportation of white children to and from school. The value of the wagonettes is $21,624.95 and the cost of operating them is $54,000.51.",
+   "status": "ok",
+   "confidence": 0.9757005572319031,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 200,
+    "x1": 618,
+    "y1": 479
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 113,
+    "y0": 486,
+    "x1": 627,
+    "y1": 1106
+   },
+   "text": "Average number of white children transported per month per wagonette, 7.2; average cost per month per child transported, $2.19. Number of white children transported in wagonettes 4,088 for more than eight months at $2.19 per month per child. Under this way of encouraging white children to attend, the enrollment of white children in the public schools is 184,-955. Without any such encouragement and under adverse circumstances and with the certainty that there will be less than a five months' term for colored schools, the enrollment of colored children in the public schools is 78,862. Twice as many could enroll, but if they did they would have to sit upon one another for want of accommodation.\"",
+   "status": "ok",
+   "confidence": 0.9797207117080688,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 112,
+    "y0": 484,
+    "x1": 621,
+    "y1": 1097
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 118,
+    "y0": 1103,
+    "x1": 631,
+    "y1": 1414
+   },
+   "text": "In the teeth of such facts ignorant editors like those above laud the Negro public schools, but leaders of education like President Edmund J. James of the University of Illinois say flatly and fearlessly: \"In no other nation claiming to be civilized is there at the present time so large a population in such educational degradation as the American Negro!\"",
+   "status": "ok",
+   "confidence": 0.9762188792228699,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 117,
+    "y0": 1103,
+    "x1": 626,
+    "y1": 1410
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "title",
+   "bbox": {
+    "x0": 119,
+    "y0": 1463,
+    "x1": 633,
+    "y1": 1951
+   },
+   "text": "THE commutation of the death sentence of Pink Franklin, of South Carolina, to imprisonment for life is the latest step in an astounding American tragedy, but not, please God! the last. Here is a colored boy, the son of a Southern white man, a boy with a fair common school education, good-tempered, pleasant to look upon and a regular worker. He is arrested under a law the essential principle of which has since been declared unconstitutional by the Supreme Courts of",
+   "status": "ok",
+   "confidence": 0.974160373210907,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 118,
+    "y0": 1460,
+    "x1": 630,
+    "y1": 1947
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1128,
+    "y0": 134,
+    "x1": 1161,
+    "y1": 163
+   },
+   "text": "17",
+   "status": "ok",
+   "confidence": 0.8450210094451904,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1125,
+    "y0": 133,
+    "x1": 1157,
+    "y1": 161
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 651,
+    "y0": 201,
+    "x1": 1164,
+    "y1": 577
+   },
+   "text": "both South Carolina and the United States. His plea of self-defense in killing an armed and unannounced midnight intruder into the very bedroom of himself and his wife, after he himself had been shot, would have absolutely freed any white man on earth from the slightest guilt or punishment. Yet it could not free a colored man in South Carolina. It brought a sentence of murder in the first degree.",
+   "status": "ok",
+   "confidence": 0.9769971370697021,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 650,
+    "y0": 199,
+    "x1": 1159,
+    "y1": 572
+   },
+   "exclude": [
+    [
+     1146,
+     576,
+     1149,
+     579,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 656,
+    "y0": 573,
+    "x1": 1169,
+    "y1": 1223
+   },
+   "text": "Governor Ansell in commuting his sentence to imprisonment for life did a brave thing. Why was it brave? Because it was just? No, it was unjust. To punish this innocent man with a terrible sentence—one almost worse than death, were it not for the hope ahead—is a terribly unjust deed. Yet Governor Ansell's act was brave because of public opinion in South Carolina; because the dominant public opinion of that State demanded this boy's blood; because Governor Ansell took his political future in his hands when he defied this opinion. Honor, then, to Governor Ansell and to strong papers like the Columbia State; but what shall we say of the civilization of a community which makes moral heroism of the scantiest justice?",
+   "status": "ok",
+   "confidence": 0.9798884987831116,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 656,
+    "y0": 574,
+    "x1": 1164,
+    "y1": 1217
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "title",
+   "bbox": {
+    "x0": 662,
+    "y0": 1255,
+    "x1": 1172,
+    "y1": 1635
+   },
+   "text": "VICTORY. THE colored people are getting so used to defeat that they hardly recognize victory when it comes or know how to herald it. They are developing a stolid, sombre, dogged silence and persistence which knows neither elation nor despair. Some day when great triumph comes they will burst forth in long pent-up gladness with a richness of emotion that will astonish men.",
+   "status": "ok",
+   "confidence": 0.974609375,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 662,
+    "y0": 1251,
+    "x1": 1168,
+    "y1": 1635
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 666,
+    "y0": 1637,
+    "x1": 1177,
+    "y1": 1952
+   },
+   "text": "That day is not yet come, but there do come in these days of little things of grudging gifts from the devil of hate and prejudice-indications of larger victory, the significance of which we must not miss. Such were the four great court victories of last month: 1. The Supreme Court of Washington has told real estate speculators",
+   "status": "ok",
+   "confidence": 0.9749394059181213,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 664,
+    "y0": 1637,
+    "x1": 1173,
+    "y1": 1948
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.25,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

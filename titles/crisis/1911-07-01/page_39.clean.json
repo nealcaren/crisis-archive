@@ -1,0 +1,1151 @@
+{
+ "page": 39,
+ "image": "images/page_39.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 20.4,
+  "at": "2026-10-06T22:02:41+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 321,
+    "y0": 95,
+    "x1": 676,
+    "y1": 169
+   },
+   "text": "THE CRISIS ADVERTISER\nWHERE TO STOP—(Continued)",
+   "status": "ok",
+   "confidence": 0.8582329154014587,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 321,
+    "y0": 94,
+    "x1": 675,
+    "y1": 166
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "table",
+   "bbox": {
+    "x0": 91,
+    "y0": 166,
+    "x1": 916,
+    "y1": 1020
+   },
+   "text": "HARLEM PRIVATE HOUSE\nFurnished rooms to let for gentlemen only.\nHot and cold water in every room.\nMRS. BERRY L. HIICKS, Proprietress\n258 WEST 133D STREET NEW YORK\nFour doors from Eighth Avenue\n\nTelephone 3939-W Harlem\nMRS. ALFRED HARPER\nFURNISHED ROOMS\nBY THE WEEK OR MONTH\n15 WEST 132D STREET NEW YORK\n\nTHE SOUTHERN RESTAURANT\n2229 FIFTH AVENUE\nBetween 39th and 136th Streets, New York\n\nMRS. BERRYORK, New York, New York\nWe are prepared to give first-class service at a very reasonable rate. Real home cooking.\nCome and be convinced. Our motto is to please you.\nMeals at all hours.\nMRS. J. M. RIDDICK, Proprietress\n\nTHE VIRGINIA HOUSE\nMRS. MARY E. HILL, Proprietress\nNEATLY FURNISHED ROOMS\nGood Old Southern Cooking\n\"Just Like Home\"\n37 WEST 133D STREET NEW YORK\n\nIS YOUR HOTEL LISTED\nIN THIS DIRECTORY? IF\nNOT, WRITE US FOR RATES.\n\n'Phone 2877 Lenox\nWhite Rose Working Girls' Home\n217 EAST 86TH STREET\nBet. Second and Third Avenues\nPleasant temporary lodgings for working girls, with privileges, at reasonable rates. The Home solicits orders for working dresses, aprons, etc.\nAddress:\nMRS. FRANCES E. KEYSER, Supt.\n\nPHILADELPHIA, PA.\n\nTelephone Strictly First-class\n\nTHE NEW DELMONICO HOTEL\n16th and Ridge Avenue, Philadelphia, Pa.\nSTRICTLY PRIVATE AND HOME COMFORTS\nTen large bedrooms, with electric light, steam heat and baths.\nCafé on second floor. Best meals only.\nThis hotel is newly furnished and up to date in every particular. We solicit your trade.\nPermanent and transient rooms; they are the best. Try one of our meals.\n(Ring bell after 12 m.)\nL. B. SMITH, Prop. A. R. SMITH, Mgr.\n\nILLINOIS\n\nJ. N. Washington Mrs. J. N. Washington\nProprietor Manager\nHotel Washington\n3252 WABASH AVENUE\nCHICAGO\nFirst-class Service for First-class People\nRates: 75c., $1.00 and $2.00 Per Day\nTelephone Aldine 516\n\nOHIO\n\nHome 'Phone B-3244 American—European\nHOTEL PLEASANT\nP. H. WOOD\nNEW WITH MODERN EQUIPMENT\n9-11 ERIE STREET\nTOLEDO, OHIO\n\nNEW JERSEY\n\nHOTEL DALE\nCAPE MAY, NEW JERSEY",
+   "status": "ok",
+   "confidence": 0.4658121168613434,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 170,
+    "x1": 915,
+    "y1": 1016
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'MRS. ALFRED HARPER' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 98,
+    "y0": 1029,
+    "x1": 493,
+    "y1": 1077
+   },
+   "text": "This magnificent four-story structure, with every modern convenience, has just been completed at a cost of $50,000.",
+   "status": "ok",
+   "confidence": 0.8788197040557861,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 96,
+    "y0": 1028,
+    "x1": 493,
+    "y1": 1073
+   },
+   "exclude": [
+    [
+     338,
+     1075,
+     346,
+     1086,
+     "r8"
+    ],
+    [
+     366,
+     1075,
+     374,
+     1086,
+     "r8"
+    ],
+    [
+     438,
+     1075,
+     445,
+     1086,
+     "r8"
+    ],
+    [
+     120,
+     1076,
+     126,
+     1087,
+     "r8"
+    ],
+    [
+     197,
+     1076,
+     205,
+     1087,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 520,
+    "y0": 1029,
+    "x1": 916,
+    "y1": 1104
+   },
+   "text": "one of the hotel is the beautiful grill room. The management has engaged the full Abyssinian Orchestra to render afternoon and evening concerts in the room daily during the entire season.",
+   "status": "ok",
+   "confidence": 0.8672916889190674,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 519,
+    "y0": 1028,
+    "x1": 914,
+    "y1": 1101
+   },
+   "exclude": [
+    [
+     552,
+     1092,
+     561,
+     1114,
+     "r9"
+    ],
+    [
+     542,
+     1103,
+     552,
+     1114,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 99,
+    "y0": 1073,
+    "x1": 494,
+    "y1": 1118
+   },
+   "text": "It is, without exception, the finest and most complete hostelry in the United States for the accommodation of our race.",
+   "status": "ok",
+   "confidence": 0.7475828528404236,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 97,
+    "y0": 1073,
+    "x1": 493,
+    "y1": 1116
+   },
+   "exclude": [
+    [
+     100,
+     1065,
+     108,
+     1075,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 521,
+    "y0": 1090,
+    "x1": 916,
+    "y1": 1148
+   },
+   "text": "The open-air amusements available to the guests are numerous. The lawn of the hotel contains both croquet and tennis courts.",
+   "status": "ok",
+   "confidence": 0.907465934753418,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 520,
+    "y0": 1102,
+    "x1": 914,
+    "y1": 1144
+   },
+   "exclude": [
+    [
+     523,
+     1089,
+     531,
+     1100,
+     "r7"
+    ],
+    [
+     547,
+     1089,
+     550,
+     1099,
+     "r7"
+    ],
+    [
+     572,
+     1089,
+     580,
+     1100,
+     "r7"
+    ],
+    [
+     600,
+     1089,
+     602,
+     1100,
+     "r7"
+    ],
+    [
+     641,
+     1089,
+     648,
+     1100,
+     "r7"
+    ],
+    [
+     541,
+     1147,
+     560,
+     1158,
+     "r11"
+    ],
+    [
+     615,
+     1147,
+     623,
+     1158,
+     "r11"
+    ],
+    [
+     639,
+     1147,
+     647,
+     1158,
+     "r11"
+    ],
+    [
+     708,
+     1147,
+     717,
+     1158,
+     "r11"
+    ],
+    [
+     755,
+     1147,
+     768,
+     1158,
+     "r11"
+    ],
+    [
+     906,
+     1147,
+     914,
+     1158,
+     "r11"
+    ],
+    [
+     635,
+     1091,
+     639,
+     1100,
+     "r7"
+    ],
+    [
+     687,
+     1091,
+     692,
+     1100,
+     "r7"
+    ],
+    [
+     533,
+     1092,
+     540,
+     1100,
+     "r7"
+    ],
+    [
+     542,
+     1093,
+     544,
+     1099,
+     "r7"
+    ],
+    [
+     582,
+     1092,
+     590,
+     1100,
+     "r7"
+    ],
+    [
+     592,
+     1092,
+     598,
+     1100,
+     "r7"
+    ],
+    [
+     605,
+     1092,
+     612,
+     1100,
+     "r7"
+    ],
+    [
+     614,
+     1092,
+     622,
+     1102,
+     "r7"
+    ],
+    [
+     650,
+     1093,
+     657,
+     1100,
+     "r7"
+    ],
+    [
+     669,
+     1093,
+     676,
+     1100,
+     "r7"
+    ],
+    [
+     678,
+     1092,
+     685,
+     1100,
+     "r7"
+    ],
+    [
+     694,
+     1093,
+     697,
+     1100,
+     "r7"
+    ],
+    [
+     700,
+     1092,
+     705,
+     1100,
+     "r7"
+    ],
+    [
+     707,
+     1093,
+     713,
+     1100,
+     "r7"
+    ],
+    [
+     725,
+     1093,
+     731,
+     1100,
+     "r7"
+    ],
+    [
+     733,
+     1093,
+     739,
+     1100,
+     "r7"
+    ],
+    [
+     741,
+     1092,
+     764,
+     1101,
+     "r7"
+    ],
+    [
+     765,
+     1093,
+     773,
+     1100,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 100,
+    "y0": 1116,
+    "x1": 495,
+    "y1": 1161
+   },
+   "text": "It is located on the highest elevation in the heart of the residence portion of cool Cape May.",
+   "status": "ok",
+   "confidence": 0.8919193148612976,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 97,
+    "y0": 1117,
+    "x1": 493,
+    "y1": 1159
+   },
+   "exclude": [
+    [
+     120,
+     1151,
+     138,
+     1173,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 521,
+    "y0": 1145,
+    "x1": 916,
+    "y1": 1220
+   },
+   "text": "The sea bathing at Cape May is unsurpassed on the Atlantic Ocean. It is remarkable for its fine surf and is perfectly safe at all times for women and children. The hotel has its own private bath houses.",
+   "status": "ok",
+   "confidence": 0.9103540182113647,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 520,
+    "y0": 1145,
+    "x1": 914,
+    "y1": 1216
+   },
+   "exclude": [
+    [
+     542,
+     1219,
+     561,
+     1230,
+     "r13"
+    ],
+    [
+     607,
+     1219,
+     610,
+     1230,
+     "r13"
+    ],
+    [
+     612,
+     1219,
+     615,
+     1230,
+     "r13"
+    ],
+    [
+     668,
+     1219,
+     676,
+     1231,
+     "r13"
+    ],
+    [
+     692,
+     1219,
+     699,
+     1230,
+     "r13"
+    ],
+    [
+     708,
+     1219,
+     716,
+     1230,
+     "r13"
+    ],
+    [
+     719,
+     1219,
+     721,
+     1221,
+     "r13"
+    ],
+    [
+     757,
+     1219,
+     760,
+     1230,
+     "r13"
+    ],
+    [
+     792,
+     1219,
+     799,
+     1230,
+     "r13"
+    ],
+    [
+     823,
+     1219,
+     847,
+     1231,
+     "r13"
+    ],
+    [
+     849,
+     1219,
+     865,
+     1231,
+     "r13"
+    ],
+    [
+     906,
+     1219,
+     914,
+     1231,
+     "r13"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 99,
+    "y0": 1149,
+    "x1": 494,
+    "y1": 1264
+   },
+   "text": "The view from the hotel is magnificent; on the front, overlooking overlooking the celebrated golf links, the vista stretches away to take in the beautiful driveways and farms of the inland section of the Cape. The rear commands an extensive view of the harbor and sea. The invigorating ocean breezes reach every section of the hotel.",
+   "status": "ok",
+   "confidence": 0.8570186495780945,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 97,
+    "y0": 1160,
+    "x1": 493,
+    "y1": 1260
+   },
+   "exclude": [
+    [
+     120,
+     1263,
+     139,
+     1274,
+     "r14"
+    ],
+    [
+     157,
+     1263,
+     161,
+     1274,
+     "r14"
+    ],
+    [
+     232,
+     1263,
+     238,
+     1274,
+     "r14"
+    ],
+    [
+     254,
+     1263,
+     262,
+     1274,
+     "r14"
+    ],
+    [
+     284,
+     1263,
+     292,
+     1274,
+     "r14"
+    ],
+    [
+     317,
+     1263,
+     321,
+     1274,
+     "r14"
+    ],
+    [
+     371,
+     1263,
+     387,
+     1274,
+     "r14"
+    ],
+    [
+     396,
+     1262,
+     404,
+     1274,
+     "r14"
+    ],
+    [
+     442,
+     1262,
+     450,
+     1274,
+     "r14"
+    ],
+    [
+     460,
+     1262,
+     468,
+     1274,
+     "r14"
+    ],
+    [
+     102,
+     1147,
+     115,
+     1159,
+     "r10"
+    ],
+    [
+     116,
+     1151,
+     124,
+     1159,
+     "r10"
+    ],
+    [
+     135,
+     1156,
+     137,
+     1159,
+     "r10"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 521,
+    "y0": 1217,
+    "x1": 917,
+    "y1": 1261
+   },
+   "text": "The sailing and fishing in the harbor and adjacent sounds are always attractive and boats may be had at all times.",
+   "status": "ok",
+   "confidence": 0.896011471748352,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 520,
+    "y0": 1216,
+    "x1": 916,
+    "y1": 1260
+   },
+   "exclude": [
+    [
+     542,
+     1251,
+     561,
+     1273,
+     "r15"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 99,
+    "y0": 1260,
+    "x1": 494,
+    "y1": 1293
+   },
+   "text": "The interior of this hotel may be described as the acme of luxury, comfort and elegance.",
+   "status": "ok",
+   "confidence": 0.8868923187255859,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 98,
+    "y0": 1260,
+    "x1": 494,
+    "y1": 1289
+   },
+   "exclude": [
+    [
+     377,
+     1291,
+     385,
+     1302,
+     "r16"
+    ],
+    [
+     406,
+     1291,
+     414,
+     1302,
+     "r16"
+    ],
+    [
+     423,
+     1291,
+     439,
+     1302,
+     "r16"
+    ],
+    [
+     453,
+     1291,
+     457,
+     1302,
+     "r16"
+    ],
+    [
+     459,
+     1291,
+     462,
+     1302,
+     "r16"
+    ],
+    [
+     473,
+     1291,
+     481,
+     1302,
+     "r16"
+    ],
+    [
+     120,
+     1292,
+     139,
+     1304,
+     "r16"
+    ],
+    [
+     161,
+     1292,
+     174,
+     1304,
+     "r16"
+    ],
+    [
+     198,
+     1292,
+     201,
+     1303,
+     "r16"
+    ],
+    [
+     216,
+     1292,
+     227,
+     1304,
+     "r16"
+    ],
+    [
+     238,
+     1292,
+     241,
+     1303,
+     "r16"
+    ],
+    [
+     483,
+     1292,
+     488,
+     1302,
+     "r16"
+    ],
+    [
+     299,
+     1251,
+     314,
+     1262,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 521,
+    "y0": 1249,
+    "x1": 918,
+    "y1": 1365
+   },
+   "text": "The hotel is under the personal management of the owner, E. W. Dale, one of the most progressive and successful business men of our race. His experience as a hotel man has enabled him to use his very thorough knowledge of details in bringing the equipment of his hotel to perfection.",
+   "status": "ok",
+   "confidence": 0.9039361476898193,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 520,
+    "y0": 1261,
+    "x1": 917,
+    "y1": 1361
+   },
+   "exclude": [
+    [
+     570,
+     1248,
+     586,
+     1259,
+     "r13"
+    ],
+    [
+     602,
+     1248,
+     610,
+     1259,
+     "r13"
+    ],
+    [
+     620,
+     1248,
+     628,
+     1259,
+     "r13"
+    ],
+    [
+     683,
+     1248,
+     686,
+     1259,
+     "r13"
+    ],
+    [
+     688,
+     1248,
+     691,
+     1259,
+     "r13"
+    ],
+    [
+     708,
+     1249,
+     718,
+     1259,
+     "r13"
+    ],
+    [
+     542,
+     1364,
+     553,
+     1375,
+     "r17"
+    ],
+    [
+     554,
+     1364,
+     561,
+     1375,
+     "r17"
+    ],
+    [
+     564,
+     1364,
+     567,
+     1375,
+     "r17"
+    ],
+    [
+     586,
+     1364,
+     593,
+     1375,
+     "r17"
+    ],
+    [
+     619,
+     1364,
+     622,
+     1375,
+     "r17"
+    ],
+    [
+     634,
+     1364,
+     637,
+     1375,
+     "r17"
+    ],
+    [
+     707,
+     1364,
+     713,
+     1375,
+     "r17"
+    ],
+    [
+     653,
+     1250,
+     658,
+     1259,
+     "r13"
+    ],
+    [
+     779,
+     1364,
+     784,
+     1375,
+     "r17"
+    ],
+    [
+     831,
+     1364,
+     839,
+     1375,
+     "r17"
+    ],
+    [
+     888,
+     1364,
+     890,
+     1366,
+     "r17"
+    ],
+    [
+     523,
+     1252,
+     535,
+     1259,
+     "r13"
+    ],
+    [
+     537,
+     1252,
+     544,
+     1259,
+     "r13"
+    ],
+    [
+     612,
+     1252,
+     619,
+     1259,
+     "r13"
+    ],
+    [
+     644,
+     1252,
+     651,
+     1259,
+     "r13"
+    ],
+    [
+     674,
+     1252,
+     681,
+     1259,
+     "r13"
+    ],
+    [
+     720,
+     1252,
+     732,
+     1259,
+     "r13"
+    ],
+    [
+     734,
+     1252,
+     740,
+     1259,
+     "r13"
+    ],
+    [
+     742,
+     1252,
+     748,
+     1259,
+     "r13"
+    ],
+    [
+     750,
+     1257,
+     752,
+     1259,
+     "r13"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 99,
+    "y0": 1289,
+    "x1": 496,
+    "y1": 1438
+   },
+   "text": "The Hotel Dale contains one hundred light, airy and luxuriously furnished rooms with every modern convenience. Electric lights throughout the entire house. Suites with bath and long distance telephone connections. The elegantly furnished dining room is operated under both European and American plans. The cuisine will contain all the delicacies of the season, prepared by a master of the culinary art. Sea foods a specialty.",
+   "status": "ok",
+   "confidence": 0.924001932144165,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 97,
+    "y0": 1290,
+    "x1": 494,
+    "y1": 1436
+   },
+   "exclude": [
+    [
+     240,
+     1281,
+     255,
+     1291,
+     "r14"
+    ],
+    [
+     398,
+     1280,
+     406,
+     1291,
+     "r14"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r17",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 521,
+    "y0": 1362,
+    "x1": 919,
+    "y1": 1438
+   },
+   "text": "This hotel is easy of access from the stations of either the Pennsylvania or the Reading Railroad. Literature and additional information will be mailed upon request.",
+   "status": "ok",
+   "confidence": 0.8235657215118408,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 519,
+    "y0": 1362,
+    "x1": 918,
+    "y1": 1436
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r20",
+   "label": "abandon",
+   "bbox": {
+    "x0": 99,
+    "y0": 1454,
+    "x1": 920,
+    "y1": 1530
+   },
+   "text": "E. W. DALE, Owner and Proprietor Mention THE CRISIS.",
+   "status": "ok",
+   "confidence": 0.5765507221221924,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 96,
+    "y0": 1462,
+    "x1": 915,
+    "y1": 1530
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "E. W. DALE, Owner and Proprietor Mention THE CRISIS.",
+   "role": "text"
+  },
+  {
+   "id": "r21",
+   "label": "abandon",
+   "bbox": {
+    "x0": 874,
+    "y0": 93,
+    "x1": 911,
+    "y1": 115
+   },
+   "text": "127",
+   "status": "ok",
+   "confidence": 0.8680045008659363,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 872,
+    "y0": 91,
+    "x1": 910,
+    "y1": 113
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 21,
+  "regions_after": 16,
+  "lost_words": [],
+  "needs_review": [
+   "r5"
+  ],
+  "unowned_ink_pct": 1.19,
+  "box_overlaps_after": 11,
+  "log": [
+   "drop r2 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r3 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r4 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r18 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r19 (text): non-latin hallucination 'حرَّجَة'",
+   "reshape r20 (abandon): lost 0% of its ink, gained 14%",
+   "reread r20: 'E. W. DALE, Owner and Proprietor Mention' -> 'E. W. DALE, Owner and Proprietor Mention'",
+   "REVIEW r5: heading 'MRS. ALFRED HARPER' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

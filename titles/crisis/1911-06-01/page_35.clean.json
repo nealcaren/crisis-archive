@@ -1,0 +1,328 @@
+{
+ "page": 35,
+ "image": "images/page_35.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.4,
+  "at": "2026-10-06T21:51:41+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 530,
+    "y0": 125,
+    "x1": 809,
+    "y1": 156
+   },
+   "text": "WOMEN'S CLUBS",
+   "status": "ok",
+   "confidence": 0.7953798770904541,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 528,
+    "y0": 123,
+    "x1": 808,
+    "y1": 155
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 668,
+    "y0": 191,
+    "x1": 1178,
+    "y1": 362
+   },
+   "text": "desperate struggle to supplement the eight-dollar wage of her hard-working husband, has been stricken with tuberculosis. When our Nursery was closed, the dearest of our babies died of want. Such are the ordinary happenings that we see from our Settlement.\"",
+   "status": "ok",
+   "confidence": 0.974363386631012,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 667,
+    "y0": 190,
+    "x1": 1177,
+    "y1": 362
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 123,
+    "y0": 191,
+    "x1": 637,
+    "y1": 787
+   },
+   "text": "congested or poverty-stricken districts, where, because of the cost of living or the unstable conditions of family relations, the women are driven to be wageearners. It is the one fostered charity for which the demand, thus far, has been more urgent at the North than at the South. This has been due, probably, to the difference in conditions of labor that obtain in the two sections. The Hope Day and Lincoln Nurseries are meeting a real demand in their respective localities in New York City. In Brooklyn, the Day Nursery of the Lincoln Settlement is endeavoring to make life easier for the mothers of the most poverty-stricken district of that city. Although but 260 colored families were found to be living in a dozen different streets near this settlement, just a few words on this subject, taken from the president's report, are sufficient to emphasize the great need of a day nursery in this particular neighborhood:",
+   "status": "ok",
+   "confidence": 0.9776979088783264,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 123,
+    "y0": 190,
+    "x1": 633,
+    "y1": 782
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 668,
+    "y0": 367,
+    "x1": 1186,
+    "y1": 746
+   },
+   "text": "It requires money to properly support a day nursery, and so it is hardly to be wondered that the band of women who had struggled to keep this day nursery open for two years should finally give up because of the extreme difficulty experienced in raising funds for its support. Neither was it a small thing for twenty other colored women, with no assets except devotion, desire and determination, to reopen the nursery. But it seemed worth while, when, at the end of the first month, 151 children, representing twenty families, were reported as having been cared for.",
+   "status": "ok",
+   "confidence": 0.9779747724533081,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 668,
+    "y0": 367,
+    "x1": 1177,
+    "y1": 743
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 666,
+    "y0": 746,
+    "x1": 1179,
+    "y1": 1021
+   },
+   "text": "Under the supervision of a trained nurse and assistant, with Dr. V. Morton Jones as chairman of the committee, and a continuance of the faith accompanied by work now manifested, this children's refuge will soon gain the support it merits and we shall continue to delight in \"the rows of clean and sparkling little folk, who, with bibs tucked under their chins, fold their small hands and murmur together—",
+   "status": "ok",
+   "confidence": 0.9761316776275635,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 668,
+    "y0": 746,
+    "x1": 1176,
+    "y1": 1019
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 128,
+    "y0": 788,
+    "x1": 646,
+    "y1": 1085
+   },
+   "text": "\"The severity of poverty is, I believe, greater than that among any other race group in the city. Our colored men are usually unskilled laborers, making a dollar or a dollar and a half a day. This is supplemented by the wife's earnings at washing and housework, but the combined wages do not maintain a normal standard of living. The infant death rate is appalling. One of our most responsive, energetic mothers has lost six children out of eight. She herself after a",
+   "status": "ok",
+   "confidence": 0.9761185050010681,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 127,
+    "y0": 786,
+    "x1": 638,
+    "y1": 1081
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 670,
+    "y0": 1028,
+    "x1": 1177,
+    "y1": 1081
+   },
+   "text": "‘God is great and God is good,\nAnd we thank Him for this food.’",
+   "status": "ok",
+   "confidence": 0.9230127930641174,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 671,
+    "y0": 1026,
+    "x1": 1177,
+    "y1": 1082
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "title",
+   "bbox": {
+    "x0": 195,
+    "y0": 1296,
+    "x1": 1119,
+    "y1": 1374
+   },
+   "text": "A Student Credo from Oberlin",
+   "status": "ok",
+   "confidence": 0.9071894884109497,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 193,
+    "y0": 1289,
+    "x1": 1120,
+    "y1": 1366
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 129,
+    "y0": 1454,
+    "x1": 638,
+    "y1": 1701
+   },
+   "text": "There has always been idealism at Oberlin College, and a sense of the brotherhood of man. Latterly it seemed for a time as if the old standards might be declining, but the little outburst of race prejudice was soon quieted. Thanks not only to the wisdom of the faculty, but also to white students like the young lady who has written the following credo:",
+   "status": "ok",
+   "confidence": 0.976345956325531,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 128,
+    "y0": 1452,
+    "x1": 635,
+    "y1": 1699
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 670,
+    "y0": 1455,
+    "x1": 1180,
+    "y1": 1852
+   },
+   "text": "vidual is entitled to do the work which is suited to his own powers, and that no artificial barrier should be placed in his way; that no human being has the right to refuse any other the opportunity of absolute and complete self-development, self-realization, and self-direction, save in such measure as all alike are deprived of certain liberties for the benefit of all. I believe that society must and will at last be organized on a basis of absolutely equal opportunity for all mankind, of absolute justice and fair dealing; and I pledge my sacred honor to further the sentiment which will lead to organization upon these principles.",
+   "status": "ok",
+   "confidence": 0.9758411049842834,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 670,
+    "y0": 1453,
+    "x1": 1177,
+    "y1": 1849
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 115,
+    "y0": 1700,
+    "x1": 638,
+    "y1": 1927
+   },
+   "text": "I believe that every normal human being is entitled to equal opportunity with every other normal human being, for education, culture, work, progress, personal development, all civil and political rights and privileges. I believe that neither sex nor race should be made the basis for special privilege or special disqualification. I believe that every indi-",
+   "status": "ok",
+   "confidence": 0.9730263352394104,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 123,
+    "y0": 1700,
+    "x1": 638,
+    "y1": 2065
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1143,
+    "y0": 125,
+    "x1": 1178,
+    "y1": 154
+   },
+   "text": "79",
+   "status": "ok",
+   "confidence": 0.8424107432365417,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1142,
+    "y0": 124,
+    "x1": 1176,
+    "y1": 150
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r16",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 858,
+    "y0": 1858,
+    "x1": 1152,
+    "y1": 1934
+   },
+   "text": "MIRIAM E. OATMAN,\nOberlin College, '12.",
+   "status": "ok",
+   "confidence": 0.8657311797142029,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 856,
+    "y0": 1857,
+    "x1": 1151,
+    "y1": 1928
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 17,
+  "regions_after": 13,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 4.01,
+  "box_overlaps_after": 1,
+  "log": [
+   "drop r7 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r8 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r9 (abandon): empty ''",
+   "drop r14 (text): non-latin hallucination 'حرَّجَة'"
+  ]
+ }
+}

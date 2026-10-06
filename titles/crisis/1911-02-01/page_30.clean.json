@@ -1,0 +1,367 @@
+{
+ "page": 30,
+ "image": "images/page_30.jpg",
+ "width": 1395,
+ "height": 2081,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.9,
+  "at": "2026-10-06T21:14:01+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 214,
+    "y0": 1208,
+    "x1": 1275,
+    "y1": 1381
+   },
+   "text": "WHAT TO READ",
+   "status": "ok",
+   "confidence": 0.49632328748703003,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 219,
+    "y0": 1210,
+    "x1": 1272,
+    "y1": 1376
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 647,
+    "y0": 153,
+    "x1": 845,
+    "y1": 184
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.7238262891769409,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 645,
+    "y0": 151,
+    "x1": 844,
+    "y1": 184
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "abandon",
+   "bbox": {
+    "x0": 213,
+    "y0": 153,
+    "x1": 250,
+    "y1": 183
+   },
+   "text": "30",
+   "status": "ok",
+   "confidence": 0.8358062505722046,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 213,
+    "y0": 152,
+    "x1": 249,
+    "y1": 181
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 214,
+    "y0": 223,
+    "x1": 730,
+    "y1": 288
+   },
+   "text": "that the daily newspapers of a city like New York can perpetrate things like this:",
+   "status": "ok",
+   "confidence": 0.9634580612182617,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 213,
+    "y0": 222,
+    "x1": 726,
+    "y1": 558
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 214,
+    "y0": 288,
+    "x1": 730,
+    "y1": 376
+   },
+   "text": "CHAS. SUMNER'S CENTENNIAL\n—N. Y. Times, Jan. 7, 1911.",
+   "status": "ok",
+   "confidence": 0.9634580612182617,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 213,
+    "y0": 222,
+    "x1": 726,
+    "y1": 558
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3b"
+  },
+  {
+   "id": "r3bb",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 214,
+    "y0": 376,
+    "x1": 730,
+    "y1": 562
+   },
+   "text": "COMPELLED TO DANCE WITH NEGRO, SHE SAYS\n—N. Y. Times, Jan. 17, 1911.",
+   "status": "ok",
+   "confidence": 0.9634580612182617,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 213,
+    "y0": 222,
+    "x1": 726,
+    "y1": 558
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3b"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 215,
+    "y0": 587,
+    "x1": 727,
+    "y1": 1140
+   },
+   "text": "A young schoolgirl, full of a foolish self-consciousness, finds herself in front of a colored boy and obliged to take a few steps with him in a general dance. She shows herself as a little girl not yet trained to be polite to everyone whether considered by her a superior or an inferior; and, behold, some of our august distributors of news make her a prominent feature and give a column on their first page to her ill-breeding. Could anything show more clearly that, as Bernard Shaw has said, we are still \"a nation of villagers?\" The story reminds us of another that was related of a private school in Massachusetts. This school had pupils from all over the country, and sometimes colored children were among them. One time, in the dancing class, a Southern pupil, a boy, found himself in front of a colored girl.",
+   "status": "ok",
+   "confidence": 0.9749467968940735,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 215,
+    "y0": 587,
+    "x1": 724,
+    "y1": 1138
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "text",
+   "bbox": {
+    "x0": 371,
+    "y0": 1409,
+    "x1": 585,
+    "y1": 1437
+   },
+   "text": "PERIODICALS.",
+   "status": "ok",
+   "confidence": 0.4724119305610657,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 213,
+    "y0": 1138,
+    "x1": 844,
+    "y1": 1434
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "WHAT TO\nPERIODICALS. The Ma",
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 214,
+    "y0": 1440,
+    "x1": 727,
+    "y1": 1977
+   },
+   "text": "John Brown After Fifty Years. W. D. Howells. The North American Review, January.\nThe Story of Wendell Phillips. C. E. Russell. Success, November, December, January, February.\nDaughters of Herod. Mary Boyle O'Reilly. New England Magazine, December.\nA Visit to Tolstoy. Jane Addams. McClure's, January.\nHow to Establish a Happy Relation Between the Rulers and the Ruled in India, K. C. Kunjilal. The Calcutta Review, October.\nPosition of Indians in British Indian Administration. By an Uncovenanted. The Calcutta Review, October.\nThe New Apprenticeship. Geo. A. Stephens. The Journal of Political Economics, January.",
+   "status": "ok",
+   "confidence": 0.9462125897407532,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 213,
+    "y0": 1427,
+    "x1": 725,
+    "y1": 1978
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 760,
+    "y0": 217,
+    "x1": 1280,
+    "y1": 521
+   },
+   "text": "He rudely turned away, and being reproved by the teacher, he declared that he would not dance with a \"nigger.\" The matter came to the principal, who talked long and seriously to the lad, and ended by assuring him if he could not treat with courtesy every girl in the dancing school he must discontinue that class. The boy for a time stayed away, but finally decided that he was in the wrong, and returned to the class and to his duty as it had been shown him.",
+   "status": "ok",
+   "confidence": 0.9767026305198669,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 760,
+    "y0": 219,
+    "x1": 1275,
+    "y1": 519
+   },
+   "exclude": [
+    [
+     1169,
+     520,
+     1171,
+     523,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 758,
+    "y0": 517,
+    "x1": 1278,
+    "y1": 1114
+   },
+   "text": "Shortly after this his mother visited the school and, wishing to show how he had conquered himself, the boy at once, in her presence, went up to the colored girl and asked her to dance with him. The effect on his mother was far from what he had expected! She carried her indignant protests to the principal, declaring that she would remove her son from the school if he ever were asked to do such a degrading thing again. The principal's reply was quiet but determined. He insisted that any boy who remained in his school and under his influence must treat with courtesy all those about him, and that if the mother did not wish her son to comply with this rule, he must leave. Good sense prevailed; the mother acquiesced, and the lad stayed on. He learned to be the gentleman whom Stevenson has described, the man who, whether with inferior or superior, contrives to place himself in the background and to bring out all that is best in another.",
+   "status": "ok",
+   "confidence": 0.9787539839744568,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 759,
+    "y0": 521,
+    "x1": 1273,
+    "y1": 1114
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 1129,
+    "y0": 1113,
+    "x1": 1250,
+    "y1": 1139
+   },
+   "text": "M. W. O.",
+   "status": "ok",
+   "confidence": 0.7412158250808716,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1128,
+    "y0": 1112,
+    "x1": 1248,
+    "y1": 1138
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "text",
+   "bbox": {
+    "x0": 758,
+    "y0": 1410,
+    "x1": 1270,
+    "y1": 1493
+   },
+   "text": "The Martyrdom of the Russian Jew. Herman Rosenthal. Outlook, January 21.",
+   "status": "ok",
+   "confidence": 0.9192185997962952,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 757,
+    "y0": 1114,
+    "x1": 1275,
+    "y1": 1555
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "The Martyrdom of the Russian Jew. Herman Rosenthal. Outlook, January 21.\n\nBOOKS.",
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "title",
+   "bbox": {
+    "x0": 758,
+    "y0": 1515,
+    "x1": 1275,
+    "y1": 1977
+   },
+   "text": "BOOKS.\nMaude, Aylmer—Life of Tolstoy. Dodd.\nJones, P. V.—Social Justice. Cochrane.\nAbbott, Lyman—Spirit of Democracy. Houghton.\nCory, Geo. E.—Rise of South Africa. Longmans.\nDennett, R. E.—Nigerian Studies. Macmillan.\nTreves, Sir Frederick—Uganda for a Holiday. Smith, Elder & Co., London.\nBruce, Philip A.—The Institutional History of Virginia in the 17th Century. Putnam's.\nWeatherford, W. D.—Negro Life in the South. Y. M. C. A.",
+   "status": "ok",
+   "confidence": 0.9645996689796448,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 757,
+    "y0": 1511,
+    "x1": 1275,
+    "y1": 2061
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 13,
+  "regions_after": 14,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.01,
+  "box_overlaps_after": 2,
+  "log": [
+   "drop r7 (text): non-latin hallucination 'حرَّجَة'",
+   "reshape r5 (text): lost 97% of its ink, gained 0%",
+   "reshape r11 (text): lost 87% of its ink, gained 0%",
+   "reread r5: 'WHAT TO\\nPERIODICALS. The Ma' -> 'PERIODICALS.'",
+   "reread r11: 'The Martyrdom of the Russian Jew. Herman' -> 'The Martyrdom of the Russian Jew. Herman'",
+   "split r3 at y=288 before \"CHAS. SUMNER'S CENTENNIAL\"",
+   "split r3b at y=376 before 'COMPELLED TO DANCE'"
+  ]
+ }
+}

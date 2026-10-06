@@ -1,0 +1,113 @@
+{
+  "page": 36,
+  "image": "images/page_36.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 296,
+        "y0": 114,
+        "x1": 871,
+        "y1": 178
+      },
+      "text": "WHAT TO READ",
+      "status": "ok",
+      "confidence": 0.7179682850837708,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 176,
+        "y0": 236,
+        "x1": 573,
+        "y1": 613
+      },
+      "text": "BOOKS.\n\nHolm, J. J.—\"Race Assimilation; or, The Fading Leopard's Spots.\" J. L. Nichols & Co., Atlanta, Ga.\n\nJohnston, Sir H. H.—\"Opening Up of Africa.\" Williams & Norgate, London.\n\nKaler, James Otis—\"With Sherman to the Sea: a Boy's Story of Gen. Sherman's Famous March and Capture of Savannah.\" A. L. Burt Company.\n\nMcBryde, J. McLaren—\"Brer Rabbit in the Folk-Tales of the Negro and Other Races.\" Sewanee (Tenn.) University Press.\n\nThis is a study of the rabbit and the fox and the other creatures made famous in Joel Chandler Harris' books in the folk-lore not only of the South but of other countries.\n\n\"The Photographic History of the Civil War; Thousands of Scenes Photographed, 1861-65, with Text by Many Special Authorities.\" Edited by F. Trevelyan Miller. New York Review of Reviews Company.\n\n\"Whittier's Correspondence from the Oak Knoll Collections, 1830-92.\" Edited by J. Albree, Salem, Mass. Essex Book and Print Club.",
+      "status": "ok",
+      "confidence": 0.9707911014556885,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 177,
+        "y0": 644,
+        "x1": 575,
+        "y1": 1205
+      },
+      "text": "PERIODICALS.\n\n\"A Distinguished Negro.\" Outlook, June 24.\n\"Dick.\" Major A. R. H. Ranson. Harper's, July.\n\"Equality: A Study in Social Philosophy.\" Robert Gunn Davis. The Westminster Review, June.\n\"Forty Years of Freedom: The Progress of the American Negro Since the Civil War.\" W. E. B. DuBois. Missionary Review, June.\n\"In Love-Lady Court.\" L. Frank Tooker. Everybody's, July.\n\"Recent Geographic Advances in Africa.\" A. W. Greely. National Geographic Magazine. April.\n\"The Direct Election of Senators.\" Coe I. Crawford. Independent, June 22.\n\"The Indelible Stain.\" Independent, June 22.\n\"The Man Farthest Down: Child Labor and the Sulphur Mines.\" Booker T. Washington. Outlook, June 17.\n\"The Man Farthest Down: The Women Who Work in Europe.\" Booker T. Washington. Outlook, July 1.\n\"The Unlimited Franchise.\" Max Eastman. Atlantic, July.\n\"Thomas Wentworth Higginson.\" Edwin D. Mead. New England Magazine, May.\n\"What the Orient Can Teach Us.\" Clarence Poe. World's Work, July.\n\"Wreckers of the Florida Keys.\" George Harding. Harper's, July.\n\nHARRIET BEECHER STOWE.\n\n\"Life of Harriet Beecher Stowe.\" By Charles Edward and Lyman Beecher Stowe. Houghton-Mifflin Co., Boston. Illustrated. $1.50.",
+      "status": "ok",
+      "confidence": 0.9735310077667236,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 179,
+        "y0": 1205,
+        "x1": 575,
+        "y1": 1436
+      },
+      "text": "The \"Life of Harriet Beecher Stowe,\" by her son, Charles Edward Stowe, and her grandson, Lyman Beecher Stowe, is a volume of unusual interest. The publication of this biography marks the centenary of the remarkable little woman \"as thin and dry as a pinch of snuff,\" who amid the difficulties of continued poverty and ill-health brought into the world and reared a family of seven children, yet found time to write thirty books in addition to \"short stories, essays, letters of",
+      "status": "ok",
+      "confidence": 0.9720373153686523,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 598,
+        "y0": 237,
+        "x1": 998,
+        "y1": 662
+      },
+      "text": "travel and magazine articles well-nigh innumerable.\"\nThose of us who as children wept over \"Uncle Tom's Cabin\" and wondered if it could be \"really true\" are both pleased and saddened to learn the stories of the real Legree, Eliza and Topsy. Here, too, we find an account of absorbing interest—an account of the incidents and events in the life of Harriet Beecher Stowe that aroused in her the burning indignation against \"man's inhumanity to man\" which could not rest until it had written itself down in an epoch-making protest against the institution of chattel slavery. The sense of having a mission in the world was a dominant characteristic of Harriet Beecher Stowe. Accordingly, in her writings we find \"the artist dominated by the preacher and reformer. 'Uncle Tom's Cabin' was to her a sermon hurled against a great moral evil.\"",
+      "status": "ok",
+      "confidence": 0.9353269338607788,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 599,
+        "y0": 663,
+        "x1": 999,
+        "y1": 1262
+      },
+      "text": "The influence of \"Uncle Tom's Cabin\" and \"The Reply to the Address from the Women of England\" upon public opinion in both America and Europe was prodigious. A tribute to the influence of the former was President Lincoln's greeting to Mrs. Stowe on meeting her for the first time: \"So you're the little woman who wrote the book that made this great war!\"\n\nThe American public is less familiar with \"The Reply to the Address from the Women of England,\" yet its influence brought about results hardly second in importance to those produced by \"Uncle Tom's Cabin\" itself. This reply \"did much to prevent armed intervention (by England) in behalf of the Confederacy, and it was one of the great influences that changed the sentiment of the English people toward the Confederacy.\"\n\nThus to a frail overburdened Yankee woman with a steadfast moral purpose we Americans, both black and white, owe our gratitude for the freedom and the union that exist to-day in these United States.\n\nDr. Chas. A. Eastman, the Sioux Indian, in his new book, \"The Soul of the Indian,\" says:",
+      "status": "ok",
+      "confidence": 0.969190776348114,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 601,
+        "y0": 1263,
+        "x1": 1001,
+        "y1": 1438
+      },
+      "text": "\"Long before I ever heard of Christ, or saw a white man, I had learned from an untutored woman the essence of morality. With the help of dear Nature herself, she taught me things simple but of mighty import. I knew God. I perceived what goodness is. I saw and loved what is really beautiful. Civilization has not taught me anything better.",
+      "status": "ok",
+      "confidence": 0.8321348428726196,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.0,
+    "at": "2026-10-06T22:14:38+00:00"
+  }
+}

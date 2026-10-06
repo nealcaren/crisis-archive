@@ -1,0 +1,211 @@
+{
+  "page": 10,
+  "image": "images/page_10.jpg",
+  "width": 1371,
+  "height": 2070,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 713,
+        "y0": 199,
+        "x1": 1226,
+        "y1": 425
+      },
+      "text": "soldiers and his detestation of the injustice done them at Brownsville. Thanks are due also to Mayor Gaynor, who insists that civil service rules shall be respected. The appointment of Battle to the police force after he had passed a creditable examination was only an act of justice, but it is just this justice that the Negro desires.",
+      "status": "ok",
+      "confidence": 0.9743059873580933,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 172,
+        "y0": 200,
+        "x1": 678,
+        "y1": 567
+      },
+      "text": "city, but as it is one and three-fourths miles from Brown's home he refuses to send his children to that school and the board of education will not admit them to the white school near his home. The board of education has prosecuted Brown for not sending his children to school. In spite of the broiling heat the municipal games for colored boys in Washington were successfully held on the Howard University campus on July 4. The papers remark that the boys were in such good physical shape that only one was affected by the abnormal heat.",
+      "status": "ok",
+      "confidence": 0.9686838984489441,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 712,
+        "y0": 440,
+        "x1": 1225,
+        "y1": 939
+      },
+      "text": "Mayor Lambert, of East St. Louis, has announced that when the appropriation budget for 1912 is made up, it will include an item to be used for the establishment of a combination fire and police station to be manned by colored men. This station will be in the Negro section of the city, and the fire-fighters and policemen will deal solely with Negro citizens and Negro property. At this time there are no colored men in the municipal service, except the City Hall and police headquarters janitors, and four special officers, who work solely with their own race. \"I feel that it is fair and just to both Negroes and whites that the Negro fire and police station be established, because of the number of Negro voters and taxpayers in the city,\" Mayor Lambert said.",
+      "status": "ok",
+      "confidence": 0.9786660671234131,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 585,
+        "x1": 677,
+        "y1": 1051
+      },
+      "text": "A thirteen-year-old colored girl in the San Juan district captured the highest of the several prizes offered in New York by the fly-fighting committee of the American Civic Association for the best essays on \"The House Fly as a Carrier of Disease,\" written by school children. Wille Henderson, the lucky little girl, got a ten-dollar gold piece for her essay, which is an eloquent arraignment of the dangerous fly. \"If we only believed,\" she writes, in her painstaking roundhand, \"that the filthy fly was the germ carrier we would not spend so much time disinfecting ourselves and avoiding the houses or streets in which disease may be found. Instead we would clean our rooms, make our homes sanitary and inspect the shops from which we buy our food.\"",
+      "status": "ok",
+      "confidence": 0.9723058938980103,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 713,
+        "y0": 954,
+        "x1": 1223,
+        "y1": 1179
+      },
+      "text": "President R. R. Wright, president of the Georgia State College and of the Colored State Fair Association, has received offers of prizes from railroads for the best exhibit grown along their lines and shown at the fair next November. One railroad gives prizes of $100 and $60, another of $75 and $50, and several other roads are likely to follow suit.",
+      "status": "ok",
+      "confidence": 0.8996994495391846,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 1157,
+        "x1": 677,
+        "y1": 1329
+      },
+      "text": "The first colored policeman appointed to the police force of Greater New York has been named by Police Commissioner Rhinelander Waldo. His name is Samuel J. Battle; he is six feet tall, weighs 230 pounds, and is twenty-eight years old.",
+      "status": "ok",
+      "confidence": 0.9766174554824829,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 713,
+        "y0": 1194,
+        "x1": 1222,
+        "y1": 1368
+      },
+      "text": "The colored people of Hartford, a city in which, as in Providence, there are many of the race, have combined to buy a farm near the city, on which they will care for the wayward youths of their community and provide profitable work for them.",
+      "status": "ok",
+      "confidence": 0.9744632244110107,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 1330,
+        "x1": 677,
+        "y1": 1600
+      },
+      "text": "Commissioner Waldo, in addressing a group of forty-four men newly appointed to the period of one month's probation; called attention to the fact that there was a colored man among them. \"I am glad to see that there is a representative of the Negro race trying to become a policeman,\" he said. \"He was on the civil service list, and no color or race condition could have prevented his appointment.\"",
+      "status": "ok",
+      "confidence": 0.9785745143890381,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 713,
+        "y0": 1472,
+        "x1": 1225,
+        "y1": 1948
+      },
+      "text": "Public opinion in the State of Georgia seems somewhat aroused over a recent lynching and it is possible the offenders may be prosecuted. Two colored men had been arrested, Allen for an alleged attack on a white woman, and Watts for \"loitering\" nearby in a \"suspicious manner.\" Judge Charles H. Brand ordered Allen brought to Monroe for trial. It was known that the citizens had organized to lynch the man and Governor Brown asked Judge Brand if he wanted troops at the trial. Judge Brand returned an evasive answer and referred the Governor to Sheriff Stark. The latter said that Judge Brand would have to ask for troops. No word came, and the man was sent to Walton County in charge of two officers. The train was stopped by a",
+      "status": "ok",
+      "confidence": 0.9781313538551331,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 172,
+        "y0": 1601,
+        "x1": 678,
+        "y1": 1948
+      },
+      "text": "Commissioner Waldo, in his appointment of a colored man to the police force, has continued a policy consistent with his former conduct. The Negroes of the city have long known him as a believer in justice to the colored race. The Commissioner is a Spanish war veteran who saw colored troops under action and who appreciated and remembered their fine discipline and courage. When two years ago he ran for Congress in the Fifteenth Congressional District, he won many Negro votes because of his unquestioned admiration of the Negro",
+      "status": "ok",
+      "confidence": 0.976237416267395,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 170,
+        "y0": 135,
+        "x1": 219,
+        "y1": 162
+      },
+      "text": "142",
+      "status": "ok",
+      "confidence": 0.8440124988555908,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 301,
+        "y0": 1113,
+        "x1": 548,
+        "y1": 1142
+      },
+      "text": "SOCIAL UPLIFT.",
+      "status": "ok",
+      "confidence": 0.8996040225028992,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 585,
+        "y0": 133,
+        "x1": 794,
+        "y1": 164
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8647888898849487,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 915,
+        "y0": 1428,
+        "x1": 1020,
+        "y1": 1457
+      },
+      "text": "CRIME.",
+      "status": "ok",
+      "confidence": 0.886660099029541,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.0,
+    "at": "2026-10-06T22:10:55+00:00"
+  }
+}

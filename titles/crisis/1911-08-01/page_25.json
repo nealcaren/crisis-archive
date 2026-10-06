@@ -1,0 +1,113 @@
+{
+  "page": 25,
+  "image": "images/page_25.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 203,
+        "y0": 138,
+        "x1": 729,
+        "y1": 202
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.8744385838508606,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 59,
+        "y0": 257,
+        "x1": 455,
+        "y1": 695
+      },
+      "text": "IF THOSE Americans who have long since said the last word concerning the races of men and their proper relations will read the papers laid before the First Universal Races Congress, they will realize that America is fifty years behind the scientific world in its racial philosophy. Before the publication of this epoch-making volume, THE CRISIS would not dare to express the statements which are contained therein. The leading scientists of the world have come forward in this book and laid down in categorical terms a series of propositions which may be summarized as follows:",
+      "status": "ok",
+      "confidence": 0.9755998849868774,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 63,
+        "y0": 699,
+        "x1": 456,
+        "y1": 1276
+      },
+      "text": "1. (a) It is not legitimate to argue from differences in physical characteristics to differences in mental characteristics. (b) The mental characteristics differentiating a particular people or race are not (1) unchangeable, or (2) modifiable only through long ages of environmental pressure; but (3) marked improvements in mass education, in public sentiment, and in environment generally, may, apart from intermarriage—as the history of many a country proves—materially transform mental characteristics in a generation or two.\n2. The civilization of a people or race at any particular moment of time offers no index to its innate or inherited capacities. In this respect it is of great importance to recognize that in the light of universal history civilizations are meteoric in nature, bursting out of relative obscurity only to plunge back into it.",
+      "status": "ok",
+      "confidence": 0.9749045372009277,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 62,
+        "y0": 1280,
+        "x1": 456,
+        "y1": 1449
+      },
+      "text": "3. (a) One ought to combat the irreconcilable contention prevalent among the various groups of mankind that their customs, their civilization, and their physique are superior to those of other groups. (b) In explanation of existing differences it would",
+      "status": "ok",
+      "confidence": 0.9685479998588562,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 480,
+        "y0": 260,
+        "x1": 876,
+        "y1": 499
+      },
+      "text": "be pertinent to refer to the special needs arising from peculiar geographical and economic conditions and to related divergencies in national history; and, in explanation of the attitude of superiority assumed, it should be shown that intimacy leads to a love of our own customs, and unfamiliarity, among precipitate reasoners, to dislike and contempt for others' customs.",
+      "status": "ok",
+      "confidence": 0.9731172919273376,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 480,
+        "y0": 506,
+        "x1": 875,
+        "y1": 863
+      },
+      "text": "4. (a) Divergencies in economic, hygienic, moral and educational standards are potent causes in keeping peoples apart who commercially or otherwise come in contact with each other, just as they keep classes apart. (b) These differences, like social differences generally, are in substance almost certainly due to passing social conditions, and not to inborn characteristics; and the aim should therefore be, as in social differences generally, to remove these differences rather than to accentuate them by regarding them as fixed.",
+      "status": "ok",
+      "confidence": 0.9754368662834167,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 482,
+        "y0": 868,
+        "x1": 876,
+        "y1": 1447
+      },
+      "text": "5. (a) The deepest cause of misunderstandings between peoples is perhaps the tacit assumption that the present characteristics of a people are the expression of permanent qualities. (b) If this is so, anthropologists, sociologists and scientific thinkers as a class could powerfully assist the movement for a juster appreciation of peoples by persistently pointing out in their lectures and in their works the fundamental fallacy involved in taking a static instead of a dynamic, a momentary instead of a historic, a fixed instead of a comparative, point of view of peoples; (c) and such dynamic teaching could be conveniently introduced into schools, more especially in the geography and history lessons, also into colleges for the training of teachers, diplomats, Colonial administrators, preachers and missionaries. 6. (a) The belief in racial or national superiority is largely due, as is",
+      "status": "ok",
+      "confidence": 0.9787887334823608,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.7,
+    "at": "2026-10-06T22:13:06+00:00"
+  }
+}

@@ -1,0 +1,533 @@
+{
+ "page": 37,
+ "image": "images/page_37.jpg",
+ "width": 1070,
+ "height": 1618,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 53.7,
+  "at": "2026-10-06T22:02:06+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 383,
+    "y0": 98,
+    "x1": 609,
+    "y1": 122
+   },
+   "text": "WHAT TO READ",
+   "status": "ok",
+   "confidence": 0.8778297901153564,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 381,
+    "y0": 96,
+    "x1": 607,
+    "y1": 121
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 509,
+    "y0": 149,
+    "x1": 906,
+    "y1": 270
+   },
+   "text": "achievements of the race in other parts of the globe that such people content themselves with repeating words of prejudiced origin, which have long since lost significance, and with seeing people content themselves with seeing in the Negro only with repeating words of a beast or a half-man.\"",
+   "status": "ok",
+   "confidence": 0.9629956483840942,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 507,
+    "y0": 148,
+    "x1": 904,
+    "y1": 264
+   },
+   "exclude": [
+    [
+     531,
+     252,
+     549,
+     281,
+     "r3"
+    ],
+    [
+     657,
+     266,
+     666,
+     281,
+     "r3"
+    ],
+    [
+     711,
+     266,
+     715,
+     281,
+     "r3"
+    ],
+    [
+     718,
+     266,
+     720,
+     269,
+     "r3"
+    ],
+    [
+     732,
+     266,
+     734,
+     269,
+     "r3"
+    ],
+    [
+     758,
+     266,
+     761,
+     281,
+     "r3"
+    ],
+    [
+     795,
+     266,
+     804,
+     281,
+     "r3"
+    ],
+    [
+     846,
+     266,
+     849,
+     269,
+     "r3"
+    ],
+    [
+     862,
+     266,
+     866,
+     281,
+     "r3"
+    ],
+    [
+     649,
+     269,
+     655,
+     281,
+     "r3"
+    ],
+    [
+     724,
+     269,
+     729,
+     281,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 88,
+    "y0": 179,
+    "x1": 486,
+    "y1": 1067
+   },
+   "text": "Ashley, Clifford W.—\"A Corner in Four-Posters.\" Scribner's, June.\nBeymer, William Gilmore—\"Miss Van Lew.\" Harper's, June.\nMiss Van Lew, a Richmond woman, was a spy for the Federal government. General Grant wrote to her, \"You have sent me the most valuable information received from Richmond during the war.\"\nBrooks, R. P.—\"A Local Study of the Race Problem: Race Relations in the Eastern Piedmont Region of Georgia.\" Political Science Quarterly, June.\nBruere, Robert W.—\"Hospital Social Service.\" Harper's, June.\nJones, Samuel B.—\"The British West Indian Negro: Reconstruction.\" Southern Workman, June.\nKing, General Charles—\"The Volunteer Soldier of 1861.\" Review of Reviews, June.\nRitzman, M. E.—\"Woman's Life in Africa.\" The Missionary Review, June.\nSledd, Andrew—\"The Dismissal of Prof. Banks.\" Independent, May 25.\nSpeers, M. W. F.—\"Negro Songs and Folk-Lore.\" The Journal of American Folk-Lore, Oct.-Dec., 1910.\nStowe, Charles Edward—\"Harriet Beecher Stowe: Friend of the South.\" Outlook, June 10.\nThomas, David Y.—\"Southern Non-Slaveholders in the Election of 1860.\" Political Science Quarterly, June.\nTourtellot, Ida A.—\"The Conference for Education in the South.\" Southern Workman, June.\nWashington, Booker T.—\"How Denmark Has Taught Itself Prosperity and Happiness.\" World's Work, June.\nWashington, Booker T.—\"Life and Labor on the Continent.\" Outlook, May 13.\nWashington, Booker T.—\"Races and Politics.\" Outlook, June 3.",
+   "status": "ok",
+   "confidence": 0.965043842792511,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 88,
+    "y0": 169,
+    "x1": 484,
+    "y1": 1068
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 509,
+    "y0": 250,
+    "x1": 906,
+    "y1": 322
+   },
+   "text": "Concerning the political and social organization of the Negro peoples of Africa the author writes as follows:",
+   "status": "ok",
+   "confidence": 0.9399124979972839,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 509,
+    "y0": 264,
+    "x1": 905,
+    "y1": 321
+   },
+   "exclude": [
+    [
+     512,
+     247,
+     526,
+     262,
+     "r1"
+    ],
+    [
+     605,
+     247,
+     609,
+     262,
+     "r1"
+    ],
+    [
+     795,
+     247,
+     800,
+     262,
+     "r1"
+    ],
+    [
+     855,
+     247,
+     858,
+     253,
+     "r1"
+    ],
+    [
+     860,
+     247,
+     863,
+     252,
+     "r1"
+    ],
+    [
+     654,
+     248,
+     673,
+     262,
+     "r1"
+    ],
+    [
+     766,
+     248,
+     770,
+     262,
+     "r1"
+    ],
+    [
+     789,
+     248,
+     792,
+     262,
+     "r1"
+    ],
+    [
+     696,
+     250,
+     701,
+     262,
+     "r1"
+    ],
+    [
+     529,
+     252,
+     537,
+     262,
+     "r1"
+    ],
+    [
+     551,
+     252,
+     558,
+     262,
+     "r1"
+    ],
+    [
+     559,
+     252,
+     569,
+     263,
+     "r1"
+    ],
+    [
+     581,
+     252,
+     591,
+     262,
+     "r1"
+    ],
+    [
+     594,
+     252,
+     603,
+     262,
+     "r1"
+    ],
+    [
+     611,
+     252,
+     621,
+     268,
+     "r1"
+    ],
+    [
+     633,
+     252,
+     642,
+     262,
+     "r1"
+    ],
+    [
+     675,
+     252,
+     684,
+     262,
+     "r1"
+    ],
+    [
+     686,
+     252,
+     694,
+     262,
+     "r1"
+    ],
+    [
+     714,
+     252,
+     723,
+     262,
+     "r1"
+    ],
+    [
+     726,
+     252,
+     732,
+     262,
+     "r1"
+    ],
+    [
+     745,
+     252,
+     753,
+     262,
+     "r1"
+    ],
+    [
+     771,
+     252,
+     775,
+     262,
+     "r1"
+    ],
+    [
+     777,
+     252,
+     786,
+     262,
+     "r1"
+    ],
+    [
+     809,
+     252,
+     825,
+     262,
+     "r1"
+    ],
+    [
+     827,
+     252,
+     836,
+     262,
+     "r1"
+    ],
+    [
+     838,
+     252,
+     847,
+     262,
+     "r1"
+    ],
+    [
+     802,
+     256,
+     808,
+     258,
+     "r1"
+    ],
+    [
+     850,
+     259,
+     853,
+     262,
+     "r1"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "Concerning the political and social organization of the Negro peoples of Africa the author writes as follows:",
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 509,
+    "y0": 321,
+    "x1": 906,
+    "y1": 880
+   },
+   "text": "\"The comparison of Negro Africa with contemporary Medieval Europe is most interesting and political phenomena in both regions of the globe at that time are strikingly similar. Parallels for the feudal system, the rise and development of the judiciary, the evolution of international law, the role of the market and the fair, and many other things could as well be studied in the one as in the other. The rise of innumerable small States and their ultimate consolidation into large kingdoms and extensive empires are equally characteristic of both. Negro Africa, too, at this period, and since then also, has in like manner produced kings and political organizers, who have been men of genius possessing great personalities, and ranking in character and ability with the princes and sovereigns of Europe at the time. Men like King Askia of Songhai and Bello, the Sultan of Katsena, who has been called 'the Napoleon of the Sudan,' deserve rank among the great figures of the world's history.\"\n\nIn regard to the art of the Negroes in Africa the writer says:",
+   "status": "ok",
+   "confidence": 0.9786005616188049,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 508,
+    "y0": 320,
+    "x1": 903,
+    "y1": 877
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 511,
+    "y0": 881,
+    "x1": 907,
+    "y1": 1338
+   },
+   "text": "\"Far from possessing no art, the African Negroes have created some of the most beautiful art objects to be found in any museum in the wide world. Dr. Frobenius, in his study of African civilizations, says: 'The African Negro need by no means resort to the rags and tatters of bygone European splendor. He has precious ornaments of his own, of ivory and feathers, fine plaited willowware, weapons of superior workmanship.' \"The ars artium, however, of Negro Africa is the use of iron. The question of the origin of the art of iron-smelting is now being treated in detail by ethnologists, and, while general agreement has not been reached, the mass of evidence so far disclosed has convinced eminent men of science that the smelting of iron was first discovered by the African Negroes, from whom, by way of Egypt and Asia Minor, this art made its way into Europe and the rest of the Old World.\"",
+   "status": "ok",
+   "confidence": 0.7294582724571228,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 509,
+    "y0": 880,
+    "x1": 904,
+    "y1": 1336
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "abandon",
+   "bbox": {
+    "x0": 88,
+    "y0": 1101,
+    "x1": 486,
+    "y1": 1510
+   },
+   "text": "\"The Contribution of the Negro to Human Civilization.\" Alexander Francis Chamberlain, Assistant Professor of Anthropology, Clark University, Worcester. Mass. The Journal of Race Development. April.\n\nWe give below a few of Prof. Chamberlain's illuminating statements in the Journal of Race Development, and we recommend the article in which they appear to the readers of THE CRISIS.\n\n\"Only individuals immune to the teachings of evolution could imagine that a race, millenniums old, and numbering today, after centuries of more or less brutal contact with the whites, more than 150,000,000, could have existed or could continue to exist, without in the slightest influencing the currents of human thought and action. It is with eyes blind to the results of the most recent investigations of the origin and the development of Negro culture in Africa, and to the",
+   "status": "ok",
+   "confidence": 0.9595741629600525,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 87,
+    "y0": 1099,
+    "x1": 485,
+    "y1": 1506
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 512,
+    "y0": 1369,
+    "x1": 910,
+    "y1": 1507
+   },
+   "text": "Sir Harry Johnston, writing in Nature (London) for March, says that the pygmies of Africa, if taken from the forest and subjected to other conditions of living, will after two or three generations develop a stature much nearer that of the average man.",
+   "status": "ok",
+   "confidence": 0.874841570854187,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 510,
+    "y0": 1367,
+    "x1": 909,
+    "y1": 1505
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "title",
+   "bbox": {
+    "x0": 202,
+    "y0": 151,
+    "x1": 371,
+    "y1": 171
+   },
+   "text": "PERIODICALS.",
+   "status": "ok",
+   "confidence": 0.8867788910865784,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 201,
+    "y0": 148,
+    "x1": 369,
+    "y1": 171
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "abandon",
+   "bbox": {
+    "x0": 868,
+    "y0": 97,
+    "x1": 905,
+    "y1": 119
+   },
+   "text": "125",
+   "status": "ok",
+   "confidence": 0.850216805934906,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 865,
+    "y0": 96,
+    "x1": 903,
+    "y1": 117
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.3,
+  "box_overlaps_after": 2,
+  "log": [
+   "reshape r3 (plain_text): lost 0% of its ink, gained 4%",
+   "reread r3: 'Concerning the political and social orga' -> 'Concerning the political and social orga'"
+  ]
+ }
+}

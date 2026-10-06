@@ -1,0 +1,197 @@
+{
+  "page": 15,
+  "image": "images/page_15.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 365,
+        "y0": 87,
+        "x1": 651,
+        "y1": 111
+      },
+      "text": "MEN OF THE MONTH",
+      "status": "ok",
+      "confidence": 0.8862080574035645,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 525,
+        "y0": 138,
+        "x1": 920,
+        "y1": 236
+      },
+      "text": "a large part of the credit for the work of the vigilance committee so far. An account of some of the cases taken up by the branch is given under Association notes.",
+      "status": "ok",
+      "confidence": 0.9607152342796326,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 112,
+        "y0": 141,
+        "x1": 491,
+        "y1": 751
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9737772345542908,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 526,
+        "y0": 291,
+        "x1": 920,
+        "y1": 556
+      },
+      "text": "We give this month the photograph of Mr. Robert N. Wood, the leader of the New York State Democracy, in connection with the success of the colored people in obtaining the long desired Negro regiment. During the last election Mr. Wood's organization did signal service to the Democratic party in sending out literature and in getting the colored men to vote the ticket. Over 250,000 circulars were distributed and there is no doubt but that the colored vote materially helped to elect Governor Dix.",
+      "status": "ok",
+      "confidence": 0.976392388343811,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 525,
+        "y0": 558,
+        "x1": 918,
+        "y1": 1013
+      },
+      "text": "Among the demands made at the time was one for a colored regiment. The Democratic party was virtually pledged to give such an organization. When the election was won the colored Democrats asked for the regiment and made it clear that colored officers only would be accepted. The bill was introduced in the Albany Assembly and was lost, at first, largely owing to the fact that officers in the National Guard rank according to length of service, and it is therefore inevitable that at some future day a colored colonel will take official precedence of a white colonel and the colored man's wife of the white man's wife. On the defeat of the bill Mr. Wood conferred with the leaders of the Democratic party in the State, who urged the Legislature that the measure be reconsidered and the promise of the party to the Negro be kept. The bill was reintroduced and passed, although the governor has not yet signed it.",
+      "status": "ok",
+      "confidence": 0.9792044162750244,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 104,
+        "y0": 809,
+        "x1": 498,
+        "y1": 1040
+      },
+      "text": "chapter in the new \"Cambridge History of English Literature,\" published by the Cambridge University Press, England. Professor Spingarn has always been deeply interested in the colored race as a race and in its struggle for justice and equal opportunity as an ideal. Last year he founded a little club for the colored men living near his country home at Amenia, Dutchess County, N. Y., the \"Heart of Hope Club,\" with its own ritual of initiation, clubhouse, etc.",
+      "status": "ok",
+      "confidence": 0.9753774404525757,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 523,
+        "y0": 1015,
+        "x1": 917,
+        "y1": 1279
+      },
+      "text": "For sixteen years the colored citizens of the State have been trying to get a regiment of their own. When, at the outbreak of the Spanish-American war, a committee of colored men called on Governor Black and asked that a colored regiment be formed they were told that the Negro was not called on to show his patriotism. Governor Hughes, when a similar request was made, referred it to a committee which said nothing about it and later sent it to the Adjutant-General who disapproved it because of \"social complications.\"",
+      "status": "ok",
+      "confidence": 0.9764041304588318,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 102,
+        "y0": 1083,
+        "x1": 497,
+        "y1": 1338
+      },
+      "text": "GILCHRIST STEWART.\nMr. Gilchrist Stewart, a young business man and the chairman of the vigilance committee of the New York branch of the National Association for the Advancement of Colored People, was born in New York and received his first education in the city's public schools. Later he went to Tuskegee Institute and to Claflin University. He began the fight for the Brownsville soldiers under the auspices of the Constitution League and went to the spot to investigate.",
+      "status": "ok",
+      "confidence": 0.976381242275238,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1281,
+        "x1": 916,
+        "y1": 1492
+      },
+      "text": "Mr. Wood is a good fighter and a born leader, as one must be to hold his position. He was born in Washington and was educated in the New York City public schools. To this education he adds information acquired by extensive reading, especially \"along the color line.\" He is a very ardent advocate of the rights of the colored man and is one of the most active members of the National Association.",
+      "status": "ok",
+      "confidence": 0.9656829833984375,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 100,
+        "y0": 1339,
+        "x1": 496,
+        "y1": 1491
+      },
+      "text": "Mr. Stewart was for some time a member of the Republican County Committee and other political organizations. He has been identified with a good many movements for the betterment of the condition of the colored people on the west side. In the matter of the New York branch the president hands to him",
+      "status": "ok",
+      "confidence": 0.9741854667663574,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 220,
+        "y0": 765,
+        "x1": 386,
+        "y1": 784
+      },
+      "text": "ROBERT N. WOOD",
+      "status": "ok",
+      "confidence": 0.6721829175949097,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 881,
+        "y0": 88,
+        "x1": 919,
+        "y1": 109
+      },
+      "text": "147",
+      "status": "ok",
+      "confidence": 0.8505098223686218,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 614,
+        "y0": 264,
+        "x1": 832,
+        "y1": 287
+      },
+      "text": "ROBERT N. WOOD.",
+      "status": "ok",
+      "confidence": 0.9044542908668518,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.5,
+    "at": "2026-10-06T22:11:38+00:00"
+  }
+}

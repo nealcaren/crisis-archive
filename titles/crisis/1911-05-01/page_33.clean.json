@@ -1,0 +1,575 @@
+{
+ "page": 33,
+ "image": "images/page_33.jpg",
+ "width": 1374,
+ "height": 2082,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.8,
+  "at": "2026-10-06T21:42:50+00:00"
+ },
+ "regions": [
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 112,
+    "y0": 230,
+    "x1": 1165,
+    "y1": 371
+   },
+   "text": "The Fight for Liberty in St. Lucia\nBy ARTHUR A. SCHOMBURG",
+   "status": "ok",
+   "confidence": 0.9265053272247314,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 115,
+    "y0": 225,
+    "x1": 1158,
+    "y1": 369
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 114,
+    "y0": 404,
+    "x1": 628,
+    "y1": 728
+   },
+   "text": "MUCH has been told of Haiti's fight for liberty under the inspiration of the doctrines of the French revolution, but little is known of the desperate struggle that took place about the same time in the island of St. Lucia. Unlike that in Haiti, it failed against superior numbers, though not before England had lost many men. To put down the blacks several years' time was necessary, and a number of distinguished soldiers were called into action, among them the famous Sir John Moore.",
+   "status": "ok",
+   "confidence": 0.9778971672058105,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 116,
+    "y0": 401,
+    "x1": 622,
+    "y1": 724
+   },
+   "exclude": [
+    [
+     149,
+     726,
+     167,
+     746,
+     "r3"
+    ],
+    [
+     214,
+     727,
+     230,
+     745,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 121,
+    "y0": 723,
+    "x1": 630,
+    "y1": 945
+   },
+   "text": "The French, at the beginning of the revolution in 1789, had proclaimed as their cardinal doctrines Liberty, Equality and Fraternity. The legislative assembly of March, 1792, had passed a bill according to free colored persons all the political rights held by white men, and confirming various earlier attempts along the same line.",
+   "status": "ok",
+   "confidence": 0.9761958122253418,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 120,
+    "y0": 725,
+    "x1": 625,
+    "y1": 943
+   },
+   "exclude": [
+    [
+     379,
+     703,
+     390,
+     725,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 123,
+    "y0": 944,
+    "x1": 632,
+    "y1": 1169
+   },
+   "text": "When the news of the legislature's action reached St. Lucia it created no end of turbulent discussion. To the whites it was a severe blow; to the slaves it was a star of hope, and to the free colored people, of whom, says Bryan Edwards, there were at that time 1,896, it seemed a sort of Magna Charta of Negro rights in the West Indies.",
+   "status": "ok",
+   "confidence": 0.976168692111969,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 123,
+    "y0": 944,
+    "x1": 627,
+    "y1": 1164
+   },
+   "exclude": [
+    [
+     153,
+     1167,
+     171,
+     1186,
+     "r5"
+    ],
+    [
+     457,
+     1167,
+     465,
+     1185,
+     "r5"
+    ],
+    [
+     497,
+     1167,
+     509,
+     1185,
+     "r5"
+    ],
+    [
+     545,
+     1167,
+     562,
+     1185,
+     "r5"
+    ],
+    [
+     616,
+     1167,
+     629,
+     1185,
+     "r5"
+    ],
+    [
+     174,
+     1168,
+     185,
+     1185,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 125,
+    "y0": 1164,
+    "x1": 634,
+    "y1": 1804
+   },
+   "text": "The pronouncements of the French revolution and the enthusiasm they created in the West Indies excited the dismay of England. Such doctrine should obviously not be allowed to spread, and she sent out an expedition of 100 transports with troops and stores and a strong convoy of men-of-war to the islands. Their purpose was announced as being to overcome the \"pseudo-philosophic decree of the National Assembly of France of the popular doctrine of Equality and the 'Rights of Man.'\" In the diary of Sir John Moore I find that \"the expedition on which Moore was now to be employed, under Sir Ralph Abercombrie, was designed for the reconquest of the West India Islands, partly from the French, but mainly from the insurgent Negroes, whom they had armed and made enthusiastic in their cause by the proclamation of universal and immediate emancipation.\" It was to prevent the Negroes from exercising any political \"coup d'etat\" and becoming a factor to be dealt with in the future.",
+   "status": "ok",
+   "confidence": 0.9718440771102905,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 123,
+    "y0": 1164,
+    "x1": 630,
+    "y1": 1801
+   },
+   "exclude": [
+    [
+     233,
+     1149,
+     246,
+     1166,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 128,
+    "y0": 1801,
+    "x1": 636,
+    "y1": 1881
+   },
+   "text": "The island of St. Lucia, toward which the expedition of Sir Ralph Abercrombie was directed, is one of the most charming",
+   "status": "ok",
+   "confidence": 0.9551042318344116,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 126,
+    "y0": 1802,
+    "x1": 630,
+    "y1": 1877
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 657,
+    "y0": 402,
+    "x1": 1168,
+    "y1": 899
+   },
+   "text": "spots in the tropics. It has the beautiful and safe harbor of Castries, the principal town, around which the hills rise, called mornes by the St. Lucians. When Abercrombie reached Castries he had with him 12,000 troops and the support of a naval squadron. It had been agreed to surprise the islanders by a moonlight attack and every detail had been worked out to a nicety. French engineers, with the assistance of two thousand well-disciplined Negro soldiers, together with a number of useful blacks and some whites under Goyrand, had skilfully fortified the mornes from a place called Grosilet to Castries, and had crowned the earthworks with the memorable citadel Morne Fortunee, destined to become a synonym for tenacity and gallantry.",
+   "status": "ok",
+   "confidence": 0.976969838142395,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 656,
+    "y0": 401,
+    "x1": 1163,
+    "y1": 893
+   },
+   "exclude": [
+    [
+     688,
+     896,
+     706,
+     914,
+     "r8"
+    ],
+    [
+     709,
+     897,
+     721,
+     915,
+     "r8"
+    ],
+    [
+     810,
+     897,
+     821,
+     915,
+     "r8"
+    ],
+    [
+     825,
+     896,
+     828,
+     899,
+     "r8"
+    ],
+    [
+     853,
+     896,
+     859,
+     915,
+     "r8"
+    ],
+    [
+     890,
+     897,
+     902,
+     915,
+     "r8"
+    ],
+    [
+     917,
+     897,
+     929,
+     915,
+     "r8"
+    ],
+    [
+     1010,
+     896,
+     1021,
+     915,
+     "r8"
+    ],
+    [
+     1067,
+     897,
+     1080,
+     914,
+     "r8"
+    ],
+    [
+     1153,
+     897,
+     1164,
+     915,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 657,
+    "y0": 893,
+    "x1": 1169,
+    "y1": 1163
+   },
+   "text": "Abercrombie landed some five thousand soldiers in three divisions and stormed the forts. The destruction was great. Again and again the attacking troops were sent over the wounded and dying bodies of their comrades in a determined attempt to carry the position. At length two of the smaller forts weakened and fell. The navy was busy meanwhile bombarding the battery which guarded the entrance to the harbor.",
+   "status": "ok",
+   "confidence": 0.9767181277275085,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 659,
+    "y0": 894,
+    "x1": 1165,
+    "y1": 1162
+   },
+   "exclude": [
+    [
+     720,
+     878,
+     734,
+     896,
+     "r7"
+    ],
+    [
+     815,
+     879,
+     828,
+     895,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 664,
+    "y0": 1161,
+    "x1": 1173,
+    "y1": 1386
+   },
+   "text": "At the Vigie Fort, an outpost of Morne Fortunee, Abercrombie attacked the position held by some 200 men, and carried it after much bloodshed and the loss of over 200 killed. It was no sooner occupied than the guns from the upper fort belched forth shower after shower of grape shot that \"threw the troops into confusion and they took to flight.\"",
+   "status": "ok",
+   "confidence": 0.9772827625274658,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 662,
+    "y0": 1163,
+    "x1": 1168,
+    "y1": 1382
+   },
+   "exclude": [
+    [
+     745,
+     1385,
+     748,
+     1388,
+     "r10"
+    ],
+    [
+     763,
+     1385,
+     765,
+     1388,
+     "r10"
+    ],
+    [
+     1122,
+     1384,
+     1125,
+     1388,
+     "r10"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 665,
+    "y0": 1381,
+    "x1": 1175,
+    "y1": 1807
+   },
+   "text": "Additional troops had now arrived from the other islands and they were landed; it was decided to rush the earthworks and assault the Morne Fortunee, which stood on a hill 800 feet on the south side of Castries, commanding a magnificent view of the surrounding country and the sea. The attack on the main line of defense called for the sublimest expression of courage and valor on both sides. As the bugle sounded to charge they entered the battleground unmindful of death; on one side the honor of England was at stake; on the other side the Negroes were fighting for their birthright, their heritage, their liberty.",
+   "status": "ok",
+   "confidence": 0.9781702160835266,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 663,
+    "y0": 1383,
+    "x1": 1173,
+    "y1": 1802
+   },
+   "exclude": [
+    [
+     891,
+     1367,
+     904,
+     1383,
+     "r9"
+    ],
+    [
+     1047,
+     1367,
+     1060,
+     1383,
+     "r9"
+    ],
+    [
+     843,
+     1805,
+     856,
+     1824,
+     "r11"
+    ],
+    [
+     901,
+     1805,
+     904,
+     1807,
+     "r11"
+    ],
+    [
+     931,
+     1805,
+     943,
+     1825,
+     "r11"
+    ],
+    [
+     959,
+     1805,
+     964,
+     1824,
+     "r11"
+    ],
+    [
+     1025,
+     1804,
+     1028,
+     1808,
+     "r11"
+    ],
+    [
+     1057,
+     1805,
+     1061,
+     1823,
+     "r11"
+    ],
+    [
+     1101,
+     1805,
+     1113,
+     1824,
+     "r11"
+    ],
+    [
+     1139,
+     1804,
+     1147,
+     1824,
+     "r11"
+    ],
+    [
+     694,
+     1806,
+     712,
+     1824,
+     "r11"
+    ],
+    [
+     741,
+     1806,
+     746,
+     1824,
+     "r11"
+    ],
+    [
+     803,
+     1806,
+     815,
+     1824,
+     "r11"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 666,
+    "y0": 1801,
+    "x1": 1176,
+    "y1": 1881
+   },
+   "text": "At length the citadel capitulated, for resistance was useless. But the Negroes remained inflexible, and not believing",
+   "status": "ok",
+   "confidence": 0.763024628162384,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 664,
+    "y0": 1803,
+    "x1": 1172,
+    "y1": 1878
+   },
+   "exclude": [
+    [
+     768,
+     1796,
+     771,
+     1803,
+     "r10"
+    ],
+    [
+     739,
+     1787,
+     752,
+     1804,
+     "r10"
+    ],
+    [
+     918,
+     1787,
+     931,
+     1804,
+     "r10"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 4.04,
+  "box_overlaps_after": 8,
+  "log": [
+   "drop r0 (abandon): empty ''"
+  ]
+ }
+}

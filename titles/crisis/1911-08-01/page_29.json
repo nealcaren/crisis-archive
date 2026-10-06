@@ -1,0 +1,127 @@
+{
+  "page": 29,
+  "image": "images/page_29.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 89,
+        "y0": 86,
+        "x1": 713,
+        "y1": 270
+      },
+      "text": "think there is a problem. The problem is a common problem of humanity—it is the problem of bad housing conditions, bad sanitary conditions, bad political conditions, bad industrial conditions, insufficient education, of both white and black. and has right to give more vital aid in this There are two o South, perhaps I sho who form a serious o and speedy solution problem. These are",
+      "status": "ok",
+      "confidence": 0.9737615585327148,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 91,
+        "y0": 273,
+        "x1": 485,
+        "y1": 699
+      },
+      "text": "The white Southerner will come to realize, I think, that what is good for any other race is good for the colored race. There is a growing company of white Southerners who feel that we want for our colored Southerner every advantage and every help, every advancement that has been found to be good for any other handicapped race. The time has gone by, if it ever existed, when there was but one type of Southerner, with but one kind of a political and social creed.\n\nUnfortunately, until comparatively recent times there has been, with one or two notable exceptions, but one kind of Southerner who talked. But the silent minority, silent because speech was useless, has always been larger, I think, than is generally realized, and silence has not prevented thinking. And the thinking begins very early sometimes.",
+      "status": "ok",
+      "confidence": 0.9773703217506409,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 91,
+        "y0": 701,
+        "x1": 486,
+        "y1": 1030
+      },
+      "text": "The little daughter of a friend of mine,\na child between four and five years old,\nwas watching one of the colored women\nwashing up the hearth in the nursery\none morning. The woman sighed.\nLouise said, \"What make you do lak'\nthat, Viney?\"\n\"I reckon I'se tired, honey.\"\n\"What makin' you tired, Viney? Is it\n'cause you'se always washing up the\nhearth?\"\n\"I reckon so.\"\n\"Is you washing up the hearth all the\ntime 'cause you'se black, Viney?\"\n\"I reckon so.\"\n\"Oh, Viney, what's the matter with dis\nworl' anyhow!\"",
+      "status": "ok",
+      "confidence": 0.9716233015060425,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1035,
+        "x1": 486,
+        "y1": 1491
+      },
+      "text": "It is this \"insurgent\" element in the South that most needs the help and co-operative sympathy of the North—intelligent, farsighted and progressive co-operation. We feel that the beauty of desolation is all very well; but we like to be sympathized with for present conditions and not for past. We feel that the war was fought a very long time ago, before most of us were born. That forty-five years is a long time to be talking about it. We do not feel in a strong personal way the loss of wealth because we have never had it. We are like the mountaineer who when asked how he was getting on, said: \"Oh, tolerable; I'm still a-holding my own. I began with nothin' and I ain't got nothin' yit.\" What we do want is help to outgrow our prejudices and fears, our hysterical politics, which are the result of having had in our country an institution which we have had to defend to ourselves and to the outer world. The North could give,",
+      "status": "ok",
+      "confidence": 0.7932657599449158,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 867,
+        "y0": 86,
+        "x1": 903,
+        "y1": 107
+      },
+      "text": "161",
+      "status": "ok",
+      "confidence": 0.8311296105384827,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 510,
+        "y0": 136,
+        "x1": 907,
+        "y1": 579
+      },
+      "text": "and has right to give, a more certain, more vital aid in this direction.\n\nThere are two classes North and South, perhaps I should say one class, who form a serious obstacle to the right and speedy solution of our Southern problem. These are the charming people, the charming Southerner who makes one believe that nothing can be wrong in a social system where the people are so delightful. \"Just leave them alone! They know how to deal with their questions better than anyone else.\" This is the attitude toward them. There are also the charming, sympathetic Northern people who go down south for the winter or less, and say, almost with an air of virtue, \"If I lived in the South I should feel just as the Southerners feel.\" One is tempted to make the reply of the Italian official to Bismarck, \"The explanation is ample, the excuse is insufficient.\"",
+      "status": "ok",
+      "confidence": 0.9787381291389465,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 511,
+        "y0": 583,
+        "x1": 906,
+        "y1": 1076
+      },
+      "text": "I think the progressive party in the South needs, more than it has ever needed, the moral support of the North and its active assistance in a campaign of education. It is most discouraging to see many intelligent Northerners who would not for a moment tolerate in their own State, no matter what the cost, conditions they acquiesce in in the South, accepting the point of view of the least progressive, least thoughtful Southerners, permitting them unhesitatingly to dictate what shall be the attitude of Northerners in the North—sometimes even treating the aggressive prejudices of silly young Southern students as serious questions, instead of mere provincialisms soon worn off by contact with a broader world. One young Southern student at least received a much more wholesome and educative consideration. Soon after her arrival in the North, when her acquaintances were few and her social impulses many, a certain distinguished and delightful New Yorker said to her:",
+      "status": "ok",
+      "confidence": 0.9786182641983032,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 512,
+        "y0": 1084,
+        "x1": 906,
+        "y1": 1491
+      },
+      "text": "\"I am so sorry I can't ask you to come to the tea I am giving in my studio. There is to be a young colored artist there, just returned from Paris; knowing your feeling I thought it would be more polite not to ask you. Perhaps some other time, etc.\" The young take disappointments hard. The other time never came, and this particular student wondered somewhat wistfully if prejudice paid. Some way or other it didn't seem so fundamental to the preservation of society when she was excluded. If the young colored student had been debarred it would have seemed a patriotic virtue. The responsibility for race discrimination, whatever the race discriminated against, seems to lie largely upon people who do not hold themselves responsible and who can hardly be held responsible except through an enlightened public",
+      "status": "ok",
+      "confidence": 0.9683130383491516,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.2,
+    "at": "2026-10-06T22:13:42+00:00"
+  }
+}

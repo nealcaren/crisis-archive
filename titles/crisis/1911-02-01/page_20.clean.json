@@ -1,0 +1,387 @@
+{
+ "page": 20,
+ "image": "images/page_20.jpg",
+ "width": 1403,
+ "height": 2086,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.7,
+  "at": "2026-10-06T21:12:24+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 677,
+    "y0": 140,
+    "x1": 873,
+    "y1": 171
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8363277316093445,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 676,
+    "y0": 138,
+    "x1": 872,
+    "y1": 170
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 239,
+    "y0": 140,
+    "x1": 278,
+    "y1": 169
+   },
+   "text": "20",
+   "status": "ok",
+   "confidence": 0.8411138653755188,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 240,
+    "y0": 140,
+    "x1": 277,
+    "y1": 167
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 243,
+    "y0": 208,
+    "x1": 757,
+    "y1": 642
+   },
+   "text": "2. The Supreme Court of the United States has declared that a law which compels one man to work out an alleged debt to another on pain of committing a felony establishes peonage and is unconstitutional.\n3. The United States Circuit Court of Appeals has decided that a reservation in a deed precluding the sale of the property to colored persons at any future time is null and void.",
+   "status": "ok",
+   "confidence": 0.9538565874099731,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 241,
+    "y0": 207,
+    "x1": 755,
+    "y1": 641
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 243,
+    "y0": 643,
+    "x1": 757,
+    "y1": 1203
+   },
+   "text": "4. The decision of a New York court that the damages awarded a wrongfully accused Pullman porter were too high because he was a Negro and without feelings has been reversed by the Appellate Division of the Supreme Court of New York. In every one of these victories here recorded lies a sense of shame—to think that in the greatest republic of the twentieth century it should be necessary for a court to say that the color of a man's skin was not excuse for breaking solemn obligations; that slavery is illegal; that a decent human being is not a public nuisance and that there is still some difference between a thief and a Pullman porter.",
+   "status": "ok",
+   "confidence": 0.9773097038269043,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 244,
+    "y0": 643,
+    "x1": 753,
+    "y1": 1197
+   },
+   "exclude": [
+    [
+     388,
+     1202,
+     391,
+     1206,
+     "r4"
+    ],
+    [
+     738,
+     1202,
+     752,
+     1223,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 245,
+    "y0": 1199,
+    "x1": 757,
+    "y1": 1642
+   },
+   "text": "Yet, facing the shame, let us thank God. At last the courts of the United States have touched bottom in the race problem and are turning toward justice. After the Dred Scott decision, the emasculation of the Fourteenth Amendment and the Waterloo at Berea there were those of us who had come to definite decisions as to the United States Supreme bench. Here at last are glimmerings of a new dawn. Let the light grow and let us rejoice. SEPARATION.",
+   "status": "ok",
+   "confidence": 0.9769673347473145,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 245,
+    "y0": 1200,
+    "x1": 755,
+    "y1": 1642
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 245,
+    "y0": 1655,
+    "x1": 760,
+    "y1": 1971
+   },
+   "text": "IT IS a cruel mental strain to which honest colored men are being put to-day, particularly in the South. They want to come to terms with their neighbors. They are being urged to do this—urged by black leaders and white and by strong public opinion. The South sometimes is represented as aggressively friendly. They are seeking piteously, therefore,",
+   "status": "ok",
+   "confidence": 0.9747417569160461,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 244,
+    "y0": 1652,
+    "x1": 757,
+    "y1": 1966
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 787,
+    "y0": 204,
+    "x1": 1308,
+    "y1": 396
+   },
+   "text": "to agree with the dominant race and yet preserve something of their selfrespect. It is very difficult. Take, for instance, the letter of an honest colored man in the New Orleans Times-Democrat. He says:",
+   "status": "ok",
+   "confidence": 0.9706519246101379,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 789,
+    "y0": 204,
+    "x1": 1306,
+    "y1": 391
+   },
+   "exclude": [
+    [
+     1193,
+     394,
+     1197,
+     398,
+     "r7"
+    ],
+    [
+     1219,
+     394,
+     1222,
+     397,
+     "r7"
+    ],
+    [
+     1294,
+     394,
+     1302,
+     415,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 787,
+    "y0": 391,
+    "x1": 1305,
+    "y1": 829
+   },
+   "text": "Whatever may be the opinion of others concerning the drawing of the color line in the South, the thoughtful Negro has accepted it as a fixed principle, realizing that the race has absolutely nothing to fear or lose by social separation. Social intermingling has always meant social degradation to the less advanced element. It may set the minds of many people at rest to know that the Negro is willing and ready to meet the the most advanced thought of the South on its own ground.\"",
+   "status": "ok",
+   "confidence": 0.9778749346733093,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 788,
+    "y0": 392,
+    "x1": 1303,
+    "y1": 822
+   },
+   "exclude": [
+    [
+     1264,
+     828,
+     1267,
+     831,
+     "r8"
+    ],
+    [
+     1130,
+     372,
+     1145,
+     393,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 777,
+    "y0": 825,
+    "x1": 1305,
+    "y1": 1105
+   },
+   "text": "He then swallows segregation whole; he would accept separate stores, separate physicians and lawyers, separate schools, separate school superintendents, separate street cars all and complete, because, as he concludes: \"The Negro does not desire racial intermingling. All he wants is a square deal before the law.\"",
+   "status": "ok",
+   "confidence": 0.9763484001159668,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 782,
+    "y0": 824,
+    "x1": 1302,
+    "y1": 1099
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 786,
+    "y0": 1102,
+    "x1": 1306,
+    "y1": 1632
+   },
+   "text": "Precisely. But the thing that this black man would better ask himself good and hard is this: Is such separation physically and politically possible, and under it is there the slightest like lihood of the segregated getting \"a square deal\"? No. Such counsellors of surrender stand willing to sacrifice the foundations of democracy for peace. Why does the world ask equality? Out of personal bravado and impudence? No, but for self-protection. If you can separate people by color, you can separate them by birth, by wealth, by ability and any accident. This once done and democracy is dead before Privilege.",
+   "status": "ok",
+   "confidence": 0.9791810512542725,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 788,
+    "y0": 1103,
+    "x1": 1303,
+    "y1": 1624
+   },
+   "exclude": [
+    [
+     823,
+     1628,
+     845,
+     1649,
+     "r10"
+    ],
+    [
+     985,
+     1630,
+     998,
+     1651,
+     "r10"
+    ],
+    [
+     1051,
+     1630,
+     1064,
+     1651,
+     "r10"
+    ],
+    [
+     1119,
+     1630,
+     1122,
+     1633,
+     "r10"
+    ],
+    [
+     1126,
+     1631,
+     1140,
+     1652,
+     "r10"
+    ],
+    [
+     1191,
+     1631,
+     1196,
+     1652,
+     "r10"
+    ],
+    [
+     1273,
+     1631,
+     1276,
+     1634,
+     "r10"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 786,
+    "y0": 1625,
+    "x1": 1307,
+    "y1": 1973
+   },
+   "text": "Or turn to the other side: the white South does not want Separation, but Subordination. They do not want separate Negro schools, but Negro schools under the control of white superintendence who hold the purse strings. They do not want separate cars, but cars which Negroes may not enter save as servants. They do not want to stop social intermingling, but they do want to prescribe the conditions.",
+   "status": "ok",
+   "confidence": 0.9757412075996399,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 790,
+    "y0": 1627,
+    "x1": 1305,
+    "y1": 1967
+   },
+   "exclude": [
+    [
+     1222,
+     1608,
+     1236,
+     1629,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 5,
+  "log": []
+ }
+}

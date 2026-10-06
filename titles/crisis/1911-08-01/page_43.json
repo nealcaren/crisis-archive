@@ -1,0 +1,183 @@
+{
+  "page": 43,
+  "image": "images/page_43.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 205,
+        "y0": 95,
+        "x1": 791,
+        "y1": 312
+      },
+      "text": "e the Child a D\nBeautiful of All the Toys on the Market\nNEGRO DOLLS",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 75,
+        "y0": 318,
+        "x1": 897,
+        "y1": 768
+      },
+      "text": "YOUR child would be happy if it had a Negro doll such as are sent out by the National Negro Doll Company, Nashville, Tennessee. Every race is trying to teach their children an object lesson by giving them toys that will lead to higher intellectual heights. The Negro doll is calculated to help in the Christian development of our race. All dolls are sent by express, charges paid.\n\nDOLLS FOR THE SEASON 1911-1912 NOW READY\n\nPrices from 50c. up to $8.50\n\nFor Illustrated Booklets, Prices and Other Information, Send Five Cents to the National Negro Doll Company\n519 Second Avenue N., Nashville, Tenn.\n\nR. H. BOYD, President\n\nH. A. BOYD, Manager",
+      "status": "ok",
+      "confidence": 0.2581193149089813,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 25,
+        "y0": 843,
+        "x1": 893,
+        "y1": 1235
+      },
+      "text": "O. M. Waller, M.D., Pres. A. M. Thompson, Treas. B. C. Waller, M.D., Sec.\n\nSphinx Silver Polish\n\nThe unsurpassed renovator of silver and plated ware. No acids; no scratching; absolutely harmless. Adopted in the largest hotels. Best for family use. Endorsed by silver-smiths. Sells readily to the trade. Doubles your income. Agents wanted in every city and town. Fifty per cent. commission. Write to-day.\n\nManufactured by\nSphinx Labor-Saving Soap Co., Inc.\nOffice and Factory: 117 West Street, New York City\n\nBROWN-SPENCER Correspondence School of Short",
+      "status": "ok",
+      "confidence": 0.9166722297668457,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 523,
+        "y0": 1110,
+        "x1": 946,
+        "y1": 1248
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 23,
+        "y0": 1157,
+        "x1": 950,
+        "y1": 1280
+      },
+      "text": "BROWN-SPENCER Correspondence School of Shorthand\nTHE LORD'S PRAYER.\nIn the Benn Pitman System of Phonography-Corresponding Style.\nA system that can be learned during spare moments and thereby increase your salary from 50 to",
+      "status": "ok",
+      "confidence": 0.8697337508201599,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 523,
+        "y0": 1248,
+        "x1": 946,
+        "y1": 1363
+      },
+      "text": "A system that can be learned during spare moments and thereby increase your salary from 50 to 100 per cent. A thorough knowledge of Shorthand makes the position sure and the one so skilled in great demand. You pay as you learn. Terms reasonable. Write for particulars.",
+      "status": "ok",
+      "confidence": 0.877856969833374,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "figure",
+      "bbox": {
+        "x0": 30,
+        "y0": 1282,
+        "x1": 504,
+        "y1": 1468
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.6051985621452332,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 523,
+        "y0": 1390,
+        "x1": 946,
+        "y1": 1588
+      },
+      "text": "THE BEST THE EASIEST and MOST RELIABLE\nof Shorthand 2145 MISSOURI AVENUE EAST ST. LOUIS, ILL.\nCrisis.",
+      "status": "ok",
+      "confidence": 0.29064130783081055,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 25,
+        "y0": 1468,
+        "x1": 505,
+        "y1": 1588
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 25,
+        "y0": 1480,
+        "x1": 952,
+        "y1": 1543
+      },
+      "text": "Brown-Spencer Correspondence School of Shorthand 2145 MISSOURI AVENUE EAST ST. LOUIS, ILL. Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.8393213152885437,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 24,
+        "y0": 96,
+        "x1": 205,
+        "y1": 312
+      },
+      "text": "The Most",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 791,
+        "y0": 94,
+        "x1": 946,
+        "y1": 1104
+      },
+      "text": "Are the\nREADY\nnts to the\nbany\nTenn.\nD, Manager\n\n, M.D., Sec.\n\nthing; abso-\nd by silver-\nevery city",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 41.6,
+    "at": "2026-10-06T22:16:37+00:00"
+  }
+}

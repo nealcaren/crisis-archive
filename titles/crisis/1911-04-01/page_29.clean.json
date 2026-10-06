@@ -1,0 +1,422 @@
+{
+ "page": 29,
+ "image": "images/page_29.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 16.0,
+  "at": "2026-10-06T21:33:49+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 373,
+    "y0": 88,
+    "x1": 590,
+    "y1": 113
+   },
+   "text": "WHAT TO READ",
+   "status": "ok",
+   "confidence": 0.877546489238739,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 372,
+    "y0": 87,
+    "x1": 588,
+    "y1": 111
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 494,
+    "y0": 138,
+    "x1": 891,
+    "y1": 294
+   },
+   "text": "The children used to fight back, but now back, I see so much cringing, such fear in their faces when a white man thunders at them, that you wonder what sort of slavery this is and where it is to end. The principal told me that the things I said to them were what they needed to hear them speak that way.\"",
+   "status": "ok",
+   "confidence": 0.9736995697021484,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 493,
+    "y0": 137,
+    "x1": 890,
+    "y1": 292
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 73,
+    "y0": 140,
+    "x1": 469,
+    "y1": 331
+   },
+   "text": "might not have her devotion recognized by a single hour's further companionship. If the child looks pretty enough she may be adopted by a white woman, but pending that time she must remain in an institution, not in the home that has sheltered her throughout her life.\n\"They act as though we colored people were not human,\" the black woman said when she left the court.",
+   "status": "ok",
+   "confidence": 0.974253237247467,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 71,
+    "y0": 139,
+    "x1": 468,
+    "y1": 330
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 497,
+    "y0": 316,
+    "x1": 891,
+    "y1": 471
+   },
+   "text": "Caswell McCatten, a Negro, broke all records in the State of Kentucky last month when he was sentenced to life imprisonment in the penitentiary to life imprisonment in the State of Kentucky last month when he was sentenced to life imprisonment in the penitice for stealing a prison for stealing a prison for stealing a Christmas turkey. a Christmas turkey. As he was sentencing for stealing a Christmas turkey. As he had been sent to prison. As he had been sent to prison. As he had been sent to prison twice before for stealing a Christmas turkey.",
+   "status": "ok",
+   "confidence": 0.9762938618659973,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 496,
+    "y0": 314,
+    "x1": 890,
+    "y1": 471
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 75,
+    "y0": 330,
+    "x1": 472,
+    "y1": 615
+   },
+   "text": "\"The Negroes, you know, are so low,\" the probation officer remarked when an onlooker suggested the child might a little longer be trusted with her former protector.\nprotecter protector.\nHalf the farmers at Bynes,\nl the farmers at Bynes,\nl农民 the rural free delivery lines of mail have pulled down their mail boxes and refused to accept their mail from a Negro carrier recently appointed. Many of the farmers applied at the post office for their mail and announced their intention of continuing to do so until a white man should be made carrier.",
+   "status": "ok",
+   "confidence": 0.9734420776367188,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 73,
+    "y0": 331,
+    "x1": 470,
+    "y1": 615
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 498,
+    "y0": 493,
+    "x1": 894,
+    "y1": 666
+   },
+   "text": "Early in February two colored families moved into a flat on Champlain Avenue, Chicago, where one white family already lived. The white tenant did not object, but the neighbors did. They warned the white tenant to absent herself on a certain night. Then they drove the colored people away and incidentally wrecked the white woman's furniture.",
+   "status": "ok",
+   "confidence": 0.9757654666900635,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 497,
+    "y0": 492,
+    "x1": 891,
+    "y1": 666
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 78,
+    "y0": 631,
+    "x1": 474,
+    "y1": 787
+   },
+   "text": "A private letter from Texas says: \"The school is crude—such makeshifts! Still there are hundreds of girls and boys in those rough buildings eager for education and an opportunity to live. Yet the greatest lesson they seem to be learning is cowardice. The pity of it all the greatest lesson they seem to be learning is to be learning is coward. The pity. The pity. The pity of it all! I wonder if you have seen it as I do here.",
+   "status": "ok",
+   "confidence": 0.9720662236213684,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 76,
+    "y0": 630,
+    "x1": 473,
+    "y1": 785
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 500,
+    "y0": 688,
+    "x1": 894,
+    "y1": 796
+   },
+   "text": "\"God, and prayed thus with himself: \"God, I thank Thee that I am not as other men are, extortioners, unjust, adulterers, or even as this Black Man.\"",
+   "status": "ok",
+   "confidence": 0.9594131708145142,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 498,
+    "y0": 688,
+    "x1": 892,
+    "y1": 787
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "title",
+   "bbox": {
+    "x0": 78,
+    "y0": 839,
+    "x1": 896,
+    "y1": 970
+   },
+   "text": "WHAT TO READ",
+   "status": "ok",
+   "confidence": 0.6455811858177185,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 198,
+    "y0": 871,
+    "x1": 769,
+    "y1": 933
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "WHAT TO READ",
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 501,
+    "y0": 994,
+    "x1": 896,
+    "y1": 1093
+   },
+   "text": "\"Dynamic Forces in the Liberian Situation,\" by George W. Ellis, K.C., F.R. G.S., recently Secretary of the American Legation in Monrovia. Journal of Race Development, January. Clark University.",
+   "status": "ok",
+   "confidence": 0.9436074495315552,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 499,
+    "y0": 991,
+    "x1": 894,
+    "y1": 1090
+   },
+   "exclude": [
+    [
+     524,
+     1092,
+     536,
+     1107,
+     "r13"
+    ],
+    [
+     656,
+     1092,
+     662,
+     1107,
+     "r13"
+    ],
+    [
+     821,
+     1092,
+     826,
+     1107,
+     "r13"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 81,
+    "y0": 1019,
+    "x1": 477,
+    "y1": 1205
+   },
+   "text": "Brooks, John Graham—\"An American Citizen; the Life of Wm. H. Baldwin, Jr.\" Houghton, Mifflin & Company.\nEastman, Charles A.—\"The Soul of the Indian.\" Houghton, Mifflin & Company.\n\"Guide to Reading in Social Ethics and Allied Subjects.\" Edited by Francis G. Peabody. Harvard University.",
+   "status": "ok",
+   "confidence": 0.9155163168907166,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 79,
+    "y0": 1016,
+    "x1": 476,
+    "y1": 1203
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 502,
+    "y0": 1090,
+    "x1": 899,
+    "y1": 1500
+   },
+   "text": "By means of deliberate thefts and thefts in the name of reform, for more than a quarter of a century, France and England have been acquiring section after section of Liberian territory.\n\nBeginning in 1821 as an American colony with less than one hundred immigrants, Liberia in these ninety years has developed into a republic with a population of from 60,000 to 75,000 civilized Liberians engaged in the important work of perpetuating amid the more than 2,000,000 aboriginals the political, social and religious institutions of the American people. The republic includes within its 50,000 square miles a heavy forest and the highest mountains in West Africa; it possesses \"untold wealth of mine and field and forest,\" and occupies \"a commanding position at the head of the Gulf of Guinea;\" it is \"remarkably",
+   "status": "ok",
+   "confidence": 0.9780990481376648,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 500,
+    "y0": 1090,
+    "x1": 896,
+    "y1": 1497
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 82,
+    "y0": 1263,
+    "x1": 480,
+    "y1": 1502
+   },
+   "text": "\"The Slave Plantation in Retrospect.\"\nW. M. Daniels. Atlantic, March.\n\"Class-Consciousness.\" Vida D. Scudder.\nAtlantic, March.\n\"Some Recent Experiments in Human Conservation.\" Robert W. Bruère.\nHarper's, March.\n\"Religion and Caste in India.\" Price Collier. Scribner's, March.\n\"Climate and Racial Skin Color.\" Prof:\nL. W. Lyde. The Contemporary Review, February.",
+   "status": "ok",
+   "confidence": 0.9618703722953796,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 80,
+    "y0": 1267,
+    "x1": 478,
+    "y1": 1500
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r17",
+   "label": "title",
+   "bbox": {
+    "x0": 234,
+    "y0": 995,
+    "x1": 323,
+    "y1": 1014
+   },
+   "text": "BOOKS.",
+   "status": "ok",
+   "confidence": 0.8124595284461975,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 233,
+    "y0": 991,
+    "x1": 320,
+    "y1": 1013
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r18",
+   "label": "title",
+   "bbox": {
+    "x0": 196,
+    "y0": 1244,
+    "x1": 364,
+    "y1": 1264
+   },
+   "text": "PERIODICALS.",
+   "status": "ok",
+   "confidence": 0.8792659044265747,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 195,
+    "y0": 1240,
+    "x1": 361,
+    "y1": 1263
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r19",
+   "label": "abandon",
+   "bbox": {
+    "x0": 861,
+    "y0": 86,
+    "x1": 890,
+    "y1": 108
+   },
+   "text": "29",
+   "status": "ok",
+   "confidence": 0.8236455321311951,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 860,
+    "y0": 85,
+    "x1": 888,
+    "y1": 106
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 20,
+  "regions_after": 16,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.17,
+  "box_overlaps_after": 3,
+  "log": [
+   "drop r8 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r9 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r15 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r16 (text): non-latin hallucination 'حرَّجَة'",
+   "reshape r10 (title): lost 0% of its ink, gained 57%",
+   "reread r10: 'WHAT TO READ' -> 'WHAT TO READ'"
+  ]
+ }
+}

@@ -1,0 +1,254 @@
+{
+ "page": 9,
+ "image": "images/page_09.jpg",
+ "width": 1070,
+ "height": 1617,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.5,
+  "at": "2026-10-06T21:57:22+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 335,
+    "y0": 100,
+    "x1": 711,
+    "y1": 124
+   },
+   "text": "ALONG THE COLOR LINE",
+   "status": "ok",
+   "confidence": 0.8829225897789001,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 334,
+    "y0": 98,
+    "x1": 711,
+    "y1": 124
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 115,
+    "y0": 152,
+    "x1": 513,
+    "y1": 335
+   },
+   "text": "Col. John R. Marshall has secured from the Illinois legislature an appropriation of $100,000 for an armory for colored soldiers. This will be the first armory in the United States built for colored soldiers. Representative Edward Green, the colored member of the Illinois legislature, put the bill through the assembly.",
+   "status": "ok",
+   "confidence": 0.9729500412940979,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 114,
+    "y0": 150,
+    "x1": 511,
+    "y1": 333
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 536,
+    "y0": 180,
+    "x1": 934,
+    "y1": 605
+   },
+   "text": "The General Education Board has awarded $634,000 to white and colored colleges and schools and for other educational purposes. Conditional appropriations were made to these colleges: Converse College, Spartanburg, S. C., $50,000; Drury College, Springfield, Mo., $75,000; Franklin College, Franklin, Ind., $75,000; Franklin and Marshall College, Lancaster, Pa., $50,000; Huron College, Huron, S. D., $100,000, and Pennsylvania College, Gettysburg, Pa., $50,000. Schools for colored people to which appropriations were made are: Hampton Institute, Hampton, Va.; Tuskegee Institute, Tuskegee, Ala.; Lane College, Jackson, Tenn.; Spellman Seminary, Atlanta, Ga.; Howe Institute, Memphis, Tenn.; Thompson Institute, Lumberton, N. C., and the Florida Baptist Academy, Jacksonville, Fla. Each of these received about $10,000.",
+   "status": "ok",
+   "confidence": 0.9801635146141052,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 536,
+    "y0": 178,
+    "x1": 932,
+    "y1": 603
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 117,
+    "y0": 356,
+    "x1": 513,
+    "y1": 695
+   },
+   "text": "The one hundredth birthday anniversary of Harriet Beecher Stowe fell on Wednesday, June 14, and was generally observed in large cities. Mrs. Mary Church Terrell one year ago published a request through the press asking that colored people everywhere and especially the women make that day one of special celebration. In Boston, Chicago, Denver and many other cities large meetings were held. At the commencement of Fisk University, Charles Edward Stowe, son of Harriet Beecher Stowe, was the chief speaker, and in Washington, Lyman Beecher Stowe, her grandson, addressed a meeting organized by the women of the city.",
+   "status": "ok",
+   "confidence": 0.9765507578849792,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 116,
+    "y0": 355,
+    "x1": 511,
+    "y1": 692
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 536,
+    "y0": 617,
+    "x1": 933,
+    "y1": 789
+   },
+   "text": "The sixteenth Atlanta conference for the study of Negro problems was held at the university on May 30. The subject of study this year was the \"Negro Common School.\" Dr. W. E. B. Du Bois is director of the conference. For four years the conferences have been carried on under the auspices of the John F. Slater fund.",
+   "status": "ok",
+   "confidence": 0.975561797618866,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 537,
+    "y0": 615,
+    "x1": 931,
+    "y1": 789
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 104,
+    "y0": 715,
+    "x1": 513,
+    "y1": 1505
+   },
+   "text": "Six years ago a committee was started in New York especially to look after the interests of the colored children who were not receiving their due share of summer outings. This committee writes that it is confident it is in a position to do more work than ever before, and to do it well, if it is sufficiently supported by the public. As the result of several conferences held during the last two years matters have been so arranged that there is complete co-operation between all agencies doing fresh-air work among the colored people in New York, thus avoiding duplication of effort and securing a certain degree of specialization. The Committee on Urban Conditions is to keep the records and manage a model boys' camp, but the visiting in the homes, arranging the groups for excursions or for longer stays, educating the people as to the value of these outings and as to the available opportunities—in short, the \"family and city\" end of the work, is under the direction of the Negro Fresh Air Committee. Last summer it sent away 214 people for a week or two with the help of the Tribune Fund and other good friends, but there were 50 more mothers and babies (a group usually unprovided for) who were ready to go if the money for them had been forthcoming, as well as 142 children who might have gone away if our visitor could have seen them more than once. Rev. William N. Hubbell, of the Judson Memorial Church, is chairman of the committee, and Miss H. F. Emerson, 131 East 66th Street, New York, is the secretary-treasurer.",
+   "status": "ok",
+   "confidence": 0.972838819026947,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 110,
+    "y0": 710,
+    "x1": 511,
+    "y1": 1502
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 536,
+    "y0": 803,
+    "x1": 932,
+    "y1": 959
+   },
+   "text": "Andrew Carnegie has given another building to the Training School for Colored Teachers at Cheyney, Pa. This time it is a building for the agricultural department of this school to cost $10,000. The school offers professional courses for teaching industrial subjects and hopes to correlate these with agriculture.",
+   "status": "ok",
+   "confidence": 0.9727404117584229,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 536,
+    "y0": 801,
+    "x1": 931,
+    "y1": 956
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 533,
+    "y0": 969,
+    "x1": 931,
+    "y1": 1504
+   },
+   "text": "Rev. George Williams Walker, D.D., for more than a quarter of a century a professor at Paine's college at Augusta, Ga., died on May 17, after an illness of several months, in the sixtieth year of his age. Dr. Walker was one of the heroes of the South. He came to Augusta about 1884, and offered his services to the educational work of the Negro, which had been promised the race by the Southern Methodists. He began his work in an upper room on Broad Street, and later property was secured on Woodlawn Avenue, where teaching was carried on in remodeled stables. Erecting Haygood Memorial Hall, they changed the name to Paine College. For twenty-five years Dr. Walker has been a true friend of the race, suffering much because of his staunch loyalty, and deeply beloved by the colored people. In the April Crisis we took occasion to express editorially our respect for this good man.\n\nAnnouncement has been made that Andrew Carnegie has made a provisional donation of $10,000 for the completion of the Geo. W. Hubbard Hospital in",
+   "status": "ok",
+   "confidence": 0.9805392026901245,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 532,
+    "y0": 967,
+    "x1": 930,
+    "y1": 1502
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "abandon",
+   "bbox": {
+    "x0": 905,
+    "y0": 99,
+    "x1": 935,
+    "y1": 122
+   },
+   "text": "97",
+   "status": "ok",
+   "confidence": 0.829562246799469,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 904,
+    "y0": 98,
+    "x1": 933,
+    "y1": 119
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 661,
+    "y0": 152,
+    "x1": 811,
+    "y1": 171
+   },
+   "text": "EDUCATION.",
+   "status": "ok",
+   "confidence": 0.8976263403892517,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 659,
+    "y0": 149,
+    "x1": 808,
+    "y1": 171
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

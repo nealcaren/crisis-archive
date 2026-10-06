@@ -1,0 +1,189 @@
+{
+ "page": 14,
+ "image": "images/page_14.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 5.9,
+  "at": "2026-10-06T21:58:06+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 164,
+    "y0": 105,
+    "x1": 993,
+    "y1": 241
+   },
+   "text": "Men of the Month",
+   "status": "ok",
+   "confidence": 0.6010741591453552,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 315,
+    "y0": 137,
+    "x1": 838,
+    "y1": 199
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Men of the Month",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 165,
+    "y0": 266,
+    "x1": 560,
+    "y1": 361
+   },
+   "text": "REV. H. C. BISHOP\nOn June 4 the Episcopal Church of St. Philip, New York, celebrated the twenty-fifth anniversary of the induction",
+   "status": "ok",
+   "confidence": 0.9287151098251343,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 262,
+    "x1": 560,
+    "y1": 360
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 160,
+    "y0": 396,
+    "x1": 554,
+    "y1": 996
+   },
+   "text": "REV. H. C. BISHOP",
+   "status": "ok",
+   "confidence": 0.9724231362342834,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 161,
+    "y0": 396,
+    "x1": 551,
+    "y1": 996
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 165,
+    "y0": 1033,
+    "x1": 562,
+    "y1": 1467
+   },
+   "text": "of its rector, the Rev. Hutchins C. Bishop. This congregation recently moved to a new building uptown and the Rev. Mr. Bishop summed up its progress during the last quarter century:\n\n\"I came to this church January 1, 1886, and found as well established a parish as in those times could be,\" he said.\n\n\"There was an intact corporation, services regularly maintained. The communicant list of 300 with 187 families represented a splendid foundation upon which to work. There were two organizations. The oldest female assistants' society still lives and carries on its work; St. Philip's Parish Home for aged and infirm still exists and with measure of success. Today the organizations are St. Philip's Young Men's Guild, Altar Society, St. Christopher Club (divided into three parts), the Brotherhood of St. Andrew, Parish Home Auxiliary, Women's Aux-",
+   "status": "ok",
+   "confidence": 0.9786567091941833,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 1030,
+    "x1": 560,
+    "y1": 1465
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 584,
+    "y0": 265,
+    "x1": 990,
+    "y1": 736
+   },
+   "text": "iliary to the Board of Missions, Girls' Club and St. Agnes Club for young girls (divided into two parts). I have not been disposed to multiply without need, but the result of work has brought these into being, and they have all lived save one, St. Cecelia Society, a musical society. Each organization is now a most efficient part of its existence.\n\n\"In my rectorship there have been baptisms, 551; confirmations, 1,088; marriages, 541; burials, 852; communicants number over 1,100; 650 in the Sunday school, with the average attendance of 500; $1,025,328 has passed through the treasurers' hands. Of this sum $4,080 has gone to missions, $48,000 for purchase of church in Twenty-fifth Street; $265,000 for present church and parish house; $199,856 for maintenance of the church during twenty-five years, and $513,000 expended on other property. Half of the whole has gone to maintain the church building proper.\"",
+   "status": "ok",
+   "confidence": 0.978776752948761,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 584,
+    "y0": 262,
+    "x1": 988,
+    "y1": 734
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "figure",
+   "bbox": {
+    "x0": 580,
+    "y0": 772,
+    "x1": 980,
+    "y1": 1431
+   },
+   "text": "",
+   "status": "error",
+   "confidence": 0.9695510268211365,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 583,
+    "y0": 773,
+    "x1": 974,
+    "y1": 1425
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 614,
+    "y0": 1450,
+    "x1": 939,
+    "y1": 1468
+   },
+   "text": "ST. PHILIP'S CHURCH, NEW YORK",
+   "status": "ok",
+   "confidence": 0.7082512378692627,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 614,
+    "y0": 1447,
+    "x1": 937,
+    "y1": 1467
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 7,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 59%",
+   "reread r0: 'Men of the Month' -> 'Men of the Month'"
+  ]
+ }
+}

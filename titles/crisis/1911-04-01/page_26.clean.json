@@ -1,0 +1,289 @@
+{
+ "page": 26,
+ "image": "images/page_26.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.4,
+  "at": "2026-10-06T21:28:23+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 164,
+    "y0": 92,
+    "x1": 193,
+    "y1": 114
+   },
+   "text": "26",
+   "status": "ok",
+   "confidence": 0.842798113822937,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 91,
+    "x1": 192,
+    "y1": 112
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 500,
+    "y0": 93,
+    "x1": 647,
+    "y1": 116
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8294529914855957,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 497,
+    "y0": 91,
+    "x1": 646,
+    "y1": 116
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 164,
+    "y0": 146,
+    "x1": 563,
+    "y1": 548
+   },
+   "text": "attends the discovery of a leprosy case here in New York.\nNext, New Orleans is shocked to know that a Confederate veteran participating in the unveiling of a statue to Jefferson Davis is partly of Negro blood and partly white. Thereupon it was given out that there would be a careful overhauling of the records, with a view to seeing just how many persons have a one-sixteenth or one-thirty-second portion of Negro blood in their veins. But we hazard a guess that it will not go very far. When a similar one was undertaken in a parish near New Orleans there were made such discoveries that a fortunate fire destroyed the records of births, deaths and marriages. One is tempted to wish that a healing torch might be applied to the New Orleans records.",
+   "status": "ok",
+   "confidence": 0.978660523891449,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 162,
+    "y0": 144,
+    "x1": 562,
+    "y1": 548
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 166,
+    "y0": 548,
+    "x1": 567,
+    "y1": 1118
+   },
+   "text": "Now, the persons cast out in that city were precisely the same the day after the discovery as before. They were presumably gentle and good-mannered, and it is known that they were well educated in fashionable schools. Doubtless they had attained the social position they occupied by reason of worth. Now all that is changed. What they personally are or what they may have accomplished goes for naught. Upon them is placed a stigma for life. Were segregation in force in New Orleans as planned in Richmond and Baltimore, they would have to move within the Pale. They would be told that aspirations and ideals must go by the board with all their friendships of generations — because years back some perhaps charming and brilliant Creole was married to one of their name. The stigma that part of America would place is upon the blood; no foul disease with its blood taint is comparable. There is in this black blood something so terrible that some would throw overboard every bit of Christianity in dealing with it and make a mockery of glib church-words about the brotherhood of man and the teachings of the Saviour.",
+   "status": "ok",
+   "confidence": 0.9776591658592224,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 164,
+    "y0": 551,
+    "x1": 561,
+    "y1": 1117
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 167,
+    "y0": 1118,
+    "x1": 564,
+    "y1": 1293
+   },
+   "text": "Does any one wonder if the Negro in America is baffled and appalled at the situation in which he finds himself? He is condemned for low associations. If he seeks the elevating influences of better ones, they are denied him. He is accused of frequenting vile theatres only; every decent one is closed to him, and every good music hall. If a picture-show is",
+   "status": "ok",
+   "confidence": 0.9739713668823242,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 165,
+    "y0": 1118,
+    "x1": 563,
+    "y1": 1291
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "abandon",
+   "bbox": {
+    "x0": 518,
+    "y0": 1397,
+    "x1": 636,
+    "y1": 1431
+   },
+   "text": "=========================================================",
+   "status": "ok",
+   "confidence": 0.5548239350318909,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 514,
+    "y0": 1393,
+    "x1": 637,
+    "y1": 1431
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 586,
+    "y0": 143,
+    "x1": 991,
+    "y1": 685
+   },
+   "text": "opened for him, he may be set upon by a mob and stoned, as at Fort Worth this very day. In many a Southern city, the public library closes its doors in his face and refuses him the books of his own authors—Du Bois, Washington, Chesnutt, Dunbar, and the rest. If his wife is in need of a Pullman berth to reach her destination, it is refused her, though she may be physically unable to travel in a day coach—a Mississippi court has just given a woman heavy damages against the Pullman Company, because she traveled in a Pullman which also harbored several colored bishops! Mr. Washington has gone up and down the country with the approval of white men of all sections, urging the Negro to buy farms and houses. But if he displeases his white neighbors, in many States, a shotgun invalidates his title to his land. And if he buys a fine house on a good street, in Baltimore, the law is hard on his heels. Even in Seattle they tried—but in vain—to declare that a colored man could not buy a house where he could bring up his children in decent surroundings.",
+   "status": "ok",
+   "confidence": 0.977521538734436,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 586,
+    "y0": 144,
+    "x1": 987,
+    "y1": 681
+   },
+   "exclude": [
+    [
+     609,
+     683,
+     622,
+     698,
+     "r7"
+    ],
+    [
+     801,
+     683,
+     803,
+     686,
+     "r7"
+    ],
+    [
+     842,
+     683,
+     845,
+     686,
+     "r7"
+    ],
+    [
+     879,
+     683,
+     889,
+     698,
+     "r7"
+    ],
+    [
+     892,
+     683,
+     895,
+     686,
+     "r7"
+    ],
+    [
+     918,
+     683,
+     927,
+     698,
+     "r7"
+    ],
+    [
+     637,
+     684,
+     646,
+     699,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 586,
+    "y0": 681,
+    "x1": 987,
+    "y1": 1005
+   },
+   "text": "And so we are trying in this democracy the impossible experiment of establishing a caste, as in India. The rigors of the Russian Pale are to go with it. Men and women are to live apart, with the finger of scorn upon them if they walk out of their district. They are to be denied freedom of property; the right to move about freely, the right to proper amusement. The right to say how and where their children shall be educated and by whom, is to be taken away, as well as all voice and participation in their government. Taxes they must pay, but no words of theirs as to how the proceeds shall be expended are to be tolerated.",
+   "status": "ok",
+   "confidence": 0.9782760739326477,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 585,
+    "y0": 682,
+    "x1": 985,
+    "y1": 1003
+   },
+   "exclude": [
+    [
+     791,
+     669,
+     801,
+     683,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 587,
+    "y0": 1004,
+    "x1": 988,
+    "y1": 1295
+   },
+   "text": "What incentive remains? What coloured man is to be blamed, if, despairing, he denounces those leaders who urge him to be law-abiding and useful and industrious and decides to live for the moment only, particularly if he sees those who would battle for the simple rights that are his as an American citizen denounced by the prejudiced and the blind as desiring the destruction of the dominant race? Alas! that everyone does not see that the real enemies of white supremacy are those who would make it synonymous with selfishness, cruelty, oppression and wicked injustice.",
+   "status": "ok",
+   "confidence": 0.9770918488502502,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 585,
+    "y0": 1005,
+    "x1": 986,
+    "y1": 1291
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

@@ -1,0 +1,239 @@
+{
+  "page": 22,
+  "image": "images/page_22.jpg",
+  "width": 1371,
+  "height": 2070,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 759,
+        "y0": 214,
+        "x1": 1271,
+        "y1": 340
+      },
+      "text": "especially favored as being practically free from any attempt to take the law in its own hands. There have been since Statehood six hangings in this State by mob, and four of these were white men.",
+      "status": "ok",
+      "confidence": 0.9202256798744202,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 219,
+        "y0": 218,
+        "x1": 724,
+        "y1": 587
+      },
+      "text": "You are engaged in an effort to advance the colored race, and it occurs to me that if you would let your efforts take a more practical turn you would do this race a greater service. There is a race prejudice that exists between the white and Negro races wherever the Negroes are found in large numbers, world-wide in its scope and by no means confined to the South. On the other hand, the prejudice against the Negroes, when they become a menace by their increasing numbers, is much stronger in your section of the Union than in the South.",
+      "status": "ok",
+      "confidence": 0.9773574471473694,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 758,
+        "y0": 341,
+        "x1": 1269,
+        "y1": 513
+      },
+      "text": "Our laws are adequate and our juries competent, and except in cases of extreme passion, which no law and no civilization can control, the administration of justice is attended in this State with as little cause for criticism as in any other section of this country.",
+      "status": "ok",
+      "confidence": 0.8673807978630066,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 215,
+        "y0": 588,
+        "x1": 719,
+        "y1": 1177
+      },
+      "text": "You will understand in the county where this lynching occurred that the Negroes outnumber either the white or Indian race. Just yesterday I received a communication from the Secretary of the State, calling my attention to the fact that Oklahoma Negroes were going to Canada, and that there was an effort on the part of the Canadian government to exclude them from that province, and asking that I call the same to the attention of the Oklahoma Negroes to prevent this migration. I hold that the Negro has as much right to seek his fortune where he thinks his opportunities are better as any white man has, and if he thinks he can better his condition by going to New York or Canada, he should be given the privilege of going there. Yet the chivalry of the North, speaking through the Secretary of State, to the chivalry of the South, says, \"keep the Negro in the South—we don't want them in our section of the world.\"",
+      "status": "ok",
+      "confidence": 0.9794798493385315,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 755,
+        "y0": 604,
+        "x1": 1269,
+        "y1": 919
+      },
+      "text": "At the same time the Chairman received the following quite unexpected letter from an Oklahoma citizen:\n\nDear Sir: Oklahoma City, Okla.\n\nSend you a clipping I saw and cut out of the automobile magazine, which think will convince you, we as a whole, are from the North and are as whole law abiding, and try to give the Negro the privileges of advancements; certainly we have a few of the rougher border element which are fast disappearing.",
+      "status": "ok",
+      "confidence": 0.9677887558937073,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 754,
+        "y0": 979,
+        "x1": 1264,
+        "y1": 1154
+      },
+      "text": "After diligent searching of the newspapers, and after correspondence with friends in Oklahoma, we cannot find that anything has been done to convict the guilty parties. The Negro knows how difficult it is to secure justice on \"simply a question of passion and race prejudice.\"",
+      "status": "ok",
+      "confidence": 0.9733047485351562,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 212,
+        "y0": 1181,
+        "x1": 716,
+        "y1": 1596
+      },
+      "text": "Just this week the announcement comes as a shock to the people of Oklahoma that the Secretary of the Interior, another chivalrous Northern man, has appointed a Negro from Kansas to come to Oklahoma and take charge of the supervision of the Indian schools of this State. There is no race of people on earth that has more antipathy for the Negro race than the Indian race, and yet these people, numbering many of the best citizens of this State and nation, are to be humbled and their prejudices and passions are to be increased by having this outrage imposed upon them by one of the highest officials of the Federal government.",
+      "status": "ok",
+      "confidence": 0.9777804017066956,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 753,
+        "y0": 1191,
+        "x1": 1262,
+        "y1": 1402
+      },
+      "text": "DR. DU BOIS IN ENGLAND. From London the Director of Research and Publicity reports a most successful campaign. The address before the Ethical Culture Society was made to an audience apparently most appreciative. The Society gave a dinner in honor of Dr. DuBois on July 7.",
+      "status": "ok",
+      "confidence": 0.974818766117096,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 753,
+        "y0": 1404,
+        "x1": 1261,
+        "y1": 1920
+      },
+      "text": "On June 26 Dr. DuBois was the guest of honor at the Lyceum Club dinner. The Lyceum Club from time to time entertains various distinguished guests and assembles other distinguished persons to hear them speak. On this occasion her Highness the Ranee of Sarawak, who was in London to take part in the coronation ceremonies, presided at the dinner. The guests of honor invited to meet Dr. DuBois were: The Countess of Bective; Muriel, Viscountess Helmsley; the Rt. Rev. the Bishop of British Honduras and Mrs. Bury; Mr. Maurice Hewlett, Sir Harry and Lady Johnston, Sir Percy and Lady Bunting, Sir Robert and Lady Morant, Sir Lawrence and Lady Gomme, Sir James Chrichton-Browne, Lady Low, Miss Elizabeth Robins, Mrs. Comings, Mr. Henry Nevinson, Mr. Fairbanks, Mr. Milholland.",
+      "status": "ok",
+      "confidence": 0.9801815152168274,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 208,
+        "y0": 1597,
+        "x1": 715,
+        "y1": 1970
+      },
+      "text": "If your organization would interest itself to the extent of seeing that such outrages as this are not perpetrated against our people, there would be fewer lynchings in the South than at this time, and you can do a great deal more to aid the Negro by seeing that other people of our section of the country are considered in these matters than you can issuing abusive statements against this country when a crime of this kind is committed. I am as much opposed to mob law as any man on earth, and don't think that conditions ever justify a mob taking the law into its own hands. Oklahoma is",
+      "status": "ok",
+      "confidence": 0.9711621403694153,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 752,
+        "y0": 1921,
+        "x1": 1261,
+        "y1": 1972
+      },
+      "text": "Dr. DuBois' address was listened to with great interest. The Bishop of Brit-",
+      "status": "ok",
+      "confidence": 0.9268775582313538,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 219,
+        "y0": 149,
+        "x1": 269,
+        "y1": 176
+      },
+      "text": "154",
+      "status": "ok",
+      "confidence": 0.836737334728241,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 631,
+        "y0": 148,
+        "x1": 838,
+        "y1": 179
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8694530129432678,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 877,
+        "y0": 514,
+        "x1": 1238,
+        "y1": 594
+      },
+      "text": "Very respectfully,\n(Signed) LEE CRUCE,\nGovernor of Oklahoma.",
+      "status": "ok",
+      "confidence": 0.6470605134963989,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 900,
+        "y0": 920,
+        "x1": 1122,
+        "y1": 945
+      },
+      "text": "Very respectfully,",
+      "status": "ok",
+      "confidence": 0.8364197015762329,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 1012,
+        "y0": 948,
+        "x1": 1240,
+        "y1": 975
+      },
+      "text": "B. R. HARRINGTON.",
+      "status": "ok",
+      "confidence": 0.6735872030258179,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.7,
+    "at": "2026-10-06T22:12:45+00:00"
+  }
+}

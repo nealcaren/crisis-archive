@@ -1,0 +1,93 @@
+{
+ "page": 19,
+ "image": "images/page_19.jpg",
+ "width": 1085,
+ "height": 1666,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 2.9,
+  "at": "2026-10-06T21:18:08+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "figure",
+   "bbox": {
+    "x0": 0,
+    "y0": 158,
+    "x1": 957,
+    "y1": 1452
+   },
+   "text": "John Henry Adams",
+   "status": "ok",
+   "confidence": 0.6242870688438416,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 0,
+    "y0": 158,
+    "x1": 938,
+    "y1": 1452
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 46,
+    "y0": 107,
+    "x1": 217,
+    "y1": 131
+   },
+   "text": "MARCH, 1911",
+   "status": "ok",
+   "confidence": 0.4322291910648346,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 42,
+    "y0": 103,
+    "x1": 219,
+    "y1": 131
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "abandon",
+   "bbox": {
+    "x0": 521,
+    "y0": 1492,
+    "x1": 825,
+    "y1": 1553
+   },
+   "text": "\"SOCIAL EQUALITY\"\nDrawn by John Henry Adams",
+   "status": "ok",
+   "confidence": 0.7258402109146118,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 512,
+    "y0": 1485,
+    "x1": 831,
+    "y1": 1554
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 3,
+  "regions_after": 3,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

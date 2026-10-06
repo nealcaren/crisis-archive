@@ -1,0 +1,1623 @@
+{
+ "page": 37,
+ "image": "images/page_37.jpg",
+ "width": 1374,
+ "height": 2081,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.0,
+  "at": "2026-10-06T21:43:28+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 290,
+    "y0": 128,
+    "x1": 956,
+    "y1": 165
+   },
+   "text": "THE MANUFACTURE OF PREJUDICE",
+   "status": "ok",
+   "confidence": 0.8394805192947388,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 300,
+    "y0": 128,
+    "x1": 957,
+    "y1": 163
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 644,
+    "y0": 196,
+    "x1": 1151,
+    "y1": 579
+   },
+   "text": "Chapter II.—The Truth.\nThe N. A. A. C. P. sent a special investigator, Mr. Harold Phelps Stokes, to the spot. His report begins:\n\"Some of the 'facts' given in the first paragraph deserve notice. The 'mob of armed Negroes' consisted of three men, one white. The innocent 'crowd of spectators' was composed of the worst white roughs in town, all armed and ready for a fight. The 'volley of bullets and buckshot' consisted of three shots. George Hudson, the man fatally injured by this attack, was actually shot some time later by a white boy.\"",
+   "status": "ok",
+   "confidence": 0.9764150381088257,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 643,
+    "y0": 194,
+    "x1": 1149,
+    "y1": 575
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 109,
+    "y0": 200,
+    "x1": 614,
+    "y1": 351
+   },
+   "text": "has been no occasion for any action with regard to her, or the colored students, but the student who so violated the usages of the school and who has been guilty of other disorderly conduct, has been excluded from the classes.",
+   "status": "ok",
+   "confidence": 0.8343521952629089,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 199,
+    "x1": 613,
+    "y1": 349
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "figure",
+   "bbox": {
+    "x0": 108,
+    "y0": 348,
+    "x1": 619,
+    "y1": 510
+   },
+   "text": "\"W. M. R. FRENCH, Director.\n\"N. H. CARPENTER, Secretary.\"\n\nPART III.—THE LAUREL MOB.\nChapter I.—The Lie.",
+   "status": "ok",
+   "confidence": 0.5789868831634521,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 352,
+    "x1": 618,
+    "y1": 943
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "figure",
+   "bbox": {
+    "x0": 108,
+    "y0": 510,
+    "x1": 619,
+    "y1": 585
+   },
+   "text": "ARMED NEGROES",
+   "status": "ok",
+   "confidence": 0.5789868831634521,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 352,
+    "x1": 618,
+    "y1": 943
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3b"
+  },
+  {
+   "id": "r3bb",
+   "label": "figure",
+   "bbox": {
+    "x0": 108,
+    "y0": 585,
+    "x1": 619,
+    "y1": 732
+   },
+   "text": "FIRE ON WHITES\nOne Man Dead and Three",
+   "status": "ok",
+   "confidence": 0.5789868831634521,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 352,
+    "x1": 618,
+    "y1": 943
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3bb"
+  },
+  {
+   "id": "r3bbb",
+   "label": "figure",
+   "bbox": {
+    "x0": 108,
+    "y0": 732,
+    "x1": 619,
+    "y1": 773
+   },
+   "text": "Hurt in Race Riot.",
+   "status": "ok",
+   "confidence": 0.5789868831634521,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 352,
+    "x1": 618,
+    "y1": 943
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3bbb"
+  },
+  {
+   "id": "r3bbbb",
+   "label": "figure",
+   "bbox": {
+    "x0": 108,
+    "y0": 773,
+    "x1": 619,
+    "y1": 943
+   },
+   "text": "BATTLE IN CITY STREETS\nLights Put Out in Laurel, Delaware,\nWhile Blacks Continue\nTheir Attack.",
+   "status": "ok",
+   "confidence": 0.5789868831634521,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 352,
+    "x1": 618,
+    "y1": 943
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3bbb"
+  },
+  {
+   "id": "r4",
+   "label": "title",
+   "bbox": {
+    "x0": 647,
+    "y0": 615,
+    "x1": 1155,
+    "y1": 1187
+   },
+   "text": "\"The riot and disorder at Laurel last Saturday night was the result of political disappointment at the well-laid plans to get Republicans into trouble through corrupt swearing on the part of disreputable tools against men of probity and substance. The man killed was one of the worst characters in the lower class of Laurel, which reflected the inflamed opinions of those who are supposed to be higher up. The Negroes were not the instigators of the trouble; it all grew out of the drunken orgies of a low class which the town government of Laurel has permitted to disgrace her streets, and by such condonement finally brought about murder and riot. It is time for the people of all communities, and especially Laurel, to strike with a strong fist the disorderly element, even if that class have to be shot down on sight to enforce the laws.\"—Milford (Del.) Chronicle.",
+   "status": "ok",
+   "confidence": 0.9781680703163147,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 648,
+    "y0": 614,
+    "x1": 1151,
+    "y1": 1184
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 115,
+    "y0": 974,
+    "x1": 621,
+    "y1": 1368
+   },
+   "text": "\"Seaford, Del., April 2.—The frequent disorders and uprisings which have prevailed among the Laurel colored inhabitants for the last two months resulted in a fierce outbreak last night, when, without an instant's warning, a mob of armed Negroes swooped down upon a crowd of spectators who were standing in a public thoroughfare, and fired a volley of bullets and buckshot into the crowd. One man fell mortally hurt and others were wounded. Then followed a fierce struggle between the two races, and before the colored crowd was routed more than 1,500 shots had been fired.\"—N. Y. Press, April 3.",
+   "status": "ok",
+   "confidence": 0.963355541229248,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 115,
+    "y0": 971,
+    "x1": 622,
+    "y1": 1365
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 117,
+    "y0": 1219,
+    "x1": 1161,
+    "y1": 1634
+   },
+   "text": "\"As reporter and staff official, I have had occasion to examine a score of so-called 'race riots' down in Delaware. In every case the Negroes were not the aggressors.\"—Charles E. Gray, a white Delaware reporter.",
+   "status": "ok",
+   "confidence": 0.7870162129402161,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 643,
+    "y0": 1217,
+    "x1": 1163,
+    "y1": 1630
+   },
+   "exclude": [
+    [
+     184,
+     1221,
+     192,
+     1239,
+     "r5"
+    ],
+    [
+     207,
+     1221,
+     211,
+     1238,
+     "r5"
+    ],
+    [
+     215,
+     1221,
+     220,
+     1238,
+     "r5"
+    ],
+    [
+     308,
+     1221,
+     313,
+     1238,
+     "r5"
+    ],
+    [
+     317,
+     1221,
+     321,
+     1238,
+     "r5"
+    ],
+    [
+     354,
+     1221,
+     365,
+     1239,
+     "r5"
+    ],
+    [
+     445,
+     1221,
+     457,
+     1239,
+     "r5"
+    ],
+    [
+     499,
+     1221,
+     510,
+     1238,
+     "r5"
+    ],
+    [
+     285,
+     1225,
+     292,
+     1239,
+     "r5"
+    ],
+    [
+     394,
+     1225,
+     401,
+     1239,
+     "r5"
+    ],
+    [
+     489,
+     1224,
+     495,
+     1239,
+     "r5"
+    ],
+    [
+     120,
+     1226,
+     139,
+     1238,
+     "r5"
+    ],
+    [
+     142,
+     1227,
+     153,
+     1239,
+     "r5"
+    ],
+    [
+     156,
+     1227,
+     167,
+     1238,
+     "r5"
+    ],
+    [
+     194,
+     1227,
+     204,
+     1239,
+     "r5"
+    ],
+    [
+     236,
+     1226,
+     256,
+     1238,
+     "r5"
+    ],
+    [
+     259,
+     1226,
+     271,
+     1239,
+     "r5"
+    ],
+    [
+     274,
+     1227,
+     283,
+     1238,
+     "r5"
+    ],
+    [
+     295,
+     1226,
+     305,
+     1239,
+     "r5"
+    ],
+    [
+     324,
+     1227,
+     337,
+     1243,
+     "r5"
+    ],
+    [
+     368,
+     1227,
+     380,
+     1238,
+     "r5"
+    ],
+    [
+     383,
+     1227,
+     392,
+     1238,
+     "r5"
+    ],
+    [
+     417,
+     1226,
+     427,
+     1238,
+     "r5"
+    ],
+    [
+     430,
+     1227,
+     442,
+     1238,
+     "r5"
+    ],
+    [
+     474,
+     1227,
+     486,
+     1239,
+     "r5"
+    ],
+    [
+     513,
+     1226,
+     523,
+     1239,
+     "r5"
+    ],
+    [
+     527,
+     1227,
+     535,
+     1239,
+     "r5"
+    ],
+    [
+     537,
+     1227,
+     546,
+     1239,
+     "r5"
+    ],
+    [
+     561,
+     1227,
+     581,
+     1239,
+     "r5"
+    ],
+    [
+     583,
+     1227,
+     593,
+     1239,
+     "r5"
+    ],
+    [
+     597,
+     1227,
+     605,
+     1238,
+     "r5"
+    ],
+    [
+     607,
+     1227,
+     617,
+     1238,
+     "r5"
+    ],
+    [
+     257,
+     1244,
+     274,
+     1263,
+     "r5"
+    ],
+    [
+     333,
+     1245,
+     340,
+     1263,
+     "r5"
+    ],
+    [
+     365,
+     1245,
+     369,
+     1263,
+     "r5"
+    ],
+    [
+     473,
+     1244,
+     484,
+     1263,
+     "r5"
+    ],
+    [
+     185,
+     1246,
+     195,
+     1263,
+     "r5"
+    ],
+    [
+     212,
+     1246,
+     223,
+     1263,
+     "r5"
+    ],
+    [
+     278,
+     1246,
+     289,
+     1263,
+     "r5"
+    ],
+    [
+     357,
+     1246,
+     361,
+     1263,
+     "r5"
+    ],
+    [
+     421,
+     1246,
+     433,
+     1263,
+     "r5"
+    ],
+    [
+     560,
+     1249,
+     567,
+     1264,
+     "r5"
+    ],
+    [
+     140,
+     1251,
+     152,
+     1263,
+     "r5"
+    ],
+    [
+     306,
+     1251,
+     317,
+     1263,
+     "r5"
+    ],
+    [
+     342,
+     1251,
+     354,
+     1263,
+     "r5"
+    ],
+    [
+     373,
+     1251,
+     385,
+     1263,
+     "r5"
+    ],
+    [
+     408,
+     1251,
+     418,
+     1264,
+     "r5"
+    ],
+    [
+     447,
+     1251,
+     458,
+     1263,
+     "r5"
+    ],
+    [
+     488,
+     1251,
+     497,
+     1263,
+     "r5"
+    ],
+    [
+     501,
+     1251,
+     509,
+     1263,
+     "r5"
+    ],
+    [
+     512,
+     1251,
+     521,
+     1263,
+     "r5"
+    ],
+    [
+     524,
+     1251,
+     534,
+     1263,
+     "r5"
+    ],
+    [
+     549,
+     1251,
+     558,
+     1264,
+     "r5"
+    ],
+    [
+     571,
+     1251,
+     579,
+     1263,
+     "r5"
+    ],
+    [
+     596,
+     1251,
+     608,
+     1268,
+     "r5"
+    ],
+    [
+     119,
+     1252,
+     127,
+     1263,
+     "r5"
+    ],
+    [
+     127,
+     1252,
+     137,
+     1263,
+     "r5"
+    ],
+    [
+     155,
+     1252,
+     166,
+     1263,
+     "r5"
+    ],
+    [
+     170,
+     1252,
+     174,
+     1263,
+     "r5"
+    ],
+    [
+     175,
+     1252,
+     180,
+     1263,
+     "r5"
+    ],
+    [
+     199,
+     1252,
+     209,
+     1263,
+     "r5"
+    ],
+    [
+     293,
+     1252,
+     302,
+     1264,
+     "r5"
+    ],
+    [
+     388,
+     1252,
+     405,
+     1263,
+     "r5"
+    ],
+    [
+     582,
+     1252,
+     592,
+     1263,
+     "r5"
+    ],
+    [
+     611,
+     1256,
+     618,
+     1259,
+     "r5"
+    ],
+    [
+     227,
+     1260,
+     230,
+     1263,
+     "r5"
+    ],
+    [
+     135,
+     1270,
+     140,
+     1288,
+     "r5"
+    ],
+    [
+     171,
+     1270,
+     184,
+     1288,
+     "r5"
+    ],
+    [
+     297,
+     1270,
+     308,
+     1287,
+     "r5"
+    ],
+    [
+     514,
+     1270,
+     526,
+     1288,
+     "r5"
+    ],
+    [
+     545,
+     1270,
+     557,
+     1289,
+     "r5"
+    ],
+    [
+     573,
+     1270,
+     580,
+     1288,
+     "r5"
+    ],
+    [
+     287,
+     1273,
+     293,
+     1287,
+     "r5"
+    ],
+    [
+     200,
+     1274,
+     206,
+     1288,
+     "r5"
+    ],
+    [
+     341,
+     1274,
+     347,
+     1288,
+     "r5"
+    ],
+    [
+     371,
+     1275,
+     383,
+     1288,
+     "r5"
+    ],
+    [
+     402,
+     1275,
+     410,
+     1287,
+     "r5"
+    ],
+    [
+     413,
+     1275,
+     423,
+     1287,
+     "r5"
+    ],
+    [
+     439,
+     1275,
+     448,
+     1287,
+     "r5"
+    ],
+    [
+     451,
+     1275,
+     460,
+     1288,
+     "r5"
+    ],
+    [
+     485,
+     1275,
+     496,
+     1288,
+     "r5"
+    ],
+    [
+     120,
+     1276,
+     133,
+     1292,
+     "r5"
+    ],
+    [
+     143,
+     1276,
+     153,
+     1288,
+     "r5"
+    ],
+    [
+     187,
+     1276,
+     196,
+     1288,
+     "r5"
+    ],
+    [
+     209,
+     1277,
+     227,
+     1288,
+     "r5"
+    ],
+    [
+     230,
+     1276,
+     239,
+     1288,
+     "r5"
+    ],
+    [
+     242,
+     1276,
+     252,
+     1288,
+     "r5"
+    ],
+    [
+     256,
+     1276,
+     266,
+     1287,
+     "r5"
+    ],
+    [
+     311,
+     1276,
+     321,
+     1288,
+     "r5"
+    ],
+    [
+     351,
+     1276,
+     368,
+     1288,
+     "r5"
+    ],
+    [
+     426,
+     1276,
+     435,
+     1288,
+     "r5"
+    ],
+    [
+     499,
+     1276,
+     511,
+     1287,
+     "r5"
+    ],
+    [
+     560,
+     1276,
+     569,
+     1288,
+     "r5"
+    ],
+    [
+     582,
+     1276,
+     594,
+     1288,
+     "r5"
+    ],
+    [
+     597,
+     1276,
+     605,
+     1288,
+     "r5"
+    ],
+    [
+     608,
+     1277,
+     618,
+     1288,
+     "r5"
+    ],
+    [
+     463,
+     1284,
+     467,
+     1291,
+     "r5"
+    ],
+    [
+     129,
+     1295,
+     141,
+     1312,
+     "r5"
+    ],
+    [
+     195,
+     1295,
+     200,
+     1312,
+     "r5"
+    ],
+    [
+     242,
+     1295,
+     253,
+     1312,
+     "r5"
+    ],
+    [
+     470,
+     1295,
+     481,
+     1312,
+     "r5"
+    ],
+    [
+     577,
+     1294,
+     589,
+     1312,
+     "r5"
+    ],
+    [
+     327,
+     1296,
+     338,
+     1312,
+     "r5"
+    ],
+    [
+     120,
+     1299,
+     126,
+     1313,
+     "r5"
+    ],
+    [
+     448,
+     1298,
+     454,
+     1312,
+     "r5"
+    ],
+    [
+     567,
+     1298,
+     574,
+     1313,
+     "r5"
+    ],
+    [
+     145,
+     1301,
+     154,
+     1313,
+     "r5"
+    ],
+    [
+     168,
+     1301,
+     177,
+     1312,
+     "r5"
+    ],
+    [
+     181,
+     1300,
+     192,
+     1313,
+     "r5"
+    ],
+    [
+     203,
+     1301,
+     215,
+     1313,
+     "r5"
+    ],
+    [
+     218,
+     1301,
+     227,
+     1312,
+     "r5"
+    ],
+    [
+     229,
+     1301,
+     239,
+     1312,
+     "r5"
+    ],
+    [
+     268,
+     1300,
+     277,
+     1312,
+     "r5"
+    ],
+    [
+     280,
+     1300,
+     289,
+     1312,
+     "r5"
+    ],
+    [
+     291,
+     1300,
+     304,
+     1312,
+     "r5"
+    ],
+    [
+     306,
+     1301,
+     324,
+     1312,
+     "r5"
+    ],
+    [
+     351,
+     1301,
+     370,
+     1312,
+     "r5"
+    ],
+    [
+     371,
+     1300,
+     382,
+     1312,
+     "r5"
+    ],
+    [
+     385,
+     1300,
+     394,
+     1312,
+     "r5"
+    ],
+    [
+     407,
+     1300,
+     416,
+     1312,
+     "r5"
+    ],
+    [
+     419,
+     1300,
+     430,
+     1312,
+     "r5"
+    ],
+    [
+     433,
+     1301,
+     444,
+     1312,
+     "r5"
+    ],
+    [
+     457,
+     1300,
+     467,
+     1312,
+     "r5"
+    ],
+    [
+     495,
+     1300,
+     514,
+     1312,
+     "r5"
+    ],
+    [
+     518,
+     1300,
+     530,
+     1312,
+     "r5"
+    ],
+    [
+     533,
+     1300,
+     541,
+     1312,
+     "r5"
+    ],
+    [
+     543,
+     1301,
+     553,
+     1313,
+     "r5"
+    ],
+    [
+     592,
+     1301,
+     603,
+     1313,
+     "r5"
+    ],
+    [
+     606,
+     1301,
+     617,
+     1312,
+     "r5"
+    ],
+    [
+     121,
+     1319,
+     129,
+     1337,
+     "r5"
+    ],
+    [
+     139,
+     1318,
+     149,
+     1337,
+     "r5"
+    ],
+    [
+     151,
+     1319,
+     175,
+     1337,
+     "r5"
+    ],
+    [
+     197,
+     1319,
+     209,
+     1337,
+     "r5"
+    ],
+    [
+     258,
+     1319,
+     270,
+     1337,
+     "r5"
+    ],
+    [
+     287,
+     1319,
+     298,
+     1337,
+     "r5"
+    ],
+    [
+     310,
+     1319,
+     322,
+     1337,
+     "r5"
+    ],
+    [
+     375,
+     1318,
+     387,
+     1337,
+     "r5"
+    ],
+    [
+     414,
+     1319,
+     426,
+     1337,
+     "r5"
+    ],
+    [
+     436,
+     1318,
+     439,
+     1325,
+     "r5"
+    ],
+    [
+     442,
+     1318,
+     446,
+     1325,
+     "r5"
+    ],
+    [
+     475,
+     1318,
+     492,
+     1336,
+     "r5"
+    ],
+    [
+     512,
+     1318,
+     530,
+     1337,
+     "r5"
+    ],
+    [
+     549,
+     1319,
+     565,
+     1337,
+     "r5"
+    ],
+    [
+     228,
+     1322,
+     234,
+     1337,
+     "r5"
+    ],
+    [
+     186,
+     1325,
+     194,
+     1337,
+     "r5"
+    ],
+    [
+     213,
+     1325,
+     225,
+     1337,
+     "r5"
+    ],
+    [
+     238,
+     1325,
+     246,
+     1337,
+     "r5"
+    ],
+    [
+     273,
+     1325,
+     283,
+     1337,
+     "r5"
+    ],
+    [
+     326,
+     1325,
+     335,
+     1337,
+     "r5"
+    ],
+    [
+     338,
+     1325,
+     348,
+     1337,
+     "r5"
+    ],
+    [
+     351,
+     1325,
+     363,
+     1336,
+     "r5"
+    ],
+    [
+     390,
+     1325,
+     399,
+     1336,
+     "r5"
+    ],
+    [
+     402,
+     1325,
+     411,
+     1337,
+     "r5"
+    ],
+    [
+     568,
+     1325,
+     576,
+     1337,
+     "r5"
+    ],
+    [
+     578,
+     1325,
+     588,
+     1337,
+     "r5"
+    ],
+    [
+     591,
+     1325,
+     600,
+     1337,
+     "r5"
+    ],
+    [
+     603,
+     1325,
+     611,
+     1337,
+     "r5"
+    ],
+    [
+     446,
+     1329,
+     472,
+     1332,
+     "r5"
+    ],
+    [
+     475,
+     1330,
+     481,
+     1337,
+     "r5"
+    ],
+    [
+     133,
+     1334,
+     136,
+     1339,
+     "r5"
+    ],
+    [
+     429,
+     1334,
+     433,
+     1337,
+     "r5"
+    ],
+    [
+     495,
+     1334,
+     499,
+     1337,
+     "r5"
+    ],
+    [
+     533,
+     1334,
+     536,
+     1337,
+     "r5"
+    ],
+    [
+     615,
+     1334,
+     618,
+     1340,
+     "r5"
+    ],
+    [
+     120,
+     1343,
+     138,
+     1361,
+     "r5"
+    ],
+    [
+     168,
+     1343,
+     171,
+     1345,
+     "r5"
+    ],
+    [
+     175,
+     1343,
+     180,
+     1361,
+     "r5"
+    ],
+    [
+     195,
+     1343,
+     206,
+     1361,
+     "r5"
+    ],
+    [
+     141,
+     1349,
+     153,
+     1365,
+     "r5"
+    ],
+    [
+     156,
+     1349,
+     165,
+     1361,
+     "r5"
+    ],
+    [
+     167,
+     1349,
+     172,
+     1361,
+     "r5"
+    ],
+    [
+     209,
+     1358,
+     212,
+     1361,
+     "r5"
+    ],
+    [
+     425,
+     1487,
+     486,
+     1543,
+     "r8"
+    ],
+    [
+     489,
+     1487,
+     542,
+     1542,
+     "r8"
+    ],
+    [
+     592,
+     1487,
+     645,
+     1543,
+     "r8"
+    ],
+    [
+     277,
+     1488,
+     354,
+     1544,
+     "r8"
+    ],
+    [
+     358,
+     1488,
+     421,
+     1542,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "title",
+   "bbox": {
+    "x0": 274,
+    "y0": 1484,
+    "x1": 648,
+    "y1": 1547
+   },
+   "text": "WHAT",
+   "status": "ok",
+   "confidence": 0.541706383228302,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 270,
+    "y0": 1473,
+    "x1": 996,
+    "y1": 1554
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "WHAT TO READ",
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 120,
+    "y0": 1632,
+    "x1": 625,
+    "y1": 1928
+   },
+   "text": "\"Abraham Lincoln, by Some Men Who Knew Him; Being Personal Recollections of Judge Owen T. Reeves, Hon. J. S. Ewing, Col. R. P. Morgan, Judge Franklin Blades and J. W. Bunn, with Introduction by Hon. I. N. Phillips.\" Bloomington (Ill.) Pantagraph Company.\n\nBigelow, Melville M.—\"False Equation.\" Little.",
+   "status": "ok",
+   "confidence": 0.8446663022041321,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 1628,
+    "x1": 624,
+    "y1": 2061
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 641,
+    "y0": 1633,
+    "x1": 1163,
+    "y1": 1934
+   },
+   "text": "\"A discussion of the departure of the State from the great trust charged upon it in regard to equality, and suggestions for a remedy.\"\n\nBloomfield, Meyer — \"The Vocational Guidance of Youth.\" Houghton, Mifflin & Company.\n\nBrown, William Adams—\"Morris K. Jesup; a Character Sketch.\" Scribner.\n\nThe Outlook says of this book that",
+   "status": "ok",
+   "confidence": 0.5631011128425598,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 643,
+    "y0": 1630,
+    "x1": 1163,
+    "y1": 2061
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1114,
+    "y0": 128,
+    "x1": 1149,
+    "y1": 157
+   },
+   "text": "37",
+   "status": "ok",
+   "confidence": 0.8083611726760864,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1112,
+    "y0": 127,
+    "x1": 1147,
+    "y1": 153
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 15,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.21,
+  "box_overlaps_after": 5,
+  "log": [
+   "drop r7 (text): non-latin hallucination 'حرَّجَة'",
+   "reshape r8 (title): lost 50% of its ink, gained 0%",
+   "reread r8: 'WHAT TO READ' -> 'WHAT'",
+   "split r3 at y=510 before 'ARMED NEGROES'",
+   "split r3b at y=585 before 'FIRE ON WHITES'",
+   "split r3bb at y=732 before 'BATTLE IN CITY STREETS'",
+   "split r3bbb at y=773 before 'BATTLE IN CITY STREETS'"
+  ]
+ }
+}

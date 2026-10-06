@@ -1,0 +1,573 @@
+{
+ "page": 21,
+ "image": "images/page_21.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.0,
+  "at": "2026-10-06T21:59:07+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 371,
+    "y0": 103,
+    "x1": 609,
+    "y1": 126
+   },
+   "text": "THE N. A. A. C. P.",
+   "status": "ok",
+   "confidence": 0.8875864744186401,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 369,
+    "y0": 102,
+    "x1": 607,
+    "y1": 125
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 507,
+    "y0": 154,
+    "x1": 903,
+    "y1": 193
+   },
+   "text": "matter must be left to the individual States.",
+   "status": "ok",
+   "confidence": 0.9448050260543823,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 504,
+    "y0": 152,
+    "x1": 902,
+    "y1": 194
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 81,
+    "y0": 154,
+    "x1": 479,
+    "y1": 254
+   },
+   "text": "a few neighbors) stood guard over the body of the dead man, allowing no one to approach except the dead man's wife, until the sheriff arrived to whom he and his companions surrendered.",
+   "status": "ok",
+   "confidence": 0.9631572961807251,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 80,
+    "y0": 153,
+    "x1": 479,
+    "y1": 251
+   },
+   "exclude": [
+    [
+     105,
+     252,
+     121,
+     267,
+     "r4"
+    ],
+    [
+     202,
+     253,
+     212,
+     267,
+     "r4"
+    ],
+    [
+     264,
+     253,
+     267,
+     256,
+     "r4"
+    ],
+    [
+     277,
+     253,
+     287,
+     268,
+     "r4"
+    ],
+    [
+     454,
+     252,
+     457,
+     255,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 506,
+    "y0": 202,
+    "x1": 904,
+    "y1": 481
+   },
+   "text": "The Committee on Federal Aid to Education has reported through its chairman, Dr. Wm. H. Maxwell, that acceptances to serve on a committee to consider the whole question of Federal aid have been received from Prof. John Dewey, Rev. Frederick Lynch, Mr. John E. Milholland, Dr. Charles H. Parkhurst, Miss Lillian D. Wald, Dr. Owen M. Waller and Dr. Stephen S. Wise. Dr. Maxwell will call a meeting in the early autumn, and ask the members to present a plan for work to the Executive Committee.",
+   "status": "ok",
+   "confidence": 0.9739810824394226,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 506,
+    "y0": 210,
+    "x1": 902,
+    "y1": 480
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 82,
+    "y0": 250,
+    "x1": 480,
+    "y1": 619
+   },
+   "text": "He, together with two sons, son-in-law and two neighbors were brought to the Tallahassee jail, fifteen miles from the scene of the trouble. Fearing mob violence, the sheriff, contrary to the advice of the Governor it appears, sent them to the Live Oak jail, eighty miles away, where they stayed one night only. Thence they were taken to Lake City, 106 miles from Tallahassee and 26 miles from Live Oak. By ruse as per telegraphic reports, these six men were taken from the jail and shot to death in the suburbs of the town by a dozen men—three automobile loads of persons unknown and from unknown places. Of course the air is full of rumors; but, like rumors, the information given is more or less unreliable.",
+   "status": "ok",
+   "confidence": 0.9740338921546936,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 82,
+    "y0": 251,
+    "x1": 479,
+    "y1": 615
+   },
+   "exclude": [
+    [
+     163,
+     238,
+     172,
+     252,
+     "r2"
+    ],
+    [
+     106,
+     617,
+     121,
+     632,
+     "r6"
+    ],
+    [
+     310,
+     617,
+     313,
+     620,
+     "r6"
+    ],
+    [
+     368,
+     617,
+     381,
+     633,
+     "r6"
+    ],
+    [
+     123,
+     618,
+     132,
+     632,
+     "r6"
+    ],
+    [
+     223,
+     618,
+     238,
+     633,
+     "r6"
+    ],
+    [
+     334,
+     618,
+     343,
+     632,
+     "r6"
+    ],
+    [
+     406,
+     618,
+     408,
+     620,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 508,
+    "y0": 489,
+    "x1": 904,
+    "y1": 768
+   },
+   "text": "The Director of Publicity and Research made, during the month of May, a lecture tour which took him as far west as Denver. He spoke at Wheeling, Cincinnati, St. Louis and Colorado Springs, addressing in all from three to four thousand people, and receiving considerable attention from the press. He is now in England for the Universal Races Congress. He has acted for that body as the American secretary for the colored races, and will give the address at the Congress on the Negro in the United States.",
+   "status": "ok",
+   "confidence": 0.9712178707122803,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 507,
+    "y0": 498,
+    "x1": 902,
+    "y1": 767
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 84,
+    "y0": 615,
+    "x1": 481,
+    "y1": 906
+   },
+   "text": "The upper House of the Legislature, now in session, has voted a reward of $5,000 for the arrest with evidence to convict the guilty parties. It is more than probable that the lower House will concur. The better elements of the whites throughout the State are thoroughly aroused over this especially heinous crime; and it may be that there will be a serious effort made to bring the assassins into court. These are the bare facts in the case, as I have been able to gather them from conversation and from local papers.",
+   "status": "ok",
+   "confidence": 0.9711406230926514,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 82,
+    "y0": 616,
+    "x1": 480,
+    "y1": 903
+   },
+   "exclude": [
+    [
+     133,
+     603,
+     143,
+     617,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 508,
+    "y0": 768,
+    "x1": 904,
+    "y1": 925
+   },
+   "text": "Before sailing Dr. DuBois had made several other engagements to speak on race matters in London. He will address the West London Ethical Society, the Subject Races International Committee and the Liberal Club, and he will be entertained at dinner by the Lyceum Club. The Races Congress opens July 25.",
+   "status": "ok",
+   "confidence": 0.9648224115371704,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 507,
+    "y0": 768,
+    "x1": 903,
+    "y1": 922
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 85,
+    "y0": 926,
+    "x1": 482,
+    "y1": 1100
+   },
+   "text": "On May 31 a number of organizations, including the National Association, represented by Dr. Wm. A. Sinclair, secured an audience with President Taft and presented a resolution against lynching. After detailing the series of terrible lynchings—eleven in three weeks—that had been permitted in the South, the resolution declared:",
+   "status": "ok",
+   "confidence": 0.9740557670593262,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 84,
+    "y0": 923,
+    "x1": 480,
+    "y1": 1100
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 508,
+    "y0": 929,
+    "x1": 905,
+    "y1": 1270
+   },
+   "text": "Mr. W. deForest Brush, the well-known New York artist, received a few weeks ago a call from a young colored lad who asked if he might show him some water-color paintings that he had made at his home near Charleston, W. Va. The boy produced his pictures, which Mr. Brush at once saw showed nothing short of genius. Without any instruction, except such knowledge of colors as came to him through his trade of sign painter, the boy produced work of great delicacy, beauty and truthfulness. Mr. Brush wishes to teach the lad himself, and the Association is raising money to support the boy during his years of instruction.",
+   "status": "ok",
+   "confidence": 0.9759833216667175,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 507,
+    "y0": 938,
+    "x1": 904,
+    "y1": 1267
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 84,
+    "y0": 1104,
+    "x1": 482,
+    "y1": 1357
+   },
+   "text": "\"We believe that the time has come when the Chief Executive of the nation into whose hands have been committed the enforcement of the laws and the preservation of the rights of all the people—should call the attention of Congress to this awful reign of lawlessness and murder, and recommend that appropriate legislation be enacted for the protection of life, liberty and property in every part of the United States, as the State governments seem impotent to render such protection.",
+   "status": "ok",
+   "confidence": 0.9747660756111145,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 84,
+    "y0": 1103,
+    "x1": 480,
+    "y1": 1353
+   },
+   "exclude": [
+    [
+     107,
+     1356,
+     111,
+     1362,
+     "r12"
+    ],
+    [
+     357,
+     1356,
+     360,
+     1359,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 509,
+    "y0": 1291,
+    "x1": 906,
+    "y1": 1410
+   },
+   "text": "The Rev. John Haynes Holmes is arranging a meeting for the centenary of Wendell Phillips's birth, Nov. 29, 1911, at Plymouth Church, Brooklyn. Mr. Charles Edward Russell will be one of the speakers.",
+   "status": "ok",
+   "confidence": 0.9631261229515076,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 507,
+    "y0": 1288,
+    "x1": 904,
+    "y1": 1407
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 85,
+    "y0": 1354,
+    "x1": 482,
+    "y1": 1474
+   },
+   "text": "\"And we would urgently implore your excellency to send a special message to Congress, asking that such action be taken as will remove this foul blot which impeaches our civilization, our Christianity and the honor of our nation.\"",
+   "status": "ok",
+   "confidence": 0.9643995761871338,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 84,
+    "y0": 1354,
+    "x1": 481,
+    "y1": 1469
+   },
+   "exclude": [
+    [
+     319,
+     1471,
+     329,
+     1486,
+     "r14"
+    ],
+    [
+     107,
+     1472,
+     121,
+     1487,
+     "r14"
+    ],
+    [
+     123,
+     1473,
+     133,
+     1488,
+     "r14"
+    ],
+    [
+     157,
+     1473,
+     170,
+     1487,
+     "r14"
+    ],
+    [
+     201,
+     1472,
+     204,
+     1475,
+     "r14"
+    ],
+    [
+     207,
+     1472,
+     216,
+     1487,
+     "r14"
+    ],
+    [
+     351,
+     1472,
+     360,
+     1486,
+     "r14"
+    ],
+    [
+     441,
+     1472,
+     443,
+     1474,
+     "r14"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "abandon",
+   "bbox": {
+    "x0": 509,
+    "y0": 1430,
+    "x1": 906,
+    "y1": 1507
+   },
+   "text": "The New York branch, of which Prof. J. E. Spingarn is chairman, is forming a City Vigilance Committee, with Mr. Gilchrist Stewart at its head.",
+   "status": "ok",
+   "confidence": 0.7255557179450989,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 507,
+    "y0": 1428,
+    "x1": 905,
+    "y1": 1508
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 86,
+    "y0": 1469,
+    "x1": 482,
+    "y1": 1516
+   },
+   "text": "The President assured the committee that he could do nothing, and that the",
+   "status": "ok",
+   "confidence": 0.9283586740493774,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 85,
+    "y0": 1469,
+    "x1": 481,
+    "y1": 1509
+   },
+   "exclude": [
+    [
+     130,
+     1456,
+     148,
+     1472,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "abandon",
+   "bbox": {
+    "x0": 864,
+    "y0": 102,
+    "x1": 903,
+    "y1": 124
+   },
+   "text": "109",
+   "status": "ok",
+   "confidence": 0.8710011839866638,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 863,
+    "y0": 101,
+    "x1": 901,
+    "y1": 122
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 16,
+  "regions_after": 16,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.4,
+  "box_overlaps_after": 4,
+  "log": []
+ }
+}

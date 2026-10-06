@@ -1,0 +1,351 @@
+{
+ "page": 26,
+ "image": "images/page_26.jpg",
+ "width": 1398,
+ "height": 2083,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.5,
+  "at": "2026-10-06T21:13:21+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 249,
+    "y0": 103,
+    "x1": 1313,
+    "y1": 283
+   },
+   "text": "A Black Statesman of the Last Century\nBy Dr. FRANCES HOGGAN, of London, England",
+   "status": "ok",
+   "confidence": 0.4763459265232086,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 296,
+    "y0": 146,
+    "x1": 1242,
+    "y1": 196
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "A Black Statesman of the Last Century",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 250,
+    "y0": 313,
+    "x1": 763,
+    "y1": 611
+   },
+   "text": "Moshesh, \"the Conqueror,\" is a very striking figure among the black rulers of South Africa. He might be an early Roman gathering in adherents from neighboring tribes. Like many another black man of marked personality, he has been maligned, accused of treachery and crimes he never committed, but more fortunately than some, he is not altogether misrepresented, and he had some friends who have done justice to his force of character and intellect.",
+   "status": "ok",
+   "confidence": 0.9756363034248352,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 250,
+    "y0": 310,
+    "x1": 759,
+    "y1": 611
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 250,
+    "y0": 616,
+    "x1": 762,
+    "y1": 1283
+   },
+   "text": "He lived in the early half of the nineteenth century, dying in 1869, and was chief of the Basutos. Pressed on all sides, encroached upon by Boer and Briton alike, threatened with extermination by the mighty Zulu host, Moshesh displayed, on a small theatre, it is true, the most remarkable diplomatic aptitude and skill. Like Cavour, many of whose qualities he possessed in no small degree, he pushed forward with the single-minded aim of safeguarding the rights and liberties of his people. Like Cavour also, he knew the value of compromise, and whenever he became convinced that downright justice had no chance of triumphing he turned his shrewd, subtle intellect toward securing the attainable maximum of justice and fair dealing which the circumstances of the period rendered possible. With a clearsightedness one could not have expected in an unlearned black chief, he early realized that the hope of his country lay in cultivating friendly relations with the English, and from this position no ill-treatment, double-oealing or injustice could turn him.*",
+   "status": "ok",
+   "confidence": 0.9731895923614502,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 249,
+    "y0": 614,
+    "x1": 759,
+    "y1": 1282
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 247,
+    "y0": 1287,
+    "x1": 761,
+    "y1": 1862
+   },
+   "text": "Just as his clear mental vision enabled Moshesh as a young man to select for his stronghold Thaba Bosigo, a flat shaped and naturally fortified mountain which a few could hold against an army, and from which he was never dislodged either by Zulus, Boers or English, so he saw with prophetic eye the Basuto, shorn of much that rightfully belonged to them, yet prosperous, semi-independent and strong under the protecting care of the Great White Queen. Therefore, at a time when the fortune of war was wavering between him and the English under General Cathcart, and when he had even gained certain advantages against them, just when a savage chief would have exulted in the possibility of massacre or at any rate, of temporary bloodshed, Moshesh, who had learned the hard lesson of self-conquest, chose that moment to send an envoy suing for peace, when indeed it could not well be refused. His letter, simple, direct and",
+   "status": "ok",
+   "confidence": 0.9736651182174683,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 248,
+    "y0": 1286,
+    "x1": 759,
+    "y1": 1857
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 243,
+    "y0": 1874,
+    "x1": 762,
+    "y1": 1964
+   },
+   "text": "*See for particulars of Colonel Warren's oppressive and unfair dealings with Moshesh, \"Basutoland Records,\" and Orpen's \"Reminiscences of Life in South Africa, from 1846.\"",
+   "status": "ok",
+   "confidence": 0.9512702226638794,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 245,
+    "y0": 1881,
+    "x1": 761,
+    "y1": 1962
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "*See for particulars of Colonel Warren's oppressive and unfair dealings with Moshesh, \"Basutoland Records,\" and Orpen's \"Reminiscences of Life in South Africa, from 1846.\"",
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 793,
+    "y0": 310,
+    "x1": 1312,
+    "y1": 786
+   },
+   "text": "manly, has been called \"The wisest letter ever written in South Africa.\"\n\nThaba Bosigo,\nMidnight, 20th December, 1852.\nYour Excellency,\nThis day you have fought against our people and taken much cattle. As the object for which you have come is to obtain cattle for the Boers, I beg you will be satisfied with what you have taken. I entreat peace from you. You have shown your power. You have chastised. Let it be enough, I pray you; and let me no longer be considered as an enemy to the Queen. I will try all I can to keep my people in order for the future.\n\nYour humble servant,\n\nMoshesh.†",
+   "status": "ok",
+   "confidence": 0.9741740822792053,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 793,
+    "y0": 309,
+    "x1": 1308,
+    "y1": 783
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 792,
+    "y0": 796,
+    "x1": 1308,
+    "y1": 1269
+   },
+   "text": "General Cathcart, feeling himself somewhat cornered, thereupon made peace. This may serve as a specimen of Moshesh's relations with the English. With the Boers subsequently he was more unbending, and in return for the slight consideration accorded to many of his well-founded claims, he inflicted on them a protracted retaliatory border warfare, in the course of which numerous successful raids on their cattle took place. When, however, the Boers were roused into energetic action, and their tactics and military skill threatened to overwhelm him and his people, diplomacy again came to his aid, and Moshesh obtained from the English, in answer to his urgent entreaty, the favor of having a Protectorate proclaimed over the whole of the Basuto territory in 1868.",
+   "status": "ok",
+   "confidence": 0.6425370573997498,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 792,
+    "y0": 796,
+    "x1": 1306,
+    "y1": 1262
+   },
+   "exclude": [
+    [
+     821,
+     1267,
+     846,
+     1286,
+     "r7"
+    ],
+    [
+     850,
+     1267,
+     853,
+     1270,
+     "r7"
+    ],
+    [
+     903,
+     1267,
+     914,
+     1286,
+     "r7"
+    ],
+    [
+     944,
+     1267,
+     947,
+     1271,
+     "r7"
+    ],
+    [
+     943,
+     1267,
+     957,
+     1285,
+     "r7"
+    ],
+    [
+     865,
+     1268,
+     878,
+     1286,
+     "r7"
+    ],
+    [
+     974,
+     1268,
+     978,
+     1286,
+     "r7"
+    ],
+    [
+     1049,
+     1268,
+     1060,
+     1286,
+     "r7"
+    ],
+    [
+     1087,
+     1268,
+     1098,
+     1286,
+     "r7"
+    ],
+    [
+     1130,
+     1268,
+     1140,
+     1285,
+     "r7"
+    ],
+    [
+     1144,
+     1268,
+     1150,
+     1286,
+     "r7"
+    ],
+    [
+     1214,
+     1268,
+     1217,
+     1286,
+     "r7"
+    ],
+    [
+     1249,
+     1268,
+     1260,
+     1287,
+     "r7"
+    ],
+    [
+     1260,
+     1268,
+     1269,
+     1286,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 792,
+    "y0": 1264,
+    "x1": 1311,
+    "y1": 1841
+   },
+   "text": "With the Zulus and the Matabele Moshesh showed himself both warlike and astute. After repulsing Moselikatze and his horde from Thaba Bosigo, he is said to have sent them a present of oxen for food. They thereupon declared that they would never fight him again, and they never did; but numbers of the Matabele came in afterwards to live under his rule. This may be a legendary story, and so also may be the well-known witty reply to those who accused Moshesh of too great leniency in his dealings with some of his people whom want had driven into cannibalism. \"I have always been taught to respect the graves of my ancestors.\" These stories have a flavor of the man about them, whether historically true or not. Moshesh is one round whom legend quickly gathers, as it does round so many other popular heroes. A story told me by the wife of one of his missionaries is characteristic of the man in private life. I give the story as",
+   "status": "ok",
+   "confidence": 0.5295411944389343,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 792,
+    "y0": 1266,
+    "x1": 1306,
+    "y1": 1823
+   },
+   "exclude": [
+    [
+     1179,
+     1249,
+     1201,
+     1266,
+     "r6"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "With the Zulus and the Matabele Moshesh showed himself both warlike and astute. After repulsing Moselikatze and his horde from Thaba Bosigo, he is said to have sent them a present of oxen for food. They thereupon declared that they would never fight him again, and they never did; but numbers of the Matabele came in afterwards to live under his rule. This may be a legendary story, and so also may be the well-known witty reply to those who accused Moshesh of too great leniency in his dealings with some of his people whom want had driven into cannibalism. \"I have always been taught to respect the graves of my ancestors.\" These stories have a flavor of the man about them, whether historically true or not. Moshesh is one round whom legend quickly gathers, as it does round so many other popular heroes. A story told me by the wife of one of his missionaries is characteristic of the man in private life. I give the story as",
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "abandon",
+   "bbox": {
+    "x0": 794,
+    "y0": 1875,
+    "x1": 1313,
+    "y1": 1965
+   },
+   "text": "This letter is said to be an exact translation of Moshesh's own words, dictated to his son Nehemia, who could write English, though his father could not.",
+   "status": "ok",
+   "confidence": 0.9232391119003296,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 793,
+    "y0": 1885,
+    "x1": 1309,
+    "y1": 1964
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "†This letter is said to be an exact translation of Moshesh's own words, dictated to his son Nehemia, who could write English, though his father could not.",
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 2.31,
+  "box_overlaps_after": 1,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 66%",
+   "reshape r4 (abandon): lost 0% of its ink, gained 5%",
+   "reshape r7 (plain_text): lost 0% of its ink, gained 4%",
+   "reshape r8 (abandon): lost 0% of its ink, gained 9%",
+   "reread r0: 'A Black Statesman of the Last Century' -> 'A Black Statesman of the Last Century\\nBy'",
+   "reread r4: \"*See for particulars of Colonel Warren's\" -> \"*See for particulars of Colonel Warren's\"",
+   "reread r7: 'With the Zulus and the Matabele Moshesh ' -> 'With the Zulus and the Matabele Moshesh '",
+   "reread r8: '†This letter is said to be an exact tran' -> 'This letter is said to be an exact trans'"
+  ]
+ }
+}

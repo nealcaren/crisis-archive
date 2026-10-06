@@ -1,0 +1,113 @@
+{
+  "page": 17,
+  "image": "images/page_17.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 437,
+        "y0": 93,
+        "x1": 550,
+        "y1": 118
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.3066030442714691,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 91,
+        "y0": 144,
+        "x1": 484,
+        "y1": 733
+      },
+      "text": "white, he must be lynched, if a white kills a 'nigger' he must go free.\n\"5. The last and most important, the 'nigger must be kept down' and 'must know his place.'\n\"Needless to say, all our modern methods of thought rebel at the idea that one race is doomed to be a 'hewer of wood and drawer of water' for another. The logic that Negroes can't be educated has been shown to be a mistake by the fact that the race has taken education. The argument that 'education ruins Negroes' for work is proven false by the fact that the race as a whole has done better work since the war than it ever did in slavery.\n\"The remainder of these principles has for its foundation a mixture of fear and jealousy—jealousy of the Negro's past progress—and fear that in the future he will become an industrial rival of the white man. In the words of Thomas Dixon, 'nobody believes that the white will allow the Negro to master his industrial system, take the bread from his mouth, crowd him to the wall, and place a mortgage on his house, what will he do when put to the test? He will do exactly what his white brother of the North does when the Negro threatens his bread—kill him.'",
+      "status": "ok",
+      "confidence": 0.9272410869598389,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 93,
+        "y0": 736,
+        "x1": 485,
+        "y1": 1134
+      },
+      "text": "\"Without stopping to consider that if the white man, with his thousand years head start, can't keep ahead of the Negro, he deserves to have his fields taken from him, let us consider the truth of these assertions. I said that this theory had for its foundation a mixture of jealousy and fear, but it has ignorance for its groundwork. It believes that the prosperity of the one race must be at the expense of the other. This belief was at the bottom of the old mercantile theory, which imagined that one party to a trade is necessarily cheated, but Adam Smith, in his Wealth of Nations, showed that instead of one being cheated that both were benefited by the exchange. So it is with the two races, the prosperity of one is the gain of the other, the adversity of one is the loss of the other.",
+      "status": "ok",
+      "confidence": 0.979430615901947,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1137,
+        "x1": 485,
+        "y1": 1498
+      },
+      "text": "\"In order to compare the two theories let us notice the theory of uplift, which is advocated by the leading thinkers of both races. They believe that the Negro is a fellow man, that we the whites owe him something for past injustices done him, and that the economic future of the South depends upon making him an intelligent laborer. They realize that such a treatment of the Negroes is highly expedient for the whites, since the Negro is either to be one-third of the producing power of the South or one-third of its retarding, non-productive. If the Negro is prosperous, the white can trade with him and each will be benefited; if he is kept in poverty, the white has just one-third less to do business with. With proper training the Negro can till the",
+      "status": "ok",
+      "confidence": 0.9771893620491028,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "abandon",
+      "bbox": {
+        "x0": 510,
+        "y0": 93,
+        "x1": 906,
+        "y1": 659
+      },
+      "text": "fields, work the cotton mills and do the other work of the South, which is not being done to-day on account of insufficient labor.\n\"But Dixon asserts that this will take the bread from the white laborer's mouth. Not at all. The increase in earning power of the Negro will raise his standard of living, enlarge his demand for commodities, hence making a larger supply necessary, and giving additional employment to the white labor. For instance, here is a Negro who can neither read nor write, who lives in a one-room shanty, eats bacon and cornbread, lies around and sleeps when not working the least possible amount. Suppose we send his son to school. Soon that son will demand books and papers, then knives and forks, then better food, and finally a new house and some luxuries, and at the same time will have learned some useful trade. Can it be doubted that that Negro is of more benefit to his community than was his father, yet whom has he crowded to the wall, and whose bread has he taken away?",
+      "status": "ok",
+      "confidence": 0.9777611494064331,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 511,
+        "y0": 659,
+        "x1": 904,
+        "y1": 1114
+      },
+      "text": "\"Now let us notice the theories in regard to the civil and political phases. Is it wise to have different standards of justice for the two races? I answer no. Justice for every man, and every man for justice, was the cornerstone on which this government was builted, and on which it rests to-day. If we discriminate between men of different races it is only a question of time until we discriminate between men of the same race. I know of an instance where a Negro in Dallas county was given twenty-five days on the county road for stealing a rooster worth about five cents; I know of another, where, through the 'peonage system,' a Negro worked a year on a farm for carrying a pistol, while how often do we read of officers murdering Negroes because they thought they were about to do something; the officers are rarely tried, yet what would be the result if the victims were white and the officers black?",
+      "status": "ok",
+      "confidence": 0.9776626825332642,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 511,
+        "y0": 1114,
+        "x1": 904,
+        "y1": 1498
+      },
+      "text": "\"Next, is it advisable to exclude the Negroes from the ballot? Laying aside the fact that history teaches 'where there are no political rights, civil rights also disappear,' and granting that the universal suffrage given by the Fifteenth Amendment was a mistake, and granting that the majority of the Negroes are incapable of voting wisely at present, yet I maintain that the taking of the vote from them would be both unwise and unjust; unwise, because a large number of the Negroes have acquired education and property, and to exclude them would necessarily make them discontented and rebellious; unjust because 'taxation without representation' is still not right, and governments do still 'derive their just powers from the consent of the governed.' Such devices as the 'grandfather",
+      "status": "ok",
+      "confidence": 0.9779306650161743,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.9,
+    "at": "2026-10-06T22:11:56+00:00"
+  }
+}

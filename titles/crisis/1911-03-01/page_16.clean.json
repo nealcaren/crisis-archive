@@ -1,0 +1,197 @@
+{
+ "page": 16,
+ "image": "images/page_16.jpg",
+ "width": 1092,
+ "height": 1670,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.8,
+  "at": "2026-10-06T21:17:56+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 179,
+    "y0": 94,
+    "x1": 1028,
+    "y1": 234
+   },
+   "text": "EDITORIAL",
+   "status": "ok",
+   "confidence": 0.6100809574127197,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 328,
+    "y0": 130,
+    "x1": 874,
+    "y1": 196
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "EDITORIAL",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 176,
+    "y0": 258,
+    "x1": 585,
+    "y1": 830
+   },
+   "text": "THERE is living to-day in the city of Washington a white-haired man of towering physique who was born in New Hampshire in 1834. He was admitted to the bar in 1859 and became a Lieutenant-Colonel in the Civil War. On December 6, 1875, he was elected a representative in the United States Congress, and from June, 1879, to March, 1891, was United States Senator from New Hampshire; and his name is Blair. On July 29, 1876, Henry William Blair delivered a speech on \"Free Schools\" in the House of Representatives which marked the beginning of his career. In 1881 as Chairman of the Committee on Education and Labor in the United States Senate, Mr. Blair introduced the celebrated Blair bill.",
+   "status": "ok",
+   "confidence": 0.9772993326187134,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 177,
+    "y0": 255,
+    "x1": 582,
+    "y1": 829
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 173,
+    "y0": 831,
+    "x1": 582,
+    "y1": 1127
+   },
+   "text": "The Blair bill was discussed for ten years, passed the Senate of the United States three times, commanded at least twice a majority in the House of Representatives, although it was not permitted to come to a vote, and was finally defeated in the United States Senate in 1890 by a combination of New England and Middle West votes. The Blair bill as reported to the 48th Congress provided:",
+   "status": "ok",
+   "confidence": 0.9812034964561462,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 830,
+    "x1": 580,
+    "y1": 1124
+   },
+   "exclude": [
+    [
+     213,
+     1126,
+     229,
+     1144,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 173,
+    "y0": 1124,
+    "x1": 582,
+    "y1": 1493
+   },
+   "text": "\"That for ten years after the passage of this act there shall be annually appropriated from the money in the Treasury the following sums, to wit: The first year the sum of $15,000,000; the second year, the sum of $14,000,000; the third year the sum of $13,000,000, and thereafter a sum diminished $1,000,000 yearly from the sum last appropriated until ten annual appropriations shall have been made, when all appropriations under this act shall cease; which several sums shall be expended to secure the benefits of common-",
+   "status": "ok",
+   "confidence": 0.980012834072113,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 174,
+    "y0": 1125,
+    "x1": 579,
+    "y1": 1493
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 611,
+    "y0": 256,
+    "x1": 1025,
+    "y1": 655
+   },
+   "text": "school education of all children of the school age mentioned hereafter living in the United States.\n\"Sec. 2. That such money shall annually be divided among and paid out in the several States and Territories in that proportion which the whole number of persons in each, who, being of the age of ten years and over, cannot read and write bears to the whole number of such persons in the United States; and until otherwise provided such computation shall be made according to the official returns of the census of 1880.",
+   "status": "ok",
+   "confidence": 0.978635847568512,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 611,
+    "y0": 254,
+    "x1": 1023,
+    "y1": 655
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 609,
+    "y0": 660,
+    "x1": 1020,
+    "y1": 1247
+   },
+   "text": "\"Sec. 5. That the instruction in the common schools wherein these moneys shall be expended shall include the art of reading, writing and speaking the English language, arithmetic, geography, history of the United States and such other branches of useful knowledge as may be taught under local laws, and shall include, whenever practicable, instruction in the arts of industry, and the instruction of females in such branches of technical or industrial education as are suited to their sex, which instruction shall be free to all, without distinction of race, color, nativity or condition of life: Provided, that nothing herein shall deprive children of different races, living in the same community, but attending separate schools, from receiving the benefits of this act the same as though the attendance therein were without distinction of race.\"",
+   "status": "ok",
+   "confidence": 0.9793375730514526,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 608,
+    "y0": 661,
+    "x1": 1018,
+    "y1": 1246
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 609,
+    "y0": 1249,
+    "x1": 1019,
+    "y1": 1497
+   },
+   "text": "The sentiment in favor of this bill was tremendous. Garfield mentioned it in his inaugural address, the Peabody trustees favored it, Dr. J. L. M. Curry spoke for it, the American Missionary Association, the Baptist, Methodist, and Presbyterian Missionary and Educational Societies sent in memorials signed by men like Michael Strieby and Samuel C. Arm-",
+   "status": "ok",
+   "confidence": 0.9762502312660217,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 608,
+    "y0": 1248,
+    "x1": 1016,
+    "y1": 1496
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 7,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 65%",
+   "reread r0: 'EDITORIAL' -> 'EDITORIAL'"
+  ]
+ }
+}

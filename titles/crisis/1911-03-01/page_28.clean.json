@@ -1,0 +1,741 @@
+{
+ "page": 28,
+ "image": "images/page_28.jpg",
+ "width": 1085,
+ "height": 1666,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 11.1,
+  "at": "2026-10-06T21:19:22+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 152,
+    "y0": 92,
+    "x1": 1005,
+    "y1": 229
+   },
+   "text": "THE BURDEN",
+   "status": "ok",
+   "confidence": 0.45824387669563293,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 153,
+    "y0": 95,
+    "x1": 1003,
+    "y1": 293
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "THE BURDEN\nCOLORED MEN LYNCHED WITHOUT\nTRIAL. consciousness of kind. And plenty of jim crows should be flying overhead.",
+   "role": "text",
+   "split_from": "r0"
+  },
+  {
+   "id": "r0b",
+   "label": "title",
+   "bbox": {
+    "x0": 152,
+    "y0": 229,
+    "x1": 1005,
+    "y1": 295
+   },
+   "text": "COLORED MEN LYNCHED WITHOUT TRIAL.",
+   "status": "ok",
+   "confidence": 0.45824387669563293,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 153,
+    "y0": 95,
+    "x1": 1003,
+    "y1": 293
+   },
+   "exclude": [
+    [
+     854,
+     255,
+     864,
+     271,
+     "r5"
+    ],
+    [
+     886,
+     255,
+     890,
+     271,
+     "r5"
+    ],
+    [
+     953,
+     255,
+     960,
+     270,
+     "r5"
+    ],
+    [
+     973,
+     255,
+     977,
+     258,
+     "r5"
+    ],
+    [
+     980,
+     255,
+     983,
+     258,
+     "r5"
+    ],
+    [
+     645,
+     257,
+     648,
+     260,
+     "r5"
+    ],
+    [
+     742,
+     256,
+     748,
+     272,
+     "r5"
+    ],
+    [
+     760,
+     256,
+     770,
+     271,
+     "r5"
+    ],
+    [
+     773,
+     256,
+     775,
+     259,
+     "r5"
+    ],
+    [
+     789,
+     256,
+     798,
+     271,
+     "r5"
+    ],
+    [
+     825,
+     256,
+     840,
+     271,
+     "r5"
+    ],
+    [
+     913,
+     258,
+     929,
+     274,
+     "r5"
+    ],
+    [
+     702,
+     261,
+     708,
+     272,
+     "r5"
+    ],
+    [
+     729,
+     261,
+     739,
+     272,
+     "r5"
+    ],
+    [
+     778,
+     261,
+     787,
+     271,
+     "r5"
+    ],
+    [
+     842,
+     260,
+     851,
+     271,
+     "r5"
+    ],
+    [
+     874,
+     260,
+     884,
+     275,
+     "r5"
+    ],
+    [
+     892,
+     260,
+     900,
+     271,
+     "r5"
+    ],
+    [
+     902,
+     260,
+     911,
+     271,
+     "r5"
+    ],
+    [
+     940,
+     260,
+     951,
+     271,
+     "r5"
+    ],
+    [
+     971,
+     260,
+     976,
+     274,
+     "r5"
+    ],
+    [
+     980,
+     260,
+     984,
+     270,
+     "r5"
+    ],
+    [
+     985,
+     260,
+     1001,
+     270,
+     "r5"
+    ],
+    [
+     594,
+     262,
+     602,
+     273,
+     "r5"
+    ],
+    [
+     604,
+     262,
+     613,
+     273,
+     "r5"
+    ],
+    [
+     614,
+     262,
+     624,
+     273,
+     "r5"
+    ],
+    [
+     626,
+     262,
+     633,
+     273,
+     "r5"
+    ],
+    [
+     634,
+     262,
+     642,
+     273,
+     "r5"
+    ],
+    [
+     644,
+     262,
+     648,
+     272,
+     "r5"
+    ],
+    [
+     649,
+     262,
+     659,
+     273,
+     "r5"
+    ],
+    [
+     661,
+     262,
+     670,
+     272,
+     "r5"
+    ],
+    [
+     672,
+     262,
+     679,
+     273,
+     "r5"
+    ],
+    [
+     681,
+     262,
+     690,
+     272,
+     "r5"
+    ],
+    [
+     692,
+     262,
+     700,
+     272,
+     "r5"
+    ],
+    [
+     710,
+     262,
+     717,
+     272,
+     "r5"
+    ],
+    [
+     772,
+     262,
+     776,
+     271,
+     "r5"
+    ],
+    [
+     801,
+     269,
+     803,
+     272,
+     "r5"
+    ],
+    [
+     888,
+     275,
+     898,
+     291,
+     "r5"
+    ],
+    [
+     666,
+     277,
+     675,
+     292,
+     "r5"
+    ],
+    [
+     700,
+     277,
+     704,
+     292,
+     "r5"
+    ],
+    [
+     706,
+     277,
+     715,
+     292,
+     "r5"
+    ],
+    [
+     725,
+     277,
+     735,
+     292,
+     "r5"
+    ],
+    [
+     757,
+     276,
+     766,
+     292,
+     "r5"
+    ],
+    [
+     780,
+     276,
+     782,
+     279,
+     "r5"
+    ],
+    [
+     857,
+     276,
+     867,
+     291,
+     "r5"
+    ],
+    [
+     737,
+     281,
+     745,
+     292,
+     "r5"
+    ],
+    [
+     767,
+     281,
+     777,
+     295,
+     "r5"
+    ],
+    [
+     779,
+     281,
+     783,
+     291,
+     "r5"
+    ],
+    [
+     785,
+     281,
+     794,
+     291,
+     "r5"
+    ],
+    [
+     796,
+     281,
+     807,
+     295,
+     "r5"
+    ],
+    [
+     816,
+     281,
+     826,
+     292,
+     "r5"
+    ],
+    [
+     828,
+     281,
+     837,
+     291,
+     "r5"
+    ],
+    [
+     838,
+     281,
+     847,
+     291,
+     "r5"
+    ],
+    [
+     848,
+     281,
+     855,
+     291,
+     "r5"
+    ],
+    [
+     869,
+     280,
+     876,
+     291,
+     "r5"
+    ],
+    [
+     878,
+     280,
+     887,
+     291,
+     "r5"
+    ],
+    [
+     594,
+     283,
+     601,
+     293,
+     "r5"
+    ],
+    [
+     604,
+     282,
+     611,
+     293,
+     "r5"
+    ],
+    [
+     612,
+     283,
+     621,
+     293,
+     "r5"
+    ],
+    [
+     623,
+     283,
+     637,
+     293,
+     "r5"
+    ],
+    [
+     639,
+     282,
+     646,
+     293,
+     "r5"
+    ],
+    [
+     657,
+     282,
+     664,
+     293,
+     "r5"
+    ],
+    [
+     677,
+     282,
+     687,
+     293,
+     "r5"
+    ],
+    [
+     688,
+     282,
+     697,
+     292,
+     "r5"
+    ],
+    [
+     900,
+     288,
+     903,
+     291,
+     "r5"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "THE BURDEN\nCOLORED MEN LYNCHED WITHOUT\nTRIAL. consciousness of kind. And plenty of jim crows should be flying overhead.",
+   "role": "text",
+   "split_from": "r0"
+  },
+  {
+   "id": "r2",
+   "label": "table",
+   "bbox": {
+    "x0": 156,
+    "y0": 298,
+    "x1": 567,
+    "y1": 636
+   },
+   "text": "1885..... 78 1898..... 102\n1886..... 71 1899..... 84\n1887..... 80 1900..... 107\n1888..... 95 1901..... 107\n1889..... 95 1902..... 86\n1890..... 90 1903..... 86\n1891..... 121 1904..... 83\n1892..... 155 1905..... 61\n1893..... 154 1906..... 64\n1894..... 134 1907..... 60\n1895..... 112 1908..... 93\n1896..... 80 1909..... 73\n1897..... 122 1910..... 65\n\nTotal.....2,458\n\nCONCERNING PARKS.\nCOLORED MEN LYNCHED WITHOUT\nTRIAL.\n1885. 78 1898. 102\n1886. 71 1899. 84\n1887. 80 1900. 107\n1888. 95 1901. 107\n1889. 95 1902. 86\n1890. 90 1903. 86\n1891. 121 1904. 83\n1892. 155 1905. 61\n1893. 154 1906. 64\n1894. 134 1907. 60\n1895. 112 1908. 93\n1896. 80 1909. 73\n1897. 122 1910. 65\nTotal.....2,458",
+   "status": "ok",
+   "confidence": 0.33266201615333557,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 154,
+    "y0": 294,
+    "x1": 566,
+    "y1": 635
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'CONCERNING PARKS.' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 160,
+    "y0": 639,
+    "x1": 569,
+    "y1": 1155
+   },
+   "text": "That Negroes are denied access to public parks in some cities of the South is a matter of common note. New Orleans has numerous playgrounds, but colored children may not enjoy them. Colored workmen passing through a park must not sit upon a bench, and colored mothers may not take their little children with them and play and rest under the city's trees in its attractive pleasure grounds. But while the black mother may not enjoy herself within the city enclosure when in company with her own babies, she is allowed every privilege if she is in charge of a white child. The black mammy is welcome as long as she is neglecting her own offspring for those of her white mistress. In Memphis, Tennessee, the city's largest park is practically closed to Negroes. Only the boldest spirit dare enter, and then expulsion is almost certain. This park has an excellent zoological garden where white children may look as long as they like at the curious birds and beasts, but where colored children must never feast their eyes.",
+   "status": "ok",
+   "confidence": 0.9752296805381775,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 160,
+    "y0": 639,
+    "x1": 568,
+    "y1": 1151
+   },
+   "exclude": [
+    [
+     186,
+     1153,
+     200,
+     1170,
+     "r4"
+    ],
+    [
+     332,
+     1153,
+     334,
+     1156,
+     "r4"
+    ],
+    [
+     418,
+     1153,
+     423,
+     1168,
+     "r4"
+    ],
+    [
+     443,
+     1153,
+     454,
+     1168,
+     "r4"
+    ],
+    [
+     454,
+     1153,
+     460,
+     1168,
+     "r4"
+    ],
+    [
+     499,
+     1153,
+     508,
+     1168,
+     "r4"
+    ],
+    [
+     511,
+     1153,
+     513,
+     1156,
+     "r4"
+    ],
+    [
+     345,
+     1154,
+     347,
+     1156,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 164,
+    "y0": 1151,
+    "x1": 573,
+    "y1": 1492
+   },
+   "text": "The colored citizens of Memphis are protesting vigorously against park discrimination, and the city is considering the acquirement of a park exclusively for the Negro's use. If they should do so, they should surely give the colored child a zoo; and might not this be a rare opportunity for the city fathers to teach racial integrity and the color line? Only black bears, or dark brown ones, should be on exhibition; black panthers, like Bagheera, should pace up and down the cages, and dark-plumaged birds alone should inhabit the aviary. Of course, no hybrid could possibly be allowed. One can see the dark brown eyes looking out of the little dark brown faces and learning at each cage the great lesson of",
+   "status": "ok",
+   "confidence": 0.976414680480957,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 1152,
+    "x1": 570,
+    "y1": 1488
+   },
+   "exclude": [
+    [
+     174,
+     1140,
+     184,
+     1153,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 592,
+    "y0": 253,
+    "x1": 1003,
+    "y1": 364
+   },
+   "text": "consciousness of kind. And plenty of jim crows should be flying overhead.\nWHAT IS \"UNDUE DISCRIMINATION\"?",
+   "status": "ok",
+   "confidence": 0.9247069954872131,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 591,
+    "y0": 251,
+    "x1": 1002,
+    "y1": 363
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 592,
+    "y0": 366,
+    "x1": 1005,
+    "y1": 966
+   },
+   "text": "The story of the arrest of Dr. W. J. Thompkins, of Kansas City, a prominent colored physician, may lead to further important discussion of the right of Negroes to travel in Pullman cars throughout the United States. Dr. Thompkins was called to McAlester, Okla., on an important case. He purchased a Pullman ticket, but on reaching the town of Vinita, Okla., he was arrested, taken forcibly from the car and placed in jail. Brought before a justice of the peace he was fined $13. On payment of the fine he was allowed to proceed upon his journey. The matter will be carried to a higher court, and it may be that the Interstate Commerce Commission will reconsider its opinion in the case brought by the bishops of the African Methodist Church. In June, 1909, the Commission declared that colored passengers were not unduly discriminated against. It felt that the small number of colored passengers traveling on the through trains made it quite right that they should be allowed to eat only at the third call for dinner, and should endure what the Commission felt was not undue discrimination. Dr. Thompkin's experience should bring this whole matter again to the attention of the Commission and of the public.",
+   "status": "ok",
+   "confidence": 0.9746097922325134,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 592,
+    "y0": 367,
+    "x1": 1003,
+    "y1": 963
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "title",
+   "bbox": {
+    "x0": 596,
+    "y0": 986,
+    "x1": 1011,
+    "y1": 1488
+   },
+   "text": "Justice D. P. Wright, of Washington, has sentenced a colored man to fifteen years in the penitentiary for snatching a white woman's pocketbook. In passing sentence he said: \"From the viewpoint of the white women of the National Capital, it is not to be tolerated that a colored man should dare put his hands on one of them,\" and \"A man of your color, who lays his hand on a white woman will not be tolerated, if I can help it.\" On the same day that Justice Wright pronounced this sentence and dictum his court witnessed what the local papers describe as a pathetic scene. A young white man had been arrested for grand larceny. He pleaded guilty, but his aged mother appeared in court and interceded with the judge and with the man who had been robbed. The result was that the prisoner was officially given one year in the penitentiary and then, as soon as this sentence was pronounced, he was paroled and sent home with his mother.",
+   "status": "ok",
+   "confidence": 0.9751777648925781,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 595,
+    "y0": 983,
+    "x1": 1007,
+    "y1": 1488
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 7,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [
+   "r2"
+  ],
+  "unowned_ink_pct": 0.09,
+  "box_overlaps_after": 2,
+  "log": [
+   "reshape r0 (title): lost 10% of its ink, gained 0%",
+   "reread r0: 'THE BURDEN\\nCOLORED MEN LYNCHED WITHOUT\\nT' -> 'THE BURDEN\\nCOLORED MEN LYNCHED WITHOUT\\nT'",
+   "split r0 at y=229 before 'COLORED MEN LYNCHED WITHOUT'",
+   "REVIEW r2: heading 'CONCERNING PARKS.' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

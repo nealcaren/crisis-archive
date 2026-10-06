@@ -1,0 +1,284 @@
+{
+ "page": 20,
+ "image": "images/page_20.jpg",
+ "width": 1066,
+ "height": 1615,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.3,
+  "at": "2026-10-06T21:58:57+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 584,
+    "y0": 142,
+    "x1": 987,
+    "y1": 188
+   },
+   "text": "we should share with the friends of the National Association:",
+   "status": "ok",
+   "confidence": 0.9317064881324768,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 583,
+    "y0": 140,
+    "x1": 986,
+    "y1": 733
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r0"
+  },
+  {
+   "id": "r0b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 584,
+    "y0": 188,
+    "x1": 987,
+    "y1": 735
+   },
+   "text": "LAKEWOOD, N. J., May 29, 1911.\nDR. W. E. B. DUBOIS:\nDEAR SIR—You will please pardon me for not writing before this, but I have been in a state of joy and gladness to the extent of my life until I could not compose myself to write. I wish to thank you and the firm which you represent of law and the representative which you sent down to Toms River, N. J., and secured my husband's (Henry Graham) freedom from the charge of knowing something of the death of one Mrs. Charles T. Turner, whose body was found here in the woods in April.\nMy husband was innocent and you proved him to be as soon as you took up the case. He and I wish to thank you again for your kindness and good work done. I shall make a donation to the firm, that the good work may go on. Everything is quiet now, and though my husband has been sick since coming home he is better now. And when I leave this land for heaven, my home, I will you, and this deed of justice, remember. With best wishes, I remain,",
+   "status": "ok",
+   "confidence": 0.9317064881324768,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 583,
+    "y0": 140,
+    "x1": 986,
+    "y1": 733
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r0"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 161,
+    "y0": 144,
+    "x1": 559,
+    "y1": 521
+   },
+   "text": "because he was a colored man, and it is precisely this discrimination between a black man and a white which we are trying to break up.\n\nGraham, therefore, because he was colored and because there was no one else upon whom to fasten the crime, was locked up in the Toms River jail as a material witness and was examined the first night by the public prosecutor and the detectives. From that night, however, he was left alone and received kind treatment. He had just recovered from an attack of pneumonia, and as he was not well he was given all the medical attention which was necessary. I am able to state positively that there has been no element of the \"third degree\" in this case.",
+   "status": "ok",
+   "confidence": 0.9773021936416626,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 160,
+    "y0": 143,
+    "x1": 559,
+    "y1": 517
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 159,
+    "y0": 522,
+    "x1": 557,
+    "y1": 1010
+   },
+   "text": "On Wednesday evening I proceeded to Toms River, and in the absence of the public prosecutor, Mr. Theodore J. R. Brown, I saw his assistant, Mr. W. Howard Jeffrey. You will be more than pleased to know that Mr. Jeffrey recalled at once the work of the National Association in connection with the Asbury Park and Georgetown cases, which he said had been noted by the criminal authorities throughout this section of the State. He intimated that he had anticipated my arrival in connection with this case, and that Graham had been treated accordingly.\n\nAs a matter of professional courtesy he requested me not to take any steps looking toward the release of Graham until he could place me in touch with the prosecutor himself. We reached the prosecutor in New York by telephone next morning, and he made an appointment to see me in Toms River at noon. Mr. Jeffrey went up by the early morning train to meet him.",
+   "status": "ok",
+   "confidence": 0.9772079586982727,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 158,
+    "y0": 521,
+    "x1": 555,
+    "y1": 1007
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 583,
+    "y0": 847,
+    "x1": 985,
+    "y1": 1341
+   },
+   "text": "The horrible lynching at Lake City, Florida, was at once investigated by the Association. The following account was secured from a prominent educator in Florida, and was sent to forty papers in various parts of the country:\n\nSecretary of the National Association for the Advancement of Colored People:\n\nIn reply to your note seeking information as to the facts in the case of the Lake City, Fla., murder on the 20th inst., I beg to make the following statement of facts as far as I have been able to learn them:\n\nThe apparent origin of the trouble was a neighborhood quarrel between a white man and a Negro over a trivial matter resulting in a murderous assault on the part of the white man upon the Negro who took the pistol away from his assailant. The matter came up in the Justice of the Peace Court, in which the Negro was exonerated.",
+   "status": "ok",
+   "confidence": 0.9727177619934082,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 581,
+    "y0": 845,
+    "x1": 982,
+    "y1": 1338
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 159,
+    "y0": 1011,
+    "x1": 557,
+    "y1": 1420
+   },
+   "text": "Mr. Brown failed to arrive in Toms River by the noon train, and as I was waiting in my hotel for the arrival of the next train, the sheriff came in and informed me that Mr. Brown had rushed over from Lakewood by automobile and had stayed just long enough to release Graham, and to leave the message for me that Graham would not be molested again unless a genuine case was made out against him. Graham in the meantime had started to walk twelve miles to Lakewood. This was about 4:30 on Thursday afternoon. I learned in Lakewood last night that Graham's wife had heard from him and was expecting him in the course of the evening. I arranged with Mr. Matthews, the colored minister in Lakewood, to inform Dr. DuBois or myself of any further developments in the case unfavorable to Graham.",
+   "status": "ok",
+   "confidence": 0.9793525338172913,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 157,
+    "y0": 1010,
+    "x1": 558,
+    "y1": 1504
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r4"
+  },
+  {
+   "id": "r4b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 159,
+    "y0": 1420,
+    "x1": 557,
+    "y1": 1504
+   },
+   "text": "C. AMES BROOKS.\nThe following letter, received from the accused man and his wife, we feel that",
+   "status": "ok",
+   "confidence": 0.9793525338172913,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 157,
+    "y0": 1010,
+    "x1": 558,
+    "y1": 1504
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r4"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 584,
+    "y0": 1347,
+    "x1": 984,
+    "y1": 1507
+   },
+   "text": "It appears that the white man (or men) renewed the quarrel, even to the extent of entering the yard of the Negro (Norris by name), where the shooting affray occurred, resulting in the death of one white man and in the wounding of another. Norris and his associates (members of his immediate family and",
+   "status": "ok",
+   "confidence": 0.9738928079605103,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 583,
+    "y0": 1346,
+    "x1": 982,
+    "y1": 1503
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "abandon",
+   "bbox": {
+    "x0": 162,
+    "y0": 90,
+    "x1": 201,
+    "y1": 113
+   },
+   "text": "108",
+   "status": "ok",
+   "confidence": 0.8567857146263123,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 160,
+    "y0": 89,
+    "x1": 199,
+    "y1": 111
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r7",
+   "label": "abandon",
+   "bbox": {
+    "x0": 482,
+    "y0": 90,
+    "x1": 644,
+    "y1": 114
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.886311411857605,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 481,
+    "y0": 88,
+    "x1": 643,
+    "y1": 113
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 678,
+    "y0": 742,
+    "x1": 963,
+    "y1": 792
+   },
+   "text": "Yours very truly,\nANNIE and HENRY GRAHAM.",
+   "status": "ok",
+   "confidence": 0.685948371887207,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 678,
+    "y0": 741,
+    "x1": 962,
+    "y1": 792
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.15,
+  "box_overlaps_after": 0,
+  "log": [
+   "split r0 at y=188 before 'DR. W. E. B. DUBOIS:'",
+   "split r4 at y=1420 before 'C. AMES BROOKS.'"
+  ]
+ }
+}

@@ -1,0 +1,197 @@
+{
+  "page": 33,
+  "image": "images/page_33.jpg",
+  "width": 1384,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 456,
+        "y0": 114,
+        "x1": 830,
+        "y1": 145
+      },
+      "text": "THE CONGO EXPRESS",
+      "status": "ok",
+      "confidence": 0.8878252506256104,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 115,
+        "y0": 145,
+        "x1": 621,
+        "y1": 1394
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 456,
+        "y0": 145,
+        "x1": 830,
+        "y1": 1393
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 654,
+        "y0": 145,
+        "x1": 1167,
+        "y1": 1393
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure",
+      "bbox": {
+        "x0": 156,
+        "y0": 184,
+        "x1": 1129,
+        "y1": 1312
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.968454122543335,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 261,
+        "y0": 1330,
+        "x1": 1013,
+        "y1": 1356
+      },
+      "text": "NATIVE TROOPS ENTERING A CITY OF THE FRENCH SOUDAN",
+      "status": "ok",
+      "confidence": 0.533862829208374,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 655,
+        "y0": 1393,
+        "x1": 1167,
+        "y1": 1566
+      },
+      "text": "He did see, however, in Timbuktu, many evidences of the benefit of French rule. He commented to one of his Soudanese friends on the many signs of trade he saw on every side, and remarked that these seemed to have grown up in the last seventeen years.",
+      "status": "ok",
+      "confidence": 0.9733662009239197,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 115,
+        "y0": 1394,
+        "x1": 621,
+        "y1": 1911
+      },
+      "text": "Soudanese La Fontaine and to explain the meaning of a local word. He went away delighted because he believes that \"in every race this pride of knowledge among the young is a most valuable sign.\"\nThis school has been established at Jenne, an ancient city which played an important part in the empire of the Soudan for thirteen centuries. Monsieur Dubois only regrets that there is not such another school at Timbuktu, which was, in the Middle Ages and before that, the seat of the great universities. The Soudanese proverb says: \"Salt comes from the north, gold comes from the south, but the word of God and wisdom and history and beautiful tales, they are found only at Timbuktu.\" So it would be particularly fitting to have a school established here.",
+      "status": "ok",
+      "confidence": 0.9761318564414978,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 654,
+        "y0": 1567,
+        "x1": 1162,
+        "y1": 1913
+      },
+      "text": "\"The truth is,\" replied his black friend, \"that in the old days we were never safe from attacks by the marauding troops of the desert. Trade was carried on, but every man sought to conceal his prosperity. Bartering was done largely at night and in secret. Of recent years the brigands have been afraid to attack us and we are now able to lead a normal life.\" It was, of course, the slave trade that disturbed the splendid Soudanese empire. Ever since the white man discovered that the black man's labor could be ex-",
+      "status": "ok",
+      "confidence": 0.9749206304550171,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 115,
+        "y0": 1911,
+        "x1": 621,
+        "y1": 2058
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 456,
+        "y0": 1913,
+        "x1": 830,
+        "y1": 2058
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 654,
+        "y0": 1913,
+        "x1": 1167,
+        "y1": 2058
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1109,
+        "y0": 114,
+        "x1": 1156,
+        "y1": 141
+      },
+      "text": "165",
+      "status": "ok",
+      "confidence": 0.861931324005127,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.4,
+    "at": "2026-10-06T22:14:13+00:00"
+  }
+}

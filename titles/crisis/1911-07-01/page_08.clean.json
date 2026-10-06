@@ -1,0 +1,352 @@
+{
+ "page": 8,
+ "image": "images/page_08.jpg",
+ "width": 1073,
+ "height": 1620,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.5,
+  "at": "2026-10-06T21:57:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 460,
+    "y0": 95,
+    "x1": 622,
+    "y1": 118
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8763362765312195,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 457,
+    "y0": 94,
+    "x1": 621,
+    "y1": 118
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 561,
+    "y0": 146,
+    "x1": 964,
+    "y1": 248
+   },
+   "text": "on indictments returned by the last United States Grand Jury charging them with peonage. It is alleged that they have been holding farm laborers in a condition of peonage for many months.",
+   "status": "ok",
+   "confidence": 0.9598228335380554,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 559,
+    "y0": 145,
+    "x1": 963,
+    "y1": 246
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 135,
+    "y0": 148,
+    "x1": 536,
+    "y1": 527
+   },
+   "text": "allowed to vote unless he can read and write any section of the Oklahoma constitution, but adds that the law should not apply to any one whose ancestors could vote on January 1, 1866.\n\nAn important decision in Alabama was handed down by Chief Justice R. R. Simpson in the case of Sheriff Jinwright, of Bullock County, who on April 2 permitted a mob to take from him and lynch a colored prisoner held in the county jail. \"It matters not that the prisoner may have been guilty of the most revolting crime known to our laws,\" declared the court in rendering its opinion, \"the next wave of popular frenzy might deprive of his life one who, upon proper investigation, would be found to be innocent.",
+   "status": "ok",
+   "confidence": 0.9755709767341614,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 135,
+    "y0": 147,
+    "x1": 534,
+    "y1": 527
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 561,
+    "y0": 321,
+    "x1": 963,
+    "y1": 654
+   },
+   "text": "The newly formed Colored Citizens' Civic and Protective League of Louisiana held a meeting in New Orleans to perfect their organization. The preamble to the constitution and by-laws was adopted. The objects of the league are stated to be: Interest and co-operation in civic improvements; the moral, educational, commercial and industrial advancement of the Negro; the enjoyment and benefit of civil and political rights as guaranteed under the organic law; the encouragement of a law-abiding spirit; the securing of equal and exact justice before the law; the approval of the law's penalty when due, and disapproval and opposition when not due.",
+   "status": "ok",
+   "confidence": 0.9778367280960083,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 560,
+    "y0": 320,
+    "x1": 961,
+    "y1": 651
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 137,
+    "y0": 532,
+    "x1": 536,
+    "y1": 804
+   },
+   "text": "\"It is vain for us to write in our Constitution, that cherished heritage of English-speaking people—that all persons accused of crime shall have the right to a public trial, by an impartial jury, and shall not be deprived of life, liberty or property except by due process of law—if our government cannot and will not enforce it. A law not enforced is no law at all. The sheriff who defends his prisoner from violence is defending the constitution of his State and perchance the lives, the liberty and the happiness of his own family.\"",
+   "status": "ok",
+   "confidence": 0.9773633480072021,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 137,
+    "y0": 531,
+    "x1": 534,
+    "y1": 801
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 562,
+    "y0": 665,
+    "x1": 964,
+    "y1": 1122
+   },
+   "text": "Attached to the Fifteenth United States Cavalry in the pageant attending the coronation of George V. are nine colored cavalrymen under the command of Major F. S. Foltz.\n\nSenator Curtis, of Kansas, has introduced a bill in the Senate to erect in the District of Columbia a home for aged and infirm colored people. The home will be built out of the proceeds of a fund consisting of moneys due the estates of colored soldiers, sailors and marines who are now dead. A sum amounting to about $300,000, representing pay, bounties and prizes of colored men who were in the Union service in the Civil War, lies in the Treasury. It has been several times proposed to use it in the manner suggested. The money was turned over to the Treasury years ago after the commissioner of the Freedman's Bureau had found it impossible to locate the claimants.",
+   "status": "ok",
+   "confidence": 0.9802595973014832,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 560,
+    "y0": 663,
+    "x1": 961,
+    "y1": 1122
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 139,
+    "y0": 810,
+    "x1": 538,
+    "y1": 1160
+   },
+   "text": "Despite the fact that United States Judge Emory Speer charged that the Georgia contract labor violates the Constitution of the United States and that hundreds of Negroes are being held in peonage, a Macon jury has acquitted John R. Rogers, Jacob Horne, W. E. Channey and Luke Dupree, four wealthy Georgians, of the charge, of peonage. The jury returned a verdict of not guilty, notwithstanding Judge Speer's positive statement to them that the men were guilty of peonage and conspiracy, and by their own testimony had convicted themselves. The judge practically ordered a verdict of guilty and he seemed angered when the jury in five minutes returned a verdict of acquittal.",
+   "status": "ok",
+   "confidence": 0.9779035449028015,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 138,
+    "y0": 809,
+    "x1": 535,
+    "y1": 1156
+   },
+   "exclude": [
+    [
+     164,
+     1159,
+     169,
+     1174,
+     "r8"
+    ],
+    [
+     271,
+     1159,
+     273,
+     1162,
+     "r8"
+    ],
+    [
+     473,
+     1159,
+     475,
+     1162,
+     "r8"
+    ],
+    [
+     515,
+     1159,
+     518,
+     1162,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 564,
+    "y0": 1136,
+    "x1": 964,
+    "y1": 1255
+   },
+   "text": "A monument to John Brown was unveiled on the campus of the Western University for Negroes at Quindaro, Kan., on June 8. A subscription for the monument was started two years ago by the late Bishop Abraham Grant.",
+   "status": "ok",
+   "confidence": 0.8164659738540649,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 563,
+    "y0": 1134,
+    "x1": 963,
+    "y1": 1253
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 141,
+    "y0": 1157,
+    "x1": 539,
+    "y1": 1470
+   },
+   "text": "It was during the course of this trial that Judge Speer reprimanded Attorney-General Felder for continually using the word \"nigger.\" The judge remarked that he was tired of \"nigger, nigger, nigger,\" and suggested that the lawyer choose a more pleasing form of address. Mr. Felder protested with a good deal of warmth, but Judge Speer was insistent and even hinted that he would not allow the lawyer to appear before him if he did not mend his manners. Judge Speer is a native Georgian who served in the Confederate army. He was concerned in the prosecution of the Ku Klux Klan. He has been independent in politics.",
+   "status": "ok",
+   "confidence": 0.9767497181892395,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 140,
+    "y0": 1158,
+    "x1": 537,
+    "y1": 1467
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 564,
+    "y0": 1261,
+    "x1": 966,
+    "y1": 1515
+   },
+   "text": "Col. Asa Turner, speaking before the colored Young Men's Christian Association in Des Moines, Iowa, gave a glowing tribute to the colored troops of the Civil War. His remarks were chiefly occupied with the narration of various instances where the Negro troops showed their valor. \"They were green troops to begin with,\" he said, \"but after a couple of weeks' practice, there were seventeen in my company who could beat me shooting. They were good soldiers and loyal soldiers.\"",
+   "status": "ok",
+   "confidence": 0.9731877446174622,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 564,
+    "y0": 1260,
+    "x1": 964,
+    "y1": 1514
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 141,
+    "y0": 1476,
+    "x1": 539,
+    "y1": 1518
+   },
+   "text": "Eight planters of Conecuh County, Alabama, have been arrested at Mobile",
+   "status": "ok",
+   "confidence": 0.9354159235954285,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 140,
+    "y0": 1474,
+    "x1": 538,
+    "y1": 1516
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 132,
+    "y0": 95,
+    "x1": 161,
+    "y1": 117
+   },
+   "text": "96",
+   "status": "ok",
+   "confidence": 0.839819610118866,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 130,
+    "y0": 94,
+    "x1": 160,
+    "y1": 115
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r12",
+   "label": "title",
+   "bbox": {
+    "x0": 663,
+    "y0": 292,
+    "x1": 859,
+    "y1": 313
+   },
+   "text": "SOCIAL UPLIFT.",
+   "status": "ok",
+   "confidence": 0.8930466771125793,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 663,
+    "y0": 289,
+    "x1": 858,
+    "y1": 312
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 13,
+  "regions_after": 13,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.17,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

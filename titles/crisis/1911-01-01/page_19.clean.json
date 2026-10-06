@@ -1,0 +1,98 @@
+{
+ "page": 19,
+ "image": "images/page_19.jpg",
+ "width": 1074,
+ "height": 1576,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 3.2,
+  "at": "2026-10-06T21:03:54+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 0,
+    "y0": 88,
+    "x1": 171,
+    "y1": 112
+   },
+   "text": "NUARY, 1911",
+   "status": "ok",
+   "confidence": 0.569317102432251,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 0,
+    "y0": 83,
+    "x1": 173,
+    "y1": 112
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "figure",
+   "bbox": {
+    "x0": 0,
+    "y0": 184,
+    "x1": 1000,
+    "y1": 1281
+   },
+   "text": "MY PRESS\nAMERICAN PEOPLE\nLOVE JUSTICE\nAND FAIR PLAY\nNEGRO LYNCHED\nBRUTE STRUCK WHITE MAN =\nMADE CONFESSION\nMob was quiet and orderly\nJohn Henry Adams",
+   "status": "ok",
+   "confidence": 0.739891767501831,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 0,
+    "y0": 184,
+    "x1": 1000,
+    "y1": 1281
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "needs_review": "heading 'AMERICAN PEOPLE' inside box; no verified split at the 3 nearest gaps"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 543,
+    "y0": 1369,
+    "x1": 993,
+    "y1": 1490
+   },
+   "text": "THE NATIONAL PASTIME. Seventy-five per cent. of the Negroes lynched have not even been accused of rape.",
+   "status": "ok",
+   "confidence": 0.8729545474052429,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 538,
+    "y0": 1365,
+    "x1": 993,
+    "y1": 1488
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 3,
+  "regions_after": 3,
+  "lost_words": [],
+  "needs_review": [
+   "r1"
+  ],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": [
+   "REVIEW r1: heading 'AMERICAN PEOPLE' inside box; no verified split at the 3 nearest gaps"
+  ]
+ }
+}

@@ -1,7 +1,7 @@
 """Majority-vote consensus across several toc.json runs of one issue (paperpress enrich).
 
-1. Within a page, two regions belong together if a majority of runs put them in the
-   same article.
+1. Within a page, use the grouping of the run that agrees most with the other runs
+   (the medoid), so every page's articles were produced by some run.
 2. Across pages, two of those page groups are one article (a continuation) if a majority
    of runs give their regions the same article.
 3. Each consensus article takes its title, author, type, section, etc. from the run
@@ -65,14 +65,22 @@ def consensus(tocs):
         owner.append(m)
     regions = sorted(set().union(*owner), key=lambda x: (x[0], rid_key(x[1])))
 
-    # 1. within-page groups
+    # 1. within-page groups: take, for each page, the grouping of the run that agrees most
+    #    with the others (pairwise same/different-article votes). Joining pairs that a
+    #    majority agree on can build a grouping no run produced when all runs differ.
     uf = UF(regions)
     pages = sorted({p for p, _ in regions})
     for p in pages:
         rs = [x for x in regions if x[0] == p]
-        for u, v in itertools.combinations(rs, 2):
-            votes = sum(1 for m in owner if u in m and v in m and m[u] == m[v])
-            if votes >= need:
+        pairs = list(itertools.combinations(rs, 2))
+        def same(m, u, v):
+            return u in m and v in m and m[u] == m[v]
+        def score(i):
+            return sum(same(owner[i], u, v) == same(owner[j], u, v)
+                       for j in range(len(owner)) if j != i for u, v in pairs)
+        best = max(range(len(owner)), key=score)
+        for u, v in pairs:
+            if same(owner[best], u, v):
                 uf.union(u, v)
     pgroups = {}
     for x in regions:

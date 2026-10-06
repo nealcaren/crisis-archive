@@ -1,0 +1,374 @@
+{
+ "page": 35,
+ "image": "images/page_35.jpg",
+ "width": 1071,
+ "height": 1618,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 11.4,
+  "at": "2026-10-06T22:00:43+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 102,
+    "y0": 87,
+    "x1": 923,
+    "y1": 220
+   },
+   "text": "THE BURDEN",
+   "status": "ok",
+   "confidence": 0.8091427683830261,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 282,
+    "y0": 122,
+    "x1": 744,
+    "y1": 180
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "THE BURDEN",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 104,
+    "y0": 234,
+    "x1": 499,
+    "y1": 275
+   },
+   "text": "COLORED MEN LYNCHED WITHOUT TRIAL.",
+   "status": "ok",
+   "confidence": 0.8549764156341553,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 102,
+    "y0": 230,
+    "x1": 498,
+    "y1": 274
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 525,
+    "y0": 233,
+    "x1": 932,
+    "y1": 483
+   },
+   "text": "the infamous convict lease system of the State, for Florida retains, by the act of the Governor, this relic of barbarism. The Legislature, however, took some notice of the incident. A bill was introduced in the Senate offering a reward of $5,000 for the arrest of the members of the lynching party, and to this the Senator from Columbia County proposed an amendment making his county immune from the possible consequences of the lynching of the Leon County prisoners.",
+   "status": "ok",
+   "confidence": 0.9747742414474487,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 524,
+    "y0": 232,
+    "x1": 925,
+    "y1": 482
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 105,
+    "y0": 284,
+    "x1": 500,
+    "y1": 578
+   },
+   "text": "1885..... 78 1898..... 102\n1886..... 71 1899..... 84\n1887..... 80 1900..... 107\n1888..... 95 1901..... 107\n1889..... 95 1902..... 86\n1890..... 90 1903..... 86\n1891..... 121 1904..... 83\n1892..... 155 1905..... 61\n1893..... 154 1906..... 64\n1894..... 134 1907..... 60\n1895..... 112 1908..... 93\n1896..... 80 1909..... 73\n1897..... 122 1910..... 65\n\nTotal.....2,458",
+   "status": "ok",
+   "confidence": 0.5507362484931946,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 102,
+    "y0": 279,
+    "x1": 500,
+    "y1": 576
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 525,
+    "y0": 482,
+    "x1": 920,
+    "y1": 1077
+   },
+   "text": "\"During the debate there were several humorous allusions to the fact that the lynching party probably came from Georgia, the Georgia line being some thirty miles distant from Lake City. The Jacksonville Times-Union had a mild editorial deprecating the lynching, but the humor of the incident, the fact that the lynching party came to the jail in automobiles, loomed larger in the editorial mind than the tragedy itself. I have been able to find only one Florida paper of importance, the Tampa Tribune, which treats the affair as it would ordinarily be treated in civilized communities anywhere in the world. It says, among other things: 'The Tribune will have no excuses to offer, nor will any other Florida paper, when Florida is taxed with this outrage by the Northern press.' The Tribune thinks that five of the men who were murdered were 'probably innocent.' Neverthless, the Tribune's fears that Florida would be taxed with this outrage by the Northern press seem to have been largely without justification. The lynching of Negroes, guilty or innocent, has become so common that the news of it is not now always carried by the press associations, and editorial comment has become a rarity.",
+   "status": "ok",
+   "confidence": 0.9739003777503967,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 523,
+    "y0": 483,
+    "x1": 919,
+    "y1": 1072
+   },
+   "exclude": [
+    [
+     557,
+     1076,
+     572,
+     1092,
+     "r7"
+    ],
+    [
+     575,
+     1076,
+     581,
+     1091,
+     "r7"
+    ],
+    [
+     665,
+     1076,
+     668,
+     1079,
+     "r7"
+    ],
+    [
+     671,
+     1076,
+     676,
+     1091,
+     "r7"
+    ],
+    [
+     825,
+     1076,
+     828,
+     1079,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 104,
+    "y0": 594,
+    "x1": 499,
+    "y1": 1071
+   },
+   "text": "The Outlook prints from \"a Southern Correspondent\" an account of the recent lynching of six colored men in Florida. The communication bears out information received by the National Association and reported under the N. A. A. C. P. notes. After telling the story of the forged telegram the correspondent continues:\n\n\"The boy in charge of the jail at once opened the doors to these men, and the Negroes were told that the men had come to save them from a mob by taking them to another jail. The Negroes were bound with ropes and went gladly with their captors, whom they hailed as their saviors. Shortly afterward the good people of Lake City were aroused by long-continued firing of rifles and revolvers, and a few hours later the Negroes were found in a nearby swamp, dead, and their bodies mangled beyond recognition by bullets. The automobiles had disappeared and have not been heard of since.",
+   "status": "ok",
+   "confidence": 0.9772242307662964,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 103,
+    "y0": 592,
+    "x1": 497,
+    "y1": 1070
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 103,
+    "y0": 1071,
+    "x1": 499,
+    "y1": 1344
+   },
+   "text": "\"Two days later Governor Gilchrist was represented as being much disturbed over the incident, when the wives and kindred of the six Negroes went to him to learn the authentication of the rumors they had heard. One of the papers commented upon the 'tearless stolidity' of these Negro women. The Governor demanded a full report from the absentee sheriff, and offered a reward of $250 for each of the three men who had deceived the sheriff's son. There was no notice of any reward offered for other members of the lynching party.",
+   "status": "ok",
+   "confidence": 0.977633535861969,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 102,
+    "y0": 1072,
+    "x1": 497,
+    "y1": 1340
+   },
+   "exclude": [
+    [
+     134,
+     1342,
+     148,
+     1358,
+     "r8"
+    ],
+    [
+     232,
+     1343,
+     246,
+     1358,
+     "r8"
+    ],
+    [
+     249,
+     1343,
+     251,
+     1345,
+     "r8"
+    ],
+    [
+     254,
+     1343,
+     258,
+     1357,
+     "r8"
+    ],
+    [
+     270,
+     1343,
+     280,
+     1357,
+     "r8"
+    ],
+    [
+     292,
+     1343,
+     294,
+     1345,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 524,
+    "y0": 1074,
+    "x1": 920,
+    "y1": 1384
+   },
+   "text": "\"Of course, if any one were in earnest about the matter, these lynchers could be detected. Automobiles on the sandy roads of Floria leave their trails. A forged telegram would give a valuable clue to a good detective. The sheriff's son gave a good description of the five men. Does any one imagine that if Detective Burns, for example, were put upon the trail of these cold-blooded murderers, he would not be able to find them? It should be noted also that this lynching was not for 'the usual crime.' Indeed, it would be hard to say now what is the usual crime for which Negroes are lynched.",
+   "status": "ok",
+   "confidence": 0.9763602614402771,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 523,
+    "y0": 1075,
+    "x1": 918,
+    "y1": 1380
+   },
+   "exclude": [
+    [
+     556,
+     1383,
+     570,
+     1398,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 102,
+    "y0": 1340,
+    "x1": 498,
+    "y1": 1440
+   },
+   "text": "\"Governor Gilchrist seems not to have taken any further interest in the matter, possibly being occupied with the endeavor to find reasons for his veto of the bill passed by the Legislature to abolish",
+   "status": "ok",
+   "confidence": 0.9661754965782166,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 100,
+    "y0": 1342,
+    "x1": 496,
+    "y1": 1437
+   },
+   "exclude": [
+    [
+     301,
+     1329,
+     311,
+     1342,
+     "r6"
+    ],
+    [
+     178,
+     1329,
+     188,
+     1342,
+     "r6"
+    ],
+    [
+     242,
+     1329,
+     252,
+     1342,
+     "r6"
+    ],
+    [
+     263,
+     1329,
+     272,
+     1342,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 524,
+    "y0": 1381,
+    "x1": 920,
+    "y1": 1443
+   },
+   "text": "\"A few weeks ago a popular and beloved officer of Emanuel County, Georgia, was killed, and a Negro, presumably",
+   "status": "ok",
+   "confidence": 0.9534807205200195,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 522,
+    "y0": 1382,
+    "x1": 917,
+    "y1": 1440
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 4,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 61%",
+   "reread r0: 'THE BURDEN' -> 'THE BURDEN'"
+  ]
+ }
+}

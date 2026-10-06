@@ -1,0 +1,294 @@
+{
+ "page": 24,
+ "image": "images/page_24.jpg",
+ "width": 1089,
+ "height": 1668,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.8,
+  "at": "2026-10-06T21:18:46+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 129,
+    "y0": 94,
+    "x1": 159,
+    "y1": 117
+   },
+   "text": "24",
+   "status": "ok",
+   "confidence": 0.843322217464447,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 128,
+    "y0": 93,
+    "x1": 158,
+    "y1": 115
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 476,
+    "y0": 98,
+    "x1": 627,
+    "y1": 122
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8540038466453552,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 474,
+    "y0": 96,
+    "x1": 627,
+    "y1": 122
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 129,
+    "y0": 151,
+    "x1": 537,
+    "y1": 709
+   },
+   "text": "nothing about the ruins in the remotest fashion Phoenician or Oriental, or anything but African.\nEven more startling results have followed the last ten years of excavations in the upper Soudan. They are not only giving a vast amount of information as to the early history of the Negro but are strengthening the claim that the black man, not the white, was the first to discover the art of working metals and gave this knowledge, which was the first great step forward in civilization, to Europe and nearer Asia. Dr. Schweinfurth, the famous German ethnologist, and Dr. von Luschan, of the University of Berlin, have about converted European scientists to this way of thinking, while in this country the theory is supported by our greatest anthropologist, Professor Boas, of Columbia.\nIt is not an easy task to put together from the many unrelated accounts of excavations in Africa all that has been discovered as to the black man's past, but it is safe to say that every discovery has tended to confirm the accounts of African civilization which have come down to us as legends from antiquity.",
+   "status": "ok",
+   "confidence": 0.9789178967475891,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 128,
+    "y0": 150,
+    "x1": 536,
+    "y1": 706
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 130,
+    "y0": 707,
+    "x1": 537,
+    "y1": 1220
+   },
+   "text": "There existed, of course, until quite recent times a high civilization among the blacks of the upper Nile. From Arab books many of the details of this country's customs and government have been gathered and translated into French. Lady Lugard's book, \"A Tropical Dependency,\" gives perhaps the best popular accounts of these records. But in addition to these modern records the country is full of monuments of a great antiquity, older than the most ancient records of the Egyptians, going back centuries before Pharaoh's daughter found Moses in the bullrushes.\n\nHow far Egypt took its civilization from the black empire and how far the two cultures originated simultaneously, from a common source, will not be decided until all the ruins have been unearthed and their records read, but it looks as if old theories were turning upside down, as if the black nations of certain regions of Africa were not races in their infancy, but the descendants of powerful civilizations broken by the slave trade and by misfortune in successive wars.",
+   "status": "ok",
+   "confidence": 0.9789310693740845,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 131,
+    "y0": 707,
+    "x1": 535,
+    "y1": 1218
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 132,
+    "y0": 1219,
+    "x1": 541,
+    "y1": 1559
+   },
+   "text": "The Egyptians always said that their forefathers learned their arts and largely received their laws from the black people further south. And, of course, throughout the pages of Homer the Ethiopians are spoken of with great respect, like the ancient Cretans, as the friends of the gods. The \"blameless Ethiopians\" is a common phrase. Herodotus, many centuries before the Christian Era, told tales of Africa which passed as the purest fiction until a few years ago. A famous instance is his assertion that a race of pygmies existed in the interior. For centuries historians shook their heads over this, as an example of imagination running away with fact, when",
+   "status": "ok",
+   "confidence": 0.9775634407997131,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 132,
+    "y0": 1220,
+    "x1": 539,
+    "y1": 1557
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 564,
+    "y0": 149,
+    "x1": 977,
+    "y1": 731
+   },
+   "text": "suddenly it was discovered that Herodotus was perfectly right. Similarly his tales of the ancient empire south of Egypt are being verified from the monuments built by the very people of whom the historian wrote to celebrate their victories and honor their gods.\n\nThe most ancient inscriptions along the upper Nile have not yet been deciphered. The story of the Land of the Blacks is pretty well known, however, as far back as the eighth century before Christ.\n\nIn view of the common origin of the two civilizations and their close interrelation it is natural enough to find the doings of the black kings chronicled after the same fashion as their Egyptian cousins.\n\nTheir writing is like that of the Egyptian, and the gods they worshipped were closely related to the gods of Egypt. We learn from the inscriptions that when Piankhi, the black king, conquered Egypt in 750 B. C., he worshipped without question in Egyptian temples, and the carving in the excavated ruins, which show men and women unmistakably Negro, give evidence of the similarity of religion. Only the idea now is that civilization came down the Nile instead of going up.",
+   "status": "ok",
+   "confidence": 0.979099690914154,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 563,
+    "y0": 149,
+    "x1": 975,
+    "y1": 727
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 564,
+    "y0": 729,
+    "x1": 976,
+    "y1": 1201
+   },
+   "text": "The black empire appears to have been pretty well run. When the Nubians conquered Egypt they seem to have abolished the death penalty and set the prisoners to work on public improvements. Indeed, it would appear that among the blacks there was no custom of putting men to death. When it seemed well that a criminal should be removed he was told of the fact, and allowed to commit suicide. Even the king was obliged to commit suicide at the command of his people.\n\nWhen Cambyses, the King of Persia, conquered Egypt he was anxious to see for himself whether the stories of the greatness of the black empire were true. He sent to the king gifts of gold and palm wine and incense, and asked to be informed whether or not it was true that on a certain spot called the \"Table of the Sun,\" the magistrates put every night provisions of cooked meats so that any one who was hungry might come in the morning and help himself.",
+   "status": "ok",
+   "confidence": 0.9789182543754578,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 564,
+    "y0": 729,
+    "x1": 974,
+    "y1": 1200
+   },
+   "exclude": [
+    [
+     588,
+     1188,
+     605,
+     1218,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 567,
+    "y0": 1186,
+    "x1": 979,
+    "y1": 1563
+   },
+   "text": "The black king, Nastasenen, received the envoys peacefully, though without enthusiasm. He showed them the table of the sun, as described to Cambyses, and took them to the prison, where the prisoners wore fetters of gold, that the Persian might be properly impressed. He did admit, however, that the palm wine was good.\n\nCambyses made war on the blacks but did not succeed in gaining much ground, so he gave up the idea of winning for himself the gold that was so common in the Negro empire.\n\nCandace, the black queen, was a famous figure of the empire, tales of whose prowess spread to Greece. It would appear from the monuments, however, that the kingdom was at that time ruled by",
+   "status": "ok",
+   "confidence": 0.9766541123390198,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 567,
+    "y0": 1201,
+    "x1": 978,
+    "y1": 1560
+   },
+   "exclude": [
+    [
+     590,
+     1183,
+     593,
+     1198,
+     "r6"
+    ],
+    [
+     569,
+     1184,
+     579,
+     1198,
+     "r6"
+    ],
+    [
+     618,
+     1184,
+     628,
+     1198,
+     "r6"
+    ],
+    [
+     671,
+     1184,
+     674,
+     1198,
+     "r6"
+    ],
+    [
+     678,
+     1184,
+     684,
+     1198,
+     "r6"
+    ],
+    [
+     580,
+     1188,
+     588,
+     1198,
+     "r6"
+    ],
+    [
+     630,
+     1189,
+     633,
+     1198,
+     "r6"
+    ],
+    [
+     636,
+     1188,
+     650,
+     1198,
+     "r6"
+    ],
+    [
+     653,
+     1188,
+     659,
+     1199,
+     "r6"
+    ],
+    [
+     661,
+     1188,
+     669,
+     1199,
+     "r6"
+    ],
+    [
+     686,
+     1196,
+     689,
+     1199,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 4,
+  "log": []
+ }
+}

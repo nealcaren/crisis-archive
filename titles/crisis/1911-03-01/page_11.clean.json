@@ -1,0 +1,475 @@
+{
+ "page": 11,
+ "image": "images/page_11.jpg",
+ "width": 1090,
+ "height": 1670,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.0,
+  "at": "2026-10-06T21:17:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 64,
+    "y0": 102,
+    "x1": 906,
+    "y1": 242
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.6659798622131348,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 274,
+    "y0": 139,
+    "x1": 686,
+    "y1": 203
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "OPINION",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 497,
+    "y0": 266,
+    "x1": 905,
+    "y1": 329
+   },
+   "text": "in impassioned pleas for white sovereignty at the South, the electoral injustice they now sanctimoniously condemn.\"",
+   "status": "ok",
+   "confidence": 0.9552024602890015,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 495,
+    "y0": 265,
+    "x1": 902,
+    "y1": 327
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 65,
+    "y0": 284,
+    "x1": 472,
+    "y1": 505
+   },
+   "text": "In our last issue we referred to the debates in the Senate as to the effect the popular election of senators would have on the Negro situation in the South. This month we give on page five an account of the speech of Senator Root. There is a feeling among the newspaper editors that the race question was raised merely to cloud the election issue, but the speeches come in for some extended comment. The Boston Transcript says:",
+   "status": "ok",
+   "confidence": 0.9779542684555054,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 64,
+    "y0": 285,
+    "x1": 469,
+    "y1": 502
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 497,
+    "y0": 330,
+    "x1": 904,
+    "y1": 668
+   },
+   "text": "The Rome (N. Y.) Sentinel says the senator's contention is not well founded. It declares that no matter how the election of senators may be changed there will still remain with Congress \"that power which has never yet been exercised but which lies ready under the Constitution, to penalize States which limit their franchise by grandfather or educational clauses, North or South, through the cutting down of the States' representation in the House of Representatives. Again, it is to be said that the Senate has never yet attempted to set aside the election of a Southern senator on the ground that the Negroes were kept from voting for the members of the legislature returning the senator in question.\"",
+   "status": "ok",
+   "confidence": 0.978741466999054,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 497,
+    "y0": 329,
+    "x1": 902,
+    "y1": 664
+   },
+   "exclude": [
+    [
+     519,
+     667,
+     532,
+     683,
+     "r5"
+    ],
+    [
+     684,
+     667,
+     701,
+     682,
+     "r5"
+    ],
+    [
+     705,
+     667,
+     707,
+     670,
+     "r5"
+    ],
+    [
+     739,
+     667,
+     744,
+     685,
+     "r5"
+    ],
+    [
+     766,
+     667,
+     778,
+     682,
+     "r5"
+    ],
+    [
+     781,
+     667,
+     783,
+     669,
+     "r5"
+    ],
+    [
+     855,
+     667,
+     866,
+     682,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 65,
+    "y0": 506,
+    "x1": 472,
+    "y1": 883
+   },
+   "text": "\"In his speech, and more specifically in reply to Senator Bacon's question, Mr. Root declared that by the provisions of this amendment the Federal Government would have power to annul the suffrage amendments of the constitutions of the Southern States and thus do away with all the grandfather clauses and other subterfuges with which the South has disfranchised the Negro. It is difficult to find an authority in the United States outside the Supreme Court itself whose word would be more convincing than Senator Root's on any legal point. His explanation of this Sutherland amendment, which is sure to pass, will undoubtedly array the Southern senators against the amendment as a whole, and will defeat the proposition so far as this Congress is concerned.\"",
+   "status": "ok",
+   "confidence": 0.9768019318580627,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 64,
+    "y0": 505,
+    "x1": 470,
+    "y1": 878
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 497,
+    "y0": 665,
+    "x1": 904,
+    "y1": 923
+   },
+   "text": "The St. Paul (Minn.) Pioneer Press takes the matter more seriously, and thinks the question is one that demands the most thorough and intelligent consideration before final action is taken. \"However emphatic the sentiment and demand in favor of election of United States senators by a direct vote of the people, we believe the proposition would be rejected if its adoption would carry with it the indorsement of the disfranchising laws which many of the Southern States have enacted against the Negro citizens.\"",
+   "status": "ok",
+   "confidence": 0.9758285880088806,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 496,
+    "y0": 664,
+    "x1": 901,
+    "y1": 919
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 64,
+    "y0": 883,
+    "x1": 473,
+    "y1": 1222
+   },
+   "text": "The Rochester (N. Y.) Times thinks it was easy to understand the feeling that the North should not interfere in the South's attitude toward the Negro but feels that the situation is bad. \"While the Northern States have not made any vigorous protests against these violations of the Constitution, it is easy to see that there are grave objections against adding to the electoral privileges of States where a large proportion of the persons entitled by the Constitution to vote are prevented by State laws. If the Southern States want their senators elected by the people of the States they should first see to it that the right to vote is exercised by all the people, not alone by those who happen to be of one color.\"",
+   "status": "ok",
+   "confidence": 0.9782917499542236,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 64,
+    "y0": 883,
+    "x1": 470,
+    "y1": 1216
+   },
+   "exclude": [
+    [
+     87,
+     1220,
+     100,
+     1236,
+     "r8"
+    ],
+    [
+     102,
+     1221,
+     111,
+     1236,
+     "r8"
+    ],
+    [
+     137,
+     1220,
+     152,
+     1236,
+     "r8"
+    ],
+    [
+     193,
+     1220,
+     208,
+     1236,
+     "r8"
+    ],
+    [
+     228,
+     1221,
+     239,
+     1236,
+     "r8"
+    ],
+    [
+     255,
+     1221,
+     267,
+     1236,
+     "r8"
+    ],
+    [
+     339,
+     1221,
+     348,
+     1236,
+     "r8"
+    ],
+    [
+     351,
+     1220,
+     354,
+     1223,
+     "r8"
+    ],
+    [
+     366,
+     1221,
+     375,
+     1236,
+     "r8"
+    ],
+    [
+     455,
+     1220,
+     459,
+     1235,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 496,
+    "y0": 923,
+    "x1": 907,
+    "y1": 1479
+   },
+   "text": "That the colored man still has some power in politics is shown by various dispatches from Washington. \"It is a fact,\" says the New York Tribune's correspondent, \"that some, at least, of the men who by a deal with the Democrats to confirm Negro disfranchisement overthrew the old guard yesterday, are wondering to-day if they have done wisely. Senator Smith, of Michigan, who voted with the insurgents and the Democrats, has a large Negro constituency. So has Senator Cummins, of Iowa. So has, or had, Senator Beveridge, of Indiana. Congress may not deem it wise to protect the rights of the Negro in the Southern States, but that is a wholly different matter from alienating all right to do so in so far as the election of senators is concerned. Of course, there is little probability that this amendment can command the necessary two-thirds vote in the senate. even if the insurgents maintain their unholy alliance with the Democrats, but the very fact that insurgent Republicans have entered into such an alliance is filled with possibilities of ill to their future political welfare, and some of them are, metaphorically speaking, suffering from severe 'morning-after headaches.'\"",
+   "status": "ok",
+   "confidence": 0.9789339303970337,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 497,
+    "y0": 923,
+    "x1": 902,
+    "y1": 1475
+   },
+   "exclude": [
+    [
+     849,
+     1477,
+     856,
+     1493,
+     "r9"
+    ],
+    [
+     549,
+     1478,
+     558,
+     1493,
+     "r9"
+    ],
+    [
+     585,
+     1478,
+     594,
+     1493,
+     "r9"
+    ],
+    [
+     711,
+     1478,
+     720,
+     1493,
+     "r9"
+    ],
+    [
+     779,
+     1478,
+     785,
+     1493,
+     "r9"
+    ],
+    [
+     811,
+     1478,
+     820,
+     1493,
+     "r9"
+    ],
+    [
+     865,
+     1478,
+     874,
+     1493,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 65,
+    "y0": 1218,
+    "x1": 473,
+    "y1": 1499
+   },
+   "text": "The New York Press, which earnestly advocates the popular election of senators, says that the race issue has been dragged in by the reactionaries and has no place in the discussion. \"When the people shall have won their irresistible fight for the direct election of senators the Roots will forget all about the disfranchised Negro. If occasion should demand it, and it would serve the cause of special privilege so to do, the present champions of the trampled colored voter would no doubt some day strike hands with Southern senators to keep him ground to the dust, and would defend,",
+   "status": "ok",
+   "confidence": 0.9756202101707458,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 64,
+    "y0": 1218,
+    "x1": 470,
+    "y1": 1495
+   },
+   "exclude": [
+    [
+     219,
+     1206,
+     229,
+     1220,
+     "r6"
+    ],
+    [
+     230,
+     1206,
+     248,
+     1220,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 519,
+    "y0": 1475,
+    "x1": 905,
+    "y1": 1499
+   },
+   "text": "And the correspondent of the Ithaca",
+   "status": "ok",
+   "confidence": 0.8113640546798706,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 514,
+    "y0": 1475,
+    "x1": 903,
+    "y1": 1496
+   },
+   "exclude": [
+    [
+     698,
+     1463,
+     708,
+     1477,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "title",
+   "bbox": {
+    "x0": 205,
+    "y0": 265,
+    "x1": 335,
+    "y1": 287
+   },
+   "text": "POLITICAL",
+   "status": "ok",
+   "confidence": 0.8518871665000916,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 204,
+    "y0": 263,
+    "x1": 331,
+    "y1": 285
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 11,
+  "regions_after": 11,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 4,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 69%",
+   "reread r0: 'OPINION' -> 'OPINION'"
+  ]
+ }
+}

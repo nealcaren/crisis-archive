@@ -1,0 +1,1677 @@
+{
+ "page": 25,
+ "image": "images/page_25.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.3,
+  "at": "2026-10-06T21:50:14+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 118,
+    "y0": 130,
+    "x1": 1173,
+    "y1": 549
+   },
+   "text": "Harriet Beecher Stowe's Personal Knowledge of the Negro Character\nBy CHARLES EDWARD STOWE\n\nIf \"Uncle Tom's Cabin\" was not true in minute particulars to plantation life, it was true to human nature in its great basilar fact that its organic elements are the same under a white or a black skin.",
+   "status": "ok",
+   "confidence": 0.9418869614601135,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 126,
+    "x1": 1171,
+    "y1": 549
+   },
+   "exclude": [
+    [
+     705,
+     430,
+     707,
+     432,
+     "r6"
+    ],
+    [
+     712,
+     430,
+     718,
+     449,
+     "r6"
+    ],
+    [
+     761,
+     431,
+     772,
+     449,
+     "r6"
+    ],
+    [
+     789,
+     431,
+     801,
+     449,
+     "r6"
+    ],
+    [
+     815,
+     431,
+     826,
+     449,
+     "r6"
+    ],
+    [
+     921,
+     430,
+     925,
+     448,
+     "r6"
+    ],
+    [
+     992,
+     430,
+     995,
+     433,
+     "r6"
+    ],
+    [
+     1062,
+     430,
+     1064,
+     432,
+     "r6"
+    ],
+    [
+     1079,
+     431,
+     1091,
+     449,
+     "r6"
+    ],
+    [
+     740,
+     434,
+     746,
+     449,
+     "r6"
+    ],
+    [
+     958,
+     434,
+     965,
+     449,
+     "r6"
+    ],
+    [
+     981,
+     434,
+     988,
+     449,
+     "r6"
+    ],
+    [
+     1069,
+     434,
+     1075,
+     449,
+     "r6"
+    ],
+    [
+     667,
+     436,
+     678,
+     448,
+     "r6"
+    ],
+    [
+     681,
+     437,
+     690,
+     449,
+     "r6"
+    ],
+    [
+     704,
+     437,
+     708,
+     448,
+     "r6"
+    ],
+    [
+     732,
+     437,
+     736,
+     448,
+     "r6"
+    ],
+    [
+     776,
+     437,
+     779,
+     440,
+     "r6"
+    ],
+    [
+     775,
+     437,
+     786,
+     449,
+     "r6"
+    ],
+    [
+     830,
+     436,
+     839,
+     449,
+     "r6"
+    ],
+    [
+     842,
+     436,
+     852,
+     448,
+     "r6"
+    ],
+    [
+     855,
+     437,
+     868,
+     449,
+     "r6"
+    ],
+    [
+     881,
+     436,
+     892,
+     448,
+     "r6"
+    ],
+    [
+     906,
+     437,
+     918,
+     452,
+     "r6"
+    ],
+    [
+     930,
+     436,
+     934,
+     440,
+     "r6"
+    ],
+    [
+     929,
+     437,
+     939,
+     448,
+     "r6"
+    ],
+    [
+     943,
+     437,
+     954,
+     448,
+     "r6"
+    ],
+    [
+     967,
+     436,
+     978,
+     449,
+     "r6"
+    ],
+    [
+     991,
+     437,
+     996,
+     448,
+     "r6"
+    ],
+    [
+     999,
+     437,
+     1011,
+     449,
+     "r6"
+    ],
+    [
+     1014,
+     436,
+     1025,
+     448,
+     "r6"
+    ],
+    [
+     1040,
+     437,
+     1058,
+     449,
+     "r6"
+    ],
+    [
+     1061,
+     437,
+     1065,
+     448,
+     "r6"
+    ],
+    [
+     1104,
+     437,
+     1113,
+     449,
+     "r6"
+    ],
+    [
+     1116,
+     437,
+     1125,
+     449,
+     "r6"
+    ],
+    [
+     1129,
+     437,
+     1141,
+     449,
+     "r6"
+    ],
+    [
+     1143,
+     437,
+     1153,
+     449,
+     "r6"
+    ],
+    [
+     1156,
+     436,
+     1168,
+     448,
+     "r6"
+    ],
+    [
+     668,
+     455,
+     679,
+     473,
+     "r6"
+    ],
+    [
+     785,
+     455,
+     797,
+     473,
+     "r6"
+    ],
+    [
+     829,
+     455,
+     840,
+     473,
+     "r6"
+    ],
+    [
+     923,
+     455,
+     926,
+     457,
+     "r6"
+    ],
+    [
+     996,
+     455,
+     1001,
+     459,
+     "r6"
+    ],
+    [
+     1006,
+     455,
+     1017,
+     473,
+     "r6"
+    ],
+    [
+     1052,
+     455,
+     1063,
+     473,
+     "r6"
+    ],
+    [
+     1081,
+     455,
+     1093,
+     473,
+     "r6"
+    ],
+    [
+     1114,
+     455,
+     1118,
+     473,
+     "r6"
+    ],
+    [
+     1123,
+     455,
+     1125,
+     457,
+     "r6"
+    ],
+    [
+     1157,
+     455,
+     1168,
+     473,
+     "r6"
+    ],
+    [
+     713,
+     456,
+     724,
+     473,
+     "r6"
+    ],
+    [
+     752,
+     456,
+     764,
+     473,
+     "r6"
+    ],
+    [
+     990,
+     456,
+     1003,
+     473,
+     "r6"
+    ],
+    [
+     894,
+     458,
+     900,
+     473,
+     "r6"
+    ],
+    [
+     930,
+     459,
+     936,
+     473,
+     "r6"
+    ],
+    [
+     683,
+     461,
+     694,
+     473,
+     "r6"
+    ],
+    [
+     697,
+     461,
+     709,
+     473,
+     "r6"
+    ],
+    [
+     728,
+     461,
+     736,
+     473,
+     "r6"
+    ],
+    [
+     739,
+     461,
+     748,
+     473,
+     "r6"
+    ],
+    [
+     800,
+     461,
+     810,
+     473,
+     "r6"
+    ],
+    [
+     814,
+     461,
+     825,
+     473,
+     "r6"
+    ],
+    [
+     844,
+     461,
+     853,
+     473,
+     "r6"
+    ],
+    [
+     873,
+     461,
+     886,
+     473,
+     "r6"
+    ],
+    [
+     889,
+     461,
+     893,
+     473,
+     "r6"
+    ],
+    [
+     922,
+     461,
+     926,
+     473,
+     "r6"
+    ],
+    [
+     1021,
+     461,
+     1031,
+     473,
+     "r6"
+    ],
+    [
+     1067,
+     461,
+     1078,
+     473,
+     "r6"
+    ],
+    [
+     1122,
+     461,
+     1126,
+     473,
+     "r6"
+    ],
+    [
+     1129,
+     461,
+     1141,
+     473,
+     "r6"
+    ],
+    [
+     1143,
+     461,
+     1153,
+     473,
+     "r6"
+    ],
+    [
+     940,
+     470,
+     942,
+     473,
+     "r6"
+    ],
+    [
+     676,
+     479,
+     688,
+     497,
+     "r6"
+    ],
+    [
+     846,
+     479,
+     857,
+     497,
+     "r6"
+    ],
+    [
+     934,
+     479,
+     946,
+     497,
+     "r6"
+    ],
+    [
+     961,
+     479,
+     973,
+     497,
+     "r6"
+    ],
+    [
+     978,
+     479,
+     980,
+     482,
+     "r6"
+    ],
+    [
+     1074,
+     479,
+     1081,
+     497,
+     "r6"
+    ],
+    [
+     1121,
+     479,
+     1139,
+     498,
+     "r6"
+    ],
+    [
+     1143,
+     479,
+     1146,
+     482,
+     "r6"
+    ],
+    [
+     747,
+     480,
+     759,
+     497,
+     "r6"
+    ],
+    [
+     785,
+     480,
+     796,
+     497,
+     "r6"
+    ],
+    [
+     876,
+     480,
+     881,
+     497,
+     "r6"
+    ],
+    [
+     666,
+     483,
+     673,
+     497,
+     "r6"
+    ],
+    [
+     775,
+     483,
+     782,
+     498,
+     "r6"
+    ],
+    [
+     996,
+     483,
+     1003,
+     497,
+     "r6"
+    ],
+    [
+     691,
+     485,
+     700,
+     497,
+     "r6"
+    ],
+    [
+     732,
+     485,
+     745,
+     502,
+     "r6"
+    ],
+    [
+     800,
+     485,
+     809,
+     498,
+     "r6"
+    ],
+    [
+     861,
+     485,
+     873,
+     498,
+     "r6"
+    ],
+    [
+     884,
+     485,
+     894,
+     497,
+     "r6"
+    ],
+    [
+     909,
+     485,
+     918,
+     497,
+     "r6"
+    ],
+    [
+     920,
+     485,
+     931,
+     497,
+     "r6"
+    ],
+    [
+     976,
+     485,
+     981,
+     497,
+     "r6"
+    ],
+    [
+     984,
+     485,
+     992,
+     498,
+     "r6"
+    ],
+    [
+     1005,
+     485,
+     1018,
+     497,
+     "r6"
+    ],
+    [
+     1021,
+     485,
+     1029,
+     497,
+     "r6"
+    ],
+    [
+     1059,
+     485,
+     1071,
+     497,
+     "r6"
+    ],
+    [
+     1094,
+     485,
+     1106,
+     497,
+     "r6"
+    ],
+    [
+     1142,
+     485,
+     1147,
+     497,
+     "r6"
+    ],
+    [
+     1150,
+     485,
+     1158,
+     497,
+     "r6"
+    ],
+    [
+     703,
+     486,
+     714,
+     497,
+     "r6"
+    ],
+    [
+     717,
+     486,
+     729,
+     497,
+     "r6"
+    ],
+    [
+     825,
+     486,
+     843,
+     497,
+     "r6"
+    ],
+    [
+     1031,
+     486,
+     1044,
+     502,
+     "r6"
+    ],
+    [
+     1161,
+     490,
+     1168,
+     493,
+     "r6"
+    ],
+    [
+     997,
+     503,
+     1005,
+     522,
+     "r6"
+    ],
+    [
+     683,
+     504,
+     685,
+     506,
+     "r6"
+    ],
+    [
+     706,
+     504,
+     708,
+     506,
+     "r6"
+    ],
+    [
+     761,
+     504,
+     764,
+     506,
+     "r6"
+    ],
+    [
+     792,
+     505,
+     804,
+     523,
+     "r6"
+    ],
+    [
+     837,
+     504,
+     842,
+     522,
+     "r6"
+    ],
+    [
+     886,
+     504,
+     889,
+     510,
+     "r6"
+    ],
+    [
+     923,
+     504,
+     927,
+     522,
+     "r6"
+    ],
+    [
+     932,
+     504,
+     934,
+     506,
+     "r6"
+    ],
+    [
+     942,
+     504,
+     945,
+     506,
+     "r6"
+    ],
+    [
+     1043,
+     504,
+     1047,
+     522,
+     "r6"
+    ],
+    [
+     1155,
+     505,
+     1167,
+     523,
+     "r6"
+    ],
+    [
+     939,
+     506,
+     944,
+     522,
+     "r6"
+    ],
+    [
+     1145,
+     507,
+     1152,
+     523,
+     "r6"
+    ],
+    [
+     666,
+     510,
+     680,
+     527,
+     "r6"
+    ],
+    [
+     682,
+     511,
+     686,
+     521,
+     "r6"
+    ],
+    [
+     689,
+     511,
+     701,
+     522,
+     "r6"
+    ],
+    [
+     705,
+     511,
+     709,
+     522,
+     "r6"
+    ],
+    [
+     712,
+     510,
+     722,
+     523,
+     "r6"
+    ],
+    [
+     735,
+     510,
+     744,
+     522,
+     "r6"
+    ],
+    [
+     746,
+     510,
+     757,
+     522,
+     "r6"
+    ],
+    [
+     760,
+     511,
+     764,
+     522,
+     "r6"
+    ],
+    [
+     768,
+     511,
+     776,
+     523,
+     "r6"
+    ],
+    [
+     784,
+     511,
+     789,
+     516,
+     "r6"
+    ],
+    [
+     825,
+     511,
+     834,
+     522,
+     "r6"
+    ],
+    [
+     845,
+     510,
+     856,
+     522,
+     "r6"
+    ],
+    [
+     858,
+     511,
+     870,
+     522,
+     "r6"
+    ],
+    [
+     873,
+     510,
+     882,
+     522,
+     "r6"
+    ],
+    [
+     892,
+     510,
+     901,
+     522,
+     "r6"
+    ],
+    [
+     931,
+     511,
+     935,
+     522,
+     "r6"
+    ],
+    [
+     948,
+     510,
+     957,
+     522,
+     "r6"
+    ],
+    [
+     1010,
+     511,
+     1014,
+     522,
+     "r6"
+    ],
+    [
+     1015,
+     510,
+     1021,
+     522,
+     "r6"
+    ],
+    [
+     1049,
+     510,
+     1054,
+     521,
+     "r6"
+    ],
+    [
+     1058,
+     510,
+     1068,
+     522,
+     "r6"
+    ],
+    [
+     1072,
+     510,
+     1080,
+     522,
+     "r6"
+    ],
+    [
+     1100,
+     510,
+     1113,
+     527,
+     "r6"
+    ],
+    [
+     1116,
+     510,
+     1128,
+     523,
+     "r6"
+    ],
+    [
+     1131,
+     510,
+     1142,
+     522,
+     "r6"
+    ],
+    [
+     780,
+     512,
+     789,
+     523,
+     "r6"
+    ],
+    [
+     726,
+     515,
+     733,
+     518,
+     "r6"
+    ],
+    [
+     960,
+     519,
+     964,
+     522,
+     "r6"
+    ],
+    [
+     680,
+     529,
+     691,
+     546,
+     "r6"
+    ],
+    [
+     802,
+     529,
+     813,
+     546,
+     "r6"
+    ],
+    [
+     875,
+     529,
+     886,
+     547,
+     "r6"
+    ],
+    [
+     1050,
+     529,
+     1055,
+     546,
+     "r6"
+    ],
+    [
+     1094,
+     529,
+     1106,
+     547,
+     "r6"
+    ],
+    [
+     775,
+     533,
+     781,
+     547,
+     "r6"
+    ],
+    [
+     694,
+     535,
+     704,
+     547,
+     "r6"
+    ],
+    [
+     725,
+     535,
+     745,
+     546,
+     "r6"
+    ],
+    [
+     748,
+     535,
+     759,
+     547,
+     "r6"
+    ],
+    [
+     767,
+     535,
+     770,
+     537,
+     "r6"
+    ],
+    [
+     817,
+     534,
+     827,
+     547,
+     "r6"
+    ],
+    [
+     831,
+     535,
+     841,
+     547,
+     "r6"
+    ],
+    [
+     844,
+     535,
+     854,
+     546,
+     "r6"
+    ],
+    [
+     890,
+     534,
+     899,
+     547,
+     "r6"
+    ],
+    [
+     903,
+     535,
+     912,
+     547,
+     "r6"
+    ],
+    [
+     916,
+     534,
+     927,
+     546,
+     "r6"
+    ],
+    [
+     948,
+     534,
+     959,
+     546,
+     "r6"
+    ],
+    [
+     978,
+     534,
+     990,
+     546,
+     "r6"
+    ],
+    [
+     993,
+     534,
+     1003,
+     546,
+     "r6"
+    ],
+    [
+     1007,
+     534,
+     1015,
+     546,
+     "r6"
+    ],
+    [
+     1017,
+     535,
+     1029,
+     551,
+     "r6"
+    ],
+    [
+     1056,
+     534,
+     1061,
+     547,
+     "r6"
+    ],
+    [
+     1065,
+     534,
+     1076,
+     546,
+     "r6"
+    ],
+    [
+     1079,
+     535,
+     1083,
+     546,
+     "r6"
+    ],
+    [
+     1084,
+     535,
+     1090,
+     546,
+     "r6"
+    ],
+    [
+     1109,
+     535,
+     1118,
+     547,
+     "r6"
+    ],
+    [
+     1121,
+     535,
+     1133,
+     548,
+     "r6"
+    ],
+    [
+     1135,
+     535,
+     1141,
+     546,
+     "r6"
+    ],
+    [
+     1142,
+     534,
+     1155,
+     546,
+     "r6"
+    ],
+    [
+     1159,
+     535,
+     1169,
+     547,
+     "r6"
+    ],
+    [
+     667,
+     536,
+     676,
+     547,
+     "r6"
+    ],
+    [
+     763,
+     536,
+     771,
+     547,
+     "r6"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "Harriet Beecher Stowe's Personal Knowledge of the Negro Character\nBy CHARLES EDWARD STOWE\n\nIf \"Uncle Tom's Cabin\" was not true in minute particulars to plantation life, it was true to human nature in its great basilar fact that its organic elements are the same under a white or a black skin. as if it had been a plantation with seven hundred hands on it. She had lived through the whole sad history of a Virginia-raised slave's life. In her youth she must have been a very handsome",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 123,
+    "y0": 548,
+    "x1": 631,
+    "y1": 671
+   },
+   "text": "Among the fondest recollections of Mrs. Stowe's childhood were the colored servants of her father's New England home, Zillah and Rachel and old Aunt Candace.",
+   "status": "ok",
+   "confidence": 0.9246100783348083,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 123,
+    "y0": 549,
+    "x1": 626,
+    "y1": 670
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 124,
+    "y0": 670,
+    "x1": 631,
+    "y1": 893
+   },
+   "text": "When she was a very little child, between five and six, her mother died, and she thus describes the way in which Aunt Candace comforted her: \"Even our portly old black washerwoman, Candace, who came once a week to help off the great family wash, would draw us aside, and, with tears in her eyes, tell us of the saintly virtues of our mother.",
+   "status": "ok",
+   "confidence": 0.97378009557724,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 124,
+    "y0": 671,
+    "x1": 628,
+    "y1": 889
+   },
+   "exclude": [
+    [
+     166,
+     892,
+     185,
+     910,
+     "r3"
+    ],
+    [
+     238,
+     892,
+     246,
+     910,
+     "r3"
+    ],
+    [
+     283,
+     892,
+     286,
+     894,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 124,
+    "y0": 889,
+    "x1": 634,
+    "y1": 1375
+   },
+   "text": "\"Her feelings were sometimes expressed in a manner that was truly touching. I remember her coming one time to wash when the family were assembled for prayers in the next room, and I, for some reason, had lingered in the kitchen. She drew me toward her and held me quite still till the exercises were over, and then she kissed my hand, and I felt the tears drop upon it. There was something about her feeling that struck me with awe. She scarcely spoke a word, but gave me to understand that she was paying that homage to my mother's memory.\"\n\nImmediately after the publication of \"Uncle Tom's Cabin\" she wrote to Mrs. Follen, in England, of her experiences with the Negroes near her Cincinnati home.",
+   "status": "ok",
+   "confidence": 0.9766910672187805,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 124,
+    "y0": 891,
+    "x1": 630,
+    "y1": 1375
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 125,
+    "y0": 1374,
+    "x1": 634,
+    "y1": 1722
+   },
+   "text": "\"If anyone wishes to have a black face look handsome let them be left, as I have been, with a sick baby in the arms and one or two other little ones in the nursery, and not a servant in the house to do a single turn. Then, if they could see my good old Aunt Frankie coming with her honest, bluff, black face; her long, strong arms; her chest as big and stout as a barrel, and her hilarious hearty laugh, perfectly delighted to take one's washing and do it at a fair price, they would appreciate the beauty of black people.",
+   "status": "ok",
+   "confidence": 0.9765623211860657,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 126,
+    "y0": 1375,
+    "x1": 631,
+    "y1": 1715
+   },
+   "exclude": [
+    [
+     366,
+     1719,
+     383,
+     1738,
+     "r5"
+    ],
+    [
+     386,
+     1719,
+     391,
+     1737,
+     "r5"
+    ],
+    [
+     396,
+     1719,
+     398,
+     1722,
+     "r5"
+    ],
+    [
+     442,
+     1719,
+     458,
+     1737,
+     "r5"
+    ],
+    [
+     488,
+     1719,
+     501,
+     1737,
+     "r5"
+    ],
+    [
+     529,
+     1719,
+     540,
+     1737,
+     "r5"
+    ],
+    [
+     605,
+     1719,
+     617,
+     1736,
+     "r5"
+    ],
+    [
+     154,
+     1720,
+     158,
+     1727,
+     "r5"
+    ],
+    [
+     160,
+     1720,
+     164,
+     1727,
+     "r5"
+    ],
+    [
+     167,
+     1720,
+     189,
+     1738,
+     "r5"
+    ],
+    [
+     262,
+     1720,
+     275,
+     1738,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 125,
+    "y0": 1716,
+    "x1": 636,
+    "y1": 1867
+   },
+   "text": "\"My cook, poor Eliza Buck—how she would stare to think of her name going to England!—was a regular epitome of slave life in herself; fat, gentle, easy, loving and lovable, always calling my very modest house and dooryard 'The Place,'",
+   "status": "ok",
+   "confidence": 0.9687775373458862,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 124,
+    "y0": 1715,
+    "x1": 633,
+    "y1": 1864
+   },
+   "exclude": [
+    [
+     128,
+     1702,
+     141,
+     1719,
+     "r4"
+    ],
+    [
+     171,
+     1702,
+     183,
+     1718,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 663,
+    "y0": 427,
+    "x1": 1172,
+    "y1": 578
+   },
+   "text": "as if it had been a plantation with seven hundred hands on it. She had lived through the whole sad history of a Virginia-raised slave's life. In her youth she must have been a very handsome mulatto girl.",
+   "status": "ok",
+   "confidence": 0.967139482498169,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 662,
+    "y0": 425,
+    "x1": 1168,
+    "y1": 574
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 663,
+    "y0": 575,
+    "x1": 1171,
+    "y1": 846
+   },
+   "text": "\"Her voice was sweet, her manners refined and agreeable. She was raised in a good family as a nurse and seamstress. When the family became suddenly financially embarrassed, she was sold onto a plantation in Louisiana. She has often told me how, without any warning, she was suddenly forced into a carriage, and heard her little mistress screaming and stretching her hands toward her as she was driven away.",
+   "status": "ok",
+   "confidence": 0.9774417877197266,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 662,
+    "y0": 576,
+    "x1": 1168,
+    "y1": 841
+   },
+   "exclude": [
+    [
+     706,
+     845,
+     719,
+     863,
+     "r8"
+    ],
+    [
+     722,
+     845,
+     733,
+     863,
+     "r8"
+    ],
+    [
+     788,
+     845,
+     793,
+     863,
+     "r8"
+    ],
+    [
+     796,
+     845,
+     809,
+     864,
+     "r8"
+    ],
+    [
+     887,
+     845,
+     895,
+     863,
+     "r8"
+    ],
+    [
+     1052,
+     845,
+     1064,
+     863,
+     "r8"
+    ],
+    [
+     1093,
+     845,
+     1110,
+     865,
+     "r8"
+    ],
+    [
+     1143,
+     845,
+     1146,
+     848,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 665,
+    "y0": 842,
+    "x1": 1173,
+    "y1": 1497
+   },
+   "text": "\"She told me of scenes on the Louisiana plantation and how she had often been out by stealth at night to minister to poor slaves who had been macerated and mangled by the lash. She was then sold into Kentucky, and her last master was the father of all her children. On this last point she always maintained a delicacy and reserve that seemed to me remarkable. She always called him her husband, and it was not till she had lived with me for some years that I discovered the true nature of the connection. I shall never forget how sorry I felt for her nor my feelings at her humble apology, 'You know, Mrs. Stowe, slave women cannot help themselves.' She had two very pretty quadroon daughters, with her beautiful hair and eyes; interesting children, whom I had instructed in our family school with my own children. Time would fail me to tell you all I learned incidentally of the slave-system in the history of various slaves who came into my family, and of the Underground Railroad which, I may say, ran through our house.\"",
+   "status": "ok",
+   "confidence": 0.9794369339942932,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 665,
+    "y0": 843,
+    "x1": 1170,
+    "y1": 1494
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 668,
+    "y0": 1494,
+    "x1": 1176,
+    "y1": 1867
+   },
+   "text": "In a letter to Frederick Douglass Mrs. Stowe tells of her earliest impressions of slavery. \"I was a child in 1820 when the Missouri question was agitated, and one of the strongest and deepest impressions on my mind was that made by my father's sermons and prayers, and the anguish of his soul for the poor slave at that time. I remember his preaching drawing tears down the faces of the hardest old farmers in his congregation. I well remember his prayers in the family for 'poor, oppressed, bleeding Africa' that the time of her deliverance might come; prayers offered with strong cry-",
+   "status": "ok",
+   "confidence": 0.9761709570884705,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 668,
+    "y0": 1496,
+    "x1": 1173,
+    "y1": 1863
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 9,
+  "log": [
+   "reshape r0 (abandon): lost 12% of its ink, gained 0%",
+   "reread r0: \"Harriet Beecher Stowe's Personal Knowled\" -> \"Harriet Beecher Stowe's Personal Knowled\""
+  ]
+ }
+}

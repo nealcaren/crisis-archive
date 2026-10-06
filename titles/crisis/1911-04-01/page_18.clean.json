@@ -1,0 +1,102 @@
+{
+ "page": 18,
+ "image": "images/page_18.jpg",
+ "width": 1075,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 2.2,
+  "at": "2026-10-06T21:27:14+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 851,
+    "y0": 90,
+    "x1": 1001,
+    "y1": 114
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8814093470573425,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 850,
+    "y0": 88,
+    "x1": 1000,
+    "y1": 114
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 180,
+    "y0": 91,
+    "x1": 206,
+    "y1": 112
+   },
+   "text": "18",
+   "status": "ok",
+   "confidence": 0.8585624098777771,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 176,
+    "y0": 89,
+    "x1": 205,
+    "y1": 112
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 179,
+    "y0": 150,
+    "x1": 1005,
+    "y1": 1530
+   },
+   "text": "William Stanley Brai Mmaite",
+   "status": "ok",
+   "confidence": 0.9231995940208435,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 222,
+    "y0": 258,
+    "x1": 955,
+    "y1": 1526
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "William Stanley Brai Mmaite",
+   "role": "text",
+   "text_reread": "William Stauley Brai Munaitte",
+   "needs_review": "reread lost words: stanley"
+  }
+ ],
+ "clean": {
+  "regions_before": 3,
+  "regions_after": 3,
+  "lost_words": [],
+  "needs_review": [
+   "r2"
+  ],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r2 (figure): lost 0% of its ink, gained 3%",
+   "reread r2: 'William Stanley Brai Mmaite' -> 'William Stauley Brai Munaitte'",
+   "REVIEW r2: reread lost stanley; kept old text"
+  ]
+ }
+}

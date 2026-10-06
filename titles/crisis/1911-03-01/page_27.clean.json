@@ -1,0 +1,782 @@
+{
+ "page": 27,
+ "image": "images/page_27.jpg",
+ "width": 1085,
+ "height": 1666,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.2,
+  "at": "2026-10-06T21:19:11+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 343,
+    "y0": 98,
+    "x1": 579,
+    "y1": 122
+   },
+   "text": "\"DAGGANCOURT\"",
+   "status": "ok",
+   "confidence": 0.8487351536750793,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 344,
+    "y0": 97,
+    "x1": 576,
+    "y1": 122
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 499,
+    "y0": 151,
+    "x1": 905,
+    "y1": 367
+   },
+   "text": "gancourt—possibly, indeed, may have exaggerated them—not because I approve—God forbid—but to attempt to rouse in the reader a spark of my own resentment. I consider I should have defeated my purpose had I made my own view of the matter too plain. What I hope to accomplish is to make the reader say to himself, as though the thought were original to himself: \"By George, it is a pretty hard world for a decent colored man!\"",
+   "status": "ok",
+   "confidence": 0.9723830819129944,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 499,
+    "y0": 149,
+    "x1": 904,
+    "y1": 366
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 67,
+    "y0": 151,
+    "x1": 473,
+    "y1": 426
+   },
+   "text": "Instead of \"our respective viewpoints being located on opposite sides of this question,\" I am most emphatically on the side of the colored people in their hard progress upward.\n\nMy delineation of Daggancourt was intended to help, not hinder.\n\nDo you realize that the injustice of our (white) people is so colossal that it is already something for a writer to draw a colored man endowed with such elementary good qualities as affection, trustworthiness, honor, industry, self-respect, etc.?",
+   "status": "ok",
+   "confidence": 0.9726951122283936,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 66,
+    "y0": 150,
+    "x1": 471,
+    "y1": 425
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 499,
+    "y0": 366,
+    "x1": 905,
+    "y1": 664
+   },
+   "text": "I am afraid you will not think this much of a victory, but it is. Probably a million people read Munsey's Magazine, and here and there Daggancourt will make a friend. The picture of a more advanced, more educated, finer, higher type of colored man—in the present truly deplorable state of public feeling—would make enemies. The book, too, remember, will also appear in England and in continental Europe (Tauchnitz edition)—in the aggregate a vast field, and friendlier than ours. It may even be translated into French, German and Norwegian, as has been the case with several of my books.",
+   "status": "ok",
+   "confidence": 0.9770589470863342,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 500,
+    "y0": 368,
+    "x1": 904,
+    "y1": 660
+   },
+   "exclude": [
+    [
+     522,
+     663,
+     529,
+     679,
+     "r5"
+    ],
+    [
+     622,
+     663,
+     630,
+     679,
+     "r5"
+    ],
+    [
+     823,
+     663,
+     838,
+     679,
+     "r5"
+    ],
+    [
+     835,
+     663,
+     838,
+     666,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 67,
+    "y0": 426,
+    "x1": 475,
+    "y1": 705
+   },
+   "text": "We novelists cannot make the public read us; if it throws down our book in disgust we are done for; when we wish to go against prevailing prejudices and stupidities we need to do it as delicately as though treading on eggs. I find it hard to have you criticise me, for I meant so well.\n\nThings I meant ironically you have taken with a literalness that does me injustice.\n\nTake the place, for instance (I am quoting from memory), where the text runs something like this: \"But he might linger in the doorway without impropriety and listen to the superior race.\"",
+   "status": "ok",
+   "confidence": 0.9713303446769714,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 66,
+    "y0": 426,
+    "x1": 472,
+    "y1": 701
+   },
+   "exclude": [
+    [
+     90,
+     703,
+     97,
+     718,
+     "r6"
+    ],
+    [
+     379,
+     703,
+     399,
+     718,
+     "r6"
+    ],
+    [
+     127,
+     704,
+     136,
+     718,
+     "r6"
+    ],
+    [
+     168,
+     704,
+     177,
+     718,
+     "r6"
+    ],
+    [
+     189,
+     704,
+     199,
+     719,
+     "r6"
+    ],
+    [
+     234,
+     704,
+     240,
+     718,
+     "r6"
+    ],
+    [
+     452,
+     704,
+     471,
+     719,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 501,
+    "y0": 661,
+    "x1": 906,
+    "y1": 740
+   },
+   "text": "I am confident that on rereading my story—with what I have said in mind—you will find yourself concurring in my view.",
+   "status": "ok",
+   "confidence": 0.9586189389228821,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 500,
+    "y0": 661,
+    "x1": 904,
+    "y1": 739
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 68,
+    "y0": 701,
+    "x1": 474,
+    "y1": 959
+   },
+   "text": "Is the shade of sarcasm too fine to be apparent?\nCompare Daggancourt with the other members of the boarding house. With which of them is the reader most likely to sympathize? Why, Daggancourt, of course! Is it not accomplishing something to achieve that? May it not instill in many a man and woman a kindlier feeling toward your race? Do you not appreciate how we should defeat the purpose we have at heart if we offended the reader? Once do that and he drops the book!",
+   "status": "ok",
+   "confidence": 0.978360652923584,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 67,
+    "y0": 702,
+    "x1": 472,
+    "y1": 955
+   },
+   "exclude": [
+    [
+     91,
+     958,
+     98,
+     973,
+     "r8"
+    ],
+    [
+     116,
+     958,
+     126,
+     973,
+     "r8"
+    ],
+    [
+     175,
+     958,
+     184,
+     973,
+     "r8"
+    ],
+    [
+     242,
+     958,
+     244,
+     960,
+     "r8"
+    ],
+    [
+     294,
+     958,
+     296,
+     960,
+     "r8"
+    ],
+    [
+     331,
+     958,
+     334,
+     973,
+     "r8"
+    ],
+    [
+     337,
+     958,
+     340,
+     973,
+     "r8"
+    ],
+    [
+     418,
+     958,
+     421,
+     973,
+     "r8"
+    ],
+    [
+     220,
+     689,
+     239,
+     703,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 501,
+    "y0": 740,
+    "x1": 906,
+    "y1": 978
+   },
+   "text": "As for \"better educated than most\"—that ought not to be construed as a slight on the educated colored man. Would you not use the expression yourself in regard to a mechanic or some such person? For the educated, refined, cultivated colored gentleman, pitted against our terribly adverse conditions, I have more sympathy and respect than I can well express. My heart goes out to him, and with it my hand. Believe me, with kindest regards, very sincerely yours,",
+   "status": "ok",
+   "confidence": 0.9636538624763489,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 499,
+    "y0": 740,
+    "x1": 905,
+    "y1": 974
+   },
+   "exclude": [
+    [
+     723,
+     976,
+     735,
+     992,
+     "r17"
+    ],
+    [
+     790,
+     976,
+     804,
+     992,
+     "r17"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 69,
+    "y0": 956,
+    "x1": 504,
+    "y1": 1090
+   },
+   "text": "I have dwelt intentionally on all the humiliating conditions surrounding Dag-",
+   "status": "ok",
+   "confidence": 0.9489050507545471,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 61,
+    "y0": 956,
+    "x1": 473,
+    "y1": 1156
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "I have dwelt intentionally on all the humiliating conditions surrounding Dag-",
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 321,
+    "y0": 1160,
+    "x1": 657,
+    "y1": 1184
+   },
+   "text": "THE MULE'S ANSWER",
+   "status": "ok",
+   "confidence": 0.9072447419166565,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 322,
+    "y0": 1156,
+    "x1": 656,
+    "y1": 1185
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 57,
+    "y0": 1213,
+    "x1": 475,
+    "y1": 1381
+   },
+   "text": "\"It was at an Independence Day festival at an Illinois town in 1859 that I first saw 'Old Abe,'\" writes George T. Ferris in the Columbian. \"When Mr. Lincoln upheaved his awkward length from the chair where he sat coiled up it was with a tense and active spring and a face beaming with smiles which transfigured it.",
+   "status": "ok",
+   "confidence": 0.9710285663604736,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 61,
+    "y0": 1210,
+    "x1": 472,
+    "y1": 1370
+   },
+   "exclude": [
+    [
+     94,
+     1373,
+     97,
+     1380,
+     "r12"
+    ],
+    [
+     99,
+     1372,
+     112,
+     1388,
+     "r12"
+    ],
+    [
+     114,
+     1373,
+     123,
+     1388,
+     "r12"
+    ],
+    [
+     167,
+     1373,
+     177,
+     1388,
+     "r12"
+    ],
+    [
+     199,
+     1373,
+     209,
+     1388,
+     "r12"
+    ],
+    [
+     284,
+     1373,
+     299,
+     1388,
+     "r12"
+    ],
+    [
+     314,
+     1373,
+     327,
+     1388,
+     "r12"
+    ],
+    [
+     390,
+     1373,
+     400,
+     1388,
+     "r12"
+    ],
+    [
+     424,
+     1372,
+     434,
+     1388,
+     "r12"
+    ],
+    [
+     454,
+     1372,
+     463,
+     1387,
+     "r12"
+    ],
+    [
+     192,
+     1376,
+     198,
+     1388,
+     "r12"
+    ],
+    [
+     356,
+     1377,
+     365,
+     1388,
+     "r12"
+    ],
+    [
+     436,
+     1377,
+     442,
+     1388,
+     "r12"
+    ],
+    [
+     444,
+     1377,
+     452,
+     1388,
+     "r12"
+    ],
+    [
+     465,
+     1377,
+     472,
+     1387,
+     "r12"
+    ],
+    [
+     126,
+     1378,
+     133,
+     1388,
+     "r12"
+    ],
+    [
+     134,
+     1378,
+     144,
+     1389,
+     "r12"
+    ],
+    [
+     145,
+     1378,
+     154,
+     1388,
+     "r12"
+    ],
+    [
+     156,
+     1378,
+     166,
+     1393,
+     "r12"
+    ],
+    [
+     211,
+     1379,
+     219,
+     1389,
+     "r12"
+    ],
+    [
+     234,
+     1378,
+     244,
+     1392,
+     "r12"
+    ],
+    [
+     244,
+     1378,
+     252,
+     1388,
+     "r12"
+    ],
+    [
+     254,
+     1378,
+     264,
+     1388,
+     "r12"
+    ],
+    [
+     265,
+     1378,
+     273,
+     1388,
+     "r12"
+    ],
+    [
+     275,
+     1378,
+     282,
+     1388,
+     "r12"
+    ],
+    [
+     329,
+     1378,
+     337,
+     1388,
+     "r12"
+    ],
+    [
+     339,
+     1378,
+     354,
+     1388,
+     "r12"
+    ],
+    [
+     367,
+     1378,
+     375,
+     1388,
+     "r12"
+    ],
+    [
+     401,
+     1378,
+     411,
+     1388,
+     "r12"
+    ],
+    [
+     412,
+     1378,
+     422,
+     1388,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 501,
+    "y0": 1202,
+    "x1": 906,
+    "y1": 1395
+   },
+   "text": "\"One could wish to have remembered and quoted, for the address bristled with homely epigrams and telling stories. But half a century obliterates detail in such matters, and only two little episodes stand out clear. He had just made some allusion to Senator Stephen Douglas when one of the mules picketed around the enclosure began to bray.",
+   "status": "ok",
+   "confidence": 0.9762189984321594,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 500,
+    "y0": 1211,
+    "x1": 905,
+    "y1": 1392
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 64,
+    "y0": 1370,
+    "x1": 474,
+    "y1": 1549
+   },
+   "text": "\"Through the general clamor hundreds of voices cried 'Howdy, Abe?' The speaker's voice at the outset was a shrill falsetto that cut like a knife; but after talking a few minutes it steadied into a strident, compelling tone that, never ceasing to be a little harsh, obsessed attention and transmitted dissonance into a more subtle music.",
+   "status": "ok",
+   "confidence": 0.9721874594688416,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 64,
+    "y0": 1370,
+    "x1": 472,
+    "y1": 1550
+   },
+   "exclude": [
+    [
+     86,
+     1358,
+     97,
+     1379,
+     "r10"
+    ],
+    [
+     345,
+     1358,
+     365,
+     1372,
+     "r10"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 501,
+    "y0": 1395,
+    "x1": 907,
+    "y1": 1550
+   },
+   "text": "\"There's your answer, Abel!\" shouted a Douglas partisan in the audience.\n\"Very well!\" responded Lincoln. 'It seems to me the mule's heehaw is about the only answer that can be given to the four square truth. Steve tried to do it last year and couldn't.'",
+   "status": "ok",
+   "confidence": 0.9583612680435181,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 499,
+    "y0": 1395,
+    "x1": 905,
+    "y1": 1547
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "abandon",
+   "bbox": {
+    "x0": 877,
+    "y0": 96,
+    "x1": 905,
+    "y1": 119
+   },
+   "text": "27",
+   "status": "ok",
+   "confidence": 0.8306094408035278,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 876,
+    "y0": 95,
+    "x1": 904,
+    "y1": 117
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r17",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 721,
+    "y0": 974,
+    "x1": 885,
+    "y1": 994
+   },
+   "text": "LLOYD OSBOURNE.",
+   "status": "ok",
+   "confidence": 0.8080264925956726,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 720,
+    "y0": 974,
+    "x1": 885,
+    "y1": 993
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 18,
+  "regions_after": 16,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.34,
+  "box_overlaps_after": 7,
+  "log": [
+   "drop r14 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r15 (title): non-latin hallucination '尬'",
+   "reshape r8 (plain_text): lost 0% of its ink, gained 15%",
+   "reread r8: 'I have dwelt intentionally on all the hu' -> 'I have dwelt intentionally on all the hu'"
+  ]
+ }
+}

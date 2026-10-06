@@ -1,0 +1,496 @@
+{
+ "page": 33,
+ "image": "images/page_33.jpg",
+ "width": 1365,
+ "height": 2085,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.4,
+  "at": "2026-10-06T21:51:23+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 465,
+    "y0": 135,
+    "x1": 834,
+    "y1": 164
+   },
+   "text": "THE BLACK SOLDIER",
+   "status": "ok",
+   "confidence": 0.8661643862724304,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 465,
+    "y0": 133,
+    "x1": 832,
+    "y1": 164
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 104,
+    "y0": 200,
+    "x1": 616,
+    "y1": 667
+   },
+   "text": "relinquished at the indignant protests of adjacent white property owners. At length an out-of-town park was decided upon, to be situated beyond the line of city residents. At this a new protest was raised, the people living on the car line running to the proposed park objecting to the increase that this would mean of Negro passengers. The park must be abandoned that they might in a public conveyance have no company disagreeable to them as they went back and forth to their homes. The last word that comes to us is that the Park Commission has listened to the white citizens and given up the whole matter. The Negroes are to go without their park, and the six parks of the city remain closed to them.",
+   "status": "ok",
+   "confidence": 0.9777926206588745,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 106,
+    "y0": 199,
+    "x1": 613,
+    "y1": 666
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 647,
+    "y0": 201,
+    "x1": 1157,
+    "y1": 398
+   },
+   "text": "tors with considerable ease. By various kinds of cheating and subterfuge he has been kept off the track team, although he is easily one of the best two or three runners in the university. Lately, however, they lost in their contest with Cornell, and now Lapsley is on the track team.",
+   "status": "ok",
+   "confidence": 0.9737499952316284,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 647,
+    "y0": 199,
+    "x1": 1154,
+    "y1": 398
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 648,
+    "y0": 422,
+    "x1": 1159,
+    "y1": 818
+   },
+   "text": "In Chicago a colored driver a few weeks ago was crossing the street railway tracks when his dray became stalled. A motorman swore at him and he swore at the motorman roundly. A passing policeman ran up. \"What do you mean by swearing at a white man?\" he yelled, and struck the drayman with his club across the head with all his might. The man fell like a log. They rushed him to two hospitals, which refused to admit him. When they reached the third hospital the colored man was dead. The officer was tried, \"exonerated,\" and is to-day patrolling his beat. The public must be protected.",
+   "status": "ok",
+   "confidence": 0.9779602885246277,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 649,
+    "y0": 420,
+    "x1": 1156,
+    "y1": 814
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 109,
+    "y0": 690,
+    "x1": 618,
+    "y1": 818
+   },
+   "text": "The young people of the University of Michigan are improving their minds in many ways. There is a young colored sprinter there, Lapsley, of Nashville, who has a way of beating his white competi-",
+   "status": "ok",
+   "confidence": 0.9539580345153809,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 108,
+    "y0": 689,
+    "x1": 615,
+    "y1": 815
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "title",
+   "bbox": {
+    "x0": 108,
+    "y0": 857,
+    "x1": 1160,
+    "y1": 995
+   },
+   "text": "The Black Soldier-A Letter from a Friend",
+   "status": "ok",
+   "confidence": 0.9110553860664368,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 105,
+    "y0": 862,
+    "x1": 1156,
+    "y1": 998
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 1033,
+    "x1": 620,
+    "y1": 1086
+   },
+   "text": "From one of the last surviving major-generals of the Civil War:",
+   "status": "ok",
+   "confidence": 0.9378576874732971,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 111,
+    "y0": 1031,
+    "x1": 618,
+    "y1": 1084
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 652,
+    "y0": 1034,
+    "x1": 1161,
+    "y1": 1497
+   },
+   "text": "two or three regiments there, and when we left on the Atlanta campaign Gen. Sherman was greatly pleased that I could take all my corps into the field, except one brigade, replacing that portion of them that was guarding a portion of railroad from Nashville to Decatur by colored troops. I had a great deal of experience, too, in secret service. I had charge of most of that work with Gens. Grant and Sherman, and they utilized Negroes to a great extent in communicating with our spies who stayed within the enemy's lines, and I don't know of a single case of a Negro's giving up one of the spies or a soldier, to their credit; they also stood by their masters and their families who had gone into the Confederate service.",
+   "status": "ok",
+   "confidence": 0.9773858785629272,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 653,
+    "y0": 1033,
+    "x1": 1158,
+    "y1": 1497
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 111,
+    "y0": 1125,
+    "x1": 622,
+    "y1": 1668
+   },
+   "text": "I am in receipt of yours of March 6, and I fully appreciate what your association is doing, and I will give my mite to help it along. I have had a good deal to do with the Negro, from the time of the Civil War up to date. In the Civil War I raised several regiments of them. I have found them tractable and that their efficiency as soldiers was in accordance with the ability and efficiency of their officers. I raised one of the first regiments in the war—the 1st Alabama, commanded by Col. Alexander, who was the chaplain of the 27th Ohio Infantry. This was an excellent regiment and won its spurs in the celebrated campaign of Sturgis against Gen. Forrest, where Sturgis was badly whipped, but where they claim this regiment was very efficient in saving the destruction of the force. It was also in other engagements.",
+   "status": "ok",
+   "confidence": 0.9781976342201233,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 113,
+    "y0": 1123,
+    "x1": 619,
+    "y1": 1664
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 654,
+    "y0": 1496,
+    "x1": 1162,
+    "y1": 1718
+   },
+   "text": "I think their action in the Civil War is entitled to a great deal of praise. Since the Civil War a great deal of my work has been in the Southern States, where I have had to utilize the Negroes to a large extent, and I have found that where properly handled and cared for they make an efficient laboring force.",
+   "status": "ok",
+   "confidence": 0.9693151116371155,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 653,
+    "y0": 1497,
+    "x1": 1159,
+    "y1": 1716
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 112,
+    "y0": 1669,
+    "x1": 622,
+    "y1": 1895
+   },
+   "text": "I raised the 2d Alabama, A. D., for the purpose of filling the Pioneer and Engineering Corps of the 16th Army Corps, and as teamsters and cooks they took the places of that many white soldiers whom we put into the line. The Pioneer Corps was often under fire, and the colored boys stood up right beside the white soldiers every time.",
+   "status": "ok",
+   "confidence": 0.9753620624542236,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 113,
+    "y0": 1668,
+    "x1": 620,
+    "y1": 1891
+   },
+   "exclude": [
+    [
+     537,
+     1893,
+     559,
+     1912,
+     "r14"
+    ],
+    [
+     563,
+     1893,
+     567,
+     1896,
+     "r14"
+    ],
+    [
+     140,
+     1894,
+     168,
+     1913,
+     "r14"
+    ],
+    [
+     171,
+     1894,
+     183,
+     1912,
+     "r14"
+    ],
+    [
+     187,
+     1894,
+     190,
+     1897,
+     "r14"
+    ],
+    [
+     194,
+     1894,
+     198,
+     1913,
+     "r14"
+    ],
+    [
+     232,
+     1894,
+     241,
+     1912,
+     "r14"
+    ],
+    [
+     325,
+     1894,
+     328,
+     1897,
+     "r14"
+    ],
+    [
+     465,
+     1894,
+     477,
+     1912,
+     "r14"
+    ],
+    [
+     498,
+     1894,
+     501,
+     1897,
+     "r14"
+    ],
+    [
+     570,
+     1894,
+     582,
+     1912,
+     "r14"
+    ],
+    [
+     585,
+     1894,
+     597,
+     1912,
+     "r14"
+    ],
+    [
+     600,
+     1894,
+     605,
+     1912,
+     "r14"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 653,
+    "y0": 1716,
+    "x1": 1163,
+    "y1": 1890
+   },
+   "text": "I wish every success to your Association. I appreciate that the race prejudice is running strong against the Negro, but I cannot see any reason for it. It certainly does not exist among the survivors of the Civil War, I don't think, on either side.",
+   "status": "ok",
+   "confidence": 0.9721368551254272,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 652,
+    "y0": 1717,
+    "x1": 1161,
+    "y1": 1889
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 108,
+    "y0": 1890,
+    "x1": 622,
+    "y1": 1941
+   },
+   "text": "While I was in command in Middle Tennessee in the winter of 1863-64 I raised",
+   "status": "ok",
+   "confidence": 0.9362285733222961,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 106,
+    "y0": 1892,
+    "x1": 621,
+    "y1": 2065
+   },
+   "exclude": [
+    [
+     410,
+     1876,
+     423,
+     1892,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 113,
+    "y0": 1095,
+    "x1": 389,
+    "y1": 1121
+   },
+   "text": "MY DEAR MR. VILLARD :",
+   "status": "ok",
+   "confidence": 0.8273735642433167,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 113,
+    "y0": 1093,
+    "x1": 387,
+    "y1": 1121
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r17",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1121,
+    "y0": 134,
+    "x1": 1156,
+    "y1": 163
+   },
+   "text": "77",
+   "status": "ok",
+   "confidence": 0.8492552638053894,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1120,
+    "y0": 133,
+    "x1": 1153,
+    "y1": 160
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r18",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 764,
+    "y0": 1888,
+    "x1": 1140,
+    "y1": 1943
+   },
+   "text": "(Signed) GRANVILLE M. DODGE.",
+   "status": "ok",
+   "confidence": 0.43016517162323,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 760,
+    "y0": 1889,
+    "x1": 1140,
+    "y1": 1943
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 19,
+  "regions_after": 16,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.35,
+  "box_overlaps_after": 4,
+  "log": [
+   "drop r5 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r6 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r15 (text): non-latin hallucination 'حرَّجَة'"
+  ]
+ }
+}
