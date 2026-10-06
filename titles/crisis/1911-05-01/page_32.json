@@ -1,0 +1,281 @@
+{
+  "page": 32,
+  "image": "images/page_32.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 705,
+        "y0": 185,
+        "x1": 1218,
+        "y1": 826
+      },
+      "text": "who ought to have seen; in the days since Reconstruction we have had the subterfuge of industrial inefficiency to make people forget race prejudice. Today the world, north and south, is being asked to believe that the crux of the Negro problem lies in keeping black men from buying property on your street. All through this history of subterfuge and evasion has run the great and dominating fact of a racial prejudice which denies the application of the ethics of Jesus Christ in the relations of men if these men happen to be of a different race. It is the object of the National Association for the Advancement of Colored People to impress the fact upon the American people that the foundation difficulty of the race problem is this despicable race prejudice, and that unless we attack this central difficulty we never shall settle this problem. Moreover, we insist that this problem must be settled and settled right, because it is but a part of a greater problem which is as wide as the world.",
+      "status": "ok",
+      "confidence": 0.9785128831863403,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 165,
+        "y0": 185,
+        "x1": 674,
+        "y1": 704
+      },
+      "text": "ing the property of white owners or injuring the general credit of the community.\nFinally, this kind of mob violence has gone so far that we are seeing attempts to-day to translate it into legal violence. Just as the cheating of the Negro out of his vote was done by extra legal methods at first, and now is done by methods called legal, so the cheating of Negroes out of their property rights is now about to be translated into some semblance of legal form. The whole question of segregation in property is coming up at a later session, and therefore does not fall within the province of this paper; but I wish to point out that segregation is the violating of property rights, and that it is as futile an attempt to solve the Negro problem as any of the previous subterfuges have been.",
+      "status": "ok",
+      "confidence": 0.9791951179504395,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 168,
+        "y0": 705,
+        "x1": 672,
+        "y1": 828
+      },
+      "text": "In the time of slavery we had the subterfuge of colonization to tempt the conscientious mind; in the time of reconstruction we had the subterfuge of threatened Negro domination to blind those",
+      "status": "ok",
+      "confidence": 0.9649598002433777,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 705,
+        "y0": 826,
+        "x1": 1221,
+        "y1": 1074
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 163,
+        "y0": 880,
+        "x1": 1217,
+        "y1": 927
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.37676963210105896,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 251,
+        "y0": 960,
+        "x1": 1126,
+        "y1": 1031
+      },
+      "text": "Little Letters from the South",
+      "status": "ok",
+      "confidence": 0.902877151966095,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 170,
+        "y0": 1072,
+        "x1": 678,
+        "y1": 1131
+      },
+      "text": "[The following letters have been received by Mr. Villard in answer to the press reports of his Boston speech.]",
+      "status": "ok",
+      "confidence": 0.9273430705070496,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 708,
+        "y0": 1111,
+        "x1": 851,
+        "y1": 1139
+      },
+      "text": "Mr. Editor:",
+      "status": "ok",
+      "confidence": 0.40712639689445496,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "isolate_formula",
+      "bbox": {
+        "x0": 325,
+        "y0": 1134,
+        "x1": 649,
+        "y1": 1162
+      },
+      "text": "Newberry, Fla., 4/1, 1911.",
+      "status": "ok",
+      "confidence": 0.43531090021133423,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 707,
+        "y0": 1149,
+        "x1": 1217,
+        "y1": 1652
+      },
+      "text": "Gee! Just as long as you are in charge of the negroes' well fare the people need not fear, for you will do no harm, for you know too little of his curious nature to even understand him. You are laboring under the delusion that the negro is a being of human instincts. The idea of a negro leaving to go North to consult medical men! You could not teach him how to take the medicine after he got it, and besides, pills and salts complete his idea of medicines and nothing else would appeal to him as nice red pills. You know that as far as any negro having to go north for treatment not even a white man has that to do. There are a few physicians in the South still on the job. You devote your time to something in your line and let Southern brain adjust race matters.",
+      "status": "ok",
+      "confidence": 0.9790720343589783,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 170,
+        "y0": 1190,
+        "x1": 676,
+        "y1": 1757
+      },
+      "text": "Replying to your statement inclosed will say the reason the libraries in the Southern States are closed to the low down negro eyes is because he is not worthy of an education.\n\nAll the mean crimes, that are done are committed by some educated negro and furthermore, can you tell me what a negro is? If you can you can do more than any one else for I have been dealing with negroes for the last fifteen years and the only thing I can tell that he is a negro and always will be as far as I have any power.\n\nI would like for you to tell me where the negro first originated. If you will look in the bible it will tell you that he first originated from an animal. And we Southern people dont care to equal ourselves with animals.\n\nThe people of the South dont think any more of killing the black fellows than you would think of killing a flea.",
+      "status": "ok",
+      "confidence": 0.9763813614845276,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 710,
+        "y0": 1741,
+        "x1": 1221,
+        "y1": 1932
+      },
+      "text": "P.S.—I am glad to see that a son of Lincoln (who was a son of Calhoun of S. C.) has learned something about Negroes—the idea of a negro woman getting into a pullman car! Put her in the tender with the coal and give the fireman a chance! J. A. C.",
+      "status": "ok",
+      "confidence": 0.9711279273033142,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 1758,
+        "x1": 678,
+        "y1": 1931
+      },
+      "text": "So you have my opinion of Mr. Negro and if I was to live 1,000 years that would be my opinion and every other Southern man. Hoping you will understand what a negro is by this letter and resign you position. Wm. Cowart.",
+      "status": "ok",
+      "confidence": 0.9594569802284241,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "text",
+      "bbox": {
+        "x0": 705,
+        "y0": 1932,
+        "x1": 1221,
+        "y1": 2058
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "abandon",
+      "bbox": {
+        "x0": 165,
+        "y0": 118,
+        "x1": 200,
+        "y1": 146
+      },
+      "text": "32",
+      "status": "ok",
+      "confidence": 0.8421711921691895,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 1158,
+        "x1": 289,
+        "y1": 1185
+      },
+      "text": "Dear Sir:",
+      "status": "ok",
+      "confidence": 0.5264145135879517,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "abandon",
+      "bbox": {
+        "x0": 594,
+        "y0": 119,
+        "x1": 782,
+        "y1": 151
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.6909698843955994,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 854,
+        "y0": 1074,
+        "x1": 1191,
+        "y1": 1103
+      },
+      "text": "Orangeburg, S. C., 4/5/11.",
+      "status": "ok",
+      "confidence": 0.7676107287406921,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "title",
+      "bbox": {
+        "x0": 849,
+        "y0": 1663,
+        "x1": 1192,
+        "y1": 1728
+      },
+      "text": "Respectfully yours,\nJ. A. Clifton, M.D.",
+      "status": "ok",
+      "confidence": 0.6549129486083984,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.2,
+    "at": "2026-10-06T21:42:40+00:00"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "page": 26,
+  "image": "images/page_26.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 198,
+        "y0": 117,
+        "x1": 233,
+        "y1": 144
+      },
+      "text": "26",
+      "status": "ok",
+      "confidence": 0.8501949310302734,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 627,
+        "y0": 118,
+        "x1": 816,
+        "y1": 149
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8438844680786133,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 196,
+        "y0": 188,
+        "x1": 703,
+        "y1": 1000
+      },
+      "text": "Lincoln, for which crimes not one single person has been punished, would have removed them. It does not intend to overlook the cheerful and encouraging events; these it records in its organ, THE CRISIS, and it acknowledges with gratitude and thankfulness the many words of encouragement and aid which have come from the South. There can be no doubt that the conscience of the enlightened South is stirring, and that it is not impossible that there shall be formed in the South before long organizations to obtain justice for the colored man. Mr. James H. Dillard, the distinguished executive of the Slater and Jeanes Funds, himself a Southerner, and formerly a professor of Tulane University, has recently dwelt upon the injustice done to the Negroes in the lower courts, upon common carriers, their deprivation of proper school facilities, and above all, the judging of the Negroes as a whole by their worst types. Even the Atlanta Constitution has been moved by the wonderful record of the colored people in raising within a few days $67,000 for a building for a colored Y. M. C. A. in Atlanta, to ask whether the South ought not now to work to encourage the self-respect and race respect of the Negro, instead of forever discouraging and depreciating him.",
+      "status": "ok",
+      "confidence": 0.9776122570037842,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 194,
+        "y0": 1003,
+        "x1": 700,
+        "y1": 1936
+      },
+      "text": "Encouraging as all this is, there can be no doubt that a wave of color hysteria is sweeping over the country. People are actually frightened into fits in New York City by the fact that a Columbia professor and his wife proposed to oblige the Woman's Suffrage party by having colored and white women their guests at tea. Alarmed by the newspaper publications the landlord threatens an injunction, and the old fiction of a man's home being his castle disappears, together with the old belief that in America a man has personal liberty. The road of the aspiring colored man or woman becomes more and more difficult; he is abused for his low associations. Let him seek to rise above them and what happens? Despite the fact that he has for years been told that if he acquires property, and buys himself a house, if he does so in a section of a city, whether it be New York, Seattle, Baltimore or Richmond, in which he may assure to his children good associations, pure air and clean streets, he is assailed as if his presence there meant the bringing in of a taint worse than leprosy, and the laws are invoked against him. If he would leave the vile theatres and moving-picture shows he finds every other theatre door closed in his face. Let him arrive in New York at night and seek a lodging in a respectable hotel, and there is only one at which his application would for a moment be considered. No matter how well dressed, how well behaved and self-respecting he may be, the other",
+      "status": "ok",
+      "confidence": 0.9769855737686157,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 733,
+        "y0": 158,
+        "x1": 1243,
+        "y1": 1963
+      },
+      "text": "hotels are always full, and the clerks are always regretful, oh, so regretful, that they cannot give him a place to lay his head. In Southern cities the public libraries are closed in the face of the colored man who would make himself a useful law-abiding and valuable citizen. Yes, the books of his own authors, Washington, DuBois, Chesnutt and Dunbar are denied him. His wife may be ill and desire the aid of Northern surgeons; if so, she must travel in a day coach and is denied, in some States, a Pullman berth, and by the son of Abraham Lincoln, even though it may cost her her life, as it did in one case of which we know. So far has this color hysteria gone that a Mississippi court has awarded $25,000 damages to a woman who sued because she had been compelled to spend a night in a sleeping car in which were also five bishops of the church, who were colored men. And in almost every other field of human activity there are those who would assert the doctrine that all men may rise save he whose skin is black. The labor unionists, some Socialists, even some Jews, who ought in all conscience to realize what oppression means and the wickedness of attempts to hold down a race, would withhold a helping hand to the colored man, and thereby mock the teachings of Christianity. Meanwhile, in the political field, the Negro, unaware of his holding the balance of power in several States, is being stripped of his rights and privileges as a citizen. He cannot even have a voice in the expenditure of his school funds, nor in the selection of his teachers who shall educate his children. If any Southern State to-day voted to put white teachers in the schools to teach them what Major Vardaman has been saying in Mississippi in his campaign for the Senate, that \"the most illiterate white man is better equipped to understand the scheme of this government and to vote intelligently to perpetuate it than any Negro;\" or that the Negro is not a human being, but a beast, as a learned Southern professor has maintained, the Negroes would be powerless to resent it; they would only have the choice of denying their children all education. But what education is there to-day about which so many people confidently assert that it has inflated the Negro to his disadvantage, as compared with the \"good old Negroes of a bygone generation?\" Let me give you the case of a single North Carolina county, Alexander County, for the statistics of which we are indebted to a Southern white man, Charles L. Coon, head of the Wilson, N. C., schools. The total value of the school property, in which 224 school children are being taught, is but $309. The average length of the school term is but 65 days, and the total amount expended for teaching but $412.32, or an",
+      "status": "ok",
+      "confidence": 0.9477733969688416,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.7,
+    "at": "2026-10-06T21:41:41+00:00"
+  }
+}

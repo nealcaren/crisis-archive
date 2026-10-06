@@ -1,0 +1,127 @@
+{
+  "page": 30,
+  "image": "images/page_30.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 494,
+        "y0": 83,
+        "x1": 641,
+        "y1": 108
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8974989652633667,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 163,
+        "y0": 84,
+        "x1": 191,
+        "y1": 105
+      },
+      "text": "30",
+      "status": "ok",
+      "confidence": 0.8504063487052917,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 162,
+        "y0": 136,
+        "x1": 560,
+        "y1": 625
+      },
+      "text": "free from fever-laden mangrove swamps and marshy lagoons and is generally regarded as 'the Garden Spot of West Africa.'\"\n\nThe proximity of this valuable garden spot to the British and French possessions, which with the exception of 350 miles of sea coast entirely surround it, has given rise to grave international questions. \"Growing out of some of these questions, Liberia has lost section after section of her valuable lands; time and again the Liberian government has been humiliated before its overwhelming aboriginal population; but at last the Liberian people have been so alarmed and aroused by what seemed to them unjustifiable international interferences * * * that there has existed for some time such an abnormal and complex situation of affairs in Liberia as to make it now the scene of important international attention and of considerable consideration and interest to the American government and people.\"",
+      "status": "ok",
+      "confidence": 0.9782609343528748,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 162,
+        "y0": 630,
+        "x1": 559,
+        "y1": 1164
+      },
+      "text": "The writer continues: \"France, gradually but rapidly absorbing Liberian territory from the north and east and jealous of all rivals in Liberian affairs; Germany, establishing great trade and commercial centers along the Liberian coast and exerting its diplomatic and financial influence in behalf of Liberian independence and sending more merchant ships to Liberian waters than any other European power; Great Britain, extending at every convenient opportunity the territory of Sierra Leona at the expense of Liberia on the west and desirous of exercising the predominant influence in the Liberian republic; and the United States, the great determinative force, having established Liberia and using American good offices in her behalf since the foundation of the Liberian colony, and contributing more than $^{a}$\n\nThe writer continues: \"France, annually to the support and maintenance of the educational and religious institutions of this little republic; these appear to me, gradually but rapidly absorbing Liber$^{b$ the great potential forces operating upon the Liberian people; but Great Britain and France are the dynamic factors in the Liberian situation.",
+      "status": "ok",
+      "confidence": 0.9780836701393127,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 162,
+        "y0": 1168,
+        "x1": 560,
+        "y1": 1498
+      },
+      "text": "\"The action and reaction of the dynamic factors one upon the other, and the complex action of the two upon Liberian public life and social institutions, in so far as they have been put to unnecessary expense; in so far as the Liberian people have been wrongfully deprived of their territories; have been so distracted in mind and so depressed in spirit; have been kept so constantly in a keen struggle for self-preservation, that they have not been able to give the required attention to the several problems of their internal government, the development of their natural resources, and the assimilation of their large aboriginal population, to my mind in a gen-",
+      "status": "ok",
+      "confidence": 0.9743088483810425,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 583,
+        "y0": 133,
+        "x1": 985,
+        "y1": 369
+      },
+      "text": "eral way are the main features of the main features of the Liberian situation.\" The author concludes: \"In the performance of afthe Liberian situation.\" The author concludes: \"In the performance of a great national service the American people have never missed an opportunity. In the discharge of a great national duty and obligation the American people have never failed or faltered. Liberia is threatened to be blotted from the map. In the most anxious expectation we wonder if the United States will fail or falter now.\"",
+      "status": "ok",
+      "confidence": 0.9769572019577026,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 583,
+        "y0": 403,
+        "x1": 983,
+        "y1": 969
+      },
+      "text": "CLIMATE AND RACIAL SKIN COLOR.\nProf. Lionel W. Lyde, Professor of Economic Geography in University College, London, in an article in the Contemporary Review, treating of the relation between climate and racial skin color, presents the conclusion that the acclimatization of the white man in the tropics will lead to changes of color. We give a few extracts from Prof. Lyde's article:\n\"The blackest skins amongst men, like the blackest stripes on the zebra, will be found—because needed—in the hottest parts of the world that are unforested, e. g., the African savana.\"\n\"If pigment is developed according to need, and if black stops more rays than brown, and brown than yellow, we ought to be able to delimit climatic color zones, and no individual or race can expect to flourish in any such zone unless protected artificially or naturally by the degree of pigment normally necessary for the zone, as no plant can survive without sufficient chlorophyll to absorb the rays of the particular wave length which will break up the carbonic oxide of the air.\"",
+      "status": "ok",
+      "confidence": 0.9785162210464478,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 584,
+        "y0": 972,
+        "x1": 984,
+        "y1": 1500
+      },
+      "text": "\"Comparison of the mean isotherm of 80 deg. F. with the mean annual isohyet of 10 inches inside the tropics suggest, then, that about 25 deg. N. and S. are the natural limits of black skin, and that white people trying to settle inside these limits must wear coal-black underclothing of some animal fabric, wool or silk, and outer clothing of pure white color and vegetable origin, cotton or flax. Even then everyone out of doors should—as a counsel of perfection—wear spectacles and be closely veiled.\"\n\n\"If any white man can settle in the tropics it is this tanned white man, but probably only the yellow man can settle there, and the blond white is probably doomed to disappear off the face of the earth. Pigment is no danger, though unnecessary, in high latitudes, while the absence of it is fatal in low latitudes without precautions which no ordinary white man will systematically adopt, and therefore the dark can intrude permanently into the domain of the fair with more success than the fair can intrude into the domain of the dark.\"",
+      "status": "ok",
+      "confidence": 0.9788404703140259,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 18.0,
+    "at": "2026-10-06T21:34:07+00:00"
+  }
+}

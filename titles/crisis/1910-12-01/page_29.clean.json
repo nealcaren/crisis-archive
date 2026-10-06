@@ -1,0 +1,355 @@
+{
+ "page": 29,
+ "image": "images/page_29.jpg",
+ "width": 1078,
+ "height": 1606,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.6,
+  "at": "2026-10-06T20:59:08+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 426,
+    "y0": 103,
+    "x1": 545,
+    "y1": 125
+   },
+   "text": "LETTERS",
+   "status": "ok",
+   "confidence": 0.7712805867195129,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 426,
+    "y0": 101,
+    "x1": 545,
+    "y1": 125
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 79,
+    "y0": 154,
+    "x1": 476,
+    "y1": 606
+   },
+   "text": "the Negro in America, as described in the circular above mentioned, are mainly due to the apathy in regard to similar affairs of other people and to the general absence of interest of the world at large in humane affairs, we are of the opinion that everybody who means well and who wishes to change present living conditions and circumstances must realize that the interest in humanity must find its foundation in the depths of his own heart; that such social evils must be attacked at their source, and overcome there.\n\nInfluential corporations and persons should be asked humbly but earnestly to take the initiative in establishing an international committee (such, for instance, as the \"Association Internationale pour la lutte contre le chomàge\"), and we request the press to be so kind as to publish this motion.\n\nFROM A RUSSIAN REVOLUTIONIST.",
+   "status": "ok",
+   "confidence": 0.975501537322998,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 79,
+    "y0": 152,
+    "x1": 474,
+    "y1": 605
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 82,
+    "y0": 614,
+    "x1": 478,
+    "y1": 1072
+   },
+   "text": "\"I was arrested for intellectual and cultural influence upon my fellow exiles and transported to the wild banks of the River Pecpora, near the North Pole. Have we not to struggle with the same inaccessible wall of prejudice and hatred, nursed by centuries? I shall try to know better the history and modern condition of your race, whose good nature and ingenuous beauty of a good and open heart I admired from childhood, reading descriptions of voyages into Africa. Perhaps it does not suit me, as a stranger, to criticise the words of some honorable men of your race, but they are not right who speak about the spiritual submission of the Negroes. There is something that nobody of us can give up—it's the manly pride and self-respect. And when the intelligent part of a people is given up they commit a crime toward their nation. And never will it be redeemed.\"\n\nFROM A NORTHERN WHITE MAN.",
+   "status": "ok",
+   "confidence": 0.9797887206077576,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 81,
+    "y0": 613,
+    "x1": 476,
+    "y1": 1072
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 82,
+    "y0": 1087,
+    "x1": 479,
+    "y1": 1506
+   },
+   "text": "I grew up with a personal repugnance to black folks and Jews. Since I learned to recognize the groundlessness of all class distinctions I have never come sufficiently close to either Negroes or Jews to entirely rid myself of this physical feeling. But that religion, any real religion which accepts the Golden Rule and the law of love, must reject all class and race distinctions is beyond doubt. The old saying ran, \"Scratch a civilized man and you find a savage.\" The race prejudice against \"Chink\" and \"Jap\" and \"Hindu,\" almost as strongly as against \"Nigger,\" is one of the most persistent of our savage traits; but there are a lot of others that are found in the Negro as in the White. And isn't the problem with all of us, after all, not how we can reform the world, but how we can reform ourselves, individually, and live our individual lives in accordance with the law of love and the Golden Rule?",
+   "status": "ok",
+   "confidence": 0.9770829677581787,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 81,
+    "y0": 1085,
+    "x1": 477,
+    "y1": 1505
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 866,
+    "y0": 102,
+    "x1": 894,
+    "y1": 124
+   },
+   "text": "29",
+   "status": "ok",
+   "confidence": 0.8507656455039978,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 864,
+    "y0": 101,
+    "x1": 892,
+    "y1": 122
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 549,
+    "y0": 159,
+    "x1": 837,
+    "y1": 175
+   },
+   "text": "FROM A SOUTHERN WHITE MAN.",
+   "status": "ok",
+   "confidence": 0.48296430706977844,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 547,
+    "y0": 156,
+    "x1": 839,
+    "y1": 174
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 499,
+    "y0": 168,
+    "x1": 895,
+    "y1": 579
+   },
+   "text": "\"I know that we white, or so-called white people, are prejudiced against the darker races of the human family. It is, indeed, unfortunate that we are so. I am a native of a Southern State. I was much surprised to find, when I went north of the Mason and Dixon line, to find, in some instances, the prejudice stronger against the black man than it was in the South.\n\n\"Experience has long since taught me that color does not make the man. I have three sons all of whom have attended the same school with black boys. We have endeavored to teach them that color was only 'skin deep,' and that true manhood and womanhood does not belong to any particular race, and I think that we have succeeded in doing so.\"\n\nFROM A COLORED MAN.",
+   "status": "ok",
+   "confidence": 0.9764788150787354,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 499,
+    "y0": 156,
+    "x1": 893,
+    "y1": 579
+   },
+   "exclude": [
+    [
+     551,
+     161,
+     578,
+     172,
+     "r5"
+    ],
+    [
+     580,
+     161,
+     593,
+     172,
+     "r5"
+    ],
+    [
+     631,
+     161,
+     649,
+     172,
+     "r5"
+    ],
+    [
+     650,
+     161,
+     660,
+     172,
+     "r5"
+    ],
+    [
+     662,
+     161,
+     671,
+     172,
+     "r5"
+    ],
+    [
+     672,
+     161,
+     684,
+     172,
+     "r5"
+    ],
+    [
+     686,
+     161,
+     704,
+     172,
+     "r5"
+    ],
+    [
+     706,
+     161,
+     716,
+     172,
+     "r5"
+    ],
+    [
+     767,
+     161,
+     775,
+     172,
+     "r5"
+    ],
+    [
+     826,
+     161,
+     835,
+     171,
+     "r5"
+    ],
+    [
+     607,
+     162,
+     617,
+     172,
+     "r5"
+    ],
+    [
+     731,
+     162,
+     744,
+     172,
+     "r5"
+    ],
+    [
+     747,
+     162,
+     758,
+     172,
+     "r5"
+    ],
+    [
+     761,
+     162,
+     765,
+     172,
+     "r5"
+    ],
+    [
+     777,
+     162,
+     785,
+     173,
+     "r5"
+    ],
+    [
+     799,
+     162,
+     811,
+     172,
+     "r5"
+    ],
+    [
+     814,
+     162,
+     823,
+     172,
+     "r5"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "\"I know that we white, or so-called white people, are prejudiced against the darker races of the human family. It is, indeed, unfortunate that we are so. I am a native of a Southern State. I was much surprised to find, when I went north of the Mason and Dixon line, to find, in some instances, the prejudice stronger against the black man than it was in the South.\n\n\"Experience has long since taught me that color does not make the man. I have three sons all of whom have attended the same school with black boys. We have endeavored to teach them that color was only 'skin deep,' and that true manhood and womanhood does not belong to any particular race, and I think that we have succeeded in doing so.\"\n\nFROM A COLORED MAN.",
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 501,
+    "y0": 587,
+    "x1": 896,
+    "y1": 1141
+   },
+   "text": "\"The unjust discriminations which are imposed upon Negro travelers I believe are due largely to our own failure to do what we can to ward off such. Now I do not believe that there is any respectable court that would sustain the open, flagrant discrimination that can be established all over the South. For example, I was visiting in Oklahoma City. There are three waiting rooms, namely, one each for white ladies, white men, and Negroes; but a casual glance will show one is for respectable white people, one is for white toughs, foreigners, Indians, etc., and the other for Negroes. There are two ticket offices: one for respectable white people, and one for the white toughs in that room labeled for white men, where all kinds of white people, foreigners, Indians, and everything deemed improper to be in the room labeled 'White Ladies,' are, and there the best, most refined colored lady has to go in and get a ticket. There could be no question about the unfair discrimination there, and others might be mentioned. But it is useless to speak to you about this, because you know better than I can tell you how easily we can establish the practice of unfair discrimination by the railroad companies.",
+   "status": "ok",
+   "confidence": 0.9781172275543213,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 502,
+    "y0": 588,
+    "x1": 893,
+    "y1": 1137
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 503,
+    "y0": 1141,
+    "x1": 898,
+    "y1": 1507
+   },
+   "text": "\"Now I am satisfied no one Negro ought to make this fight against these corporations. It is not an individual fight, it is a race fight. I am also satisfied that the race has the intelligence and the money necessary to vigorously prosecute the practice of manifest unjust discrimination. It seems to me that until we do this, we ourselves are largely responsible for the inequality in railroad travel: for the refusal in so many cases of allowing the Negro to take advantage of the Pullman service. I am deeply interested, and I thought possibly making this suggestion to you, you might be able to suggest or work out a way by which we could make an organized effort and appeal to the race and get the necessary fund that the race and not an individual may make this fight.\"",
+   "status": "ok",
+   "confidence": 0.9772336483001709,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 503,
+    "y0": 1141,
+    "x1": 895,
+    "y1": 1503
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": [
+   "reshape r6 (title): lost 5% of its ink, gained 0%",
+   "reread r6: '\"I know that we white, or so-called whit' -> '\"I know that we white, or so-called whit'"
+  ]
+ }
+}

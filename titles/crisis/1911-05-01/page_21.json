@@ -1,0 +1,155 @@
+{
+  "page": 21,
+  "image": "images/page_21.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 523,
+        "y0": 127,
+        "x1": 708,
+        "y1": 160
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.6554726958274841,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 106,
+        "y0": 197,
+        "x1": 612,
+        "y1": 780
+      },
+      "text": "which is not founded on reason. Yet I sometimes am ashamed of my color when I think of these things. \"I shall speak at X——College on the great formative and germinal idea of our nation, 'We believe that all men are created equal.' Equal in the sight of their Creator, and there shall be one law for all, one justice for all, one equity for all. That human nature is not anything labeled or ticketed, but the common endowment of all mankind. Nothing less than humanity is required to regulate the affairs of humanity, and I believe that neither sex, color nor creed should be an obstacle in the way of the regulation of human affairs. The very spirit and genius of our nation demands this.",
+      "status": "ok",
+      "confidence": 0.980002760887146,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 112,
+        "y0": 783,
+        "x1": 616,
+        "y1": 846
+      },
+      "text": "\"But I am only a voice crying in the wilderness.\"",
+      "status": "ok",
+      "confidence": 0.9383763670921326,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 247,
+        "y0": 924,
+        "x1": 484,
+        "y1": 954
+      },
+      "text": "CIVIL SERVICE.",
+      "status": "ok",
+      "confidence": 0.890186071395874,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 114,
+        "y0": 973,
+        "x1": 618,
+        "y1": 1647
+      },
+      "text": "ONLY the far-sighted realize that the anti-Negro campaign in America is slowly changing its base. Once it howled at and contended against Dirt and Poverty; Bad Manners and innate and eternal Inferiority. To-day it contends against human beings, even though they are clean and thrifty and polite, and can demonstrate their ability. If you appear puzzled at this change of base there is always a whisper for your private ear—confidential information relating to certain innate characteristics, by which this man, though personally clean, sprang from dirty seed and to dirty seed must inevitably return; by which this man, though a gentleman of ability, must be treated like a dog on account of a temporarily hidden (but absolutely certain) dog nature.",
+      "status": "ok",
+      "confidence": 0.9774047136306763,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 113,
+        "y0": 1652,
+        "x1": 616,
+        "y1": 1930
+      },
+      "text": "If you venture to question or deny these facts you are laughed to scorn and literally forced to act as though these lies were true. Thus in Cleveland, on February 23, a civil service examination was held to fill a vacancy in the position of law clerk, stenographer and typewriter at $1,600 per annum in the office of William L.",
+      "status": "ok",
+      "confidence": 0.977536141872406,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1110,
+        "y0": 127,
+        "x1": 1142,
+        "y1": 153
+      },
+      "text": "21",
+      "status": "ok",
+      "confidence": 0.8323976397514343,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 649,
+        "y0": 192,
+        "x1": 1155,
+        "y1": 1074
+      },
+      "text": "Day, U. S. District Attorney. About ten candidates took the examination. Two colored men stood first and third, and a Jew, second, on the list. James G. Bachman (white), who was appointed and who was at the time of the examination, temporarily employed in the office of District Attorney Day, was among those who took the examination. Bachman failed to qualify in the competitive examination for the place, and as soon as this was known the Department of Justice at Washington, D. C., acting on Mr. Day's recommendation, abolished the position of law clerk, stenographer and typewriter, and in lieu thereof appointed Bachman an Assistant U. S. District Attorney for Mr. Day's office, thereby ignoring the three persons, Messrs. Henry L. Thomas, Nathan Rappaport and Edward Dunjill, who stood highest on the eligible list, and who were certified for appointment. Now then, is this a case of rare race pride and triumphant Americanism, or is it just a plain, low trick of which every fair-minded man should be ashamed?",
+      "status": "ok",
+      "confidence": 0.9757181406021118,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 652,
+        "y0": 1147,
+        "x1": 1156,
+        "y1": 1645
+      },
+      "text": "To a blind and starving white family on the East Side came recently a letter from Trenton, in an uncertain straggling hand, from \"a servant of God who feels it his duty to care for the poor even though he is a colored man,\" and who asked the mother and her babies to \"put faith in Jesus Christ and accept the enclosed one dollar.\"\n\nIt is characteristic. Here is a people sweet tempered, forgiving and kindly almost beyond belief. Any other race, under the treatment they are receiving, would be on the edge of revolution or suicide.",
+      "status": "ok",
+      "confidence": 0.9759761691093445,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 652,
+        "y0": 1651,
+        "x1": 1157,
+        "y1": 1931
+      },
+      "text": "Here is a great strong brutal nation using every effort to beat this kindliness, this sweet cheer out of ten millions. And they are succeeding, too. Already the laugh is lighter, the resentment fiercer, the faith weaker. Will the gain be great when this people's love and laughter are changed to hatred and bitterness?",
+      "status": "ok",
+      "confidence": 0.9776121377944946,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.4,
+    "at": "2026-10-06T21:40:59+00:00"
+  }
+}

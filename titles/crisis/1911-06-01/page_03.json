@@ -1,0 +1,71 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 113,
+        "y0": 128,
+        "x1": 1174,
+        "y1": 628
+      },
+      "text": "THE CRISIS\nA RECORD OF THE DARKER RACES\n\nPublished by the National Association for the Advancement of Colored People, at\n20 Vesey Street, New York City.\n\nW. E. BURGHARDT DU BOIS, Editor\nM. D. MACLEAN, Managing Editor\nFRANK M. TURNER, Circulation Manager\nALBON L. HOLSEY, Advertising Manager\n\nContributing Editors\nOSWALD GARRISON VILLARD\nJ. MAX BARBER\nCHARLES EDWARD RUSSELL\nW. S. BRAITHWAITE\nKELLY MILLER",
+      "status": "ok",
+      "confidence": 0.6310596466064453,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 112,
+        "y0": 670,
+        "x1": 1174,
+        "y1": 1065
+      },
+      "text": "ALONG THE COLOR LINE..... 49\n\nMEN OF THE MONTH:\nCol. T. W. Higginson..... 54\nEdward D. Green..... 54\nMr. and Mrs. G. E. Wibecan, Sr..... 55\n\nOPINION..... 56\n\nN. A. A. C. P..... 60\nThe Lakewood Case.\nThe Delaware Case.\nThe Kentucky Lynching.",
+      "status": "ok",
+      "confidence": 0.9261440634727478,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 111,
+        "y0": 1079,
+        "x1": 1174,
+        "y1": 1651
+      },
+      "text": "EDITORIAL ..... 62\nTHE FREEDMEN'S FRIENDS: Some Founders of Negro Education ..... 66\nHARRIET BEECHER STOWE: Portrait by Richmond ..... 68\nHARRIET BEECHER STOWE'S PERSONAL KNOWLEDGE OF THE\nNEGRO CHARACTER. By Charles Edward Stowe ..... 69\nVACATION OPPORTUNITIES. By G. S. Dickerman ..... 71\nCOLORED HIGH SCHOOLS ..... 73\nTHE BURDEN ..... 76\nTHE BLACK SOLDIER: A Letter from Gen. G. M. Dodge ..... 77\nWOMEN'S CLUBS: Caring for the Children. By A. W. Hunton ..... 78\nA COLLEGE GIRL'S CREDO. By Miriam E. Oatman ..... 79\nTALKS ABOUT WOMEN. By Mrs. John E. Milholland ..... 80\nWHAT TO READ ..... 81\n\nAgents wanted who can furnish reliable references.\nEntered as second-class matter in the post office at New York City.",
+      "status": "ok",
+      "confidence": 0.5278646349906921,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 119,
+        "y0": 1679,
+        "x1": 1168,
+        "y1": 1856
+      },
+      "text": "The July number of THE CRISIS will be a vacation number. It will contain an article on Colored Athletes by Edwin B. Henderson, of Washington, D. C., illustrated by photographs of many celebrated men. There will also be an analysis of the segregation situation in the city of Baltimore.\n\nThis is to certify that I print twelve thousand copies of the June Crisis, 1911.\n\nROBERT N. WOOD, Printer,\n202 East 99th St.\n\nSworn to before me this 17th day of May, 1911.\n\nP. J. BURKE,\nNotary Public, N. Y. C.",
+      "status": "ok",
+      "confidence": 0.3099082410335541,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.5,
+    "at": "2026-10-06T21:47:00+00:00"
+  }
+}

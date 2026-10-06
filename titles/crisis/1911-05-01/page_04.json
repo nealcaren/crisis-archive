@@ -1,0 +1,127 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 1377,
+  "height": 2084,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 502,
+        "y0": 117,
+        "x1": 953,
+        "y1": 156
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.7000535130500793,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 198,
+        "y0": 122,
+        "x1": 223,
+        "y1": 152
+      },
+      "text": "4",
+      "status": "ok",
+      "confidence": 0.5467898845672607,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 196,
+        "y0": 184,
+        "x1": 1266,
+        "y1": 568
+      },
+      "text": "Marshall's Hotel\n127-129 West 53d Street\nTelephones 4693-4694 Columbus\n\nSPECIAL FEATURE BEGINNING FEBRUARY 1\n\nBreakfast, 7:30 to 12:30, 30c. Luncheon, 12:30 to 3 p. m., 30c.\nRegular Dinner, 6 to 8, 35c.\nSpecial Course Dinner Every Sunday and Holidays, 50c.\n\nService and Food Unsurpassed Anywhere Good Music—Vocal and Instrumental\nShell Fish a Specialty Restaurant Open All Night\n\nJ. L. MARSHALL, Proprietor",
+      "status": "ok",
+      "confidence": 0.9049543142318726,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 358,
+        "y0": 733,
+        "x1": 1095,
+        "y1": 813
+      },
+      "text": "We Print THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8578042984008789,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 448,
+        "y0": 910,
+        "x1": 1005,
+        "y1": 1116
+      },
+      "text": "We Print for the Vogue Magazine and refer by permission to Mr. Conde Nast, Publisher of VOGUE MAGAZINE",
+      "status": "ok",
+      "confidence": 0.8865719437599182,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 447,
+        "y0": 1152,
+        "x1": 1003,
+        "y1": 1366
+      },
+      "text": "Wedding Invitations Printed and Engraved. Society and Commercial Printing a Specialty. A postal or the telephone (Lenox 6667) brings us to your door.",
+      "status": "ok",
+      "confidence": 0.937355101108551,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 352,
+        "y0": 1459,
+        "x1": 1097,
+        "y1": 1580
+      },
+      "text": "ROBERT N. WOOD\n202 EAST 99th STREET NEW YORK",
+      "status": "ok",
+      "confidence": 0.2216351181268692,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "abandon",
+      "bbox": {
+        "x0": 191,
+        "y0": 1702,
+        "x1": 1252,
+        "y1": 1968
+      },
+      "text": "Phone 2877 Lenox\nWhite Rose Working Girls' Home\n217 EAST 86TH STREET\nBet. Second and Third Avenues\nPleasant temporary lodgings for working girls,\nwith privileges, at reasonable rates. The Home\nsolicit orders for working dresses, aprons, etc.\nAddress:\nMRS. FRANCES R. KEYSER, Supt.\n\nJ. N. Washington\nProprietor\nMrs. J. N. Washington\nManager\n\nHotel Washington\n3252 WABASH AVENUE\nCHICAGO\nFirst-class Service for First-class People\nRates: 75c., $1.00 and $2.00 Per Day\nTelephone Aldine 516",
+      "status": "ok",
+      "confidence": 0.34951916337013245,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.1,
+    "at": "2026-10-06T21:38:20+00:00"
+  }
+}

@@ -1,0 +1,231 @@
+{
+ "page": 15,
+ "image": "images/page_15.jpg",
+ "width": 1078,
+ "height": 1606,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.5,
+  "at": "2026-10-06T20:57:16+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 450,
+    "y0": 80,
+    "x1": 564,
+    "y1": 103
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.7798106074333191,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 448,
+    "y0": 78,
+    "x1": 562,
+    "y1": 103
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 93,
+    "y0": 132,
+    "x1": 490,
+    "y1": 342
+   },
+   "text": "his progress. It is to be hoped that the legislators will give serious consideration of the early establishment of this greatly needed institution and the story related by the Dispatch should furnish not a little food for thought.\" BULLDOZING NEGROES.",
+   "status": "ok",
+   "confidence": 0.9723809361457825,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 91,
+    "y0": 131,
+    "x1": 488,
+    "y1": 341
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 86,
+    "y0": 347,
+    "x1": 490,
+    "y1": 916
+   },
+   "text": "The Louisville, Ky., Post, in an attack upon the police department, says: \"Running along with this failure to detect crime and apprehend criminals was the systematic process of bulldozing the Negro population of Louisville. Causeless arrests were made. Provocations of every character were given by the police to the Negroes. Offensive and illegal commands were thrown at quiet, inoffensive citizens on the street. The policemen acted upon the assumption that the Negro had no rights, civil or political, that a police bully was bound to respect. The result was seen on registration days. Intimidation had been most effective. From four to five thousand Negroes were kept away from the polls. When that report went in there was great rejoicing in the Buckingham green room.\" THE PANAMA EXPOSITION.",
+   "status": "ok",
+   "confidence": 0.972501814365387,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 91,
+    "y0": 345,
+    "x1": 488,
+    "y1": 916
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 89,
+    "y0": 921,
+    "x1": 489,
+    "y1": 1491
+   },
+   "text": "New Orleans Times-Democrat remarks: \"The action of the Negro Baptist Convention in attaching to its resolutions indorsing New Orleans for the Panama Exposition a proviso demanding suspension or repeal of the 'Jim Crow' laws, not only in this city, but in the Southern States, requires, we think, a brief but emphatic reply. Even if the securement of the Exposition, important and greatly desired as it is, depended absolutely upon the abrogation of laws devised for the protection of both races, the people of New Orleans would never consent to a programme so fatuous and dangerous.\"\n\nFOREIGN COMMENT.\n\nThe London Nation comments as follows on Mr. B. T. Washington's words in Europe:\n\nMr. Booker T. Washington recently gave us a glowing picture of the progress, in-",
+   "status": "ok",
+   "confidence": 0.9741045832633972,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 920,
+    "x1": 487,
+    "y1": 1488
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "abandon",
+   "bbox": {
+    "x0": 887,
+    "y0": 78,
+    "x1": 911,
+    "y1": 100
+   },
+   "text": "15",
+   "status": "ok",
+   "confidence": 0.8063048720359802,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 885,
+    "y0": 77,
+    "x1": 910,
+    "y1": 98
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 517,
+    "y0": 131,
+    "x1": 914,
+    "y1": 693
+   },
+   "text": "dustrial, intellectual and moral, made by his colored fellow-citizens in the United States during recent years. His policy, \"Let politics alone and acquire efficiency,\" is, however, repudiated by a strong body of educated opinion in America, which finds expression in a remarkable letter published this week in the Press. The signatories point out that the withholding of the franchise, in the States where most Negroes live, is attended by a refusal of criminal and civil justice, a denial of equal opportunities of education, a caste proscription which practically excludes from most skilled trades and other grave disabilities. All aware of the current tendencies of American sentiment recognize that race feeling with all that it imports is growing more intense in all sections of the country, and that in various subtle ways it is eating into the very spirit of democracy. The doctrine of \"equal rights for all civilized men\" is definitely contravened by the constitutions and laws of most Southern States. Among the signatories of this powerful appeal to Europe, we find the names of many of the most influential teachers and professional men among the colored people.",
+   "status": "ok",
+   "confidence": 0.9764865040779114,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 516,
+    "y0": 133,
+    "x1": 912,
+    "y1": 690
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 514,
+    "y0": 697,
+    "x1": 911,
+    "y1": 825
+   },
+   "text": "The following cartoon from L'Assiette au Beurre, Paris, illustrating the life of Mr. Roosevelt, shows something of prevailing European opinion of America:",
+   "status": "ok",
+   "confidence": 0.9516800045967102,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 513,
+    "y0": 707,
+    "x1": 910,
+    "y1": 825
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "figure",
+   "bbox": {
+    "x0": 510,
+    "y0": 830,
+    "x1": 909,
+    "y1": 1371
+   },
+   "text": "\"I was born October 27, 1858, in the midst of indescribable enthusiasm.",
+   "status": "ok",
+   "confidence": 0.9618626236915588,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 510,
+    "y0": 831,
+    "x1": 909,
+    "y1": 1370
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 516,
+    "y0": 1371,
+    "x1": 911,
+    "y1": 1486
+   },
+   "text": "\"A great banquet was given. Each guest brought a present of ale, whisky, mutton chops, ginger ale, or corned beef. The poor people having nothing of this sort to offer decided to burn a Negro alive under our windows.\"",
+   "status": "ok",
+   "confidence": 0.9413347840309143,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 514,
+    "y0": 1371,
+    "x1": 910,
+    "y1": 1486
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

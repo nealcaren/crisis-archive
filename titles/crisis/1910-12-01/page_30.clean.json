@@ -1,0 +1,166 @@
+{
+ "page": 30,
+ "image": "images/page_30.jpg",
+ "width": 1078,
+ "height": 1606,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.0,
+  "at": "2026-10-06T20:59:17+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 152,
+    "y0": 104,
+    "x1": 972,
+    "y1": 283
+   },
+   "text": "WHAT TO READ\nARTICLES. ARCHER'S AFRO-AMERICA.",
+   "status": "ok",
+   "confidence": 0.8766778111457825,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 153,
+    "y0": 105,
+    "x1": 971,
+    "y1": 283
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 151,
+    "y0": 292,
+    "x1": 547,
+    "y1": 829
+   },
+   "text": "Warnock Street Sketches. Frances R. Bartholomew. The Forecast, November.\nVocational Education. Mason A. Hawkins. Education, November.\nThe Fee System. Carl Crow. Saturday Evening Post, November 19.\nChapters from My Experience. B. T. Washington. World's Work, November.\nNegro: A Portrait. Outlook. September 10, 1910.\nReal Africa. H. Ward. Scribner's, October.\nFull Light on Indian Unrest. J. R. Garvin. Fortnightly Review, September.\nJust What Does India Want Politically?\nS. N. Singh. North American Review, September.\nIndian Land Troubles. F. E. Leupp. Review of Reviews, October.\nLaw and the Indian. E. Flower. Atlantic, October.\nActual China. Independent. September 22.\nDiary of Reconstruction Period. Gideon Wells. Atlantic, October and November.\nAfrican Sketches. Janet Allardyce. Scribner's, November.\nAfrican Guides I Have Met. E. A. Forbes. World's Work, November.",
+   "status": "ok",
+   "confidence": 0.9751964807510376,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 290,
+    "x1": 546,
+    "y1": 826
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 149,
+    "y0": 864,
+    "x1": 545,
+    "y1": 1463
+   },
+   "text": "BOOKS.\n\nSir Harry Johnston—Britain Across the Seas. Africa: A History and Description of the British Empire in Africa. London. pp. 450.\n\nF. Van der Linden—Le Congo: Les Noirs et Nous. Paris. pp. 389.\n\nF. E. Leupp—The Indian and His Problem. New York. pp. 396.\n\nG. C. Wheeler—The Tribe and Intertribal Relations in Australia.\n\nJ. R. Ficklen—History of Reconstruction in Louisiana Through 1868. Johns Hopkins Press.\n\nE. Sheldon—The Nigger. McMillan. pp. 269.\n\nG. T. Stephenson—Race Distinctions in American Law. Appleton. pp. 388.\n\nGertrude Stein—Three Lives. Grafton Press, New York. pp. 279.\n\nB. T. Riley—The White Man's Burden. Birmingham, Ala. pp. 238.\n\nE. Smith Jones—An Ode to Ethiopia. pp. 14.\n\nR. L. Waring—As We See It: A Novel. Washington. pp. 233.\n\nC. G. Davis—Why Not Now? Badger. pp. 114.\n\nCassell—Wake Up, Liberians! Government Printing Office, Liberia. pp. 21.",
+   "status": "ok",
+   "confidence": 0.973248302936554,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 148,
+    "y0": 861,
+    "x1": 544,
+    "y1": 1460
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 571,
+    "y0": 287,
+    "x1": 973,
+    "y1": 803
+   },
+   "text": "\"Through Afro-America\" is the attempt of an English philosopher, on a hasty tour through the States, to find an offhand solution of the race problem. His observations are always interesting, and sometimes shrewd. There is an inchoate jumbling of the journalistic and the philosophic features. A book that is the outcome of a holiday jaunt or a hunting trip rarely ever contains a convincing philosophy. Mr. Archer professes a personal dislike or at least distaste for the Negro, which he persuades himself to believe is a natural antipathy. There is no doubt that while Mr. Archer would object to close association with a well-dressed and well-mannered black person, and with an ill-dressed and ill-mannered white one, his objection would doubtless be less accentuated along a lonely road than on a fashionable boulevard. What part of this repugnance, in either case, is innate and what part is derived from the prevailing fashion of environment and tradition would constitute a problem in psychology which would tax the ingenuity of the author if he were bent on a more serious task than a holiday diversion.",
+   "status": "ok",
+   "confidence": 0.9756508469581604,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 569,
+    "y0": 259,
+    "x1": 969,
+    "y1": 801
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "\"Through Afro-America\" is the attempt of an English philosopher, on a hasty tour through the States, to find an offhand solution of the race problem. His observations are always interesting, and sometimes shrewd. There is an inchoate jumbling of the journalistic and the philosophic features. A book that is the outcome of a holiday jaunt or a hunting trip rarely ever contains a convincing philosophy. Mr. Archer professes a personal dislike or at least distaste for the Negro, which he persuades himself to believe is a natural antipathy. There is no doubt that while Mr. Archer would object to close association with a well-dressed and well-mannered black person, and with an ill-dressed and ill-mannered white one, his objection would doubtless be less accentuated along a lonely road than on a fashionable boulevard. What part of this reguignance, in either case, is innate and what part is derived from the prevailing fashion of environment and tradition would constitute a problem in psychology which would tax the ingenuity of the author if he were bent on a more serious task than a holiday diversion.",
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 570,
+    "y0": 803,
+    "x1": 971,
+    "y1": 1169
+   },
+   "text": "Of course, Mr. Archer preserves an attitude of fairness. Every Englishman is bound to do this. With the notion of innate race antipathy there is but one logical outcome, which it is not necessary to cross the waters or write a book to discover. With such notions, it is easy to foresee that the author would advocate race separation. With no originality and less convincing force, he proposes as a solution a racial state with legal restriction of the right of residence. This is merely the Baltimore proposal on a large scale. All such shifting substitutes for right and justice must be repudiated or else we must rewrite, not only our National Constitution and declaration of rights, but the very laws of ethics upon which the permanent progress of the human race depends.",
+   "status": "ok",
+   "confidence": 0.9751704335212708,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 569,
+    "y0": 803,
+    "x1": 968,
+    "y1": 1165
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 562,
+    "y0": 1192,
+    "x1": 972,
+    "y1": 1467
+   },
+   "text": "\"Eminent Negro Men and Women,\" by John Edward Bruce, is a laudable attempt to bring before the minds of Negro youth the deeds and doings of the best of their race. The author's express purpose is to 'awaken race pride.' The selections lack proportion. One is surprised to find in the same category with Fred Douglass and Toussaint L'Overture, names of men who are redeemed from obscurity only for the moment and by the author's generosity. The questionaire placed at the end of each biography admirably renders the book suitable as a supplementary reader in schools.",
+   "status": "ok",
+   "confidence": 0.9685576558113098,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 569,
+    "y0": 1191,
+    "x1": 969,
+    "y1": 1465
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 6,
+  "regions_after": 6,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.21,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r3 (title): lost 4% of its ink, gained 0%",
+   "reread r3: '\"Through Afro-America\" is the attempt of' -> '\"Through Afro-America\" is the attempt of'"
+  ]
+ }
+}

@@ -1,0 +1,127 @@
+{
+  "page": 24,
+  "image": "images/page_24.jpg",
+  "width": 1376,
+  "height": 2083,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 219,
+        "y0": 132,
+        "x1": 1236,
+        "y1": 259
+      },
+      "text": "THE N. A. A. C. P.",
+      "status": "ok",
+      "confidence": 0.4348825514316559,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 213,
+        "y0": 334,
+        "x1": 722,
+        "y1": 894
+      },
+      "text": "The third annual conference of the Association was held in Park Street Church, Boston, on Thursday and Friday, March 30 and 31. It was on the whole the best of the conferences held, and showed the Association in excellent condition, with a host of new friends.\n\nFirst Session.\n\nThe opening session Thursday afternoon was attended by about 700 of the best people of Boston. Mayor Fitzgerald welcomed the convention to Boston in a very sympathetic speech. The addresses of the Chairman of the Executive Committee and the Director of Publicity and Research are published in full in this issue. The excellent address of Rabbi Fleisher, together with that of Miss Adelene Moffat, which was the gem of the session, will be published later.\n\nSecond Session.",
+      "status": "ok",
+      "confidence": 0.9780996441841125,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 212,
+        "y0": 899,
+        "x1": 721,
+        "y1": 1461
+      },
+      "text": "Nearly a thousand persons greeted the speakers Thursday evening. Mrs. Florence Kelly showed how the labor problem, the sex problem and the Negro problem had at bottom the same difficulty—the oppression of those who \"do not count,\" and she illustrated this by her experience in a Southern mill town. Mr. Milholland's speech was a comment on his Philadelphia speech for National aid to education. That speech can be had at this office in pamphlet form. Mr. Hershaw and Mrs. Terrell gave excellent and striking testimony as to the prevalence of peonage.\n\nThird Session.\n\nOn Friday morning the business session was held. The treasurer's report showed an expenditure of over $6,000 during the past year, and an excellent organization for work. The following officers were elected:",
+      "status": "ok",
+      "confidence": 0.9666438698768616,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 212,
+        "y0": 1465,
+        "x1": 720,
+        "y1": 1876
+      },
+      "text": "President—Mr. Moorfield Storey, Boston, Mass.\nVice-Presidents—Mr. John E. Milholland, New York; Bishop Alexander Walters, New York; Bishop Benjamin F. Lee, Wilberforce, Ohio; Rev. G. R. Waller, Baltimore, Md.\nChairman of the Executive Committee—Mr. Oswald Garrison Villard, New York.\nTreasurer—Mr. Walter E. Sachs, New York.\nSince this meeting the office force has been arranged as follows:\nDirector of Publicity and Research—Dr. W. E. B. DuBois, New York.",
+      "status": "ok",
+      "confidence": 0.9150229096412659,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 750,
+        "y0": 331,
+        "x1": 1266,
+        "y1": 615
+      },
+      "text": "Executive Secretary—Miss Mary W. Ovington, New York.\nLocal Organizer—Miss Frances Blascoer, New York.\nThe Executive Committee was continued as formerly and the following resolutions were adopted:\nThe National Association for the Advancement of Colored People adopts the following declaration of its principles and purposes:",
+      "status": "ok",
+      "confidence": 0.9549434185028076,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 750,
+        "y0": 616,
+        "x1": 1263,
+        "y1": 1258
+      },
+      "text": "\"We recognize the undoubted fact that in every part of the country to a greater or less extent colored American citizens are denied the equal rights and the equal opportunities to which they are entitled under the Constitution and laws of the United States. Not only are they by various devices deprived of their right to vote, but their persons are not secure from violence, they are not protected in the enjoyment of their property, those who injure them are not punished by the courts, so that in many regions they may be ill-treated with impunity; the funds raised by taxation for public education are very unequally divided between white and colored children, many are growing up in ignorance and degradation, efforts are too frequently made by systems of peonage virtually to re-enslave them, and they are denied the opportunity to work in many employments. They are the victims of ignorant race prejudice, and not only the colored race, but the whole body of American citizenship suffers from its consequences.",
+      "status": "ok",
+      "confidence": 0.9237080216407776,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 750,
+        "y0": 1260,
+        "x1": 1263,
+        "y1": 1753
+      },
+      "text": "\"We believe that the responsibility for these conditions rests chiefly upon the white people of the United States, that it is their duty to change them, and we call upon all who believe in justice to join in the work.\n\n\"We insist that the colored citizen of the United States is entitled to every right, civil and political, that is accorded to his white neighbor.\n\n\"We hold as a self-evident political truth that no men who are deprived of the right to vote can protect themselves against oppression and injustice. They cannot influence legislation or have a voice in selecting the tribunals by which their rights are determined, and the first step toward the advancement of the colored race is the recognition and protection of their right to vote.",
+      "status": "ok",
+      "confidence": 0.9738873839378357,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 752,
+        "y0": 1755,
+        "x1": 1262,
+        "y1": 1880
+      },
+      "text": "\"We aim at the creation of a public opinion which will not tolerate injustice in the courts, which will resent any ill-treatment of colored persons or their property, which will demand that proper",
+      "status": "ok",
+      "confidence": 0.9627785682678223,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.8,
+    "at": "2026-10-06T21:41:20+00:00"
+  }
+}

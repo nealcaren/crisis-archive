@@ -1,0 +1,381 @@
+{
+ "page": 4,
+ "image": "images/page_04.jpg",
+ "width": 1879,
+ "height": 2817,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.7,
+  "at": "2026-10-06T20:50:18+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 851,
+    "y0": 170,
+    "x1": 1107,
+    "y1": 209
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.6068775057792664,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 850,
+    "y0": 167,
+    "x1": 1107,
+    "y1": 210
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 266,
+    "y0": 171,
+    "x1": 293,
+    "y1": 208
+   },
+   "text": "4",
+   "status": "ok",
+   "confidence": 0.767204225063324,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 268,
+    "y0": 172,
+    "x1": 291,
+    "y1": 203
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 263,
+    "y0": 264,
+    "x1": 957,
+    "y1": 802
+   },
+   "text": "The Democratic platform in Missouri says: \"The Democratic party when it came into power in 1871, took over the Lincoln Institute and made it a normal school for the higher education of the Negro teachers, and it has always made liberal appropriations for that purpose and for the education of the Negro school children of the State. It never has and will not discriminate against the Negro, either by criminal laws or on the question of their rights of franchise, and it deplores the action of the present chief executive of this State in seeking to make political capital by creating race antagonism.\" R. S. Rutledge so resents this plank that he has withdrawn from the race for nomination as United States Senator.",
+   "status": "ok",
+   "confidence": 0.9339444637298584,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 265,
+    "y0": 263,
+    "x1": 953,
+    "y1": 803
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 267,
+    "y0": 819,
+    "x1": 954,
+    "y1": 1300
+   },
+   "text": "The colored people of Cleveland, O., have received twenty-three appointments to minor offices to reward their support of Mayor Baehr, who defeated Tom Johnson. Beside these officials the colored people have a member of the Legislature and a member of the City Council.\n\nThe Negroes of Atlanta prepared an elaborate program on the occasion of Theodore Roosevelt's speech to them.\n\nThe Republicans have nominated Thomas Briar, a colored man, to run for Congress in the Fourth District of South Carolina.",
+   "status": "ok",
+   "confidence": 0.9615908265113831,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 267,
+    "y0": 834,
+    "x1": 952,
+    "y1": 1301
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 266,
+    "y0": 1316,
+    "x1": 954,
+    "y1": 1504
+   },
+   "text": "In the twelve counties of the Eighth Congressional District of Georgia there were only 392 colored men registered as voters. Even these, however, very nearly held the balance of power in the last Congressional election.",
+   "status": "ok",
+   "confidence": 0.9522008895874023,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 265,
+    "y0": 1331,
+    "x1": 953,
+    "y1": 1500
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 267,
+    "y0": 1534,
+    "x1": 955,
+    "y1": 1926
+   },
+   "text": "A press dispatch from Panama says:\n\"It became known to-day that Mendoza sent a messenger asking Colonel Goethals to call at the Presidential palace. The army man, by messenger, asked if he was wished personally or in his official capacity. Several other notes were passed back and forth, Goethals finally going.\n\"When he reached the palace, Mendoza refused to see him. It is said that the snub was caused by Colonel Goethal's drawing the color line in the first place, Mendoza being a Negro.\"\n\nEDUCATION.",
+   "status": "ok",
+   "confidence": 0.9541416168212891,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 265,
+    "y0": 1533,
+    "x1": 1107,
+    "y1": 1990
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "A press dispatch from Panama says:\n\"It became known to-day that Mendoza sent a messenger asking Colonel Goethals to call at the Presidential palace. The army man, by messenger, asked if he was wished personally or in his official capacity. Several other notes were passed back and forth, Goethals finally going.\n\"When he reached the palace, Mendoza refused to see him. It is said that the snub was caused by Colonel Goethal's drawing the color line in the first place, Mendoza being a Negro.\"\n\nEDUCATION.",
+   "role": "text",
+   "text_reread": "\"It became known to-day that Mendoza sent a messenger asking Colonel Goethals to call at the Presidential palace. The army man, by messenger, asked if he was wished personally or in his official capacity. Several other notes were passed back and forth, Goethals finally going.\n\n\"When he reached the palace, Mendoza refused to see him. It is said that the snub was caused by Colonel Goetha's drawing the color line in the first place, Mendoza being a Negro.\"",
+   "needs_review": "reread lost words: dispatch panama press"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 267,
+    "y0": 1949,
+    "x1": 956,
+    "y1": 2427
+   },
+   "text": "EDUCATION.\nMiss Alice Byington has left Hampton Institute $260,750.\n\nNew Orleans has four Negro schools with white teachers and ten with Negro teachers. It has been decided to place Negro teachers in the new Thomy Lafon School Annex.\n\nTuskegee has received about $400,000 from the Dotger bequest.\n\nA Negro industrial school is talked of in Pueblo, Col.",
+   "status": "ok",
+   "confidence": 0.9446808099746704,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 265,
+    "y0": 1945,
+    "x1": 954,
+    "y1": 2425
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 267,
+    "y0": 2442,
+    "x1": 957,
+    "y1": 2627
+   },
+   "text": "White Sawyer, a Missouri Negro, has lost the suit in which he attempted to compel the school trustees to transport his children. There is only one colored school in his township and that is six miles from his home.",
+   "status": "ok",
+   "confidence": 0.959277331829071,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 265,
+    "y0": 2457,
+    "x1": 1107,
+    "y1": 2797
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "White Sawyer, a Missouri Negro, has lost the suit in which he attempted to compel the school trustees to transport his children. There is only one colored school in his township and that is six miles from his home.",
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 998,
+    "y0": 259,
+    "x1": 1699,
+    "y1": 640
+   },
+   "text": "An industrial school is to be founded in Nicodemus, Kansas, a colored colony planted at the time of the exodus.\n\nA. B. Johnson, of Mississippi, states that in his own county with less than 7,000 Negroes of school age over 5,000 have never been to school.\n\nEffort is being made in Washington, D. C., to remove R. C. Bruce, the colored superintendent, for alleged incompetency.",
+   "status": "ok",
+   "confidence": 0.9525265693664551,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 999,
+    "y0": 259,
+    "x1": 1697,
+    "y1": 636
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 1000,
+    "y0": 662,
+    "x1": 1696,
+    "y1": 1069
+   },
+   "text": "In a talk to white Atlanta ministers a colored preacher asked that influence be used to improve public school facilities for the Negroes. He said the Negro school children of Atlanta number 10,000 and he declared 5,081 of the number are out of school. \"The Negroes of this city pay $10,000 for education of their children,\" he stated, \"that the whites get free.\"\n\nThe city of Chattanooga has refused to take steps toward establishing a Negro normal school. It is much needed.",
+   "status": "ok",
+   "confidence": 0.9577736854553223,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1000,
+    "y0": 665,
+    "x1": 1694,
+    "y1": 1068
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 999,
+    "y0": 1100,
+    "x1": 1697,
+    "y1": 1335
+   },
+   "text": "H. T. Kealing, formerly editor of the African M. E. Review, has been elected president of Western University, at Quindaro, Kansas.\n\nThere are a large number of applicants for the position of president of the Kentucky Normal and Industrial Institute at Frankfort.",
+   "status": "ok",
+   "confidence": 0.9368292689323425,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1000,
+    "y0": 1099,
+    "x1": 1695,
+    "y1": 1336
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 1001,
+    "y0": 1369,
+    "x1": 1698,
+    "y1": 1776
+   },
+   "text": "The colored Baptist Women's Convention has voted $15,000 to the National Training School for Girls in the District of Columbia.\n\nThe Negroes of Georgia have raised $25,000 as a memorial offering at the quarterly centennial of Morris Brown College.\n\nThe white boys of the Doolittle Public School of Chicago have tried to get rid of the Negro pupils. The result has been a good deal of fighting.",
+   "status": "ok",
+   "confidence": 0.942753255367279,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1002,
+    "y0": 1367,
+    "x1": 1696,
+    "y1": 1774
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "title",
+   "bbox": {
+    "x0": 1002,
+    "y0": 1829,
+    "x1": 1699,
+    "y1": 2278
+   },
+   "text": "THE CHURCH.\nA colored institute in memory of Bishop Dudley has been dedicated at Louisville, Ky.\nThe convention of the Episcopal Church has authorized suffragan bishops. This will allow the segregation of colored people under bishops who will act as assistants to the regular bishops and have no vote in the convention. The colored people asked for missionary bishops who would vote in the convention. Such bishops are to be permitted only in case the bishop and convention consent.",
+   "status": "ok",
+   "confidence": 0.97369384765625,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1001,
+    "y0": 1825,
+    "x1": 1697,
+    "y1": 2279
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 1003,
+    "y0": 2321,
+    "x1": 1700,
+    "y1": 2522
+   },
+   "text": "There is considerable interest in Southern white churches over missionary and educational work among Negroes. The subject was discussed at a recent Bible institute in the University of Tennessee and the Atlanta Constitution has had several editorials.",
+   "status": "ok",
+   "confidence": 0.9635266065597534,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1003,
+    "y0": 2319,
+    "x1": 1696,
+    "y1": 2522
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 1004,
+    "y0": 2563,
+    "x1": 1698,
+    "y1": 2630
+   },
+   "text": "Bishop John Wesley Smith of the African Zion Church is dead.",
+   "status": "ok",
+   "confidence": 0.929990291595459,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 999,
+    "y0": 2561,
+    "x1": 1697,
+    "y1": 2797
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 15,
+  "regions_after": 15,
+  "lost_words": [],
+  "needs_review": [
+   "r5"
+  ],
+  "unowned_ink_pct": 0.51,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r5 (plain_text): lost 14% of its ink, gained 0%",
+   "reshape r7 (plain_text): lost 13% of its ink, gained 2%",
+   "reread r5: 'A press dispatch from Panama says:\\n\"It b' -> '\"It became known to-day that Mendoza sen'",
+   "reread r7: 'White Sawyer, a Missouri Negro, has lost' -> 'White Sawyer, a Missouri Negro, has lost'",
+   "REVIEW r5: reread lost dispatch panama press; kept old text"
+  ]
+ }
+}

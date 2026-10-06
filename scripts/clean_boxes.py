@@ -14,6 +14,8 @@ page_NN.clean.json next to it. Steps:
              a region left with no words is dropped
 5. reread    a region that lost or gained words is re-read by GLM-OCR on its new,
              masked crop (needs the MLX server on :8080; --no-reread to skip)
+   guard     a reread that loses words found nowhere else on the page keeps its old text
+             and gets needs_review (queue for an LLM/agent pass)
 6. roles     short repeated `abandon` lines at the top/bottom (THE CRISIS, page numbers)
              become role=running_head, which article text skips
 
@@ -42,6 +44,24 @@ def junk_reason(text):
         if foreign / len(letters) > 0.3:
             return "non-latin hallucination"
     return None
+
+
+DICT = None
+
+
+def real_losses(before, after):
+    """Words gone from the page that matter: dictionary words not part of a word still
+    there. Garbled cross-column reads ("courtment") and fragments ("enlist" while
+    "enlisted" remains) are what cleanup is meant to remove."""
+    global DICT
+    if DICT is None:
+        try:
+            DICT = {w.strip().lower() for w in open("/usr/share/dict/words")}
+        except OSError:
+            DICT = set()
+    gone = before - after
+    joined = " ".join(after)
+    return {w for w in gone if (not DICT or w in DICT) and w not in joined}
 
 
 def word_blobs(gray):
@@ -86,14 +106,15 @@ def bands(labels, y0, y1, x0, x1, W):
     return _band_cache[key]
 
 
-def resolve_tie(k, cands, stats, core, boxes, labels, areas, W):
+def resolve_tie(k, cands, stats, core, boxes, labels, areas, W, regions):
     """A glyph inside several regions goes to the one whose own text shares its column.
 
     Over the rows where the candidate boxes overlap, split their union at white
     gutters; the glyph's band goes to the candidate whose core (uniquely held glyphs)
     overlaps that band most, counting only core glyphs in the overlap rows (a single
-    full-width line elsewhere in a box mustn't claim the next column). Falls back to
-    the smaller region.
+    full-width line elsewhere in a box mustn't claim the next column). Failing that, a
+    detector region beats a residual one (label "text": newspaper-ocr's residual pass
+    reads ink the detector missed), then the smaller region wins.
     """
     small = min(cands, key=lambda i: areas[i])
     sb = boxes[small]
@@ -122,7 +143,8 @@ def resolve_tie(k, cands, stats, core, boxes, labels, areas, W):
                     best = [i for i in scores if scores[i] == top]
                     return min(best, key=lambda i: areas[i])
                 break
-    return min(cands, key=lambda i: areas[i])
+    detector = [i for i in cands if regions[i]["label"] != "text"]
+    return min(detector or cands, key=lambda i: areas[i])
 
 
 def clean_page(issue_dir, page, reread=True, recognizer=None):
@@ -160,11 +182,6 @@ def clean_page(issue_dir, page, reread=True, recognizer=None):
         if best <= 0:
             continue
         cands = [i for i in range(len(regions)) if share[i, k] >= best - 0.05]
-        # newspaper-ocr's residual pass (label "text") exists to read ink no detector box
-        # covered, so a glyph any detector box holds is never the residual region's
-        held = [i for i in range(len(regions)) if share[i, k] > 0.5 and regions[i]["label"] != "text"]
-        if held:
-            cands = [i for i in cands if regions[i]["label"] != "text"] or held
         if len(cands) == 1:
             owner[k] = cands[0]
         else:
@@ -172,7 +189,7 @@ def clean_page(issue_dir, page, reread=True, recognizer=None):
     # each region's core: the glyphs only it holds
     core = {i: np.where(owner == i)[0] for i in range(len(regions))}
     for k, cands in ties.items():
-        owner[k] = resolve_tie(k, cands, stats, core, boxes, labels, areas, W)
+        owner[k] = resolve_tie(k, cands, stats, core, boxes, labels, areas, W, regions)
 
     # unowned blobs touching a region (clipped edge letters) join the nearest one
     pad = max(6, H // 300)
@@ -256,10 +273,21 @@ def clean_page(issue_dir, page, reread=True, recognizer=None):
     def words(rs):
         return {w for r in rs for w in re.findall(r"[a-z]{4,}", r["text"].lower())}
     kept = {r["id"] for r in out} | dropped_ids
-    lost_words = sorted(words([r for r in d["regions"] if r["id"] in kept]) - words(out))
+    before_words = words([r for r in d["regions"] if r["id"] in kept])
+    # guard: a reread that loses words found nowhere else on the page (GLM sometimes
+    # skips an indented first line) keeps its old text and is queued for review
+    lost = real_losses(before_words, words(out))
+    for r in out:
+        if "text_before_clean" in r and lost & words([{"text": r["text_before_clean"]}]):
+            gone = sorted(lost & words([{"text": r["text_before_clean"]}]))
+            r["text_reread"], r["text"] = r["text"], r["text_before_clean"]
+            r["needs_review"] = f"reread lost words: {' '.join(gone[:12])}"
+            log.append(f"REVIEW {r['id']}: reread lost {' '.join(gone[:12])}; kept old text")
+    lost_words = sorted(real_losses(before_words, words(out)))
     if lost_words:
         log.append(f"CHECK words lost from page text: {' '.join(lost_words[:30])}")
     summary = {"regions_before": len(d["regions"]), "regions_after": len(out), "lost_words": lost_words,
+               "needs_review": [r["id"] for r in out if r.get("needs_review")],
                "unowned_ink_pct": round(100 * unowned_ink / max(total_ink, 1), 2),
                "box_overlaps_after": remaining, "log": log}
     clean = {**{k: v for k, v in d.items() if k != "regions"}, "regions": out, "clean": summary}

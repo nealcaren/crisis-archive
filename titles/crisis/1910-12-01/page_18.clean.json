@@ -1,0 +1,127 @@
+{
+ "page": 18,
+ "image": "images/page_18.jpg",
+ "width": 1078,
+ "height": 1607,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 3.3,
+  "at": "2026-10-06T20:57:34+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 855,
+    "y0": 93,
+    "x1": 1011,
+    "y1": 119
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.6736548542976379,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 851,
+    "y0": 90,
+    "x1": 1011,
+    "y1": 121
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "figure",
+   "bbox": {
+    "x0": 51,
+    "y0": 88,
+    "x1": 1078,
+    "y1": 1598
+   },
+   "text": "John Henry Adams > 1905",
+   "status": "ok",
+   "confidence": 0.6592499613761902,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 51,
+    "y0": 216,
+    "x1": 1075,
+    "y1": 1598
+   },
+   "exclude": [
+    [
+     997,
+     95,
+     1009,
+     113,
+     "r0"
+    ],
+    [
+     947,
+     97,
+     974,
+     116,
+     "r0"
+    ],
+    [
+     975,
+     96,
+     987,
+     115,
+     "r0"
+    ],
+    [
+     988,
+     96,
+     997,
+     114,
+     "r0"
+    ],
+    [
+     857,
+     99,
+     872,
+     117,
+     "r0"
+    ],
+    [
+     873,
+     99,
+     893,
+     117,
+     "r0"
+    ],
+    [
+     893,
+     99,
+     910,
+     117,
+     "r0"
+    ],
+    [
+     931,
+     98,
+     946,
+     116,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 2,
+  "regions_after": 2,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.02,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

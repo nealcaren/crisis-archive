@@ -1,0 +1,211 @@
+{
+  "page": 36,
+  "image": "images/page_36.jpg",
+  "width": 1374,
+  "height": 2081,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 203,
+        "y0": 119,
+        "x1": 240,
+        "y1": 146
+      },
+      "text": "36.",
+      "status": "ok",
+      "confidence": 0.8346153497695923,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 633,
+        "y0": 119,
+        "x1": 823,
+        "y1": 151
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8043181300163269,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 204,
+        "y0": 189,
+        "x1": 711,
+        "y1": 1151
+      },
+      "text": "The soldiers refused to ride behind the 'Jim Crow' signs in the street cars and threw the signs out of the windows whenever they got on the cars. It seems, and in fact they did, beat up a conductor on one of the cars for offering a modest suggestion of order. Otherwise they have been good and enjoy the freedom of the city just as other soldiers do. When it comes to guard mount and other drills they get the lion's share of attention, and the colored citizen has to go early in order to get standing room. The blacks bear themselves with dignity and appear to be a splendid body of men. Capt. Young (a colored officer) is a fine fellow and has made a warm place among all classes; the white officers go out of their way to show him every attention. The Ninth band is the best in the division, and their camp is overrun with visitors every day, particularly at evening. Sarah Bernhardt visited the Ninth only Sunday in company with the ranking general of the division and asked the Ninth to play the 'Marseillaise' and the American national hymns. The noise about the presence of the Ninth is all on paper and caused by the cheapest demagogue in the national Congress, John Garner. Such men have not yet learned that they can't win high place by abuse of the colored man alone. The fact is they have no statesmanship or convolutions in the brains, and hope to win distinction through abuse of the colored man. The Ninth is tranquil and at peace, and is in all things the pride of the camp—except color.\"",
+      "status": "ok",
+      "confidence": 0.9748106002807617,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 203,
+        "y0": 1191,
+        "x1": 711,
+        "y1": 1327
+      },
+      "text": "PART II.—THE MODEST MODEL\nChapter I.—The First Lie.\nREFUSES TO POSE FOR NEGRO",
+      "status": "ok",
+      "confidence": 0.8636011481285095,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 205,
+        "y0": 1374,
+        "x1": 711,
+        "y1": 1445
+      },
+      "text": "Young Woman Declines to Appear Undraped Before Him.",
+      "status": "ok",
+      "confidence": 0.5705607533454895,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 205,
+        "y0": 1484,
+        "x1": 712,
+        "y1": 1624
+      },
+      "text": "Colored Student Compelled to Withdraw Before Work Proceeds.",
+      "status": "ok",
+      "confidence": 0.4335918426513672,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 204,
+        "y0": 1658,
+        "x1": 714,
+        "y1": 1935
+      },
+      "text": "\"Race prejudice, which had manifested itself only in whispers or in comments outside of the classroom at the Art Institute, took a new direction last night, when a young woman model for a life class refused to pose undraped until a colored student of the institute left the room.\n\n\"For a moment the class was in disorder, but after some protest the Negro, finding himself unsupported by any of",
+      "status": "ok",
+      "confidence": 0.9694887399673462,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 746,
+        "y0": 186,
+        "x1": 1261,
+        "y1": 290
+      },
+      "text": "his fellow pupils, walked out of the room. Not until then did the model assume her position on the stand and begin her pose.\"—Chicago Tribune, March 28, 1911.",
+      "status": "ok",
+      "confidence": 0.9466226100921631,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 748,
+        "y0": 377,
+        "x1": 1257,
+        "y1": 409
+      },
+      "text": "UPHOLDS MODEL'S COLOR LINE",
+      "status": "ok",
+      "confidence": 0.20018845796585083,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 746,
+        "y0": 443,
+        "x1": 1258,
+        "y1": 521
+      },
+      "text": "Officers of Chicago Institute Will Not Discipline Girl Who Refused to Pose Undraped Before Negro.",
+      "status": "ok",
+      "confidence": 0.48578593134880066,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 746,
+        "y0": 556,
+        "x1": 1256,
+        "y1": 806
+      },
+      "text": "\"Officers of the Art Institute of Chicago will take no notice of the refusal of Miss Mamie Blanha, a white model, to pose undraped before a life class of young men, one member of which is a Negro. It is taken as the prerogative of a model to use her own judgment regarding the identity of those before whom she is willing to pose without drapery.\"",
+      "status": "ok",
+      "confidence": 0.9585076570510864,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 746,
+        "y0": 850,
+        "x1": 1256,
+        "y1": 1166
+      },
+      "text": "Chapter III.—The Truth.\nApril 4, 1911.\n\"There has been much comment in the press upon a recent incident in the Art Institute School. The following is a statement of the facts: There have always been a few colored students in the school, perhaps four or five in a total attendance of 1,500, who have received the same treatment in all respects as other students. The color question has never been raised.",
+      "status": "ok",
+      "confidence": 0.9745358824729919,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 746,
+        "y0": 1165,
+        "x1": 1255,
+        "y1": 1833
+      },
+      "text": "\"Upon Monday evening, March 27, 1911, several students in an evening class, one of them a colored man, finding their own classroom crowded at the opening of the session, went into another classroom. The model, before taking her pose, requested them to withdraw, on the ground that they were not members of the class. This is in accordance with the regulations of the school. They immediately left the room. This was all there was on the face of the incident, and it excited no attention at the time. There was no mention of Negroes, no applause, no sensational features. It appears, however, that a mischief-making student had privately suggested to the model that she ought not to pose for Negroes. The same student, contrary to all the ethics of the life classes, obtained from the model her name and address, under the pretense of wishing to engage her services as a model himself. He then, the same night, gave the matter to the Associated Press, in the erroneous and high-colored form in which it appeared.",
+      "status": "ok",
+      "confidence": 0.9782102704048157,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 748,
+        "y0": 1835,
+        "x1": 1256,
+        "y1": 1936
+      },
+      "text": "\"There was no Negro in the classes in which the model was posing, and she has not been dismissed from our service, as reported in some of the papers. There",
+      "status": "ok",
+      "confidence": 0.9569730162620544,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.4,
+    "at": "2026-10-06T21:43:19+00:00"
+  }
+}

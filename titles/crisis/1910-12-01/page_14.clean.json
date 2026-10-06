@@ -1,0 +1,184 @@
+{
+ "page": 14,
+ "image": "images/page_14.jpg",
+ "width": 1078,
+ "height": 1606,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 8.9,
+  "at": "2026-10-06T20:57:09+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 487,
+    "y0": 101,
+    "x1": 639,
+    "y1": 124
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.7879990935325623,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 485,
+    "y0": 98,
+    "x1": 638,
+    "y1": 124
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 151,
+    "y0": 101,
+    "x1": 548,
+    "y1": 684
+   },
+   "text": "assistant attorney-general of the United States, there is certain to be widespread approval of the appointment, on the ground that it is a tribute to a race as well as to an individual.\" The Cleveland Plain Dealer disapproves of the appointment, but not on the ground of color: \"There is no reason in the world why colored men of ability should not be given federal appointments. Intrinsically the appointment of colored men merits no censure. But the selection of this time, just before election, for making the appointments savors very strongly of cheap politics.\" The Charleston News and Courier, as usual, goes directly to the point in an editorial, entitled, \"A Sop to the Blacks,\" in which it calls the appointment a \"palpable bid\" for the Negro vote in doubtful States:",
+   "status": "ok",
+   "confidence": 0.9780771732330322,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 101,
+    "x1": 546,
+    "y1": 684
+   },
+   "exclude": [
+    [
+     489,
+     103,
+     503,
+     122,
+     "r0"
+    ],
+    [
+     503,
+     103,
+     524,
+     122,
+     "r0"
+    ],
+    [
+     524,
+     103,
+     540,
+     122,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 154,
+    "y0": 689,
+    "x1": 554,
+    "y1": 1270
+   },
+   "text": "The appointee is, we believe, the famous Harvard halfback who made such a wonderful football record a few years ago, and he is probably quite capable intellectually of discharging the duties of the important office to which he has been called, but even if this be true the appointment is not thereby to be justified nor is it any the more likely for that reason to meet with public approval.\n\nThe public has a right to expect that in the filling of an office of the dignity and importance of the assistant attorney-generalship the appointee shall be a man acceptable to the body of the people, and we are profoundly convinced that the public generally does not approve the appointment of Negroes to positions of this character. This is true North as well as South. The race prejudice of the North differs materially from that of the South and it is largely irrational, but it is none the less real and it is steadily on the increase. In the face of it the appointment of colored men to high office is highly injudicious and must inevitably prove harmful to the Negroes generally. It were better for the race were the policy of baiting them with false hopes abandoned definitely and finally.",
+   "status": "ok",
+   "confidence": 0.9786832332611084,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 153,
+    "y0": 688,
+    "x1": 551,
+    "y1": 1267
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 157,
+    "y0": 1275,
+    "x1": 555,
+    "y1": 1511
+   },
+   "text": "To this comment the Rochester (N. Y.) Democrat and Chronicle replies:\n\nThis appointee represents a race in this country of 10,000,000 or more citizens. Among them are many men and women of education, ability and the highest moral character. The News and Courier says it is \"profoundly convinced that the public generally does not approve the appointment of Negroes to positions of this character.\"",
+   "status": "ok",
+   "confidence": 0.9767207503318787,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 156,
+    "y0": 1274,
+    "x1": 553,
+    "y1": 1509
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 573,
+    "y0": 152,
+    "x1": 975,
+    "y1": 581
+   },
+   "text": "To what \"public\" does our contemporary refer? There are Negrophobists in the North and in the South who object; but we do not believe that the masses of the American people, with their sense of justice and fairness, desire to shut out of participation in all Government affairs millions of American citizens simply because they belong to a race which is antagonized in this country by senseless prejudice and bigotry. The meanness of that proposition is equalled only by its cruelty.\n\nThe Houston (Texas) Chronicle, remarking that \"the Negro in politics is, as a rule, the Negro out of work\" prophesies that such an appointment \"will tend to encourage the impudence and crime of bad Negroes.\"\n\nA COLORED REFORMATORY.",
+   "status": "ok",
+   "confidence": 0.9782887697219849,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 571,
+    "y0": 150,
+    "x1": 973,
+    "y1": 581
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 574,
+    "y0": 591,
+    "x1": 981,
+    "y1": 1513
+   },
+   "text": "The North Carolina Legislature will soon consider the question of establishing a reformatory for colored young people, and an organization has been formed among Negroes to further the movement. The Charlotte Observer quotes from the Lexington Dispatch the following story: \"A colored woman who was raised in Greensboro died in New York, possessed of considerable estate accumulated through years of saving of wages earned in domestic service. In her will she bequeathed a valuable tract of 365 acres of land in Guilford County to be used as a nucleus fund for the establishment of a reformatory and manual training school for young Negroes. Wherever such a school is established she directed that the proceeds of the sale of this valuable farm should be applied to the fund necessary to begin active work.\" The Observer points out that sociologists are agreed boys should not be sent to jail to mix with hardened criminals, and after expressing its sympathy with the project concludes: \"Few more important duties rest upon this Commonwealth than that connected with the proper training of its colored citizens. Surrounded by the proper environment the Negro has evidenced a most commendable disposition to make the best out of himself, not in isolated cases here and there, but in thousands of instances. Left to himself, especially in the cities, there are many obstacles to",
+   "status": "ok",
+   "confidence": 0.9702275991439819,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 575,
+    "y0": 581,
+    "x1": 976,
+    "y1": 1511
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 6,
+  "regions_after": 6,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

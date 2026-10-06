@@ -1,0 +1,379 @@
+{
+  "page": 39,
+  "image": "images/page_39.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 414,
+        "y0": 120,
+        "x1": 857,
+        "y1": 154
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8784030079841614,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 232,
+        "y0": 191,
+        "x1": 597,
+        "y1": 336
+      },
+      "text": "FIRST UNIVERSA",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 597,
+        "y0": 192,
+        "x1": 1153,
+        "y1": 631
+      },
+      "text": "LONDON\nRACES CONGRESS\n\nJULY 26th to 29th\n\nFROM THE UNITED STATES VISITING\n\nRHINE STRATFORD\nGNE WARWICK\nSSELS KENILWORTH\nNERP LEAMINGTON\nDON CHESTER\nORD LIVERPOOL\nQUEENSTOWN",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "abandon",
+      "bbox": {
+        "x0": 140,
+        "y0": 367,
+        "x1": 1123,
+        "y1": 458
+      },
+      "text": "LONDON JULY 26th to 29th\nOFFICIAL TOUR FOR DELEGATES FROM THE UNITED STATES VISITING",
+      "status": "ok",
+      "confidence": 0.8079854249954224,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 160,
+        "y0": 611,
+        "x1": 562,
+        "y1": 1080
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 740,
+        "y0": 637,
+        "x1": 1155,
+        "y1": 1090
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 143,
+        "y0": 642,
+        "x1": 1121,
+        "y1": 1024
+      },
+      "text": "37 DAYS, ALL EXPENSES INCLUDED, $275.00\nSame trip leaving New York, July 15th, arriving London, July 25th, continue as in above itinerary from London to New York, all expenses included, $175.00\nThis rate includes steamer passage, going and returning, railroad fares throughout, good hotels, carriage drives and side trips as stated in itinerary, free allowance of 60 pounds of baggage in addition to usual hand baggage, ordinary gratuities to hotel servants, porters and guards, and the services of an experienced manager from port of arrival in Europe to departure for America.\n\nUnder Management of\nTHE PILGRIM TOURS\n225 FIFTH AVENUE, NEW YORK CITY\nIndorsed by Prof. W. E. Burghardt DuBois, American Co-Secretary of the Congress",
+      "status": "ok",
+      "confidence": 0.9288080334663391,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 217,
+        "y0": 1080,
+        "x1": 511,
+        "y1": 1123
+      },
+      "text": "Legal Directory",
+      "status": "ok",
+      "confidence": 0.8316002488136292,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 740,
+        "y0": 1090,
+        "x1": 1084,
+        "y1": 1252
+      },
+      "text": "DIRECTORY\nTO THE\nBEST BOOKS\nON RACE PROBLEMS",
+      "status": "ok",
+      "confidence": 0.295587420463562,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 160,
+        "y0": 1123,
+        "x1": 562,
+        "y1": 1298
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 112,
+        "y0": 1151,
+        "x1": 608,
+        "y1": 1265
+      },
+      "text": "Real Estate and Probate Matters a Specialty\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nNOTARY PUBLIC\nOffice: Room 502, Eberly Block Columbus, O",
+      "status": "ok",
+      "confidence": 0.746252715587616,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 740,
+        "y0": 1252,
+        "x1": 1155,
+        "y1": 1336
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 191,
+        "y0": 1298,
+        "x1": 536,
+        "y1": 1459
+      },
+      "text": "B. S. SMITH\nATTORNEY AND COUNSELOR-AT-LAW.\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL",
+      "status": "ok",
+      "confidence": 0.46669846773147583,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 740,
+        "y0": 1453,
+        "x1": 1155,
+        "y1": 1600
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "title",
+      "bbox": {
+        "x0": 160,
+        "y0": 1550,
+        "x1": 562,
+        "y1": 1684
+      },
+      "text": "J. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\n6222 Cortlandt Cable Address, Jud",
+      "status": "ok",
+      "confidence": 0.54253751039505,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 108,
+        "y0": 1577,
+        "x1": 612,
+        "y1": 2058
+      },
+      "text": "ATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet\n\nFREDERICK L. McGHEE\nATTORNEY AND COUNSELOR-AT-LAW\nUnion Block, Fourth and Cedar Streets\nSt. Paul, Minn.\n\nGeneral Practice Notary Public\n\nWILLIAM R. MORRIS\nATTORNEY AND COUNSELOR-AT-LAW\n1020 Metropolitan Life Building\nMinneapolis, Minn.\n\nMention",
+      "status": "ok",
+      "confidence": 0.7151049971580505,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "text",
+      "bbox": {
+        "x0": 748,
+        "y0": 1606,
+        "x1": 1149,
+        "y1": 1923
+      },
+      "text": "Literature\nby the Government for Libraries of\nWar Vessels\nIn a perfect picture of life on board\non I first went to sea. The story is\nsimply and in such good style, and\ninterest so, that I read it through\nsitting.'—Richardson Clover, Rear\nU. S. N., Retired.\nand. 300 Pages. Fully Illustrated.\nSECOND EDITION\nStage Paid on Receipt of One Dollar\nAddress care of\nDWARTH PRINTING CO.\nWASHINGTON. D. C.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "text",
+      "bbox": {
+        "x0": 113,
+        "y0": 190,
+        "x1": 185,
+        "y1": 1057
+      },
+      "text": "San\nas\nthr\nfre\nord\nexp",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 216,
+        "y0": 466,
+        "x1": 373,
+        "y1": 611
+      },
+      "text": "HAVRE\nPARIS\nVERSAILLES\nLUCERNE\nHEIDELBERG\nMAYENCE",
+      "status": "ok",
+      "confidence": 0.47775861620903015,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 268,
+        "y0": 1465,
+        "x1": 454,
+        "y1": 1524
+      },
+      "text": "ATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.",
+      "status": "ok",
+      "confidence": 0.6041322946548462,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 539,
+        "y0": 466,
+        "x1": 684,
+        "y1": 611
+      },
+      "text": "THE RHINE\nCOLOGNE\nBRUSSELS\nANTWERP\nLONDON\nOXFORD",
+      "status": "ok",
+      "confidence": 0.7438486814498901,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "text",
+      "bbox": {
+        "x0": 514,
+        "y0": 611,
+        "x1": 742,
+        "y1": 1936
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "abandon",
+      "bbox": {
+        "x0": 514,
+        "y0": 1936,
+        "x1": 742,
+        "y1": 2058
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.6783865690231323,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1119,
+        "y0": 123,
+        "x1": 1155,
+        "y1": 151
+      },
+      "text": "39",
+      "status": "ok",
+      "confidence": 0.843119740486145,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 861,
+        "y0": 469,
+        "x1": 1026,
+        "y1": 637
+      },
+      "text": "STRATFORD\nWARWICK\nKENILWORTH\nLEAMINGTON\nCHESTER\nLIVERPOOL\nQUEENSTOWN",
+      "status": "ok",
+      "confidence": 0.4723849296569824,
+      "lines": []
+    },
+    {
+      "id": "r25",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 770,
+        "y0": 1336,
+        "x1": 1027,
+        "y1": 1453
+      },
+      "text": "SEND AND BUY\nAND MENTION\nTHE CRISIS",
+      "status": "ok",
+      "confidence": 0.5697229504585266,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.1,
+    "at": "2026-10-06T21:43:49+00:00"
+  }
+}

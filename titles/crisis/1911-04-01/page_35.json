@@ -1,0 +1,197 @@
+{
+  "page": 35,
+  "image": "images/page_35.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 35,
+        "y0": 66,
+        "x1": 584,
+        "y1": 1503
+      },
+      "text": "Ten Years with Dr. D. C. White\nTelephone 7189 Morningkside\n\nDr. JAMES A. BANKS\nDENTIST\n204 WEST 133D STREET, NEW YORK\nPorcelain, Crown and Bridge Work a Specialty\nPure Nitrous-Oxide Gas Administered\n\nCan't See Well? See Me\nwhen your eyes feel painful, hot, uncomfortable\nand grow weary while reading, writing, sewing\nor looking at near objects, letters run together\nwhile reading and become blurred.\n\nEyes examined by me and fitted with glasses\naccurately made never grow weary, but are per-\nfectly comfortable. You may not like to wear\nglasses, but do you like headaches, red eyes and\nwrinkles better! Scientific examinations of the\neyes for defective eyesight is my specialty.\n\nDr. R. G. ADAMS, Optometrist\nPhysical Eye Specialist\n16 West 134th Street, New York City, N. Y.\n\nThe Firm for the Negro Farmers and\nTry Us Before Shipping E\nFRUITS AND VEGETABLES\nOYSTERS AND G\nCOTTMAN & COTT\nWHOLESALE COMMISSION MERCHANTS.\nReference: The People's Savings Bank\n\nNYANZA DRUG CO.\n(Incorporated.)\n35 W. 135th ST., NEW YORK CITY\nCAPITAL STOCK, $15,000\nShares $5.00\nWrite for information. The best paying\ninvestment ever offered our people.\n\nNYANZA\nis the only color\nthe purpose of f\nstores, carrying\nDrug business.\nevery self-respe\nsupport.\n\nCRISIS PRINTS\nFront page illustration in three colors\non heavy paper, 7 by 9 inches, suitable\nfor framing—Fifty Cents.\n\nADVERTISING RATES\nOne page, each insertion.....$15.00\nHalf page, each insertion....",
+      "status": "repetition",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 518,
+        "y0": 102,
+        "x1": 895,
+        "y1": 594
+      },
+      "text": "No. 4 Special Buggy\n$65.00\nA value unequaled. Sold on\n$1.00 Profit Margin. Write\nfor prices and other styles.\nSend for catalog.\n\nC. R. Patterson & Sons\nGREENFIELD, OHIO\n\nLargest Negro carriage concern in the United States",
+      "status": "ok",
+      "confidence": 0.826964259147644,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 88,
+        "y0": 299,
+        "x1": 490,
+        "y1": 811
+      },
+      "text": "when your eyes feel painful, hot, uncomfortable and grow weary while reading, writing, sewing or looking at near objects, letters run together while reading and become blurred.\n\nEyes examined by me and fitted with glasses accurately made never grow weary, but are perfectly comfortable. You may not like to wear glasses, but do you like headaches, red eyes and wrinkles better! Scientific examinations of the eyes for defective eyesight is my specialty.\n\nDr. R. G. ADAMS, Optometrist\nPhysical Eye Specialist\n16 West 134th Street, New York City, N. Y.\n\nThe Firm for the Negro Farm\nTry Us Before S\nFRUITS AND VEGETABLES\nOYSTER\n\nCOTTMAN &\nWHOLESALE COMMISSION MERCHA\nReference: The People's Savings Bank\n\nNYANZA DRUG CO. }",
+      "status": "ok",
+      "confidence": 0.9206772446632385,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 411,
+        "y0": 594,
+        "x1": 911,
+        "y1": 1156
+      },
+      "text": "Farmers and Shippers to Deal With\nBefore Shipping Elsewhere.\nOYSTERS AND GAME\nPOULTRY AND EGGS\n\nMAN & COTTMAN\nMERCHANTS. 107 Pine Street, Philadelphia, Pa.\nBank Bell 'Phone Connection: Lombard 4035\n\nD. NYANZA PHARMACY\nis the only colored Drug Store in New York City, and the purpose of the Corporation is to establish chains of stores, carrying Drugs and everything incidental to the Drug business. It is really the indisputable duty of every self-respecting member of the race to give it his support.\n\nAGENTS WANTED EVERYWHERE\n\nYour Carpet Needs Cleaning!\nLet the NEW YORK CAREFUL\nCLEANING BUREAU Do It\nWe Clean and Renovate for Particular People—\nfrom a Rug to a House—by the Vacuum System.\nLet us give you a Clean House for\nthe year 1911\n'Phone 3253 Harlem. 12 West 135th Street\n\nTELEPHONE 5277 MORNINGSIDE",
+      "status": "ok",
+      "confidence": 0.8930658102035522,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 89,
+        "y0": 620,
+        "x1": 910,
+        "y1": 768
+      },
+      "text": "The Firm for the Negro Farmers and Shippers to Deal With\nTry Us Before Shipping Elsewhere.\nFRUITS AND VEGETABLES OYSTERS AND GAME POULTRY AND EGGS\nCOTTMAN & COTTMAN\nWHOLESALE COMMISSION MERCHANTS. 107 Pine Street, Philadelphia, Pa.\nReference: The People's Savings Bank Bell 'Phone Connection: Lombard 4035",
+      "status": "ok",
+      "confidence": 0.9552820920944214,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 91,
+        "y0": 813,
+        "x1": 489,
+        "y1": 1098
+      },
+      "text": "(Incorporated.)\n35 W. 135th ST., NEW YORK CITY\nCAPITAL STOCK, $15,000\nShares $5.00\nWrite for information. The best paying investment ever offered our people.\n\nCRISIS PRINTS\n\nFront page illustration in three colors on heavy paper, 7 by 9 inches, suitable for framing—Fifty Cents.",
+      "status": "ok",
+      "confidence": 0.9516783952713013,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 411,
+        "y0": 1179,
+        "x1": 911,
+        "y1": 1358
+      },
+      "text": "Dr. Gertrude E. Curtis\n471 Lenox Avenue, New York City\nSURGEON\nDENTIST",
+      "status": "ok",
+      "confidence": 0.6394272446632385,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 509,
+        "y0": 1359,
+        "x1": 909,
+        "y1": 1478
+      },
+      "text": "Office Hours: Bellevue Dental Clinic\n9-12 a. m. Mondays from\n2-9 p. m. 2 to 5 p. m.\n\nSUNDAYS BY APPOINTMENT\nWOMEN'S and CHILDREN'S WORK A SPECIALTY",
+      "status": "ok",
+      "confidence": 0.7896486520767212,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 88,
+        "y0": 1430,
+        "x1": 490,
+        "y1": 1587
+      },
+      "text": "Agent Continental Casualty Company\nLargest Accident and Health Insurance Company\nin the World\n\nMention",
+      "status": "ok",
+      "confidence": 0.551137387752533,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 411,
+        "y0": 1511,
+        "x1": 589,
+        "y1": 1530
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.8456244468688965,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 166,
+        "y0": 1377,
+        "x1": 404,
+        "y1": 1399
+      },
+      "text": "ACCIDENT INSURANCE",
+      "status": "ok",
+      "confidence": 0.20798303186893463,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 816,
+        "y0": 69,
+        "x1": 965,
+        "y1": 1502
+      },
+      "text": "With\nAND EGGS\nPhiladelphia, Pa.\nBurbard 4035\n\nACY\nNew City, and\nwith chains of\nmental to the\nmole duty of\ngive it his\n\nRE\nmeaning!\nFREFUL\nTo It\nDear People—\num System.\ne for\n\n56th Street\n\nJurtis\nNew City\n\nDental Clinic\ndays from\n5 p. m.\n\nNT\nSPECIALTY",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 732,
+        "y0": 1358,
+        "x1": 909,
+        "y1": 1418
+      },
+      "text": "Bellevue Dental Clinic\nMondays from\n2 to 5 p. m.",
+      "status": "ok",
+      "confidence": 0.46079960465431213,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 28.8,
+    "at": "2026-10-06T21:37:02+00:00"
+  }
+}

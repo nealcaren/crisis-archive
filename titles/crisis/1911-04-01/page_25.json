@@ -1,0 +1,183 @@
+{
+  "page": 25,
+  "image": "images/page_25.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 377,
+        "y0": 92,
+        "x1": 608,
+        "y1": 117
+      },
+      "text": "COLOR HYSTERIA",
+      "status": "ok",
+      "confidence": 0.8222659230232239,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 505,
+        "y0": 143,
+        "x1": 900,
+        "y1": 240
+      },
+      "text": "chains from Africa, therefore we are under no obligation to give them anything except odd kicks and monstrous injustice. Would not that be an extraordinary conception of ethics?",
+      "status": "ok",
+      "confidence": 0.9615004658699036,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 84,
+        "y0": 144,
+        "x1": 480,
+        "y1": 409
+      },
+      "text": "fenceless minority of its people. There is also the other fact that whenever the rights of one man are destroyed the rights of all men are impaired. Every time justice has been perverted to wreak popular prejudice on a colored man the whole system of justice has been weakened for everybody. Organized society will not stand such strains. What the South is really doing is to create a kind of anarchy certain to react upon its creators. You cannot deliberately foster ignorance and lawlessness without paying the price.",
+      "status": "ok",
+      "confidence": 0.9779833555221558,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 505,
+        "y0": 241,
+        "x1": 901,
+        "y1": 677
+      },
+      "text": "It is in no spirit of hostility toward the people of the South that we protest against all this. Those that protest are moved as much in the interest of the South as of the rest of the country—at least as much. Before the war Southern slave owners looked upon the Abolitionists as their worst enemies. It is now perfectly clear that the Abolitionists were the best friends the South ever had, for they wished to remove from the Southern people an absolutely fatal blight. It is the same way to-day. Those that insist upon justice and opportunity for the Negro are the South's best friends, and it has no enemies worse than the complacent, comfortable and indifferent Northerner that being confronted with the growing menace of this issue says: \"Leave it to the South. The South understands the Negro and knows what is best to do.\"",
+      "status": "ok",
+      "confidence": 0.9798498153686523,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 86,
+        "y0": 411,
+        "x1": 481,
+        "y1": 677
+      },
+      "text": "I have heard certain Americans speak with a curious bias about all these things. They seem to think that by some ethical jugglery we have a duty to educate the Filipinos but none to educate American Negroes: that the Hawaiians have rights but Negroes have none: that we should deal justly with Porto Ricans but have no obligations of justice toward native colored men. We forced ourselves upon the Filipinos without their consent. We are therefore obliged to give them schools and justice. We dragged the Negroes in",
+      "status": "ok",
+      "confidence": 0.9764246940612793,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 87,
+        "y0": 712,
+        "x1": 899,
+        "y1": 751
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.2349553257226944,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 318,
+        "y0": 784,
+        "x1": 674,
+        "y1": 843
+      },
+      "text": "Color Hysteria",
+      "status": "ok",
+      "confidence": 0.5521959066390991,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 86,
+        "y0": 906,
+        "x1": 713,
+        "y1": 1215
+      },
+      "text": "THE approval of the Japanese treaty without an outburst of race hatred on the Pacific Coast is the more remarkable because a wave of hysteria on the color question seems to be sweeping over the entire country. Whichever way one turns it is to be found, and it has become a pleasing sport with some newspapers to \"feature\" every item into which the word Negro can be introduced. Particularly is this true if it relates in any way to sane and proper intercourse between the races. It disappears. It is likely other eminent foreign blood in their veins willing to visit our would be ostracized if But nothing quite scently happened in N yet disgraced the N the case of the young recently killed by a her family. She w newspaper account of \"colored\" woman.",
+      "status": "ok",
+      "confidence": 0.9694916605949402,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 507,
+        "y0": 966,
+        "x1": 903,
+        "y1": 1501
+      },
+      "text": "tle disappears. It is lucky that Dumas and other eminent foreigners with colored blood in their veins are not alive and willing to visit our shores; they, too, would be ostracized socially.\n\nBut nothing quite so wicked as has recently happened in New Orleans has as yet disgraced the North. We refer to the case of the young woman who was recently killed by a street car, and of her family. She was described in a newspaper account of the accident as a \"colored\" woman. It being a crime in Louisiana to say that any white person has Negro blood, satisfaction was demanded, when a search of the records showed that some generations back there was colored blood in the family. At once a bill of attainder was passed upon the whole connection. The happy marriage of a sister is broken up, the husband suing for a divorce, since marriage or concubinage between the races is forbidden by law. A brother, a senior in a white school, is forced into a black one, and the whole family is set apart precisely as if afflicted by leprosy and with the same amount of hysteria that",
+      "status": "ok",
+      "confidence": 0.9757787585258484,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 87,
+        "y0": 1216,
+        "x1": 483,
+        "y1": 1500
+      },
+      "text": "Thus an eminent Columbia University professor and his wife, who were planning a suffrage meeting in their apartment, find themselves the victims of most trying notoriety because they were willing to oblige the woman suffrage party by having both white and colored listeners to the speeches. Of course, this was not the whole crime: after the speeches, cups of tea were to be handed about and that, of course, was unforgivable. The landlord, being frightened by newspaper publications, threatened an injunction—with the result that the old fiction about a man's home being his cas-",
+      "status": "ok",
+      "confidence": 0.9752487540245056,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 479,
+        "y0": 859,
+        "x1": 512,
+        "y1": 885
+      },
+      "text": "By",
+      "status": "ok",
+      "confidence": 0.37560442090034485,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 866,
+        "y0": 91,
+        "x1": 893,
+        "y1": 112
+      },
+      "text": "25",
+      "status": "ok",
+      "confidence": 0.8247918486595154,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.9,
+    "at": "2026-10-06T21:28:15+00:00"
+  }
+}

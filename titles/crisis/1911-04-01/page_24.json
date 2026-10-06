@@ -1,0 +1,113 @@
+{
+  "page": 24,
+  "image": "images/page_24.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 492,
+        "y0": 81,
+        "x1": 640,
+        "y1": 105
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8327150940895081,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 152,
+        "y0": 82,
+        "x1": 555,
+        "y1": 400
+      },
+      "text": "\"It was too good a chance to kill niggers and the boys couldn't let it go by.\"\nI thought this was some hideous form of jesting and expected to see the company so accept it. But his hearers only nodded their heads with an apparent sense of understanding, and I saw that what was alleged to have happened at Galveston, whether true or not, represented a feeling widespread and genuine among the whites and that what this signified was the explanation of many other bloody records besides those of Galveston.",
+      "status": "ok",
+      "confidence": 0.9686719179153442,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 157,
+        "y0": 402,
+        "x1": 557,
+        "y1": 931
+      },
+      "text": "Nothing could be farther from my thought than to intimate that these two incidents, taken from a full sheaf of observations and travels through the South, reveal the ideas of all Southerners. I do not know that they represent the ideas of a majority of Southerners. I do know that many men of the South would instantly repudiate and resent them as barbarous and cruel. But I also know that whatever might be the numerical division on this question the feeling of intense, blind, passionate hatred that prompted these expressions and made them natural and unpremeditated is the identical feeling that seems more and more to direct the policy of the Southern States.\n\nIt may not be in all respects the feeling of the majority, but it is certainly the feeling of those that make the laws and direct the government; and as long as that is the fact all those that believe in democracy, liberty and equality need no other inspiration to protest. Here is enough of an issue to engage their utmost sympathies and assistance if they are sincere.",
+      "status": "ok",
+      "confidence": 0.9794751405715942,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 160,
+        "y0": 934,
+        "x1": 561,
+        "y1": 1504
+      },
+      "text": "As to the fact that these are the dominant ideas, I need cite only the savage policy of the Southern States toward Negro education, the appalling figures of Negro illiteracy, the apparent purpose to obliterate the Negro schools, the unconstitutional laws by which the Negro has been deprived of his citizenship, the horrors of the \"jim-crow\" cars on the railroads, the steady increase of the ban laid upon the Negro workingman, the increasing dangers in which the Negro at the South leads his life, the increasing perversion of justice, the increase of practical anarchy at the South so far as the relations of whites and Negroes are concerned. All of these perilous manifestations and many others are obviously the fruits of such feelings as the six lawyers indicated when they discussed consumption and cocaine as relative means of grace.\n\nI put aside, for the time being, the graver consideration of the effects of these things upon the Negro victims: I look now merely at their effect upon the dominant whites of the South. I protest that for their own sakes the white people of the South cannot afford to let this downward drift go farther.",
+      "status": "ok",
+      "confidence": 0.9795860648155212,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 579,
+        "y0": 131,
+        "x1": 981,
+        "y1": 552
+      },
+      "text": "Here is a vast white population whose controlling thought at all times is hatred. Neither an individual nor a population can afford to indulge in that most deadly luxury. Men are not so constituted. Invariably the hater fares worse than the hated. It is an absolute and certain law of life.\n\nIf this blind and essentially brutal passion of hatred that animates the whites toward the Negroes of the South and daily increases is not to have dreadful results it will reverse all the lessons of history. If there be any one thing that the experience of mankind has so far demonstrated it is that nations must pay on the nail. If they tolerate ignorance they must pay the penalty in crime; if they sow injustice they will reap wrong; if they indulge in oppression they will insure disaster. These things are inevitable.",
+      "status": "ok",
+      "confidence": 0.9771639108657837,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 581,
+        "y0": 554,
+        "x1": 982,
+        "y1": 1121
+      },
+      "text": "For years I have been accustomed to hear Northern men say of the race problem that it is a Southern question and should be left to the South. \"The Southern people understand the Negro: they know how to deal with him. They should be let alone with their own affairs.\" This, I think, represents the average sentiment among the educated classes of the North.\n\nExactly the same comments were once made at the North about slavery. With infinitely more reason one might have said the same thing of the nobles of the old régime in France before 1789. They understood the peasants; they best knew how to deal with the issue; it was their affair. Yet when that pyramid of wrong heaped upon wrong finally collapsed how clear before the world was revealed the fact that the nobles had not understood the peasants, that they had not known best how to deal with the issue, that it was not their affair, but the affair of civilization. Instead of being \"the best judges of the situation because they were on the ground,\" a homespun printer far off in Philadelphia could have taught wisdom about it they never dreamed of.",
+      "status": "ok",
+      "confidence": 0.9766139388084412,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 584,
+        "y0": 1123,
+        "x1": 985,
+        "y1": 1506
+      },
+      "text": "It is so now in the South. Prejudice and passion are the worst possible instructors. The people of the South, or many of them, do not seem able to see that eternal verities are not to be altered to suit inherited prejudices, that justice is still justice, men are still men, right is still right, and that the moment we attempt to make distinctions and differences about the status of men before the law we throw down the whole structure of civilization that has been reared through so many years at so great a cost.\n\nThe nation cannot endure half with rights and half with none any more than it could endure half slave and half free. It is not merely the black disgrace before the world of an enlightened country that plays these sorry tricks upon a de-",
+      "status": "ok",
+      "confidence": 0.9763027429580688,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.8,
+    "at": "2026-10-06T21:28:06+00:00"
+  }
+}

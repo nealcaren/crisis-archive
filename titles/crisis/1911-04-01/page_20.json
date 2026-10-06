@@ -1,0 +1,113 @@
+{
+  "page": 20,
+  "image": "images/page_20.jpg",
+  "width": 1086,
+  "height": 1614,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 306,
+        "y0": 135,
+        "x1": 838,
+        "y1": 199
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.7607244849205017,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 310,
+        "y0": 259,
+        "x1": 408,
+        "y1": 282
+      },
+      "text": "EASTER.",
+      "status": "ok",
+      "confidence": 0.8885056972503662,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 161,
+        "y0": 288,
+        "x1": 561,
+        "y1": 929
+      },
+      "text": "THE land lay smiling in spring splendor, heavy with verdure, gleaming with glad sunshine. Athwart it fell the dark shadow of a toiling man; he was great of limb and black, thick of countenance and hard-haired. His face was half-hopeless, half-vacant, with only a faint gleam of something dead and awakening deep in his deep-set eyes. His feet were chained, his neck yoked and his body scarred. They that had driven him and ridden and thrust him threateningly through the thick forest were now afraid of him. They feared the reproach of his dumb, low-burning eyes. They feared the half-articulate sounds from his moving lips, and saw with terror the slow, steady growth of his body, that great, black, undying body. So they took council together to kill him—lying to his ears, crucifying his soul, until he, bent and bowed and heavy with his own weakness, fell and lay his mighty length in stupor along the earth. And the earth trembled.",
+      "status": "ok",
+      "confidence": 0.9740363955497742,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 159,
+        "y0": 933,
+        "x1": 558,
+        "y1": 1458
+      },
+      "text": "Sweating and deep of breath the pale-faced murderers worked and delved, digging a cavernous grave and walling it with Oppression. Then shame-faced, yet grim, they turned northward. At daybreak they stood upon the hills of God with faces white and good, crying: \"Come, O brothers, Northern brothers, the Thing that hindered our love is dead, dead, long dead.\" The brothers of the North came trooping, oily tongued, unctious and rich. Yet they of the North and South looked not each other in the eye, but slunk along false-smiling.\nOne timid one said:\n\"O Brother South—I hear chains.\"\nBut the South answered:\n\"Nay, that is the chiming of Negro school bells.\"\nYet another, quibbling, found his mouth:",
+      "status": "ok",
+      "confidence": 0.9750351905822754,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 584,
+        "y0": 258,
+        "x1": 988,
+        "y1": 713
+      },
+      "text": "\"Did the Thing—die—happy?\"\nThe South choked and muttered:\n\"Happy—so happy—and praising his—Master, and his Best Friends.\"\n\"But, Brother, your hands are bloody,\" quavered a third.\n\"The blood of the offering burned at the stake for the culture and supremacy of the White Race.\"\nThen hastily the South said in chorus as if to forestall reply:\n\"See where we have laid Him,\" and they pointed to that grave, walled with Oppression.\nBut suddenly the World was wings and the voice of the Angel of the Resurrection beat like a mighty wind athwart their ears, crying:\n\"He is not here—He is risen.\"",
+      "status": "ok",
+      "confidence": 0.9575127363204956,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 583,
+        "y0": 715,
+        "x1": 984,
+        "y1": 1266
+      },
+      "text": "Risen above half his ignorance; risen to more than six hundred millions of property; risen to a new literature and the faint glimmering of a new Art; risen to a dawning determination to be free; risen to a newer and greater ideal of Humanity than the world has known. RISEN!\n\nWRITERS.\n\nTHE death of Frances Watkins Harper calls our attention to the literature of American Negroes. Mrs. Harper was born in Baltimore in 1825. Her active life, beginning with her first published book of poems, covered over sixty years of stirring history, from the Compromise of 1850 down to Mr. Taft's inaugural address. She was associated with all the great leaders of the abolition cause and has lectured to hundreds of audiences throughout the land.",
+      "status": "ok",
+      "confidence": 0.9768837094306946,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 584,
+        "y0": 1268,
+        "x1": 984,
+        "y1": 1460
+      },
+      "text": "It is, however, for her attempts to forward literature among colored people that Frances Harper deserves most to be remembered. She was not a great singer, but she had some sense of song; she was not a great writer, but she wrote much worth reading. She was, above all, sincere. She took",
+      "status": "ok",
+      "confidence": 0.9705496430397034,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.6,
+    "at": "2026-10-06T21:27:32+00:00"
+  }
+}

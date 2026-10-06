@@ -1,0 +1,127 @@
+{
+  "page": 19,
+  "image": "images/page_19.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 104,
+        "y0": 156,
+        "x1": 569,
+        "y1": 1504
+      },
+      "text": "Written for THE CRISIS by WILLIAM\n\nLo! winter held the earth in its\nScarred Nature's beauty, hushed\nNow, through her trembling bos\nBlows the eternal lilies in the f\n\nWilliam Stanley Braithwaite was born\nHe left school at the age of twelve and started\nthe press of Ginn & Company. On account\nup, and there followed four or five years of o\nored lad—might find to do,\" as Mr. Braithwaite\n\nAfter managing a little bookstore in New\nvision of the poet proved too alluring to be\ntwenty-four he therefore began his literary o\ncovered little book, \"Lyrics of Life and Lo\nfreed soul:\n\nI am glad day long for the gift of\nFor time and change and sorrow\nFor the sunset wings and the world\nWhich hang on the edge of to-\nI am glad for my heart whose gaze\nAre the entrance-place of wonder\nWhere dreams come in from the ru\nLike sheep from the rains and\n\nTwo years later Mr. Braithwaite beg\nsurvey and evaluation of English poetry from\nof these splendidly conceived anthologies have\nabethan Verse\" (1906), the \"Book of Ge\n\"Book of Restoration Verse\" (1909). \"The\nVictorian Verse,\" completing the series, will\n\nBesides these volumes Mr. Braithwaite\nLeaves,\" and will publish soon \"New Engl\nanthology and a volume of essays.\n\nMr. Braithwaite's art is characterized\ntaste. He marks the rise of Negro American\nrace into the universal brotherhood.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 611,
+        "y0": 157,
+        "x1": 917,
+        "y1": 1505
+      },
+      "text": "STANLEY BRAITHWAITE.\n\near strife,\npulse of life;\nmystic breath\nof death.\n\nBoston December 6, 1878. I learn the compositor's trade at all health, he had to give this jobs, \"such as a lad—a col-quietly puts it.\nart and working in a club, the anger resisted. At the age of 18. In 1904 came his sad- with its first low cry of a\n\nal things\nnew.\npart\nand din\nmers.\n\nthis first great life work—a 157 to 1910. Three volumes appeared—the \"Book of Eliz- an Verse\" (1908), and the last volume, the \"Book of ear this year.\nissued the \"House of Falling Poems and Lyrics,\" a river\n\ncare, restraint and exquisite letters above the mere bonds of",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 342,
+        "y0": 220,
+        "x1": 684,
+        "y1": 286
+      },
+      "text": "Resurrection",
+      "status": "ok",
+      "confidence": 0.9409451484680176,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 195,
+        "y0": 317,
+        "x1": 825,
+        "y1": 489
+      },
+      "text": "Written for THE CRISIS by WILLIAM STANLEY BRAITHWAITE.\n\nLo! winter held the earth in its dark strife,\nScarred Nature's beauty, hushed its pulse of life;\nNow, through her trembling bosom, mystic breath\nBlows the eternal lilies in the fields of death.",
+      "status": "ok",
+      "confidence": 0.9690721035003662,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 144,
+        "y0": 565,
+        "x1": 886,
+        "y1": 1089
+      },
+      "text": "William Stanley Braithwaite was born in Boston December 6, 1878. He left school at the age of twelve and started to learn the compositor's trade at the press of Ginn & Company. On account of ill health, he had to give this up, and there followed four or five years of odd jobs, \"such as a lad—a colored lad—might find to do,\" as Mr. Braithwaite quietly puts it.\n\nAfter managing a little bookstore in Newport and working in a club, the vision of the poet proved too alluring to be longer resisted. At the age of twenty-four he therefore began his literary career. In 1904 came his sad-covered little book, \"Lyrics of Life and Love,\" with its first low cry of a freed soul:\n\nI am glad day long for the gift of song,\nFor time and change and sorrow;\nFor the sunset wings and the world-end things\nWhich hang on the edge of to-morrow.\n\nI am glad for my heart whose gates apart\nAre the entrance-place of wonders,\nWhere dreams come in from the rush and din\nLike sheep from the rains and thunders.",
+      "status": "ok",
+      "confidence": 0.9712415933609009,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 145,
+        "y0": 1116,
+        "x1": 881,
+        "y1": 1458
+      },
+      "text": "Two years later Mr. Braithwaite began his first great life work—a survey and evaluation of English poetry from 1557 to 1910. Three volumes of these splendidly conceived anthologies have appeared—the \"Book of Elizabethan Verse\" (1906), the \"Book of Georgean Verse\" (1908), and the \"Book of Restoration Verse\" (1909). The last volume, the \"Book of Victorian Verse,\" completing the series, will appear this year.\n\nBesides these volumes Mr. Braithwaite has issued the \"House of Falling Leaves,\" and will publish soon \"New England Poems and Lyrics,\" a river anthology and a volume of essays.\n\nMr. Braithwaite's art is characterized by care, restraint and exquisite taste. He marks the rise of Negro American letters above the mere bonds of race into the universal brotherhood.",
+      "status": "ok",
+      "confidence": 0.9718871712684631,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 101,
+        "y0": 95,
+        "x1": 256,
+        "y1": 121
+      },
+      "text": "APRIL, 1911",
+      "status": "ok",
+      "confidence": 0.8612135052680969,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "abandon",
+      "bbox": {
+        "x0": 892,
+        "y0": 96,
+        "x1": 919,
+        "y1": 118
+      },
+      "text": "19",
+      "status": "ok",
+      "confidence": 0.836483359336853,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.4,
+    "at": "2026-10-06T21:27:24+00:00"
+  }
+}

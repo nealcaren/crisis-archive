@@ -1,0 +1,314 @@
+{
+ "page": 26,
+ "image": "images/page_26.jpg",
+ "width": 1087,
+ "height": 1611,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.5,
+  "at": "2026-10-06T20:58:41+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 167,
+    "y0": 101,
+    "x1": 992,
+    "y1": 231
+   },
+   "text": "THE BURDEN",
+   "status": "ok",
+   "confidence": 0.4180367588996887,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 348,
+    "y0": 133,
+    "x1": 813,
+    "y1": 193
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "THE BURDEN",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 590,
+    "y0": 251,
+    "x1": 992,
+    "y1": 486
+   },
+   "text": "in the side, and thereupon ran to Sol Spires's house, and asked to be taken to a doctor. A minute later Pink Franklin came up wounded in the shoulder, \"made mention\" he had shot a man in his house, and asked Spires to take him to a doctor. Franklin spoke to Carter and told him he did not know him when he shot. Before Spires got a horse hitched up Franklin left the yard. Neither Constable Carter nor Spires made any effort to arrest or detain him.",
+   "status": "ok",
+   "confidence": 0.9743927121162415,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 590,
+    "y0": 252,
+    "x1": 990,
+    "y1": 483
+   },
+   "exclude": [
+    [
+     878,
+     485,
+     888,
+     500,
+     "r3"
+    ],
+    [
+     895,
+     485,
+     900,
+     500,
+     "r3"
+    ],
+    [
+     913,
+     484,
+     916,
+     487,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 168,
+    "y0": 256,
+    "x1": 567,
+    "y1": 668
+   },
+   "text": "If blood be the price of liberty,\nIf blood be the price of liberty,\nIf blood be the price of liberty,\nLord God, we have paid in full.\n\nCOLORED MEN LYNCHED WITHOUT\nTRIAL.\n\n1885. 78 1898. 102\n1886. 71 1899. 84\n1887. 80 1900. 107\n1888. 95 1901. 107\n1889. 95 1902. 86\n1890. 90 1903. 86\n1891. 121 1904. 83\n1892. 155 1905* 60\n1893. 154 1906* 60\n1894. 134 1907* 60\n1895. 112 1908* 80\n1896. 80 1909. 73\n1897. 122 1910† 50",
+   "status": "ok",
+   "confidence": 0.7793201208114624,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 167,
+    "y0": 254,
+    "x1": 566,
+    "y1": 671
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 591,
+    "y0": 482,
+    "x1": 993,
+    "y1": 904
+   },
+   "text": "Constable Valentine was found lying mortally wounded inside the bedroom of Franklin's house; Franklin's wife was slightly wounded.\nHenry E. Valentine, the slain constable, was a popular young man, and his friends and neighbors were enraged at his killing. Parties went in search of Franklin, and a lynching was predicted. He fell into other hands, however, and was taken to the penitentiary at Columbia for safe keeping. Several Negroes, suspected of knowing where Franklin was, were whipped by Valentine's friends. Tony Jerry, after being whipped, was committed to jail as a state's witness. The gist of his testimony was that he saw a pistol in Franklin's vest pocket the day before the shooting, and \"I heard him say that no one man could arrest him.\" Subsequently Jerry made affidavit that he testified as he did against his will, and that there was no truth in what he said.",
+   "status": "ok",
+   "confidence": 0.9768264889717102,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 590,
+    "y0": 483,
+    "x1": 990,
+    "y1": 903
+   },
+   "exclude": [
+    [
+     604,
+     474,
+     607,
+     484,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 432,
+    "y0": 676,
+    "x1": 567,
+    "y1": 706
+   },
+   "text": "Total....2.425",
+   "status": "ok",
+   "confidence": 0.2842743396759033,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 431,
+    "y0": 684,
+    "x1": 565,
+    "y1": 705
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "Total.....2.425",
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "title",
+   "bbox": {
+    "x0": 172,
+    "y0": 778,
+    "x1": 567,
+    "y1": 961
+   },
+   "text": "PINK FRANKLIN.\nAs was mentioned last month, Pink Franklin is sentenced to die two days before Christmas. Had it not been for the three years' fight made by two colored lawyers he would be dead to-day. Yet here is the history of his case, not from black lips or Northern lips, but from a local white Southern paper, the Columbia State:",
+   "status": "ok",
+   "confidence": 0.9745026230812073,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 171,
+    "y0": 775,
+    "x1": 567,
+    "y1": 958
+   },
+   "exclude": [
+    [
+     242,
+     960,
+     250,
+     969,
+     "r7"
+    ],
+    [
+     303,
+     960,
+     311,
+     975,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 591,
+    "y0": 904,
+    "x1": 993,
+    "y1": 1192
+   },
+   "text": "Now we come to the question of a juror—the jury having returned for further information from the judge—and the reply of the judge. There are two points for the lover of justice to bear in mind; first, that the warrant for breach of contract was issued more than two months before the attempted arrest of Franklin, that the defendant had no knowledge of the proximity of the constable, nor did he know Valentine; and, second, that there was no demand in the name of the law, or other word to indicate that the invasion of Franklin's house was supported by a legal process.",
+   "status": "ok",
+   "confidence": 0.9781206250190735,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 591,
+    "y0": 904,
+    "x1": 991,
+    "y1": 1188
+   },
+   "exclude": [
+    [
+     614,
+     1191,
+     634,
+     1206,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 172,
+    "y0": 958,
+    "x1": 570,
+    "y1": 1459
+   },
+   "text": "May 25, 1907, J. I. Valentine, magistrate, issued a warrant for the arrest of Pink Franklin, a Negro, charged by J. D. Thomas with violating an agricultural contract. Franklin had moved before that date to the farm of Sol Spires, twelve miles distant.\n\n\"About daybreak\" on July 29th—64 days after the date of the warrant—Henry E. Valentine, brother of the magistrate, and W. M. Carter, who lived near the Spires place and had been pressed into service as constable by Valentine, who wished some one to identify Franklin, whom he did not know, appeared at Franklin's door, and Valentine demanded admittance. There was no response. Valentine sent Carter to guard the rear of the house while he entered the front door. The prosecution's witnesses refer to his opening the door and going in; the defense to his bursting down the door. Pistol in hand he entered a hall and then the door of the dark bedroom in which were Franklin and his wife. Firing began. Carter returned to the front, ran in the hall and reached the room door, when he received a pistol shot flesh wound",
+   "status": "ok",
+   "confidence": 0.96965491771698,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 171,
+    "y0": 958,
+    "x1": 567,
+    "y1": 1456
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 593,
+    "y0": 1189,
+    "x1": 994,
+    "y1": 1460
+   },
+   "text": "We quote from the record. A conscientious juror, seeking to harmonize the power of the law with the sacred right of a man to defend his home—his \"castle\"—and to have defined where one shall respect the other, speaks:\nJuror Wannamaker asks: \"Has a constable or officer of the law a right to enter a house without first stating his mission?\"\nHis Honor: \"Not unless it is necessary.\"\nJuror: \"Is it not necessary for an officer to call to the party on the inside and state his mission?\"",
+   "status": "ok",
+   "confidence": 0.9658077359199524,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 591,
+    "y0": 1190,
+    "x1": 993,
+    "y1": 1460
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 191,
+    "y0": 705,
+    "x1": 373,
+    "y1": 744
+   },
+   "text": "*Estimated.\n†Estimated to date.",
+   "status": "ok",
+   "confidence": 0.4976450800895691,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 189,
+    "y0": 704,
+    "x1": 372,
+    "y1": 746
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.03,
+  "box_overlaps_after": 3,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 68%",
+   "reshape r4 (plain_text): lost 0% of its ink, gained 5%",
+   "reread r0: 'THE BURDEN' -> 'THE BURDEN'",
+   "reread r4: 'Total.....2.425' -> 'Total....2.425'"
+  ]
+ }
+}

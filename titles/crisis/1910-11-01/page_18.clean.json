@@ -1,0 +1,217 @@
+{
+ "page": 18,
+ "image": "images/page_18.jpg",
+ "width": 1888,
+ "height": 2825,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.4,
+  "at": "2026-10-06T20:53:17+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 703,
+    "y0": 187,
+    "x1": 1279,
+    "y1": 228
+   },
+   "text": "THE CRISIS ADVERTISER",
+   "status": "ok",
+   "confidence": 0.8317643404006958,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 698,
+    "y0": 182,
+    "x1": 1283,
+    "y1": 231
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 294,
+    "y0": 190,
+    "x1": 338,
+    "y1": 229
+   },
+   "text": "18",
+   "status": "ok",
+   "confidence": 0.787985622882843,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 290,
+    "y0": 188,
+    "x1": 338,
+    "y1": 228
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 341,
+    "y0": 275,
+    "x1": 1631,
+    "y1": 814
+   },
+   "text": "STANDARDIZE\nWITH THE\nL.C. Smith & Bros.\nTypewriter",
+   "status": "ok",
+   "confidence": 0.665321409702301,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 333,
+    "y0": 264,
+    "x1": 1638,
+    "y1": 818
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "figure",
+   "bbox": {
+    "x0": 339,
+    "y0": 842,
+    "x1": 1655,
+    "y1": 1610
+   },
+   "text": "ALL THE WRITING\nALWAYS IN SIGHT)\nL.C. SMITH & BROS. TYPEWRITER\n№2 L.C.SMITH & BROS. TYPEWRITER CO. №2\nMADE IN ATLASCUBE, NY, U.S.A.",
+   "status": "ok",
+   "confidence": 0.9388988018035889,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 341,
+    "y0": 842,
+    "x1": 1655,
+    "y1": 1607
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 345,
+    "y0": 1635,
+    "x1": 1643,
+    "y1": 2193
+   },
+   "text": "The DuPont Powder Company of Wilmington, Del., the most prominent manufacturers of explosives for Government and private use in the world, purchased on a single order—\n\n521 L. C. Smith & Bros. Typewriters\n\nTo Standardize their equipment, acting on unanimous recommendation of a board of five of their mechanical engineers, to whom all competing makes were submitted.",
+   "status": "ok",
+   "confidence": 0.9552392363548279,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 342,
+    "y0": 1628,
+    "x1": 1640,
+    "y1": 2197
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 346,
+    "y0": 2216,
+    "x1": 1642,
+    "y1": 2425
+   },
+   "text": "It will pay you to standardize your typewriter equipment with the L. C. Smith & Bros. Typewriter for the same reason that decided this shrewd, hard-headed business corporation—superior merit of the machine!\n\nAnd the reason holds good whether you use one typewriter or five hundred.\n\nWrite To-day for the Free Book.",
+   "status": "ok",
+   "confidence": 0.9441916942596436,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 331,
+    "y0": 2211,
+    "x1": 1644,
+    "y1": 2474
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "It will pay you to standardize your typewriter equipment with the L. C. Smith & Bros. Typewriter for the same reason that decided this shrewd, hard-headed business corporation—superior merit of the machine!\n\nAnd the reason holds good whether you use one typewriter or five hundred.\n\nWrite To-day for the Free Book.",
+   "role": "text",
+   "text_reread": "It will pay you to standardize your typewriter equipment with the L. C. Smith & Bros. Typewriter for the same reason that decided this shrewd, hard-headed business corporation-superior merit of the machine! And the reason holds good whether you use one typewriter or five hundred.",
+   "needs_review": "reread lost words: book free"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 347,
+    "y0": 2439,
+    "x1": 1633,
+    "y1": 2547
+   },
+   "text": "L. C. SMITH & BROS. TYPEWRITER CO.",
+   "status": "ok",
+   "confidence": 0.5149721503257751,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 339,
+    "y0": 2434,
+    "x1": 1636,
+    "y1": 2552
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 446,
+    "y0": 2573,
+    "x1": 1535,
+    "y1": 2647
+   },
+   "text": "SYRACUSE, N. Y., AND ALL LARGE CITIES",
+   "status": "ok",
+   "confidence": 0.5276971459388733,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 439,
+    "y0": 2589,
+    "x1": 1541,
+    "y1": 2648
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [
+   "r5"
+  ],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r5 (plain_text): lost 8% of its ink, gained 0%",
+   "reread r5: 'It will pay you to standardize your type' -> 'It will pay you to standardize your type'",
+   "REVIEW r5: reread lost book free; kept old text"
+  ]
+ }
+}

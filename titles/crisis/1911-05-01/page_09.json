@@ -1,0 +1,309 @@
+{
+  "page": 9,
+  "image": "images/page_09.jpg",
+  "width": 1376,
+  "height": 2083,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 400,
+        "y0": 130,
+        "x1": 837,
+        "y1": 163
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8529012799263,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 95,
+        "y0": 194,
+        "x1": 602,
+        "y1": 340
+      },
+      "text": "This year Mr. Allen announces that he will place Negro teachers in the Douglass township schools, and, because of the majority of the Negro population in the township, can carry out his statement.",
+      "status": "ok",
+      "confidence": 0.9627484083175659,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 633,
+        "y0": 194,
+        "x1": 1142,
+        "y1": 321
+      },
+      "text": "The Rev. George A. McGuire, formerly Archdeacon of the Protestant Episcopal Church in Arkansas, will hereafter be associated with the American Church Institute.",
+      "status": "ok",
+      "confidence": 0.954682469367981,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 342,
+        "x1": 603,
+        "y1": 467
+      },
+      "text": "A delegation of white citizens appealed to A. M. Deyoe, State Superintendent of Instruction, to bring action restraining Mr. Allen from carrying out his purpose.",
+      "status": "ok",
+      "confidence": 0.9493306279182434,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 637,
+        "y0": 434,
+        "x1": 1144,
+        "y1": 536
+      },
+      "text": "The Ward Manufacturing Company, a $10,000 corporation for the manufacture of kitchen and laundry utensils, has been organized in St. Louis.",
+      "status": "ok",
+      "confidence": 0.9567276239395142,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 99,
+        "y0": 476,
+        "x1": 605,
+        "y1": 662
+      },
+      "text": "The colored people of Esterwood, La., have raised funds for a local high school.\nA movement has been started among the colored people of Nashville for the raising of scholarships so as to send graduates of the colored high school to college.",
+      "status": "ok",
+      "confidence": 0.9296847581863403,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 642,
+        "y0": 550,
+        "x1": 1147,
+        "y1": 798
+      },
+      "text": "John W. Simmons, a wealthy colored man from Oklahoma, says that the towns of Coweta, Red Bird, Porter, Rentie, Taft, Boley, Tatum, Wild Horse, Wire Bark, Clear View, Tallahassee and other Negro towns that have sprung up in the last few years are each the business center of a prosperous community of Negro farmers, whose holdings range from 30 to 300 acres.",
+      "status": "ok",
+      "confidence": 0.9715016484260559,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 102,
+        "y0": 671,
+        "x1": 611,
+        "y1": 1027
+      },
+      "text": "Alice M. Curtis, who died recently in Massachusetts, has left $5,000 each to Tuskegee, Hampton and Atlanta University.\n\nThe commission of which Dr. D. W. Clark, of Boston, is chairman, and among whose members are William Dean Howells, James Whitcomb Riley, and Thomas Wentworth Higginson, have established a $2,000 scholarship in memory of Paul Laurence Dunbar, at Wilberforce University. Paul Laurence Dunbar Taylor, a relative of the poet, is the first incumbent.",
+      "status": "ok",
+      "confidence": 0.9590973854064941,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 644,
+        "y0": 799,
+        "x1": 1149,
+        "y1": 1090
+      },
+      "text": "\"The towns have a population of from 500 to 1,500 and Negroes occupy all the offices,\" he said. \"They own and conduct all the business. In most of them there is not a white resident or property owner. Most of these Negro towns have several stores, churches and schools. Disfranchisement and 'Jim Crow' cars have not discouraged the Negroes, who have emigrated to Oklahoma from other Southern States to take advantage of the opportunity to acquire land and wealth.\"",
+      "status": "ok",
+      "confidence": 0.974987268447876,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 107,
+        "y0": 1035,
+        "x1": 615,
+        "y1": 1185
+      },
+      "text": "A gift of $10,000 from Andrew Carnegie has increased the endowment fund of Fisk University to over $100,000. $300,000 must be raised in order to secure the $60,000 gift of the General Educational Board.",
+      "status": "ok",
+      "confidence": 0.9422359466552734,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 649,
+        "y0": 1091,
+        "x1": 1153,
+        "y1": 1409
+      },
+      "text": "Simmons and his brother, Jacob Simmons, of Muskogee, who is reputed to be worth $100,000, conduct a large real estate business. They have recently platted an addition to Red Bird containing 230 lots, and own much improved property and several large business houses in Muskogee. John W. Simmons, whose fortune is rated at $80,000, says when he went to Oklahoma twenty-one years ago and took possession of his allotment of 160 acres of wild land he had only $64 in cash.",
+      "status": "ok",
+      "confidence": 0.9758102893829346,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 110,
+        "y0": 1193,
+        "x1": 618,
+        "y1": 1429
+      },
+      "text": "The Board of Trustees of the State Negro college of South Carolina elected R. S. Wilkinson to succeed T. E. Miller. Wilkinson is an electrical engineer and will receive a salary of $1,800.\nOn Easter Sunday the cornerstones of four new buildings at Kowaliga, Ala., were laid. The school and community are unusually successful.",
+      "status": "ok",
+      "confidence": 0.9392776489257812,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 651,
+        "y0": 1423,
+        "x1": 1156,
+        "y1": 1525
+      },
+      "text": "William H. Daly, of Baltimore, Md., has bought a moving picture and vaudeville show for colored people on East Baltimore Street.",
+      "status": "ok",
+      "confidence": 0.9424909949302673,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 112,
+        "y0": 1438,
+        "x1": 619,
+        "y1": 1516
+      },
+      "text": "Of the eighteen colored students of the University of Illinois all are fully or in part self-supporting.",
+      "status": "ok",
+      "confidence": 0.9320288300514221,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 653,
+        "y0": 1541,
+        "x1": 1159,
+        "y1": 1644
+      },
+      "text": "A land company has an option on 100,000 acres in lower Georgia which they propose to settle with colored people.",
+      "status": "ok",
+      "confidence": 0.9448145627975464,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 115,
+        "y0": 1596,
+        "x1": 621,
+        "y1": 1771
+      },
+      "text": "On June 7th there will assemble in Meridian, Miss., one of the largest conventions of Sunday-school workers ever held in the country. They will attend the National Baptist Sunday School Congress and over 2,000 delegates are expected.",
+      "status": "ok",
+      "confidence": 0.9703778624534607,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 656,
+        "y0": 1656,
+        "x1": 1161,
+        "y1": 1932
+      },
+      "text": "The firemen's strike on the Queen & Crescent railroad has been settled and is on the whole a victory for the colored workers. The strikers are to be reinstated within fifteen days and the division of territory between white and colored firemen is arranged. The colored firemen are not to have more than half of the best passenger and preferred freight runs and are not to be assigned to these unless by superiority and fitness.",
+      "status": "ok",
+      "confidence": 0.9756763577461243,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 117,
+        "y0": 1782,
+        "x1": 623,
+        "y1": 1933
+      },
+      "text": "The colored members of the Methodist Episcopal Church have organized a country-wide revival which will include four conventions at Baltimore, New Orleans, Atlanta and St. Louis of a week each.",
+      "status": "ok",
+      "confidence": 0.9603976011276245,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "title",
+      "bbox": {
+        "x0": 297,
+        "y0": 1559,
+        "x1": 433,
+        "y1": 1587
+      },
+      "text": "CHURCH.",
+      "status": "ok",
+      "confidence": 0.900608479976654,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1117,
+        "y0": 130,
+        "x1": 1139,
+        "y1": 155
+      },
+      "text": "9",
+      "status": "ok",
+      "confidence": 0.7986618280410767,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "title",
+      "bbox": {
+        "x0": 795,
+        "y0": 397,
+        "x1": 981,
+        "y1": 425
+      },
+      "text": "ECONOMICS.",
+      "status": "ok",
+      "confidence": 0.8974046111106873,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.8,
+    "at": "2026-10-06T21:39:11+00:00"
+  }
+}

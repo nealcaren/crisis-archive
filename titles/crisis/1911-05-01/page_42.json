@@ -1,0 +1,225 @@
+{
+  "page": 42,
+  "image": "images/page_42.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 495,
+        "y0": 120,
+        "x1": 951,
+        "y1": 155
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.7651814818382263,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 738,
+        "y0": 189,
+        "x1": 1259,
+        "y1": 493
+      },
+      "text": "Washington Conservatory of Music and School of Expression\n902 T STREET, WASHINGTON, D. C.\nLARGE AND COMPETENT FACULTY\nDEPARTMENTS\nPiano, Voice and Violin, Piano Tuning, Theory Analysis, Harmony, Counterpoint, Fugue, Vocal Expression, Wind Instruments, History of Music, Methods.\nScholarships Awarded Artists' Recitals",
+      "status": "ok",
+      "confidence": 0.9447382688522339,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 224,
+        "y0": 190,
+        "x1": 691,
+        "y1": 582
+      },
+      "text": "Fisk University\nNASHVILLE, TENN.\n\nSixty-five College Freshmen.\nA New Department of Sociology.\nA Notable Equipment in Land and Buildings.\nSuccessful Graduates in Nearly Every State.\nEndorsed by the General Education Board.\nFor information address\n\nGEORGE A. GATES, President.",
+      "status": "ok",
+      "confidence": 0.9437457919120789,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 742,
+        "y0": 473,
+        "x1": 1224,
+        "y1": 604
+      },
+      "text": "Scholarships Awarded Artists' Recita\nHARRIET GIBBS·MARSHALL, President.\nGEORGE WILLIAM COOK, Treasurer.\nABBY WILLIAMS, Secretary.\nLEWIS G. GREGORY, Financial Secretary.\nANNIE E. GRINAGE.",
+      "status": "ok",
+      "confidence": 0.9332866072654724,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 197,
+        "y0": 625,
+        "x1": 702,
+        "y1": 1044
+      },
+      "text": "American Church Institute for Negroes\nSIX SCHOOLS.\nThe Bishop Payne Divinity School, Petersburgh, Va., Warden, the Reverend C. B. Bryan, D.D.; St. Augustine's School, Raleigh, N. C., for normal and collegiate training, the Reverend A. B. Hunter, Principal; the St. Paul Normal and Industrial School, Lawrenceville, Va., the Reverend James S. Russell, Principal; St. Athanasius' School, Brunswick, Ga., Mr. A. N. Perry, Principal; St. Mark's School, Birmingham, Ala., the Reverend C. W. Brooks, Principal; the Wicksburg Industrial School, Vicksburg, Miss., the Reverend W. H. Marshall, Principal. For information apply to the principal at any school or to the Reverend Samuel H. Bishop, General Agent, 416 Lafayette Street, New York City.",
+      "status": "ok",
+      "confidence": 0.9750474095344543,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 737,
+        "y0": 637,
+        "x1": 1253,
+        "y1": 1032
+      },
+      "text": "Virginia Union University\nRICHMOND, VA.\n\nA College Department, of high standards and modern curriculum.\n\nA Theological Department, with all subjects generally required in the best theological seminaries.\n\nAn Academy, with manual training, giving a preparation for life or for college.\n\nThe positive moral and religious aim of the school, its high standards of entrance and of class work, its fine new buildings and well-equipped laboratories and library, prepare a faithful student for a life of wide usefulness.\n\nGEORGE RICE HOVEY, President",
+      "status": "ok",
+      "confidence": 0.9370418787002563,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 734,
+        "y0": 1077,
+        "x1": 1249,
+        "y1": 1472
+      },
+      "text": "The National Religious Training School, DURHAM, N.C.\nOffers special training to young men and women as Settlement Workers, Association Secretaries, Missionaries, Literary and Other Branches.\nThe following departments are now in successful operation:\nCommercial, Literary, Music, Theological Religious Training and Industrial\nFALL TERM OPENS OCTOBER 12",
+      "status": "ok",
+      "confidence": 0.9597271084785461,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 196,
+        "y0": 1087,
+        "x1": 701,
+        "y1": 1479
+      },
+      "text": "Lincoln Institute\nJEFFERSON CITY, MISSOURI\nFounded by the Soldiers of the 62d and 65th Regiments of the U. S. Colored Infantry.\nSupported by the State of Missouri. Has Normal, Collegiate, Agricultural, Mechanical and Industrial Courses. Buildings and equipment unsurpassed. Thirty teachers representing the best schools of the country. Students from all sections of the country. For catalogue and further information address\nBENJAMIN FRANKLIN ALLEN,\nPresident.",
+      "status": "ok",
+      "confidence": 0.967585027217865,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 196,
+        "y0": 1455,
+        "x1": 951,
+        "y1": 1542
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 732,
+        "y0": 1496,
+        "x1": 1252,
+        "y1": 2058
+      },
+      "text": "SUMMER SCHOOL.\nThe Summer School and Chautauqua opens July 5, 1911, and closes August 14.\nThe attractions and advantages offered in the Summer School are unsurpassed in the country for colored young men and women.\nApplications should be sent in at an early date.\nLoan Scholarships have been established for deserving young men and women.\nFor further information address\n\nThe President, National Religious Training School, Durham, N. C.\n\nCrisis.",
+      "status": "ok",
+      "confidence": 0.9565362930297852,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 288,
+        "y0": 1542,
+        "x1": 608,
+        "y1": 1643
+      },
+      "text": "BUREAU OF\nINFORMATION",
+      "status": "ok",
+      "confidence": 0.9415531754493713,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 197,
+        "y0": 1675,
+        "x1": 700,
+        "y1": 1935
+      },
+      "text": "The National Association for the Advancement of Colored People will be glad to furnish correspondents confidential information concerning schools or other matters connected with the Negro problem.\n\nAddress\n\nW. E. B. DU BOIS,\n20 Vesey Street,\nNew York.",
+      "status": "ok",
+      "confidence": 0.9536271691322327,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 595,
+        "y0": 1951,
+        "x1": 823,
+        "y1": 1975
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.6863305568695068,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 196,
+        "y0": 1975,
+        "x1": 951,
+        "y1": 2058
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "abandon",
+      "bbox": {
+        "x0": 200,
+        "y0": 120,
+        "x1": 236,
+        "y1": 148
+      },
+      "text": "42",
+      "status": "ok",
+      "confidence": 0.7869908809661865,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.5,
+    "at": "2026-10-06T21:45:35+00:00"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "page": 17,
+  "image": "images/page_17.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 124,
+        "y0": 136,
+        "x1": 1169,
+        "y1": 622
+      },
+      "text": "WOMEN'S CLUBS\nBy A. W. HUNTON\n\nTHE NATIONAL ASSOCIATION\nOF COLORED WOMEN.\nBy A. W. HUNTON.\n\nWhile club work among colored women really antedates the organization of the National Association of Colored Women at Washington, D. C., in 1896, it is customary now to reckon all progress in this direction from that event. Doing so, we believe that the National Association of Colored Women they might be unified into a working force.\n\nThis unifying process in the spirit and aim of the intelligent colored women has been one of her strongest blessings in the past decade. It has not only brought the women of New York and California, of Massachusetts and Texas, to know the needs and realize the advantages and disadvantages each of the other, but it has been their open sesame to modern methods and aims of philan-",
+      "status": "ok",
+      "confidence": 0.9754418730735779,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 127,
+        "y0": 664,
+        "x1": 633,
+        "y1": 1240
+      },
+      "text": "MISS ELIZABETH C. CARTER\nPresident National Association of Colored Women",
+      "status": "ok",
+      "confidence": 0.9758908152580261,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 129,
+        "y0": 1270,
+        "x1": 634,
+        "y1": 1860
+      },
+      "text": "ciation has not only developed strongly and steadily until it has won the cordial and discriminating approval of the best people, irrespective of color or section, but that the ideals held by our women fifteen years ago relative to the possibilities of the club movement as a social, economic and moral force have been overreached, and we are now exhilarated by the vision of larger possibilities. There have been three distinct periods in the work of the National Association—organization and expansion, departmental, State federation. It was in the first period that women in every section of the country heard the clarion call of the new movement, awakening them to thought, to action, to life. The response was generous. Women, the most cultured of the race; women, students only of the great school of humanity, but with keen desire and courageous hearts; women from every section came flocking, that through the National As-",
+      "status": "ok",
+      "confidence": 0.9765328764915466,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 663,
+        "y0": 330,
+        "x1": 1169,
+        "y1": 705
+      },
+      "text": "sociation of Colored Women they might be unified into a working force. This unifying process in the spirit and aim of the intelligent colored women has been one of her strongest blessings in the past decade. It has not only brought the women of New York and California, of Massachusetts and Texas, to know the needs and realize the advantages and disadvantages each of the other, but it has been their open sesame to modern methods and aims of philanthropy and their favorite resource for sympathetic encouragement and support in their various efforts.",
+      "status": "ok",
+      "confidence": 0.9796517491340637,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 664,
+        "y0": 711,
+        "x1": 1172,
+        "y1": 1536
+      },
+      "text": "With such a flocking into camp of its forces, the Association soon realized the necessity of working in groups, so various departments were formed, as the occasion demanded, and placed under the direction of women either experienced or peculiarly fitted for the work assigned them. Of the many departments that now constitute the Association may be mentioned Kindergarten, Mothers' Meetings, Day Nurseries, Humane and Rescue, Temperance, Religion, Literature, Domestic Science, Music, Art, Forestry and Statistics. Hence the inspiration for kindergartens that overtook New Orleans, Charleston, Atlanta and other cities of the South; the successful efforts for probation officers in Denver, Pittsburg, Atlanta and a few other cities; the zeal that made nine women of Vicksburg raise $2,000 more and convert into an old folks' home a picturesque old antebellum mansion, standing upon a knoll of that historic city and overlooking the dark waters of the Mississippi; that caused still another group to crown one of the many hills of the famous Hot Springs of Arkansas with a similar home, and that lent enthusiasm to the women of New Bedford to persevere until they had won confidence and support for the erection of an old folks' home, at once a joy to their city and the pride of colored women everywhere.",
+      "status": "ok",
+      "confidence": 0.9596391320228577,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 668,
+        "y0": 1540,
+        "x1": 1174,
+        "y1": 1861
+      },
+      "text": "The three homes just mentioned present a fascinating story, but there are many other homes as a result of Association work-for old folk, for orphans, for fallen girls, for business girls, telling stories of just plain, hard sacrifice. Mothers' meetings, notable in results at Tuskegee, Louisville, St. Louis, Jacksonville, and at Jackson and Westside, Mississippi, have proven one of the most helpful and interesting features of the movement, and the results have been far-reaching.",
+      "status": "ok",
+      "confidence": 0.8962243795394897,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.0,
+    "at": "2026-10-06T21:40:24+00:00"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "page": 36,
+  "image": "images/page_36.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 145,
+        "y0": 785,
+        "x1": 963,
+        "y1": 864
+      },
+      "text": "ERNST SEWING MACHINE CO.",
+      "status": "ok",
+      "confidence": 0.918117344379425,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 146,
+        "y0": 917,
+        "x1": 975,
+        "y1": 1115
+      },
+      "text": "We are offering to the public the greatest bargain ever known in SEWING MACHINES; ours are made from the best case hardened Bessemer steel, with all of the latest improvements, run lightly, lock stitch, smooth on both sides, and are perfect sewers. We give a set of nickel-plated steel attachments and a written guarantee for ten years with each machine. Join an Ernst Sewing Machine Club of fifteen and get one of our Ernst Specials, the world wonder. To any lady getting up a club for purchasing our machines we will give one of our specials for her trouble. Dressmakers all over the world endorse our machines. We ship all machines direct from the factory to your address. Buy one of ours and save the dealer's and agent's profit. Ours will do the same work as the Singer, Domestic, New Home, or any other, and do not cost as much. Write us for our catalog and Club Plans.\n\nErnst Special . $14.75 Ernst No. 2 . $17.50\nErnst No. 1 . 16.00 Alice Ernst . 22.50",
+      "status": "ok",
+      "confidence": 0.9448609948158264,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 235,
+        "y0": 1148,
+        "x1": 877,
+        "y1": 1196
+      },
+      "text": "Sphinx Labor-Saving Soap Co.",
+      "status": "ok",
+      "confidence": 0.8625190854072571,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 149,
+        "y0": 1286,
+        "x1": 971,
+        "y1": 1475
+      },
+      "text": "No Suds; No Potash; No Lime. No More Washboards. No More Backaches. Economical for the Laundry. Cleans from Garret to Cellar. Best for Fabrics. Good for the Skin. Cleans the Hair and Scalp; Removes Dandruff. Renovates Glass, Silverware, etc. Removes All Stains, Ink, Blood, Iodine and Picric Acid.\n\nAGENTS WANTED EVERYWHERE. WRITE TO-DAY.\n\nOffice and Factory: 715 Herkimer St., Brooklyn, N. Y.",
+      "status": "ok",
+      "confidence": 0.6233712434768677,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure",
+      "bbox": {
+        "x0": 125,
+        "y0": 71,
+        "x1": 805,
+        "y1": 743
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9686676859855652,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 342,
+        "y0": 876,
+        "x1": 772,
+        "y1": 1267
+      },
+      "text": "Office, 20 Livingston Ave., Detroit, Mich.\nMAIL ORDER DEPARTMENT\nIn the public the greatest bargain ever known in SEW\nit case hardened Bessemer steel, with all of the la-\nbeth on both sides, and are perfect sewers. We give\na written guarantee for ten years with each man\nof fifteen and get one of our Ernst Specials, the\nto for purchasing our machines we will give one o\nall over the world endorse our machines. We ship a\npress. Buy one of our and save the dealer's and ap-\nsong the Singer, Domestic, New Home, or any other, and\ncatalog and Club Plans.\n$14.75 Ernst No. 2\n16.00 Alice Ernst\n\nLabor-Saving Soap\n\nA NEW AND DIFFERENT SOAP\n\nCosts Less - Does More",
+      "status": "ok",
+      "confidence": 0.9221010804176331,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 342,
+        "y0": 1267,
+        "x1": 772,
+        "y1": 1539
+      },
+      "text": "tash; No Lime. No More Washboards. No\nical for the Laundry. Cleans from Garret to\nBest for Fabrics. Good for the Skin.\nand Scalp; Removes Dandruff. Renovates GL\naves All Stains, Ink, Blood, Iodine and Picric\nGENTS WANTED EVERYWHERE. WRITE TO-1\nFactory: 715 Herkimer St., Brook\n\nMention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.795052170753479,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 778,
+        "y0": 56,
+        "x1": 1029,
+        "y1": 1509
+      },
+      "text": "Frederick Douglass Memorial Hospital and Training School\nPhiladelphia Pa.\n\nPay and free beds and private rooms. Two years' training for nurses. $5,000 endows a free bed.\n\nAndrew T. Stevens, President.\n\nNathan F. Mossell, M.D., Medical Director and Superintendent.\n\nM. Alice Ernst, Sec.\n\nING MACHINES; ours best improvements, run in a set of nickel-plated machine. Join an Ernst world wonder. To any of our specials for her machines direct fromient's profit. Ours will do not cost as much.\n\n$17.50\n22.50\n\nCo.\n\nMore Backaches.\nCellar.\n\nass, Silverware, etc.\nAcid.\n\nDAY.\n\nyn, N. Y.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 822,
+        "y0": 362,
+        "x1": 1000,
+        "y1": 825
+      },
+      "text": "Pay and free beds and private rooms. Two years' training for nurses. $5,000 endows a free bed.\n\nAndrew T. Stevens,\nPresident.\n\nNathan F. Mossell, M.D.,\nMedical Director and\nSuperintendent.\n\nAlice Ernst, Sec.",
+      "status": "ok",
+      "confidence": 0.9148029685020447,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.7,
+    "at": "2026-10-06T21:37:12+00:00"
+  }
+}

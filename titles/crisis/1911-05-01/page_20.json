@@ -1,0 +1,155 @@
+{
+  "page": 20,
+  "image": "images/page_20.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 630,
+        "y0": 118,
+        "x1": 819,
+        "y1": 149
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8721173405647278,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 200,
+        "y0": 119,
+        "x1": 236,
+        "y1": 146
+      },
+      "text": "20",
+      "status": "ok",
+      "confidence": 0.8314387798309326,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 201,
+        "y0": 184,
+        "x1": 709,
+        "y1": 402
+      },
+      "text": "Congress thought it was time for another Brownsville, and our amiable President hastened` to comply—with three contradictory orders in 24 hours. Is it not time that reasonable Americans refuse to be stamped by nonsense and lies?",
+      "status": "ok",
+      "confidence": 0.9725480079650879,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 203,
+        "y0": 408,
+        "x1": 709,
+        "y1": 1335
+      },
+      "text": "There is some evidence of awakening on this point. Hysterical schoolgirls at Cornell, who ought to know better than to yield to cheap snobbery, have been quietly but firmly rebuked by the President. In Boston last year certain impudent Southerners stamped the managing committee of the Boston Floating Hospital into refusing to appoint colored nurses. The result was that this year one white Southern woman and four white Northern women held up the New England Hospital for women and children for daring to admit a colored interne. These chivalrous and devoted ladies threatened to leave the sick and dying to their fate unless the directors yielded; but the directors calmly declared by a vote of 17 to 4 that they proposed to run the hospital themselves. What has been the result? Has the world ended, or the South seceded? Is the \"supremacy\" of the white race threatened? It is incomprehensible when we conceive of the ease with which the average American can be stamped, if you say \"Prejudice\" to him. Thank God, there are still some who refuse to run.",
+      "status": "ok",
+      "confidence": 0.9783761501312256,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 207,
+        "y0": 1426,
+        "x1": 719,
+        "y1": 1929
+      },
+      "text": "SOMETIMES our friends write so much better editorials than we can that we simply hand the pen to them. Here is a case in point. It is a letter from a member of one of the most distinguished families in America:\n\n\"I do not wonder that the old Negro melody, to which you refer, had the line:\n\n'Jesus is dead, and God's gone away.'\n\n\"It is but one monotonous history of cruelty, wrong, injustice, and ex-",
+      "status": "ok",
+      "confidence": 0.9751377701759338,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 742,
+        "y0": 181,
+        "x1": 1255,
+        "y1": 625
+      },
+      "text": "ploitation of the weaker by the strong and the end is not yet.\n\"When Elizabeth sent Hawkins to the coast of Africa to make slaves of the natives one of the ships was named the 'Jesus' and the other 'The Grace of God.' Yet Elizabeth was no humorist; but in serious earnest.\n\"It seems very funny to me, however, as I look back upon it. So when Napoleon and other imperial robbers tore Poland in three parts they did it in 'The name of the Father and the Son and the Holy Ghost.'",
+      "status": "ok",
+      "confidence": 0.9754103422164917,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 743,
+        "y0": 627,
+        "x1": 1252,
+        "y1": 871
+      },
+      "text": "\"They, too, were not humorists. Yet it was very funny. So when I was in the South I saw many churches in which no one who had one drop of Negro blood could worship in peace except 'Old Mammy' or 'Jim Crow.' It is not much better here in the North, as you well know.",
+      "status": "ok",
+      "confidence": 0.9776995182037354,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 745,
+        "y0": 876,
+        "x1": 1255,
+        "y1": 1302
+      },
+      "text": "\"When to the enormity of being born with a black skin one adds the crime of threatening the social superiority of the lordly Caucasian by an intelligence, culture or refinement equal to or superior to his own what rage, what fury, what threats of teaching 'the nigger to keep his place!' If the humorous is by contrast how funny the white man's Christianity! 'We are the superiors of you black men and we will murder every one of you if necessary to demonstrate that superiority!'",
+      "status": "ok",
+      "confidence": 0.9761903882026672,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 747,
+        "y0": 1309,
+        "x1": 1257,
+        "y1": 1586
+      },
+      "text": "\"As a lordly Southerner said to me the other day, 'The nigger is all right in his place; but when he begins to show any of his damned bigotry we'll kill him.' If the man could have read my thoughts he would have killed me. I thought that the 'damned bigotry' was characteristic of the white man and not of the Negro.",
+      "status": "ok",
+      "confidence": 0.9772622585296631,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 751,
+        "y0": 1590,
+        "x1": 1260,
+        "y1": 1931
+      },
+      "text": "\"To tell the truth I do not see that Christianity has any practical influence on the majority of white men and women in this insane race prejudice. A relative of mine was white with rage the other day because a Negro man and woman sat near her in the Hippodrome. She was with her sister. I think that the prejudice grows worse and worse. It is no use to try to reason people out of that",
+      "status": "ok",
+      "confidence": 0.9801135063171387,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.5,
+    "at": "2026-10-06T21:40:51+00:00"
+  }
+}

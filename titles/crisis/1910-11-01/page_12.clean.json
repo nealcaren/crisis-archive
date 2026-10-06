@@ -1,0 +1,304 @@
+{
+ "page": 12,
+ "image": "images/page_12.jpg",
+ "width": 1879,
+ "height": 2817,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.9,
+  "at": "2026-10-06T20:51:44+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 258,
+    "y0": 171,
+    "x1": 1706,
+    "y1": 410
+   },
+   "text": "The N. A. A. C. P.",
+   "status": "ok",
+   "confidence": 0.2679543197154999,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 262,
+    "y0": 175,
+    "x1": 1698,
+    "y1": 354
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "The N. A. A. C. P.",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 257,
+    "y0": 442,
+    "x1": 952,
+    "y1": 661
+   },
+   "text": "ON THE one hundredth anniversary of Lincoln's birth a call was issued in New York signed by prominent people all over the country for a conference on the status of the colored people.",
+   "status": "ok",
+   "confidence": 0.9671850800514221,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 254,
+    "y0": 448,
+    "x1": 950,
+    "y1": 659
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 258,
+    "y0": 711,
+    "x1": 950,
+    "y1": 794
+   },
+   "text": "The first conference met in New York May 31 and June 1, 1909.",
+   "status": "ok",
+   "confidence": 0.9246151447296143,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 256,
+    "y0": 708,
+    "x1": 950,
+    "y1": 791
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 259,
+    "y0": 837,
+    "x1": 951,
+    "y1": 1081
+   },
+   "text": "The second conference was held in New York May 12-14, 1910. *\nThe second conference organized a permanent body to be known as the National Association for the Advancement of Colored People. The officers of this association are:",
+   "status": "ok",
+   "confidence": 0.9277216792106628,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 257,
+    "y0": 835,
+    "x1": 950,
+    "y1": 1082
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 257,
+    "y0": 1088,
+    "x1": 950,
+    "y1": 1537
+   },
+   "text": "National President: Mr. Moorfield Storey, Boston, Mass.\nChairman of the Executive Committee: Mr. Wm. English Walling, New York.\nTreasurer: Mr. John E. Milholland, New York.\nDisbursing Treasurer: Mr. Oswald Garrison Villard, New York.\nDirector of Publicity and Research: Dr. W. E. B. DuBois, New York.\nExecutive Secretary: Miss Frances Blascoer, New York.",
+   "status": "ok",
+   "confidence": 0.5721011161804199,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 257,
+    "y0": 1087,
+    "x1": 947,
+    "y1": 1542
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 256,
+    "y0": 1587,
+    "x1": 947,
+    "y1": 2170
+   },
+   "text": "The work of the N. A. A. C. P. can be summarized as follows up to the present date:\nFour mass meetings and ten other meetings have been held to discuss the status of the colored people and efforts for betterment.\nOne volume of speeches and 6,000 separate pieces of literature are being distributed.\nA bureau of information has been maintained which has corresponded with over 500 persons in all parts of the country.\nSix articles have been furnished to magazines and eight to newspapers.\nTwo investigations into educational conditions are in progress.",
+   "status": "ok",
+   "confidence": 0.9487130641937256,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 255,
+    "y0": 1583,
+    "x1": 946,
+    "y1": 2167
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 254,
+    "y0": 2173,
+    "x1": 946,
+    "y1": 2421
+   },
+   "text": "Effort has been made in three cases to secure legal redress of grievances. This Association needs $10,000 for its year's work. We ask for donations and we especially want members who pay from $1 to $25 yearly, according to ability. Anybody may join.",
+   "status": "ok",
+   "confidence": 0.9547438025474548,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 254,
+    "y0": 2172,
+    "x1": 945,
+    "y1": 2418
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "abandon",
+   "bbox": {
+    "x0": 288,
+    "y0": 2465,
+    "x1": 945,
+    "y1": 2547
+   },
+   "text": "The future plans of the organization include:\nThe publication of THE CRISIS.",
+   "status": "ok",
+   "confidence": 0.6398910284042358,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 287,
+    "y0": 2462,
+    "x1": 942,
+    "y1": 2543
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 996,
+    "y0": 446,
+    "x1": 1701,
+    "y1": 910
+   },
+   "text": "Co-operation with all agencies working for the uplift of colored people.\nThe holding of mass meetings and conferences.\nThe issuing of pamphlets at the rate of one every other month or oftener.\nThe publication of articles in magazines and in the daily press.\nThe discovering and redress of cases of injustice.\nThe systematic study of the present conditions among colored people.",
+   "status": "ok",
+   "confidence": 0.9467187523841858,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 995,
+    "y0": 446,
+    "x1": 1701,
+    "y1": 907
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 991,
+    "y0": 919,
+    "x1": 1697,
+    "y1": 2472
+   },
+   "text": "The General Committee consists of the officers and the following persons:\n\n*Miss Gertrude Barnum, New York.\n*Rev. W. H. Brooks, New York.\nProf. John Dewey, New York.\nMiss Maud R. Ingersoll, New York.\nMrs. Florence Kelley, New York.\n*Mr. Paul Kennaday, New York.\n*Mrs. F. R. Keyser, New York.\nDr. Chas. Lenz, New York.\nMr. Jacob W. Mack, New York.\n*Mrs. M. D. MacLean, New York.\nRev. Horace G. Milier, New York.\nMrs. Max Morgenthau, Jr., New York.\nMr. James F. Morton, Jr., New York.\nMr. Henry Moskowitz, New York.\nMiss Leonora O'Reilly, New York.\n*Rev. A. Clayton Powell, New York.\n*Mr. Charles Edward Russell, New York.\nMr. Jacob H. Schiff, New York.\nProf. E. R. A. Seligman, New York.\n*Rev. Joseph Silverman, New York.\nMrs. Anna Garlin Spencer, New York.\nMrs. Henry Villard, New York.\nMiss Lillian D. Wald, New York.\n*Bishop Alexander Walters, New York.\nDr. Stephen S. Wise, New York.\nRev. Jas. E. Haynes, D.D., Brooklyn, N. Y.\n*Rev. John Haynes Holmes, Brooklyn, N. Y.\nMiss M. R. Lyons, Brooklyn, N. Y.\n*Miss M. W. Ovington, Brooklyn, N. Y.\n*Dr. O. M. Waller, Brooklyn, N. Y.\nMrs. M. H. Talbert, Buffalo, N. Y.\nHon. Thos. M. Osborne, Auburn, N. Y.\n*Mr. W. L. Bulkley, Ridgewood, N. J.\nMr. George W. Crawford, New Haven, Conn.\nMiss Maria Baldwin, Boston, Mass.\nMr. Francis J. Garrison, Boston, Mass.\nMr. Archibald H. Grimke, Boston, Mass.\n*Mr. Albert E. Pillsbury, Boston, Mass.\nMr. Wm. Munroe Trotter, Boston, Mass.\nDr. Horace Bumstead, Brookline, Mass.\nMiss Elizabeth C. Carter, New Bedford, Mass.\nPres. Chas. T. Thwing, Cleveland, O.\nMr. Chas. W. Chesnutt, Cleveland, O.",
+   "status": "ok",
+   "confidence": 0.9734442234039307,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 990,
+    "y0": 935,
+    "x1": 1696,
+    "y1": 2459
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1064,
+    "y0": 2476,
+    "x1": 1535,
+    "y1": 2553
+   },
+   "text": "*Executive Committee.\n(Continued on next page.)",
+   "status": "ok",
+   "confidence": 0.673147439956665,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1058,
+    "y0": 2475,
+    "x1": 1537,
+    "y1": 2549
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "abandon",
+   "bbox": {
+    "x0": 952,
+    "y0": 2566,
+    "x1": 995,
+    "y1": 2604
+   },
+   "text": "12",
+   "status": "ok",
+   "confidence": 0.7264087796211243,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 950,
+    "y0": 2566,
+    "x1": 994,
+    "y1": 2602
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 12,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.29,
+  "box_overlaps_after": 0,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 41%",
+   "reread r0: 'The N. A. A. C. P.' -> 'The N. A. A. C. P.'"
+  ]
+ }
+}

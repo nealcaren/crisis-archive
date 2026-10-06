@@ -1,0 +1,155 @@
+{
+  "page": 15,
+  "image": "images/page_15.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 573,
+        "y0": 131,
+        "x1": 720,
+        "y1": 163
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.6966606378555298,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 115,
+        "y0": 198,
+        "x1": 621,
+        "y1": 786
+      },
+      "text": "ment. No white officers desire to command them. They are in an untenable position, and it is the duty of the government to relieve them from that situation.\" And the New York Times says: \"They are good soldiers, as everybody admits, and as they have many times proved in both peace and war, but somehow they do not fit in well with the Nature of Things as They Are.\" The colored \"Tommy\" did not lack defenders even before the charges against him were proved untrue. \"The agitation for the removal of the Ninth Cavalry on account of race prejudice,\" says the Indianapolis News reminiscently, \"serves to recall the battle of Las Guasimas. The Rough Riders had rushed headlong into a trap set by the Spaniards and were wavering before the withering volleys when the Ninth Cavalry came up and, moving forward with great steadiness and gallantry, were soon masters of the situation.",
+      "status": "ok",
+      "confidence": 0.9784249067306519,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 116,
+        "y0": 789,
+        "x1": 620,
+        "y1": 1248
+      },
+      "text": "\"The people of Texas, having forgotten that historic incident in the intensity of their wrath against the men of another colored regiment, the fact is officially recognized that no good purpose is to be achieved by sending these troops to southwest Texas. The white people of Texas have no quarrel with the large proportion of Negroes living around them, but the sight of a black man in uniform excites a feeling of antagonism beyond toleration. That such conditions exist anywhere is deplorable, and, as the problem is unsolvable by any means at the command of authority, the pickle the government is put in is anything but compatible with a sense of dignity and majesty. Time and distance is the only remedy for the sore.\"",
+      "status": "ok",
+      "confidence": 0.9778516292572021,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 114,
+        "y0": 1252,
+        "x1": 619,
+        "y1": 1810
+      },
+      "text": "\"There may be a move in the present Congress,\" says the Brooklyn Eagle, \"to permit the President to disband all or part of the Negro regiments. We hardly believe it will succeed. As fighting machines these regiments have proved their value: and the race problems which their presence in the army involves are problems which British experience parallels and which British common sense has pretty successfully solved.\" The Cleveland Leader declares the black soldier's reputation has never been surpassed by the white. \"The Federal Government cannot always so dispose of the four colored regiments as to keep them away from the South. But it seems intolerable that any local regulation should be permitted to scare Washington into a blue funk. There is a line beyond which, it seems, the conciliation of political opponents ought not to be permitted.\"",
+      "status": "ok",
+      "confidence": 0.980012059211731,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 112,
+        "y0": 1810,
+        "x1": 618,
+        "y1": 1935
+      },
+      "text": "The Messenger, of St. Albans, Vermont, a State which has had some experience with the colored soldier, takes up the cudgels for him. \"He is in the ranks supporting the colors with as high",
+      "status": "ok",
+      "confidence": 0.9619339108467102,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1126,
+        "y0": 132,
+        "x1": 1157,
+        "y1": 158
+      },
+      "text": "15",
+      "status": "ok",
+      "confidence": 0.8351736664772034,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 653,
+        "y0": 199,
+        "x1": 1158,
+        "y1": 612
+      },
+      "text": "a purpose as the white man. His body will stop a bullet from entering our homes as well as any, and we don't begrudge that it should. It is barely possible that the whites near army posts where blacks are stationed fail to do their whole duty in their relation to their defenders.\"\n\nTHE FIREMEN'S STRIKE.\n\nOur news columns give an account of the firemen's strike on the Queen & Crescent Railroad. The white press has not commented more than casually, but the colored press has made some pointed remarks.",
+      "status": "ok",
+      "confidence": 0.9764408469200134,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 653,
+        "y0": 612,
+        "x1": 1156,
+        "y1": 1198
+      },
+      "text": "\"The significance of the strike and resultant murders of colored firemen on the Cincinnati Southern Railroad should not be overlooked,\" says the Washington National Union. \"It should be borne in mind that the colored firemen are not 'scabs' or strikebreakers, but regularly employed workmen. There is no complaint of their inefficiency or their unwillingness to join with their white fellow employees in organizing for betterment. It is simply this; they are called upon to accept a permanent and fixed status at the bottom—in jobs that white men do not (at present) desire—and the railroad is required to ratify the 'understanding' and enforce it. It looks like an extension and exemplification of the recently announced policy as to political offices—in effect, that no colored man may hold a position when white people object, or, if you please to so state it boldly, any place that a white man wants.",
+      "status": "ok",
+      "confidence": 0.9796313643455505,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 651,
+        "y0": 1198,
+        "x1": 1156,
+        "y1": 1786
+      },
+      "text": "\"One peculiar feature of the strike situation is that, although all traffic is interfered with, and the dispatches say that on some sections of the road no freight is moving, so far there has been no cry raised as to interference with interstate commerce, nor any of the United States troops rushed to the scene. However, the railroad is standing by its employees, which is encouraging.\"\n\nThe railroad did stand by the colored employees and secured some rights for them. The Charleston Advocate, another Negro paper, remarks that had the strikers been successful, the economic progress of the Negro would have been seriously impeded. As it is, considerable harm has been done. \"The relations between the white and black firemen,\" it says, \"have been irreparably strained, and the movement to bar the Negro from all but menial labor has been forwarded.",
+      "status": "ok",
+      "confidence": 0.9773423075675964,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 650,
+        "y0": 1787,
+        "x1": 1156,
+        "y1": 1936
+      },
+      "text": "\"Speaking to the Negroes of Atlanta last month, President Taft said: 'The secret of the solution of the problem of the South is education, primary and industrial.' At that very time this strike was on, and industrial education, one of",
+      "status": "ok",
+      "confidence": 0.9692816138267517,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.4,
+    "at": "2026-10-06T21:40:05+00:00"
+  }
+}

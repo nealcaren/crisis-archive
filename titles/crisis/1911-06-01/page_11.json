@@ -1,0 +1,211 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 459,
+        "y0": 116,
+        "x1": 839,
+        "y1": 146
+      },
+      "text": "MEN OF THE MONTH",
+      "status": "ok",
+      "confidence": 0.8879614472389221,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "figure",
+      "bbox": {
+        "x0": 661,
+        "y0": 194,
+        "x1": 1155,
+        "y1": 852
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.972413182258606,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 116,
+        "y0": 199,
+        "x1": 608,
+        "y1": 855
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9726056456565857,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 742,
+        "y0": 875,
+        "x1": 1057,
+        "y1": 899
+      },
+      "text": "MRS. GEORGE E. WIBECAN",
+      "status": "ok",
+      "confidence": 0.8861889839172363,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 105,
+        "y0": 923,
+        "x1": 612,
+        "y1": 1047
+      },
+      "text": "son became intimate with such men as Emerson, Longfellow, Whittier, Holmes, Lowell and Thoreau, and in his old age he had many things to tell of this brilliant circle.",
+      "status": "ok",
+      "confidence": 0.9649658203125,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 646,
+        "y0": 924,
+        "x1": 1151,
+        "y1": 1072
+      },
+      "text": "Mr. Green has just succeeded in securing the passage of the amended Civil Rights bill, which makes it unlawful for the owners of cemeteries to discriminate in the price of graves against colored people or other nationalities.",
+      "status": "ok",
+      "confidence": 0.9681711792945862,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 105,
+        "y0": 1047,
+        "x1": 611,
+        "y1": 1317
+      },
+      "text": "When the Civil War began the well-known kindliness that Mr. Higginson had for Negroes made him particularly fitted for a command in a black regiment. He was at first gazetted Captain in the Fifty-first Massachusetts Volunteers, but resigned to become Colonel of the First South Carolina Volunteers. He captured Jacksonville, Fla., and was wounded at Milltown Bluff, S. C., with the result that he was forced by ill-health to resign.",
+      "status": "ok",
+      "confidence": 0.8355892300605774,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 646,
+        "y0": 1074,
+        "x1": 1152,
+        "y1": 1293
+      },
+      "text": "Mr. Green is a member of the committees on building, loan and homestead associations, Chicago charter, education finance, judicial appointment, liberal, military affairs, parks and boulevards, primary elections, public buildings and grounds, and State institutions. He is well liked by both his Republican and Democratic associates.",
+      "status": "ok",
+      "confidence": 0.9761592745780945,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 105,
+        "y0": 1317,
+        "x1": 610,
+        "y1": 1561
+      },
+      "text": "The Colonel was a warm friend of women's education, and was one of those with sufficient courage to attend the first Women's Rights Convention. He was ever on the side of progress and ready as a young man to move forward. He was too feeble to take active part in the work of the N. A. A. C. P., but repeatedly expressed his deep sympathy with our movement.",
+      "status": "ok",
+      "confidence": 0.8778334259986877,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 645,
+        "y0": 1343,
+        "x1": 1151,
+        "y1": 1822
+      },
+      "text": "A golden nuptial mass for a colored man and wife was celebrated for the first time in this country on May 1, in honor of the 50th anniversary of the marriage of Mr. and Mrs. George E. Wibecan, Sr. They were married in Liverpool, England, in 1861, came to this country shortly afterward, and settled in Ridgewood, Long Island. For half a century they have been prominently identified with every forward movement in their section of the country, and are among the most respected citizens of Long Island. The parish, white and colored, turned out to honor the pair on their golden anniversary, and the parish priest paid a high tribute to their influence in the community.",
+      "status": "ok",
+      "confidence": 0.9773882031440735,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 103,
+        "y0": 1610,
+        "x1": 610,
+        "y1": 1922
+      },
+      "text": "A COLORED LEGISLATOR. Edward·D. Green, Illinois' only colored member of the legislature, has fought race battles with energy and success on more occasions than one. The Supreme Court has just decided in favor of his \"Anti-Mob-Law\" bill, put through the Assembly, and bitterly contested. The bill provides for the severe punishment of lynchers and delinquent sheriffs. It is the first law of the kind to stand the test of any supreme court.",
+      "status": "ok",
+      "confidence": 0.9770656824111938,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 645,
+        "y0": 1822,
+        "x1": 1152,
+        "y1": 1924
+      },
+      "text": "George E. Wibecan, Jr., is one of Brooklyn's well-known colored men, and is high in the councils of the Republican party.",
+      "status": "ok",
+      "confidence": 0.9574743509292603,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 204,
+        "y0": 874,
+        "x1": 512,
+        "y1": 898
+      },
+      "text": "MR. GEORGE E. WIBECAN",
+      "status": "ok",
+      "confidence": 0.6295379400253296,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1118,
+        "y0": 114,
+        "x1": 1152,
+        "y1": 141
+      },
+      "text": "55",
+      "status": "ok",
+      "confidence": 0.8426805138587952,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.5,
+    "at": "2026-10-06T21:48:12+00:00"
+  }
+}

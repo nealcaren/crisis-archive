@@ -492,6 +492,7 @@
   "regions_before": 13,
   "regions_after": 12,
   "lost_words": [],
+  "needs_review": [],
   "unowned_ink_pct": 0.91,
   "box_overlaps_after": 3,
   "log": [

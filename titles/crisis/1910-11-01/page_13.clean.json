@@ -3212,16 +3212,13 @@
  "clean": {
   "regions_before": 11,
   "regions_after": 11,
-  "lost_words": [
-   "courtment",
-   "enlist"
-  ],
+  "lost_words": [],
+  "needs_review": [],
   "unowned_ink_pct": 1.05,
   "box_overlaps_after": 3,
   "log": [
    "reshape r1 (plain_text): lost 38% of its ink, gained 0%",
-   "reread r1: 'WHITE SOLDIERS AT ATHENS.\\n\\nWe cannot per' -> 'WHITE SOLDIERS AT ATHENS.\\n\\nWe cannot per'",
-   "CHECK words lost from page text: courtment enlist"
+   "reread r1: 'WHITE SOLDIERS AT ATHENS.\\n\\nWe cannot per' -> 'WHITE SOLDIERS AT ATHENS.\\n\\nWe cannot per'"
   ]
  }
 }

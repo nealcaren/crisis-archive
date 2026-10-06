@@ -1,0 +1,555 @@
+{
+ "page": 20,
+ "image": "images/page_20.jpg",
+ "width": 1879,
+ "height": 2819,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 20.8,
+  "at": "2026-10-06T20:53:52+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 664,
+    "y0": 144,
+    "x1": 1240,
+    "y1": 185
+   },
+   "text": "THE CRISIS ADVERTISER",
+   "status": "ok",
+   "confidence": 0.34931638836860657,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 662,
+    "y0": 140,
+    "x1": 1241,
+    "y1": 188
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 260,
+    "y0": 235,
+    "x1": 1698,
+    "y1": 715
+   },
+   "text": "The New York Negro as a Tenant\n\nEvery Negro resident of New York City prior to the year 1900 remembers too well the great difficulty always experienced in trying to find anything like a decent place to live. Never before this time was the question of \"How much rent shall we pay?\" anything like as important as \"Where can we live?\"\n\nThe Negro as a tenant was wanted nowhere except in the very poorest section of the city and there only in such houses as were so run down that even the poorest of whites refused to longer occupy them. In these houses Negroes were crowded together without any regard for their health or morals. Here they were bullied and even insulted by independent landlords, who were very careful to do little or nothing for their erstwhile not wanted tenants except to squeeze from them every dollar of rent possible.",
+   "status": "ok",
+   "confidence": 0.975442111492157,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 261,
+    "y0": 230,
+    "x1": 1696,
+    "y1": 708
+   },
+   "exclude": [
+    [
+     1583,
+     711,
+     1616,
+     737,
+     "r4"
+    ],
+    [
+     322,
+     712,
+     346,
+     739,
+     "r4"
+    ],
+    [
+     1340,
+     713,
+     1345,
+     717,
+     "r4"
+    ],
+    [
+     1394,
+     712,
+     1418,
+     738,
+     "r4"
+    ],
+    [
+     1466,
+     712,
+     1483,
+     737,
+     "r4"
+    ],
+    [
+     1552,
+     712,
+     1562,
+     736,
+     "r4"
+    ],
+    [
+     1566,
+     712,
+     1579,
+     737,
+     "r4"
+    ],
+    [
+     369,
+     714,
+     374,
+     718,
+     "r4"
+    ],
+    [
+     532,
+     714,
+     538,
+     724,
+     "r4"
+    ],
+    [
+     541,
+     714,
+     546,
+     724,
+     "r4"
+    ],
+    [
+     602,
+     714,
+     628,
+     739,
+     "r4"
+    ],
+    [
+     622,
+     714,
+     627,
+     718,
+     "r4"
+    ],
+    [
+     644,
+     714,
+     649,
+     718,
+     "r4"
+    ],
+    [
+     842,
+     714,
+     858,
+     739,
+     "r4"
+    ],
+    [
+     936,
+     714,
+     942,
+     724,
+     "r4"
+    ],
+    [
+     945,
+     714,
+     950,
+     724,
+     "r4"
+    ],
+    [
+     1127,
+     714,
+     1138,
+     739,
+     "r4"
+    ],
+    [
+     1191,
+     714,
+     1207,
+     739,
+     "r4"
+    ],
+    [
+     1260,
+     714,
+     1276,
+     738,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 263,
+    "y0": 707,
+    "x1": 1695,
+    "y1": 1251
+   },
+   "text": "This was a \"condition, not a theory,\" that we faced when in October, 1900, we opened our office as the first Negro Real Estate Agents in New York City, making a specialty of the management of colored tenement property. Our very best friends all told us that we were attempting the impossible, that we could not succeed, that we would starve in our undertaking. For the first year and a half they proved to be prophets indeed. Our many disappointments, heartaches and actual sufferings during this period would fill a book and read like a romance. Every one could tell us how we could NOT make it, but none how we could. We were real estate agents making a specialty of the management of colored tenement property for nearly a year before we actually succeeded in getting a colored tenement to manage. Our first opportunity occurred in West 134th Street as a result of a dispute between two landlords. To \"get even\" one of them turned his house over to us to fill with colored tenants. We were so very successful in renting and managing this house that, after a time, we were able to induce other landlords in whose houses vacancies had occurred due to the opening of this house for colored people, to make the change and give us their property to manage.",
+   "status": "ok",
+   "confidence": 0.9755478501319885,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 262,
+    "y0": 709,
+    "x1": 1695,
+    "y1": 1246
+   },
+   "exclude": [
+    [
+     351,
+     689,
+     367,
+     711,
+     "r3"
+    ],
+    [
+     334,
+     1248,
+     355,
+     1274,
+     "r5"
+    ],
+    [
+     620,
+     1249,
+     623,
+     1252,
+     "r5"
+    ],
+    [
+     669,
+     1249,
+     672,
+     1252,
+     "r5"
+    ],
+    [
+     753,
+     1249,
+     764,
+     1273,
+     "r5"
+    ],
+    [
+     799,
+     1249,
+     814,
+     1273,
+     "r5"
+    ],
+    [
+     921,
+     1249,
+     925,
+     1252,
+     "r5"
+    ],
+    [
+     1125,
+     1249,
+     1150,
+     1273,
+     "r5"
+    ],
+    [
+     360,
+     1250,
+     375,
+     1274,
+     "r5"
+    ],
+    [
+     380,
+     1250,
+     384,
+     1253,
+     "r5"
+    ],
+    [
+     512,
+     1250,
+     528,
+     1273,
+     "r5"
+    ],
+    [
+     565,
+     1250,
+     580,
+     1274,
+     "r5"
+    ],
+    [
+     1392,
+     1250,
+     1404,
+     1275,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 262,
+    "y0": 1244,
+    "x1": 1695,
+    "y1": 1819
+   },
+   "text": "This was the beginning of the turning over to Negro tenants of one of the very best sections of Manhattan Island and in no part of the city are there any better built or more modern tenements for any class of people than are now occupied by Negroes in this section. By opening for colored tenants first a house in one block, and then a house in another, we have finally succeeded in securing for the colored people of New York over 250 first-class flats and private dwellings in a fine section of the city, conveniently located as to transportation facilities, etc.\n\nTo this extent our ambition has been gratified. There is, however, more work to be done in another direction before we shall be entirely satisfied with the condition of the Negro tenancy in this great city. We feel that our personal experience both as a Negro tenant and a landlord has peculiarly fitted us for the work. Dr. Booker T. Washington in his latest book, \"The Negro in Business,\" says: \"Mr. Payton has had an opportunity during this time to learn something of the condition under which colored tenants live, sometimes are compelled to live, in New York. Stranger than all else, he was, as he has confessed to me, several times put out of houses, bag and baggage, for inability to pay his rent. He has thus been able to see how an ejectment suit looks from both the point of view of tenant and of landlord.\"",
+   "status": "ok",
+   "confidence": 0.9775065183639526,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 261,
+    "y0": 1247,
+    "x1": 1694,
+    "y1": 1813
+   },
+   "exclude": [
+    [
+     735,
+     1224,
+     750,
+     1247,
+     "r4"
+    ],
+    [
+     786,
+     1224,
+     802,
+     1246,
+     "r4"
+    ],
+    [
+     847,
+     1224,
+     864,
+     1246,
+     "r4"
+    ],
+    [
+     1009,
+     1224,
+     1025,
+     1246,
+     "r4"
+    ],
+    [
+     401,
+     1236,
+     416,
+     1247,
+     "r4"
+    ],
+    [
+     521,
+     1236,
+     535,
+     1247,
+     "r4"
+    ],
+    [
+     333,
+     1816,
+     356,
+     1842,
+     "r6"
+    ],
+    [
+     359,
+     1817,
+     375,
+     1841,
+     "r6"
+    ],
+    [
+     445,
+     1817,
+     448,
+     1820,
+     "r6"
+    ],
+    [
+     728,
+     1816,
+     743,
+     1840,
+     "r6"
+    ],
+    [
+     816,
+     1816,
+     822,
+     1839,
+     "r6"
+    ],
+    [
+     876,
+     1816,
+     892,
+     1840,
+     "r6"
+    ],
+    [
+     1231,
+     1818,
+     1248,
+     1842,
+     "r6"
+    ],
+    [
+     1288,
+     1818,
+     1295,
+     1843,
+     "r6"
+    ],
+    [
+     1299,
+     1818,
+     1316,
+     1843,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 263,
+    "y0": 1812,
+    "x1": 1697,
+    "y1": 2162
+   },
+   "text": "There is every reason why colored tenement property should be managed by Negro agents. From them, the tenant may be certain of receiving more real interest, sympathy and respect. Were the Negroes to demand it to-day, at least 90 per cent. of the colored tenements in this city could be controlled by agents of their own race. This would not only be of benefit to the tenant but to the entire race.\n\nTell your landlord that you prefer to have your rent collected by a Negro agent. In this manner you will be aiding your people in their struggle for commercial advancement. You owe it to your race to do this.\n\nDESIRABLE APARTMENTS FOR DESIRABLE TENANTS",
+   "status": "ok",
+   "confidence": 0.9656623005867004,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 262,
+    "y0": 1814,
+    "x1": 1696,
+    "y1": 2159
+   },
+   "exclude": [
+    [
+     266,
+     1784,
+     281,
+     1815,
+     "r5"
+    ],
+    [
+     502,
+     1788,
+     516,
+     1814,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "title",
+   "bbox": {
+    "x0": 324,
+    "y0": 2203,
+    "x1": 1607,
+    "y1": 2317
+   },
+   "text": "Philip A. Payton, Jr., Company",
+   "status": "ok",
+   "confidence": 0.8806732296943665,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 320,
+    "y0": 2195,
+    "x1": 1609,
+    "y1": 2312
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 429,
+    "y0": 2350,
+    "x1": 1528,
+    "y1": 2478
+   },
+   "text": "New York's Pioneer Negro Real Estate Agents BROKERS-APPRAISERS",
+   "status": "ok",
+   "confidence": 0.8887824416160583,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 420,
+    "y0": 2343,
+    "x1": 1533,
+    "y1": 2481
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 256,
+    "y0": 2523,
+    "x1": 1701,
+    "y1": 2647
+   },
+   "text": "67 West 134th St., New York City TELEPHONES 917-918 HARLEM",
+   "status": "ok",
+   "confidence": 0.8050410747528076,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 256,
+    "y0": 2515,
+    "x1": 1704,
+    "y1": 2650
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 3,
+  "log": []
+ }
+}

@@ -1,0 +1,155 @@
+{
+  "page": 28,
+  "image": "images/page_28.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 615,
+        "y0": 116,
+        "x1": 805,
+        "y1": 146
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8609196543693542,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 187,
+        "y0": 116,
+        "x1": 223,
+        "y1": 143
+      },
+      "text": "28",
+      "status": "ok",
+      "confidence": 0.830586314201355,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 185,
+        "y0": 184,
+        "x1": 694,
+        "y1": 778
+      },
+      "text": "rant case of lawbreaking, and if it will allow no withdrawal of constitutional rights to pass unchallenged it will perform a most useful service to America, and for the advancement of all its races.\" Indeed, the difficulty which confronts the Association is not in finding work to do, but in knowing what to pick and choose with due regard to its means, and where first to apply the Association's energies. But this difficulty of choice has not confronted it in the matter of urging a civic headquarters for Negro organizations in New York City, in which matter it is cooperating with the local association with excellent chances of obtaining practical results at an early date; nor has it prevented the outlining of the policies already described. How rapidly these shall be pressed home to the conscience of the people rests primarily with the members of this Association and the means placed at its disposal.",
+      "status": "ok",
+      "confidence": 0.9608514904975891,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 188,
+        "y0": 798,
+        "x1": 693,
+        "y1": 1310
+      },
+      "text": "VIOLATIONS OF PROPERTY RIGHTS.\nBy W. E. BURGHARDT DuBOIS, Director of Publicity and Research.\nF EW people who argue about the race problem know how that problem changes. Within the last twenty years this change has been so great that many fail to realize it, or if they do realize it more or less vaguely, they are puzzled at its new outcroppings. It seems to them as though this human difficulty was continually developing new and unexpected centers of trouble. As a matter of fact, however, what we have to-day might easily have been foreseen twenty years ago. We are having a change in the problem, but the change is logical and represents a more or less regular development.",
+      "status": "ok",
+      "confidence": 0.9760493040084839,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 188,
+        "y0": 1313,
+        "x1": 693,
+        "y1": 1706
+      },
+      "text": "To illustrate this let us remember what the argument against the Negro was in slavery days. It was said that he was an indolent tropical being who would not work without being driven and that it was utterly impossible that he should become a self-directing worker and work with initiative and a decent standard of life, and that if he were allowed to go free he would become a pauper or criminal, and very soon be extinct. This argument was thoroughly believed in by the mass of the best Southern people, and it undoubtedly did much to hold their hands back from all schemes of emancipation.",
+      "status": "ok",
+      "confidence": 0.9795193672180176,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 188,
+        "y0": 1707,
+        "x1": 694,
+        "y1": 1932
+      },
+      "text": "After the war the South and its friends hastened to point out that exactly what they foretold was happening. Their accusation against the Negro race was inborn laziness, and most superficial students of the Negro problem have seen what they think is ocular evidence of this laziness; the loafing about depots of Southern railway stations, the unre-",
+      "status": "ok",
+      "confidence": 0.975382924079895,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 730,
+        "y0": 180,
+        "x1": 1240,
+        "y1": 407
+      },
+      "text": "liability of Negro help, etc. So that from emancipation for a period of perhaps ten or twenty years the argument against the Negro in this country took this form: The Negro is lazy and is relapsing into barbarism, the young folks born during and since slavery are utterly worthless, and the better slaves of the old régime are going to disappear.",
+      "status": "ok",
+      "confidence": 0.9756712913513184,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 729,
+        "y0": 406,
+        "x1": 1238,
+        "y1": 973
+      },
+      "text": "There was some truth in these assertions, but friends of the black man pointed out that a sudden revolution had taken place in the economic and social relations of these men; that they had been taught laziness both by the tropical climate of their forefathers' home and by slavery, and that the only real present dangers were the hindrances which race prejudice was putting in their way. Gradually in the last fifteen or twenty years an answer to this argument was evolved. It was frankly admitted that there was prejudice and intense prejudice in social relations, but that this prejudice had absolutely nothing to do with the Negro as a workingman, and that consequently the argument of prejudice was outside of the question; that it was simply a matter of laziness and was to be cured by thrift. The Negro people were told, therefore, to work hard and regularly, and save their money.",
+      "status": "ok",
+      "confidence": 0.9797719717025757,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 729,
+        "y0": 974,
+        "x1": 1238,
+        "y1": 1314
+      },
+      "text": "In this later argument, again, there was a tremendous amount of truth. Certainly the first thing that a freedman must learn is regular habits and labor. He has been taught by slavery that labor is a badge of serfdom. He must teach himself that labor is a necessity of life. Moreover, under the slave régime money was an infrequent commodity which was immediately to be spent; while under the responsibilities of a free labor system it must be accumulated in small lots and very carefully guarded and saved.",
+      "status": "ok",
+      "confidence": 0.9784078001976013,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 727,
+        "y0": 1316,
+        "x1": 1239,
+        "y1": 1935
+      },
+      "text": "While, however, this argument was strong and an argument that ought to have been made, it was not the argument that should have utterly displaced the insistence upon the evil of race prejudice. It was not too much to have asked intelligent people to foresee that race prejudice in the United States was going to hinder Negroes in getting work, and keep down their wages, and make it difficult for them to develop habits of thrift and to save. While on the one hand it was necessary, and imperatively necessary, that work and thrift should be insisted upon so far as Negroes were concerned, just as careful and widespread a campaign should have been carried on to see that the way before the faltering feet of the freedman was clear of hurtful and deadening prejudice. This necessity was not only not attended to but was even forgotten. The public have in later years come to be impatient of hearing about prejudice. They call it dwelling on the unpleasant side. They ask social students",
+      "status": "ok",
+      "confidence": 0.979282557964325,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.2,
+    "at": "2026-10-06T21:42:02+00:00"
+  }
+}

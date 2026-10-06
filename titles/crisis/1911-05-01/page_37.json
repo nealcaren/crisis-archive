@@ -1,0 +1,183 @@
+{
+  "page": 37,
+  "image": "images/page_37.jpg",
+  "width": 1374,
+  "height": 2081,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 300,
+        "y0": 128,
+        "x1": 957,
+        "y1": 163
+      },
+      "text": "THE MANUFACTURE OF PREJUDICE",
+      "status": "ok",
+      "confidence": 0.8394805192947388,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 643,
+        "y0": 194,
+        "x1": 1149,
+        "y1": 575
+      },
+      "text": "Chapter II.—The Truth.\nThe N. A. A. C. P. sent a special investigator, Mr. Harold Phelps Stokes, to the spot. His report begins:\n\"Some of the 'facts' given in the first paragraph deserve notice. The 'mob of armed Negroes' consisted of three men, one white. The innocent 'crowd of spectators' was composed of the worst white roughs in town, all armed and ready for a fight. The 'volley of bullets and buckshot' consisted of three shots. George Hudson, the man fatally injured by this attack, was actually shot some time later by a white boy.\"",
+      "status": "ok",
+      "confidence": 0.9764150381088257,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 108,
+        "y0": 199,
+        "x1": 613,
+        "y1": 349
+      },
+      "text": "has been no occasion for any action with regard to her, or the colored students, but the student who so violated the usages of the school and who has been guilty of other disorderly conduct, has been excluded from the classes.",
+      "status": "ok",
+      "confidence": 0.8343521952629089,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure",
+      "bbox": {
+        "x0": 108,
+        "y0": 352,
+        "x1": 618,
+        "y1": 943
+      },
+      "text": "\"W. M. R. FRENCH, Director.\n\"N. H. CARPENTER, Secretary.\"\n\nPART III.—THE LAUREL MOB.\nChapter I.—The Lie.\n\nARMED NEGROES\nFIRE ON WHITES\n\nOne Man Dead and Three\nHurt in Race Riot.\n\nBATTLE IN CITY STREETS\n\nLights Put Out in Laurel, Delaware,\nWhile Blacks Continue\nTheir Attack.",
+      "status": "ok",
+      "confidence": 0.5789868831634521,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 648,
+        "y0": 614,
+        "x1": 1151,
+        "y1": 1184
+      },
+      "text": "\"The riot and disorder at Laurel last Saturday night was the result of political disappointment at the well-laid plans to get Republicans into trouble through corrupt swearing on the part of disreputable tools against men of probity and substance. The man killed was one of the worst characters in the lower class of Laurel, which reflected the inflamed opinions of those who are supposed to be higher up. The Negroes were not the instigators of the trouble; it all grew out of the drunken orgies of a low class which the town government of Laurel has permitted to disgrace her streets, and by such condonement finally brought about murder and riot. It is time for the people of all communities, and especially Laurel, to strike with a strong fist the disorderly element, even if that class have to be shot down on sight to enforce the laws.\"—Milford (Del.) Chronicle.",
+      "status": "ok",
+      "confidence": 0.9781680703163147,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 115,
+        "y0": 971,
+        "x1": 622,
+        "y1": 1365
+      },
+      "text": "\"Seaford, Del., April 2.—The frequent disorders and uprisings which have prevailed among the Laurel colored inhabitants for the last two months resulted in a fierce outbreak last night, when, without an instant's warning, a mob of armed Negroes swooped down upon a crowd of spectators who were standing in a public thoroughfare, and fired a volley of bullets and buckshot into the crowd. One man fell mortally hurt and others were wounded. Then followed a fierce struggle between the two races, and before the colored crowd was routed more than 1,500 shots had been fired.\"—N. Y. Press, April 3.",
+      "status": "ok",
+      "confidence": 0.963355541229248,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 643,
+        "y0": 1217,
+        "x1": 1163,
+        "y1": 1630
+      },
+      "text": "\"As reporter and staff official, I have had occasion to examine a score of so-called 'race riots' down in Delaware. In every case the Negroes were not the aggressors.\"—Charles E. Gray, a white Delaware reporter.",
+      "status": "ok",
+      "confidence": 0.7870162129402161,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 108,
+        "y0": 1365,
+        "x1": 624,
+        "y1": 1666
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 270,
+        "y0": 1473,
+        "x1": 996,
+        "y1": 1554
+      },
+      "text": "WHAT TO READ",
+      "status": "ok",
+      "confidence": 0.541706383228302,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 108,
+        "y0": 1628,
+        "x1": 624,
+        "y1": 2061
+      },
+      "text": "\"Abraham Lincoln, by Some Men Who Knew Him; Being Personal Recollections of Judge Owen T. Reeves, Hon. J. S. Ewing, Col. R. P. Morgan, Judge Franklin Blades and J. W. Bunn, with Introduction by Hon. I. N. Phillips.\" Bloomington (Ill.) Pantagraph Company.\n\nBigelow, Melville M.—\"False Equation.\" Little.",
+      "status": "ok",
+      "confidence": 0.8446663022041321,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 643,
+        "y0": 1630,
+        "x1": 1163,
+        "y1": 2061
+      },
+      "text": "\"A discussion of the departure of the State from the great trust charged upon it in regard to equality, and suggestions for a remedy.\"\n\nBloomfield, Meyer — \"The Vocational Guidance of Youth.\" Houghton, Mifflin & Company.\n\nBrown, William Adams—\"Morris K. Jesup; a Character Sketch.\" Scribner.\n\nThe Outlook says of this book that",
+      "status": "ok",
+      "confidence": 0.5631011128425598,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1112,
+        "y0": 127,
+        "x1": 1147,
+        "y1": 153
+      },
+      "text": "37",
+      "status": "ok",
+      "confidence": 0.8083611726760864,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.0,
+    "at": "2026-10-06T21:43:28+00:00"
+  }
+}

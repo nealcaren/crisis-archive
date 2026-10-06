@@ -1,0 +1,208 @@
+{
+ "page": 8,
+ "image": "images/page_08.jpg",
+ "width": 1078,
+ "height": 1606,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 12.1,
+  "at": "2026-10-06T20:56:11+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 146,
+    "y0": 99,
+    "x1": 162,
+    "y1": 121
+   },
+   "text": "8",
+   "status": "ok",
+   "confidence": 0.7927414774894714,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 145,
+    "y0": 99,
+    "x1": 161,
+    "y1": 118
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 483,
+    "y0": 101,
+    "x1": 631,
+    "y1": 125
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.6728452444076538,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 480,
+    "y0": 99,
+    "x1": 630,
+    "y1": 125
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 144,
+    "y0": 153,
+    "x1": 543,
+    "y1": 638
+   },
+   "text": "Minn., said: \"The condition of American education to-day is in many respects a national reproach. In no other nation claiming to be civilized is there at the present time so large a population in such educational degradation as the American Negro. \"If there is any situation in our present society for which the nation as a whole is responsible, surely the condition of the American Negro is such. The establishment of slavery was brought about by the co-operation of North and South alike. The continuance of slavery was recognized and supported by the Constitution and the law, and upon the abolition of slavery the American Negro was in reality, and should have been in fact, a national ward.\" The buildings of the colored Berea are finally in course of erection in Shelby County, Ky. They will cost $100,000 and be placed upon a five-hundred acre farm. The school will be known as Lincoln Institute.",
+   "status": "ok",
+   "confidence": 0.9722402095794678,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 143,
+    "y0": 151,
+    "x1": 541,
+    "y1": 638
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 146,
+    "y0": 662,
+    "x1": 546,
+    "y1": 1261
+   },
+   "text": "Mason A. Hawkins, principal of the Baltimore Colored High School, was granted the degree of Master of Arts at Columbia University in October. Mr. Hawkins is a graduate of Harvard.\n\nIn the New Mexico Constitutional Convention the question of separate schools for whites and Negroes was threshed out before the Committee on Education. The view finally prevailed that this matter need not be covered by the Constitution, and should be left to each school district for decision, with this proviso, however, that the Constitution provide that no separate schools should be maintained for reasons of language, nationality or religion.\n\nThe colored people of New Orleans are trying to get the city to provide them with a night school.\n\nThe whites of Baltimore are protesting against the location of a new Negro school.\n\nVirginia gives $20,000 a year to support the Colored Normal and Industrial Institute at Petersburg. The students add $24,000 to this. There are nearly 600 students in attendance this year.",
+   "status": "ok",
+   "confidence": 0.9726625084877014,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 144,
+    "y0": 660,
+    "x1": 545,
+    "y1": 1259
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 149,
+    "y0": 1282,
+    "x1": 547,
+    "y1": 1519
+   },
+   "text": "The trustees of the Peabody Fund are still trying to wind up its affairs and divide the money. Some of the capital has been lost through the repudiation of Southern State bonds. Negro institutions ought to be the beneficiaries, as they have received comparatively little from the Fund.\n\nThe Alabama Educational Association (white) has come out against compulsory education.",
+   "status": "ok",
+   "confidence": 0.9647348523139954,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 147,
+    "y0": 1280,
+    "x1": 546,
+    "y1": 1519
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 567,
+    "y0": 151,
+    "x1": 971,
+    "y1": 725
+   },
+   "text": "A protest has been sent to the Southern Educational Board on the attitude of the Board toward Negro education.\n\nTHE CHURCH.\nSt. Thomas Church, Philadelphia, celebrated its 164th anniversary November 8th.\n\nThe American Missionary Association reports the following schools in the South:\nEDUCATIONAL WORK IN THE SOUTH\nSCHOOLS\nNegro. White. Total.\nTheological 3 1 4\nColleges 3 1 4\nSecondary Institutions 25 3 28\nElementary Institutions 9 3 12\nAffiliated Institutions 6 6\nUngraded Schools 23 23\nOfficers and Instructors 507 84 591\nPupils 13,449 1,777 15,226\nBoarding Students 2,107 427 2,534\nPUPILS\nTheological 133 81 214\nCollegiate 155 21 176\nSecondary Grades 1,974 259 2,233\nElementary Grades 11,038 1,397 12,435\nSpecials 463 71 534\n\nPupils 15,592\nCounted twice 366\n\nTotal 15,226",
+   "status": "ok",
+   "confidence": 0.9279228448867798,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 566,
+    "y0": 151,
+    "x1": 973,
+    "y1": 729
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 569,
+    "y0": 730,
+    "x1": 972,
+    "y1": 1098
+   },
+   "text": "The opening of the Negro Catholic Church in Kansas is the beginning of a $30,000 institution and school.\n\nThrough Bishop Paret's decision, Miss Catherine Philpot, of Baltimore, has won her fight for the burial in the churchyard of St. James' Episcopal Church, at My Lady's Manor, in Baltimore County, of Charles Ridout, an aged Negro, for forty years a servant in her family. As a result of the peculiar contest the congregation of the church is divided.\n\nIn the Episcopal convention, Rev. Joseph Dunn, of Southern Virginia, declared that the emancipation of the Negroes was a dire disaster, and that the Church, by this act, has 45 years of misguidance to undo.",
+   "status": "ok",
+   "confidence": 0.9578490257263184,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 567,
+    "y0": 729,
+    "x1": 971,
+    "y1": 1096
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 572,
+    "y0": 1104,
+    "x1": 977,
+    "y1": 1522
+   },
+   "text": "At the late Episcopal convention Mr. James H. Dillard, agent of the Jeanes Fund, declared it was dangerous to generalize on any subject connected with Negro life. The race contained many devout and able men who are fully qualified, he believed, to be the spiritual leaders of their people in the episcopate. He frankly admitted in effect that the proposed plan, of racial bishops, would result in the ecclesiastical segregation of Negro churchmen, but he justified this by pointing to the strong tendency to segregation now taking place in everyday life. In some States whole counties are becoming exclusively Negro counties. Segregation is not necessarily un-Christian. It may be accompanied by abundant good will. Not only is the racial episcopate in line with the tendency to segregate, but it seems the only way out and the Negro wants it, therefore he would give it.",
+   "status": "ok",
+   "confidence": 0.9746720790863037,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 570,
+    "y0": 1110,
+    "x1": 973,
+    "y1": 1520
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.33,
+  "box_overlaps_after": 0,
+  "log": []
+ }
+}

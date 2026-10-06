@@ -1,0 +1,469 @@
+{
+ "page": 9,
+ "image": "images/page_09.jpg",
+ "width": 1082,
+ "height": 1608,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 12.0,
+  "at": "2026-10-06T20:56:23+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 327,
+    "y0": 94,
+    "x1": 671,
+    "y1": 118
+   },
+   "text": "ALONG THE COLOR LINE",
+   "status": "ok",
+   "confidence": 0.8749099969863892,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 329,
+    "y0": 93,
+    "x1": 671,
+    "y1": 118
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 513,
+    "y0": 144,
+    "x1": 909,
+    "y1": 325
+   },
+   "text": "York City. These buildings contain 127 apartments, and when they were opened to receive tenants on Monday, October 24, 90 families were waiting to move in, and in four days more every apartment was rented with the exception of two. This shows the great opportunity there is at the present time for building model tenements for colored people in this city.",
+   "status": "ok",
+   "confidence": 0.9703006148338318,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 513,
+    "y0": 143,
+    "x1": 907,
+    "y1": 319
+   },
+   "exclude": [
+    [
+     534,
+     320,
+     547,
+     335,
+     "r3"
+    ],
+    [
+     549,
+     321,
+     557,
+     335,
+     "r3"
+    ],
+    [
+     578,
+     321,
+     590,
+     336,
+     "r3"
+    ],
+    [
+     644,
+     321,
+     653,
+     335,
+     "r3"
+    ],
+    [
+     668,
+     321,
+     674,
+     325,
+     "r3"
+    ],
+    [
+     717,
+     321,
+     720,
+     336,
+     "r3"
+    ],
+    [
+     758,
+     321,
+     770,
+     336,
+     "r3"
+    ],
+    [
+     826,
+     321,
+     838,
+     336,
+     "r3"
+    ],
+    [
+     664,
+     322,
+     674,
+     336,
+     "r3"
+    ],
+    [
+     687,
+     322,
+     696,
+     336,
+     "r3"
+    ],
+    [
+     597,
+     324,
+     601,
+     335,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 91,
+    "y0": 175,
+    "x1": 487,
+    "y1": 312
+   },
+   "text": "In Kansas City the fine $5,000 new residence of Mathew Anderson, colored, which was nearing completion, was wrecked by dynamite a few nights ago. The whites of the community seem to have been jealous of this colored man's being able to build a good home and caused it to be blown up.",
+   "status": "ok",
+   "confidence": 0.9690356254577637,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 90,
+    "y0": 173,
+    "x1": 486,
+    "y1": 309
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 514,
+    "y0": 318,
+    "x1": 909,
+    "y1": 588
+   },
+   "text": "The City and Suburban Homes Company has already had an experience of ten years with colored families as tenants in its West Sixty-second street property, and as manager of the Phipps houses for colored people in West Sixty-third street. Both of these investments have furnished a most satisfactory record. The colored tenants in both buildings have shown themselves to be excellent tenants, quite as orderly, cleanly and prompt in the payment of rent as the company's white tenants. During one year there has not been a single dispossession for disorderly conduct.",
+   "status": "ok",
+   "confidence": 0.9727296829223633,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 513,
+    "y0": 319,
+    "x1": 907,
+    "y1": 585
+   },
+   "exclude": [
+    [
+     591,
+     307,
+     599,
+     323,
+     "r1"
+    ],
+    [
+     621,
+     307,
+     629,
+     320,
+     "r1"
+    ],
+    [
+     748,
+     307,
+     757,
+     320,
+     "r1"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 91,
+    "y0": 335,
+    "x1": 489,
+    "y1": 806
+   },
+   "text": "In St. Louis Samuel Gompers, president of the American Federation of Labor, made a speech variously reported, but certainly discouraging the taking of Negroes into labor unions. In a telegram to THE CRISIS Mr. Gompers denies saying anything \"derogatory to the race.\"\n\nThe fight to segregate Negroes in Baltimore is still under consideration in the City Council. The proposed measure does not apply to servants.\n\nIn St. Paul, Minn., a colored man, Dr. Hector J. Bell, Sixth street, dentist, has just turned over four pieces of city property, valued at $24,100, as part payment on $40,000 worth of Montana farm lands. Dr. Bell disposed in this trade of his duplex house on Lincoln avenue, at $12,000. This is in the heart of the white aristocracy district, and last year when he put colored tenants in it there was almost a race war caused.",
+   "status": "ok",
+   "confidence": 0.9699611067771912,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 90,
+    "y0": 333,
+    "x1": 488,
+    "y1": 806
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 513,
+    "y0": 594,
+    "x1": 909,
+    "y1": 930
+   },
+   "text": "The assessors of Richmond, Va., report property to the value of $2,500,000 owned in the city by colored people.\n\nThe Governor of Kansas is investigating the case of George N. Williams, a colored man. Williams charges that the citizens of Pratt refuse to permit him to move into a residence he has bought; that they warned him not to move in and that when they thought he was moving in they shot his house full of rifle slugs. It is countercharged by Pratt people that Williams and another man went into a deal to make a thousand dollars on the price of the property because of the prejudice against Negroes in that particular locality.",
+   "status": "ok",
+   "confidence": 0.9737304449081421,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 513,
+    "y0": 602,
+    "x1": 907,
+    "y1": 926
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 92,
+    "y0": 829,
+    "x1": 490,
+    "y1": 1100
+   },
+   "text": "In the New York custom service there are 234 colored employees, drawing $35,000 a year. In the Internal Revenue Service in New York there are the following colored men: One Collector of Internal Revenue, $4,500 a year; one Examiner of Corporations, $3,500 per year; one United States Internal Revenue Gauger, $1,400 per year; one Division Deputy Collector, $1,400 per year; one Office Deputy, $1,200 per year; one Stamp Deputy, $1,200 per year; one Stenographer, $1,200 per year; one Corporation Deputy, $900 per year; one Messenger Clerk, $900 per year.",
+   "status": "ok",
+   "confidence": 0.9726253747940063,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 91,
+    "y0": 827,
+    "x1": 487,
+    "y1": 1097
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 512,
+    "y0": 982,
+    "x1": 907,
+    "y1": 1315
+   },
+   "text": "A good deal is being done in the Washington colored schools to encourage athletics. Spaulding has issued a handbook on the subject, giving the reports of the performers in these and allied schools.\n\nMr. Tom Bass, a Missouri colored man, has an international reputation as a horse trainer. Among his prized possessions is a personal letter from Queen Victoria inviting Mr. Bass to bring his favorite horse to the royal horse show held in London. Bass has more than 1,000 \"blue ribbons,\" several hundred \"red\" ones and more than a dozen silver loving cups which he won in various parts of the United States, Canada and Mexico on horses that he has trained.",
+   "status": "ok",
+   "confidence": 0.9670336842536926,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 511,
+    "y0": 980,
+    "x1": 905,
+    "y1": 1315
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 91,
+    "y0": 1104,
+    "x1": 489,
+    "y1": 1384
+   },
+   "text": "Fifty white Atlanta real estate men have entered into an agreement not to rent or sell property to Negroes within the limits prescribed by the Fourth Ward Progressive Club. There has been a meeting between the Mayor and several representative colored citizens on the subject.\n\nThe colored True Reformers' Bank of Richmond, Va., has failed, with $350,000 liabilities, and the Galilean Bank of Hampton Va., is said to be insolvent. It is hoped that the insurance department of the True Reformers may be saved from the wreck.",
+   "status": "ok",
+   "confidence": 0.9619094133377075,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 1113,
+    "x1": 489,
+    "y1": 1381
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 511,
+    "y0": 1337,
+    "x1": 907,
+    "y1": 1437
+   },
+   "text": "Mr. Booker T. Washington has called together a number of his friends to organize a semi-centennial exposition for the Negro, to be held at Tuskegee; $10,000 has been contributed for the preliminary plans.",
+   "status": "ok",
+   "confidence": 0.9397070407867432,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 509,
+    "y0": 1335,
+    "x1": 905,
+    "y1": 1435
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 91,
+    "y0": 1388,
+    "x1": 488,
+    "y1": 1497
+   },
+   "text": "An interesting incident occurred a few days ago at the opening of The Hampton, the City and Suburban Homes Company's new model tenements for colored people at No. 210 West Sixty-third Street, New",
+   "status": "ok",
+   "confidence": 0.9430141448974609,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 1398,
+    "x1": 487,
+    "y1": 1496
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 512,
+    "y0": 1456,
+    "x1": 907,
+    "y1": 1498
+   },
+   "text": "The Fourth Annual Colored State Fair has been held in Georgia.",
+   "status": "ok",
+   "confidence": 0.876981258392334,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 510,
+    "y0": 1454,
+    "x1": 905,
+    "y1": 1496
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "title",
+   "bbox": {
+    "x0": 227,
+    "y0": 148,
+    "x1": 353,
+    "y1": 167
+   },
+   "text": "ECONOMIC.",
+   "status": "ok",
+   "confidence": 0.8915354013442993,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 226,
+    "y0": 145,
+    "x1": 350,
+    "y1": 167
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "abandon",
+   "bbox": {
+    "x0": 893,
+    "y0": 92,
+    "x1": 909,
+    "y1": 114
+   },
+   "text": "9",
+   "status": "ok",
+   "confidence": 0.7652451395988464,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 893,
+    "y0": 92,
+    "x1": 907,
+    "y1": 110
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r14",
+   "label": "title",
+   "bbox": {
+    "x0": 622,
+    "y0": 953,
+    "x1": 798,
+    "y1": 974
+   },
+   "text": "SOCIAL UPLIFT.",
+   "status": "ok",
+   "confidence": 0.8892929553985596,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 620,
+    "y0": 950,
+    "x1": 796,
+    "y1": 974
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 15,
+  "regions_after": 15,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.46,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

@@ -1,0 +1,628 @@
+{
+ "page": 7,
+ "image": "images/page_07.jpg",
+ "width": 1888,
+ "height": 2823,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.4,
+  "at": "2026-10-06T20:50:51+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 180,
+    "y0": 168,
+    "x1": 1600,
+    "y1": 407
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.45665842294692993,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 540,
+    "y0": 230,
+    "x1": 1233,
+    "y1": 338
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "OPINION",
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 180,
+    "y0": 443,
+    "x1": 878,
+    "y1": 716
+   },
+   "text": "THE only thing that makes me afraid is what you call the race problem here in America. It's a hard thing to contend with. The colored people should have been educated first, and then gradually emancipated. It was a mistake to set them free untutored and helpless.—Cardinal Logue in the N. Y. Evening Journal.",
+   "status": "ok",
+   "confidence": 0.9729263782501221,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 184,
+    "y0": 440,
+    "x1": 874,
+    "y1": 712
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 918,
+    "y0": 445,
+    "x1": 1601,
+    "y1": 848
+   },
+   "text": "Believing as we do that the whole human family is one brotherhood, without distinction of race, color or creed, and that all of them contribute their share to the sum total of our development and civilization, we are unalterably opposed to any measure that may deprive the least of them of the same privileges and opportunities granted to others. On the face of this ordinance is stamped iniquity, injustice, hypocrisy and special privilege to the few. Property rights are placed above human rights. We stand for human rights first.",
+   "status": "ok",
+   "confidence": 0.9760861396789551,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 919,
+    "y0": 444,
+    "x1": 1597,
+    "y1": 842
+   },
+   "exclude": [
+    [
+     958,
+     847,
+     963,
+     853,
+     "r4"
+    ],
+    [
+     966,
+     847,
+     971,
+     853,
+     "r4"
+    ],
+    [
+     973,
+     847,
+     999,
+     871,
+     "r4"
+    ],
+    [
+     1002,
+     846,
+     1008,
+     871,
+     "r4"
+    ],
+    [
+     1020,
+     846,
+     1034,
+     871,
+     "r4"
+    ],
+    [
+     1082,
+     847,
+     1095,
+     872,
+     "r4"
+    ],
+    [
+     1124,
+     847,
+     1132,
+     871,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 188,
+    "y0": 760,
+    "x1": 876,
+    "y1": 1030
+   },
+   "text": "Probably the new census will show that there are ten millions of Negroes in the United States to-day; that more than one-tenth of our total population is colored. Statesmen, educators and economists realize that this mighty force must be reckoned with soberly; that it must be guided aright or else the consequences to the nation will be catastrophic.—Troy Press.",
+   "status": "ok",
+   "confidence": 0.9715574979782104,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 189,
+    "y0": 757,
+    "x1": 873,
+    "y1": 1027
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 920,
+    "y0": 842,
+    "x1": 1599,
+    "y1": 1209
+   },
+   "text": "\"Although I own property on Druid Hill Avenue and on Lombard Street, the former occupied by colored people, I would rather see my property become absolutely valueless than to see human rights placed below the interests of property.\"\n\nMr. Charles Kemper, secretary of the Socialist party in Baltimore, followed Mr. Levy. He declared the ordinance to be ridiculous and said the whole question was not a racial one, but one of property.",
+   "status": "ok",
+   "confidence": 0.9617311954498291,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 919,
+    "y0": 844,
+    "x1": 1596,
+    "y1": 1204
+   },
+   "exclude": [
+    [
+     958,
+     1207,
+     963,
+     1214,
+     "r6"
+    ],
+    [
+     974,
+     1207,
+     997,
+     1231,
+     "r6"
+    ],
+    [
+     999,
+     1207,
+     1012,
+     1231,
+     "r6"
+    ],
+    [
+     1075,
+     1207,
+     1081,
+     1231,
+     "r6"
+    ],
+    [
+     967,
+     1208,
+     972,
+     1214,
+     "r6"
+    ],
+    [
+     1124,
+     1208,
+     1139,
+     1232,
+     "r6"
+    ],
+    [
+     1231,
+     1208,
+     1245,
+     1232,
+     "r6"
+    ],
+    [
+     1291,
+     1208,
+     1305,
+     1232,
+     "r6"
+    ],
+    [
+     1049,
+     825,
+     1061,
+     844,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 188,
+    "y0": 1073,
+    "x1": 876,
+    "y1": 1372
+   },
+   "text": "What is the Democratic oligarchy doing in educating the white masses in the South to-day? For example, let us investigate the conditions in Alabama. There were, at the taking of the census of 1900, 731,599 children of from five to twenty years of age, inclusive, in this state. The total school enrollment in Alabama, as shown in the report of the department of education for 1906-7, was 386,478.",
+   "status": "ok",
+   "confidence": 0.9738032221794128,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 190,
+    "y0": 1071,
+    "x1": 874,
+    "y1": 1369
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 920,
+    "y0": 1203,
+    "x1": 1599,
+    "y1": 1573
+   },
+   "text": "\"The colored man has been paid such a low wage that he has for years been unable to live as well as he wished,\" he said. \"Now that he has become able to improve his living conditions, do you propose to prevent him? The last clause of the ordinance gives the whole measure the lie. It does not prohibit the buying of property by white or black. Do you think you can prevent a man from living in the house that belongs to him?\"—Baltimore Sun, report of hearings on segregation ordinance.",
+   "status": "ok",
+   "confidence": 0.9752113223075867,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 920,
+    "y0": 1205,
+    "x1": 1596,
+    "y1": 1568
+   },
+   "exclude": [
+    [
+     969,
+     1184,
+     984,
+     1205,
+     "r4"
+    ],
+    [
+     1013,
+     1184,
+     1028,
+     1205,
+     "r4"
+    ],
+    [
+     1064,
+     1184,
+     1078,
+     1205,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 189,
+    "y0": 1368,
+    "x1": 878,
+    "y1": 1741
+   },
+   "text": "Of those enrolled, and this does not imply average attendance, there were 258,998 white children. There were, therefore, 133,618 white children who did not even so much as enroll, inasmuch as there were 392,616 white children of school age in Alabama in 1900. Of the 338,980 Negro children of school age there was an enrollment of 127,480, leaving just 111,500 Negro children without the experience of a school enrollment.—Joseph Manning in the Original Rights Magazine.",
+   "status": "ok",
+   "confidence": 0.973254382610321,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 191,
+    "y0": 1370,
+    "x1": 874,
+    "y1": 1735
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 920,
+    "y0": 1607,
+    "x1": 1599,
+    "y1": 1941
+   },
+   "text": "To the Editor of The Evening Sun: On behalf of our glorious sons and sires, on behalf of our virtuous wives and daughters, on behalf of that dominant and peerless race nurtured and reared upon the sacred soil of \"Maryland, my Maryland,\" I protest, in the name of white supremacy and white manhood, against the false and dishonoring sentiment \"that it is no humiliation nor disgrace to live next door to a Negro!\"—Baltimore Sun.",
+   "status": "ok",
+   "confidence": 0.9712613224983215,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 919,
+    "y0": 1605,
+    "x1": 1597,
+    "y1": 1937
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 190,
+    "y0": 1777,
+    "x1": 876,
+    "y1": 1983
+   },
+   "text": "The Negro who is trained to work with his hands, to become industrious, to own property and to acquire a \"stake in the country,\" has been presented with an insurance policy against vagrancy and its product—crime.—Atlanta Constitution.",
+   "status": "ok",
+   "confidence": 0.9629133939743042,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 189,
+    "y0": 1777,
+    "x1": 874,
+    "y1": 1982
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 917,
+    "y0": 1985,
+    "x1": 1600,
+    "y1": 2514
+   },
+   "text": "The concentration of Negroes in back alleys and elsewhere in the choice residential districts has been the result of innumerable causes, the poverty following the war, the long years of depression and the great age of the town, but now that we are engaged in magnificent public enterprises for the beautification of the city, such as the construction of the Boulevard, it behooves us to take thought for the reclamation of entire residential sections. The segregation of the races is quite as desirable in Charleston as in Baltimore. The latter fights to prevent the encroachment of the one race on the other. Our fight should be to correct what is already an evil of long standing.—Charleston (S. C.) News and Courier.",
+   "status": "ok",
+   "confidence": 0.9740251898765564,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 918,
+    "y0": 1983,
+    "x1": 1598,
+    "y1": 2513
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 189,
+    "y0": 2015,
+    "x1": 876,
+    "y1": 2359
+   },
+   "text": "A colored man said in regard to the Baltimore segregation ordinance: \"This ordinance will keep the colored citizens in the alleys and put the race back where it was 40 years ago. The streets that have been conceded to the colored people have been Biddle Street, Druid Hill Avenue, Etting Street, Division Street and Argyle Avenue. How can you get 100,000 intelligent colored citizens into this small area?\"",
+   "status": "ok",
+   "confidence": 0.9622560739517212,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 189,
+    "y0": 2016,
+    "x1": 872,
+    "y1": 2354
+   },
+   "exclude": [
+    [
+     762,
+     2353,
+     778,
+     2378,
+     "r12"
+    ],
+    [
+     835,
+     2352,
+     841,
+     2376,
+     "r12"
+    ],
+    [
+     846,
+     2353,
+     849,
+     2357,
+     "r12"
+    ],
+    [
+     717,
+     2354,
+     730,
+     2378,
+     "r12"
+    ],
+    [
+     813,
+     2354,
+     816,
+     2357,
+     "r12"
+    ],
+    [
+     654,
+     2356,
+     657,
+     2360,
+     "r12"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 186,
+    "y0": 2348,
+    "x1": 874,
+    "y1": 2527
+   },
+   "text": "Mr. Jacob M. Levy, representing the Socialist party, spoke next, saying the party protested against any measure that would prohibit a man of any race or color from changing his environment. He said:",
+   "status": "ok",
+   "confidence": 0.961552619934082,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 186,
+    "y0": 2353,
+    "x1": 872,
+    "y1": 2525
+   },
+   "exclude": [
+    [
+     304,
+     2329,
+     310,
+     2353,
+     "r11"
+    ],
+    [
+     314,
+     2329,
+     320,
+     2353,
+     "r11"
+    ],
+    [
+     202,
+     2331,
+     216,
+     2355,
+     "r11"
+    ],
+    [
+     194,
+     2338,
+     200,
+     2355,
+     "r11"
+    ],
+    [
+     337,
+     2338,
+     350,
+     2352,
+     "r11"
+    ],
+    [
+     353,
+     2338,
+     362,
+     2352,
+     "r11"
+    ],
+    [
+     364,
+     2338,
+     376,
+     2351,
+     "r11"
+    ],
+    [
+     379,
+     2338,
+     392,
+     2351,
+     "r11"
+    ],
+    [
+     227,
+     2341,
+     237,
+     2355,
+     "r11"
+    ],
+    [
+     254,
+     2341,
+     263,
+     2354,
+     "r11"
+    ],
+    [
+     264,
+     2340,
+     286,
+     2354,
+     "r11"
+    ],
+    [
+     289,
+     2340,
+     302,
+     2353,
+     "r11"
+    ],
+    [
+     219,
+     2342,
+     224,
+     2355,
+     "r11"
+    ],
+    [
+     400,
+     2346,
+     404,
+     2350,
+     "r11"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "abandon",
+   "bbox": {
+    "x0": 874,
+    "y0": 2537,
+    "x1": 898,
+    "y1": 2576
+   },
+   "text": "7",
+   "status": "ok",
+   "confidence": 0.7723633050918579,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 872,
+    "y0": 2536,
+    "x1": 897,
+    "y1": 2572
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 14,
+  "regions_after": 14,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 2.7,
+  "box_overlaps_after": 4,
+  "log": [
+   "reshape r0 (title): lost 0% of its ink, gained 72%",
+   "reread r0: 'OPINION' -> 'OPINION'"
+  ]
+ }
+}

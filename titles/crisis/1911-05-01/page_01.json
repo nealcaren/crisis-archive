@@ -1,0 +1,71 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 65,
+        "y0": 29,
+        "x1": 1248,
+        "y1": 84
+      },
+      "text": "ANNUAL CONFERENCE NUMBER",
+      "status": "ok",
+      "confidence": 0.22606104612350464,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 61,
+        "y0": 91,
+        "x1": 1249,
+        "y1": 1600
+      },
+      "text": "THE CRISIS\nA RECORD OF THE DARKER RACES\n\nVolume Two\nMAY, 1911\nNumber One\n\nEdited by W. E. BURGHARDT DU BOIS, with the co-operation of Oswald Garrison Villard,\nJ. Max Barber, Charles Edward Russell, Kelly Miller, W. S. Braithwaite and M. D. Maclean.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure",
+      "bbox": {
+        "x0": 173,
+        "y0": 616,
+        "x1": 1128,
+        "y1": 1595
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9652339816093445,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 62,
+        "y0": 1606,
+        "x1": 1249,
+        "y1": 1978
+      },
+      "text": "The Right Reverend James Theodore Holly, First Protestant Episcopal Bishop of Hayti; Born 1829;\nOrdained Priest 1850; Consecrated Bishop 1874, in Grace Church, New York; Died March 22, 1911\n\nPUBLISHED MONTHLY BY THE\nNational Association for the Advancement of Colored People\nAT TWENTY VESEY STREET NEW YORK CITY\n\nONE DOLLAR A YEAR TEN CENTS A COPY\n\nENLARGED TO 44 PAGES—CIRCULATION 10,000",
+      "status": "ok",
+      "confidence": 0.8602167963981628,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.0,
+    "at": "2026-10-06T21:37:21+00:00"
+  }
+}

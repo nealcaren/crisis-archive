@@ -1,0 +1,225 @@
+{
+  "page": 9,
+  "image": "images/page_09.jpg",
+  "width": 1372,
+  "height": 2090,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 414,
+        "y0": 122,
+        "x1": 891,
+        "y1": 154
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8892908096313477,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 669,
+        "y0": 190,
+        "x1": 1174,
+        "y1": 630
+      },
+      "text": "mitted by a \"black, burly Negro.\" The police arrested a colored man, but allowed him to go, as there was no case against him. Upon investigation it was learned that nothing was stolen from the house, that there were no bruises or injuries on the girl from the alleged assault, but that she had lost a ring and some money, which loss she feared would bring reprimand and rebuke from her parents. She thought out the scheme of binding her hands and slipping a handkerchief around her mouth, but made the error of tying an eye bandage over her forehead instead of her eyes. This fact aroused the suspicion of the police, and when openly charged with doing the thing herself she confessed.",
+      "status": "ok",
+      "confidence": 0.975854218006134,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 129,
+        "y0": 190,
+        "x1": 635,
+        "y1": 459
+      },
+      "text": "make it \"awkward and practically impossible\" for any white priest or layman engaged in colored work or desirous of doing this work in the South to serve under a Negro bishop.\n\"What the Negro needs more than anything else, in my judgment,\" said Bishop Guerry, with a somewhat notable lack of humor, \"is the loving guidance and spiritual counsel and help of the white race.\"",
+      "status": "ok",
+      "confidence": 0.9586323499679565,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 130,
+        "y0": 524,
+        "x1": 636,
+        "y1": 745
+      },
+      "text": "The following tale is of a sort rarely told. In Detroit one David Markowitz, proprietor of a small theatre, forcibly ejected a colored ticket holder who took the case to court. Judge Jeffries sat the day of the trial. \"Have you ever been arrested for drawing the color line before?\" asked the judge, before passing sentence.",
+      "status": "ok",
+      "confidence": 0.9654960036277771,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 668,
+        "y0": 701,
+        "x1": 1173,
+        "y1": 800
+      },
+      "text": "Monseigneur Gaughren, Vicar-Apostolic of Kimberley, has issued a letter on the subject of the bill to prohibit marriage between the races. He'says:",
+      "status": "ok",
+      "confidence": 0.9596043825149536,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 130,
+        "y0": 746,
+        "x1": 636,
+        "y1": 865
+      },
+      "text": "\"Yes, your honor,\" said Markowitz; \"I was convicted and fined $25 by Judge Stein for discriminating against colored people, but I appealed it and Judge Connolly threw the case out of court.\"",
+      "status": "ok",
+      "confidence": 0.9518215656280518,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 668,
+        "y0": 804,
+        "x1": 1172,
+        "y1": 1526
+      },
+      "text": "\"While many are agreed that marriages between the white and the black races are, generally speaking, very undesirable, and while we can, therefore, give Mr. Grobler credit for the best of intentions in introducing the prohibitory clauses in the Marriage Bill, nevertheless, in view of the deplorable consequences certain to result from the adoption of this clause, it is the duty of every lover of the country to protest against it, and to oppose it by every legitimate means. The result of a mixed marriage of the kind referred to is, at worst, but a physical evil, while the prohibition will issue in a flood of moral evil incomparably more ruinous and degrading. An effect probably not foreseen by the author of the clause is that it will, if accepted, bring men, whose great desire is to live as dutiful and law-abiding citizens, into conflict with the law. Whatever the new law may enact, it will be the duty of the Catholic clergy, for whom I speak with authority, to bless marriages of the kind referred to, if their people call upon them to do so. They must take the consequences of their opposition to the law of Parliament, in order to be faithful to the law of God.\"",
+      "status": "ok",
+      "confidence": 0.9764255881309509,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 131,
+        "y0": 866,
+        "x1": 635,
+        "y1": 1086
+      },
+      "text": "\"Well, I want you to understand that no discrimination against colored people is allowed by the laws of Michigan. It must be stopped,\" said the judge. \"The only disturbance created in your theatre was created by yourself.\" And Markowitz was fined $10 or ten days in jail, with a warning that another offense would bring a heavier sentence.",
+      "status": "ok",
+      "confidence": 0.9722713232040405,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 131,
+        "y0": 1156,
+        "x1": 637,
+        "y1": 1547
+      },
+      "text": "At the Negro Fellowship meeting in Chicago, of which Mrs. Ida B. Wells-Barnett is the president, an open letter was sent to the Christian Endeavor Union on the evil of lynching. The League calls attention to the fact that a month after the Springfield riot with its \"notorious exhibition of savagery,\" several Christian bodies were in session in that county, and \"did not find anybody to indict for this outrage against human principle and Christianity.\" The League urges the Christian Endeavor Union \"to use some of its powerful influence against these sickening evidences of barbarism and savagery.\"",
+      "status": "ok",
+      "confidence": 0.9674116373062134,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 668,
+        "y0": 1532,
+        "x1": 1177,
+        "y1": 1926
+      },
+      "text": "The next President of Liberia will be Daniel E. Howard, now Secretary of the Treasury. The Vice-president will be Senator S. C. Harmon, of Grand Bassa, a port town about half way down the Liberian coast. The Liberians elect their President in much the manner that prevails in the United States, but they have only one political party and the nomination is the same as an election. Mr. Howard has made a good Secretary of the Treasury, and his experience in financial matters will be much to his advantage in this critical period of Liberia's history. The Vice-president is pre-eminently a business man.",
+      "status": "ok",
+      "confidence": 0.9750297665596008,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 127,
+        "y0": 1551,
+        "x1": 636,
+        "y1": 1928
+      },
+      "text": "McLean County was startled by the arrest of eighteen alleged members of the mob that lynched Will Porter on the stage of the Livermore Opera House on the night of April 12. The Grand Jury, composed of twelve Kentucky farmers, has been at work on the case for a week. It is believed that all the men involved will be arrested. The Lethbridge (Alberta) Daily Herald gives an interesting tale of \"crime\" in Canada. A fifteen-year-old girl was found in the kitchen of her home supposedly bound, gagged and chloroformed. She told a story of assault com-",
+      "status": "ok",
+      "confidence": 0.9533112645149231,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 328,
+        "y0": 492,
+        "x1": 436,
+        "y1": 519
+      },
+      "text": "LEGAL.",
+      "status": "ok",
+      "confidence": 0.8881656527519226,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 331,
+        "y0": 1124,
+        "x1": 436,
+        "y1": 1150
+      },
+      "text": "CRIME.",
+      "status": "ok",
+      "confidence": 0.8963643908500671,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1139,
+        "y0": 125,
+        "x1": 1174,
+        "y1": 152
+      },
+      "text": "53",
+      "status": "ok",
+      "confidence": 0.8310040831565857,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "title",
+      "bbox": {
+        "x0": 861,
+        "y0": 669,
+        "x1": 979,
+        "y1": 696
+      },
+      "text": "AFRICA.",
+      "status": "ok",
+      "confidence": 0.8931049704551697,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.9,
+    "at": "2026-10-06T21:47:58+00:00"
+  }
+}

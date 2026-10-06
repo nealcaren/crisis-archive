@@ -1,0 +1,85 @@
+{
+  "page": 44,
+  "image": "images/page_44.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 179,
+        "y0": 1005,
+        "x1": 1242,
+        "y1": 1531
+      },
+      "text": "ERNST SEWING MACHINE CO.\nOffice, 20 Livingston Ave., Detroit, Mich.\nMAIL ORDER DEPARTMENT\n\nWe are offering to the public the greatest bargain ever known in SEWING MACHINES; ours are made from the best case hardened Bessemer steel, with all of the latest improvements, run lightly, lock stitch, smooth on both sides, and are perfect sewers. We give a set of nickel-plated steel attachments and a written guarantee for ten years with each machine. Join an Ernst Sewing Machine Club of fifteen and get one of our Ernst Specials, the world wonder. To any lady getting up a club for purchasing our machines we will give one of our specials for her trouble. Dressmakers all over the world endorse our machines. We ship all machines direct from the factory to your address. Buy one of ours and save the dealer's and agent's profit. Ours will do the same work as the Singer, Domestic, New Home, or any other, and do not cost as much.\n\nWrite us for our catalog and Club Plans.\n\nErnst Special ... $14.75\nErnst No. 2 ... $17.50\nErnst No. 1 ... 16.00\nAlice Ernst ... 22.50\n\nO. M. Waller, Pres.\nA. M. Thompson, Treas.\nB. C. Waller, M.D., Sec.",
+      "status": "ok",
+      "confidence": 0.9486433267593384,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 228,
+        "y0": 1541,
+        "x1": 1200,
+        "y1": 1929
+      },
+      "text": "Sphinx Labor-Saving Soap Co., Inc.\n\nA NEW AND DIFFERENT SOAP\nCosts Less—Does More\n\nNo Acids; No Potash; No Lime. No More Washboards. No More Backaches.\nEconomical for the Laundry. Cleans from Garret to Cellar.\nBest for Fabrics. Good for the Skin.\nCleans the Hair and Scalp; Removes Dandruff. Renovates Glass, Silverware,\nMarbles, etc. Removes All Stains, Ink, Blood, Iodine and Picric Acid.\n\nAGENTS WANTED EVERYWHERE. VERY LIBERAL COMMISSION. WRITE TO-DAY\nOffice and Factory: 715 Herkimer St., Brooklyn, N. Y.",
+      "status": "ok",
+      "confidence": 0.7803598046302795,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 163,
+        "y0": 116,
+        "x1": 1030,
+        "y1": 987
+      },
+      "text": "1758",
+      "status": "ok",
+      "confidence": 0.9705716371536255,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "abandon",
+      "bbox": {
+        "x0": 584,
+        "y0": 1981,
+        "x1": 812,
+        "y1": 2006
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.8296084403991699,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 1036,
+        "y0": 109,
+        "x1": 1318,
+        "y1": 1967
+      },
+      "text": "A limited number of free beds maintained for the worthy poor.\nOther ward patients maintained at $7.00 per week.\nPrivate rooms can be secured from $12.00 to $30.00 per week.\nThe training school for nurses maintains a two years' course.\nA high school certificate, or an education sufficient to be considered an equivalent, necessary for admission.\nFive thousand dollars endows a free bed.\n\nAndrew F. Stevens,\nPresident.\n\nNathan F. Mossell, M.D.,\nMedical Director and Superintendent.\n\nPhiladelphia, Pa.\n\nAlice Ernst, Sec.\n\nCO.\n\nMACHINES; ours improvements, run set of nickel-plated wire. Join an Ernst and wonder. To any specials for her machines direct from his profit. Ours will not cost as much.\n\n$17.50\n22.50\n\nWaller, M.D., Sec.\n\nBackaches.\nDollar.\n\nSilverware,\nMercuric Acid.\n\nWRITE TO-DAY\nN. Y.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.8,
+    "at": "2026-10-06T21:45:59+00:00"
+  }
+}

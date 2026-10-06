@@ -1,0 +1,131 @@
+{
+ "page": 36,
+ "image": "images/page_36.jpg",
+ "width": 1078,
+ "height": 1606,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 6.4,
+  "at": "2026-10-06T21:01:11+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 151,
+    "y0": 103,
+    "x1": 179,
+    "y1": 125
+   },
+   "text": "36",
+   "status": "ok",
+   "confidence": 0.8204516172409058,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 101,
+    "x1": 178,
+    "y1": 124
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 141,
+    "y0": 104,
+    "x1": 973,
+    "y1": 591
+   },
+   "text": "Does the New York Negro Tenant Pay More Rent Than Any Other Class of Tenant?\n\nEARS ago in New York Negro tenants were only permitted to live, with very few exceptions, in alleys and rear houses that could not be successfully rented to whites. Now and then a landlord for some reason or other, most usually that of revenge for some actual or imagined wrong done him by his neighbor, would throw his house, facing on the street, open to Negro tenants. In such cases his desire for satisfaction never lessened his desire for gain.\n\nIn 1900, when we started out in the real estate business, as the first Negro agents in New York City, making a specialty of the management of colored tenements, rents were lower in the city than they had been in years, as every well-informed real estate man knows. The supply of apartments for white tenants was far in excess of the demand. Notwithstanding this state of affairs, owners preferred to maintain their houses with vacancies and low rents rather than to fill them with Negroes at increased rents, so intense was the prejudice against Negroes as tenants.",
+   "status": "ok",
+   "confidence": 0.9779028296470642,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 144,
+    "y0": 102,
+    "x1": 972,
+    "y1": 589
+   },
+   "exclude": [
+    [
+     153,
+     105,
+     163,
+     123,
+     "r0"
+    ],
+    [
+     165,
+     105,
+     177,
+     123,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 132,
+    "y0": 593,
+    "x1": 965,
+    "y1": 1187
+   },
+   "text": "As an illustration of the conditions that existed, we cannot do better than to cite an actual case. We opened a house for Negro tenants at the end of a row of houses occupied by whites. Naturally, the house immediately adjoining suffered the most. There was a reduction made in the rents for the entire row, notwithstanding that many whites moved; but the most peculiar phase of the whole affair was that it was necessary to rent the apartments on the side of the house adjoining the Negroes at $4.00 per month less than those on the other side of the same house, although the apartments were exactly alike.\n\nNow, then, when the Negro tenants were put in these houses an effort was made to restore the rents to something like what they were before the invasion of Negroes. The Negro, knowing nothing of the continual dropping of rents for whites, due to this event, most naturally concluded that he was paying more rent than was ever paid by the whites.\n\nTo-day the Negro tenant, besides having one of the very finest sections of the city in the neighborhood of West 134th Street and Lenox Avenue, containing over 250 fine flats and private dwellings, also has, due solely to the efforts of Negro agents, West 119th Street, between Eighth and Manhattan Avenues; West 99th Street, between Central Park West and Columbus Avenue, and many other desirable blocks, each block containing houses of a class never before occupied by Negroes. Thus has the supply been made to equal the demand. Thus has the wonderful fact been made possible—that to-day, especially in Harlem, with a few exceptions, Negroes are paying less rents than are whites for similar accommodations in neighborhoods that are not threatened with Negro invasion.\n\nA fair and unbiased investigation will prove beyond a possible doubt the absolute correctness of this statement, strange as it may seem.",
+   "status": "ok",
+   "confidence": 0.9800565838813782,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 136,
+    "y0": 591,
+    "x1": 963,
+    "y1": 1187
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 135,
+    "y0": 1212,
+    "x1": 962,
+    "y1": 1517
+   },
+   "text": "DESIRABLE APARTMENTS FOR DESIRABLE TENANTS\nALSO HOMES FOR SALE ON EASY TERMS\nPhilip A. Payton, Jr., Company\nNew York's Pioneer Negro Real Estate Agents\nBROKERS — APPRAISERS\n67 West 134th St., New York City\nTELEPHONES 917 - 918 HARLEM",
+   "status": "ok",
+   "confidence": 0.9376155138015747,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 129,
+    "y0": 1208,
+    "x1": 963,
+    "y1": 1518
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 4,
+  "regions_after": 4,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

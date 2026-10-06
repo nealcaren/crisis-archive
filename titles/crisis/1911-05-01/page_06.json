@@ -1,0 +1,155 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 618,
+        "y0": 124,
+        "x1": 807,
+        "y1": 157
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.5756985545158386,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 190,
+        "y0": 126,
+        "x1": 209,
+        "y1": 151
+      },
+      "text": "6",
+      "status": "ok",
+      "confidence": 0.7788150906562805,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 191,
+        "y0": 192,
+        "x1": 698,
+        "y1": 481
+      },
+      "text": "and there is some attempt to embarrass the colored people in obtaining credit at the banks. There seems to be little chance, however, that this move will be successful. Kalamazoo, Mich., is stirred up by the purchase of a house in a fashionable section by a colored porter, and Logansport, Ind., is trying to induce a colored man to sell his recently acquired property.",
+      "status": "ok",
+      "confidence": 0.9665433168411255,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 192,
+        "y0": 491,
+        "x1": 697,
+        "y1": 1010
+      },
+      "text": "The Southern press is industriously spreading the information that Canada is barring Negro immigrants. This is not true, as 90 families of 500 members have entered in one week. The immigration is, however, raising some disquietude in Canada. The question came up in the Dominion House of Commons recently when William Thoburn, a conservative member, complained that the immigration from the Southern States was being conducted on a wholesale scale and the hundreds now coming in would increase to thousands. Mr. Frank Oliver, Minister of the Interior, said that the question had only lately arisen, and continued: \"I do not think it would be wise to adopt a drastic policy on account of a natural incident of immigration; the situation will be carefully watched.\"",
+      "status": "ok",
+      "confidence": 0.9796782732009888,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 193,
+        "y0": 1024,
+        "x1": 699,
+        "y1": 1552
+      },
+      "text": "The colored people of Tacoma, Wash., have been endeavoring to secure a city ordinance compelling public resorts and places of amusement to cease discriminating against them. Attorney Aldrich was especially active in urging the matter, but nothing has been done as yet.\n\nAttendant Clair and his wife have left the employ of the State insane asylum at Portland, Ore., because Superintendent Steiner refused to dismiss certain colored employees. The Superintendent said: \"These colored people have proved efficient in every respect and I intend to retain them until such time when I believe they are not efficient.\"\n\nCertain colored people have brought suit against a Waterbury, Conn., theatre for not allowing them to purchase tickets in the orchestra.",
+      "status": "ok",
+      "confidence": 0.9727299213409424,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 194,
+        "y0": 1567,
+        "x1": 709,
+        "y1": 1940
+      },
+      "text": "Considerable \"embarrassment\" has threatened the officers of the various regiments in camp at San Antonio, Tex., upon the arrival of the Illinois contingent of the National Guard officers. One of these officers, Colonel Marshall, is a colored man. According to the orders of the War Department, every volunteer officer who comes to participate in the maneuvers shall be quartered with a regular army officer of corresponding rank. Many of the officers are Southerners. When Colonel Marshall arrived he was attached to Colonel Thomas H. Davis of the 18th Infantry, who already had",
+      "status": "ok",
+      "confidence": 0.7851545214653015,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 730,
+        "y0": 189,
+        "x1": 1244,
+        "y1": 719
+      },
+      "text": "Colonel Gardner of North Carolina as his guest.\nAttempt has been made in New York to raise some discussion over the suffrage ball which Mrs. O. H. P. Belmont is giving May 6th at Terrace Garden. Invitations were sent to the members of the association and some of these are colored.\nIn our last number, under \"The Burden,\" we gave an extract from an article written by a Cornell student and charging that two colored girls had been \"advised\" not to apply for rooms at the Sage dormitory. The girls applied a second time and the following letter of President Schurman to Mrs. Martin, adviser at Sage Cottage, explains what happened.\nApril 10, 1911.",
+      "status": "ok",
+      "confidence": 0.9746165871620178,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 732,
+        "y0": 718,
+        "x1": 1243,
+        "y1": 1223
+      },
+      "text": "I received on Thursday, the 6th inst., your note with the enclosed two petitions on the subject of the admission of colored women to Sage Cottage. One of these petitions, signed by 269 women students, begged that we deny the application for admission which you have recently received from two colored students; the other petition, signed by 36 women students, objected to this discrimination on color lines.\n\nI want, in the first place, to express my deep regret that some time before this matter had been brought to our attention it had been communicated to the newspapers, apparently with misleading statements, which have given rise to a good deal of erroneous comment.",
+      "status": "ok",
+      "confidence": 0.9776878952980042,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 734,
+        "y0": 1224,
+        "x1": 1243,
+        "y1": 1715
+      },
+      "text": "The truth of the matter is very simple: Colored students have resided in Sage Cottage in the past, and I see no good reason why that policy should be changed. At Cornell all university doors must remain open to all students irrespective of race or color or creed or social standing or pecuniary condition. The last colored woman student who resided in Sage Cottage writes me that she was politely and considerately treated by the other women students, and that these years of residence in Sage Cottage were the happiest in her life. Though I am compelled to deny the petition of the 269 women students, I have not a particle of doubt that they will make the lives of the two incoming colored students equally happy and memorable.",
+      "status": "ok",
+      "confidence": 0.9742761254310608,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 734,
+        "y0": 1718,
+        "x1": 1244,
+        "y1": 1941
+      },
+      "text": "Very truly yours,\n(Signed) JACOB GOULD SCHURMAN.\nMrs. Gertrude S. Martin,\nAdviser of Women,\nSage Cottage.\nThe charge is made that the police of Detroit, Mich., are attempting to drive colored men from business who have",
+      "status": "ok",
+      "confidence": 0.9243205189704895,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.1,
+    "at": "2026-10-06T21:38:39+00:00"
+  }
+}

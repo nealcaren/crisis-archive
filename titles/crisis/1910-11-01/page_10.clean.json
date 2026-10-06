@@ -224,6 +224,7 @@
   "regions_before": 9,
   "regions_after": 9,
   "lost_words": [],
+  "needs_review": [],
   "unowned_ink_pct": 2.12,
   "box_overlaps_after": 1,
   "log": [

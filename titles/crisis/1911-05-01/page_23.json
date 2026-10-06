@@ -1,0 +1,85 @@
+{
+  "page": 23,
+  "image": "images/page_23.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "figure",
+      "bbox": {
+        "x0": 0,
+        "y0": 337,
+        "x1": 1068,
+        "y1": 1751
+      },
+      "text": "",
+      "status": "error",
+      "confidence": 0.9678536057472229,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 0,
+        "y0": 1772,
+        "x1": 128,
+        "y1": 1796
+      },
+      "text": "EL MARSHALL",
+      "status": "ok",
+      "confidence": 0.5019413828849792,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "abandon",
+      "bbox": {
+        "x0": 139,
+        "y0": 110,
+        "x1": 319,
+        "y1": 144
+      },
+      "text": "MAY, 1911",
+      "status": "ok",
+      "confidence": 0.7979402542114258,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1145,
+        "y0": 115,
+        "x1": 1183,
+        "y1": 143
+      },
+      "text": "23",
+      "status": "ok",
+      "confidence": 0.8471898436546326,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 560,
+        "y0": 1788,
+        "x1": 1038,
+        "y1": 1888
+      },
+      "text": "Officers of the Eighth Regiment Illinois National Guard; Colonel Marshall is now attending the maneuvers in Texas.",
+      "status": "ok",
+      "confidence": 0.5324516892433167,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.8,
+    "at": "2026-10-06T21:41:12+00:00"
+  }
+}

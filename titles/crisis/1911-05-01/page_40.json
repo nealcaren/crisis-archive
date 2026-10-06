@@ -1,0 +1,281 @@
+{
+  "page": 40,
+  "image": "images/page_40.jpg",
+  "width": 1374,
+  "height": 2081,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 522,
+        "y0": 122,
+        "x1": 970,
+        "y1": 156
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8806947469711304,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 214,
+        "y0": 156,
+        "x1": 723,
+        "y1": 364
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 801,
+        "y0": 224,
+        "x1": 1240,
+        "y1": 421
+      },
+      "text": "The Souls of Black Folk",
+      "status": "ok",
+      "confidence": 0.9364715814590454,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 229,
+        "y0": 364,
+        "x1": 697,
+        "y1": 1046
+      },
+      "text": "The Conjure Woman.....$1.25\nThe Wife of His Youth, and\nOther Stories of the Color\nLine ..... 1.50\nThe House Behind the Cedars. 1.50\nThe Marrow of Tradition..... 1.50\nPublished by\nHOUGHTON, MIFFLIN & CO.\n4 Park Street, Boston, Mass.\n\nLife of Frederick Douglass, 50c.\nPublished by\nSMALL, MAYNARD & CO.\n15 Beacon Street, Boston, Mass.\n\nMay be ordered through any book\nstore or direct from the publishers",
+      "status": "ok",
+      "confidence": 0.6937999725341797,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 798,
+        "y0": 437,
+        "x1": 1235,
+        "y1": 468
+      },
+      "text": "By W. E. BURGHARDT DU BOIS",
+      "status": "ok",
+      "confidence": 0.566537618637085,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 793,
+        "y0": 533,
+        "x1": 1236,
+        "y1": 898
+      },
+      "text": "\"It is one of the noteworthy books, not merely of a year, but of the epoch. Its every page is filled with vigor, spontaneity and spirituality.\"—Boston Transcript.\n\n\"A stripping bare of the moral and mental anatomy of the African in America so as to reveal the naked soul in its primitive-simplicity, seared and scarred by ages of suffering.\"—New York Age.\n\nWith Author's Portrait, $1.20 Net\nAt book stores or from the publishers",
+      "status": "ok",
+      "confidence": 0.9302234649658203,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 794,
+        "y0": 941,
+        "x1": 1233,
+        "y1": 1017
+      },
+      "text": "A. C. McCLURG & CO.\nCHICAGO",
+      "status": "ok",
+      "confidence": 0.8335596323013306,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 756,
+        "y0": 1017,
+        "x1": 1266,
+        "y1": 1563
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 214,
+        "y0": 1046,
+        "x1": 723,
+        "y1": 1512
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 217,
+        "y0": 1098,
+        "x1": 1275,
+        "y1": 1394
+      },
+      "text": "For any book dealing with the Negro Problem, whether written by a Negro or white author, send your order to Charles Alexander, 997 Tremont Street, Boston, Mass. I have on hand the prose and poetical works of Paul Laurence Dunbar, the novels of Charles W. Chesnutt. \"'Race Adjustment,'\" by Prof. Kelly Miller; \"'The Souls of Black Folk,'\" by Prof. W. E. B. DuBois; the complete works of Dr. Booker T. Washington; \"'The History of the Negro Race,'\" by George W. Williams, and many other important works dealing with the Race Question. You should read \"'The Black Cat Club,'\" the funniest dialect story ever written by a colored man. Price. cloth binding, $1.25.",
+      "status": "ok",
+      "confidence": 0.9658802151679993,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 222,
+        "y0": 1438,
+        "x1": 1259,
+        "y1": 1465
+      },
+      "text": "CHARLES ALEXANDER, BOOK AND JOB PRINTER, 997 TREMONT STREET, BOSTON, MASS",
+      "status": "ok",
+      "confidence": 0.659857988357544,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 214,
+        "y0": 1512,
+        "x1": 723,
+        "y1": 1935
+      },
+      "text": "RACE ADJUSTMENT\nBy KELLY MILLER, Howard University, Washington, D.C. A Standard Book on the Race Question.\nPRICE $2.00\nSocial Equality..... 5 cents\nAn Appeal to Reason, open letter\nto John Temple Graves.....10 cents\nRoosevelt and the Negro.....10 cents\nForty Years of Negro Education.....10 cents\nUltimate Race Problem.....10 cents\nThe Political Capacity of the\nNegro ..... 10 cents\nADDRESS AUTHOR",
+      "status": "ok",
+      "confidence": 0.8975095748901367,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 756,
+        "y0": 1563,
+        "x1": 1266,
+        "y1": 1942
+      },
+      "text": "1. Disfranchisement: a powerful argument by the Rev. John Haynes Holmes.\n2. Education in the South: Facts about the discrimination against the Negro. By the Rev. Horace Bumstead, former president of Atlanta University.\n3. The Real Race Problem: A scientific comparison of the black and the white man by America's foremost anthropologist, Prof. Boas, of Columbia University.\n4. Social Control. By Jane Addams, of Hull House.\n5. The Negro as a Soldier. By Brigadier-General Burt, U. S. A.\nFive Cents Each, Three Dollars a Thousand",
+      "status": "ok",
+      "confidence": 0.8930345773696899,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 214,
+        "y0": 1935,
+        "x1": 723,
+        "y1": 2061
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 756,
+        "y0": 1942,
+        "x1": 1266,
+        "y1": 2061
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 639,
+        "y0": 1952,
+        "x1": 869,
+        "y1": 1977
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.6768196821212769,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "abandon",
+      "bbox": {
+        "x0": 217,
+        "y0": 123,
+        "x1": 254,
+        "y1": 152
+      },
+      "text": "40",
+      "status": "ok",
+      "confidence": 0.8252334594726562,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "title",
+      "bbox": {
+        "x0": 687,
+        "y0": 1403,
+        "x1": 768,
+        "y1": 1427
+      },
+      "text": "Address",
+      "status": "ok",
+      "confidence": 0.42026033997535706,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 925,
+        "y0": 485,
+        "x1": 1108,
+        "y1": 519
+      },
+      "text": "Eighth Edition",
+      "status": "ok",
+      "confidence": 0.7141286134719849,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.8,
+    "at": "2026-10-06T21:43:57+00:00"
+  }
+}

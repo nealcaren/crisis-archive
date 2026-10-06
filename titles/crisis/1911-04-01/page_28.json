@@ -1,0 +1,169 @@
+{
+  "page": 28,
+  "image": "images/page_28.jpg",
+  "width": 1082,
+  "height": 1611,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 355,
+        "y0": 128,
+        "x1": 821,
+        "y1": 189
+      },
+      "text": "THE BURDEN",
+      "status": "ok",
+      "confidence": 0.5445082187652588,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 595,
+        "y0": 247,
+        "x1": 999,
+        "y1": 287
+      },
+      "text": "for carfare and living expenses than women in better pecuniary circumstances.",
+      "status": "ok",
+      "confidence": 0.726094663143158,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 176,
+        "y0": 248,
+        "x1": 574,
+        "y1": 292
+      },
+      "text": "COLORED MEN LYNCHED WITHOUT TRIAL.",
+      "status": "ok",
+      "confidence": 0.8832151293754578,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 598,
+        "y0": 288,
+        "x1": 997,
+        "y1": 383
+      },
+      "text": "Is this the way that Mr. Cornell's idea is being carried out? Is this the way that Goldwin Smith's memory is honored and respected? Does Andrew D. White approve of this state of affairs?",
+      "status": "ok",
+      "confidence": 0.7309370636940002,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 175,
+        "y0": 294,
+        "x1": 574,
+        "y1": 554
+      },
+      "text": "1885 . . . . . . . . . . .",
+      "status": "repetition",
+      "confidence": 0.417332261800766,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 621,
+        "y0": 383,
+        "x1": 946,
+        "y1": 396
+      },
+      "text": "* * * * *",
+      "status": "ok",
+      "confidence": 0.27918100357055664,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 597,
+        "y0": 403,
+        "x1": 997,
+        "y1": 1015
+      },
+      "text": "The authorities of the university also have their part in keeping alive the Cornell spirit. The man who asked whether Niggers ate in a public refectory now sits in an instructor's chair in Goldwin Smith Hall. My own experience with professors would not justify the columns of editorials on \"the gap between professors and undergraduates\" which recently appeared in the Sun. But how would this man behave to a Nigger who went into his class? A university is a place where Truth is sought and taught—broad, universal, all-pervading Truth. It is the last place on earth to foster narrow, racial, personal prejudices. If one instructor does not like Niggers, another may despise Chinese, a third may hate Jews, and a fourth may have no use for anybody but himself, as the Sun seems to think. Then what becomes of the instruction for any person? This is not the type of teachers that Cornell began with. These are not the men who make sacrifices in order to do things for others. A man who has strong racial or class antipathies is bound to show them. And if he has to train minds and shape character! Such a man can never be a teacher in a cosmopolitan, democratic university.—James B. Clark, '12, in the Cornell University Era.",
+      "status": "ok",
+      "confidence": 0.9764710664749146,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 424,
+        "y0": 568,
+        "x1": 572,
+        "y1": 590
+      },
+      "text": "Total.....2,458",
+      "status": "ok",
+      "confidence": 0.21423408389091492,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 176,
+        "y0": 626,
+        "x1": 572,
+        "y1": 1110
+      },
+      "text": "Ezra Cornell's object is still expressed in the seal of the university: \"I would found an institution where any person might obtain instruction in any subject.\" * * * * *\n\nFour years ago a person who wished instruction made application before arriving here for accommodation in the dormitory for female persons. The officials in charge of the building found out that the applicant, although not more heavily pigmented than the average resident, belonged to a type of persons known as colored. Shortly after the father of this girl received a curt note containing his deposit and informing him that it was a cruel imposition not to have said that he was a woman and that, according to the Cornell University Register, \"the dormitories for women students are Sage College and Sage Cottage.\"",
+      "status": "ok",
+      "confidence": 0.9783092141151428,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 599,
+        "y0": 1047,
+        "x1": 997,
+        "y1": 1460
+      },
+      "text": "\"LOWNESS.\"\nOn March 2 a little white girl, eight years of age, was brought before the Children's Court of New York on the charge of improper guardianship. The evidence proved that the child was living in a tenement home under the care of a black woman who had been a mother to her since her own white mother had deserted her seven years before. The child was happy amid her surroundings, she was neatly dressed and there was no word of complaint against the woman who had reared her; nevertheless, by order of the court, she was placed in the charge of a probation officer, who at once removed her from her home. Her colored mother by adoption, the mother who had fed and clothed her, had given her pretty playthings, had trained her in sweet and virtuous ways,",
+      "status": "ok",
+      "confidence": 0.9569507241249084,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 177,
+        "y0": 1112,
+        "x1": 572,
+        "y1": 1455
+      },
+      "text": "Last year two women students who had grown tired of climbing the hill or getting half-frozen waiting for the street cars wished to obtain rooms nearer to the university. The only place where they could even dare apply was Sage College. Here the Dean informed them that while she herself had no objection to getheres to letting them draw for rooms, the street cars wished to obtain rooms nearer to the university. The only place where they could even dare apply was Sage College. The only place where they could even dare apply was Sage College. Here the Dean informed them that while she had no objection to the Dean informed them that while she herself had no objection to the other occupants of the building would make it very unpleasant for them. These women were therefore obliged to go back this year to the Negro quarter in the lower part of the town; to hurry back and forth to their meals; to waste in going up and down much time and energy that they ought to spend in assimilating the instruction that is given them; to pay more",
+      "status": "ok",
+      "confidence": 0.9770070314407349,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 300.8,
+    "at": "2026-10-06T21:33:33+00:00"
+  }
+}

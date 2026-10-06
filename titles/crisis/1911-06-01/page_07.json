@@ -1,0 +1,211 @@
+{
+  "page": 7,
+  "image": "images/page_07.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 397,
+        "y0": 130,
+        "x1": 877,
+        "y1": 162
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.872360110282898,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 114,
+        "y0": 194,
+        "x1": 622,
+        "y1": 588
+      },
+      "text": "Gale P. Hilyer, son of Mr. and Mrs. Andrew F. Hilyer, of Washington, D. C., a junior at the University of Minnesota, which has over 5,000 students, is making a splendid record for scholarship and has won distinction as a speaker. He was chosen by the Minnesota State Forum (colored) to represent Minnesota at the recent interstate debate at Des Moines, Iowa, and has just been chosen by the faculty of the university, after having gone through the usual elimination contests, to be one of six to compete in the contest for the Pillsbury prize for oratory—$100 to the first; $50 to the second; $25 to the third.",
+      "status": "ok",
+      "confidence": 0.975554883480072,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 655,
+        "y0": 197,
+        "x1": 1165,
+        "y1": 687
+      },
+      "text": "tion of Colored Women, now directed by Mrs. W. H. Baldwin, Jr., has just completed a census of the district. There are nineteen churches, representing eight denominations. From approximate information given there is a church membership of about one-third and an attendance of little more than half of the population. The number of colored churches in the section are: Eight Baptist, one M. E., one A. M. E., one Presbyterian, one Moravian, one Episcopalian, two United Christian, one Cosmopolitan Spiritualist, two Apostolic missions and one Seventh Day Adventist. There are three public schools, two of which teach trades and industries, and each has some facilities for recreation. There is an average attendance of 5,270—colored attendance, 1,514.",
+      "status": "ok",
+      "confidence": 0.7559149861335754,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 116,
+        "y0": 591,
+        "x1": 623,
+        "y1": 931
+      },
+      "text": "The winner is to have the honor of representing the University of Minnesota at the Northwestern Intercollegiate Oratorical Contest, which takes place at Ann Arbor, Mich., this month. Young Hilyer was prepared for college at the Academy of Howard University. He entered the Minnesota University without any \"conditions,\" and has established a record for high scholarship. The University of Minnesota is the alma mater of his father, who graduated A.B., in the class of 1882, and has many friends in the twin cities.",
+      "status": "ok",
+      "confidence": 0.9757166504859924,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 654,
+        "y0": 688,
+        "x1": 1163,
+        "y1": 978
+      },
+      "text": "\"Worthy of note in two blocks are industrial conditions observed in which Negroes are engaged. Investigations show that there are ten grocers, ten restaurants, one oyster house, one laundry, two schools, nine hair dressers, eleven barbers, four undertakers, ten real estate offices, one bakery, nine employment agencies, one pharmacist, six ice, coal and wood dealers, two confectioners, four expressmen, one chiropodist and six tailors.\"",
+      "status": "ok",
+      "confidence": 0.9752868413925171,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 116,
+        "y0": 941,
+        "x1": 625,
+        "y1": 1114
+      },
+      "text": "Effort is being made to amend Ohio school laws so as to permit segregation of Negroes in schools more easily than at present. Some Cincinnati Negroes favor it because white teachers are prejudiced. W. P. Dabney, colored paymaster in the city treasurer's office, says:",
+      "status": "ok",
+      "confidence": 0.627000093460083,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 656,
+        "y0": 982,
+        "x1": 1163,
+        "y1": 1131
+      },
+      "text": "There are also forty-four saloons and \"clubs,\" eight run by colored men, and seven \"street gangs\" of boys, formed apparently for defense against aggression on the part of the white youth of the neighborhood.",
+      "status": "ok",
+      "confidence": 0.9676044583320618,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 118,
+        "y0": 1115,
+        "x1": 627,
+        "y1": 1601
+      },
+      "text": "\"I can see no more reason for the separation of colored children than I can for having separate schools for Hungarians, separate schools for Italians or any other race or color of people. We are all citizens, all taxpayers, directly or indirectly. Instead of establishing schools that will still further promote race antagonism let us rather bring the races together. If a colored child, any particular colored child, is unfit to attend a school, let that particular child be excluded, just as you would exclude any particular white child. I am most decidedly against the separate school plan. It looks to me that it is a clever scheme for some colored men to get a job for themselves and is not for the purpose of promoting the welfare of the race.\"",
+      "status": "ok",
+      "confidence": 0.5703054666519165,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 658,
+        "y0": 1138,
+        "x1": 1166,
+        "y1": 1730
+      },
+      "text": "The True Reformers of Richmond, the organization whose bank suspended recently because of financial irregularities, has had its license restored by the insurance commissioners of Virginia. The Richmond Reformer, the society's organ, says that while they have not done any new work for some time they never stopped paying claims, and more than $30,000 has been paid in death claims to creditors since the license was suspended—a sum greater than that paid by any other like society in the same time.\n\nThe Durham (N. C.) Reformer says: \"The struggle which the officers and members have hitherto made is indeed heroic. To have raised nearly $40,000 in face of the disaster which had almost engulfed the order is a feat to be eminently proud of. We have little doubt since this has been done that those in command will be able to carry the True Reformers to complete rehabilitation.\"",
+      "status": "ok",
+      "confidence": 0.975477397441864,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 118,
+        "y0": 1684,
+        "x1": 624,
+        "y1": 1904
+      },
+      "text": "It is thought that the largest colony of colored people in the world, in similar limits, is to be found in New York in the small territory bounded by Eighth Avenue and Fifth Avenue on the west and east and 132d and 137th Streets on the south and north. In that space there are more than 20,000 persons of African descent.",
+      "status": "ok",
+      "confidence": 0.9762331247329712,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 661,
+        "y0": 1733,
+        "x1": 1168,
+        "y1": 1931
+      },
+      "text": "The Columbia State says in ten years 1,597 Negroes, one-half the Negro population, left the town of Beaufort. The Orangeburg Democrat wonders where they have gone. The population of the coast counties of South Carolina has not increased. There are no evidences that the Negroes have increased in the in-",
+      "status": "ok",
+      "confidence": 0.8218933939933777,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 139,
+        "y0": 1905,
+        "x1": 625,
+        "y1": 1931
+      },
+      "text": "The National League for the Protec-",
+      "status": "ok",
+      "confidence": 0.8604840040206909,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 283,
+        "y0": 1646,
+        "x1": 454,
+        "y1": 1674
+      },
+      "text": "ECONOMIC.",
+      "status": "ok",
+      "confidence": 0.893753170967102,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1128,
+        "y0": 133,
+        "x1": 1160,
+        "y1": 160
+      },
+      "text": "51",
+      "status": "ok",
+      "confidence": 0.8301920890808105,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.8,
+    "at": "2026-10-06T21:47:36+00:00"
+  }
+}

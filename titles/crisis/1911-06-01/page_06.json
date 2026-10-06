@@ -1,0 +1,183 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1372,
+  "height": 2090,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 723,
+        "y0": 195,
+        "x1": 1238,
+        "y1": 346
+      },
+      "text": "Judge Pritchard, who served two terms as senator from North Carolina, has been lecturing in the West on \"The Negro as a Good Citizen.\" He described their fight for social betterment and said more schools were needed.",
+      "status": "ok",
+      "confidence": 0.9678332805633545,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 179,
+        "y0": 196,
+        "x1": 687,
+        "y1": 446
+      },
+      "text": "A dispatch from Jackson, Mississippi, says that a colored planter who does not wish his name disclosed has just given to Campbell College, a Negro institution, maintained by the African Methodist Episcopal Church, a large tract of land in Cohoma County, valued at $7,000, the income of which is to go for the maintenance of poor but worthy students.",
+      "status": "ok",
+      "confidence": 0.9722442626953125,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 721,
+        "y0": 355,
+        "x1": 1237,
+        "y1": 678
+      },
+      "text": "Mr. David Mannes, who founded the Music Settlement, to cultivate the musical talent of children on the lower East Side of New York, has launched a project to establish a similar settlement in a colored neighborhood. At the first meeting Dr. Felix Adler, of the Ethical Culture Society, made a speech praising the naturally harmonic ear of the colored race. \"We should aim,\" he said, \"at the outset to develop the distinctive and unique talent which the colored people possess.\"",
+      "status": "ok",
+      "confidence": 0.9721353054046631,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 179,
+        "y0": 456,
+        "x1": 688,
+        "y1": 764
+      },
+      "text": "Another anonymous philanthropist belonging to New York is said to have given $10,000 to the Curry Industrial School for Negro youths in Champaign County, Ohio.\nThe announcement is made that the presidency of Selma University, Selma, Ala., has been accepted by the Rev. M. W. Gilbert, D.D., lately of New York. Dr. Gilbert is one of the best-known clergymen of the Baptist denomination. He succeeds Dr. R. T. Pollard.",
+      "status": "ok",
+      "confidence": 0.9701120257377625,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 725,
+        "y0": 681,
+        "x1": 1237,
+        "y1": 1365
+      },
+      "text": "There was a great deal of discussion North and South some time ago about the protest at Roanoke College, Va., against the use of a history which criticized sharply the moral conditions of slavery times and the frequent abuse of women slaves by their masters. It seems that Dr. J. A. Moorhead, as president of Roanoke, has issued a statement in regard to the whole matter. One of the trustees was very angry at finding such assertions in Elson's History of the United States, and demanded that the book be no longer used and the professor of history be censured for introducing it. The college faculty refused to yield to dictation in this matter. It seems, too, that the trustees sustained the position of the professor of history and social science, but the use of the book has nevertheless been discontinued. Mr. Elson's work has been a good deal of a firebrand, as Professor Banks of the State University of Florida was dismissed for using it in his classes, and also for writing an article in the Independent to the effect that slavery had been a curse to the South.",
+      "status": "ok",
+      "confidence": 0.9778836965560913,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 181,
+        "y0": 773,
+        "x1": 690,
+        "y1": 1202
+      },
+      "text": "The Society of French Professors of America has awarded the prix d'honneur for a French essay on a literary topic and a translation of a French author to James Bertram Clarke, the colored student at Cornell University, whose recent article on the Negro question at Cornell caused a storm of comment. Mr. Clarke was also awarded other prizes. He is a junior in the College of Arts.\n\nPart of the exercises of the seminary commencement at Oberlin consist in the presentation by the senior class of a \"Key of Fellowship\" to the middle class. This year Mr. D. H. Sims, of the middle class, a colored student, was chosen to make the speech of acceptance.",
+      "status": "ok",
+      "confidence": 0.9724318981170654,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 183,
+        "y0": 1210,
+        "x1": 691,
+        "y1": 1506
+      },
+      "text": "Miss F. Marion Reid, an eighteen-year-old colored girl, will be valedictorian of her class in Brighton, Mass., this month. She gained an average of about 92 points out of a possible 100 in her four years' course. This mark places her at the head, or very near the head, of the 1,291 pupils who will receive diplomes in the fourteen Boston high schools. According to the Boston papers Miss Reid hopes to enter the domestic science department of Simmons College in the fall.",
+      "status": "ok",
+      "confidence": 0.9702306985855103,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 727,
+        "y0": 1371,
+        "x1": 1239,
+        "y1": 1642
+      },
+      "text": "Wagner County of Oklahoma has disposed with the services of Negro school directors. The Wagner County American says that report accuses some directors of having violated the limitations of the law as to the money that should be spent on school libraries. Several white school directors were removed for violating the same law, but all the colored directors, innocent or guilty, have been dismissed.",
+      "status": "ok",
+      "confidence": 0.9734217524528503,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 185,
+        "y0": 1514,
+        "x1": 693,
+        "y1": 1941
+      },
+      "text": "Edward Winthrop Robinson, the only colored member of the graduating class of the Weymouth, Mass., high school, has been awarded a scholarship for Amherst College. He has always stood high in his classes. There are 55 pupils in the class and no one else secured a scholarship. He hopes to enter the Harvard Law School after finishing at Amherst. Mary Frances Gunner, daughter of the Rev. Byron Gunner, of Hillburn, N. Y., has led her class in the High School during the course, and has averaged over 90, completing a four years' course in three years, although she is the youngest member of the class. She has been chosen valedictorian.",
+      "status": "ok",
+      "confidence": 0.8882003426551819,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 728,
+        "y0": 1645,
+        "x1": 1240,
+        "y1": 1945
+      },
+      "text": "The Washington Conservatory of Music reports that in its seven and a half years' existence it has registered over 1,000 pupils. A number of scholarships are annually awarded. One of the special aims of the conservatory is the preservation and development of Negro melodies, and another is the training of music teachers for the South. Mrs. Harriet Gibbs-Marshall, an Oberlin graduate, is the president of the Board of Managers.",
+      "status": "ok",
+      "confidence": 0.9736911058425903,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 179,
+        "y0": 131,
+        "x1": 214,
+        "y1": 157
+      },
+      "text": "50",
+      "status": "ok",
+      "confidence": 0.8381102085113525,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 594,
+        "y0": 129,
+        "x1": 802,
+        "y1": 161
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8709226846694946,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.7,
+    "at": "2026-10-06T21:47:26+00:00"
+  }
+}

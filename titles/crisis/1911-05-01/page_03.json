@@ -1,0 +1,211 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1381,
+  "height": 2086,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 340,
+        "y0": 131,
+        "x1": 925,
+        "y1": 296
+      },
+      "text": "THE CRISIS\nA Record of the Darker Races\nContents for May, 1911.",
+      "status": "ok",
+      "confidence": 0.8167790174484253,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 108,
+        "y0": 296,
+        "x1": 622,
+        "y1": 1296
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 317,
+        "y0": 296,
+        "x1": 955,
+        "y1": 1296
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 648,
+        "y0": 296,
+        "x1": 1160,
+        "y1": 1296
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 104,
+        "y0": 323,
+        "x1": 1160,
+        "y1": 368
+      },
+      "text": "Along the Color Line..... 5",
+      "status": "ok",
+      "confidence": 0.36247655749320984,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 108,
+        "y0": 665,
+        "x1": 1163,
+        "y1": 1005
+      },
+      "text": "Report of the Chairman of the Executive Committee. 25\nViolations of Property Rights. 28\nLittle Letters from the South. 32\nThe Fight for Liberty in St. Lucia. By Arthur A. Schomburg. 33\nMy Little Love Salome: Poem. By L. A. Proctor. 34\nThe Manufacture of Prejudice. 35\nWhat to Read. 37\n\nActual Circulation of THE CRISIS, 10,000 Copies\nAgents wanted who can furnish reliable references.\nEntered as second-class matter in the post office at New York City.",
+      "status": "ok",
+      "confidence": 0.6239207983016968,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 109,
+        "y0": 1023,
+        "x1": 1162,
+        "y1": 1404
+      },
+      "text": "The June number of THE CRISIS will be a special Education number for Teachers. It will contain contributions by G. S. Dickerman, H. O. Tanner, W. S. Braithwaite. An important article on Harriet Beecher Stowe, by her son, C. E. Stowe. Our circulation is growing rapidly, but we must have 25,000. Every reader of THE CRISIS can by personal solicitation help us to this goal. Probably no magazine in America has a more interesting set of readers—we have on our books judges, financiers, philanthropists, college presidents and scholars, besides the best educated colored people of the country.\n\nCOMMENTS ON THE CRISIS\n\n\"Personally I have been so well pleased with your publication that I have not been able to keep a single copy, but have mailed them to friends\n\n\"I simply want to say that your April CRISIS is all in all the best document of its length on the color question that I have ever read.\"",
+      "status": "ok",
+      "confidence": 0.9090434908866882,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 110,
+        "y0": 1348,
+        "x1": 621,
+        "y1": 1481
+      },
+      "text": "\"Personally I have been so well pleased with your publication that I have not been able to keep a single copy, but have mailed them to friends all over the country. I shall be glad to continue to show your publication wherever I go. The pleasure that I can give my friends in this way is sufficient reward in itself.\"",
+      "status": "ok",
+      "confidence": 0.7846841812133789,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 651,
+        "y0": 1457,
+        "x1": 1160,
+        "y1": 1650
+      },
+      "text": "\"I have read each successive number of your magazine with increasing satisfaction, and my belief is confirmed that the publication is greatly needed and has possibilities of untold usefulness. The April number came yesterday, with its strikingly beautiful cover page, an artistic advance, I think, on anything that I have ever seen in this particular field heretofore. I am glad to know that your outlook is encouraging. It certainly ought to be.\" G. S. DICKERMAN.",
+      "status": "ok",
+      "confidence": 0.3424147367477417,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 110,
+        "y0": 1479,
+        "x1": 619,
+        "y1": 1678
+      },
+      "text": "\"I have just had the pleasure of perusing the April number of your splendid magazine and I promptly enclose the price of a subscription. Your work is along the right line and will prove a powerful stimulus not only to the better aspirations of your own people but to the Americanism of all true Americans.\" HARVEY INGHAM,",
+      "status": "ok",
+      "confidence": 0.6639744639396667,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 648,
+        "y0": 1650,
+        "x1": 1160,
+        "y1": 1877
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 269,
+        "y0": 1678,
+        "x1": 617,
+        "y1": 1716
+      },
+      "text": "Editor of the Register and Leader,\nDes Moines, Ia.",
+      "status": "ok",
+      "confidence": 0.571304440498352,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 108,
+        "y0": 1749,
+        "x1": 622,
+        "y1": 2066
+      },
+      "text": "\"I want the previous numbers in order that I may get the issue that contains the picture of the 'old colored mother' soliloquizing over her son's lynching. That picture to me is worth the whole price of subscription.\" GEORGE G. ROSS Denver, Col.",
+      "status": "ok",
+      "confidence": 0.7478651404380798,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 317,
+        "y0": 1864,
+        "x1": 955,
+        "y1": 2066
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.0,
+    "at": "2026-10-06T21:38:15+00:00"
+  }
+}

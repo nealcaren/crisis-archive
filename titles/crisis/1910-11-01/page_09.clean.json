@@ -1,0 +1,323 @@
+{
+ "page": 9,
+ "image": "images/page_09.jpg",
+ "width": 1879,
+ "height": 2817,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 11.7,
+  "at": "2026-10-06T20:51:14+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 790,
+    "y0": 151,
+    "x1": 989,
+    "y1": 191
+   },
+   "text": "OPINION",
+   "status": "ok",
+   "confidence": 0.8274136781692505,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 789,
+    "y0": 149,
+    "x1": 986,
+    "y1": 190
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 184,
+    "y0": 240,
+    "x1": 879,
+    "y1": 645
+   },
+   "text": "One of the biggest tasks awaiting the energetic and intelligent action of the American Socialists is our great Negro problem. It is by no means disposed of by reference to our theoretical declaration for human equality regardless of race, creed or color. The problem is here, a momentous part of the general labor problem. For behind all the antagonism to the Negro lurks the desire of capitalism to keep the colored people down in a state of political helplessness so that they may all the easier be exploited for the benefit of the profit makers.—The Call.",
+   "status": "ok",
+   "confidence": 0.9766736626625061,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 184,
+    "y0": 240,
+    "x1": 875,
+    "y1": 640
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 185,
+    "y0": 672,
+    "x1": 880,
+    "y1": 905
+   },
+   "text": "It is one thing to govern colored peoples. It is another to live with them. The States has the harder problem, and the problem is not of its own making. Until we have a Mr. Roosevelt of our own, we shall not hasten to advise the States, and we shall be as careful in our censure as in our advice.",
+   "status": "ok",
+   "confidence": 0.9736359715461731,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 185,
+    "y0": 671,
+    "x1": 877,
+    "y1": 904
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 187,
+    "y0": 904,
+    "x1": 883,
+    "y1": 1373
+   },
+   "text": "But we must recognize, for it is of primary importance, this new and violent spirit which is growing in America, under pressure of the Negroes from within and the yellow races from without. This new spirit—the result partly of jealousy, partly of contempt, partly of mere physical repulsion—is crushing, if it has not already crushed, the religious sentiment of the equality of men. How far will the spirit spread? There are those who see in it the foreshadow of the great conflict of the future, when, as they believe, the white races will fight for their existence against the colored races coming up out of the East.—The World (England).",
+   "status": "ok",
+   "confidence": 0.9735944867134094,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 189,
+    "y0": 907,
+    "x1": 879,
+    "y1": 1368
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 190,
+    "y0": 1383,
+    "x1": 884,
+    "y1": 1803
+   },
+   "text": "As is well known in South Carolina, the district funds are not divided among the schools of the district in proportion to enrollment, but every Negro child counts as much as a white child in securing funds for the district. The Negro schools afford the best opportunity for padding the rolls. In fact, a contract with Negro teachers is not infrequently made in South Carolina in which the salary to be received by the teacher is dependent on the number of children enrolled. State Supervisor of Rural Schools in the Charleston (S. C.) News and Courier.",
+   "status": "ok",
+   "confidence": 0.9761383533477783,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 190,
+    "y0": 1398,
+    "x1": 880,
+    "y1": 1798
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 190,
+    "y0": 1835,
+    "x1": 885,
+    "y1": 2307
+   },
+   "text": "Christian people, in general, at the South, are coming to recognize that the white race cannot pursue a policy of repression toward the Negroes without repressing and degrading their own race. They are coming to realize that the only way for the whites to live with an inferior race all about them, without being injured by the presence of this different race, is to lift that race up as opportunity offers, by the exercise of Christian helpfulness.\n\nThe trouble about holding another man down is that one cannot get up to do anything else while he is engaged in the job.—Raleigh (N. C.) Record (white).",
+   "status": "ok",
+   "confidence": 0.9766674041748047,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 188,
+    "y0": 1836,
+    "x1": 881,
+    "y1": 2303
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 189,
+    "y0": 2332,
+    "x1": 883,
+    "y1": 2606
+   },
+   "text": "It has been noted that the Negro has secured entra into occupations which had been closed to it. It is the opinion of many who have given matter attention that the large so-called class is developing greater capacity and desire for skilful pursuits, and that many individuals have made great personal advan-",
+   "status": "ok",
+   "confidence": 0.9705149531364441,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 188,
+    "y0": 2333,
+    "x1": 880,
+    "y1": 2603
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1582,
+    "y0": 149,
+    "x1": 1609,
+    "y1": 188
+   },
+   "text": "9",
+   "status": "ok",
+   "confidence": 0.7998306751251221,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1582,
+    "y0": 150,
+    "x1": 1608,
+    "y1": 182
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 921,
+    "y0": 241,
+    "x1": 1611,
+    "y1": 412
+   },
+   "text": "have been developed and what future hope there is for the Negro in heretofore barred fields will be made subjects for future inquiry and report in next year's volume. Annual Report of Pennsylvania Bureau of Industrial Statistics.",
+   "status": "ok",
+   "confidence": 0.9667961597442627,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 921,
+    "y0": 239,
+    "x1": 1609,
+    "y1": 408
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 921,
+    "y0": 422,
+    "x1": 1614,
+    "y1": 877
+   },
+   "text": "The Times would be astonished if it could only know the division of sentiment among Negroes of this State. Hundreds and hundreds of Negroes \"buck\" at the lily white Republican ticket, and they have been waiting to see what the regular Democrats would do on October 6, and should the Democrats put out an acceptable and in the least conservative man you will see a larger division of the Negro vote in the State of Tennessee than ever before. Not all the Negroes now can be led into the shambles by the ever-alluring \"slush funds.\"—Colored correspondent in Chattanooga Times.",
+   "status": "ok",
+   "confidence": 0.9767537117004395,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 923,
+    "y0": 438,
+    "x1": 1610,
+    "y1": 872
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 925,
+    "y0": 886,
+    "x1": 1615,
+    "y1": 1505
+   },
+   "text": "The white people of a state which does this are hurting themselves. Self-government is the thing that educates men to be citizens, and awakens loyalty to the state or nation. The state that takes away the rights of half its citizens is turning that half into a group that will eventually have no loyalty to the state—why should they have? But education is getting down to all in this land. It will reach these. The papers come to them and they can think. Some day they will organize and then there will be what? Rebellion? No, for those who are not citizens cannot rebel. But there will be clashes, demands of rights, even by blood. And the state that takes away men's votes on race lines deserves all the consequences of race hatred this will inevitably bring.—Christian Work.",
+   "status": "ok",
+   "confidence": 0.9771550297737122,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 927,
+    "y0": 902,
+    "x1": 1612,
+    "y1": 1500
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 927,
+    "y0": 1540,
+    "x1": 1616,
+    "y1": 2100
+   },
+   "text": "The part of him that was Western in his Southwestern origin, Clemens kept to the end, but he was the most dissouthernized Southerner I ever knew. No man more perfectly sensed, and more entirely abhorred, slavery, and no one has ever poured such scorn upon the second-hand, Walter-Scotticised, pseudo-chivalry of the Southern ideal. He held himself responsible for the wrong which the white race had done the black race in slavery, and he explained, in paying the way of a Negro student through Yale, that he was doing it as his part of the reparation due from every white man to every black man. He said he had never seen this student—never wished to see him or know his name; it was quite enough that he was a Negro.—W. D. Howells on \"Mark Twain.\"",
+   "status": "ok",
+   "confidence": 0.9789447784423828,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 929,
+    "y0": 1538,
+    "x1": 1613,
+    "y1": 2099
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 925,
+    "y0": 2133,
+    "x1": 1618,
+    "y1": 2603
+   },
+   "text": "The World does not discuss the merits of this question, nor do we. We even agree that many concessions must be made to the prejudices of mankind, and that it may be true that any action that tends to create irritation between the races is unwise. But at the same time the Negro is a citizen, and it seems to us unfair to lay down a general rule the effect of which is to exclude him from office, without any regard whatever to his fitness. But the interesting thing about it all is that this action is that of a Republican President, the President of a party that has always professed great devotion to the Negro. —Indianapolis News.",
+   "status": "ok",
+   "confidence": 0.976377546787262,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 928,
+    "y0": 2132,
+    "x1": 1614,
+    "y1": 2596
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 13,
+  "regions_after": 13,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.36,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

@@ -1,0 +1,155 @@
+{
+  "page": 16,
+  "image": "images/page_16.jpg",
+  "width": 1374,
+  "height": 2082,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 588,
+        "y0": 124,
+        "x1": 778,
+        "y1": 157
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.6558492183685303,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 161,
+        "y0": 126,
+        "x1": 194,
+        "y1": 152
+      },
+      "text": "16",
+      "status": "ok",
+      "confidence": 0.7340474128723145,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 162,
+        "y0": 191,
+        "x1": 667,
+        "y1": 636
+      },
+      "text": "the President's factors in the solution of the South's problem, caused it. The whites saw that industrially educated blacks stood in their way to lucrative employment, and they forthwith attempted to remove the stumbling block. This leads to the observation that industrial education, the accumulation of wealth, uprightness nor meekness, nor all of them when exercised only by the Negro portion of the population of the South, is a solvent of the problem of the races. It begins to look as if greater results would be accomplished if the whites could get the benefit of some of the advice which every speaker seems to feel duty bound to give a Negro audience.\"",
+      "status": "ok",
+      "confidence": 0.9753316640853882,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 163,
+        "y0": 639,
+        "x1": 669,
+        "y1": 860
+      },
+      "text": "This comment is borne out by the remark of the Knoxville (Tenn.) Sentinel, one of the few white papers to refer to the strike. \"The settlement appears to be a fair one. Ultimately we believe whites and blacks in the South will not be encouraged to follow any similar line of skilled labor. Their competition produces friction.\"",
+      "status": "ok",
+      "confidence": 0.9754491448402405,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 166,
+        "y0": 892,
+        "x1": 670,
+        "y1": 1420
+      },
+      "text": "THE CORNELL INCIDENT. The appearance of race prejudice at Cornell University leads the Milwaukee Wisconsin to observe: \"There was a time in the early days of the abolition movement when a high-minded New England woman, Prudence Crandall, suffered the breaking up of her establishment, one of the then most prosperous young ladies' seminaries in the East, rather than deny its advantages to colored pupils. There was a later time when in any part of the North such a protest as that of the 300 white remonstrators at Cornell would have been looked upon as narrow and unpatriotic. Allegations have been made of late by white friends of the colored race as well as by members of that race that prejudice against them expressing itself in proscription is growing. This is a reactionary tendency.\"",
+      "status": "ok",
+      "confidence": 0.8897338509559631,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 166,
+        "y0": 1421,
+        "x1": 675,
+        "y1": 1940
+      },
+      "text": "The Boston Globe calls the faculty's task of deciding whether or not the colored girls are to be admitted to Sage Dormitory an unenviable one. \"If it were possible to distinguish between civil, political, economic, educational and social rights and privileges, the task of the Cornell trustees might not be so difficult, but those rights and privileges are all bound up together. Deny one and you infringe all the others. The colored students at Cornell are entitled to a fair and square answer to the question raised by the white women students, and the whole country will await it with interest.\"\n\nThe Norwich (Conn.) Record goes into an interesting argument: \"The issue is one that does not directly interest the South. Certainly it can cause the South no alarm. The Southern col-",
+      "status": "ok",
+      "confidence": 0.9593257308006287,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 701,
+        "y0": 191,
+        "x1": 1214,
+        "y1": 1146
+      },
+      "text": "leges and universities open to the white race exclusively are increasing in wealth and facilities, and the South will be able to educate its own sons and daughters. Whenever the doors of a Northern institution are thrown open to the Negroes, the North thereby assumes a part of the South's race problem. As time goes on and the more capable and ambitious young Negroes discover that they will oe received sincerely on terms of equality in the Northern colleges, they will go to the Northern colleges—and remain in the North when they have been graduated. The presence of two Negresses in Sage Dormitory would not establish social equality in Cornell, but if it should be followed by the admission of 220 during the coming ten or twenty years the genuineness of some of the Northern doctrines would be established, and Cornell would be arrayed aggressively in a campaign to break down racial barriers. Heretofore, the Northern institutions have, as a rule, said one thing and acted another. The opportunity is offered to Cornell to set itself in the front rank as an institution opposed to race separation, and its course will be looked upon from the South with an interest very slightly biased by selfish considerations. Meanwhile, the Northern acumen exhibited in the lavish endowment of Negro schools, such as Tuskegee, in the South, so that embarrassing questions of the kind that now exercise students and trustees at Cornell may be avoided so long as possible, finds itself unable to escape attention.\"",
+      "status": "ok",
+      "confidence": 0.9700797200202942,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 705,
+        "y0": 1148,
+        "x1": 1215,
+        "y1": 1370
+      },
+      "text": "The Richmond Times-Dispatch thinks the faculty's decision of little importance: \"No college law can break up ostracism. A snub is not unlawful. Social discrimination can be drawn. West Point, with all its discipline, cannot prevent 'silence.' A white student would not be welcome in a colored college, and the reverse is equally true.\"",
+      "status": "ok",
+      "confidence": 0.9680070877075195,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 707,
+        "y0": 1408,
+        "x1": 1218,
+        "y1": 1732
+      },
+      "text": "The Darlington, S. C., News and Press is not a believer in the Blease doctrines. \"It is a noteworthy fact,\" it says, \"that few Negroes who can read and write fill our jails in comparison with the number who cannot write their names. \"The Negro is here to stay, not as a slave, or under conditions in which he could be governed as in a state of slavery, but as a free individual, and his propensity to crime can be removed only by means which operate for his uplift.\"",
+      "status": "ok",
+      "confidence": 0.9640187621116638,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 707,
+        "y0": 1763,
+        "x1": 1220,
+        "y1": 1943
+      },
+      "text": "\"The big pow-wow, called the National Association, etc., having pow-wowed out in New York, that is fortunately impatient of whining problem solvers, will be held this year up Boston way, where the people like big talk from empty heads.\" N. Y. Age (colored).",
+      "status": "ok",
+      "confidence": 0.9052587151527405,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.1,
+    "at": "2026-10-06T21:40:15+00:00"
+  }
+}

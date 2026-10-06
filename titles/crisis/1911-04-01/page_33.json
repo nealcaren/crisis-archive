@@ -1,0 +1,519 @@
+{
+  "page": 33,
+  "image": "images/page_33.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 121,
+        "y0": 91,
+        "x1": 652,
+        "y1": 218
+      },
+      "text": "American Negro Academy Education Howard",
+      "status": "ok",
+      "confidence": 0.8410512208938599,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 121,
+        "y0": 868,
+        "x1": 652,
+        "y1": 1006
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 121,
+        "y0": 1220,
+        "x1": 652,
+        "y1": 1306
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 168,
+        "y0": 218,
+        "x1": 396,
+        "y1": 238
+      },
+      "text": "OCCASIONAL PAPERS",
+      "status": "ok",
+      "confidence": 0.8594238758087158,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 80,
+        "y0": 238,
+        "x1": 211,
+        "y1": 837
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 80,
+        "y0": 241,
+        "x1": 477,
+        "y1": 760
+      },
+      "text": "No. 2. Conservation of Races. W. E. Burghardt DuBois ..... $0.15\nNo. 3.. (a) Civilization the Primal Need of the Race; (b) The Attitude of the American Mind Toward the Negro Intellect. Alexander Crummell ..... 15\nNo. 4. Comparative Study of the Negro Problem. Charles C. Cook ..... 15\nNo. 5. How the Black St. Domingo Legion Saved the Patriot Army in the Siege of Savannah, 1779. T. G. Steward, U.S.A. ..... 15\nNo. 6. Disfranchisement of the Negro. John L. Love ..... 15\nNo. 7. Right on the Scaffold, or the Martyrs of 1822. Archibald H. Grimke ..... 15\nNo. 8. Educated Negro and His Mission. W. S. Scarborough ..... 15\nNo. 9. Early Negro Convention Movement. John W. Cromwell ..... 15\nNo. 11. Negro and the Elective Franchise: A Symposium by A. H. Grimke, Charles C. Cook, John Hope, John L. Love, Kelly Miller and Rev. F. J. Grimke ..... 35\nNo. 12. Modern Industrialism and the Negroes of the United States. Archibald H. Grimke ..... 15\nNo. 13. Demand and the Supply of Increased Efficiency in the Negro Ministry. J. E. Moreland ..... 15\nNo. 14. Charles Sumner Centenary. Historical Address. Archibald H. Grimke ..... 15",
+      "status": "ok",
+      "confidence": 0.8720883131027222,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 251,
+        "y0": 772,
+        "x1": 472,
+        "y1": 815
+      },
+      "text": "corresponding Secretary,\n1815 Thirteenth St., N.W.\nWashington, D. C.",
+      "status": "ok",
+      "confidence": 0.3071781396865845,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 166,
+        "y0": 837,
+        "x1": 393,
+        "y1": 868
+      },
+      "text": "Directory",
+      "status": "ok",
+      "confidence": 0.8724098205566406,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 80,
+        "y0": 868,
+        "x1": 211,
+        "y1": 1006
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 85,
+        "y0": 892,
+        "x1": 466,
+        "y1": 979
+      },
+      "text": "Real Estate and Probate Matters a Specialty\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nNOTARY PUBLIC\nOffice: Room 502, Eberly Block Columbus, C",
+      "status": "ok",
+      "confidence": 0.9011012315750122,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 144,
+        "y0": 1006,
+        "x1": 414,
+        "y1": 1131
+      },
+      "text": "B. S. SMITH\nATTORNEY AND COUNSELOR-AT-LAW.\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL",
+      "status": "ok",
+      "confidence": 0.8479724526405334,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 207,
+        "y0": 1135,
+        "x1": 350,
+        "y1": 1181
+      },
+      "text": "ATOTREY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.",
+      "status": "ok",
+      "confidence": 0.8565508127212524,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "title",
+      "bbox": {
+        "x0": 153,
+        "y0": 1202,
+        "x1": 400,
+        "y1": 1220
+      },
+      "text": "J. DOUGLAS WETMORE",
+      "status": "ok",
+      "confidence": 0.7951656579971313,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "text",
+      "bbox": {
+        "x0": 80,
+        "y0": 1220,
+        "x1": 211,
+        "y1": 1306
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 79,
+        "y0": 1222,
+        "x1": 475,
+        "y1": 1283
+      },
+      "text": "ATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet",
+      "status": "ok",
+      "confidence": 0.8706074953079224,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "title",
+      "bbox": {
+        "x0": 121,
+        "y0": 1306,
+        "x1": 433,
+        "y1": 1380
+      },
+      "text": "FREDERICK L. McGHEE\nATTORNEY AND COUNSELOR-AT-LAWN\nUnion Block, Fourth and Cedar Streets\nSt. Paul, Minn.",
+      "status": "ok",
+      "confidence": 0.9245744943618774,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "title",
+      "bbox": {
+        "x0": 80,
+        "y0": 1410,
+        "x1": 211,
+        "y1": 1428
+      },
+      "text": "General Practice",
+      "status": "ok",
+      "confidence": 0.25182294845581055,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "title",
+      "bbox": {
+        "x0": 364,
+        "y0": 1410,
+        "x1": 474,
+        "y1": 1427
+      },
+      "text": "Notary Public",
+      "status": "ok",
+      "confidence": 0.27778851985931396,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "title",
+      "bbox": {
+        "x0": 151,
+        "y0": 1430,
+        "x1": 404,
+        "y1": 1494
+      },
+      "text": "WILLIAM R. MORRIS\nATTORNEY AND COUNSELOR-AT-LAW\n1020 Metropolitan Life Building\nMinneapolis, Minn.",
+      "status": "ok",
+      "confidence": 0.8637480735778809,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "text",
+      "bbox": {
+        "x0": 80,
+        "y0": 1494,
+        "x1": 211,
+        "y1": 1587
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "abandon",
+      "bbox": {
+        "x0": 387,
+        "y0": 1504,
+        "x1": 562,
+        "y1": 1522
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.6989729404449463,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "abandon",
+      "bbox": {
+        "x0": 870,
+        "y0": 90,
+        "x1": 896,
+        "y1": 111
+      },
+      "text": "33",
+      "status": "ok",
+      "confidence": 0.8325951099395752,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "title",
+      "bbox": {
+        "x0": 539,
+        "y0": 141,
+        "x1": 859,
+        "y1": 171
+      },
+      "text": "Educational Directory",
+      "status": "ok",
+      "confidence": 0.8092774748802185,
+      "lines": []
+    },
+    {
+      "id": "r25",
+      "label": "title",
+      "bbox": {
+        "x0": 514,
+        "y0": 188,
+        "x1": 886,
+        "y1": 231
+      },
+      "text": "Howard University",
+      "status": "ok",
+      "confidence": 0.6669220924377441,
+      "lines": []
+    },
+    {
+      "id": "r27",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 502,
+        "y0": 236,
+        "x1": 897,
+        "y1": 525
+      },
+      "text": "WILBUR P. THIRKIELD, President\nWashington, D. C.\n\nThe College of Arts and Sciences—Kelly Miller,\nA.M., Dean.\n\nThe Teachers' College—Lewis B. Moore, A.M.,\nPh.D., Dean.\n\nThe Academy—George J. Cummings, A.M., Dean.\n\nThe Commercial College—George W. Cook, A.M.,\nDean.\n\nSchool of Manual Arts and Applied Sciences—\nPROFESSIONAL SCHOOLS\n\nThe School of Theology—Isaac Clark, D.D., Dean.\n\nThe School of Medicine: Medical, Dental and\nPharmaceutical Colleges—Edward O. Bailoch, M.D., Dean.\n\nThe School of Law—Benjamin F. Leighton,\nLL.D., Dean.\n\nFor catalogue and special information address\nDean of Department.",
+      "status": "ok",
+      "confidence": 0.9408499598503113,
+      "lines": []
+    },
+    {
+      "id": "r28",
+      "label": "title",
+      "bbox": {
+        "x0": 514,
+        "y0": 541,
+        "x1": 896,
+        "y1": 762
+      },
+      "text": "Atlanta University is beautifully located in the City of Atlanta, Ga. The courses of study include High School, Normal School and College, with manual training and domestic science. Among the teachers are graduates of Yale, Harvard, Dartmouth, Smith and Wellesley. Forty-one years of successful work have been completed. Students come from all parts of the South. Graduates are almost universally successful.",
+      "status": "ok",
+      "confidence": 0.9320335984230042,
+      "lines": []
+    },
+    {
+      "id": "r29",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 502,
+        "y0": 587,
+        "x1": 896,
+        "y1": 931
+      },
+      "text": "Is beautifully located in the City of Atlanta, Ga. The courses of study include High School, Normal School and College, with manual training and domestic science. Among the teachers are graduates of Yale, Harvard, Dartmouth, Smith and Wellesley. Forty-one years of successful work have been completed. Students come from all parts of the South. Graduates are almost universally successful.\n\nFor further information address\n\nPresident EDWARD T. WARE\nATLANTA, GA.\n\nWilberforce University\nWILBERFORCE, OHIO",
+      "status": "ok",
+      "confidence": 0.9673172235488892,
+      "lines": []
+    },
+    {
+      "id": "r32",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 566,
+        "y0": 931,
+        "x1": 830,
+        "y1": 948
+      },
+      "text": "Opens first Tuesday in September",
+      "status": "ok",
+      "confidence": 0.5241137146949768,
+      "lines": []
+    },
+    {
+      "id": "r33",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 502,
+        "y0": 946,
+        "x1": 895,
+        "y1": 1107
+      },
+      "text": "Located in Greene County, 31/4 miles from Xenia, Ohio. Healthful surroundings. Refined community. Faculty of 32 members. Expenses low. Classical and Scientific, Theological, Preparatory, Music, Military, Normal and Business Departments. Ten industries taught. Great opportunities for High School graduates entering College or Professional Courses. Two new buildings for girls to be erected in erected this year—one year ago. Great opportunities in process of erection, and the other to be begun in the spring. Catalogue and Special Information Furnished.",
+      "status": "ok",
+      "confidence": 0.9140875339508057,
+      "lines": []
+    },
+    {
+      "id": "r35",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 549,
+        "y0": 1112,
+        "x1": 844,
+        "y1": 1220
+      },
+      "text": "Address\nW. S. SCARBOROUGH, President.\nShaw University",
+      "status": "ok",
+      "confidence": 0.9118772745132446,
+      "lines": []
+    },
+    {
+      "id": "r36",
+      "label": "text",
+      "bbox": {
+        "x0": 514,
+        "y0": 1220,
+        "x1": 896,
+        "y1": 1458
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r37",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 500,
+        "y0": 1221,
+        "x1": 894,
+        "y1": 1294
+      },
+      "text": "This institution of learning, established in 1865, has industrial departments for both young men and young women, as well as college, normal and preparatory departments. There are also Schools of Law, Medicine, Pharmacy and Theology.",
+      "status": "ok",
+      "confidence": 0.9223408699035645,
+      "lines": []
+    },
+    {
+      "id": "r38",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 499,
+        "y0": 1294,
+        "x1": 894,
+        "y1": 1337
+      },
+      "text": "The facilities have recently been increased. Other improvements are being planned that will be completed within the next two years.",
+      "status": "ok",
+      "confidence": 0.893932580947876,
+      "lines": []
+    },
+    {
+      "id": "r39",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 500,
+        "y0": 1337,
+        "x1": 893,
+        "y1": 1453
+      },
+      "text": "Applications should be made several months on a year in advance, for a year has become impossible during the last few years to receive all who apply. The present enrollment is over 500. The academic year begins on the Thursday nearest the first day of October and continues for thirty-two consecutive weeks. The charges are moderate. Catalogues furnished upon application, for it has become impossible during the first month or a year in advance, for application.",
+      "status": "ok",
+      "confidence": 0.9174791574478149,
+      "lines": []
+    },
+    {
+      "id": "r40",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 570,
+        "y0": 1458,
+        "x1": 824,
+        "y1": 1495
+      },
+      "text": "Address THE PRESIDENT\nShaw University, Raleigh, N. C.",
+      "status": "ok",
+      "confidence": 0.7949605584144592,
+      "lines": []
+    },
+    {
+      "id": "r41",
+      "label": "text",
+      "bbox": {
+        "x0": 514,
+        "y0": 1495,
+        "x1": 896,
+        "y1": 1587
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 119.2,
+    "at": "2026-10-06T21:36:23+00:00"
+  }
+}

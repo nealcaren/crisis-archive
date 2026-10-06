@@ -1,0 +1,185 @@
+{
+ "page": 19,
+ "image": "images/page_19.jpg",
+ "width": 1078,
+ "height": 1604,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 3.4,
+  "at": "2026-10-06T20:57:38+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 37,
+    "y0": 89,
+    "x1": 262,
+    "y1": 114
+   },
+   "text": "DECEMBER, 1910",
+   "status": "ok",
+   "confidence": 0.4326710104942322,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 34,
+    "y0": 85,
+    "x1": 263,
+    "y1": 114
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "figure",
+   "bbox": {
+    "x0": 0,
+    "y0": 99,
+    "x1": 992,
+    "y1": 1406
+   },
+   "text": "DECEMBER, 1910",
+   "status": "ok",
+   "confidence": 0.8429235816001892,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 0,
+    "y0": 106,
+    "x1": 992,
+    "y1": 1401
+   },
+   "exclude": [
+    [
+     39,
+     91,
+     57,
+     109,
+     "r0"
+    ],
+    [
+     57,
+     91,
+     74,
+     109,
+     "r0"
+    ],
+    [
+     75,
+     91,
+     90,
+     109,
+     "r0"
+    ],
+    [
+     91,
+     91,
+     107,
+     109,
+     "r0"
+    ],
+    [
+     108,
+     91,
+     130,
+     109,
+     "r0"
+    ],
+    [
+     131,
+     92,
+     147,
+     110,
+     "r0"
+    ],
+    [
+     147,
+     92,
+     164,
+     110,
+     "r0"
+    ],
+    [
+     165,
+     92,
+     182,
+     110,
+     "r0"
+    ],
+    [
+     212,
+     93,
+     219,
+     111,
+     "r0"
+    ],
+    [
+     222,
+     92,
+     234,
+     111,
+     "r0"
+    ],
+    [
+     238,
+     93,
+     245,
+     111,
+     "r0"
+    ],
+    [
+     248,
+     93,
+     260,
+     111,
+     "r0"
+    ],
+    [
+     184,
+     106,
+     188,
+     112,
+     "r0"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "figure_caption",
+   "bbox": {
+    "x0": 502,
+    "y0": 1426,
+    "x1": 990,
+    "y1": 1528
+   },
+   "text": "THE CHRISTMAS RECKONING At Christmastide two million Southern Negroes ma their annual wage reckoning with the plantation owne and either receive the small balance due or are remand to debt slavery.",
+   "status": "ok",
+   "confidence": 0.8909595012664795,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 497,
+    "y0": 1423,
+    "x1": 991,
+    "y1": 1528
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 3,
+  "regions_after": 3,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

@@ -1,0 +1,582 @@
+{
+ "page": 5,
+ "image": "images/page_05.jpg",
+ "width": 1886,
+ "height": 2821,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 11.4,
+  "at": "2026-10-06T20:50:29+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 599,
+    "y0": 162,
+    "x1": 1189,
+    "y1": 207
+   },
+   "text": "ALONG THE COLOR LINE",
+   "status": "ok",
+   "confidence": 0.8563460111618042,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 603,
+    "y0": 162,
+    "x1": 1187,
+    "y1": 205
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 184,
+    "y0": 247,
+    "x1": 872,
+    "y1": 321
+   },
+   "text": "Bishop T. N. Morrison, of the Episcopal Church, says:",
+   "status": "ok",
+   "confidence": 0.9348534345626831,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 183,
+    "y0": 248,
+    "x1": 870,
+    "y1": 319
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 919,
+    "y0": 258,
+    "x1": 1599,
+    "y1": 363
+   },
+   "text": "Governor Hadley, of Missouri, has appointed a Negro tuberculosis commission consisting of six Negro physicians and one lady.",
+   "status": "ok",
+   "confidence": 0.9502671957015991,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 917,
+    "y0": 256,
+    "x1": 1598,
+    "y1": 359
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 184,
+    "y0": 323,
+    "x1": 871,
+    "y1": 531
+   },
+   "text": "\"I would impress upon those interested in missionary work my belief that there is more of a field for good and advantageous work among the Negroes of the United States than among the people of foreign countries and I will urge that missionaries' work begin at home.\"",
+   "status": "ok",
+   "confidence": 0.9600411057472229,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 184,
+    "y0": 325,
+    "x1": 868,
+    "y1": 526
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 917,
+    "y0": 406,
+    "x1": 1599,
+    "y1": 610
+   },
+   "text": "That powerful Negro empires of great size and some culture existed in the Sudan before the white races entered Africa is the conviction of a French scientist, M. Zeltner, who reports in La Nature on the results of his archæological investigations in the basins of the rivers Niger and Senegal.",
+   "status": "ok",
+   "confidence": 0.9629561901092529,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 917,
+    "y0": 404,
+    "x1": 1597,
+    "y1": 604
+   },
+   "exclude": [
+    [
+     953,
+     607,
+     984,
+     632,
+     "r6"
+    ],
+    [
+     991,
+     609,
+     993,
+     612,
+     "r6"
+    ],
+    [
+     1007,
+     608,
+     1020,
+     632,
+     "r6"
+    ],
+    [
+     1204,
+     609,
+     1208,
+     632,
+     "r6"
+    ],
+    [
+     1260,
+     609,
+     1269,
+     632,
+     "r6"
+    ],
+    [
+     1386,
+     609,
+     1399,
+     633,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 185,
+    "y0": 572,
+    "x1": 871,
+    "y1": 680
+   },
+   "text": "The twenty-sixth annual meeting of the Episcopal Church workers among colored people was held this year in the city of Cleveland, O.",
+   "status": "ok",
+   "confidence": 0.9461597800254822,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 183,
+    "y0": 573,
+    "x1": 869,
+    "y1": 676
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 916,
+    "y0": 603,
+    "x1": 1599,
+    "y1": 1037
+   },
+   "text": "Within a triangle formed by the towns of Timbuctoo, Kayes and Bamako he located fifty-two archaeological deposits consisting of ruins of unknown cities. M. Zeltner's most interesting finds were made in caves on the upper Senegal. Here an abundance of runic signs and drawings were found traced on rocks. They were similar in character to those discovered in South African caverns. The writings have some resemblance to those signs found on ancient ruins further eastward in the Sahara desert, and are believed by M. Zeltner to be related to the present Tuareg alphabet.",
+   "status": "ok",
+   "confidence": 0.9764655828475952,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 917,
+    "y0": 606,
+    "x1": 1596,
+    "y1": 1031
+   },
+   "exclude": [
+    [
+     1335,
+     587,
+     1347,
+     606,
+     "r4"
+    ],
+    [
+     1518,
+     587,
+     1530,
+     606,
+     "r4"
+    ],
+    [
+     951,
+     1036,
+     974,
+     1059,
+     "r8"
+    ],
+    [
+     977,
+     1036,
+     990,
+     1060,
+     "r8"
+    ],
+    [
+     1019,
+     1036,
+     1033,
+     1060,
+     "r8"
+    ],
+    [
+     1210,
+     1036,
+     1224,
+     1059,
+     "r8"
+    ],
+    [
+     1254,
+     1036,
+     1266,
+     1059,
+     "r8"
+    ],
+    [
+     1413,
+     1036,
+     1427,
+     1060,
+     "r8"
+    ],
+    [
+     1465,
+     1036,
+     1469,
+     1044,
+     "r8"
+    ],
+    [
+     1553,
+     1036,
+     1557,
+     1046,
+     "r8"
+    ],
+    [
+     1570,
+     1036,
+     1575,
+     1060,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 183,
+    "y0": 781,
+    "x1": 871,
+    "y1": 1480
+   },
+   "text": "A congress, which promises to be one of the most influential of our time, is to be held in London July 26-29, 1911, in the central building of the University of London. The list of those who have extended to it their moral support is most imposing. Among the supporters, who hail from no less than fifty countries, are over twenty-five presidents of Parliaments, the majority of the members of the Permanent Court of Arbitration and of the delegates to the Second Hague Conference, twelve British governors and eight British premiers, over forty colonial bishops, some hundred and thirty professors of international law, the leading anthropologists and sociologists, the officers and the majority of the Council of the Inter-Parliamentary Union, and other distinguished personages. The list of the writers of papers includes eminent representatives of over twenty civilizations, and every paper referring to a particular people is prepared by some one of high standing belonging to it.",
+   "status": "ok",
+   "confidence": 0.9795849323272705,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 185,
+    "y0": 781,
+    "x1": 867,
+    "y1": 1476
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 915,
+    "y0": 1032,
+    "x1": 1597,
+    "y1": 1260
+   },
+   "text": "The discoveries made have yet to be thoroughly studied. M. Zeltner thinks that the archaeological exploration of the African continent is yet in its infancy and will doubtless yield surprising results in establishing the advanced state of development attained by the black races in early times.—N. Y. Sun.",
+   "status": "ok",
+   "confidence": 0.9727383852005005,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 915,
+    "y0": 1034,
+    "x1": 1593,
+    "y1": 1260
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 915,
+    "y0": 1328,
+    "x1": 1593,
+    "y1": 1741
+   },
+   "text": "ORGANIZATIONS AND MEETINGS. Clark University has held an interesting conference on the East and Africa. The subjects discussed were Turkey, Persia, Bulgaria, Arabia, Egypt and Africa. Among the speakers were: Dr. A. T. Chamberlain, on \"The Contributions of the Negro to Human Civilization;\" G. W. Ellis, F. R. G. S., on Liberia; the Rev. L. P. Clinton, on West Africa; Professor Frederic Starr, on the Congo, and E. A. Forbes, on French Africa. Messrs. Ellis and Clinton are colored.",
+   "status": "ok",
+   "confidence": 0.9711245894432068,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 914,
+    "y0": 1324,
+    "x1": 1591,
+    "y1": 1741
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 180,
+    "y0": 1515,
+    "x1": 868,
+    "y1": 1922
+   },
+   "text": "The Rhode Island Union of Colored Women numbers 12 clubs-one in Pawtucket, three in Newport and eight in Providence. Each of these clubs is doing excellent work in its own way, striving to solve the problems nearest home. But while the local club has its particular function, the demands of the union upon each individual organization is equally great. The work is divided into four general departments—parents, village improvement, hero and race library. One or two members from each club is represented in each department.",
+   "status": "ok",
+   "confidence": 0.9747409820556641,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 181,
+    "y0": 1512,
+    "x1": 864,
+    "y1": 1915
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 911,
+    "y0": 1782,
+    "x1": 1592,
+    "y1": 1914
+   },
+   "text": "Colored people in Ohio and Maryland have held celebrations commemorating the issuance of Lincoln's preliminary Emancipation Proclamation in 1863.",
+   "status": "ok",
+   "confidence": 0.9382396340370178,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 910,
+    "y0": 1779,
+    "x1": 1591,
+    "y1": 1913
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 911,
+    "y0": 1953,
+    "x1": 1593,
+    "y1": 2087
+   },
+   "text": "At the Appalachian Exposition, which is being held in Knoxville, the Negroes have a special exhibit and are conducting a series of celebrations.",
+   "status": "ok",
+   "confidence": 0.9356703162193298,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 910,
+    "y0": 1951,
+    "x1": 1590,
+    "y1": 2086
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 180,
+    "y0": 1954,
+    "x1": 865,
+    "y1": 2029
+   },
+   "text": "The Associated Charities of Lexington, Ky., are giving talks to colored people on consumption.",
+   "status": "ok",
+   "confidence": 0.9285587668418884,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 179,
+    "y0": 1952,
+    "x1": 864,
+    "y1": 2024
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r14",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 175,
+    "y0": 2061,
+    "x1": 865,
+    "y1": 2300
+   },
+   "text": "Mr. Booker T. Washington while in Europe received much social attention. In an interview in the Morning Post he said that the race problem in the South is becoming more and more reassuring. On landing in America Mr. Washington announced that the Negroes in the United States were better off than the poor classes in Europe.",
+   "status": "ok",
+   "confidence": 0.9634580016136169,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 177,
+    "y0": 2059,
+    "x1": 862,
+    "y1": 2296
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r15",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 908,
+    "y0": 2126,
+    "x1": 1591,
+    "y1": 2591
+   },
+   "text": "During the summer the following colored organizations have held annual meetings: National Association of Colored Women's Clubs, at Louisville, Ky.; National Association of Colored Physicians and Surgeons, at Washington, D. C.; National Colored Baptist Association, at New Orleans, La.; the Niagara Movement, at Sea Isle City, N. J.; the Independent Political League, at Atlantic City, N. J.; the Negro Business League, in New York City; the Colored Elks, at Washington, D. C., and the Grand United Order of Odd Fellows, at Baltimore. It is estimated that nearly 12,000 people attended these various conventions.",
+   "status": "ok",
+   "confidence": 0.970746636390686,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 910,
+    "y0": 2126,
+    "x1": 1588,
+    "y1": 2591
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r16",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 173,
+    "y0": 2312,
+    "x1": 862,
+    "y1": 2604
+   },
+   "text": "A Carnegie Library for Negroes will be built in Montgomery, Ala.\n\nThe need of a reformatory for Negro youth is being agitated in Georgia.\n\nColored state fairs are being held this fall in Virginia, Kentucky, Georgia and other states.",
+   "status": "ok",
+   "confidence": 0.9249774813652039,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 172,
+    "y0": 2326,
+    "x1": 860,
+    "y1": 2598
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r18",
+   "label": "title",
+   "bbox": {
+    "x0": 378,
+    "y0": 731,
+    "x1": 679,
+    "y1": 766
+   },
+   "text": "SOCIAL UPLIFT.",
+   "status": "ok",
+   "confidence": 0.8677067756652832,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 379,
+    "y0": 728,
+    "x1": 674,
+    "y1": 766
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r19",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1577,
+    "y0": 167,
+    "x1": 1601,
+    "y1": 204
+   },
+   "text": "5",
+   "status": "ok",
+   "confidence": 0.7680982351303101,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1578,
+    "y0": 168,
+    "x1": 1599,
+    "y1": 200
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 19,
+  "regions_after": 19,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.73,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

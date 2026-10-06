@@ -1,0 +1,354 @@
+{
+ "page": 11,
+ "image": "images/page_11.jpg",
+ "width": 1879,
+ "height": 2817,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.6,
+  "at": "2026-10-06T20:51:33+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 756,
+    "y0": 137,
+    "x1": 1012,
+    "y1": 178
+   },
+   "text": "EDITORIAL",
+   "status": "ok",
+   "confidence": 0.6225361824035645,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 756,
+    "y0": 134,
+    "x1": 1009,
+    "y1": 179
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 165,
+    "y0": 234,
+    "x1": 862,
+    "y1": 612
+   },
+   "text": "established, immediately the public provisions for the segregated portion become worse. If it is discrimination against poor people, then the schools for the poor people become worse than those for the rich less well equipped and less well supervised. If it is discrimination against colored people, the colored school becomes poor, with less money and less means of efficiency.",
+   "status": "ok",
+   "confidence": 0.9762296676635742,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 167,
+    "y0": 233,
+    "x1": 859,
+    "y1": 607
+   },
+   "exclude": [
+    [
+     216,
+     611,
+     245,
+     642,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 166,
+    "y0": 607,
+    "x1": 863,
+    "y1": 895
+   },
+   "text": "The argument, then, for color discrimination in schools and in public institutions is an argument against democracy and an attempt to shift public responsibility from the shoulders of the public to the shoulders of some class who are unable to defend themselves.",
+   "status": "ok",
+   "confidence": 0.9773815870285034,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 168,
+    "y0": 609,
+    "x1": 860,
+    "y1": 896
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 375,
+    "y0": 955,
+    "x1": 658,
+    "y1": 994
+   },
+   "text": "BALTIMORE.",
+   "status": "ok",
+   "confidence": 0.9074879288673401,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 372,
+    "y0": 951,
+    "x1": 653,
+    "y1": 996
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 168,
+    "y0": 1013,
+    "x1": 866,
+    "y1": 1960
+   },
+   "text": "An inevitable step forward in antiNegro prejudice is being taken in Baltimore, and threatened elsewhere. The colored folk of that city long ago became dissatisfied with a particularly bad system of alley homes. They saved their money and purchased nearly the whole length of Druid Hill avenue—one of the best colored streets in the world. Then they began to expand into parallel streets, one of which was McCulloh. They had been told that \"money talks,\" and that the surest road to respect in America was financial success. The result was inevitable. The white people of McCulloh street rose in indignation and are importuning the City Council to pass an ordinance prohibiting colored people from \"invading\" white residential districts, and vice versa. Their argument sounds strong: colored residents bring down the price of property, therefore get rid of colored residents.",
+   "status": "ok",
+   "confidence": 0.9783948659896851,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 170,
+    "y0": 1010,
+    "x1": 861,
+    "y1": 1958
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 171,
+    "y0": 1960,
+    "x1": 866,
+    "y1": 2297
+   },
+   "text": "Is this the real logic of the situation? Why do colored people depress property values? Because of an exaggerated and persistently encouraged racial prejudice. In the encouragement of such prejudice, Baltimore and Maryland have particularly sinned. Would not an attempt to allay prejudice be wiser than laws against thrift?",
+   "status": "ok",
+   "confidence": 0.9759997725486755,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 172,
+    "y0": 1960,
+    "x1": 863,
+    "y1": 2293
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 170,
+    "y0": 2340,
+    "x1": 866,
+    "y1": 2604
+   },
+   "text": "VOTING. If there is one thing that should be urged upon colored voters throughout the United States this fall it is independence. No intelligent man should vote one way simply from habit. Only through care-",
+   "status": "ok",
+   "confidence": 0.9727894067764282,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 172,
+    "y0": 2335,
+    "x1": 866,
+    "y1": 2599
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "abandon",
+   "bbox": {
+    "x0": 1549,
+    "y0": 137,
+    "x1": 1587,
+    "y1": 174
+   },
+   "text": "11",
+   "status": "ok",
+   "confidence": 0.8102362751960754,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1548,
+    "y0": 136,
+    "x1": 1588,
+    "y1": 172
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 904,
+    "y0": 235,
+    "x1": 1597,
+    "y1": 860
+   },
+   "text": "ful scrutiny of candidates and policies can a man put himself in position to help rule one hundred million people. It is because of the suspicion that colored men are not capable of doing this, or are unwilling to do it, that so many American citizens acquiesce in the nullification of democracy known as disfranchisement. Let every colored man who can, vote; and whether he vote the Republican or Democratic or Socialist ticket, let him vote it, not because his father did or because he is afraid, but because after intelligent consideration he thinks the success of that ticket best for his people and his country.",
+   "status": "ok",
+   "confidence": 0.9779020547866821,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 905,
+    "y0": 234,
+    "x1": 1596,
+    "y1": 854
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 906,
+    "y0": 897,
+    "x1": 1595,
+    "y1": 1191
+   },
+   "text": "AGITATION. Some good friends of the cause we represent fear agitation. They say: \"Do not agitate—do not make a noise; work.\" They add, \"Agitation is destructive or at best negative—what is wanted is positive constructive work.\"",
+   "status": "ok",
+   "confidence": 0.9762158393859863,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 905,
+    "y0": 892,
+    "x1": 1595,
+    "y1": 1192
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 909,
+    "y0": 1194,
+    "x1": 1598,
+    "y1": 1561
+   },
+   "text": "Such honest critics mistake the function of agitation. A toothache is agitation. Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death. Without it the body would suffer unknowingly. It would think: All is well, when lo! danger lurks.",
+   "status": "ok",
+   "confidence": 0.9787317514419556,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 909,
+    "y0": 1193,
+    "x1": 1595,
+    "y1": 1563
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 910,
+    "y0": 1564,
+    "x1": 1598,
+    "y1": 1814
+   },
+   "text": "The same is true of the Social Body. Agitation is a necessary evil to tell of the ills of the Suffering. Without it many a nation has been lulled to false security and preened itself with virtues it did not possess.",
+   "status": "ok",
+   "confidence": 0.9752751588821411,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 909,
+    "y0": 1565,
+    "x1": 1596,
+    "y1": 1808
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 909,
+    "y0": 1810,
+    "x1": 1599,
+    "y1": 2220
+   },
+   "text": "The function of this Association is to tell this nation the crying evil of race prejudice. It is a hard duty but a necessary one—a divine one. It is Pain; Pain is not good but Pain is necessary. Pain does not aggravate disease — Disease causes Pain. Agitation does not mean Aggravation—Aggravation calls for Agitation in order that Remedy may be found.",
+   "status": "ok",
+   "confidence": 0.97682785987854,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 910,
+    "y0": 1810,
+    "x1": 1598,
+    "y1": 2221
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r13",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 908,
+    "y0": 2264,
+    "x1": 1601,
+    "y1": 2603
+   },
+   "text": "Two Italians were lynched in Florida. The Italian Government protested, but it was found that they were naturalized Americans. The inalienable right of every free American citizen to be lynched without tiresome investigation and penalties is one which the families of the lately deceased doubtless deeply appreciate.",
+   "status": "ok",
+   "confidence": 0.9724006652832031,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 909,
+    "y0": 2260,
+    "x1": 1600,
+    "y1": 2599
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 14,
+  "regions_after": 14,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.33,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

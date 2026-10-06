@@ -1,0 +1,127 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 269,
+        "y0": 178,
+        "x1": 1042,
+        "y1": 261
+      },
+      "text": "Along the Color Line",
+      "status": "ok",
+      "confidence": 0.5899145007133484,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 129,
+        "y0": 331,
+        "x1": 637,
+        "y1": 502
+      },
+      "text": "POLITICAL. The Republican candidate for Mayor of Baltimore has been defeated largely, it is said, through the reluctance of the colored men to vote for him. His record on the Negro question is not good.",
+      "status": "ok",
+      "confidence": 0.9660254120826721,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 131,
+        "y0": 505,
+        "x1": 637,
+        "y1": 972
+      },
+      "text": "The claim is made that Carter H. Harrison, Democrat, owes his election as Mayor of Chicago to the colored voters. This is the fifth time Mr. Harrison has served as Mayor. During his previous terms he appointed more colored men to office than any mayor had done before, advancing them, especially in the police force, to positions of responsibility. The elder Harrison, when he administered the city government, organized the first colored fire company, and employed Negroes regularly on the police force. The family has deserved so well of the race that many Negro voters seized the opportunity to show their gratitude and it is said that the small majority by which Mr. Harrison was elected was made up of their ballots.",
+      "status": "ok",
+      "confidence": 0.9788870811462402,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 132,
+        "y0": 986,
+        "x1": 637,
+        "y1": 1379
+      },
+      "text": "Walter Cohen, Register of the New Orleans Land Office, the last Negro Federal officeholder of any importance in Louisiana, was thrown out of a job by the merging of the New Orleans and Natchitoches Federal Land Offices, with headquarters at Baton Rouge. The Register of the Natchitoches Land Office, a white Republican, was placed in charge of the consolidated office at Baton Rouge. Mr. Cohen gave out a statement to the newspapers. in which he bitterly attacked the national administration for its refusal to recognize Negroes. He will vigorously oppose the \"Lily-Whites.\"",
+      "status": "ok",
+      "confidence": 0.978598415851593,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 131,
+        "y0": 1393,
+        "x1": 638,
+        "y1": 1868
+      },
+      "text": "A dispatch from West Virginia says that three State senators face \"a serious proposition.\" Their three counties have a large colored population, and there is an alleged possibility that only colored candidates will be nominated in a primary. \"If a primary law can be constructed so as to relieve this situation little opposition is to be expected.\" There is some trouble also in Norfolk County, Virginia. A large number of Negroes have paid their poll taxes and are entitled to vote. Some \"leaders,\" gifted in psychology, give it as their opinion that \"most of the Negroes pay their poll taxes in order to be able to vote and not because of any patriotic impulse that might lead them to contribute that amount toward the expenses",
+      "status": "ok",
+      "confidence": 0.9764619469642639,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 670,
+        "y0": 331,
+        "x1": 1179,
+        "y1": 788
+      },
+      "text": "of running the government.\" This situation also may be \"relieved.\"\nThe Negro National Democratic Convention opened in Indianapolis on May 17 for a three days' session. About 200 delegates attended. James S. Greene, of Georgia, was chairman, and W. H. Grant, ex-auditor in the Treasury Department at Washington, was secretary.\nDr. Henry W. Furniss, of Indianapolis, since 1905 the United States Minister at Port au Prince, Hayti, has sent his resignation to the State Department. The State Department gives no reasons and no one knows who will be Dr. Furniss' successor. The place pays a salary of $10,000 per annum.",
+      "status": "ok",
+      "confidence": 0.9719071984291077,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 672,
+        "y0": 842,
+        "x1": 1177,
+        "y1": 1302
+      },
+      "text": "EDUCATION. At the opening of The World in Boston Missionary Convention the forty-fifth anniversary of the founding of Fisk University was celebrated. President Taft sent a letter in which he said: \"I am not one of those who believe that it is well to educate the mass of Negroes with academic or university education. On the contrary, I am firmly convinced that the hope of the Negro is in his industrial education throughout the South, and in teaching him to be a better farmer, a better carpenter, a better machinist, and a better blacksmith than he is now, and to make more blacksmiths and more good farmers than there now are among the Negroes.\"",
+      "status": "ok",
+      "confidence": 0.979720413684845,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 671,
+        "y0": 1305,
+        "x1": 1177,
+        "y1": 1869
+      },
+      "text": "However, the letter carefully added that he had also become convinced it is necessary to have a few high-class universities for those who are to be the leaders of the race. Nothing, he wrote in conclusion, can do so much toward establishing a real nucleus for leadership among them as the maintenance of such a university as Fisk.\n\nMr. Charles Edward Stowe, son of Harriet Beecher Stowe, was of a less divided mind. \"Not only justice, but self-interest,\" he said, \"demand the education of the Negro. To shut the door of opportunity on the Negro, to relegate to him the lowest place and shut the door of hope upon him is to make him desperate.\"\n\nMiss Virginia McCormick has made a gift of $4,500 to the Agricultural and Mechanical College for Negroes at Normal, Alabama.",
+      "status": "ok",
+      "confidence": 0.9768621325492859,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.9,
+    "at": "2026-10-06T21:47:15+00:00"
+  }
+}

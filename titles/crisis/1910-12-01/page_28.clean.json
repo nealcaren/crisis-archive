@@ -108,8 +108,8 @@
    "label": "plain_text",
    "bbox": {
     "x0": 161,
-    "y0": 1352,
-    "x1": 636,
+    "y0": 1354,
+    "x1": 558,
     "y1": 1450
    },
    "text": "FROM DUTCH WORKINGMEN.\nThe Protestant Laboring Men's Association, \"Francisco Ferrer,\" of Amsterdam, adopted the following motion in their meeting of November 1st last:",
@@ -122,30 +122,9 @@
     "x1": 629,
     "y1": 1586
    },
-   "exclude": [
-    [
-     630,
-     1418,
-     638,
-     1428,
-     "r9"
-    ],
-    [
-     629,
-     1432,
-     638,
-     1446,
-     "r9"
-    ],
-    [
-     630,
-     1359,
-     639,
-     1369,
-     "r9"
-    ]
-   ],
-   "changed": false,
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "FROM DUTCH WORKINGMEN.\nThe Protestant Laboring Men's Association, \"Francisco Ferrer,\" of Amsterdam, adopted the following motion in their meeting of November 1st last:",
    "role": "text"
   },
   {
@@ -203,7 +182,7 @@
     "x1": 982,
     "y1": 1453
    },
-   "text": "ving taken due note of the circular is by the National Negro Committee, which was brought to the attention of the people of Great Britain and Europe, and deriding that the existing conditions of",
+   "text": "Having taken due note of the circular issued by the National Negro Committee, which was brought to the attention of the people of Great Britain and Europe, and considering that the existing conditions of",
    "status": "ok",
    "confidence": 0.9497343301773071,
    "lines": [],
@@ -215,101 +194,10 @@
    },
    "exclude": [
     [
-     613,
-     1373,
-     622,
-     1388,
-     "r6"
-    ],
-    [
-     585,
-     1378,
-     591,
-     1387,
-     "r6"
-    ],
-    [
-     593,
-     1378,
-     597,
-     1387,
-     "r6"
-    ],
-    [
-     598,
-     1378,
-     602,
-     1387,
-     "r6"
-    ],
-    [
-     604,
-     1378,
-     611,
-     1388,
-     "r6"
-    ],
-    [
      550,
      1381,
      555,
      1383,
-     "r6"
-    ],
-    [
-     600,
-     1393,
-     608,
-     1407,
-     "r6"
-    ],
-    [
-     611,
-     1393,
-     613,
-     1395,
-     "r6"
-    ],
-    [
-     625,
-     1394,
-     634,
-     1407,
-     "r6"
-    ],
-    [
-     584,
-     1398,
-     589,
-     1407,
-     "r6"
-    ],
-    [
-     589,
-     1398,
-     594,
-     1407,
-     "r6"
-    ],
-    [
-     595,
-     1398,
-     597,
-     1402,
-     "r6"
-    ],
-    [
-     610,
-     1398,
-     614,
-     1407,
-     "r6"
-    ],
-    [
-     616,
-     1398,
-     623,
-     1407,
      "r6"
     ],
     [
@@ -320,80 +208,10 @@
      "r6"
     ],
     [
-     625,
-     1412,
-     628,
-     1426,
-     "r6"
-    ],
-    [
      550,
      1416,
      556,
      1426,
-     "r6"
-    ],
-    [
-     584,
-     1417,
-     602,
-     1430,
-     "r6"
-    ],
-    [
-     603,
-     1417,
-     613,
-     1427,
-     "r6"
-    ],
-    [
-     614,
-     1418,
-     623,
-     1430,
-     "r6"
-    ],
-    [
-     624,
-     1432,
-     627,
-     1434,
-     "r6"
-    ],
-    [
-     584,
-     1436,
-     591,
-     1446,
-     "r6"
-    ],
-    [
-     593,
-     1436,
-     602,
-     1446,
-     "r6"
-    ],
-    [
-     604,
-     1437,
-     613,
-     1446,
-     "r6"
-    ],
-    [
-     615,
-     1437,
-     621,
-     1447,
-     "r6"
-    ],
-    [
-     623,
-     1437,
-     627,
-     1446,
      "r6"
     ],
     [
@@ -437,20 +255,6 @@
      771,
      1283,
      "r1"
-    ],
-    [
-     603,
-     1354,
-     618,
-     1369,
-     "r6"
-    ],
-    [
-     621,
-     1359,
-     628,
-     1369,
-     "r6"
     ]
    ],
    "changed": true,
@@ -461,19 +265,17 @@
  "clean": {
   "regions_before": 10,
   "regions_after": 8,
-  "lost_words": [
-   "considering",
-   "having",
-   "issued"
-  ],
+  "lost_words": [],
+  "needs_review": [],
   "unowned_ink_pct": 0.39,
   "box_overlaps_after": 2,
   "log": [
    "drop r4 (text): non-latin hallucination 'حرَّجَة'",
    "drop r5 (title): non-latin hallucination '尬'",
-   "reshape r9 (text): lost 77% of its ink, gained 7%",
-   "reread r9: 'Having taken due note of the circular is' -> 'ving taken due note of the circular is b'",
-   "CHECK words lost from page text: considering having issued"
+   "reshape r6 (plain_text): lost 14% of its ink, gained 0%",
+   "reshape r9 (text): lost 74% of its ink, gained 6%",
+   "reread r6: 'FROM DUTCH WORKINGMEN.\\nThe Protestant La' -> 'FROM DUTCH WORKINGMEN.\\nThe Protestant La'",
+   "reread r9: 'Having taken due note of the circular is' -> 'Having taken due note of the circular is'"
   ]
  }
 }

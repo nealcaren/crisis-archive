@@ -1,0 +1,211 @@
+{
+  "page": 43,
+  "image": "images/page_43.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 626,
+        "y0": 119,
+        "x1": 1228,
+        "y1": 1960
+      },
+      "text": "FORWARD!\nMarch Your Son Off to Wilberforce.\n\nThe only school for Negro Youth which was a Military Department equipped by the National Government and commanded by a detailed United States Army Officer.\n\nDEPARTMENTS:\nMILITARY CLASSICAL THEOLOGICAL\nNORMAL SCIENTIFIC MUSICAL\nBUSINESS TECHNICAL PREPARATORY\n\nBanking taught by the actual operations on the Students’ Savings Bank. Twelve industries, 180 acres of beautiful campus, Ten Buildings. Healthful surroundings, exceptional community. Maintained in part by the State of Ohio.\n\nW. S. SCARBOROUGH, President.\nWM. A. JOINER, Superintendent, C. N. & I.\n\ners and Shippers to Deal With Shipping Elsewhere.\nERS AND GAME POULTRY AND EGGS\n\nCOTTMAN\nANTS. 107 Pine Street, Philadelphia, Pa.\nBell 'Phone Connection: Lombard 4035\n\nYour Carpet Needs Cleaning!\nLet the NEW YORK CAREFUL CLEANING BUREAU Do It\nWe Clean and Renovate for Particular People—from a Rug to a House—by the Vacuum System.\nLet us give you a Clean House for the year 1911\nPhone 3253 Harlem. 12 West 135th Street\n\nTELEPHONE 5277 MORNINGSIDE\n\nDr. Gertrude E. Curtis\n471 Lenox Avenue, New York City\n\nSURGEON\nDENTIST\n\nOffice Hours:\n9-12 a.m.\n2-9 p.m.\n\nBellevue Dental Clinic\nMondays from\n2 to 5 p.m.\n\nSUNDAYS BY APPOINTMENT\nWOMEN'S and CHILDREN'S WORK A SPECIALTY",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 609,
+        "y0": 163,
+        "x1": 1157,
+        "y1": 631
+      },
+      "text": "FORWARD!\nMarch Your Son Off to Wilberforce.\nThe only school for Negro Youth which has a Military Department equipped by the National Government and commanded by a detailed United States Army Officer.\nDEPARTMENTS:\nMILITARY CLASSICAL THEOLOGICAL\nNORMAL SCIENTIFIC MUSICAL\nBUSINESS TECHNICAL PREPARATORY",
+      "status": "ok",
+      "confidence": 0.9607667326927185,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 613,
+        "y0": 661,
+        "x1": 1157,
+        "y1": 873
+      },
+      "text": "Banking taught by the actual operations in the Students' Savings Bank. Twelve Industries, 180 acres of beautiful campus, Ten Buildings. Healthful surroundings, exceptional community. Maintained in part by the State of Ohio.",
+      "status": "ok",
+      "confidence": 0.9746423363685608,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 111,
+        "y0": 950,
+        "x1": 620,
+        "y1": 1058
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 107,
+        "y0": 1013,
+        "x1": 1151,
+        "y1": 1238
+      },
+      "text": "The Firm for the Negro Farmers and Shippers to Deal With\nTry Us Before Shipping Elsewhere.\nFRUITS AND VEGETABLES OYSTERS AND GAME POULTRY AND EGGS\nCOTTMAN & COTTMAN\nWHOLESALE COMMISSION MERCHANTS. 107 Pine Street, Philadelphia, Pa.\nReference: The People's Savings Bank Bell 'Phone Connection: Lombard 4035",
+      "status": "ok",
+      "confidence": 0.44543778896331787,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 112,
+        "y0": 1287,
+        "x1": 619,
+        "y1": 1439
+      },
+      "text": "Cover illustration, April number, \"Girl Reading.\"\nCover illustration, May number, \"Bishop Hoolly.\"\nTwo-page photograph, May number,\n\"8th Illinois Regiment.\"\nOn heavy paper, 7 by 9 inches, suitable for framing—Fifty cents each.",
+      "status": "ok",
+      "confidence": 0.9409007430076599,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 111,
+        "y0": 1503,
+        "x1": 620,
+        "y1": 1671
+      },
+      "text": "One page, each insertion.....$15.00\nHalf page, each insertion....",
+      "status": "repetition",
+      "confidence": 0.8619987368583679,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 650,
+        "y0": 1759,
+        "x1": 1160,
+        "y1": 1912
+      },
+      "text": "Office Hours: Bellevue Dental Clinic\n9-12 a. m. Mondays from\n2-9 p. m. 2 to 5 p. m.\n\nSUNDAYS BY APPOINTMENT\nWOMEN'S and CHILDREN'S WORK A SPECIALTY",
+      "status": "ok",
+      "confidence": 0.7390978932380676,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 111,
+        "y0": 1848,
+        "x1": 620,
+        "y1": 2058
+      },
+      "text": "Agent Continental Casualty Company\nLargest Accident and Health Insurance Company\nin the World\n\nMention",
+      "status": "ok",
+      "confidence": 0.6018073558807373,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 523,
+        "y0": 1972,
+        "x1": 749,
+        "y1": 1996
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.8232378959655762,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "figure",
+      "bbox": {
+        "x0": 126,
+        "y0": 185,
+        "x1": 515,
+        "y1": 950
+      },
+      "text": "",
+      "status": "error",
+      "confidence": 0.8820453882217407,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "title",
+      "bbox": {
+        "x0": 252,
+        "y0": 1238,
+        "x1": 481,
+        "y1": 1266
+      },
+      "text": "CRISIS PRINTS",
+      "status": "ok",
+      "confidence": 0.8526403307914734,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 217,
+        "y0": 1472,
+        "x1": 511,
+        "y1": 1497
+      },
+      "text": "ADVERTISING RATES",
+      "status": "ok",
+      "confidence": 0.8854911923408508,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 117,
+        "y0": 1703,
+        "x1": 514,
+        "y1": 1841
+      },
+      "text": "Phone 2870-J Harlem.\nW. A. PARKER\nACCIDENT INSURANCE\n2162 FIFTH AVENUE",
+      "status": "ok",
+      "confidence": 0.6077861189842224,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 14.7,
+    "at": "2026-10-06T21:45:50+00:00"
+  }
+}

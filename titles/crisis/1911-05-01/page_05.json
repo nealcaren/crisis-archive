@@ -1,0 +1,113 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 263,
+        "y0": 176,
+        "x1": 1027,
+        "y1": 259
+      },
+      "text": "Along the Color Line",
+      "status": "ok",
+      "confidence": 0.5616905093193054,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 122,
+        "y0": 328,
+        "x1": 628,
+        "y1": 860
+      },
+      "text": "POLITICS.\nThe United States Senate has not yet taken up the matter of confirming Mr. William H. Lewis as Assistant Attorney-General and Mr. J. C. Napier as Register of the Treasury. While the chances are that both of these nominees will be confirmed, there is rumor of considerable opposition to Mr. Lewis.\nSenator Lodge has introduced a bill providing that $200,000 of the money of the Freedmen's Bureau held by the Treasury Department shall go to the establishment of a National memorial home for aged colored people and working girls.\nA delegation of colored people have been urging on Speaker Champ Clark the advisability of a bill reimbursing the Freedmen's Bank depositors.",
+      "status": "ok",
+      "confidence": 0.9748058319091797,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 120,
+        "y0": 868,
+        "x1": 627,
+        "y1": 1459
+      },
+      "text": "The Bourbon wing of the Democracy has begun operations by introducing two bills into Congress: one by Representative Hardwick of Georgia, providing for the repeal of the Fourteenth Amendment, and the other by Representative Clark of Florida, to prohibit the intermarriage of the races in the District of Columbia. Neither bill has any chance of passage.\n\nHon. Walter Cohen, Register of the New Orleans Land Office, and the last Negro officeholder of importance in Louisiana, was relieved of his office recently by the merging of various land offices. A white Republican was placed in charge of the consolidated office. Mr. Cohen has issued a statement bitterly attacking Mr. Taft's administration for its attitude toward colored people.\n\nA meeting of colored Democrats has been called to assemble in Indianapolis May 17th.",
+      "status": "ok",
+      "confidence": 0.974079966545105,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 117,
+        "y0": 1467,
+        "x1": 623,
+        "y1": 1864
+      },
+      "text": "The colored people of New York are still busy endeavoring to secure a colored regiment in the State militia and representatives on the police force in New York City. Recently a delegation called upon Mayor Gaynor to urge the appointment of Rufus L. Perry, a colored lawyer of Brooklyn, as police magistrate. Mr. Gaynor promised to consider the matter.\n\nThe drawing of the name of a colored man on the petit jury of Clayton, Mo., has caused some comment.\n\nA joint resolution providing a constitutional amendment embodying the grandfather clause has been passed by",
+      "status": "ok",
+      "confidence": 0.9450055360794067,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 659,
+        "y0": 329,
+        "x1": 1166,
+        "y1": 738
+      },
+      "text": "one house of the Arkansas legislature and will probably become a law. Judge Hardage in his speech for the resolution frankly admitted that there was no use \"beating around the bush\" and that the measure was designed to eliminate the colored vote. Representative Green, a colored member of the General Assembly of Illinois, has introduced a bill to amend the State Civil Rights bill. This bill copies the Ohio provision by giving the Governor the right to remove from office any sheriff or other guardian of the peace who fails to do all in his power to suppress mob violence.",
+      "status": "ok",
+      "confidence": 0.9761112332344055,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 658,
+        "y0": 787,
+        "x1": 1161,
+        "y1": 1337
+      },
+      "text": "THE GHETTO. Mayor Mahoot, of Baltimore, has signed the second segregation ordinance. This ordinance not only seeks to separate white and colored residential districts, but also churches and places of amusement. The colored people are preparing to contest it in the courts. Meantime the colored \"invasion\" of residential districts, as the whites call it, or the colored demand for decent housing, as the Negroes call it, goes steadily on in Baltimore. The last of the white families are moving out of a block on Carlton Avenue and a colored man on North Mount Street has leased a house among white neighbors. The neighbors promptly bombarded the house with bricks, but the colored people are determined to stay. On North Stricker Street the first Negroes to occupy a house had the house badly damaged and moved out.",
+      "status": "ok",
+      "confidence": 0.9787012338638306,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 656,
+        "y0": 1347,
+        "x1": 1159,
+        "y1": 1865
+      },
+      "text": "In New York City St. Philip's Protestant Episcopal Church, the oldest colored church congregation in the city, has recently finished the transfer of its property holdings from downtown to 134th and 135th Streets. They have about twenty six-story flat buildings on West 135th Street and dispossessed 220 white families. Colored tenants are moving in. The white Taxpayers' Association tried to prevent the transfer of the property by court procedure but were worsted. They then appealed to Bishop Greer but he refused to help them. Many of the white storekeepers in the block have been notified of the increase in rent and threaten to move. It is said that this is just what certain colored storekeepers desire. The price paid for the 20 flats is said to be $620,000. Part of this is represented in mortgages",
+      "status": "ok",
+      "confidence": 0.9783093929290771,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.9,
+    "at": "2026-10-06T21:38:29+00:00"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "page": 38,
+  "image": "images/page_38.jpg",
+  "width": 1374,
+  "height": 2082,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 631,
+        "y0": 126,
+        "x1": 821,
+        "y1": 159
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.833330512046814,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 201,
+        "y0": 127,
+        "x1": 237,
+        "y1": 154
+      },
+      "text": "38",
+      "status": "ok",
+      "confidence": 0.8314733505249023,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 200,
+        "y0": 195,
+        "x1": 709,
+        "y1": 1009
+      },
+      "text": "it portrays \"a large-minded, large-hearted man, with a noble ambition to make his life helpful to his fellow men and his country.\"\nByington, Margaret F.—\"Homestead: The Households of a Mill Town.\" Charities Publication Committee.\nCarleton, William (Pseud.)—\"One Way Out: a Middle-class New Englander Emigrates to America.\" Small.\nFord, Henry Jones—\"Cost of Our National Government: a Study in Political Pathology.\" Lemcke.\nLukach, Harry C.—\"A Bibliography of Sierra Leone, with an Introductory Essay on the Origin, Character and Peoples of the Colony.\" Oxford University.\nNational Society for the Study of Education Publications—\"The City School as a Community Center.\" \"The Rural School as a Community Center.\" Chicago University.\nSchauffler, Robert Haven (Editor)—\"Memorial Day (Decoration Day); Its Celebration, Spirit and Significance as Related in Prose and Verse, with a Non-sectional Anthology of the Civil War.\" Moffat, Yard & Company.\nTheal, George McCall—\"The Yellow and Dark-skinned People of Africa South of the Zambesi.\" London: Swan Sonnenschein.",
+      "status": "ok",
+      "confidence": 0.9684146046638489,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 348,
+        "y0": 1040,
+        "x1": 560,
+        "y1": 1067
+      },
+      "text": "PERIODICALS.",
+      "status": "ok",
+      "confidence": 0.9052717089653015,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 200,
+        "y0": 1080,
+        "x1": 708,
+        "y1": 1945
+      },
+      "text": "\"The Protection of Our 'Infant Industry.'\" Harry Albert Austin, Forum, April.\n\n\"Durham—City of Negro Enterprises.\" Booker T. Washington. Independent, March 30.\n\n\"How Mrs. Stowe Wrote 'Uncle Tom's Cabin.'\" Charles Edward Stowe and Lyman Beecher Stowe. McClure's, April.\n\n\"Prisoners of War: a Soldier's Narrative of Life at Libby and Danville Prisons.\" George Haven Putnam. Outlook, March 25.\n\n\"The West in the East, from an American Point of View: From Mughal to Briton.\" Price Collier. Scribner's, April.\n\n\"The British West Indian Negro: Historical Survey.\" First Paper. Southern Workman, April.\n\n\"Race and Color Prejudice.\" Hilda M. Howsin. The Imperial and Asiatic Quarterly Review, April.\n\n\"Observations on Negro Colleges.\" Booker T. Washington. World's Work, April.\n\n\"Half Time at School and Half Time at Work.\" Frank Parker Stockbridge. World's Work, April.\n\n\"The Boy of To-morrow: What the School Will Do for Him.\" Arthur D. Dean. World's Work, April.",
+      "status": "ok",
+      "confidence": 0.9756377935409546,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 743,
+        "y0": 190,
+        "x1": 1254,
+        "y1": 529
+      },
+      "text": "RACE AND COLOR PREJUDICE. This article which appears in The Imperial and Asiatic Quarterly Review for April was first read by the author, Miss Hilda M. Howsin, at a meeting of the East India Association, held in London, January 30, 1911. Miss Howsin is herself a member of the association. The article shows unusual sympathy with the peoples who are made to suffer because they happen not to be white, and we quote a few of its wise and sane statements:",
+      "status": "ok",
+      "confidence": 0.9773010611534119,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 741,
+        "y0": 517,
+        "x1": 1248,
+        "y1": 1946
+      },
+      "text": "\"May it not be that in this deep-seated race and color prejudice we have one of Nature's devices to protect the special qualities severally evolved by the various races and nations? . . . For if you have in a too early stage, before individuality is established, that which is desirable and necessary for future progress—viz., a sympathetic appreciation of and adaptation to another's characteristics—the result is a nebulous mass of conflicting qualities, a mongrel, irresolute form, with probably the evil accentuated. Racial prejudice, then, may serve as a protective shield in the immature stages of national evolution; but, on the other hand, directly the individuality is well rooted in a nation, it becomes no longer a support, but a fetter, and if not cast aside stultifies and paralyzes the expanding life by cutting it off from all those stimulating, maturing, modifying and corrective influences which are essential for its perfecting, and which it can obtain only by sympathetic contact with the culture, philosophy and polity of other nations. . . . Another point to which I would draw attention is the relation of race prejudice to patriotism. Patriotism is the unselfish love of one's own country; if pure and healthy, it naturally grows into the deeper and diviner love for all nations—it becomes worldwide and international. But, like other manifestations of life, it is subject to disease. Race prejudice is the cancer of patriotism, converting one of the noblest national virtues into one of the most contemptible and demoralizing of passions. From these considerations it is clear that a nation which still suffers from this grave defect is thereby unfitted to govern another, since race prejudice means limitation, ignorance, blindness, in the very direction where the fullest understanding and sympathy are essential. . . . Mr. Nevinson tells us that an English lady said to him, 'To us in India a pronative is simply a rank outsider.' We all of us know that this sentiment, degenerate, vulgar as it is, is so prevalent as to be almost typical. At that moment when it becomes really paramount the death knell of England as an imperial nation will be sounding. She will have proved her inability to respond to her environment.\"",
+      "status": "ok",
+      "confidence": 0.9682641625404358,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.3,
+    "at": "2026-10-06T21:43:38+00:00"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "page": 35,
+  "image": "images/page_35.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 83,
+        "y0": 128,
+        "x1": 1149,
+        "y1": 178
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.5919739603996277,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 172,
+        "y0": 240,
+        "x1": 1097,
+        "y1": 366
+      },
+      "text": "The Manufacture of Prejudice\nThree American Fairy Tales from the Associated Press",
+      "status": "ok",
+      "confidence": 0.9243395924568176,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 103,
+        "y0": 411,
+        "x1": 609,
+        "y1": 1007
+      },
+      "text": "PART I.—THE SOLDIERS.\n\nChapter I.—April 3.\n\n\"The Negro troops now stationed at San Antonio are to be withdrawn, according to an announcement made today by Representative Garner, of Texas, following a conference with President Taft at the White House. Representative Garner protested against the presence of the Negro soldiers at San Antonio, declaring that they had been the cause of a good deal of trouble in the Texas city.\"\n\nChapter II.—April 4.\n\n\"The order to move the Ninth out of San Antonio came from the War Department to-night.\"\n\nChapter III.—April 4.\n(Telegram.)\n\"PRESIDENT TAFT,",
+      "status": "ok",
+      "confidence": 0.9734472632408142,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 165,
+        "y0": 1007,
+        "x1": 431,
+        "y1": 1057
+      },
+      "text": "White House,\n\"Washington, D. C.",
+      "status": "ok",
+      "confidence": 0.6269012093544006,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 109,
+        "y0": 1060,
+        "x1": 614,
+        "y1": 1656
+      },
+      "text": "\"According to press accounts you are planning to punish Ninth Cavalry for protesting against Jim Crow street-car regulations, and favor having power to disband colored regiments. This Association countenances no breach of discipline; but respectfully submits that if the men are lawless it is because the officers paid to enforce discipline fail to do their duty. It would respectfully remind you of this regiment's magnificent service at Pine Ridge in 1891 and Santiago in 1898, and earnestly urges that if punishment is necessary you couple action with reprobation of that odious regulation which discriminates against United States soldiers because of their color. If lawlessness were ever justifiable these men would be entitled to credit for declining to be discriminated against and set apart from their brother soldiers wearing the same uniform in the same service of their country because of an accident of birth. NATIONAL ASSOCIATION FOR THE ADVANCE",
+      "status": "ok",
+      "confidence": 0.9478293061256409,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 114,
+        "y0": 1641,
+        "x1": 618,
+        "y1": 1722
+      },
+      "text": "\"By Oswald Garrison Villard,\n\"Chairman of the Executive Committee.\"",
+      "status": "ok",
+      "confidence": 0.5242214798927307,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 112,
+        "y0": 1754,
+        "x1": 618,
+        "y1": 1863
+      },
+      "text": "\"It was authoritatively stated at the White House to-day that the Ninth Cavalry, colored, which is to be transferred",
+      "status": "ok",
+      "confidence": 0.9503564238548279,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 638,
+        "y0": 414,
+        "x1": 1146,
+        "y1": 541
+      },
+      "text": "from San Antonio because of complaints there, will not be sent to Brownsville, where the famous 'Brownsville incident' originated when the Twenty-fifth Infantry, colored, was stationed there.\"",
+      "status": "ok",
+      "confidence": 0.9604025483131409,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 642,
+        "y0": 579,
+        "x1": 1151,
+        "y1": 1179
+      },
+      "text": "\"The War Department has issued three different sets of orders in the last forty-eight hours in regard to the movement from San Antonio of the Ninth Cavalry. The final decision at the close of to-day was to keep the regiment where it now is, at San Antonio. At first it was the President's intention to send the regiment to the Mexican boundary to the west of San Antonio, but the orders, as finally arranged at the War Department, disposed the colored troops in detachments along the boundary in Congressman Garner's district, at Brownsville, Laredo, Del Rio, Presidio Del Norte, Hancock, Minera and other points.\n\n\"This aroused protests from all the towns concerned, and Representative Garner received telegrams from a score of mayors and many prominent citizens saying that they did not want the colored troops there and were fearful of the consequences if they came.\"",
+      "status": "ok",
+      "confidence": 0.977371871471405,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 647,
+        "y0": 1217,
+        "x1": 1155,
+        "y1": 1544
+      },
+      "text": "\"Further reports bearing on the conduct of the Ninth Cavalry Negro brigade at San Antonio were to-day received at the War Department. They bear out previous reports-that the Negroes were unjustly accused of general disorder in the city. \"W. D. Cuttle, vice-president and general manager of the street-car lines of San Antonio, and Mayor Bryan Callaghan, of San Antonio, say the conduct of the Negro troopers has been good.\"",
+      "status": "ok",
+      "confidence": 0.9719638824462891,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 650,
+        "y0": 1582,
+        "x1": 1157,
+        "y1": 1863
+      },
+      "text": "Chapter VII. A letter from Texas says: \"Yes, the Ninth has caused quite a stir here, not so much of hostile demonstration as of admiration and personal commendation, particularly by the whites. Of course, the colored people have outdone themselves with evidences of regard—and affection; for many serious courtships have gone the rounds in the substratum of society and some few among the pretentious.",
+      "status": "ok",
+      "confidence": 0.9744436144828796,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.2,
+    "at": "2026-10-06T21:43:10+00:00"
+  }
+}

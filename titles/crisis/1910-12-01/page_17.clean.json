@@ -1,0 +1,297 @@
+{
+ "page": 17,
+ "image": "images/page_17.jpg",
+ "width": 1078,
+ "height": 1606,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.8,
+  "at": "2026-10-06T20:57:31+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 421,
+    "y0": 96,
+    "x1": 568,
+    "y1": 119
+   },
+   "text": "EDITORIAL",
+   "status": "ok",
+   "confidence": 0.8001009225845337,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 421,
+    "y0": 94,
+    "x1": 566,
+    "y1": 119
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 87,
+    "y0": 148,
+    "x1": 483,
+    "y1": 317
+   },
+   "text": "want it or you want it, but as it really is.\n6. By individual relief of the wretched.\nIf you think such work is worth while aid us by joining our organization and contributing to it.",
+   "status": "ok",
+   "confidence": 0.9248818159103394,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 84,
+    "y0": 146,
+    "x1": 481,
+    "y1": 314
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 85,
+    "y0": 344,
+    "x1": 485,
+    "y1": 802
+   },
+   "text": "THE RACES IN CONFERENCE. WE DOUBT if the Twentieth Century will bring forth a greater idea than the First Universal Races Congress in London, in the summer of 1911. Its possibilities are tremendous and its plan unique. Many will, of course, instinctively fear it. They will ask: \"What good after all can come of such a congress? What can it do save talk—what can it initiate save profitless agitation?\" The chief outcome of the Congress will be human contact—the meeting of men; not simply the physical meeting, eye to eye and hand to hand of those actually present, but the resultant spiritual contact which will run round the world.",
+   "status": "ok",
+   "confidence": 0.9603400826454163,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 86,
+    "y0": 339,
+    "x1": 482,
+    "y1": 801
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 89,
+    "y0": 804,
+    "x1": 488,
+    "y1": 1358
+   },
+   "text": "Great as is the theoretical value of such human meeting there are many men and good men who shrink from it with strange fear. Some quail at meeting any stranger, more at meeting men alien in look and habit. Outside this physical shrinking which we have in common with children, comes the mental recoil—the disinclination to have our thoughts and ideas disarranged and upset. And still further on comes the moral dread of blame—of facing the man we have wronged and hearing the hurt from his own quivering lips. From such fears comes an eagerness to justify exclusion—to refuse any association with lower classes or lower races and sometimes in extreme cases we seek in our panic to build walls and say not simply \"I will not meet and listen to the stranger,\" but \"you shall not on penalty of my high displeasure.\"",
+   "status": "ok",
+   "confidence": 0.9778690934181213,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 804,
+    "x1": 485,
+    "y1": 1354
+   },
+   "exclude": [
+    [
+     117,
+     1357,
+     132,
+     1375,
+     "r4"
+    ],
+    [
+     168,
+     1357,
+     184,
+     1375,
+     "r4"
+    ],
+    [
+     237,
+     1357,
+     251,
+     1375,
+     "r4"
+    ],
+    [
+     341,
+     1357,
+     344,
+     1360,
+     "r4"
+    ],
+    [
+     457,
+     1356,
+     460,
+     1359,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 91,
+    "y0": 1354,
+    "x1": 489,
+    "y1": 1502
+   },
+   "text": "The Races Congress is the meeting of the World on a broad plane of human respect and equality. In no other way is human understanding and world peace and progress possible. Every attempt to reach the desired",
+   "status": "ok",
+   "confidence": 0.9757522940635681,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 90,
+    "y0": 1355,
+    "x1": 487,
+    "y1": 1498
+   },
+   "exclude": [
+    [
+     233,
+     1339,
+     244,
+     1356,
+     "r3"
+    ],
+    [
+     119,
+     1341,
+     130,
+     1356,
+     "r3"
+    ],
+    [
+     191,
+     1341,
+     203,
+     1356,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "abandon",
+   "bbox": {
+    "x0": 879,
+    "y0": 94,
+    "x1": 904,
+    "y1": 115
+   },
+   "text": "17",
+   "status": "ok",
+   "confidence": 0.837576150894165,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 877,
+    "y0": 93,
+    "x1": 902,
+    "y1": 113
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 508,
+    "y0": 148,
+    "x1": 907,
+    "y1": 702
+   },
+   "text": "goal otherwise has had failure written on its forehead.\nTo be sure, we are fond of experimenting in these lines. We like to assemble on the avenue and discuss the East Side or meet at Mohonk and discuss the Indians, who are seldom present, or form a Southern Educational Board, whose meetings no Negro may attend. Such meetings may do good, but they can never settle the problems they attempt and their unanimity is always deceptive and often misleading. Only the man himself can speak for himself. We say: Put yourself in his place; but after all we know that no human soul can thus change itself. The voice of the oppressed alone can tell the real meaning of oppression and, though the voice be tremulous, excited and even incoherent, it must be listened to if the world would learn and know.",
+   "status": "ok",
+   "confidence": 0.9801008701324463,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 506,
+    "y0": 145,
+    "x1": 904,
+    "y1": 702
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 510,
+    "y0": 708,
+    "x1": 907,
+    "y1": 926
+   },
+   "text": "Only then in a world-wide contact of men in which the voices of all races are heard shall we begin that contact and sympathy which in God's good time will bring out of war and hatred and prejudice a real democracy of races and of nations. As some slight step toward this vast end has the Races Congress been called in London.",
+   "status": "ok",
+   "confidence": 0.9410150647163391,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 511,
+    "y0": 707,
+    "x1": 904,
+    "y1": 922
+   },
+   "exclude": [
+    [
+     538,
+     925,
+     553,
+     943,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 512,
+    "y0": 923,
+    "x1": 910,
+    "y1": 1505
+   },
+   "text": "To such a meeting should go particularly those people to whom the physical differences of race and nation are ridiculous or incomprehensible, those to whom mental disagreement is foolishness and those who cannot see that the canons of morality extend beyond their own family or nation, or color of skin. From such a congress should come the beginnings of a vast tolerance and sympathy. Not only a tolerance of the Chinese and Hindus on the part of Europeans, but the just as necessary comprehension of European thought and morality on the part of millions of darker peoples who have slight cause to view it with respect. We may sympathize with the great Peace Movement, we may sympathize with world-wide efforts for moral reform and social uplift, but before them all we must place those efforts which aim to make humanity not the attribute of the arrogant and",
+   "status": "ok",
+   "confidence": 0.973332405090332,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 512,
+    "y0": 924,
+    "x1": 906,
+    "y1": 1498
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 9,
+  "regions_after": 9,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.1,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

@@ -1,0 +1,230 @@
+{
+ "page": 12,
+ "image": "images/page_12.jpg",
+ "width": 1082,
+ "height": 1608,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.6,
+  "at": "2026-10-06T20:56:51+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 477,
+    "y0": 102,
+    "x1": 630,
+    "y1": 125
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.6032127141952515,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 476,
+    "y0": 100,
+    "x1": 629,
+    "y1": 125
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 146,
+    "y0": 102,
+    "x1": 170,
+    "y1": 124
+   },
+   "text": "12",
+   "status": "ok",
+   "confidence": 0.8415834903717041,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 143,
+    "y0": 101,
+    "x1": 169,
+    "y1": 122
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 145,
+    "y0": 155,
+    "x1": 542,
+    "y1": 507
+   },
+   "text": "By this action the Negroes of Oklahoma are blazing a pathway to true freedom for their entire race in this country. For the problem of the Negro in America is essentially a part of the great labor problem. The Negro is despised and robbed of his rights for the reason that, taken as a whole, he belongs to the most exploited section of the working class. The Negro has to bear not only the burden of wage labor, but also the burden that he has inherited from the days of slavery. His present is weighted down by his past. And the action of the Negroes of Oklahoma is an emphatic expression of their resolve to help themselves in the present by joining the ranks of those who in working for the present never forget the future.",
+   "status": "ok",
+   "confidence": 0.9779006838798523,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 145,
+    "y0": 153,
+    "x1": 540,
+    "y1": 503
+   },
+   "exclude": [
+    [
+     169,
+     506,
+     181,
+     521,
+     "r3"
+    ],
+    [
+     370,
+     506,
+     384,
+     522,
+     "r3"
+    ],
+    [
+     479,
+     506,
+     483,
+     510,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 148,
+    "y0": 504,
+    "x1": 549,
+    "y1": 1098
+   },
+   "text": "But the action of the Oklahoma Negroes is also of the greatest significance to the Socialist movement of this country. It is a principle universally acknowledged by Socialists that although Socialism is primarily the movement of the working class for the overthrow of capitalist rule, it nevertheless must rush to the assistance of every oppressed class or race or nationality. The working class cannot achieve its ultimate grand aim of freeing itself from exploitation unless it frees all other elements of the community from exploitation. It cannot put an end to its own oppression unless it puts an end to all forms of oppression. Our party must stand everywhere on the side of the weak and oppressed, even if this course should bring upon us temporary reverses. Ultimate victory can be achieved in no other way.\n\nTHE MARYLAND DECISION.\n\nJudge Morris of the United States Circuit Court has declared unconstitutional the Annapolis attempt to disfranchise Negroes and considerable comment has resulted. Says the Baltimore News:",
+   "status": "ok",
+   "confidence": 0.9791857600212097,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 148,
+    "y0": 505,
+    "x1": 547,
+    "y1": 1098
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 154,
+    "y0": 1104,
+    "x1": 550,
+    "y1": 1516
+   },
+   "text": "No matter how much of an evil one may think Negro suffrage, it has always seemed to The News that it was a foolish thing to try to get rid of it by flying directly in the face of the Constitution of the United States, the Federal courts, which are here to declare what it is, and the Federal administration, which is here to enforce it. It is still possible to disfranchise ignorance, or vice, or poverty in Maryland. We can have an educational qualification or a property qualification whenever the people of the State declare for it. All that Judge Morris' decision means is that when we disfranchise ignorance we must not look at the color of skin; when we disfranchise vice, it must not be only vice in the black man, and, if we disfranchise poverty, the application must be to all poverty alike. This is the law, Judge Morris declares, as Congress meant it to be. The decision is precisely",
+   "status": "ok",
+   "confidence": 0.9793693423271179,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 153,
+    "y0": 1101,
+    "x1": 549,
+    "y1": 1513
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 567,
+    "y0": 149,
+    "x1": 969,
+    "y1": 368
+   },
+   "text": "what those who have fought against this method of trying to get rid of the Negro voter anticipated if the case ever got into court. It is to be hoped, however, that an appeal will be taken to the Supreme Court of the United States, so that the highest authority in the land may pass upon this vexed question, settle it past all dispute and get it out of the way of other things more important to Maryland's progress and welfare.",
+   "status": "ok",
+   "confidence": 0.9759676456451416,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 567,
+    "y0": 149,
+    "x1": 968,
+    "y1": 367
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 569,
+    "y0": 369,
+    "x1": 975,
+    "y1": 940
+   },
+   "text": "The Springfield Republican says this is the first time a court has squarely faced the \"grandfather\" disfranchising clause. \"In the past, federal judges even as high up as those of the United States Supreme Court have decided these cases on technical points of jurisdiction or the like, evading the issue of disfranchisement as presented by the acts in question. Judge Morris's decision indicates what must happen whenever a United States court can be brought squarely to the point of passing judgment on the 'grandfather' hocus pocus.\" The New York Sun, however, says:\n\nIt may be doubted whether the decision rendered by Judge Thomas J. Morris in the United States Circuit Court in Maryland invalidating the law of 1908 which sought to exclude Negroes from local elections would, if affirmed by the Supreme Court of the United States, have the effect of erasing the \"grandfather clause\" from the statute books of several Southern States.",
+   "status": "ok",
+   "confidence": 0.9801038503646851,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 568,
+    "y0": 370,
+    "x1": 973,
+    "y1": 938
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 575,
+    "y0": 938,
+    "x1": 978,
+    "y1": 1517
+   },
+   "text": "The Annapolis law, as it is called in Maryland, could be sustained only if it were determined that the Fifteenth Amendment did not apply to all public elections, State or local as well as national. The framers of the Annapolis law contended that as Maryland had never accepted the Fifteenth Amendment the Legislature in regulating local elections was not bound by it; they conceded that no law could be put on the statute book to prevent absolutely the participation of Negroes in Congress elections. If it be assumed that the Supreme Court will affirm Judge Morris's decision it does not follow that the \"grandfather clause\" in the Constitutions of Southern States will be declared invalid in consequence.\n\nThe Springfield (Mo.) Journal declares: \"If the Constitution, or any of its amendments, places the Negro citizen on an equal political footing with the white citizen, no attempt at subterfuge or illegal compromise should be permitted in any of the Southern States. That some Negroes, or a majority of the race, may be ignorant, or",
+   "status": "ok",
+   "confidence": 0.9768682718276978,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 575,
+    "y0": 940,
+    "x1": 976,
+    "y1": 1514
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

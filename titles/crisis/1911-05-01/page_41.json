@@ -1,0 +1,365 @@
+{
+  "page": 41,
+  "image": "images/page_41.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 410,
+        "y0": 123,
+        "x1": 854,
+        "y1": 157
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.7550996541976929,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 695,
+        "y0": 190,
+        "x1": 1101,
+        "y1": 230
+      },
+      "text": "Educational Directory",
+      "status": "ok",
+      "confidence": 0.8293831944465637,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 105,
+        "y0": 191,
+        "x1": 613,
+        "y1": 246
+      },
+      "text": "American Negro Academy",
+      "status": "ok",
+      "confidence": 0.9201981425285339,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 659,
+        "y0": 250,
+        "x1": 1135,
+        "y1": 305
+      },
+      "text": "Howard University",
+      "status": "ok",
+      "confidence": 0.9181111454963684,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 209,
+        "y0": 287,
+        "x1": 508,
+        "y1": 312
+      },
+      "text": "OCCASIONAL PAPERS",
+      "status": "ok",
+      "confidence": 0.8892978429794312,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 643,
+        "y0": 312,
+        "x1": 1149,
+        "y1": 683
+      },
+      "text": "WILBUR P. THIRKIELD, President\nWashington, D. C.\nThe College of Arts and Sciences—Kelly Miller,\nA.M., Dean.\nThe Teachers' College—Lewis B. Moore, A.M.,\nPh.D., Dean.\nThe Academy—George J. Cummings, A.M., Dean.\nThe Commercial College—George W. Cook, A.M.,\nDean.\nSchool of Manual Arts and Applied Sciences\nPROFESSIONAL SCHOOLS\nThe School of Theology—Isaac Clark, D.D., Dean.\nThe School of Medicine: Medical, Dental and\nPharmaceutical Colleges—Edward O. Balloch, M.D., Dean.\nThe School of Law—Benjamin F. Leighton,\nLL.D., Dean.\nFor catalogue and special information address\nDean of Department.",
+      "status": "ok",
+      "confidence": 0.9534710645675659,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 106,
+        "y0": 320,
+        "x1": 613,
+        "y1": 1056
+      },
+      "text": "No. 2. Conservation of Races. W. E. Burghardt DuBois . . . $0.15\nNo. 3. (a) Civilization the Primal Need of the Race; (b) The Attitude of the American Mind Toward the Negro Intellect. Alexander Crummell . . . . . . . . . . .",
+      "status": "repetition",
+      "confidence": 0.9747014045715332,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 643,
+        "y0": 704,
+        "x1": 1148,
+        "y1": 1079
+      },
+      "text": "Atlanta University\nIs beautifully located in the City of Atlanta, Ga. The courses of study include High School, Normal School and College, with manual training and domestic science. Among the teachers are graduates of Yale, Harvard, Dartmouth, Smith and Wellesley. Forty-one years of successful work have been completed. Students come from all parts of the South. Graduates are almost universally successful.\n\nFor further information address\n\nPresident EDWARD T. WARE\nATLANTA, GA.",
+      "status": "ok",
+      "confidence": 0.9721017479896545,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 109,
+        "y0": 1074,
+        "x1": 614,
+        "y1": 1113
+      },
+      "text": "SEND TEN CENTS FOR ANY ONE OF THE\nFOLLOWING:",
+      "status": "ok",
+      "confidence": 0.87061607837677,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 644,
+        "y0": 1113,
+        "x1": 1147,
+        "y1": 1198
+      },
+      "text": "Wilberforce University\nWILBERFORCE, OHIO",
+      "status": "ok",
+      "confidence": 0.8554798364639282,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 108,
+        "y0": 1114,
+        "x1": 611,
+        "y1": 1225
+      },
+      "text": "No. 1. Confessions of Nat Turner.\nNo. 2. Contemporary Evolution of the Negro Race. Wm. G. Harper.\nNo. 3. Benjamin Banneker. J. H. B. Latrobe.\nNo. 4. Evolution of the Black South. W. E. B. DuBois. Address",
+      "status": "ok",
+      "confidence": 0.628875195980072,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 645,
+        "y0": 1207,
+        "x1": 1149,
+        "y1": 1433
+      },
+      "text": "Opens first Tuesday in September\nLocated in Greene County, 3% miles from Xenia, Ohio. Healthful surroundings. Refined community. Faculty of 32 members. Expenses low. Classical and Scientific, Theological, Preparatory, Music, Military, Normal and Business Departments. Ten industries taught. Great opportunities for High School graduates entering College or Professional Courses. Two new buildings for girls to be erected this year-one now in process of erection, and the other to be begun in the spring. Catalogue and Special Information Furnished.",
+      "status": "ok",
+      "confidence": 0.9636444449424744,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 107,
+        "y0": 1229,
+        "x1": 612,
+        "y1": 1490
+      },
+      "text": "American Negro Monographs Co.\n609 F St., N. W. (Room 102),\nWashington, D. C.\n\nThe Curse of Race Prejudice\nJAMES F. MORTON, JR., A.M., Author and Publisher\nForceful, rational, comprehensive. An arsenal of facts and unanswerable arguments. Invaluable for propaganda. Read the chapter on \"The Bugbear of Social Equality,\" which is a veritable eye-opener. Thousands already sold. Agents wanted everywhere.",
+      "status": "ok",
+      "confidence": 0.8823255896568298,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 713,
+        "y0": 1441,
+        "x1": 1076,
+        "y1": 1487
+      },
+      "text": "Address\nW. S. SCARBOROUGH, President.",
+      "status": "ok",
+      "confidence": 0.8120649456977844,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 133,
+        "y0": 1503,
+        "x1": 587,
+        "y1": 1541
+      },
+      "text": "Address the Author at 244 West 143d Street,\nNew York, N. Y.",
+      "status": "ok",
+      "confidence": 0.6812291741371155,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "title",
+      "bbox": {
+        "x0": 705,
+        "y0": 1519,
+        "x1": 1084,
+        "y1": 1578
+      },
+      "text": "Shaw University",
+      "status": "ok",
+      "confidence": 0.9105652570724487,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 134,
+        "y0": 1564,
+        "x1": 611,
+        "y1": 1745
+      },
+      "text": "Atlanta University Studies of the Negro Problems",
+      "status": "ok",
+      "confidence": 0.9707561731338501,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 644,
+        "y0": 1581,
+        "x1": 1150,
+        "y1": 1803
+      },
+      "text": "This institution of learning, established in 1865, has industrial departments for both young men and young women, as well as college, normal and preparatory departments. There are also Schools of Law, Medicine, Pharmacy and Theology. The facilities have recently been increased. Other improvements are being planned that will be completed within the next two years. Applications should be made several months or a year in advance, for it has become impossible during the last few years to receive all who apply. The present enrollment is over 500.",
+      "status": "ok",
+      "confidence": 0.9197269678115845,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 155,
+        "y0": 1758,
+        "x1": 562,
+        "y1": 1789
+      },
+      "text": "13 Monographs. Sold Separately.",
+      "status": "ok",
+      "confidence": 0.8355904817581177,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 644,
+        "y0": 1804,
+        "x1": 1149,
+        "y1": 1909
+      },
+      "text": "The academic year begins on the Thursday nearest the first day of October and continues for thirty-two consecutive weeks. The charges are moderate. Catalogues furnished upon application. Address THE PRESIDENT",
+      "status": "ok",
+      "confidence": 0.9195035696029663,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 176,
+        "y0": 1906,
+        "x1": 550,
+        "y1": 1935
+      },
+      "text": "Atlanta University, Atlanta, Ga.",
+      "status": "ok",
+      "confidence": 0.8787403106689453,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 733,
+        "y0": 1912,
+        "x1": 1061,
+        "y1": 1935
+      },
+      "text": "Shaw University, Raleigh, N. C.",
+      "status": "ok",
+      "confidence": 0.8044390082359314,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "abandon",
+      "bbox": {
+        "x0": 524,
+        "y0": 1946,
+        "x1": 750,
+        "y1": 1970
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.5124704837799072,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 254,
+        "y0": 1809,
+        "x1": 471,
+        "y1": 1890
+      },
+      "text": "Address:\nA. G. DILL",
+      "status": "ok",
+      "confidence": 0.8662253618240356,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1115,
+        "y0": 123,
+        "x1": 1148,
+        "y1": 152
+      },
+      "text": "41",
+      "status": "ok",
+      "confidence": 0.7936179637908936,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 88.3,
+    "at": "2026-10-06T21:45:26+00:00"
+  }
+}

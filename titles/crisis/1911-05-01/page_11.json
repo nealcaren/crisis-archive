@@ -1,0 +1,169 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 457,
+        "y0": 120,
+        "x1": 829,
+        "y1": 152
+      },
+      "text": "MEN OF THE MONTH",
+      "status": "ok",
+      "confidence": 0.6710448265075684,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 658,
+        "y0": 186,
+        "x1": 1164,
+        "y1": 626
+      },
+      "text": "Dr. Bentley, for many years, has been identified with every forward movement of his profession in Chicago, and in the several important offices which he has held from time to time he has always striven to realize the obligations of his professional group to civic usefulness. He was the first president of the Odontographic Society (now the Chicago Dental Society), the largest local dental society in the world. The twentieth anniversary of this society was marked by the largest gathering of dentists ever held in the history of dentistry, and the success of this meeting was largely due to the strenuous and intelligent work of Dr. Bentley, who was chairman of the program committee on that occasion.",
+      "status": "ok",
+      "confidence": 0.9768326282501221,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 128,
+        "y0": 189,
+        "x1": 620,
+        "y1": 1266
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.971656084060669,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 659,
+        "y0": 629,
+        "x1": 1164,
+        "y1": 1044
+      },
+      "text": "Dr. Bentley has, for the last twenty years, been a large contributor to dental literature. For six years he held the chair of Oral Surgery in the Jenner Medical of Chicago.\nDr. Bentley was born in Cincinnati, Ohio. He received his training in Chicago, and has lived all his professional life in that city.\nIn spite of the handicap of race, and the disadvantages felt by every colored man in this country, Dr. Bentley has, by dint of application and determined labor, won for himself an unique place in the life of his home city, and an honored place in his profession throughout the world of dentistry.",
+      "status": "ok",
+      "confidence": 0.9771748185157776,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 661,
+        "y0": 1083,
+        "x1": 1165,
+        "y1": 1392
+      },
+      "text": "GEORGE W. A. SCOTT\nGeorge W. A. Scott, who won second prize in the Curtis Medal contest at Columbia University in 1910, and first prize in 1911, was born in Lynchburg, Va., in 1884. He held the Robert Fulton Cutting Scholarship at Columbia, and received his A.B. degree in February, 1911. Mr. Scott is highly recommended and is looking for a position as teacher of history, physiography and elementary branches.",
+      "status": "ok",
+      "confidence": 0.9788697361946106,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 211,
+        "y0": 1291,
+        "x1": 540,
+        "y1": 1316
+      },
+      "text": "DR. CHARLES E. BENTLEY",
+      "status": "ok",
+      "confidence": 0.5427592396736145,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 122,
+        "y0": 1348,
+        "x1": 628,
+        "y1": 1597
+      },
+      "text": "the interest of Eastern people, will be brought to Chicago, and with the addition of some local features will constitute the show which will be held in the Chicago Coliseum for two weeks. One of the local features will be a large exhibit showing the relation of the hygiene of the mouth to the welfare of the child, and this will be the work of the committee under the direction of Dr. Bentley.",
+      "status": "ok",
+      "confidence": 0.9558866620063782,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "figure",
+      "bbox": {
+        "x0": 672,
+        "y0": 1429,
+        "x1": 1163,
+        "y1": 1874
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.970189094543457,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 122,
+        "y0": 1600,
+        "x1": 628,
+        "y1": 1923
+      },
+      "text": "Dr. Bentley is specially fitted for work of this character, as he has been for more than three years Chairman of the Public Dental Committee of the Illinois State Dental Society, which is carrying on a vigorous campaign of education throughout the State. For many years he has ardently advocated and worked for the introduction of dental inspection in the public schools, and several years ago he made a thorough and world-wide investigation of the condition in other countries along that line.",
+      "status": "ok",
+      "confidence": 0.9631564021110535,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1131,
+        "y0": 121,
+        "x1": 1160,
+        "y1": 147
+      },
+      "text": "11",
+      "status": "ok",
+      "confidence": 0.8112785220146179,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 779,
+        "y0": 1898,
+        "x1": 1028,
+        "y1": 1922
+      },
+      "text": "GEORGE W. A. SCOTT",
+      "status": "ok",
+      "confidence": 0.7867646813392639,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.2,
+    "at": "2026-10-06T21:39:25+00:00"
+  }
+}

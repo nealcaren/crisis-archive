@@ -1,0 +1,141 @@
+{
+  "page": 10,
+  "image": "images/page_10.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 374,
+        "y0": 165,
+        "x1": 1045,
+        "y1": 246
+      },
+      "text": "Men of the Month",
+      "status": "ok",
+      "confidence": 0.6174917221069336,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 186,
+        "y0": 325,
+        "x1": 693,
+        "y1": 468
+      },
+      "text": "LORD WEARDALE.\nWhen the twelfth session of the InterParliamentary Union met in St. Louis in 1904 one of its members was Sir Phillip Stanhope, now Lord Weardale.",
+      "status": "ok",
+      "confidence": 0.9609605669975281,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 204,
+        "y0": 506,
+        "x1": 674,
+        "y1": 1372
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9714895486831665,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 181,
+        "y0": 1396,
+        "x1": 692,
+        "y1": 1871
+      },
+      "text": "LORD WEARDALE\nPresident Universal Races Congress\nThis distinguished Englishman entered the English House of Commons in 1886 as a supporter of Mr. Gladstone. He lost his seat on account of opposition to the Boer War, but was afterward returned and soon became interested in the great Peace Movement.\nTogether with such men as Count Apponyi and the Baron d'Estournelles de Constant Lord Weardale became a leader in the Inter-Parliamentary Union and the various movements that have resulted from it.\nLord Weardale comes of a distinguished family. One of his ancestors was Prime Minister in 1719, another was an",
+      "status": "ok",
+      "confidence": 0.9763197898864746,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 724,
+        "y0": 328,
+        "x1": 1238,
+        "y1": 631
+      },
+      "text": "eminent scientist associated with Fulton and his steamboat, while the present earl's father is well known as a historian and the biographer of Pitt. It augers well for the coming Universal Races Congress that Lord Weardale has become its chief presiding officer. He brings to his task a genial temperament, wide experience and great courage. JOHN S. TROWER",
+      "status": "ok",
+      "confidence": 0.9642347693443298,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 723,
+        "y0": 640,
+        "x1": 1234,
+        "y1": 962
+      },
+      "text": "Mr. John S. Trower died in Philadelphia April 4. He was born in Virginia in 1849, and was a caterer and real estate holder. His estate is admitted for probate as worth \"$150,000 and upward.\" It is said, however, on good authority, that Mr. Trower was worth nearly $1,000,000. His will leaves his property to his widow, children and grandchildren, in trust. His catering business he directs shall be continued. The funeral services were held Saturday, April 18, at Cherry Street Baptist Church, of which he was a member.",
+      "status": "ok",
+      "confidence": 0.9766363501548767,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 720,
+        "y0": 995,
+        "x1": 1233,
+        "y1": 1203
+      },
+      "text": "DR. CHARLES E. BENTLEY\nDr. Charles E. Bentley has been appointed Chairman of the Committee on Mouth Hygiene for the Child's Welfare Exhibit, which will be held in Chicago, May 12 to 25, inclusive.\nThe New York Child's Welfare Exhibit, which recently made an appeal to",
+      "status": "ok",
+      "confidence": 0.9616771936416626,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "figure",
+      "bbox": {
+        "x0": 763,
+        "y0": 1237,
+        "x1": 1201,
+        "y1": 1836
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9706941843032837,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 806,
+        "y0": 1849,
+        "x1": 1148,
+        "y1": 1875
+      },
+      "text": "THE LATE JOHN S. TROWER",
+      "status": "ok",
+      "confidence": 0.8381805419921875,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.1,
+    "at": "2026-10-06T21:39:17+00:00"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "page": 22,
+  "image": "images/page_22.jpg",
+  "width": 1369,
+  "height": 2078,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 998,
+        "y0": 122,
+        "x1": 1191,
+        "y1": 157
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8017317056655884,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 136,
+        "y0": 131,
+        "x1": 173,
+        "y1": 160
+      },
+      "text": "22",
+      "status": "ok",
+      "confidence": 0.8495160937309265,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 234,
+        "y0": 357,
+        "x1": 1362,
+        "y1": 1773
+      },
+      "text": "[Image of six military officers in uniform, arranged in a row, facing the camera. The officers are wearing dark uniforms with gold buttons and insignia. The background is a blurred interior space, possibly a hall or a building with arched windows.]",
+      "status": "ok",
+      "confidence": 0.9574743509292603,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 3.9,
+    "at": "2026-10-06T21:41:03+00:00"
+  }
+}

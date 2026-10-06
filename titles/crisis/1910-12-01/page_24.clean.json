@@ -230,6 +230,7 @@
   "regions_before": 8,
   "regions_after": 8,
   "lost_words": [],
+  "needs_review": [],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 1,
   "log": []

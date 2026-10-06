@@ -1,0 +1,127 @@
+{
+  "page": 10,
+  "image": "images/page_10.jpg",
+  "width": 1365,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 396,
+        "y0": 168,
+        "x1": 1068,
+        "y1": 248
+      },
+      "text": "Men of the Month",
+      "status": "ok",
+      "confidence": 0.6178991794586182,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 198,
+        "y0": 330,
+        "x1": 705,
+        "y1": 473
+      },
+      "text": "COL. T. W. HIGGINSON. All friends of human liberty will grieve over the death on May 9 of Colonel Thomas Wentworth Higginson, aged 87 years. Colonel Higginson died at his",
+      "status": "ok",
+      "confidence": 0.9587481021881104,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 204,
+        "y0": 503,
+        "x1": 700,
+        "y1": 1483
+      },
+      "text": "5",
+      "status": "ok",
+      "confidence": 0.972913384437561,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 194,
+        "y0": 1507,
+        "x1": 703,
+        "y1": 1876
+      },
+      "text": "home in Cambridge, Mass., and six Negro soldiers bore to his grave this lifelong champion of their race. Born in Cambridge, Mass., in 1823, the son of Stephen Higginson, steward of Harvard, he was from his earliest days surrounded by literary influences. As soon as he had his degree, Mr. Higginson entered the Harvard Divinity School and in 1847 was called to the ministry of the First Religious Society of Newburyport, Mass. The young preacher's strong anti-",
+      "status": "ok",
+      "confidence": 0.9770441651344299,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 741,
+        "y0": 331,
+        "x1": 1256,
+        "y1": 775
+      },
+      "text": "slavery views soon got him into trouble. Many of his congregation were sea captains who believed in the \"peculiar institution,\" and one of them was the man who cast William Lloyd Garrison into jail. They soon tired of the fervent abolitionist and he went to Worcester, where with Theodore Parker he established the Free Church. During this pastorate, which lasted for six years, Mr. Higginson was concerned in the attempt to rescue Anthony Burns from the Boston Court House. A man was killed in the fight, and he, with Wendell Phillips and Theodore Parker, was indicted for murder. The case was, however, dropped on the discovery of an informality in the papers.",
+      "status": "ok",
+      "confidence": 0.9773011803627014,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 738,
+        "y0": 775,
+        "x1": 1250,
+        "y1": 1142
+      },
+      "text": "In 1856 Mr. Higginson took part in the civil strife which marked the struggle for the control of Kansas. He served on the staff of James H. Lane, and recounted his experiences in that wild land in a pamphlet, \"A Ride Through Kansas.\" There, too, he formed the acquaintance of Johon Brown of Osawatomie, and when that agitator was captured, was ready to make an attempt at rescue if Brown had not himself forbidden it. Meanwhile Mr. Higginson gave up the ministry and turned to literature. It was during this period that Mr. Higgin-",
+      "status": "ok",
+      "confidence": 0.9787452220916748,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "figure",
+      "bbox": {
+        "x0": 784,
+        "y0": 1166,
+        "x1": 1227,
+        "y1": 1831
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.972572922706604,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 874,
+        "y0": 1854,
+        "x1": 1110,
+        "y1": 1879
+      },
+      "text": "EDWARD D. GREEN",
+      "status": "ok",
+      "confidence": 0.7302825450897217,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.8,
+    "at": "2026-10-06T21:48:04+00:00"
+  }
+}

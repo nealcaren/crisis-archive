@@ -1,0 +1,370 @@
+{
+ "page": 14,
+ "image": "images/page_14.jpg",
+ "width": 1879,
+ "height": 2817,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 12.6,
+  "at": "2026-10-06T20:52:12+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 229,
+    "y0": 159,
+    "x1": 1676,
+    "y1": 390
+   },
+   "text": "THE BURDEN",
+   "status": "ok",
+   "confidence": 0.5247602462768555,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 229,
+    "y0": 163,
+    "x1": 1674,
+    "y1": 385
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "title",
+   "bbox": {
+    "x0": 358,
+    "y0": 429,
+    "x1": 809,
+    "y1": 463
+   },
+   "text": "STEVE GREEN'S STORY.",
+   "status": "ok",
+   "confidence": 0.8873875141143799,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 358,
+    "y0": 425,
+    "x1": 806,
+    "y1": 465
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 231,
+    "y0": 555,
+    "x1": 933,
+    "y1": 2401
+   },
+   "text": "ried and settled in Arkansas, choosing a place where there was good schooling for his children. What befell him there is told in his own words:\n\n\"In 1910 the landlord, Mr. Saddler, raised the rent from $5 an acre to $9. I and all of the other tenants moved away. Mr. Saddler sent after me, and said that if I did not work for him I could not work in Crittenden County. I moved to a place a mile away, but after the death of my wife started to break up housekeeping. Meantime I hired out for a day to a neighbor, when Mr. Saddler rode by on his horse. He said, 'Green, didn't I tell you that if you didn't work on my farm that there was not room enough in Crittenden County for you and me to live?' I said, 'Yes, sir; you told me so.' He answered, 'I meant just what I said,' and drew his revolver. I ran, but he shot me in the neck, left arm and right leg. I kept on running and reached my house, got my Winchester and shot at him. They say that I killed him. The others still chased me and I jumped into the river. I stayed in the top of a tree until midnight. Then I got some cartridges from a colored man and went to a town some miles away, which took me three nights to walk, wading in creeks because of the bloodhounds. My friends brought me food and blankets and I stayed on an island in the Mississippi River three weeks. Colored friends gave me $32, and I traveled on foot and by rail to Chicago, arriving August 12. I was betrayed by a colored friend who told the police. The policeman arrested me, saying that I had stolen some ties, which I knew nothing about. He took me to the Harrison street station. For four days they gave me no food or drink. I ate two boxes of matches trying to kill myself. They kept questioning me about Arkansas. At last I took sick and they put me in the hospital, where the doctor told them I was starving, and they gave me something to eat. Finally Saddler's nephew came and I was identified, and Sunday night we left for Arkansas. He said a thousand people were waiting to burn me. The colored people of Chicago had heard of the story and got out a writ of habeas corpus. They offered a reward of $100 to the sheriff who would reach me and telegraphed all along the line to catch me. The sheriff of Cairo got me just as we were nearing the line. He is the man who replaced the former sheriff—the one the Governor held responsible for the mob in that city. I was stopped and sent back to Chicago.\"",
+   "status": "ok",
+   "confidence": 0.9564683437347412,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 235,
+    "y0": 587,
+    "x1": 925,
+    "y1": 2402
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 234,
+    "y0": 2401,
+    "x1": 934,
+    "y1": 2536
+   },
+   "text": "Steve Green's friends have engaged lawyers and are fighting his case for him. The outcome of their efforts to save this unfortunate man will be recorded in THE CRISIS.",
+   "status": "ok",
+   "confidence": 0.9638249278068542,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 235,
+    "y0": 2400,
+    "x1": 931,
+    "y1": 2536
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "title",
+   "bbox": {
+    "x0": 972,
+    "y0": 426,
+    "x1": 1673,
+    "y1": 893
+   },
+   "text": "Pink Franklin, a colored man, was charged with breaking his labor contract. The labor contract law of South Carolina says that a farm laborer who leaves his job before the end of the year owing his employer, is guilty of a criminal offense and may be severely punished. In the dead of night the constable broke into Pink Franklin's house, shot at him and wounded him. Franklin could not see who was shooting and had no means of knowing that it was an officer of the law. He leapt from bed and returned the fire, killing the constable.",
+   "status": "ok",
+   "confidence": 0.9769370555877686,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 974,
+    "y0": 424,
+    "x1": 1670,
+    "y1": 887
+   },
+   "exclude": [
+    [
+     1575,
+     889,
+     1590,
+     914,
+     "r5"
+    ],
+    [
+     1653,
+     888,
+     1668,
+     912,
+     "r5"
+    ],
+    [
+     1461,
+     891,
+     1476,
+     915,
+     "r5"
+    ],
+    [
+     1637,
+     890,
+     1640,
+     893,
+     "r5"
+    ],
+    [
+     1381,
+     892,
+     1396,
+     916,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 973,
+    "y0": 884,
+    "x1": 1672,
+    "y1": 1160
+   },
+   "text": "He was arrested for murder, threatened with lynching and condemned to be hanged. Two colored lawyers defended him and appealed finally to the Supreme Court of the United States. The Supreme Court gave no relief and Pink Franklin still lies under sentence of death. Effort is now being made to induce the Governor of South Carolina to reprieve him.",
+   "status": "ok",
+   "confidence": 0.9715992212295532,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 973,
+    "y0": 890,
+    "x1": 1669,
+    "y1": 1154
+   },
+   "exclude": [
+    [
+     1303,
+     869,
+     1316,
+     889,
+     "r4"
+    ],
+    [
+     1207,
+     879,
+     1212,
+     887,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 970,
+    "y0": 1185,
+    "x1": 1674,
+    "y1": 1692
+   },
+   "text": "She was a well-educated, attractive colored teacher.\n\n\"Some people,\" she said, \"think Charleston to be the prettiest city in the Southland. The houses are big and cool with lovely gardens. And then there is a park. You ought to see it! I don't believe any park could be prettier.\n\n\"I have only seen it once,\" she went on. \"I did want to visit that park before I left Charleston, so I asked one of the white Northern ladies—we were teaching in the same school—if she would take me there. She was the right kind, and we walked all through it. Of course every one thought I was her maid. It certainly was a pretty place.\"",
+   "status": "ok",
+   "confidence": 0.9732353091239929,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 970,
+    "y0": 1187,
+    "x1": 1671,
+    "y1": 1686
+   },
+   "exclude": [
+    [
+     1019,
+     1691,
+     1023,
+     1698,
+     "r7"
+    ],
+    [
+     1028,
+     1690,
+     1047,
+     1714,
+     "r7"
+    ],
+    [
+     1132,
+     1691,
+     1146,
+     1715,
+     "r7"
+    ],
+    [
+     1209,
+     1691,
+     1223,
+     1715,
+     "r7"
+    ],
+    [
+     1267,
+     1691,
+     1282,
+     1716,
+     "r7"
+    ],
+    [
+     1327,
+     1691,
+     1341,
+     1716,
+     "r7"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 972,
+    "y0": 1686,
+    "x1": 1676,
+    "y1": 2094
+   },
+   "text": "\"But why should the colored people of Charleston,\" I asked, \"be deprived of a public place of recreation? Don't they contribute to the city by their work and rent and taxes?\"\n\n\"They certainly do,\" she replied, \"but that makes no difference. The park I visited is a white folks' park. It is very beautiful and so they keep it to themselves. Do you know,\" she added, thoughtfully, \"I don't believe they would be happy there among the trees and flowers if they thought people who were poor and black could get in.\"",
+   "status": "ok",
+   "confidence": 0.9701093435287476,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 972,
+    "y0": 1687,
+    "x1": 1674,
+    "y1": 2090
+   },
+   "exclude": [
+    [
+     976,
+     1668,
+     991,
+     1688,
+     "r6"
+    ],
+    [
+     1038,
+     1668,
+     1052,
+     1688,
+     "r6"
+    ],
+    [
+     1071,
+     1668,
+     1086,
+     1688,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 975,
+    "y0": 2131,
+    "x1": 1680,
+    "y1": 2537
+   },
+   "text": "A Chicago schoolboy, claiming that a twenty-five-cent piece had been stolen from him, accused the only colored boy in the class, who was suspended. The quarter was subsequently found where the owner had carelessly placed it and forgotten it, but the teacher made no mention of this. The colored boy's mother came to inquire into the matter after several days and protested against the accusation. \"You shouldn't mind so much,\" said the teacher. \"You know it is a common saying that colored people are dishonest.\"",
+   "status": "ok",
+   "confidence": 0.9738761782646179,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 977,
+    "y0": 2130,
+    "x1": 1676,
+    "y1": 2537
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "abandon",
+   "bbox": {
+    "x0": 938,
+    "y0": 2562,
+    "x1": 982,
+    "y1": 2599
+   },
+   "text": "14",
+   "status": "ok",
+   "confidence": 0.8315240740776062,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 936,
+    "y0": 2563,
+    "x1": 979,
+    "y1": 2596
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 10,
+  "lost_words": [],
+  "needs_review": [],
+  "unowned_ink_pct": 1.6,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

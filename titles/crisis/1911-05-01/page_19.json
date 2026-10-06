@@ -1,0 +1,127 @@
+{
+  "page": 19,
+  "image": "images/page_19.jpg",
+  "width": 1374,
+  "height": 2082,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 291,
+        "y0": 182,
+        "x1": 966,
+        "y1": 265
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.7827068567276001,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 257,
+        "y0": 334,
+        "x1": 461,
+        "y1": 366
+      },
+      "text": "THE WOMAN.",
+      "status": "ok",
+      "confidence": 0.8915198445320129,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 104,
+        "y0": 368,
+        "x1": 612,
+        "y1": 1601
+      },
+      "text": "IN the land of the Heavy Laden came once a dreary day. And the King who sat upon the Great White Throne raised up his eyes and saw afar off how the hills around were hot with hostile feet, and the sound of the mocking of his enemies struck anxiously on the King's ears, for the King loved his enemies. So the King lifted up his hand and in the glittering silence spake softly, saying, \"Call the servants of the King.\" Then the herald stepped before the armpost of the throne and cried: \"Thus saith the High and Mighty One, whose name is Holy: the servants of the King.\" Now, of the servants of the King there were a hundred and forty-four thousand—tried men and brave, brawny of arm and quick in wit; aye, too, and women of wisdom and marvelous in beauty and grace. And yet on this drear day when the King called their ears were thick with the dust of the enemy, their eyes were blinded with the flashing of his spears, and they hid their faces in dread silence and moved not, even at the King's behest. So the herald called again. And the servants cowered in very shame, but none came forth. But the third blast of the herald struck upon a woman's heart, afar. And the woman straightway left her baking and sweeping and the rattle of tins. And the woman straightway left her chatting and gossiping and the sewing of garments. And the woman stood before the King, saying, \"The servant of thy servants, O Lord.\"",
+      "status": "ok",
+      "confidence": 0.9684153199195862,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 104,
+        "y0": 1609,
+        "x1": 609,
+        "y1": 1873
+      },
+      "text": "Then the King smiled—smiled wondrously, so that the setting sun burst through the clouds and the hearts of the King's men dried hard within them. And the low-voiced King said, so low that even they that listened heard not well: \"Go smite me mine enemies that they cease to do evil in",
+      "status": "ok",
+      "confidence": 0.9759213328361511,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 645,
+        "y0": 336,
+        "x1": 1152,
+        "y1": 949
+      },
+      "text": "my sight.\" And the woman quailed and trembled. Three times she lifted up her eyes unto the hills and saw the heathen whirling onward in their rage. And seeing she shrank—three times she shrank and crept to the King's feet. \"O King,\" she cried, \"I am but a woman,\" and the King answered: \"Go then, mother of men.\" And the woman said, \"Nay, King, but I am still a maid.\" Whereat the King cried: \"O Maid made Man, thou shall be Bride of God.\" And yet the third time the woman shrank at the thunder in her ears, and whispered: \"Dear God, I am black.\" And the King spake not, but swept the veiling of his face aside and lifted up the light of his countenance upon her and lo! it was black.",
+      "status": "ok",
+      "confidence": 0.9693319201469421,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 645,
+        "y0": 953,
+        "x1": 1150,
+        "y1": 1107
+      },
+      "text": "So the woman went forth on the hills of God to do battle for the King on that drear day in the land of the Heavy Laden, when the heathen raged and imagined a vain thing.",
+      "status": "ok",
+      "confidence": 0.9716240763664246,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 809,
+        "y0": 1188,
+        "x1": 985,
+        "y1": 1220
+      },
+      "text": "PREJUDICE.",
+      "status": "ok",
+      "confidence": 0.8971827030181885,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 643,
+        "y0": 1236,
+        "x1": 1150,
+        "y1": 1870
+      },
+      "text": "THERE is a class of Americans who are coming to regard race prejudice as a divine thing against which it is perfectly useless to strive. If such persons will consider the news of the month they will easily realize that race prejudice in the United States is a deliberately cultivated and encouraged state of mind. In Chicago that which was heralded the world over as \"racial\" antipathy and called even a \"race war\" in an art class was proven to be merely a lie, made by a sensation monger. In Delaware a \"mob of Negroes\" dissolves itself into the rioting of liquor-soaked white toughs. In Texas, the white city of San Antonio went so wild over the excellence of Negro troops that a demagogue in",
+      "status": "ok",
+      "confidence": 0.976523220539093,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.9,
+    "at": "2026-10-06T21:40:42+00:00"
+  }
+}

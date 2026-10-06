@@ -1,0 +1,57 @@
+{
+  "page": 18,
+  "image": "images/page_18.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 850,
+        "y0": 88,
+        "x1": 1000,
+        "y1": 114
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8814093470573425,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 176,
+        "y0": 89,
+        "x1": 205,
+        "y1": 112
+      },
+      "text": "18",
+      "status": "ok",
+      "confidence": 0.8585624098777771,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 222,
+        "y0": 258,
+        "x1": 955,
+        "y1": 1526
+      },
+      "text": "William Stanley Brai Mmaite",
+      "status": "ok",
+      "confidence": 0.9231995940208435,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 2.2,
+    "at": "2026-10-06T21:27:14+00:00"
+  }
+}
