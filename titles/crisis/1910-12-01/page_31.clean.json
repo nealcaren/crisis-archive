@@ -6068,7 +6068,8 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'JOHN BROWN' inside box; split at y=351 didn't verify"
   },
   {
    "id": "r5",
@@ -6258,12 +6259,15 @@
   "regions_before": 7,
   "regions_after": 7,
   "lost_words": [],
-  "needs_review": [],
+  "needs_review": [
+   "r4"
+  ],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 4,
   "log": [
    "reshape r2 (text): lost 33% of its ink, gained 86%",
-   "reread r2: 'A BOOK ALL INTERESTED IN HUMAN PROBLEMS ' -> '{\"text\": \"The person who is signing this'"
+   "reread r2: 'A BOOK ALL INTERESTED IN HUMAN PROBLEMS ' -> '{\"text\": \"The person who is signing this'",
+   "REVIEW r4: heading 'JOHN BROWN' inside box; split at y=351 didn't verify"
   ]
  }
 }

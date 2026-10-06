@@ -1,0 +1,169 @@
+{
+  "page": 28,
+  "image": "images/page_28.jpg",
+  "width": 1073,
+  "height": 1620,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 580,
+        "y0": 145,
+        "x1": 980,
+        "y1": 492
+      },
+      "text": "the famous two-mile relay team of the University of Pennsylvania. Ernest Marshall, now physical director at Howard University, was captain of the Exeter track team, and won his Williams College letter as a member of the football team. Amherst has ever owed a large part of her fame to colored men. W. T. S. Jackson, of M Street High School in Washington, won his letter in football, baseball and on the track. His record for the half mile and quarter mile stood for many years as a school mark. \"Heine\" Bullock, of Andover, was considered one of the greatest fullbacks ever seen, and was a star track performer. Charley Watkins was another high-class football player at Andover.",
+      "status": "ok",
+      "confidence": 0.9751842617988586,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 151,
+        "y0": 147,
+        "x1": 550,
+        "y1": 247
+      },
+      "text": "ably done more to build up amateur athletics for the race than any other agency. To win a college letter in a major sport is the highest honor that can befall an athlete. No more than fifteen men",
+      "status": "ok",
+      "confidence": 0.9246857166290283,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 155,
+        "y0": 276,
+        "x1": 544,
+        "y1": 828
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9729796051979065,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 579,
+        "y0": 497,
+        "x1": 978,
+        "y1": 728
+      },
+      "text": "To suit many purposes Johnson, the famous Carlisle quarterback of Glenn Warner's redskin eleven, whose generalship caused the overthrow of many a big four team, was not generally known to be a Negro. In the University of Vermont a colored lad, Watkins by name, was captain of the football team. Ayler, of Brown, more than once thrilled the souls of thousands of Brown men with spectacular dashes and tackles on the gridiron. Up in the Hanoverian hills",
+      "status": "ok",
+      "confidence": 0.9779492616653442,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure",
+      "bbox": {
+        "x0": 580,
+        "y0": 753,
+        "x1": 972,
+        "y1": 1314
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9744316339492798,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 153,
+        "y0": 917,
+        "x1": 552,
+        "y1": 1512
+      },
+      "text": "out of a school roll of 5,000 can hope to win the honor at Harvard on the football field during a season, only twelve or fifteen may aspire to the baseball honor, while the track honor is won by fewer athletes. Many colored athletes have achieved this distinction.\n· Hon. William H. Lewis, now Assistant Attorney General, is considered by many the best center the game of football has known. He won his letter at Amherst, and captained the team. At Harvard his greatest reputation as a center rush was attained, and during a game with the University of Pennsylvania, he was captain of the great Harvard eleven. Napoleon Marshall, a lawyer of Washington. D. C., was a runner of no mean ability, and won his letter in track work at Harvard. Matthews, the famous shortstop, was undoubtedly the best man on the baseball team at Harvard University, and many a game was won through his work with the stick.\nEvery University of Pennsylvania student and alumnus knows of the late John B. Taylor, the runner whose record for the quarter mile of 48 4-5 seconds still stands untouched. Dr. Howard Smith, of Baltimore, was anchor man on",
+      "status": "ok",
+      "confidence": 0.9742451310157776,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 578,
+        "y0": 1414,
+        "x1": 978,
+        "y1": 1513
+      },
+      "text": "Matthew Bullock was a hero for four years. He was undoubtedly one of the best end rushes that Dartmouth has ever had, and his fame will live in the hearts of Dartmouth men.",
+      "status": "ok",
+      "confidence": 0.9585686922073364,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "abandon",
+      "bbox": {
+        "x0": 152,
+        "y0": 95,
+        "x1": 192,
+        "y1": 117
+      },
+      "text": "116",
+      "status": "ok",
+      "confidence": 0.8267782330513,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 237,
+        "y0": 848,
+        "x1": 469,
+        "y1": 893
+      },
+      "text": "M. W. BULLOCK\nA Dartmouth Football Hero.",
+      "status": "ok",
+      "confidence": 0.45637670159339905,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 476,
+        "y0": 93,
+        "x1": 639,
+        "y1": 117
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8880587220191956,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 699,
+        "y0": 1335,
+        "x1": 854,
+        "y1": 1353
+      },
+      "text": "N. B. MARSHALL",
+      "status": "ok",
+      "confidence": 0.33202171325683594,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.2,
+    "at": "2026-10-06T21:59:47+00:00"
+  }
+}

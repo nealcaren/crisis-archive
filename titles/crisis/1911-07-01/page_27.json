@@ -1,0 +1,281 @@
+{
+  "page": 27,
+  "image": "images/page_27.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 315,
+        "y0": 108,
+        "x1": 705,
+        "y1": 133
+      },
+      "text": "FAMOUS COLLEGE ATHLETES",
+      "status": "ok",
+      "confidence": 0.8493215441703796,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 92,
+        "y0": 133,
+        "x1": 488,
+        "y1": 690
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 514,
+        "y0": 133,
+        "x1": 914,
+        "y1": 690
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure",
+      "bbox": {
+        "x0": 148,
+        "y0": 159,
+        "x1": 853,
+        "y1": 736
+      },
+      "text": "THE PREPARATION OF COLLEGE ATHLETES\nTeam of the Armstrong High School, Washington, D. C.",
+      "status": "ok",
+      "confidence": 0.9669798016548157,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 92,
+        "y0": 736,
+        "x1": 488,
+        "y1": 933
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 256,
+        "y0": 736,
+        "x1": 730,
+        "y1": 933
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 514,
+        "y0": 736,
+        "x1": 914,
+        "y1": 933
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 170,
+        "y0": 827,
+        "x1": 837,
+        "y1": 890
+      },
+      "text": "The Colored College Athlete",
+      "status": "ok",
+      "confidence": 0.935038685798645,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 318,
+        "y0": 933,
+        "x1": 685,
+        "y1": 964
+      },
+      "text": "EDWIN B. HENDERSON",
+      "status": "ok",
+      "confidence": 0.918524444103241,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 92,
+        "y0": 964,
+        "x1": 488,
+        "y1": 1070
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 256,
+        "y0": 964,
+        "x1": 730,
+        "y1": 1070
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 514,
+        "y0": 964,
+        "x1": 914,
+        "y1": 1070
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 206,
+        "y0": 986,
+        "x1": 822,
+        "y1": 1007
+      },
+      "text": "Physical Director M Street and Armstrong High Schools, Washington, D. C.",
+      "status": "ok",
+      "confidence": 0.897249698638916,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1070,
+        "x1": 488,
+        "y1": 1513
+      },
+      "text": "The colored college athlete of the past and present bears an enviable reputation. His athletic prowess has brought him fame, his skill and courage have gained for him the respect and admiration of thousands, and it is impossible to overestimate the effect of his career upon the minds of thousands of Americans who have seen him perform or have read of his doings. The path of the Negro athlete is not strewn with roses. He must fight the prejudiced attacks of Negroaters, whose methods are low and despicable. Fraternities often rule and hamper his efforts, so that in nearly all cases where he does win out his superiority is made evident beyond the slightest doubt. Nearly every Negro athlete of prominence in college has been a gentleman, has worn his honors with modesty, and has gained respect by playing the game and ignoring the taunts of prejudiced opponents.",
+      "status": "ok",
+      "confidence": 0.9779344201087952,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 514,
+        "y0": 1070,
+        "x1": 914,
+        "y1": 1514
+      },
+      "text": "When competent physical directors and equal training facilities are afforded the colored youth the white athlete will find an equal or superior in nearly every line of athletic endeavor. The native muscular development and vitality of the Negro of the South, if directed in channels of athletic activities, would lower many records now standing, and our leaders should grasp the situation and develop agencies to conserve the vital forces of the race. Physical training, including athletics, should be a well-outlined course in every school for colored youth; it should not be thrown into the hand of inexperienced student control, but should be developed under the direction of a department of physical education. At least one organization, the Interscholastic Athletic Association of the Middle Atlantic States, exists for the purpose of spreading the doctrine of sound health for colored people, and has prob-",
+      "status": "ok",
+      "confidence": 0.977156400680542,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1513,
+        "x1": 488,
+        "y1": 1595
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "text",
+      "bbox": {
+        "x0": 256,
+        "y0": 1514,
+        "x1": 730,
+        "y1": 1595
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "text",
+      "bbox": {
+        "x0": 514,
+        "y0": 1514,
+        "x1": 914,
+        "y1": 1595
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "abandon",
+      "bbox": {
+        "x0": 873,
+        "y0": 108,
+        "x1": 912,
+        "y1": 129
+      },
+      "text": "115",
+      "status": "ok",
+      "confidence": 0.7897273302078247,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.2,
+    "at": "2026-10-06T21:59:41+00:00"
+  }
+}

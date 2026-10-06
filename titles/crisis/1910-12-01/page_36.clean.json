@@ -116,16 +116,22 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "heading_restored": "ALSO HOMES FOR SALE ON EASY TERMS",
+   "needs_review": "heading 'ALSO HOMES FOR SALE ON EASY TERMS' inside box; split at y=1283 didn't verify"
   }
  ],
  "clean": {
   "regions_before": 4,
   "regions_after": 4,
   "lost_words": [],
-  "needs_review": [],
+  "needs_review": [
+   "r3"
+  ],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 1,
-  "log": []
+  "log": [
+   "REVIEW r3: heading 'ALSO HOMES FOR SALE ON EASY TERMS' inside box; split at y=1283 didn't verify"
+  ]
  }
 }

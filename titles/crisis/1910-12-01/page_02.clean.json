@@ -1918,7 +1918,8 @@
     ]
    ],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'TAKE A COURSE' inside box but no gap to cut at"
   },
   {
    "id": "r2",
@@ -1942,7 +1943,8 @@
    "exclude": [],
    "changed": true,
    "text_before_clean": "ONE OF THE SUREST WAYS TO SUCCEED IN LIFE IS TO TAKE A COURSE AT",
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'LIFE IS TO' inside box; split at y=183 didn't verify"
   },
   {
    "id": "r3",
@@ -2046,7 +2048,7 @@
    "text_before_clean": "The most up-to-date and thoroughly equipped conservatory in the city. Conducted under the supervision of\nMME. E. TOUISSANT WELCOME\nThe Foremost Female Artist of the Race",
    "role": "text",
    "text_reread": "hly equipped conservatory in\npervision of\n\nT WELCOME\nrtist of the Race",
-   "needs_review": "reread lost words: supervision thoroughly"
+   "needs_review": "heading 'MME. E. TOUISSANT WELCOME' inside box; split at y=836 didn't verify"
   },
   {
    "id": "r6",
@@ -2126,7 +2128,7 @@
    "text_before_clean": "Music\nPiano, Violin, Mandolin, Voice Culture and all Brass and Reed Instruments.\nTERMS REASONABLE",
    "role": "text",
    "text_reread": "culture and all Brass and Reed\nONABLE",
-   "needs_review": "reread lost words: reasonable"
+   "needs_review": "heading 'TERMS REASONABLE' inside box; split at y=1447 didn't verify"
   }
  ],
  "clean": {
@@ -2134,6 +2136,8 @@
   "regions_after": 8,
   "lost_words": [],
   "needs_review": [
+   "r1",
+   "r2",
    "r5",
    "r7"
   ],
@@ -2154,7 +2158,11 @@
    "reread r6: 'Drawing, Pen and Ink Sketching, Crayon, ' -> 'Art\\nCrayon, Pastel, Water Color, fashion'",
    "reread r7: 'Music\\nPiano, Violin, Mandolin, Voice Cul' -> 'culture and all Brass and Reed\\nONABLE'",
    "REVIEW r5: reread lost supervision thoroughly; kept old text",
-   "REVIEW r7: reread lost reasonable; kept old text"
+   "REVIEW r7: reread lost reasonable; kept old text",
+   "REVIEW r1: heading 'TAKE A COURSE' inside box but no gap to cut at",
+   "REVIEW r2: heading 'LIFE IS TO' inside box; split at y=183 didn't verify",
+   "REVIEW r5: heading 'MME. E. TOUISSANT WELCOME' inside box; split at y=836 didn't verify",
+   "REVIEW r7: heading 'TERMS REASONABLE' inside box; split at y=1447 didn't verify"
   ]
  }
 }

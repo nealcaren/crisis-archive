@@ -1,0 +1,85 @@
+{
+  "page": 38,
+  "image": "images/page_38.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 394,
+        "y0": 84,
+        "x1": 756,
+        "y1": 113
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8629599213600159,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 160,
+        "y0": 87,
+        "x1": 993,
+        "y1": 218
+      },
+      "text": "WHERE TO STOP",
+      "status": "ok",
+      "confidence": 0.8673102259635925,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 219,
+        "y0": 252,
+        "x1": 937,
+        "y1": 377
+      },
+      "text": "Our readers are urged to use these columns in outlining their vacation and travel plans. These hotels and stopping places are modern in every sense, and the traveling public is assured comfort and efficient service. For detailed information concerning resorts and hotels write",
+      "status": "ok",
+      "confidence": 0.9451082348823547,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "table_caption",
+      "bbox": {
+        "x0": 167,
+        "y0": 413,
+        "x1": 987,
+        "y1": 453
+      },
+      "text": "The Travel Editor of The Crisis,  Editor of The Crisis, 20 of The Travel Editor of The Crisis, 20 Vesey St., New York",
+      "status": "ok",
+      "confidence": 0.695165753364563,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "table",
+      "bbox": {
+        "x0": 161,
+        "y0": 443,
+        "x1": 997,
+        "y1": 1515
+      },
+      "text": "VOCAL AND INSTRUMENTAL MUSIC EVERY EVENING.\nBreakfast, 7:30 to 12:30, 30c. Luncheon, 12:30 to 3. 30c. Dinner, 6 to 8, 35c.\nSpecial Course Dinner Every Sunday and Holidays, 50c.\n\nTelephones 4693 - 4694 Columbus J. L. MARSHALL, Proprietor\n\nTHE CLIFF HOUSE\n253 WEST 134TH STREET\nNEWLY OPENED\nSpecial summer rates to permanent or transient guests. Special attention to out-of-town tourists. Up-to-date private house in every respect. Telephone connection.\nMRS. W. E. PERKINS, Prop.\n\nTelephone 4121 Harlem\n“THE IDLE HOUR”\nMrs. P. Brown\nHANDSOME FURNISHED ROOMS\nWith All Improvements\nPermanent and Transient Guests Accommodated\nMEALS SERVED AT ALL HOURS\n77 WEST 134TH STREET NEW YORK\n\nTelephone 3593-L Harlem\nHOTEL PRESS\nFormerly The Walker House\nFirst-class Rooms by Day or Week\nBuffet Café and Restaurant Connected\nLarge Parlors To Let for Receptions\n19-21 WEST 135TH STREET NEW YORK\nJ. H. PRESS, Manager\n\nTHE TEN EYCK HOUSE\n232 WEST 20TH STREET\nBetween 7th and 8th Avenues NEW YORK\nNeatly Furnished Rooms for Permanent or Transient Guests by Day or Week\nMRS. THOMAS L. TEN EYCK, Proprietress\n\n“A quiet place for quiet people to dine”\n“THE BRADFORD”\n73 WEST 134TH STREET\nBetween Fifth and Lenox Avenues NEW YORK\nOysters, Chops, Steaks, Rarebits, Salads, Club Sandwiches, Etc. Regular Dinner, 25c., from 2 p. m. to 9 p. m. Meals Served at All Hours.\nPrivate Dining Room. Furnished Rooms To Let. Permanent or Transient.\nJOHN E. BRADFORD, Proprietor\n\nTHE ALLEN HOUSE\n62 WEST 132D STREET\nSELECT, NEATLY FURNISHED ROOMS\nAll Improvements\nFOR RENT BY DAY OR WEEK\nPrices Moderate\nMRS. M. A. ANDERSON JOHNSON\n\nTHE ROSALINE\n128 WEST 29TH STREET NEW YORK\nFURNISHED ROOMS\nBY DAY OR WEEK\nEDWARD D. SMALL, Proprietor\n\nTelephone 5395 Chelsea\nFURNISHED ROOMS\nBY DAY, WEEK OR MONTH\nConvenient to the Pennsylvania Depot and All Car Lines\n245 WEST 20TH STREET NEW YORK\nMRS. L. D. LAWS, Proprietress",
+      "status": "ok",
+      "confidence": 0.5588505864143372,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 14.7,
+    "at": "2026-10-06T22:02:21+00:00"
+  }
+}

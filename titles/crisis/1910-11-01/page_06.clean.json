@@ -18,9 +18,34 @@
     "x0": 274,
     "y0": 162,
     "x1": 1117,
+    "y1": 227
+   },
+   "text": "6 THE CRISIS",
+   "status": "ok",
+   "confidence": 0.7739676237106323,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 273,
+    "y0": 163,
+    "x1": 1115,
+    "y1": 304
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "6 THE CRISIS\nECONOMIC. It is\nEnorme",
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r1b",
+   "label": "abandon",
+   "bbox": {
+    "x0": 274,
+    "y0": 227,
+    "x1": 1117,
     "y1": 288
    },
-   "text": "6 THE CRISIS\nECONOMIC.",
+   "text": "ECONOMIC.",
    "status": "ok",
    "confidence": 0.7739676237106323,
    "lines": [],
@@ -69,7 +94,8 @@
    ],
    "changed": true,
    "text_before_clean": "6 THE CRISIS\nECONOMIC. It is\nEnorme",
-   "role": "text"
+   "role": "text",
+   "split_from": "r1"
   },
   {
    "id": "r3",
@@ -409,9 +435,9 @@
     "x0": 1007,
     "y0": 646,
     "x1": 1705,
-    "y1": 988
+    "y1": 942
    },
-   "text": "BROWNSVILLE.\n\nAttention has been called to the fact that the 25th Infantry, which has recently been so warmly commended for work in putting out the forest fires, was the same regiment some of whose members were dismissed without a trial for alleged but unproven crimes at Brownsville, Tex.\n\nSCIENCE.",
+   "text": "Attention has been called to the fact that the 25th Infantry, which has recently been so warmly commended for work in putting out the forest fires, was the same regiment some of whose members were dismissed without a trial for alleged but unproven crimes at Brownsville, Tex.",
    "status": "ok",
    "confidence": 0.9726055264472961,
    "lines": [],
@@ -423,7 +449,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r13"
+  },
+  {
+   "id": "r13b",
+   "label": "title",
+   "bbox": {
+    "x0": 1007,
+    "y0": 942,
+    "x1": 1705,
+    "y1": 988
+   },
+   "text": "SCIENCE.",
+   "status": "ok",
+   "confidence": 0.9726055264472961,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 1006,
+    "y0": 643,
+    "x1": 1714,
+    "y1": 1002
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r13"
   },
   {
    "id": "r14",
@@ -544,7 +595,7 @@
  ],
  "clean": {
   "regions_before": 17,
-  "regions_after": 17,
+  "regions_after": 19,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.68,
@@ -555,7 +606,9 @@
    "reshape r14 (title): lost 3% of its ink, gained 0%",
    "reread r1: '6 THE CRISIS\\nECONOMIC. It is\\nEnorme' -> '6 THE CRISIS\\nECONOMIC.'",
    "reread r11: 'J. H. Grant has a $20,000 Negro shoe sto' -> 'J. H. Grant has a $20,000 Negro shoe sto'",
-   "reread r14: 'SCIENCE.\\n\\nA paper read before the Britis' -> 'A paper read before the British Associat'"
+   "reread r14: 'SCIENCE.\\n\\nA paper read before the Britis' -> 'A paper read before the British Associat'",
+   "split r1 at y=227 before 'ECONOMIC.'",
+   "split r13 at y=942 before 'SCIENCE.'"
   ]
  }
 }

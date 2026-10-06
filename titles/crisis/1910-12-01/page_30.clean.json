@@ -18,9 +18,9 @@
     "x0": 152,
     "y0": 104,
     "x1": 972,
-    "y1": 283
+    "y1": 249
    },
-   "text": "WHAT TO READ\nARTICLES. ARCHER'S AFRO-AMERICA.",
+   "text": "WHAT TO READ",
    "status": "ok",
    "confidence": 0.8766778111457825,
    "lines": [],
@@ -32,7 +32,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r0"
+  },
+  {
+   "id": "r0b",
+   "label": "title",
+   "bbox": {
+    "x0": 152,
+    "y0": 249,
+    "x1": 972,
+    "y1": 283
+   },
+   "text": "ARTICLES. ARCHER'S AFRO-AMERICA.",
+   "status": "ok",
+   "confidence": 0.8766778111457825,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 153,
+    "y0": 105,
+    "x1": 971,
+    "y1": 283
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r0"
   },
   {
    "id": "r1",
@@ -153,14 +178,15 @@
  ],
  "clean": {
   "regions_before": 6,
-  "regions_after": 6,
+  "regions_after": 7,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.21,
   "box_overlaps_after": 0,
   "log": [
    "reshape r3 (title): lost 4% of its ink, gained 0%",
-   "reread r3: '\"Through Afro-America\" is the attempt of' -> '\"Through Afro-America\" is the attempt of'"
+   "reread r3: '\"Through Afro-America\" is the attempt of' -> '\"Through Afro-America\" is the attempt of'",
+   "split r0 at y=249 before \"ARTICLES. ARCHER'S AFRO-AMERICA.\""
   ]
  }
 }

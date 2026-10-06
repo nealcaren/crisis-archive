@@ -1,0 +1,323 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1067,
+  "height": 1611,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 339,
+        "y0": 103,
+        "x1": 690,
+        "y1": 130
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8783896565437317,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 154,
+        "y0": 156,
+        "x1": 451,
+        "y1": 199
+      },
+      "text": "Shaw University",
+      "status": "ok",
+      "confidence": 0.9008206725120544,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 548,
+        "y0": 201,
+        "x1": 906,
+        "y1": 343
+      },
+      "text": "Atlanta University Studies of the Negro Problems",
+      "status": "ok",
+      "confidence": 0.967589795589447,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 107,
+        "y0": 202,
+        "x1": 501,
+        "y1": 373
+      },
+      "text": "This institution of learning, established in 1865, has industrial departments for both young men and young women, as well as college, normal and preparatory departments. There are also Schools of Law, Medicine, Pharmacy and Theology. The facilities have recently been increased. Other improvements are being planned that will be completed within the next two years. Applications should be made several months or a year in advance, for it has become impossible during the last few years to receive all who apply. The present enrollment is over 500.",
+      "status": "ok",
+      "confidence": 0.541497528553009,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 563,
+        "y0": 352,
+        "x1": 882,
+        "y1": 409
+      },
+      "text": "13 Monographs. Sold Separately.\nAddress:",
+      "status": "ok",
+      "confidence": 0.7349143028259277,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 107,
+        "y0": 374,
+        "x1": 498,
+        "y1": 480
+      },
+      "text": "The academic year begins on the Thursday nearest the first day of October and continues for thirty-two consecutive weeks. The charges are moderate. Catalogues furnished upon application.\nAddress THE PRESIDENT\nShaw University, Raleigh, N. C.",
+      "status": "ok",
+      "confidence": 0.6502405405044556,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 525,
+        "y0": 454,
+        "x1": 920,
+        "y1": 835
+      },
+      "text": "JOINING THE NAVY; OR,\nABROAD WITH UNCLE SAM\nBy JOHN H. PAYNTER, A.M.\nFirst Race Contribution to Navy\nLiterature\nOrdered by the Government for Libraries of\nWar Vessels\n\"It is a perfect picture of life on board\nship when I first went to sea. The story is\ntold so simply and in such good style, and\nholds its interest so, that I read it through\nat one sitting.\"—Richardson Clover, Rear\nAdmiral, U. S. N., Retired.\nCloth Bound. 300 Pages. Fully Illustrated.\nSECOND EDITION\nSent Postage Paid on Receipt of One Dollar\nAddress care of\nSUDWARTH PRINTING CO.\nWASHINGTON, D. C.",
+      "status": "ok",
+      "confidence": 0.8602737188339233,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 105,
+        "y0": 509,
+        "x1": 502,
+        "y1": 991
+      },
+      "text": "Lincoln Institute\nJEFFERSON CITY, MISSOURI\nFounded by the Soldiers of the 62d and 65th\nRegiments of the U. S. Colored Infantry.\nSupported by the State of Missouri. Has\nNormal, Collegiate, Agricultural, Mechanical and\nIndustrial Courses. Buildings and equipment\nunsurpassed. Thirty teachers representing the\nbest schools of the country. Students from all\nsections of the country. For catalogue and fur-\nther information address\nBENJAMIN FRANKLIN ALLEN,\nPresident.\n\nKnoxville College\nBeautiful Situation, Healthful Location\nThe Best Moral and Spiritual Environment\nA Splendid Intellectual Atmosphere\nNoted for Honest and Thorough Work\nOffers full courses in the following de-\npartments: College, Normal, High School,\nGrammar School and Industrial.",
+      "status": "ok",
+      "confidence": 0.923811137676239,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 529,
+        "y0": 865,
+        "x1": 915,
+        "y1": 913
+      },
+      "text": "PUBLICATIONS OF THE N. A. A. C. P.\nThe N. A. A. C. P. has for sale the following pamphlets:",
+      "status": "ok",
+      "confidence": 0.7849869728088379,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 525,
+        "y0": 894,
+        "x1": 918,
+        "y1": 1182
+      },
+      "text": "The N. A. A. C. P. has for sale the following pamphlets:\n1. Disfranchisement: A powerful argument by the Rev. John Haynes Holmes.\n2. Education in the South: Facts about the discrimination against the Negro. By the Rev. Horace Bumstead, former president of Atlanta University.\n3. The Real Race Problem: A scientific comparison of the black and the white man by America's foremost anthropologist, Prof. Boas, of Columbia University.\n4. Social Control. By Jane Addams, of Hull House.\n5. The Negro as a Soldier. By Brigadier-General Burt, U. S. A.",
+      "status": "ok",
+      "confidence": 0.7977496981620789,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 105,
+        "y0": 991,
+        "x1": 502,
+        "y1": 1338
+      },
+      "text": "Good water, steam heat, electric lights, good drainage. Expenses very reasonable. Opportunity for Self-help.\nFall Term Opens Sept. 27, 1911.\nFor information address\nPresident R. W. McGranahan\nKNOXVILLE, TENN.\n\nPAINE COLLEGE\nAUGUSTA, GA.\nNormal, Preparatory, College and Theological Departments\nGirls receive superior training in Domestic Science. Instruction in Vocal and Instrumental Music. High Location, Large Campus, Thorough Instruction. Session of 1911-12 begins September 26th.\nFor full information write\nH. S. DUNBAE, Reg.",
+      "status": "ok",
+      "confidence": 0.8884684443473816,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 523,
+        "y0": 1235,
+        "x1": 918,
+        "y1": 1420
+      },
+      "text": "The Curse of Race Prejudice\nJAMES F. MORTON, JR., A.M., Author and Publisher\nForceful, rational, comprehensive. An arsenal of facts and unanswerable arguments. Invaluable for propaganda. Read the chapter on \"The Bugbear of Social Equality,\" which is a veritable eye-opener. Thousands already sold. Agents wanted everywhere.",
+      "status": "ok",
+      "confidence": 0.8837623596191406,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 106,
+        "y0": 1345,
+        "x1": 499,
+        "y1": 1473
+      },
+      "text": "TRADE JOURNAL\nSMALL'S NEGRO TRADE JOURNAL\nA paper devoted to the commercial, financial and business world.\nWe list you and send you our paper once each month—all for $1.00 a year.\nSend us your business card.",
+      "status": "ok",
+      "confidence": 0.8850303292274475,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 541,
+        "y0": 1457,
+        "x1": 897,
+        "y1": 1477
+      },
+      "text": "Address the Author at 244 West 143d Street,",
+      "status": "ok",
+      "confidence": 0.5366446375846863,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 105,
+        "y0": 1473,
+        "x1": 502,
+        "y1": 1591
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "text",
+      "bbox": {
+        "x0": 523,
+        "y0": 1504,
+        "x1": 921,
+        "y1": 1591
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "abandon",
+      "bbox": {
+        "x0": 421,
+        "y0": 1513,
+        "x1": 600,
+        "y1": 1531
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.6305038332939148,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "abandon",
+      "bbox": {
+        "x0": 882,
+        "y0": 105,
+        "x1": 921,
+        "y1": 127
+      },
+      "text": "137",
+      "status": "ok",
+      "confidence": 0.8391335010528564,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "title",
+      "bbox": {
+        "x0": 676,
+        "y0": 153,
+        "x1": 773,
+        "y1": 180
+      },
+      "text": "BOOKS",
+      "status": "ok",
+      "confidence": 0.5165819525718689,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 638,
+        "y0": 419,
+        "x1": 805,
+        "y1": 449
+      },
+      "text": "A. G. DILL",
+      "status": "ok",
+      "confidence": 0.678386390209198,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "title",
+      "bbox": {
+        "x0": 643,
+        "y0": 1428,
+        "x1": 799,
+        "y1": 1448
+      },
+      "text": "PRICE 25 CENTS",
+      "status": "ok",
+      "confidence": 0.8468202352523804,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 650,
+        "y0": 1484,
+        "x1": 791,
+        "y1": 1504
+      },
+      "text": "New York, N. Y.",
+      "status": "ok",
+      "confidence": 0.4924154281616211,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.0,
+    "at": "2026-10-06T22:10:13+00:00"
+  }
+}

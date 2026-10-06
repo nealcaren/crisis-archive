@@ -1,0 +1,71 @@
+{
+  "page": 23,
+  "image": "images/page_23.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 93,
+        "y0": 95,
+        "x1": 237,
+        "y1": 121
+      },
+      "text": "JULY, 1911",
+      "status": "ok",
+      "confidence": 0.8472691178321838,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 920,
+        "y0": 104,
+        "x1": 958,
+        "y1": 127
+      },
+      "text": "111",
+      "status": "ok",
+      "confidence": 0.8340520858764648,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 0,
+        "y0": 168,
+        "x1": 905,
+        "y1": 1451
+      },
+      "text": "MCA\n19-10\n\nScurlock\nPhoto.",
+      "status": "ok",
+      "confidence": 0.9546124339103699,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 377,
+        "y0": 1474,
+        "x1": 893,
+        "y1": 1528
+      },
+      "text": "Young Men's Christian Association Basketball Team at Washington D. C. This team was never defeated.",
+      "status": "ok",
+      "confidence": 0.8688204288482666,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 2.9,
+    "at": "2026-10-06T21:59:12+00:00"
+  }
+}

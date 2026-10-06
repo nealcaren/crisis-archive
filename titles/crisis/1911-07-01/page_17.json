@@ -1,0 +1,127 @@
+{
+  "page": 17,
+  "image": "images/page_17.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 443,
+        "y0": 86,
+        "x1": 558,
+        "y1": 110
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.8200739026069641,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 94,
+        "y0": 139,
+        "x1": 490,
+        "y1": 538
+      },
+      "text": "The Atlanta Georgian says the sheriff deserves his disgrace. \"No sheriff, no officer of any kind, who would be guilty of such dishonorable conduct deserves to remain in office for one moment. The law is too sacred for it thus to be stabbed in the back by the very persons who have sworn to uphold and defend it.\"\n\n\"THE MAN FARTHEST DOWN.\"\n\nMr. Booker T. Washington's articles in the Outlook have received comment on both sides of the proposition that the Negro in the South is better off than the European peasant. Some Southern papers have quoted the articles with brief observations of their own or none at all. The New York Tribune, however, goes into the question:",
+      "status": "ok",
+      "confidence": 0.975623607635498,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 540,
+        "x1": 493,
+        "y1": 1109
+      },
+      "text": "\"Dr. Washington says that he has been tremendously impressed by the fact that the masses of Southern Negroes do not fully appreciate the advantages which they possess in living in a country where there is a constant demand for labor of all sorts. Furthermore, it is clear that they do not sufficiently appreciate the practical monopoly which they enjoy in a great labor market like the South's. The Southern landowner has been educated to the use of Negro labor. He is more or less blind to its shortcomings and is disposed to ignore its relative inefficiency. The farmhand on the Southern cotton plantation and the roustabout on Southern wharves and steamboats are, considering the work they do, about the highest-paid laborers in the United States. They represent an uneconomic survival of hand labor in a world of labor-saving machinery. In the field of domestic service the Southern Negro has also a practical monopoly. Colored cooks, nurses, waiters and laundresses get good wages and have no white competition. They are all well fed and well clothed and receive a degree of consideration which is not given elsewhere to household employees.",
+      "status": "ok",
+      "confidence": 0.8758231401443481,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 99,
+        "y0": 1110,
+        "x1": 495,
+        "y1": 1493
+      },
+      "text": "\"It is a fact little noticed by those who hold that the American Negro does not have a fair chance industrially that the struggle for life, which is so fierce and so exhausting in many other parts of the world, hardly touches him at all if he stays South. . . . The lot of the average American Negro, especially the Negro of the South, is not worse than that of any other group of human beings of similar capacity. It is, on the contrary, one which offers a relatively large proportion of comfort, opportunity and hope.\"\n\nThe Manchester (England) Guardian finds the articles unscientific, but thinks it-extremely pathetic that there should be any race so miserable as to be encouraged by the fact that it has not sunk so low as a few of the most un-",
+      "status": "ok",
+      "confidence": 0.9718443751335144,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "abandon",
+      "bbox": {
+        "x0": 872,
+        "y0": 83,
+        "x1": 909,
+        "y1": 104
+      },
+      "text": "105",
+      "status": "ok",
+      "confidence": 0.8539407253265381,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 517,
+        "y0": 135,
+        "x1": 912,
+        "y1": 595
+      },
+      "text": "happy dwellers in the London slums: \"The first installment refers to the lowest types of Londoners, and Mr. Washington describes certain homeless and broken men hunting for garbage and begging under thin disguises than whom he has never seen anything more hopeless and wretched. He does not appear to have made any close social or economic study of our problems, but an impression is not without its value even though there is not any basis of comparison between the lowest of the Negroes and the lowest of the Englishmen. He does, however, find points of contrast; the Negro 'is never without hope and a certain joy in living,' he can always find labor of some kind, and Mr. Washington has never heard of a Negro dying from lack of food. We have the fine institutions here, it seems, but though they may save us from wrongs which are suffered by the Negroes of the Southern States they cannot always ensure bread.",
+      "status": "ok",
+      "confidence": 0.9764856100082397,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 517,
+        "y0": 595,
+        "x1": 915,
+        "y1": 1051
+      },
+      "text": "\"A good deal is made of the fifty-two cases of positive starvation in London during a year, and these are formidable enough if they are taken as an indication of the numbers who do not quite starve, but it seems that these extreme cases have a certain spectacular value. Mr. Washington's desire in investigating the state of the most degraded of Europeans is to render a service to his own race. 'There are not a few Negroes who sometimes become discouraged and feel that their condition and prospects are worse than those of any other group of human beings. I wanted to see groups of people who are much worse off than the Negro, and, through detailing their condition, place such facts before the Negro in America as would make him feel and see that, instead of being the worst off, his condition and prospects are much better than those of millions of people who are in the same relative stage of civilization.'",
+      "status": "ok",
+      "confidence": 0.8917569518089294,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1052,
+        "x1": 918,
+        "y1": 1494
+      },
+      "text": "\"This betrays a dreadfully unscientific spirit, and we should suppose that students of social conditions would look with suspicion on Mr. Washington's facts; but it is moving and pathetic that a leader of a race should set out to find comfort for his fellows in the miseries of other races.\"\n\nMr. John E. Milholland, whose reply to Mr. Washington in England last summer occasioned so much discussion, sends a long article to the Boston Guardian. He refers to \"platitudinous, narcotic deliverances\" in the Outlook, and then says, in part:\n\n\"What was the issue raised by him and discussed by me? The pauperism of London? Certainly not. The awful condition of the East End? Nothing of the kind.\n\n\"Surely in this day no argument is necessary to prove that, all in all, the American masses, black and white, are better",
+      "status": "ok",
+      "confidence": 0.9708068370819092,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.5,
+    "at": "2026-10-06T21:58:29+00:00"
+  }
+}

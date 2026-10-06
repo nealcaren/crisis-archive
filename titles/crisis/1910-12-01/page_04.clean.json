@@ -1734,7 +1734,8 @@
    ],
    "changed": true,
    "text_before_clean": "We Print THE CRISIS",
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'ROBERT N. WOOD' inside box but no gap to cut at"
   },
   {
    "id": "r9",
@@ -1780,7 +1781,8 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'NEW YORK CAREFUL CLEAN-' inside box but no gap to cut at"
   },
   {
    "id": "r14",
@@ -3115,7 +3117,9 @@
   "regions_after": 8,
   "lost_words": [],
   "needs_review": [
-   "r0"
+   "r0",
+   "r8",
+   "r13"
   ],
   "unowned_ink_pct": 14.42,
   "box_overlaps_after": 7,
@@ -3135,7 +3139,9 @@
    "reread r3: 'The Leading Colored Restaurant in Americ' -> 'The Leading Colored Restaurant in Americ'",
    "reread r8: 'We Print THE CRISIS' -> 'We Print THE CRISIS\\n\\nWe Print for the De'",
    "reread r14: '4' -> 'The Looking Colorado Dermatology\\nCritica'",
-   "REVIEW r0: reread lost hull; kept old text"
+   "REVIEW r0: reread lost hull; kept old text",
+   "REVIEW r8: heading 'ROBERT N. WOOD' inside box but no gap to cut at",
+   "REVIEW r13: heading 'NEW YORK CAREFUL CLEAN-' inside box but no gap to cut at"
   ]
  }
 }

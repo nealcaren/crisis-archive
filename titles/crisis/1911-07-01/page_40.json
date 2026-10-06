@@ -1,0 +1,295 @@
+{
+  "page": 40,
+  "image": "images/page_40.jpg",
+  "width": 1071,
+  "height": 1618,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 394,
+        "y0": 88,
+        "x1": 753,
+        "y1": 117
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8767061233520508,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 394,
+        "y0": 117,
+        "x1": 753,
+        "y1": 814
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 163,
+        "y0": 171,
+        "x1": 561,
+        "y1": 814
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "abandon",
+      "bbox": {
+        "x0": 214,
+        "y0": 225,
+        "x1": 931,
+        "y1": 285
+      },
+      "text": "CLASSIFIED ADVERTISING",
+      "status": "ok",
+      "confidence": 0.6436232328414917,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 207,
+        "y0": 326,
+        "x1": 931,
+        "y1": 718
+      },
+      "text": "Through our Classified Advertising Service you have the opportunity to tell your little wants to 40,000 SELECT readers.\nIf you want HELP, you can find, among THE CRISIS readers, graduates of Industrial Schools and thousands of young people who are trained for efficient, dependable service.\nIf you want a POSITION, THE CRISIS can help you find high-class places for teachers, managers, clerks, stenographers, hotel men, etc., etc.\nYou will find our readers very responsive to this department for Business Opportunities, Investments, Correspondence Schools, Agents Wanted, etc.\nAdvertisers may have replies sent in care of THE CRISIS and forwarded.\nClassified advertising rates made known on application.",
+      "status": "ok",
+      "confidence": 0.8681910634040833,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 163,
+        "y0": 814,
+        "x1": 560,
+        "y1": 1121
+      },
+      "text": "EMPLOYMENT AGENCIES\n\nMISS I. L. MOORMAN'S\nEMPLOYMENT AGENCY\nReliable help at all times for the most discriminating employers.\nReferences thoroughly investigated.\n463 LENOX AVENUE\nNEW YORK\n\nSITUATIONS WANTED\n\nYOUNG MAN (colored) about 19 years of age,\nwith high school education, desires employment\nin private family, city or country.\nReferences given. Address Harrison Wesson,\n2144 Fifth Avenue, New York.",
+      "status": "ok",
+      "confidence": 0.8926594853401184,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 163,
+        "y0": 1208,
+        "x1": 561,
+        "y1": 1598
+      },
+      "text": "Reproduced on heavy paper, suitable for framing\n50 CENTS EACH\nCover illustration, April number, 7x9 inches,\n\"Girl Reading.\"\nCover illustration, May number, 7x9 inches,\n\"Bishop Holly.\"\nTwo-page photograph, May number, 10x13\ninches, \"Eighth Illinois Regiment.\"\nCover illustration, June number, 7x9 inches,\n\"One of the Little Ones.\"\nAddress Art Editor of THE CRISIS\nRoom 311\n20 VESEY STREET\nNEW YORK\nMention",
+      "status": "ok",
+      "confidence": 0.7524176836013794,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "abandon",
+      "bbox": {
+        "x0": 166,
+        "y0": 156,
+        "x1": 307,
+        "y1": 171
+      },
+      "text": "",
+      "status": "error",
+      "confidence": 0.29344460368156433,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 262,
+        "y0": 1175,
+        "x1": 438,
+        "y1": 1196
+      },
+      "text": "CRISIS PRINTS",
+      "status": "ok",
+      "confidence": 0.902932345867157,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 159,
+        "y0": 1510,
+        "x1": 307,
+        "y1": 1598
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 159,
+        "y0": 90,
+        "x1": 202,
+        "y1": 114
+      },
+      "text": "128",
+      "status": "ok",
+      "confidence": 0.864323079586029,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 337,
+        "y0": 1133,
+        "x1": 386,
+        "y1": 1152
+      },
+      "text": "ART",
+      "status": "ok",
+      "confidence": 0.4595346450805664,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "text",
+      "bbox": {
+        "x0": 585,
+        "y0": 117,
+        "x1": 988,
+        "y1": 856
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 585,
+        "y0": 886,
+        "x1": 984,
+        "y1": 989
+      },
+      "text": "There is money to be made in songwriting.\nIf you write poems or compose music, send us your work for examination. If terms are satisfactory, we will publish and pay one-half profits.\nGOTHAM-ATTUCKS MUSIC CO.\n137TH STREET\nNEW YORK\n136 WEST",
+      "status": "ok",
+      "confidence": 0.7902014851570129,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 587,
+        "y0": 1052,
+        "x1": 986,
+        "y1": 1290
+      },
+      "text": "LOCAL REPRESENTATIVES for\nTHE CRISIS wanted in each locality.\nSome agents sell over 800 copies\nmonthly. Write for particulars.\nAddress: FRANK M. TURNER\nCirculation Manager\nSuite 311\n20 VESEY STREET, NEW YORK",
+      "status": "ok",
+      "confidence": 0.8976914882659912,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "title",
+      "bbox": {
+        "x0": 585,
+        "y0": 1354,
+        "x1": 988,
+        "y1": 1598
+      },
+      "text": "YOUNG MAN, HAVE YOU A TRADE?\nBy our method we teach the Barber Trade in six weeks.\nWe give you a complete set of tools and secure you a position in a shop. Call or write for particulars.\n\nNEW YORK BARBER SCHOOL\nCostello & Wise\nCor. Bowery and Rivington St. NEW YORK\nIE CRISIS.",
+      "status": "ok",
+      "confidence": 0.8182212710380554,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "abandon",
+      "bbox": {
+        "x0": 483,
+        "y0": 1521,
+        "x1": 669,
+        "y1": 1540
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7113939523696899,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "title",
+      "bbox": {
+        "x0": 711,
+        "y0": 818,
+        "x1": 858,
+        "y1": 883
+      },
+      "text": "MUSIC\nSONGS",
+      "status": "ok",
+      "confidence": 0.8913457989692688,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "title",
+      "bbox": {
+        "x0": 692,
+        "y0": 1004,
+        "x1": 878,
+        "y1": 1026
+      },
+      "text": "HELP WANTED",
+      "status": "ok",
+      "confidence": 0.8711981773376465,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "title",
+      "bbox": {
+        "x0": 729,
+        "y0": 1316,
+        "x1": 843,
+        "y1": 1338
+      },
+      "text": "SCHOOLS",
+      "status": "ok",
+      "confidence": 0.9027445912361145,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 12.1,
+    "at": "2026-10-06T22:02:53+00:00"
+  }
+}

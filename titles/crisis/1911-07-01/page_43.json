@@ -1,0 +1,43 @@
+{
+  "page": 43,
+  "image": "images/page_43.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 35,
+        "y0": 97,
+        "x1": 966,
+        "y1": 1535
+      },
+      "text": "The Most Beautiful of All the Toys on the Market Are the\nNEGRO DOLLS\n\nYOUR child would be happy if it had a Negro doll such as are sent out by the National Negro Doll Company, Nashville, Tennessee. Every race is trying to teach their children an object lesson by giving them toys that will lead to higher intellectual heights. The Negro doll is calculated to help in the Christian development of our race. All dolls are sent by express, charges paid.\n\nDOLLS FOR THE SEASON 1911-1912 NOW READY\n\nPrices from 50c. up to $8.50\n\nFor Illustrated Booklets, Prices and Other Information, Send Five Cents to the National Negro Doll Company\n519 Second Avenue N., Nashville, Tenn.\n\nR. H. BOYD, President\nH. A. BOYD, Manager\n\nBrown-Spencer Correspondence School of Shorthand\n\nTHE LORD'S PRAYER.\nIn the Benn Fitman System of Phonography—Corresponding Style.\n\nA system that can be learned during spare moments and thereby increase your salary from 50 to 100 per cent. A thorough knowledge of Shorthand makes the position sure and the one so skilled in great demand. You pay as you learn. Terms reasonable. Write for particulars.\n\nBrown-Spencer Correspondence School of Shorthand\n2145 Missouri Avenue\nEast St. Louis, Ill.\nNEGRO DOLLS\n\nYOUR child would be happy if it had a Negro doll such as are sent out by the National Negro Doll Company, Nashville, Tennessee. Every race is trying to teach their children an object lesson by giving them toys that will lead to higher intellectual heights. The Negro doll is calculated to help in the Christian development of our race. All dolls are sent by express, charges paid.\n\nDOLLS FOR THE SEASON 1911-1912 NOW READY\n\nPrices from 50c. up to $8.50\n\nFor Illustrated Booklets, Prices and Other Information, Send Five Cents to the National Negro Doll Company\n519 Second Avenue N., Nashville, Tenn.\n\nR. H. BOYD, President\nH. A. BOYD, Manager\n\nBrown-Spencer Correspondence School of Shorthand\n\nTHE LORD'S PRAYER.\nIn the Benn Fitman System of Phonography—Corresponding Style.\n\nA system that can be learned during spare moments and thereby increase your salary from 50 to 100 per cent. A thorough knowledge of Shorthand makes the position sure and the one so skilled in great demand. You pay as you learn. Terms reasonable. Write for particulars.\n\nThe Best, the Easiest, and Most Reliable",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "abandon",
+      "bbox": {
+        "x0": 410,
+        "y0": 1541,
+        "x1": 589,
+        "y1": 1562
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7616181969642639,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 13.7,
+    "at": "2026-10-06T22:03:39+00:00"
+  }
+}

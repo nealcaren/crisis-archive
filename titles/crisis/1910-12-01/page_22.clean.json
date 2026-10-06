@@ -355,7 +355,8 @@
     ]
    ],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'SIZE OF BRAIN' inside box; no verified split at the 3 nearest gaps"
   },
   {
    "id": "r1",
@@ -454,9 +455,13 @@
   "regions_before": 5,
   "regions_after": 5,
   "lost_words": [],
-  "needs_review": [],
+  "needs_review": [
+   "r0"
+  ],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 2,
-  "log": []
+  "log": [
+   "REVIEW r0: heading 'SIZE OF BRAIN' inside box; no verified split at the 3 nearest gaps"
+  ]
  }
 }

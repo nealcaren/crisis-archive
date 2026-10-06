@@ -1,0 +1,169 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 1365,
+  "height": 2066,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 84,
+        "y0": 159,
+        "x1": 1170,
+        "y1": 403
+      },
+      "text": "THE CRISIS\nA RECORD OF THE DARKER RACES",
+      "status": "ok",
+      "confidence": 0.5739617943763733,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "figure",
+      "bbox": {
+        "x0": 203,
+        "y0": 631,
+        "x1": 1039,
+        "y1": 1720
+      },
+      "text": "John Henry Adams",
+      "status": "ok",
+      "confidence": 0.9487630724906921,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 25,
+        "y0": 112,
+        "x1": 286,
+        "y1": 1945
+      },
+      "text": "Volume Two\n\nONE DOLLAR",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 77,
+        "y0": 487,
+        "x1": 446,
+        "y1": 1869
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "abandon",
+      "bbox": {
+        "x0": 77,
+        "y0": 1869,
+        "x1": 446,
+        "y1": 2046
+      },
+      "text": "ONE DOLLAR A YEAR",
+      "status": "ok",
+      "confidence": 0.5339277386665344,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 383,
+        "y0": 115,
+        "x1": 775,
+        "y1": 136
+      },
+      "text": "Wait, the image has a long horizontal line.\nLet's look at the very end of the line.\nIt's a long horizontal",
+      "status": "repetition",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 502,
+        "y0": 447,
+        "x1": 742,
+        "y1": 488
+      },
+      "text": "AUGUST, 1911",
+      "status": "ok",
+      "confidence": 0.5908463001251221,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 452,
+        "y0": 1922,
+        "x1": 809,
+        "y1": 1943
+      },
+      "text": "Wait, the image has a long horizontal line.\nLet's look at the very end of the line.\nIt's a long horizontal line.\nThe word \"നിങ്ങൾ\" is at the end of the line.\nSo the text is:\nനിങ്ങൾ",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 974,
+        "y0": 449,
+        "x1": 1162,
+        "y1": 487
+      },
+      "text": "Number Four",
+      "status": "ok",
+      "confidence": 0.6534258723258972,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 815,
+        "y0": 487,
+        "x1": 1162,
+        "y1": 1870
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 815,
+        "y0": 1870,
+        "x1": 1162,
+        "y1": 2046
+      },
+      "text": "TEN CENTS A COPY",
+      "status": "ok",
+      "confidence": 0.6263018846511841,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 71.8,
+    "at": "2026-10-06T22:05:07+00:00"
+  }
+}

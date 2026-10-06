@@ -1,0 +1,127 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 140,
+        "y0": 106,
+        "x1": 727,
+        "y1": 438
+      },
+      "text": "TELEPHONE 5277 MORNINGSIDE\n\nDr. Gertrude E. Curtis\n471 Lenox Avenue, New York City\n\nSURGEON\nDENTIST\n\nOffice Hours: Bellevue Dental Clinic\n9-12 a. m. Mondays from\n2-9 p. m. 2 to 5 p. m.\n\nPICT\nMost beautiful for home decorating\nNegro home. All\nJesus Died for Both\nClinging to the Cross\nBeacon Light\nBooker T. Washington\nAll Our Presidents\nThe Colored Troops\nMoses, the\nPrice, by mail,\nFifteen beautif\nmail, postpaid, 12",
+      "status": "ok",
+      "confidence": 0.8387042880058289,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 556,
+        "y0": 158,
+        "x1": 962,
+        "y1": 466
+      },
+      "text": "PICTURES\nMost beautiful works of art. Suitable for home decorations. Should be in every Negro home. All pictures 16x20.\nJesus Died for Both Protecting Angel\nClinging to the Cross New Memorial\nBeacon Light Heavenward\nBooker T. Washington Onward\nAll Our Presidents Jack Johnson\nThe Colored Troops Charge San Juan Hill\nMoses, the Little Shepherd\nPrice, by mail, 25 cents each, postpaid\nFifteen beautiful art post cards. By mail, postpaid, 12 cents. Agents wanted.\nJACOB GRIFFETH",
+      "status": "ok",
+      "confidence": 0.6496721506118774,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 140,
+        "y0": 360,
+        "x1": 536,
+        "y1": 478
+      },
+      "text": "Office Hours: Bellevue Dental Clinic\n9-12 a. m. Mondays from\n2-9 p. m. 2 to 5 p. m.\n\nSUNDAYS BY APPOINTMENT\nWOMEN'S and CHILDREN'S WORK SPECIALTY",
+      "status": "ok",
+      "confidence": 0.5209017395973206,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 140,
+        "y0": 478,
+        "x1": 727,
+        "y1": 1524
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 140,
+        "y0": 499,
+        "x1": 955,
+        "y1": 655
+      },
+      "text": "Telephone 3253 Harlem CARPET CLEANING\nCLEANERS AND RENOVATERS FOR PARTICULAR PEOPLE\nNEW YORK CAREFUL CLEANING BUREAU\n12 WEST 135TH STREET\nWe make a specialty of cleaning and renovating carpets, rugs, portieres and upholstered furniture, we also vacuum clean in the home. We are not the largest carpet cleaner in the world, but absolutely the most careful in every detail.\nSHAMPOOING CARPETS AND RUGS OUR SPECIALTY",
+      "status": "ok",
+      "confidence": 0.487768292427063,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "figure",
+      "bbox": {
+        "x0": 156,
+        "y0": 681,
+        "x1": 959,
+        "y1": 1507
+      },
+      "text": "This Is\nTHE CRISIS\n\nFew people see you\nMany people see your letters\n\nCorrect in Type,\nProofreading and\nStyle. I print it.\n\nWhy?\n\nAsk Editor\nW. E. B. Du Bois\nby permission\n\nUse Good Stationery\n\nNot the cheapest; but the\nbest for the money charged\n\nSPECIALTY\n\nWedding Invitations printed\nor engraved — correct style\n\nWRITE OR 'PHONE TO\n\nROBERT N. WOOD, Printer\n202 East 99th Street New York City\n\n'Phone Lenox 6667",
+      "status": "ok",
+      "confidence": 0.7997401356697083,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 466,
+        "y0": 1524,
+        "x1": 651,
+        "y1": 1546
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.4959424138069153,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "abandon",
+      "bbox": {
+        "x0": 140,
+        "y0": 108,
+        "x1": 179,
+        "y1": 132
+      },
+      "text": "138",
+      "status": "ok",
+      "confidence": 0.8145015835762024,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.4,
+    "at": "2026-10-06T22:10:19+00:00"
+  }
+}

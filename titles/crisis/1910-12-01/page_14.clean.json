@@ -132,9 +132,9 @@
     "x0": 573,
     "y0": 152,
     "x1": 975,
-    "y1": 581
+    "y1": 552
    },
-   "text": "To what \"public\" does our contemporary refer? There are Negrophobists in the North and in the South who object; but we do not believe that the masses of the American people, with their sense of justice and fairness, desire to shut out of participation in all Government affairs millions of American citizens simply because they belong to a race which is antagonized in this country by senseless prejudice and bigotry. The meanness of that proposition is equalled only by its cruelty.\n\nThe Houston (Texas) Chronicle, remarking that \"the Negro in politics is, as a rule, the Negro out of work\" prophesies that such an appointment \"will tend to encourage the impudence and crime of bad Negroes.\"\n\nA COLORED REFORMATORY.",
+   "text": "To what \"public\" does our contemporary refer? There are Negrophobists in the North and in the South who object; but we do not believe that the masses of the American people, with their sense of justice and fairness, desire to shut out of participation in all Government affairs millions of American citizens simply because they belong to a race which is antagonized in this country by senseless prejudice and bigotry. The meanness of that proposition is equalled only by its cruelty. The Houston (Texas) Chronicle, remarking that \"the Negro in politics is, as a rule, the Negro out of work\" prophesies that such an appointment \"will tend to encourage the impudence and crime of bad Negroes.\"",
    "status": "ok",
    "confidence": 0.9782887697219849,
    "lines": [],
@@ -146,7 +146,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r4"
+  },
+  {
+   "id": "r4b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 573,
+    "y0": 552,
+    "x1": 975,
+    "y1": 581
+   },
+   "text": "A COLORED REFORMATORY.",
+   "status": "ok",
+   "confidence": 0.9782887697219849,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 571,
+    "y0": 150,
+    "x1": 973,
+    "y1": 581
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r4"
   },
   {
    "id": "r5",
@@ -174,11 +199,13 @@
  ],
  "clean": {
   "regions_before": 6,
-  "regions_after": 6,
+  "regions_after": 7,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 1,
-  "log": []
+  "log": [
+   "split r4 at y=552 before 'A COLORED REFORMATORY.'"
+  ]
  }
 }

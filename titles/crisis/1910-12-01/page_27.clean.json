@@ -384,9 +384,9 @@
     "x0": 106,
     "y0": 719,
     "x1": 389,
-    "y1": 783
+    "y1": 757
    },
-   "text": "Let justice be done.\nA JIM CROW LINE.",
+   "text": "Let justice be done. ____",
    "status": "ok",
    "confidence": 0.8920125961303711,
    "lines": [],
@@ -398,7 +398,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r14"
+  },
+  {
+   "id": "r14b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 106,
+    "y0": 757,
+    "x1": 389,
+    "y1": 783
+   },
+   "text": "A JIM CROW LINE.",
+   "status": "ok",
+   "confidence": 0.8920125961303711,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 106,
+    "y0": 718,
+    "x1": 387,
+    "y1": 781
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r14"
   },
   {
    "id": "r15",
@@ -474,7 +499,7 @@
  ],
  "clean": {
   "regions_before": 18,
-  "regions_after": 18,
+  "regions_after": 19,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.0,
@@ -483,7 +508,8 @@
    "reshape r16 (title): lost 0% of its ink, gained 11%",
    "reshape r17 (title): lost 0% of its ink, gained 8%",
    "reread r16: 'THE REWARD OF THRIFT.' -> 'THE REWARD OF THRIFT.'",
-   "reread r17: 'PRECEPT AND PRACTICE.' -> 'PRECEPT AND PRACTICE.'"
+   "reread r17: 'PRECEPT AND PRACTICE.' -> 'PRECEPT AND PRACTICE.'",
+   "split r14 at y=757 before 'A JIM CROW LINE.'"
   ]
  }
 }

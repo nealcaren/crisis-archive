@@ -87,9 +87,9 @@
     "x0": 164,
     "y0": 730,
     "x1": 575,
-    "y1": 1327
+    "y1": 1158
    },
-   "text": "From Springfield, Tenn., a local report says that the first Colored Industrial Fair was a success, from a financial standpoint, there being a large attendance and a number of fine exhibits. The colored people are commended for the interest shown and the good order that prevailed during the entire time of the fair.\n\nA successful Negro fair was held at Trenton, Tenn. The exhibit of horses was especially good.\n\nThe Eighth Illinois Regiment, composed of colored men, have celebrated their fifteenth anniversary in the presence of 5,000 citizens. This regiment was mustered into the Illinois National Guard in 1895 under Governor Altgeld. It has a splendid record, having served in Cuba and on riot duty.\n\nCRIME.\n\nNear Asbury Park, N. J., a colored man has been accused of murdering a child. Lynching was threatened for a while, but the prisoner has maintained his innocence, and the police now think that he is telling the truth, after they have tortured him with the \"Third Degree.\"",
+   "text": "From Springfield, Tenn., a local report says that the first Colored Industrial Fair was a success, from a financial standpoint, there being a large attendance and a number of fine exhibits. The colored people are commended for the interest shown and the good order that prevailed during the entire time of the fair.\n\nA successful Negro fair was held at Trenton, Tenn. The exhibit of horses was especially good.\n\nThe Eighth Illinois Regiment, composed of colored men, have celebrated their fifteenth anniversary in the presence of 5,000 citizens. This regiment was mustered into the Illinois National Guard in 1895 under Governor Altgeld. It has a splendid record, having served in Cuba and on riot duty.",
    "status": "ok",
    "confidence": 0.9675577878952026,
    "lines": [],
@@ -101,7 +101,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 164,
+    "y0": 1158,
+    "x1": 575,
+    "y1": 1327
+   },
+   "text": "CRIME.\nNear Asbury Park, N. J., a colored man has been accused of murdering a child.\nLynching was threatened for a while, but the prisoner has maintained his innocence, and the police now think that he is telling the truth, after they have tortured him with the \"Third Degree.\"",
+   "status": "ok",
+   "confidence": 0.9675577878952026,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 163,
+    "y0": 739,
+    "x1": 573,
+    "y1": 1324
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
   },
   {
    "id": "r4",
@@ -133,9 +158,9 @@
     "x0": 586,
     "y0": 161,
     "x1": 997,
-    "y1": 659
+    "y1": 453
    },
-   "text": "not amount to $100 worth. He was sent to Bayview several months ago, having been picked up on the street sick.\n\nIn Huntington, W. Va., several race riots have taken place in which a Negro, supposed to be George Johnson, was killed, three of a posse probably fatally wounded and five others shot. There were numerous fights between the whites and the blacks. Negroes were knocked down on the least provocation and threats made to wipe out the entire Negro population.\n\nFOREIGN.\n\nThe Hon. Ernest Lyon has returned to America, having been succeeded by Dr. Crum as Minister to Liberia. A number of severe charges were filed against Mr. Lyon, and considerable bitterness is manifest over him in the Liberian papers.\n\nLiberia will elect a President in a few months.",
+   "text": "not amount to $100 worth. He was sent to Bayview several months ago, having been picked up on the street sick.\n\nIn Huntington, W. Va., several race riots have taken place in which a Negro, supposed to be George Johnson, was killed, three of a posse probably fatally wounded and five others shot. There were numerous fights between the whites and the blacks. Negroes were knocked down on the least provocation and threats made to wipe out the entire Negro population.",
    "status": "ok",
    "confidence": 0.9656946659088135,
    "lines": [],
@@ -147,7 +172,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r5b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 586,
+    "y0": 453,
+    "x1": 997,
+    "y1": 659
+   },
+   "text": "FOREIGN.\nThe Hon. Ernest Lyon has returned to America, having been succeeded by Dr. Crum as Minister to Liberia. A number of severe charges were filed against Mr. Lyon, and considerable bitterness is manifest over him in the Liberian papers.\nLiberia will elect a President in a few months.",
+   "status": "ok",
+   "confidence": 0.9656946659088135,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 582,
+    "y0": 160,
+    "x1": 996,
+    "y1": 659
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5"
   },
   {
    "id": "r6",
@@ -198,11 +248,14 @@
  ],
  "clean": {
   "regions_before": 8,
-  "regions_after": 8,
+  "regions_after": 10,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.19,
   "box_overlaps_after": 1,
-  "log": []
+  "log": [
+   "split r3 at y=1158 before 'CRIME.'",
+   "split r5 at y=453 before 'FOREIGN.'"
+  ]
  }
 }

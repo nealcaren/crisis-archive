@@ -283,6 +283,13 @@ def clean_page(issue_dir, page, reread=True, recognizer=None):
             r["text_reread"], r["text"] = r["text"], r["text_before_clean"]
             r["needs_review"] = f"reread lost words: {' '.join(gone[:12])}"
             log.append(f"REVIEW {r['id']}: reread lost {' '.join(gone[:12])}; kept old text")
+    # 7. split boxes that run across a heading into the next article
+    if reread:
+        split_out = []
+        for r in out:
+            split_out.extend(split_at_headings(r, labels, gray, recognizer, log, words))
+        out = split_out
+
     lost_words = sorted(real_losses(before_words, words(out)))
     if lost_words:
         log.append(f"CHECK words lost from page text: {' '.join(lost_words[:30])}")
@@ -293,6 +300,96 @@ def clean_page(issue_dir, page, reread=True, recognizer=None):
     clean = {**{k: v for k, v in d.items() if k != "regions"}, "regions": out, "clean": summary}
     (issue_dir / f"page_{page:02d}.clean.json").write_text(json.dumps(clean, indent=1, ensure_ascii=False))
     return clean
+
+
+HEADING = re.compile(r"^[A-Z][A-Z0-9 .,'’&:;\-]{3,70}$")
+
+
+def find_heading(text):
+    """(heading, char offset) of the first all-caps heading line not at the very start."""
+    pos = 0
+    for line in text.split("\n"):
+        s = line.strip()
+        letters = [c for c in s if c.isalpha()]
+        if (pos > 0.05 * len(text) and HEADING.match(s) and len(letters) >= 4
+                and (s.endswith(".") or len(s.split()) >= 2)):
+            return s, pos
+        pos += len(line) + 1
+    return None, None
+
+
+def norm(s):
+    return re.sub(r"[^a-z]", "", s.lower())
+
+
+def masked_crop(gray, b, exclude):
+    arr = gray[b["y0"]:b["y1"], b["x0"]:b["x1"]].copy()
+    for x0, y0, x1, y1, *_ in exclude:
+        arr[max(0, y0 - b["y0"]):max(0, y1 - b["y0"]), max(0, x0 - b["x0"]):max(0, x1 - b["x0"])] = 255
+    return Image.fromarray(arr).convert("RGB")
+
+
+def split_at_headings(r, labels, gray, recognizer, log, words, depth=0):
+    """Split a region whose text has a heading partway through (the detector drew one box
+    across two articles). Cut at the whitespace gap nearest the heading's position,
+    reread both halves, and keep the split only if the heading now starts the lower half,
+    is gone from the upper one, and no words are lost."""
+    if r.get("role") in ("picture", "running_head") or depth > 3:
+        return [r]
+    head, at = find_heading(r["text"])
+    if not head:
+        return [r]
+    b = r["bbox"]
+    ink = labels[b["y0"]:b["y1"], b["x0"]:b["x1"]] > 0
+    for x0, y0, x1, y1, *_ in r.get("exclude", []):
+        ink[max(0, y0 - b["y0"]):max(0, y1 - b["y0"]), max(0, x0 - b["x0"]):max(0, x1 - b["x0"])] = False
+    rows = ink.any(axis=1)
+    h = len(rows)
+    gaps, start = [], None
+    for y, filled in enumerate(rows):
+        if not filled and start is None:
+            start = y
+        elif filled and start is not None:
+            if start > 0:
+                gaps.append((start, y))
+            start = None
+    gaps = [g for g in gaps if g[1] - g[0] >= 3]
+    if not gaps:
+        r["needs_review"] = f"heading {head!r} inside box but no gap to cut at"
+        log.append(f"REVIEW {r['id']}: {r['needs_review']}")
+        return [r]
+    target = h * at / max(1, len(r["text"]))
+    nh = norm(head)
+    after = norm(r["text"][at + len(head):])[:30]
+    ok = False
+    for g0, g1 in sorted(gaps, key=lambda g: abs((g[0] + g[1]) / 2 - target))[:3]:
+        cut = b["y0"] + (g0 + g1) // 2
+        top = {**b, "y1": cut}
+        bot = {**b, "y0": cut}
+        ex_top = [e for e in r.get("exclude", []) if e[1] < cut]
+        ex_bot = [e for e in r.get("exclude", []) if e[3] > cut]
+        t_text, t_status = read(recognizer, masked_crop(gray, top, ex_top), top)
+        b_text, b_status = read(recognizer, masked_crop(gray, bot, ex_bot), bot)
+        restored = None
+        if nh not in norm(b_text)[:len(nh) + 15] and after and norm(b_text).startswith(after):
+            # GLM drops a short heading line at the very top of a crop; the lower half
+            # starts exactly where the original text resumed after it, so restore it
+            b_text, restored = f"{head}\n\n{b_text}", head
+        ok = (nh in norm(b_text)[:len(nh) + 15] and nh not in norm(t_text)
+              and not real_losses(words([r]), words([{"text": t_text}, {"text": b_text}])))
+        if ok:
+            break
+    if not ok:
+        r["needs_review"] = f"heading {head!r} inside box; no verified split at the 3 nearest gaps"
+        log.append(f"REVIEW {r['id']}: {r['needs_review']}")
+        return [r]
+    log.append(f"split {r['id']} at y={cut} before {head!r}")
+    upper = {**r, "bbox": top, "exclude": ex_top, "text": t_text, "status": t_status, "split_from": r["id"]}
+    lower = {**r, "id": r["id"] + "b", "bbox": bot, "exclude": ex_bot, "text": b_text, "status": b_status,
+             "split_from": r["id"]}
+    if restored:
+        lower["heading_restored"] = restored
+    return [upper] + split_at_headings(lower, labels, gray, recognizer, log, words, depth + 1)
 
 
 def read(recognizer, crop, b):

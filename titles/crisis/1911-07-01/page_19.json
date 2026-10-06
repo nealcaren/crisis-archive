@@ -1,0 +1,183 @@
+{
+  "page": 19,
+  "image": "images/page_19.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 379,
+        "y0": 85,
+        "x1": 615,
+        "y1": 109
+      },
+      "text": "THE N. A. A. C. P.",
+      "status": "ok",
+      "confidence": 0.8755358457565308,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 86,
+        "y0": 956,
+        "x1": 615,
+        "y1": 1179
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 177,
+        "y0": 1045,
+        "x1": 824,
+        "y1": 1106
+      },
+      "text": "THE N. A. A. C. P.",
+      "status": "ok",
+      "confidence": 0.23167072236537933,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 86,
+        "y0": 1489,
+        "x1": 615,
+        "y1": 1595
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 86,
+        "y0": 135,
+        "x1": 488,
+        "y1": 719
+      },
+      "text": "zona, New Mexico and Texas; nor did the service we rendered them in the elimination of Maximilian balance our own earlier aggression. Like all the rest of the Spanish republics of Central and South America, they distrust the motives that inspire us when we enforce the Monroe Doctrine. For every intervention of ours to save a Venezuela from oppression by a European power they recall our share in the theft of a Panama from a Colombia.\n\n\"It is also an unfortuante fact that our rough-and-ready citizens lack consideration for all dark-skinned races. We deem them all inferiors. The expression of this contempt has estranged our Afro-American fellow citizens, has incensed our Mexican neighbors, and may some day involve us in a bloody war with Japan. It is a truism that contempt begets hate, and hate violence.\n\n\"Mexico is officially our friend—that is, by governmental treaty. She is fundamentally our enemy, by reason of race differences, our former despoliation of her territory, and our contemptuous treatment of her citizens since, at all times. These are fundamental facts to be faced!\"",
+      "status": "ok",
+      "confidence": 0.9764145612716675,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "abandon",
+      "bbox": {
+        "x0": 91,
+        "y0": 756,
+        "x1": 490,
+        "y1": 956
+      },
+      "text": "Senator Bailey, of Texas, recently made an oration in Washington in the course of which he delivered himself of the following opinions:\n\n\"The race question can be solved by our being just to the Negro race, as long as they will permit it. In fact, we should be generous with them, but we must surmount the difficulty of the Negroes who want to go to the front door. The only",
+      "status": "ok",
+      "confidence": 0.9217137694358826,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1179,
+        "x1": 489,
+        "y1": 1316
+      },
+      "text": "The lawyer who acted for the N. A. A. C. P., in the case of Henry Graham, arrested at Lakewood, New Jersey, in connection with the murder of Mrs. Turner, sends the following report to the Chairman of the Executive Committee:",
+      "status": "ok",
+      "confidence": 0.962050199508667,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 332,
+        "y0": 1314,
+        "x1": 465,
+        "y1": 1336
+      },
+      "text": "May 19, 1911.",
+      "status": "ok",
+      "confidence": 0.7488489747047424,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 1343,
+        "x1": 487,
+        "y1": 1489
+      },
+      "text": "MR. OSWALD GARRISON VILLARD :\nI left New York Tuesday night, May\n16. On Thursday night, May 18,\nGraham had been released from jail\nwithout a resort to legal proceedings\nbeing necessary and was on his way to\nhis home in Lakewood.",
+      "status": "ok",
+      "confidence": 0.9362285733222961,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 513,
+        "y0": 83,
+        "x1": 911,
+        "y1": 623
+      },
+      "text": "way for the two races to live in peace to the end of time is for the Negro race to live in recognition of their inferiority. We should be generous with the colored people, I repeat, but they must never expect a place at the white man's table.\n\n\"The Indians, with whom the Anglo-Saxons had to contend, refused to live in peace with their white neighbors. As a result of this, they were forced to the east and west coasts of their former dominions, and are now seeing the extinction of their race, as they gaze at the setting sun. If the African race repeats the folly of the red men, they will share their fate.\"\n\nThe Natural History Museum of this city has had an expedition in the Congo forests collecting specimens in natural history and anthropology, \"The report from the anthropologist,\" says the Independent, of New York, \"has this to say of one family of Negroes—'savages,' remember, an 'inferior' race:",
+      "status": "ok",
+      "confidence": 0.9744317531585693,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 513,
+        "y0": 625,
+        "x1": 912,
+        "y1": 1180
+      },
+      "text": "\"The Mangbetu excel in their iron work; indeed, their well-forged and finely worked knives are masterpieces of Negro blacksmithing. Their pottery in its best samples reminds one of ancient Greek work. In producing well-balanced forms of artistic finish they show a very high development. Their carved and ornamented stools, benches, figures and shields, and their hatpins of ivory may well be classed among works of art.'\n\n\"That is, these Negroes compare well in their artistic culture with the Greeks of a period not long before Pericles, and are far superior to the Germans and Gauls before Roman civilization reached them.\"",
+      "status": "ok",
+      "confidence": 0.975068986415863,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 513,
+        "y0": 1180,
+        "x1": 912,
+        "y1": 1595
+      },
+      "text": "My investigation in the latter place on May 17 convinced me that the only case which the State had against Graham in connection with this murder was that he was the only man who up to that time was known to have been near the scene of the crime at the time of its commission. He was intoxicated that morning and his story as to his movements on that day and the next contained numerous discrepancies. While there is nothing illegal in thus locking up a suspected person against whom a circumstantial case only, such as here, is made out, I feel sure that Graham was suspected and arrested in this case mainly",
+      "status": "ok",
+      "confidence": 0.9725114107131958,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.5,
+    "at": "2026-10-06T21:58:47+00:00"
+  }
+}

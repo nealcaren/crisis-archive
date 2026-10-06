@@ -172,9 +172,9 @@
     "x0": 517,
     "y0": 867,
     "x1": 914,
-    "y1": 1436
+    "y1": 1089
    },
-   "text": "The New Orleans Picayune is noncommittal: \"The place of the Negro in the political and social and business life of the country will one day be finally settled. His place will be very much as he himself makes it under the sanctions and restraints of law. He will get what he deserves, and no man should get more.\"\n\nSOCIALISTS IN OKLAHOMA.\n\nThe organ of the New York Socialists, the Call, gives this hearty welcome to the Oklahoma Negro Socialists:\n\nA convention of various Negro associations, recently held at Chickasha, Okla., has indorsed the platform of the Socialist party and has advised all the colored people of Oklahoma to vote the Socialist ticket. This action of the Negroes of Oklahoma is destined to be recognized as of epoch-making importance in the history of the American Negroes as well as in the history of American Socialism.",
+   "text": "The New Orleans Picayune is noncommittal: \"The place of the Negro in the political and social and business life of the country will one day be finally settled. His place will be very much as he himself makes it under the sanctions and restraints of law. He will get what he deserves, and no man should get more.\"",
    "status": "ok",
    "confidence": 0.9760333895683289,
    "lines": [],
@@ -186,7 +186,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r6"
+  },
+  {
+   "id": "r6b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 517,
+    "y0": 1089,
+    "x1": 914,
+    "y1": 1436
+   },
+   "text": "SOCIALISTS IN OKLAHOMA.\nThe organ of the New York Socialists, the Call, gives this hearty welcome to the Oklahoma Negro Socialists:\nA convention of various Negro associations, recently held at Chickasha, Okla., has indorsed the platform of the Socialist party and has advised all the colored people of Oklahoma to vote the Socialist ticket. This action of the Negroes of Oklahoma is destined to be recognized as of epoch-making importance in the history of the American Negroes as well as in the history of American Socialism.",
+   "status": "ok",
+   "confidence": 0.9760333895683289,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 516,
+    "y0": 865,
+    "x1": 912,
+    "y1": 1436
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r6"
   },
   {
    "id": "r7",
@@ -237,14 +262,15 @@
  ],
  "clean": {
   "regions_before": 9,
-  "regions_after": 9,
+  "regions_after": 10,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 1,
   "log": [
    "reshape r0 (title): lost 0% of its ink, gained 78%",
-   "reread r0: 'OPINION' -> 'OPINION'"
+   "reread r0: 'OPINION' -> 'OPINION'",
+   "split r6 at y=1089 before 'SOCIALISTS IN OKLAHOMA.'"
   ]
  }
 }

@@ -1,0 +1,309 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 373,
+        "y0": 89,
+        "x1": 731,
+        "y1": 116
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8437868356704712,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 169,
+        "y0": 840,
+        "x1": 510,
+        "y1": 963
+      },
+      "text": "FORWARD\nMARCH YOUR SON OFF TO\nWilberforce University",
+      "status": "ok",
+      "confidence": 0.7381017804145813,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 996,
+        "x1": 510,
+        "y1": 1072
+      },
+      "text": "The only school in the country for Negro Youth which has a Military Department equipped by the National Government, and commanded by a detailed United States Army Officer.",
+      "status": "ok",
+      "confidence": 0.9385296702384949,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 172,
+        "y0": 1198,
+        "x1": 512,
+        "y1": 1475
+      },
+      "text": "Banking taught by the actual operations in the Students' Savings Bank. Twelve Industries, 180 acres of beautiful campus, Ten Buildings. Healthful surroundings, exceptional community. Maintained in part by the State of Ohio which supplies facilities for the thorough training of teachers.\n\nFall term begins September 19th, 1911. Write for Catalog.\n\nW. S. SCARBOROUGH, President\nWM. A. JOINER, Superintendent, C. N.\nI. Department.\n\nAddress all communications to\nBOX 36, WILBERFORCE, OHIO.",
+      "status": "ok",
+      "confidence": 0.9471735954284668,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure",
+      "bbox": {
+        "x0": 191,
+        "y0": 175,
+        "x1": 494,
+        "y1": 775
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.8317621946334839,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 262,
+        "y0": 1087,
+        "x1": 420,
+        "y1": 1108
+      },
+      "text": "DEPARTMENTS",
+      "status": "ok",
+      "confidence": 0.8884145021438599,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 142,
+        "y0": 92,
+        "x1": 182,
+        "y1": 114
+      },
+      "text": "136",
+      "status": "ok",
+      "confidence": 0.8400281071662903,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 137,
+        "y0": 146,
+        "x1": 283,
+        "y1": 1469
+      },
+      "text": "FOR\nMARCH Y\nWilberfield\n\nThe only\nNegro Youth\npartment equi-\ngement, a\nGovernment, a\nUnited States.\n\nDE\nMILITARY\nNORMAL\nCOMMERCIAL\nCLASSICAL\n\nBanking tax\nin the Student\nIndustries, 188\nTen Buildings\nexceptional e\npart by the S\nfacilities for\nteachers.\n\nFall term b\nWrite for C\n\nW. S. SCAN\nWM. A. JOIN\nAddress\nBOX 36",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 142,
+        "y0": 1475,
+        "x1": 296,
+        "y1": 1588
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 283,
+        "y0": 146,
+        "x1": 488,
+        "y1": 157
+      },
+      "text": "Wait, the image has a line of text.\n\"Wait, the image has",
+      "status": "repetition",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 283,
+        "y0": 807,
+        "x1": 488,
+        "y1": 818
+      },
+      "text": "Wait, the image has a line of text that starts with \"நெடுவல்\" and ends with \"நெடுவல்\".\nLet's re-read the whole thing.\n\"நெடுவல் நெடுவல் நெடுவல்\"\nWait, the word \"நெடுவல்\" is repeated.\nLet's re-read the",
+      "status": "repetition",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 283,
+        "y0": 969,
+        "x1": 488,
+        "y1": 979
+      },
+      "text": "---",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 367,
+        "y0": 1116,
+        "x1": 498,
+        "y1": 1176
+      },
+      "text": "SCIENTIFIC\nTECHNICAL\nTHEOLOGICAL\nMUSICAL",
+      "status": "ok",
+      "confidence": 0.42878520488739014,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "title",
+      "bbox": {
+        "x0": 279,
+        "y0": 1175,
+        "x1": 410,
+        "y1": 1190
+      },
+      "text": "PREPARATORY",
+      "status": "ok",
+      "confidence": 0.6438773274421692,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "text",
+      "bbox": {
+        "x0": 302,
+        "y0": 1487,
+        "x1": 488,
+        "y1": 1499
+      },
+      "text": "Wait, the prompt says \"Maintain the original document structure and content.\"\nThe image shows a table with two columns.\nThe first column is empty.\nThe second column is a table with two c",
+      "status": "repetition",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 563,
+        "y0": 142,
+        "x1": 967,
+        "y1": 737
+      },
+      "text": "Wilberforce University\nWILBERFORCE, OHIO\nOpens first Tuesday in September\nLocated in Greene County, 3 1/4 miles from Xenia, Ohio. Healthful surroundings. Refined community. Faculty of 32 members. Expenses low. Classical and Scientific, Theological, Preparatory, Music, Military, Normal and Business Departments. Ten industries taught. Great opportunities for High School graduates entering College or Professional Courses. Two new buildings for girls to be erected this year—one now in process of erection, and the other to be begun in the spring. Catalogue and Special Information Furnished.\nAddress\nW. S. SCARBOROUGH, President.\n\nAtlanta University\nIs beautifully located in the City of Atlanta, Ga. The courses of study include High School, Normal School and College, with manual training and domestic science. Among the teachers are graduates of Yale, Harvard, Dartmouth, Smith and Wellesley. Forty-one years of successful work have been completed. Students come from all parts of the South. Graduates are almost universally successful.\nFor further information address",
+      "status": "ok",
+      "confidence": 0.9682555794715881,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "title",
+      "bbox": {
+        "x0": 564,
+        "y0": 747,
+        "x1": 965,
+        "y1": 1230
+      },
+      "text": "President EDWARD T. WARE\nATLANTA, GA.\n\nHoward University\nWILBUR P. THIRKIELD, President\nWashington, D. C.\n\nThe College of Arts and Sciences—Kelly Miller,\nA.M., Dean.\n\nThe Teachers' College—Lewis B. Moore, A.M.,\nPh.D., Dean.\n\nThe Academy—George J. Cummings, A.M., Dean.\n\nThe Commercial College—George W. Cook, A.M.,\nDean.\n\nSchool of Manual Arts and Applied Sciences—\nPROFESSIONAL SCHOOLS\n\nThe School of Theology—Isaac Clark, D.D., Dean.\n\nThe School of Medicine: Medical, Dental and\nPharmaceutical Colleges—Edward O. Balloch, M.D., Dean.\n\nThe School of Law—Benjamin F. Leighton,\nLL.D., Dean.\n\nFor catalogue and special information address\nDean of Department.\n\nVirginia Union University",
+      "status": "ok",
+      "confidence": 0.942390501499176,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 567,
+        "y0": 1269,
+        "x1": 967,
+        "y1": 1499
+      },
+      "text": "A College Department, of high standards and modern curriculum.\nA Theological Department, with all subjects generally required in the best theological seminaries.\nAn Academy, with manual training, giving a preparation for life or for college.\nThe positive moral and religious aim of the school, its high standards of entrance and of class work, its fine new buildings and well-equipped laboratories and library, prepare a faithful student for a life of wide usefulness.\nGEORGE RICE HOVEY President",
+      "status": "ok",
+      "confidence": 0.921906590461731,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "text",
+      "bbox": {
+        "x0": 488,
+        "y0": 146,
+        "x1": 542,
+        "y1": 1499
+      },
+      "text": "for De-\nnal\ned\nL\nons\nave\nvus,\nings,\nin\nies\nof\n11.\nN.\nIO.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "abandon",
+      "bbox": {
+        "x0": 462,
+        "y0": 1509,
+        "x1": 644,
+        "y1": 1528
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.8107874393463135,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 680,
+        "y0": 1237,
+        "x1": 849,
+        "y1": 1259
+      },
+      "text": "RICHMOND, VA.",
+      "status": "ok",
+      "confidence": 0.6736972332000732,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 251.4,
+    "at": "2026-10-06T22:10:03+00:00"
+  }
+}

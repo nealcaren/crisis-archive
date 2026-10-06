@@ -150,7 +150,7 @@
    "text_before_clean": "A press dispatch from Panama says:\n\"It became known to-day that Mendoza sent a messenger asking Colonel Goethals to call at the Presidential palace. The army man, by messenger, asked if he was wished personally or in his official capacity. Several other notes were passed back and forth, Goethals finally going.\n\"When he reached the palace, Mendoza refused to see him. It is said that the snub was caused by Colonel Goethal's drawing the color line in the first place, Mendoza being a Negro.\"\n\nEDUCATION.",
    "role": "text",
    "text_reread": "\"It became known to-day that Mendoza sent a messenger asking Colonel Goethals to call at the Presidential palace. The army man, by messenger, asked if he was wished personally or in his official capacity. Several other notes were passed back and forth, Goethals finally going.\n\n\"When he reached the palace, Mendoza refused to see him. It is said that the snub was caused by Colonel Goetha's drawing the color line in the first place, Mendoza being a Negro.\"",
-   "needs_review": "reread lost words: dispatch panama press"
+   "needs_review": "heading 'EDUCATION.' inside box; no verified split at the 3 nearest gaps"
   },
   {
    "id": "r6",
@@ -375,7 +375,8 @@
    "reshape r7 (plain_text): lost 13% of its ink, gained 2%",
    "reread r5: 'A press dispatch from Panama says:\\n\"It b' -> '\"It became known to-day that Mendoza sen'",
    "reread r7: 'White Sawyer, a Missouri Negro, has lost' -> 'White Sawyer, a Missouri Negro, has lost'",
-   "REVIEW r5: reread lost dispatch panama press; kept old text"
+   "REVIEW r5: reread lost dispatch panama press; kept old text",
+   "REVIEW r5: heading 'EDUCATION.' inside box; no verified split at the 3 nearest gaps"
   ]
  }
 }

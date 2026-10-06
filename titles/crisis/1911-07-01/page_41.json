@@ -1,0 +1,85 @@
+{
+  "page": 41,
+  "image": "images/page_41.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 880,
+        "y0": 96,
+        "x1": 921,
+        "y1": 120
+      },
+      "text": "129",
+      "status": "ok",
+      "confidence": 0.8217629790306091,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 99,
+        "y0": 97,
+        "x1": 924,
+        "y1": 187
+      },
+      "text": "ADVERTISING NOWADAYS PAYS YOU",
+      "status": "ok",
+      "confidence": 0.8694355487823486,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 101,
+        "y0": 220,
+        "x1": 926,
+        "y1": 523
+      },
+      "text": "AM agent for all colored newspapers.\nAM agent along all lines of advertising.\nGET up programs for all kinds of entertainments.\nFURNISH the advertising for 25 per cent.\nWRITE and place your business where all can see.\nKNOW all the new features of advertising.\n\nLET ME HANDLE YOUR ADVERTISING\n\nThe James E. Holt Advertising Agency\n42 WEST 132D STREET, NEW YORK",
+      "status": "ok",
+      "confidence": 0.8281116485595703,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 95,
+        "y0": 555,
+        "x1": 924,
+        "y1": 803
+      },
+      "text": "O. M. Waller, M.D., Pres. A. M. Thompson, Treas. B. C. Waller, M.D., Sec. Sphinx Silver Polish The unsurpassed renovator of silver and plated ware. No acids; no scratching; absolutely harmless. Adopted in the largest hotels. Best for family use. Endorsed by silversmiths. Sells readily to the trade. Doubles your income. Agents wanted in every city and town. Fifty per cent. commission. Write to-day. Manufactured by",
+      "status": "ok",
+      "confidence": 0.9509937167167664,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "figure",
+      "bbox": {
+        "x0": 100,
+        "y0": 808,
+        "x1": 928,
+        "y1": 1525
+      },
+      "text": "Sphinx Labor-Saving Soap Co., Inc.\nOffice and Factory: 117 West Street, New York City\n\nTelephone 3253 Harlem CARPET CLEANING\nCLEANERS AND RENOVATERS FOR PARTICULAR PEOPLE\nNEW YORK CAREFUL CLEANING BUREAU\n12 WEST 135TH STREET\nWe make a specialty of cleaning and renovating carpets, rugs, portieres and upholstered furniture, we also vacuum clean in the home. We are not the largest carpet cleaner in the world, but absolutely the most careful in every detail.\nSHAMPOOING CARPETS AND RUGS OUR SPECIALTY\n\nLEGAL DIRECTORY\n\nJ. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet\n\nFREDERICK L. McGHEE\nATTORNEY AND COUNSE",
+      "status": "repetition",
+      "confidence": 0.531547486782074,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 19.9,
+    "at": "2026-10-06T22:03:13+00:00"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 1370,
+  "height": 2076,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 82,
+        "y0": 47,
+        "x1": 1199,
+        "y1": 491
+      },
+      "text": "ACATION NUMBE\nTHE CRISIS\nA RECORD OF THE DARKER RACES\nVolume Two JULY, 1911 Number Three",
+      "status": "ok",
+      "confidence": 0.4953327178955078,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "figure",
+      "bbox": {
+        "x0": 44,
+        "y0": 453,
+        "x1": 1236,
+        "y1": 2061
+      },
+      "text": "THE LATE JOHN B. TAYLOR, UNIVERSITY OF PENNSYLVANIA\nWhose record for the quarter-mile run still remains untouched\n\nONE DOLLAR A YEAR\nTEN CENTS A COPY\n\nFAMOUS COLORED ATHLETES",
+      "status": "ok",
+      "confidence": 0.27604442834854126,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.3,
+    "at": "2026-10-06T21:55:45+00:00"
+  }
+}

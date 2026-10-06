@@ -1,0 +1,309 @@
+{
+  "page": 39,
+  "image": "images/page_39.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 321,
+        "y0": 94,
+        "x1": 675,
+        "y1": 166
+      },
+      "text": "THE CRISIS ADVERTISER\nWHERE TO STOP—(Continued)",
+      "status": "ok",
+      "confidence": 0.8582329154014587,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 96,
+        "y0": 166,
+        "x1": 494,
+        "y1": 1028
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 321,
+        "y0": 166,
+        "x1": 675,
+        "y1": 1028
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 519,
+        "y0": 166,
+        "x1": 918,
+        "y1": 1028
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "table",
+      "bbox": {
+        "x0": 89,
+        "y0": 170,
+        "x1": 915,
+        "y1": 1016
+      },
+      "text": "HARLEM PRIVATE HOUSE\nFurnished rooms to let for gentlemen only.\nHot and cold water in every room.\nMRS. BERRY L. HIICKS, Proprietress\n258 WEST 133D STREET NEW YORK\nFour doors from Eighth Avenue\n\nTelephone 3939-W Harlem\nMRS. ALFRED HARPER\nFURNISHED ROOMS\nBY THE WEEK OR MONTH\n15 WEST 132D STREET NEW YORK\n\nTHE SOUTHERN RESTAURANT\n2229 FIFTH AVENUE\nBetween 39th and 136th Streets, New York\n\nMRS. BERRYORK, New York, New York\nWe are prepared to give first-class service at a very reasonable rate. Real home cooking.\nCome and be convinced. Our motto is to please you.\nMeals at all hours.\nMRS. J. M. RIDDICK, Proprietress\n\nTHE VIRGINIA HOUSE\nMRS. MARY E. HILL, Proprietress\nNEATLY FURNISHED ROOMS\nGood Old Southern Cooking\n\"Just Like Home\"\n37 WEST 133D STREET NEW YORK\n\nIS YOUR HOTEL LISTED\nIN THIS DIRECTORY? IF\nNOT, WRITE US FOR RATES.\n\n'Phone 2877 Lenox\nWhite Rose Working Girls' Home\n217 EAST 86TH STREET\nBet. Second and Third Avenues\nPleasant temporary lodgings for working girls, with privileges, at reasonable rates. The Home solicits orders for working dresses, aprons, etc.\nAddress:\nMRS. FRANCES E. KEYSER, Supt.\n\nPHILADELPHIA, PA.\n\nTelephone Strictly First-class\n\nTHE NEW DELMONICO HOTEL\n16th and Ridge Avenue, Philadelphia, Pa.\nSTRICTLY PRIVATE AND HOME COMFORTS\nTen large bedrooms, with electric light, steam heat and baths.\nCafé on second floor. Best meals only.\nThis hotel is newly furnished and up to date in every particular. We solicit your trade.\nPermanent and transient rooms; they are the best. Try one of our meals.\n(Ring bell after 12 m.)\nL. B. SMITH, Prop. A. R. SMITH, Mgr.\n\nILLINOIS\n\nJ. N. Washington Mrs. J. N. Washington\nProprietor Manager\nHotel Washington\n3252 WABASH AVENUE\nCHICAGO\nFirst-class Service for First-class People\nRates: 75c., $1.00 and $2.00 Per Day\nTelephone Aldine 516\n\nOHIO\n\nHome 'Phone B-3244 American—European\nHOTEL PLEASANT\nP. H. WOOD\nNEW WITH MODERN EQUIPMENT\n9-11 ERIE STREET\nTOLEDO, OHIO\n\nNEW JERSEY\n\nHOTEL DALE\nCAPE MAY, NEW JERSEY",
+      "status": "ok",
+      "confidence": 0.4658121168613434,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 96,
+        "y0": 1028,
+        "x1": 493,
+        "y1": 1073
+      },
+      "text": "This magnificent four-story structure, with every modern convenience, has just been completed at a cost of $50,000.",
+      "status": "ok",
+      "confidence": 0.8788197040557861,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 519,
+        "y0": 1028,
+        "x1": 914,
+        "y1": 1101
+      },
+      "text": "one of the hotel is the beautiful grill room. The management has engaged the full Abyssinian Orchestra to render afternoon and evening concerts in the room daily during the entire season.",
+      "status": "ok",
+      "confidence": 0.8672916889190674,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 1073,
+        "x1": 493,
+        "y1": 1116
+      },
+      "text": "It is, without exception, the finest and most complete hostelry in the United States for the accommodation of our race.",
+      "status": "ok",
+      "confidence": 0.7475828528404236,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1102,
+        "x1": 914,
+        "y1": 1144
+      },
+      "text": "The open-air amusements available to the guests are numerous. The lawn of the hotel contains both croquet and tennis courts.",
+      "status": "ok",
+      "confidence": 0.907465934753418,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 1117,
+        "x1": 493,
+        "y1": 1159
+      },
+      "text": "It is located on the highest elevation in the heart of the residence portion of cool Cape May.",
+      "status": "ok",
+      "confidence": 0.8919193148612976,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1145,
+        "x1": 914,
+        "y1": 1216
+      },
+      "text": "The sea bathing at Cape May is unsurpassed on the Atlantic Ocean. It is remarkable for its fine surf and is perfectly safe at all times for women and children. The hotel has its own private bath houses.",
+      "status": "ok",
+      "confidence": 0.9103540182113647,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 1160,
+        "x1": 493,
+        "y1": 1260
+      },
+      "text": "The view from the hotel is magnificent; on the front, overlooking overlooking the celebrated golf links, the vista stretches away to take in the beautiful driveways and farms of the inland section of the Cape. The rear commands an extensive view of the harbor and sea. The invigorating ocean breezes reach every section of the hotel.",
+      "status": "ok",
+      "confidence": 0.8570186495780945,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1216,
+        "x1": 916,
+        "y1": 1260
+      },
+      "text": "The sailing and fishing in the harbor and adjacent sounds are always attractive and boats may be had at all times.",
+      "status": "ok",
+      "confidence": 0.896011471748352,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 1260,
+        "x1": 494,
+        "y1": 1289
+      },
+      "text": "The interior of this hotel may be described as the acme of luxury, comfort and elegance.",
+      "status": "ok",
+      "confidence": 0.8868923187255859,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1261,
+        "x1": 917,
+        "y1": 1361
+      },
+      "text": "The hotel is under the personal management of the owner, E. W. Dale, one of the most progressive and successful business men of our race. His experience as a hotel man has enabled him to use his very thorough knowledge of details in bringing the equipment of his hotel to perfection.",
+      "status": "ok",
+      "confidence": 0.9039361476898193,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 1290,
+        "x1": 494,
+        "y1": 1436
+      },
+      "text": "The Hotel Dale contains one hundred light, airy and luxuriously furnished rooms with every modern convenience. Electric lights throughout the entire house. Suites with bath and long distance telephone connections. The elegantly furnished dining room is operated under both European and American plans. The cuisine will contain all the delicacies of the season, prepared by a master of the culinary art. Sea foods a specialty.",
+      "status": "ok",
+      "confidence": 0.924001932144165,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 519,
+        "y0": 1362,
+        "x1": 918,
+        "y1": 1436
+      },
+      "text": "This hotel is easy of access from the stations of either the Pennsylvania or the Reading Railroad. Literature and additional information will be mailed upon request.",
+      "status": "ok",
+      "confidence": 0.8235657215118408,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "text",
+      "bbox": {
+        "x0": 96,
+        "y0": 1436,
+        "x1": 494,
+        "y1": 1595
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "text",
+      "bbox": {
+        "x0": 519,
+        "y0": 1436,
+        "x1": 918,
+        "y1": 1595
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "abandon",
+      "bbox": {
+        "x0": 96,
+        "y0": 1462,
+        "x1": 915,
+        "y1": 1530
+      },
+      "text": "E. W. DALE, Owner and Proprietor Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.5765507221221924,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "abandon",
+      "bbox": {
+        "x0": 872,
+        "y0": 91,
+        "x1": 910,
+        "y1": 113
+      },
+      "text": "127",
+      "status": "ok",
+      "confidence": 0.8680045008659363,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 20.4,
+    "at": "2026-10-06T22:02:41+00:00"
+  }
+}

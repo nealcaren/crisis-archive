@@ -1,0 +1,71 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 108,
+        "y0": 94,
+        "x1": 931,
+        "y1": 487
+      },
+      "text": "THE CRISIS\nA RECORD OF THE DARKER RACES\n\nPublished by the National Association for the Advancement of Colored People, at\n20 Vesey Street, New York City.\n\nW. E. BURGHARDT DU BOIS, Editor\nM. D. MACLEAN, Managing Editor\nFRANK M. TURNER, Circulation Manager\nALBON L. HOLSEY, Advertising Manager\n\nContributing Editors\nOSWALD GARRISON VILLARD\nJ. MAX BARBER\nCHARLES EDWARD RUSSELL\nW. S. BRAITHWAITE\nKELLY MILLER",
+      "status": "ok",
+      "confidence": 0.47717973589897156,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 105,
+        "y0": 531,
+        "x1": 931,
+        "y1": 676
+      },
+      "text": "ALONG THE COLOR LINE..... 95\nMEN OF THE MONTH:",
+      "status": "ok",
+      "confidence": 0.9276862740516663,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 105,
+        "y0": 688,
+        "x1": 935,
+        "y1": 1240
+      },
+      "text": "Rev. H. C. Bishop..... 102\nRight Hon. H. H. Asquith..... 103\nRight Hon. A. J. Balfour..... 103\n\nTHE VISION: Poem. By W. S. Braithwaite..... 103\n\nOPINION ..... 104\n\nN. A. A. C. P..... 107\n\nBASKETBALL TEAM OF THE Y. M. C. A., WASHINGTON..... 110\n\nEDITORIAL ..... 112\n\nFAMOUS COLORED COLLEGE ATHLETES. By Edwin B. Henderson..... 115\n\nTHE LITTLE KINGDOM OF SALT..... 119\n\nWOMEN'S CLUB: Caring for the Young Women. By Mrs. W. A. Hunton..... 121\n\nTHE BURDEN..... 123\n\nWHAT TO READ..... 125",
+      "status": "ok",
+      "confidence": 0.7152712345123291,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "abandon",
+      "bbox": {
+        "x0": 105,
+        "y0": 1284,
+        "x1": 929,
+        "y1": 1444
+      },
+      "text": "Agents wanted who can furnish references.\nEntered as second-class matter in the post office at New York City.\n\nThis is to certify that I print fifteen thousand copies of the July Crisis, 1911.\nROBERT N. WOOD, Printer,\n202 East 99th St.\n\nSworn to before me this 19th day of June, 1911.\nP. J. BURKE,\nNotary Public, N. Y. C.",
+      "status": "ok",
+      "confidence": 0.43579503893852234,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 4.9,
+    "at": "2026-10-06T21:56:33+00:00"
+  }
+}

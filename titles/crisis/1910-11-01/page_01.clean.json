@@ -44,7 +44,7 @@
     "x1": 1838,
     "y1": 507
    },
-   "text": "OF THE DARKER RACES",
+   "text": "RECORD OF THE DARKER RACES",
    "status": "ok",
    "confidence": 0.25869032740592957,
    "lines": [],
@@ -57,7 +57,9 @@
    "exclude": [],
    "changed": true,
    "text_before_clean": "RECORD OF THE DARKER RACES",
-   "role": "text"
+   "role": "text",
+   "text_reread": "OF THE DARKER RACES",
+   "needs_review": "reread lost words: record"
   },
   {
    "id": "r2",
@@ -98,7 +100,7 @@
    "text_before_clean": "Edited by W. E. BURGHARDT DU BOIS, with the co-operation of Oswald Garrison Villard, J. Max Barber, Charles Edward Russell, Kelly Miller, W. S. Braithwaite and M. D. Maclean.",
    "role": "text",
    "text_reread": "DT DU BOIS, with the co-operation of Oswald Garrison Villard rd Russell, Kelly Miller, W. S. Braithwaite and M. D. Maclean.",
-   "needs_review": "reread lost words: edward"
+   "needs_review": "reread lost words: barber charles edward"
   },
   {
    "id": "r3",
@@ -835,7 +837,7 @@
    "text_before_clean": "National Association for the Advancement of Colored People AT TWENTY VESEY STREET NEW YORK CITY",
    "role": "text",
    "text_reread": "on for the Advancement of Colored People REET NEW YORK CITY",
-   "needs_review": "reread lost words: association street"
+   "needs_review": "reread lost words: street"
   },
   {
    "id": "r5",
@@ -3990,8 +3992,8 @@
    "changed": true,
    "text_before_clean": "Volume One\n\nEdited by W. E. BURGHARD\nJ. Max Barber, Charles Edwa\n\nNational Association\nAT TWENTY VESEY ST\n\nONE DOLLAR A YEAR",
    "role": "text",
-   "text_reread": "TH\nRECORD\n\nVolume One\n\nEdited by W. E. BURGHAR\nJ. Max Barber, Charles Edwa\n\nPUBLISHED MONTHLY BY THE\nNational Associati\nAT TWENTY VESEY ST\n\nONE DOLLAR A YEA",
-   "needs_review": "reread lost words: association year"
+   "text_reread": "PUBLISHED MONTHLYLY BY THE\nNational Association\nAT TWENTY VESEY ST",
+   "needs_review": "heading 'AT TWENTY VESEY ST' inside box but no gap to cut at"
   },
   {
    "id": "r6",
@@ -4041,7 +4043,7 @@
    "text_before_clean": "ONE DOLLAR A YEAR",
    "role": "text",
    "text_reread": "R",
-   "needs_review": "reread lost words: year"
+   "needs_review": "reread lost words: dollar year"
   },
   {
    "id": "r10",
@@ -4075,7 +4077,7 @@
     "x1": 1836,
     "y1": 822
    },
-   "text": "",
+   "text": "”",
    "status": "ok",
    "confidence": 0.0,
    "lines": [],
@@ -4148,10 +4150,9 @@
  "clean": {
   "regions_before": 14,
   "regions_after": 12,
-  "lost_words": [
-   "record"
-  ],
+  "lost_words": [],
   "needs_review": [
+   "r1",
    "r2",
    "r4",
    "r5",
@@ -4174,15 +4175,16 @@
    "reread r1: 'RECORD OF THE DARKER RACES' -> 'OF THE DARKER RACES'",
    "reread r2: 'Edited by W. E. BURGHARDT DU BOIS, with ' -> 'DT DU BOIS, with the co-operation of Osw'",
    "reread r4: 'National Association for the Advancement' -> 'on for the Advancement of Colored People'",
-   "reread r5: 'Volume One\\n\\nEdited by W. E. BURGHARD\\nJ. ' -> 'TH\\nRECORD\\n\\nVolume One\\n\\nEdited by W. E. B'",
+   "reread r5: 'Volume One\\n\\nEdited by W. E. BURGHARD\\nJ. ' -> 'PUBLISHED MONTHLYLY BY THE\\nNational Asso'",
    "reread r6: '2-18=10' -> 'x-18=70'",
    "reread r9: 'ONE DOLLAR A YEAR' -> 'R'",
-   "reread r11: 'ple\\nITY\\nOPY' -> ''",
-   "REVIEW r2: reread lost edward; kept old text",
-   "REVIEW r4: reread lost association street; kept old text",
-   "REVIEW r5: reread lost association year; kept old text",
-   "REVIEW r9: reread lost year; kept old text",
-   "CHECK words lost from page text: record"
+   "reread r11: 'ple\\nITY\\nOPY' -> '”'",
+   "REVIEW r1: reread lost record; kept old text",
+   "REVIEW r2: reread lost barber charles edward; kept old text",
+   "REVIEW r4: reread lost street; kept old text",
+   "REVIEW r5: reread lost barber charles dollar volume year; kept old text",
+   "REVIEW r9: reread lost dollar year; kept old text",
+   "REVIEW r5: heading 'AT TWENTY VESEY ST' inside box but no gap to cut at"
   ]
  }
 }

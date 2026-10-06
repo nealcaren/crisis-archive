@@ -1,0 +1,85 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 404,
+        "y0": 93,
+        "x1": 766,
+        "y1": 120
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8295853734016418,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 170,
+        "y0": 95,
+        "x1": 1000,
+        "y1": 210
+      },
+      "text": "OUR ADVERTISING DEPARTMENT must be a service to our reader as well as a source of income to our management",
+      "status": "ok",
+      "confidence": 0.9215098023414612,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 169,
+        "y0": 338,
+        "x1": 999,
+        "y1": 645
+      },
+      "text": "In the advertising department it is not our purpose to solicit advertisements at random and fill our pages with advertisements of no interest and value to our readers. The reader purchases the advertising page as well as the reading page. Viewing the matter in that light, it is our purpose to make the advertising a means of real service to our readers as well as a source of income to us.\n\nIn this number we begin a Hotel Directory and a Classified Advertising Service. Those who are general magazine readers can appreciate the value of these two departments.\n\nIf your dealer hasn't an article you wish to purchase, he will get it for you. We aim to make THE CRISIS advertising columns the market place for CRISIS readers, and if you don't see what you want among our advertisements, write us and we will help you find it. In this way we will know the sort of advertisements to place in our columns for the convenience and pleasure of our readers.\n\nALBON L. HOLSEY, Advertising Manager",
+      "status": "ok",
+      "confidence": 0.652173638343811,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure",
+      "bbox": {
+        "x0": 176,
+        "y0": 678,
+        "x1": 989,
+        "y1": 1500
+      },
+      "text": "This Is\nTHE CRISIS\n\nFew people see you\nMany people see your letters\n\nCorrect in Type,\nProofreading and\nStyle. I print it.\n\nWhy?\n\nAsk Editor\nW. E. B. Du Bois\nby permission\n\nUse Good Stationery\n\nNot the cheapest; but the\nbest for the money charged\n\nSPECIALTY\n\nWedding Invitations printed\nor engraved — correct style\n\nWRITE OR 'PHONE TO\n\nROBERT N. WOOD, Printer\n202 East 99th Street\nNew York City\n\n'Phone Lenox 6667",
+      "status": "ok",
+      "confidence": 0.9379488229751587,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 489,
+        "y0": 1516,
+        "x1": 674,
+        "y1": 1538
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.264716774225235,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 4.5,
+    "at": "2026-10-06T21:56:55+00:00"
+  }
+}

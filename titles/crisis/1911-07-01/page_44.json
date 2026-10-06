@@ -1,0 +1,267 @@
+{
+  "page": 44,
+  "image": "images/page_44.jpg",
+  "width": 1375,
+  "height": 2079,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "figure",
+      "bbox": {
+        "x0": 179,
+        "y0": 185,
+        "x1": 1053,
+        "y1": 1016
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9650933742523193,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 212,
+        "y0": 1029,
+        "x1": 1222,
+        "y1": 1059
+      },
+      "text": "Frederick Douglass Memorial Hospital and Training School, Philadelphia, Philadelphia, Pa.",
+      "status": "ok",
+      "confidence": 0.5665102005004883,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 329,
+        "y0": 1189,
+        "x1": 1144,
+        "y1": 1279
+      },
+      "text": "“HALF A MAN”",
+      "status": "ok",
+      "confidence": 0.880344033241272,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 268,
+        "y0": 1753,
+        "x1": 1195,
+        "y1": 1865
+      },
+      "text": "The above book may be purchased through any bookseller or will be mailed by THE CRISIS on receipt of the price and postage.",
+      "status": "ok",
+      "confidence": 0.7258284091949463,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 134,
+        "y0": 135,
+        "x1": 307,
+        "y1": 1272
+      },
+      "text": "Fred",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 137,
+        "y0": 1536,
+        "x1": 284,
+        "y1": 1999
+      },
+      "text": "I",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 276,
+        "y0": 1289,
+        "x1": 1096,
+        "y1": 1742
+      },
+      "text": "The Status of the Negro in New York\nBy\nMARY WHITE OVINGTON\nWith a Foreword by Dr. Franz Boas, of Columbia University\n\n\"My father has always lived in the South,\" a young colored man once said to me, \"and has attained success there; but when I ceased to be a boy he advised me to live in the North, where my manhood would be respected. He himself cannot continually endure his position of inferiority, and in the summer he comes North to be a man. No,\" correcting himself, \"to be HALF A MAN. A Negro is wholly a man only in Europe.\"—From the Author's \"Introduction.\"\n\nMiss Ovington's description of the Negro in New York City is a most painstaking inquiry into the and economic conditions, and brings the most forceful way the difficulty which the race is laboring, even in cosmopolitan population of New York is a refutation of the claims that the has equal opportunity with the white that his failure to advance more than he has, is due to innate in From Dr. Boas' \"Foreword.\"\n\n12mo, cloth. Price $1.00 net. By mail, $1.12.",
+      "status": "ok",
+      "confidence": 0.966135561466217,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 426,
+        "y0": 135,
+        "x1": 505,
+        "y1": 155
+      },
+      "text": "=",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 307,
+        "y0": 135,
+        "x1": 426,
+        "y1": 155
+      },
+      "text": "========================================",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 284,
+        "y0": 1979,
+        "x1": 448,
+        "y1": 1999
+      },
+      "text": "---",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 572,
+        "y0": 1979,
+        "x1": 671,
+        "y1": 1998
+      },
+      "text": "---",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 620,
+        "y0": 2013,
+        "x1": 852,
+        "y1": 2038
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.852583110332489,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 746,
+        "y0": 1467,
+        "x1": 1193,
+        "y1": 1698
+      },
+      "text": "Miss Ovington's description of the status of the Negro in New York City is based on a most painstaking inquiry into his social and economic conditions, and brings out in the most forceful way the difficulties under which the race is laboring, even in the large cosmopolitan population of New York. It is a refutation of the claims that the Negro has equal opportunity with the whites, and that his failure to advance more rapidly than he has, is due to innate inability.—From Dr. Boas' \"Foreword.\"",
+      "status": "ok",
+      "confidence": 0.9670445919036865,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 671,
+        "y0": 1978,
+        "x1": 751,
+        "y1": 1998
+      },
+      "text": "=",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 1070,
+        "y0": 132,
+        "x1": 1338,
+        "y1": 1999
+      },
+      "text": "A limited number of free beds maintained for the worthy poor. Other ward patients maintained at $7.00 per week.\n\nPrivate rooms can be secured from $12.00 to $30.00 per week.\n\nThe training school for nurses maintains a two years' course.\n\nA high school certificate, or an education sufficient to be considered an equivalent, necessary for admission.\n\nFive thousand dollars endows a free bed.\n\nAndrew F. Stevens, President.\n\nNathan F. Mossell, M.D., Medical Director and Superintendent.\n\nPhiladelphia, Pa.\n\nN\"\n\nCity\n\nOf the status is based on his social cirings out in multies under in the large New York. It at the Negro whites, and more rapidly inability.—\n\nYORK\n\nmailed by",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "text",
+      "bbox": {
+        "x0": 1076,
+        "y0": 760,
+        "x1": 1303,
+        "y1": 845
+      },
+      "text": "قَلَا يَقْتَلُوا\nلَا يَلَلَا يَقْتَلُوا\nلَا يَقْتَلُوا",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "text",
+      "bbox": {
+        "x0": 1076,
+        "y0": 993,
+        "x1": 1303,
+        "y1": 1467
+      },
+      "text": "حرَّجَرَرَ",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "text",
+      "bbox": {
+        "x0": 1076,
+        "y0": 1698,
+        "x1": 1303,
+        "y1": 1925
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 15.7,
+    "at": "2026-10-06T22:03:55+00:00"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "page": 32,
+  "image": "images/page_32.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 491,
+        "y0": 93,
+        "x1": 655,
+        "y1": 118
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8721778392791748,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 593,
+        "y0": 146,
+        "x1": 998,
+        "y1": 303
+      },
+      "text": "prevent contact with the ground. In them are stored the grain—rice, millet, sorghum, maize—received in exchange for the salt. The covered gallery receives more perishable provisions, such as butter, fat, dried meat and vegetables, as well as garments, pieces of cloth and utensils of various kinds.",
+      "status": "ok",
+      "confidence": 0.9769442677497864,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 168,
+        "y0": 146,
+        "x1": 570,
+        "y1": 303
+      },
+      "text": "and the strange groans and cries of the thousands of camels tethered against the walls of the village, which, by the way, is called Zinder. Then the merchants depart and the oasis settles into its former peace and calm.\n\nBut there is a constant fear of less attractive visitors—marauders eager to",
+      "status": "ok",
+      "confidence": 0.97232586145401,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 592,
+        "y0": 307,
+        "x1": 996,
+        "y1": 614
+      },
+      "text": "A single opening gives access to the interior of the inclosure. It is closed by a solid gate made of thick planks and kept carefully locked and bolted. The key is held by a special guard, designated by the chief of the tribe. This guard sleeps inside and is responsible for the safety of the property. This arrangement enables the inhabitants to have only a few days' provisions and the most necessary tools and clothing in their own houses. Thus each family is exposed to the minimum loss from chance thieves or bands of bandits, and such loss may be promptly made good from the general store.",
+      "status": "ok",
+      "confidence": 0.977793276309967,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure",
+      "bbox": {
+        "x0": 183,
+        "y0": 327,
+        "x1": 559,
+        "y1": 888
+      },
+      "text": "",
+      "status": "error",
+      "confidence": 0.9311800599098206,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 593,
+        "y0": 619,
+        "x1": 996,
+        "y1": 963
+      },
+      "text": "The ingenuity of this tribe is shown elsewhere by their method of preserving their supplies—a matter of capital importance since the uncertainties and dangers of desert travel may long delay the arrival of an expected caravan. The meat is dried as in other regions of Central Africa, but vegetables are conserved after a method of their own invention. Onions, beans, spinach and other native vegetables are dried and then compressed into a sort of hard, dry cake, so solid that neither air nor humidity can penetrate it, thus insuring its \"keeping.\" When needed for use these cakes are broken into fragments and soaked in water till the vegetables assume their original form.",
+      "status": "ok",
+      "confidence": 0.9785847067832947,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 938,
+        "x1": 569,
+        "y1": 1073
+      },
+      "text": "despoil the villagers of their wealth. The inhabitants of Fachi have adopted an organization which is strikingly original, and, Commandant Mowret believes, not to be found anywhere else in Black Africa. It effectually protects them from disaster.",
+      "status": "ok",
+      "confidence": 0.9755634665489197,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 594,
+        "y0": 967,
+        "x1": 995,
+        "y1": 1235
+      },
+      "text": "When bands of robbers are espied, threatening spoliation, or even capture and slavery, the entire populace takes refuge within the walls of the fort. The women and children and the aged occupy the court and the gallery, while the able-bodied men man the walls and towers to repel the invaders or lie sheltered on the roof of the gallery. A siege can never be of long duration, since scant provisions are left outside, and such as the enemy may have brought with him could hardly equal those within the fort.",
+      "status": "ok",
+      "confidence": 0.9785293340682983,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 1074,
+        "x1": 570,
+        "y1": 1415
+      },
+      "text": "Within the interior of the village they have built a vast rectangular enclosure flanked by a tower at each corner. This rectangle is about 240 feet long by 150 feet wide. The walls are some 36 feet high and 12 feet thick at the base. These walls are built with stones brought from the rocky mountains which border the oasis on the east, mixed with natron from the salt wells and even with blocks of salt, the whole cemented with clay. Loop holes run along the walls and the facades of the towers. In the interior of the inclosure a covered gallery is built along the whole of the inner walls. In the center of the open court thus inclosed is a well giving abundance of fresh water.",
+      "status": "ok",
+      "confidence": 0.978209912776947,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 594,
+        "y0": 1239,
+        "x1": 998,
+        "y1": 1516
+      },
+      "text": "The habits of order and economy among these people and the necessity of carefully preserving property so hardly acquired has developed not only their intelligence and power of initiative, but their sense of solidarity or commercial welfare in a very high degree. Beggars are quite unknown in the community. Every inhabitant is part proprietor of the public property, represented by the salt wells, the date palms and the gardens. There is always food for every one, more or less plentiful, to be sure, as trade is good or bad.",
+      "status": "ok",
+      "confidence": 0.9760497808456421,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 170,
+        "y0": 1418,
+        "x1": 572,
+        "y1": 1516
+      },
+      "text": "Within this court are rows of sundried earthen vessels in the form of huge jars provided with lids made of clay or ingeniously plaited straw. These jars rest on bases of wood or clay, which",
+      "status": "ok",
+      "confidence": 0.9647645950317383,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 171,
+        "y0": 92,
+        "x1": 210,
+        "y1": 115
+      },
+      "text": "120",
+      "status": "ok",
+      "confidence": 0.8387426137924194,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 230,
+        "y0": 904,
+        "x1": 512,
+        "y1": 923
+      },
+      "text": "A MERCHANT OF THE DESERT",
+      "status": "ok",
+      "confidence": 0.8556408882141113,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 11.7,
+    "at": "2026-10-06T22:00:17+00:00"
+  }
+}

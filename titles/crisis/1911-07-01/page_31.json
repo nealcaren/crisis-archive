@@ -1,0 +1,211 @@
+{
+  "page": 31,
+  "image": "images/page_31.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 289,
+        "y0": 94,
+        "x1": 911,
+        "y1": 242
+      },
+      "text": "with more modern athletics are assured curriculum of school college athlete will tride with the record holders of the world in all classes of athletic performance. Let our leaders encourage development in this field and no race will show to better advantage in fair and clean competition.",
+      "status": "ok",
+      "confidence": 0.9574922919273376,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 93,
+        "y0": 145,
+        "x1": 489,
+        "y1": 242
+      },
+      "text": "of players in line with more modern schools, and when athletics are assured a fitting place in the curriculum of school work, the Negro college athlete will measure stride for stride with the record",
+      "status": "ok",
+      "confidence": 0.9580305218696594,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 90,
+        "y0": 242,
+        "x1": 489,
+        "y1": 1135
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 289,
+        "y0": 242,
+        "x1": 717,
+        "y1": 1135
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 512,
+        "y0": 242,
+        "x1": 912,
+        "y1": 1135
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "figure",
+      "bbox": {
+        "x0": 119,
+        "y0": 275,
+        "x1": 882,
+        "y1": 861
+      },
+      "text": "ISAA\nCHAMPIONSHIP\nGAMES\nSECOND PLACE\nMOTORSCHOLASTIC\n1908",
+      "status": "ok",
+      "confidence": 0.9751655459403992,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 196,
+        "y0": 875,
+        "x1": 812,
+        "y1": 915
+      },
+      "text": "THE M STREET HIGH SCHOOL TEAM, WASHINGTON, D. C.\nMany of these boys are now distinguishing themselves in college athletics",
+      "status": "ok",
+      "confidence": 0.4497337341308594,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 178,
+        "y0": 1037,
+        "x1": 832,
+        "y1": 1099
+      },
+      "text": "The Little Kingdom of Salt",
+      "status": "ok",
+      "confidence": 0.9324309825897217,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 1135,
+        "x1": 488,
+        "y1": 1481
+      },
+      "text": "IN THE heart of the desert of Sahara there is a tiny oasis, about six miles long and two broad. Here lives and prospers a curious community of black men whose little kingdom has hardly ever been visited by the whites. They number only about 600, and are hundreds of miles from any other civilization, but they are quite content, for they possess what is to them inexhaustible wealth in their salt wells. Just as vessels stop at little coaling stations, so great caravans of camels stop at the oasis of Agram and take up the salt in return for provisions and other necessities. Sometimes as many as 14,000 camels a year halt there on their way across the desert.",
+      "status": "ok",
+      "confidence": 0.9779691696166992,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 512,
+        "y0": 1135,
+        "x1": 912,
+        "y1": 1500
+      },
+      "text": "the Twenty-first Regiment of the French Colonial Infantry, has contributed to the Monde Illustré of Paris a most interesting account of this odd little spot. He says when the massive outlines of an immense caravan are discerned in the distance the natives of the village are ecstatic with joy. Life and abundance are approaching. During the two or three days that the caravan tarries they are assiduously courted and feted. The business of barter is carried on at the salt wells and in the village all is bustle and animation, by night and by day, while the salt is being made up into packages and loaded. An extraordinary uproar fills the air, compounded of the sounds of singing, dancing and quarreling, the loud beat of the tom-tom,",
+      "status": "ok",
+      "confidence": 0.9757093191146851,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 1480,
+        "x1": 489,
+        "y1": 1595
+      },
+      "text": "Commandant Mowret, commander of",
+      "status": "ok",
+      "confidence": 0.8582883477210999,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 289,
+        "y0": 1500,
+        "x1": 717,
+        "y1": 1595
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 512,
+        "y0": 1500,
+        "x1": 912,
+        "y1": 1595
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "abandon",
+      "bbox": {
+        "x0": 871,
+        "y0": 93,
+        "x1": 910,
+        "y1": 115
+      },
+      "text": "1119",
+      "status": "ok",
+      "confidence": 0.8224101066589355,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.9,
+    "at": "2026-10-06T22:00:05+00:00"
+  }
+}

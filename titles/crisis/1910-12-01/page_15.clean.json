@@ -87,9 +87,9 @@
     "x0": 89,
     "y0": 921,
     "x1": 489,
-    "y1": 1491
+    "y1": 1345
    },
-   "text": "New Orleans Times-Democrat remarks: \"The action of the Negro Baptist Convention in attaching to its resolutions indorsing New Orleans for the Panama Exposition a proviso demanding suspension or repeal of the 'Jim Crow' laws, not only in this city, but in the Southern States, requires, we think, a brief but emphatic reply. Even if the securement of the Exposition, important and greatly desired as it is, depended absolutely upon the abrogation of laws devised for the protection of both races, the people of New Orleans would never consent to a programme so fatuous and dangerous.\"\n\nFOREIGN COMMENT.\n\nThe London Nation comments as follows on Mr. B. T. Washington's words in Europe:\n\nMr. Booker T. Washington recently gave us a glowing picture of the progress, in-",
+   "text": "New Orleans Times-Democrat remarks: \"The action of the Negro Baptist Convention in attaching to its resolutions indorsing New Orleans for the Panama Exposition a proviso demanding suspension or repeal of the 'Jim Crow' laws, not only in this city, but in the Southern States, requires we think, a brief but emphatic reply. Even if the securement of the Exposition, important and greatly desired as it is, depended absolutely upon the abrogation of laws devised for the protection of both races, the people of New Orleans would never consent to a programme so fatuous and dangerous.\"",
    "status": "ok",
    "confidence": 0.9741045832633972,
    "lines": [],
@@ -101,7 +101,34 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "heading_restored": "FOREIGN COMMENT.",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 89,
+    "y0": 1345,
+    "x1": 489,
+    "y1": 1491
+   },
+   "text": "FOREIGN COMMENT.\n\nThe London Nation comments as follows on Mr. B. T. Washington's words in Europe: Mr. Booker T. Washington recently gave us a glowing picture of the progress, in-",
+   "status": "ok",
+   "confidence": 0.9741045832633972,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 920,
+    "x1": 487,
+    "y1": 1488
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "heading_restored": "FOREIGN COMMENT.",
+   "split_from": "r3"
   },
   {
    "id": "r4",
@@ -221,11 +248,13 @@
  ],
  "clean": {
   "regions_before": 9,
-  "regions_after": 9,
+  "regions_after": 10,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 0,
-  "log": []
+  "log": [
+   "split r3 at y=1345 before 'FOREIGN COMMENT.'"
+  ]
  }
 }

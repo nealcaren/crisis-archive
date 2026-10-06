@@ -1,0 +1,57 @@
+{
+  "page": 22,
+  "image": "images/page_22.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 867,
+        "y0": 76,
+        "x1": 1029,
+        "y1": 102
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8862014412879944,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 134,
+        "y0": 83,
+        "x1": 175,
+        "y1": 106
+      },
+      "text": "110",
+      "status": "ok",
+      "confidence": 0.8654946684837341,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 195,
+        "y0": 161,
+        "x1": 1063,
+        "y1": 1449
+      },
+      "text": "5",
+      "status": "ok",
+      "confidence": 0.9457985758781433,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 2.6,
+    "at": "2026-10-06T21:59:09+00:00"
+  }
+}

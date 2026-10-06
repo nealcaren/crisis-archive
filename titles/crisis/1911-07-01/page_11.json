@@ -1,0 +1,225 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 297,
+        "y0": 96,
+        "x1": 671,
+        "y1": 121
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8837342858314514,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 74,
+        "y0": 147,
+        "x1": 472,
+        "y1": 265
+      },
+      "text": "the ground that the Negro is not adapted to the Canadian climate and conditions of life. Nothing further was done, however, and there are no new developments. There are now only about 17,000 Negroes throughout the whole of Canada.",
+      "status": "ok",
+      "confidence": 0.9683395028114319,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 498,
+        "y0": 148,
+        "x1": 895,
+        "y1": 317
+      },
+      "text": "riddled with bullets. Under the heading \"Judicial\" we give an account of the trial of the sheriff.\nJoe Moore, a Negro, who confessed to having murdered Henry Googher, a farmer, was taken from the jail at Crawfordsville, Ga., on May 22, and hanged to a tree by a mob.",
+      "status": "ok",
+      "confidence": 0.9562502503395081,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 75,
+        "y0": 272,
+        "x1": 470,
+        "y1": 350
+      },
+      "text": "The census seems to show that the Negro population of Maryland is decreasing. The figures were analyzed by Judge John C. Rose, who said:",
+      "status": "ok",
+      "confidence": 0.9514502882957458,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 496,
+        "y0": 330,
+        "x1": 893,
+        "y1": 732
+      },
+      "text": "The most sensational case tried at the Decatur Superior Court of Georgia was that of the State against H. A. Gee, Oscar Spooner and Jim Poitevent, charged with the murder of a Negro preacher by the name of Cheatham. The defendants were young white farmers of good standing, and it was alleged that they attempted to whitecap Cheatham one night in April \"for some reason undisclosed,\" and that meeting with resistance on the part of the Negro and his wife, they shot and killed him. The evidence of the dead Negro's wife was that she positively identified each of the defendants, although they attempted disguise by blacking their faces. Each of the defendants proved a complete alibi, and received vindication at the hands of the jury by a verdict of not guilty. They belong to prominent families.",
+      "status": "ok",
+      "confidence": 0.9679126143455505,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 76,
+        "y0": 350,
+        "x1": 471,
+        "y1": 562
+      },
+      "text": "\"In 1840 there were 4,117 fewer Negroes in the State than there were in 1830, and in 1910 there are 2,815 fewer than there were in 1900. During the same time the white population has increased 110,220. In some of the counties of the State the Negro decrease during the last ten years has been very striking. Thus, in Kent, where there were 7,442 Negroes ten years ago there are now only 6,162.\"",
+      "status": "ok",
+      "confidence": 0.9747324585914612,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 76,
+        "y0": 634,
+        "x1": 471,
+        "y1": 790
+      },
+      "text": "Six Negroes suspected of complicity in the murder of a prominent citizen were taken from the jail in Lake City, Florida, on May 21, carried to the suburbs of the city, tied to trees, and riddled with bullets. Details of this murder are given under N. A. A. C. P. notes and in \"The Burden.\"",
+      "status": "ok",
+      "confidence": 0.9707545042037964,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 499,
+        "y0": 733,
+        "x1": 893,
+        "y1": 866
+      },
+      "text": "The colored press gives the \"reason undisclosed\" that Cheatham was protecting his wife from assault. Those familiar with conditions where lawlessness against Negroes is tolerated know that the black husband who protects his wife does so at the risk of his life.",
+      "status": "ok",
+      "confidence": 0.9394050240516663,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 76,
+        "y0": 797,
+        "x1": 471,
+        "y1": 1103
+      },
+      "text": "Ben Smith, an old colored preacher, was lynched at Swainsboro, Ga., on May 20, after he had shot his wife and fatally wounded Deputy Marshal Neal Canady. The deputy was summoned following the first shooting. According to the press report as he approached the cabin the preacher opened fire and then fled. Canady fell, mortally wounded. A crowd pursued the Negro, caught him in a swamp, hanged him and filled his body with bullets. This was the second lynching in Swainsboro within ten days, the other victim being John McLeod, who shot and killed Deputy Sheriff Benton Woods.",
+      "status": "ok",
+      "confidence": 0.9766157865524292,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 499,
+        "y0": 873,
+        "x1": 894,
+        "y1": 1160
+      },
+      "text": "The white press of the country gives a few lines to the lynching of a colored woman and her son at Okemah, Oklahoma, on May 26. The woman was under arrest on the charge of murdering a sheriff. The news is thus given by the colored press:\n\n\"There will be no official investigation into the lynching of Laura Nelson, colored, and her sixteen-year-old son, who were taken from the jail here, dragged six miles to the Canadian River, and hanged from a bridge. The woman was the first lynched in the State. She was raped before she was hanged.",
+      "status": "ok",
+      "confidence": 0.9661992788314819,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 76,
+        "y0": 1110,
+        "x1": 471,
+        "y1": 1323
+      },
+      "text": "In spite of the pleas of Circuit Judge W. L. Cook to let the law take its course, and in the presence of several members of the State Legislature, a mob at Gallatin, Tenn., lynched James Sweat, a Negro, following the death of Magistrate David Barry. It was claimed that Mr. Barry was killed by Sweat when he tried to make peace between the colored man and the cook on the Barry farm. No arrests were made after the lynching.",
+      "status": "ok",
+      "confidence": 0.9734315872192383,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 496,
+        "y0": 1161,
+        "x1": 894,
+        "y1": 1506
+      },
+      "text": "\"The woman and her son were under arrest on a charge of murdering Deputy Sheriff George H. Loney, who had discovered stolen goods in their home.\"\nThe Muskogee Scimitar says of this crime: \"On May 26 an article appeared in the Morning Phoenix, stating that Mrs. Laura Nelson, a colored woman, and her son, a boy fourteen years old, had been taken from the county jail at Okemah, the county seat of Okfuskee County, and mobbed by Negroes. All of which was true, except charging the crime to Negroes, which was a lie. The murderers evidently started this to hide their dastardly deed. The sheriff, the jailer and every official in the county know that not a single Negro was in",
+      "status": "ok",
+      "confidence": 0.9784952998161316,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 75,
+        "y0": 1330,
+        "x1": 471,
+        "y1": 1505
+      },
+      "text": "Because he was accused of pointing a gun at Mrs. Hendricks, wife of a planter, Henry Jackson, a Negro, was lynched by a mob, in the western part of Bullock County, Georgia. The mob was headed by the husband of Mrs. Hendricks, and it is said he tied the noose about the Negro's neck. After the Negro was suspended his body was",
+      "status": "ok",
+      "confidence": 0.9741941094398499,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 232,
+        "y0": 606,
+        "x1": 314,
+        "y1": 627
+      },
+      "text": "CRIME.",
+      "status": "ok",
+      "confidence": 0.891787588596344,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "abandon",
+      "bbox": {
+        "x0": 865,
+        "y0": 97,
+        "x1": 893,
+        "y1": 118
+      },
+      "text": "99",
+      "status": "ok",
+      "confidence": 0.8375372290611267,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.3,
+    "at": "2026-10-06T21:57:41+00:00"
+  }
+}

@@ -18,9 +18,9 @@
     "x0": 96,
     "y0": 90,
     "x1": 944,
-    "y1": 264
+    "y1": 215
    },
-   "text": "THE CRISIS\nA RECORD OF THE DARKER RACES",
+   "text": "THE CRISIS",
    "status": "ok",
    "confidence": 0.7402626276016235,
    "lines": [],
@@ -32,7 +32,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r0"
+  },
+  {
+   "id": "r0b",
+   "label": "title",
+   "bbox": {
+    "x0": 96,
+    "y0": 215,
+    "x1": 944,
+    "y1": 264
+   },
+   "text": "A RECORD OF THE DARKER RACES",
+   "status": "ok",
+   "confidence": 0.7402626276016235,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 97,
+    "y0": 78,
+    "x1": 947,
+    "y1": 269
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r0"
   },
   {
    "id": "r2",
@@ -3989,7 +4014,7 @@
  ],
  "clean": {
   "regions_before": 12,
-  "regions_after": 9,
+  "regions_after": 10,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 4.85,
@@ -3999,7 +4024,8 @@
    "drop r5 (text): non-latin hallucination 'حرَّجَة'",
    "drop r10 (text): non-latin hallucination 'حرَّجَة'",
    "reshape r11 (plain_text): lost 0% of its ink, gained 99%",
-   "reread r11: 'TEN CENTS A COPY' -> 'TEN CENTS A COPY'"
+   "reread r11: 'TEN CENTS A COPY' -> 'TEN CENTS A COPY'",
+   "split r0 at y=215 before 'A RECORD OF THE DARKER RACES'"
   ]
  }
 }

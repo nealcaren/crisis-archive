@@ -42,9 +42,9 @@
     "x0": 96,
     "y0": 256,
     "x1": 495,
-    "y1": 749
+    "y1": 724
    },
-   "text": "JIM CROW.\nBy what dread logic, by what grand neglect,\nWide as our nation, doth this relic last—\nThis relic of old sterile customs past\nLong since into deep shame without respect?\nEven I whom this contrivance fain would teach\nA low submission, pray within my soul\nThat these my masters may not reap the dole\nOf finding remedy beyond their reach.\nIn lofty mood I mount the reeking box,\nAnd travel through the land. So Terence once\nMoved in old Rome. So—wondrous paradox—\nMoved Esop in old Greece, the dwarf and dunce.\nThen I reflect how their immortal wit\nMakes the world laugh with mockery of it.\n—Leslie Pinckney Hill in The Public.\n\nPOLITICAL.",
+   "text": "JIM CROW.\nBy what dread logic, by what grand neglect,\nWide as our nation, doth this relic last—\nThis relic of old sterile customs past\nLong since into deep shame without respect?\nEven I whom this contrivance fain would teach\nA low submission, pray within my soul\nThat these my masters may not reap the dole\nOf finding remedy beyond their reach.\nIn lofty mood I mount the reeking box,\nAnd travel through the land. So Terence once\nMoved in old Rome. So—wondrous paradox—\nMoved Esop in old Greece, the dwarf and dunce.\nThen I reflect how their immortal wit\nMakes the world laugh with mockery of it.\n—Leslie Pinckney Hill in The Public.",
    "status": "ok",
    "confidence": 0.918872058391571,
    "lines": [],
@@ -56,7 +56,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r1b",
+   "label": "title",
+   "bbox": {
+    "x0": 96,
+    "y0": 724,
+    "x1": 495,
+    "y1": 749
+   },
+   "text": "POLITICAL.",
+   "status": "ok",
+   "confidence": 0.918872058391571,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 94,
+    "y0": 253,
+    "x1": 494,
+    "y1": 749
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
   },
   {
    "id": "r2",
@@ -177,7 +202,7 @@
  ],
  "clean": {
   "regions_before": 7,
-  "regions_after": 7,
+  "regions_after": 8,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.07,
@@ -186,7 +211,8 @@
    "reshape r0 (title): lost 0% of its ink, gained 66%",
    "reshape r3 (plain_text): lost 0% of its ink, gained 3%",
    "reread r0: 'Along the Color Line' -> 'Along the Color Line'",
-   "reread r3: 'Just before the election the administrat' -> 'Just before the election the administrat'"
+   "reread r3: 'Just before the election the administrat' -> 'Just before the election the administrat'",
+   "split r1 at y=724 before 'POLITICAL.'"
   ]
  }
 }

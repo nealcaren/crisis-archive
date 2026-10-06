@@ -1,0 +1,155 @@
+{
+  "page": 29,
+  "image": "images/page_29.jpg",
+  "width": 1077,
+  "height": 1623,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 326,
+        "y0": 96,
+        "x1": 911,
+        "y1": 207
+      },
+      "text": "157 feet with the hammer, 26 seconds in the low hurdles, and over 21 feet with the broad jump.",
+      "status": "ok",
+      "confidence": 0.9520632028579712,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "figure",
+      "bbox": {
+        "x0": 106,
+        "y0": 153,
+        "x1": 478,
+        "y1": 705
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.972348153591156,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 175,
+        "y0": 714,
+        "x1": 411,
+        "y1": 759
+      },
+      "text": "WILLIAM C. MATTHEWS\nHarvard's Famous Shortstop",
+      "status": "ok",
+      "confidence": 0.9057342410087585,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 779,
+        "x1": 493,
+        "y1": 1419
+      },
+      "text": "In the West, Oberlin College has had need of the skill, brawn and brains of the Negro. Merton Robinson for three years won the college letter, as catcher on the baseball nine, and last year his younger brother, Howard, finished a three years' position as catcher. These two brothers are the only colored men who have played on the baseball team. W. Washington was a celebrated halfback on the Oberlin team back in the nineties, and Pat Brown was given the record of the best guard in Ohio last year. Principal Ed. C. Williams, of M Street High School, of Washington, was a star college baseball player, and his feats on the diamond still live in the memory of the athletes of Western Reserve. He also won the century event in impressive fashion as a track athlete. Dan Fairfax and Ted Green were two college athletes whose fame as gridiron warriors was heralded throughout Ohio. Minnesota State College lends a bright star to the array of football lights; Marshall, all-western end for two years and head coach of the Minnesota team, was one of the most versatile of all players of the Western Conference teams. Jewett, back in the nineties, was the great fullback of the Michigan University team.",
+      "status": "ok",
+      "confidence": 0.9776563048362732,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 96,
+        "y0": 1421,
+        "x1": 491,
+        "y1": 1503
+      },
+      "text": "Of the Negroes in the limelight today, we have at Harvard a man whose feats will soon bring him into public notice. This athlete, Cable, has done",
+      "status": "ok",
+      "confidence": 0.9612512588500977,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "abandon",
+      "bbox": {
+        "x0": 880,
+        "y0": 96,
+        "x1": 919,
+        "y1": 118
+      },
+      "text": "117",
+      "status": "ok",
+      "confidence": 0.8077530264854431,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 516,
+        "y0": 209,
+        "x1": 911,
+        "y1": 713
+      },
+      "text": "Leonard Lapsley at the University has had the grit and nerve to withstand the attacks of race prejudice, and is showing good form in the sprint events. Fred White, of the University of Pennsylvania, during the past season captured first place in the fifty-yard dash at the indoor games of the Middle Atlantic A. A. U., held on Young's Pier, in Atlantic City.\n\nJohn Pinkett, of Amherst, is an athlete whose ability has overshadowed all others in athletic performances. Two years ago he was the only man at his college to win a place in the New England Intercollegiate, and for two seasons has been considered the best man in New England playing center. His playing has compared favorably with his famous predecessor, Lewis. Ed Gray, of Howard University, another former M Street High School boy, created a sensation during his stay at Amherst by being chosen the third all-American halfback, and is now considered the best halfback in the South.",
+      "status": "ok",
+      "confidence": 0.9781047701835632,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 716,
+        "x1": 911,
+        "y1": 817
+      },
+      "text": "There are many colored athletes in the secondary schools and colleges of the South whose names will yet find a place with the names of former great athletes on the roll of honor.",
+      "status": "ok",
+      "confidence": 0.9704650640487671,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "figure",
+      "bbox": {
+        "x0": 528,
+        "y0": 859,
+        "x1": 904,
+        "y1": 1452
+      },
+      "text": "K",
+      "status": "ok",
+      "confidence": 0.9723535776138306,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 591,
+        "y0": 1467,
+        "x1": 839,
+        "y1": 1506
+      },
+      "text": "LEONARD LAPSLEY\nOf the University of Michigan",
+      "status": "ok",
+      "confidence": 0.8214893341064453,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.8,
+    "at": "2026-10-06T21:59:53+00:00"
+  }
+}

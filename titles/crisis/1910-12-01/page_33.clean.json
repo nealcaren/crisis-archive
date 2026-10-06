@@ -2667,7 +2667,8 @@
     ]
    ],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'JUST OUT' inside box; split at y=345 didn't verify"
   },
   {
    "id": "r6",
@@ -4574,7 +4575,8 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'J. M. CERTAIN' inside box; split at y=1168 didn't verify"
   },
   {
    "id": "r13",
@@ -4597,7 +4599,8 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'BROOKLYN, N. Y.' inside box; split at y=1313 didn't verify"
   },
   {
    "id": "r14",
@@ -4650,7 +4653,11 @@
   "regions_before": 15,
   "regions_after": 9,
   "lost_words": [],
-  "needs_review": [],
+  "needs_review": [
+   "r4",
+   "r12",
+   "r13"
+  ],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 5,
   "log": [
@@ -4661,7 +4668,10 @@
    "drop r10 (text): non-latin hallucination 'حرَّجَة'",
    "drop r11 (text): non-latin hallucination 'حرَّجَة'",
    "reshape r7 (plain_text): lost 0% of its ink, gained 35%",
-   "reread r7: 'S5 W. 135th ST., NEW YORK CITY\\nCAPITAL S' -> '35 W. 135th ST., NEW YORK CITY\\nCAPITAL S'"
+   "reread r7: 'S5 W. 135th ST., NEW YORK CITY\\nCAPITAL S' -> '35 W. 135th ST., NEW YORK CITY\\nCAPITAL S'",
+   "REVIEW r4: heading 'JUST OUT' inside box; split at y=345 didn't verify",
+   "REVIEW r12: heading 'J. M. CERTAIN' inside box; split at y=1168 didn't verify",
+   "REVIEW r13: heading 'BROOKLYN, N. Y.' inside box; split at y=1313 didn't verify"
   ]
  }
 }

@@ -41,9 +41,9 @@
     "x0": 79,
     "y0": 154,
     "x1": 476,
-    "y1": 606
+    "y1": 580
    },
-   "text": "the Negro in America, as described in the circular above mentioned, are mainly due to the apathy in regard to similar affairs of other people and to the general absence of interest of the world at large in humane affairs, we are of the opinion that everybody who means well and who wishes to change present living conditions and circumstances must realize that the interest in humanity must find its foundation in the depths of his own heart; that such social evils must be attacked at their source, and overcome there.\n\nInfluential corporations and persons should be asked humbly but earnestly to take the initiative in establishing an international committee (such, for instance, as the \"Association Internationale pour la lutte contre le chomàge\"), and we request the press to be so kind as to publish this motion.\n\nFROM A RUSSIAN REVOLUTIONIST.",
+   "text": "the Negro in America, as described in the circular above mentioned, are mainly due to the apathy in regard to similar affairs of other people and to the general absence of interest of the world at large in humane affairs, we are of the opinion that everybody who means well and who wishes to change present living conditions and circumstances must realize that the interest in humanity must find its foundation in the depths of his own heart; that such social evils must be attacked at their source, and overcome there.\n\nInfluential corporations and persons should be asked humbly but earnestly to take the initiative in establishing an international committee (such, for instance, as the \"Association Internationale pour la lutte contre le chomàge\"), and we request the press to be so kind as to publish this motion.",
    "status": "ok",
    "confidence": 0.975501537322998,
    "lines": [],
@@ -55,7 +55,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r1"
+  },
+  {
+   "id": "r1b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 79,
+    "y0": 580,
+    "x1": 476,
+    "y1": 606
+   },
+   "text": "FROM A RUSSIAN REVOLUTIONIST.",
+   "status": "ok",
+   "confidence": 0.975501537322998,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 79,
+    "y0": 152,
+    "x1": 474,
+    "y1": 605
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r1"
   },
   {
    "id": "r2",
@@ -64,9 +89,9 @@
     "x0": 82,
     "y0": 614,
     "x1": 478,
-    "y1": 1072
+    "y1": 1050
    },
-   "text": "\"I was arrested for intellectual and cultural influence upon my fellow exiles and transported to the wild banks of the River Pecpora, near the North Pole. Have we not to struggle with the same inaccessible wall of prejudice and hatred, nursed by centuries? I shall try to know better the history and modern condition of your race, whose good nature and ingenuous beauty of a good and open heart I admired from childhood, reading descriptions of voyages into Africa. Perhaps it does not suit me, as a stranger, to criticise the words of some honorable men of your race, but they are not right who speak about the spiritual submission of the Negroes. There is something that nobody of us can give up—it's the manly pride and self-respect. And when the intelligent part of a people is given up they commit a crime toward their nation. And never will it be redeemed.\"\n\nFROM A NORTHERN WHITE MAN.",
+   "text": "\"I was arrested for intellectual and cultural influence upon my fellow exiles and transported to the wild banks of the River Pecpora, near the North Pole. Have we not to struggle with the same inaccessible wall of prejudice and hatred, nursed by centuries? I shall try to know better the history and modern condition of your race, whose good nature and ingenuous beauty of a good and open heart I admired from childhood, reading descriptions of voyages into Africa. Perhaps it does not suit me, as a stranger, to criticise the words of some honorable men of your race, but they are not right who speak about the spiritual submission of the Negroes. There is something that nobody of us can give up—it's the manly pride and self-respect. And when the intelligent part of a people is given up they commit a crime toward their nation. And never will it be redeemed.\"",
    "status": "ok",
    "confidence": 0.9797887206077576,
    "lines": [],
@@ -78,7 +103,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 82,
+    "y0": 1050,
+    "x1": 478,
+    "y1": 1072
+   },
+   "text": "FROM A NORTHERN WHITE MAN.",
+   "status": "ok",
+   "confidence": 0.9797887206077576,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 81,
+    "y0": 613,
+    "x1": 476,
+    "y1": 1072
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
   },
   {
    "id": "r3",
@@ -156,9 +206,9 @@
     "x0": 499,
     "y0": 168,
     "x1": 895,
-    "y1": 579
+    "y1": 554
    },
-   "text": "\"I know that we white, or so-called white people, are prejudiced against the darker races of the human family. It is, indeed, unfortunate that we are so. I am a native of a Southern State. I was much surprised to find, when I went north of the Mason and Dixon line, to find, in some instances, the prejudice stronger against the black man than it was in the South.\n\n\"Experience has long since taught me that color does not make the man. I have three sons all of whom have attended the same school with black boys. We have endeavored to teach them that color was only 'skin deep,' and that true manhood and womanhood does not belong to any particular race, and I think that we have succeeded in doing so.\"\n\nFROM A COLORED MAN.",
+   "text": "\"I know that we white, or so-called white people, are prejudiced against the darker races of the human family. It is, indeed, unfortunate that we are so. I am a native of a Southern State. I was much surprised to find, when I went north of the Mason and Dixon line, to find, in some instances, the prejudice stronger against the black man than it was in the South.\n\n\"Experience has long since taught me that color does not make the man. I have three sons all of whom have attended the same school with black boys. We have endeavored to teach them that color was only 'skin deep,' and that true manhood and womanhood does not belong to any particular race, and I think that we have succeeded in doing so.\"",
    "status": "ok",
    "confidence": 0.9764788150787354,
    "lines": [],
@@ -291,7 +341,33 @@
    ],
    "changed": true,
    "text_before_clean": "\"I know that we white, or so-called white people, are prejudiced against the darker races of the human family. It is, indeed, unfortunate that we are so. I am a native of a Southern State. I was much surprised to find, when I went north of the Mason and Dixon line, to find, in some instances, the prejudice stronger against the black man than it was in the South.\n\n\"Experience has long since taught me that color does not make the man. I have three sons all of whom have attended the same school with black boys. We have endeavored to teach them that color was only 'skin deep,' and that true manhood and womanhood does not belong to any particular race, and I think that we have succeeded in doing so.\"\n\nFROM A COLORED MAN.",
-   "role": "text"
+   "role": "text",
+   "split_from": "r6"
+  },
+  {
+   "id": "r6b",
+   "label": "title",
+   "bbox": {
+    "x0": 499,
+    "y0": 554,
+    "x1": 895,
+    "y1": 579
+   },
+   "text": "FROM A COLORED MAN.",
+   "status": "ok",
+   "confidence": 0.9764788150787354,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 499,
+    "y0": 156,
+    "x1": 893,
+    "y1": 579
+   },
+   "exclude": [],
+   "changed": true,
+   "text_before_clean": "\"I know that we white, or so-called white people, are prejudiced against the darker races of the human family. It is, indeed, unfortunate that we are so. I am a native of a Southern State. I was much surprised to find, when I went north of the Mason and Dixon line, to find, in some instances, the prejudice stronger against the black man than it was in the South.\n\n\"Experience has long since taught me that color does not make the man. I have three sons all of whom have attended the same school with black boys. We have endeavored to teach them that color was only 'skin deep,' and that true manhood and womanhood does not belong to any particular race, and I think that we have succeeded in doing so.\"\n\nFROM A COLORED MAN.",
+   "role": "text",
+   "split_from": "r6"
   },
   {
    "id": "r7",
@@ -342,14 +418,17 @@
  ],
  "clean": {
   "regions_before": 9,
-  "regions_after": 9,
+  "regions_after": 12,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 1,
   "log": [
    "reshape r6 (title): lost 5% of its ink, gained 0%",
-   "reread r6: '\"I know that we white, or so-called whit' -> '\"I know that we white, or so-called whit'"
+   "reread r6: '\"I know that we white, or so-called whit' -> '\"I know that we white, or so-called whit'",
+   "split r1 at y=580 before 'FROM A RUSSIAN REVOLUTIONIST.'",
+   "split r2 at y=1050 before 'FROM A NORTHERN WHITE MAN.'",
+   "split r6 at y=554 before 'FROM A COLORED MAN.'"
   ]
  }
 }

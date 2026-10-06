@@ -1,0 +1,127 @@
+{
+  "page": 34,
+  "image": "images/page_34.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 587,
+        "y0": 137,
+        "x1": 990,
+        "y1": 254
+      },
+      "text": "the women have paid more than two thirds of the purchase price of their home, and have thoroughly established themselves in the confidence of the public by their fine business acumen and high ideals.",
+      "status": "ok",
+      "confidence": 0.7943727970123291,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 164,
+        "y0": 139,
+        "x1": 563,
+        "y1": 266
+      },
+      "text": "tional Training School, New York City, preparing for future service in Association work. The city Association presents a field of immense opportunity, as yet, scarcely appreciated.",
+      "status": "ok",
+      "confidence": 0.9567972421646118,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 588,
+        "y0": 254,
+        "x1": 989,
+        "y1": 734
+      },
+      "text": "The Norfolk Association, co-operating with the Travelers' Aid and Protective Association, is meeting a long-felt need of that seaport town in giving its large number of migratory young women respectable and comfortable rooms, and it has a wonderful opportunity to pour something of moral and spiritual fragrance into their lives. In one year 702 steamers and trains were met and 479 girls assisted in various ways. So effective has been the work of this association that its very strong president, Mrs. Laura E. Titus, who has been one of the foremost leaders in all reform and social movements of her State, was invited to active membership in the white Association of social workers of Norfolk and vicinity and was accorded every courtesy. This is surely a long step in advance in the annals of Virginia. St. Paul, although in the far northwest, has realized the value of Association work, and is calling to the national board for a trained secretary.",
+      "status": "ok",
+      "confidence": 0.9807456731796265,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 164,
+        "y0": 269,
+        "x1": 561,
+        "y1": 998
+      },
+      "text": "Four years ago we reported four Associations; we must now mention five others, with beginnings in several additional cities, and calls for organization coming from still other cities. For want of close supervision, intelligent volunteer service and money, the problem of maintaining a city Association is a difficult one; but the results already attained in New York, Brooklyn, Baltimore, Washington, Norfolk and St. Paul prove, without doubt, the possibility and value of the movement. The New York Association, providing rooms which are constantly filled with girls and women from other cities, finding employment daily for those who seek it, offering opportunities for classwork and emphasizing the value of practical Christianity in a girl's life, has already overtaxed its present quarters, and is demanding a large and well-equipped building to do a greater work for the restless, surging army of women of that great metropolis. In Brooklyn the home life and social atmosphere are the chief charms, and they are so strong that its building is constantly crowded, and one appeals often vainly for room and board. Girls from New England, Canada, Colorado, California, Missouri, Georgia, Florida and the Carolinas have lived in this home and returned to their own distant homes full of praise for the Brooklyn Association. Last year 110 women found permanent positions through this Association, while 544 were given day or temporary employment.",
+      "status": "ok",
+      "confidence": 0.9777970314025879,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 587,
+        "y0": 735,
+        "x1": 987,
+        "y1": 1099
+      },
+      "text": "Miss Cecelia Holloway, a young college woman of exceptional ability and strong personality, assumed the position of Student Secretary of the National Board last fall, when Miss Ross became Mrs. Haynes, and has been following the lead of her predecessor with splendid results. The city work, under the supervision of Mrs. Haynes and the writer, has reached a psychological point in its development that will present in the near future some very positive results in increased volunteer service on the part of our public-spirited women, in a more enthusiastic response to the call of the secretaryship by our best-educated young women, and larger facilities in buildings and equipment.",
+      "status": "ok",
+      "confidence": 0.9786992073059082,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 164,
+        "y0": 1002,
+        "x1": 832,
+        "y1": 1539
+      },
+      "text": "Baltimore owns its building and is doing a work similar in its influence and results to New York, with much stress placed on the Christian life and usefulness of its members. In Washington our public-spirited women enthusiastic response to secretaryship by our best women, and larger facility and equipment.\n\nAN EVENING IN THE NEW YORK ASSOCIATION",
+      "status": "ok",
+      "confidence": 0.9720337986946106,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 165,
+        "y0": 89,
+        "x1": 203,
+        "y1": 111
+      },
+      "text": "122",
+      "status": "ok",
+      "confidence": 0.7941334843635559,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "abandon",
+      "bbox": {
+        "x0": 488,
+        "y0": 87,
+        "x1": 650,
+        "y1": 111
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8786506056785583,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.5,
+    "at": "2026-10-06T22:00:32+00:00"
+  }
+}

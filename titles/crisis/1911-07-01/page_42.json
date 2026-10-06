@@ -1,0 +1,253 @@
+{
+  "page": 42,
+  "image": "images/page_42.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 405,
+        "y0": 95,
+        "x1": 766,
+        "y1": 121
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8894010782241821,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "figure",
+      "bbox": {
+        "x0": 195,
+        "y0": 149,
+        "x1": 536,
+        "y1": 232
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9117180109024048,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 600,
+        "y0": 151,
+        "x1": 996,
+        "y1": 474
+      },
+      "text": "Bom. 2220 Cen. 6322\n\nVan Noy Printing Co.\n\n100 Linen Finish Cards by Mail, 50c.\n\nCOMMERCIAL PRINTING\nSOCIETY PRINTING\nBOOK AND JOB PRINTING\n\n2315 MARKET ST. ST. LOUIS, MO.",
+      "status": "ok",
+      "confidence": 0.7243039011955261,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 168,
+        "y0": 235,
+        "x1": 569,
+        "y1": 519
+      },
+      "text": "SEND US 50 CENTS for a beautiful 1 1/4-inch messaline silk shirred elastic belt, with a fine gilt or gray pearl trimmed buckle. All colors. State size. Buckle alone 25c. If not satisfactory, money refunded. Send for free catalogue.\nPERFECTION NOVELTY CO.\n102-106 WOOSTER STREET NEW YORK\nA CRISIS representative has visited the factory of the Perfection Novelty Co., and was favorably impressed with the numerous bargains.\n\nSeventeen Years' Experience\nWORK TURNED OUT PROMPTLY\nMRS. G. B. NEEDLES\nLate with Broadway houses",
+      "status": "ok",
+      "confidence": 0.8657723665237427,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 591,
+        "y0": 519,
+        "x1": 993,
+        "y1": 633
+      },
+      "text": "CORNS, CALLOUSES, BUNIONS, CHILBLAINS positively removed by using Dr. Moore's wonderful discovery or your money refunded. Write to-day, explaining your troubles, with stamped envelope, your name and address.",
+      "status": "ok",
+      "confidence": 0.9377934336662292,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 166,
+        "y0": 549,
+        "x1": 566,
+        "y1": 615
+      },
+      "text": "All kinds of furs remodelled, repaired and re-lined. White furs cleaned, equal to new. Coats guaranteed to fit. Prices reasonable.\n24 WEST 135TH STREET NEW YORK",
+      "status": "ok",
+      "confidence": 0.7003107666969299,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 654,
+        "y0": 635,
+        "x1": 930,
+        "y1": 697
+      },
+      "text": "DR. E. L. MOORE\nC141 MONCALM STREET, E.\nDETROIT, MICH.",
+      "status": "ok",
+      "confidence": 0.894374430179596,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "figure",
+      "bbox": {
+        "x0": 168,
+        "y0": 654,
+        "x1": 562,
+        "y1": 1159
+      },
+      "text": "No. 4 Special Buggy\n$65.00\nA value unequaled. Sold on\n$1.00 Profit Margin. Write\nfor prices and other styles.\nSend for catalog.\nC.R. Patterson & Sons\nGREENFIELD, OHIO\nLargest Negro carriage concern in the United States",
+      "status": "ok",
+      "confidence": 0.5676226019859314,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 590,
+        "y0": 765,
+        "x1": 994,
+        "y1": 1071
+      },
+      "text": "The Rock City Sanitarium\nCorner Foster and Stewart Streets,\nNASHVILLE, TENN.\nA quiet health home for invalids and\nsufferers from chronic ailments. Located\non an elevation, surrounded by spacious,\nshady lawns.\nFully equipped for the successful\ntreatment of diseases of the stomach,\nliver, kidneys, blood and nerves, by other\nmethods than drugs.",
+      "status": "ok",
+      "confidence": 0.9596155881881714,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 590,
+        "y0": 1076,
+        "x1": 990,
+        "y1": 1386
+      },
+      "text": "The famous Battle Creek Methods—water, in the form of baths of all kinds, sprays, douches, packs, etc., electricity, massage, Swedish movements, dieting, etc., are used under the direction of a physician of fifteen years' experience in these procedures and a graduate of the Battle Creek Sanitarium. Surgical and obstetrical cases received in special wards. Lady physician gives especial attention to diseases of women and children. Rates, $10 per week and upwards. For further information address",
+      "status": "ok",
+      "confidence": 0.9774304032325745,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 162,
+        "y0": 1198,
+        "x1": 563,
+        "y1": 1395
+      },
+      "text": "To Colored People\nFOR SALE—We have houses from $1,000 to $10,000. Our city is the capital of Ohio and a great manufacturing center—a good place to locate, plenty of work, a good place to locate for business. Can sell you a house for $50, $100 to $500 down, balance like rent. For speculating houses or business places, $1,000 to $5,000 down, balance on long-time payments. Any of these are in good locations. Write for further information.",
+      "status": "ok",
+      "confidence": 0.9370522499084473,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 590,
+        "y0": 1397,
+        "x1": 989,
+        "y1": 1470
+      },
+      "text": "THE ROCK CITY SANITARIUM\nNashville, Tenn. Telephone Walnut 87\nVISITORS ALWAYS WELCOME",
+      "status": "ok",
+      "confidence": 0.6644371747970581,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 198,
+        "y0": 1401,
+        "x1": 525,
+        "y1": 1419
+      },
+      "text": "THIS IS A COLORED ENTERPRISE",
+      "status": "ok",
+      "confidence": 0.30865299701690674,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 160,
+        "y0": 1401,
+        "x1": 563,
+        "y1": 1512
+      },
+      "text": "EDWARD A. SHANKLIN\nReal Estate\n1218 1/2 Mt. Vernon Ave., Columbus, O.",
+      "status": "ok",
+      "confidence": 0.414700448513031,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "abandon",
+      "bbox": {
+        "x0": 481,
+        "y0": 1522,
+        "x1": 665,
+        "y1": 1542
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7849808931350708,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 169,
+        "y0": 94,
+        "x1": 210,
+        "y1": 117
+      },
+      "text": "130",
+      "status": "ok",
+      "confidence": 0.8229712247848511,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 269,
+        "y0": 525,
+        "x1": 465,
+        "y1": 542
+      },
+      "text": "PRACTICAL FURRIER",
+      "status": "ok",
+      "confidence": 0.7603656053543091,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 12.4,
+    "at": "2026-10-06T22:03:25+00:00"
+  }
+}

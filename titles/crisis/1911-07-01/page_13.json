@@ -1,0 +1,155 @@
+{
+  "page": 13,
+  "image": "images/page_13.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 301,
+        "y0": 96,
+        "x1": 675,
+        "y1": 121
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8762322664260864,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 82,
+        "y0": 146,
+        "x1": 475,
+        "y1": 452
+      },
+      "text": "of the fugue consists of the first four measures of the Negro Spiritual, 'Old Ship of Zion,' as noted by Jeannette Robinson Murphy in 'Southern Thoughts for Northern Thinkers.' The fugue ends in a broad and 'quasi maestoso' statement of the theme, in augmentation. It is given out by the brass instruments and is interspersed with fragments of the roustabout's song, also in augmentation. After this there is a return to the first theme and after considerable recapitulation and the development of a different ending or coda, the composition ends in an orgy of jollity and ragtime.\"",
+      "status": "ok",
+      "confidence": 0.9757079482078552,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 500,
+        "y0": 149,
+        "x1": 895,
+        "y1": 643
+      },
+      "text": "Board. The idea is that the Negroes may be admitted on certain days, to be designated by the Park Board, probably not oftener than twice a month, or possibly once a week. The chairman of the board believes that the colored children who are pupils in the city schools should be admitted when accompanied by their teachers, and that possibly other Negroes, upon obtaining special permission from the Park Board, including the parents of the school children, might be admitted on these days without any danger of friction between the races.\n\nHarriet Tubman, the famous colored woman who helped so many slaves to escape before the Civil War, has been taken to the Harriet Tubman Home for the Aged, which she founded in Rochester, to end her days. She is between 95 and 100 years old. It is said she piloted over 300 slaves to freedom. She is now poor, but friends are collecting the money to pay for a nurse for her.",
+      "status": "ok",
+      "confidence": 0.9775702953338623,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 79,
+        "y0": 468,
+        "x1": 474,
+        "y1": 911
+      },
+      "text": "At the New York Hippodrome a spectacle called \"Marching Through Georgia\" was presented, which called for a number of colored players. The author says, speaking of the rehearsals: \"One thing I noted with great satisfaction was the intelligence and earnestness they all showed in grasping my effort to inject detail into their work wherever the action made its introduction logical, and I feel safe in offering a challenge, on their behalf, to any other body of so-called 'extra people,' whatever their race, employed in any current attraction to even approach them in this particular. No matter in which direction one looks during the plantation scene, one will find that there is something being done that is thoroughly in harmony with the main action, and being done not perfunctorily and mechanically, but with the zest and intelligence that would do credit to seasoned performers.",
+      "status": "ok",
+      "confidence": 0.9784448742866516,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 499,
+        "y0": 657,
+        "x1": 894,
+        "y1": 1176
+      },
+      "text": "The Woman's Suffrage party has just appointed two colored women as election district captains in New York City. It is rumored that similar appointments will follow in districts where the colored vote predominates.\n\nTwo weeks ago a little colored boy was taken to New Rochelle, N. Y., and there abandoned. Pending a decision as to what should be done with him the child was kept in the police station which is in the same buildings with the other city departments of the town. He heard the men complaining of the rats which were so large they frightened even the cat, and having nothing to do he secured a bit of cheese, fastened it to the end of a fishing line and dropped it down a rat hole. In the three days he was kept in the police station he caught sixty-seven rats, and before he was sent off to an asylum he was taken to the mayor to be thanked for his services. A collection was taken up to buy him a little watch.",
+      "status": "ok",
+      "confidence": 0.9798740744590759,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 77,
+        "y0": 912,
+        "x1": 472,
+        "y1": 1336
+      },
+      "text": "\"An incident proving the ability of Negroes to 'harmonize, musically, without direction, occurred at an early rehearsal. At one point in the play an old colored preacher enters from one side singing the first stanza of 'Old Black Joe.' The 'extra people'—the 'slaves'—are supposed to be off the stage, but in the rehearsals, when there was no scenery and property, the company was grouped in a large half circle near the back of the stage, listening to the familiar words of the song. When the singer had reached the first strain of the chorus, 'I'm coming,' I merely raised my hand with a comprehensive sweep, and instantly the refrain was answered by a burst of harmony so full and sweet that it made 'the shivers go up my back.' That was all the rehearsals needed for 'Old Black Joe.' The colored singers did the rest themselves.\"",
+      "status": "ok",
+      "confidence": 0.9795218110084534,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 497,
+        "y0": 1193,
+        "x1": 891,
+        "y1": 1501
+      },
+      "text": "On her arrival at a hotel in New York the other day a young lady from Savannah discovered that she had left three diamond rings, said to be worth nearly $2,000 in a Pullman car. She remembered having placed them on the ledge of the window near which she was sitting. She informed the room clerk of the hotel and he immediately called up the railroad company. On her return from the theatre one night the owner of the rings was told that the porter of the Pullman car had found the rings and that she would receive them at the hotel.",
+      "status": "ok",
+      "confidence": 0.9771446585655212,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 74,
+        "y0": 1424,
+        "x1": 470,
+        "y1": 1503
+      },
+      "text": "A plan to admit colored citizens to the Overton Park zoo has been discussed by the Park Commission of Memphis, Tenn., at a special meeting of the Park",
+      "status": "ok",
+      "confidence": 0.9629024863243103,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 168,
+        "y0": 1394,
+        "x1": 375,
+        "y1": 1416
+      },
+      "text": "MISCELLANEOUS.",
+      "status": "ok",
+      "confidence": 0.8963682055473328,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 856,
+        "y0": 98,
+        "x1": 892,
+        "y1": 119
+      },
+      "text": "101",
+      "status": "ok",
+      "confidence": 0.8242998123168945,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.1,
+    "at": "2026-10-06T21:58:00+00:00"
+  }
+}

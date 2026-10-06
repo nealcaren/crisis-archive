@@ -108,9 +108,11 @@ if __name__ == "__main__":
     ap.add_argument("issue"); ap.add_argument("query", nargs="?")
     ap.add_argument("--id"); ap.add_argument("--title", default="crisis")
     ap.add_argument("--out", default="boxwork/clips")
+    ap.add_argument("--toc", help="toc.json to use (default: the issue's own)")
     a = ap.parse_args()
     issue_dir = ROOT / "titles" / a.title / a.issue
-    art = find_article(json.loads((issue_dir / "toc.json").read_text()), a.query, a.id)
+    toc_path = Path(a.toc) if a.toc else issue_dir / "toc.json"
+    art = find_article(json.loads(toc_path.read_text()), a.query, a.id)
     text, panels, warnings = clip(issue_dir, art)
     out = ROOT / a.out; out.mkdir(parents=True, exist_ok=True)
     slug = re.sub(r"[^a-z0-9]+", "-", (art["title"] or art["id"]).lower()).strip("-")[:40]

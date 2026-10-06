@@ -4500,7 +4500,9 @@
    ],
    "changed": true,
    "text_before_clean": "THE CRISIS ADVERTISER",
-   "role": "text"
+   "role": "text",
+   "text_reread": "The text is a blank page with no content.",
+   "needs_review": "reread lost words: advertiser crisis"
   },
   {
    "id": "r1",
@@ -8682,9 +8684,9 @@
     "x0": 618,
     "y0": 1011,
     "x1": 1299,
-    "y1": 1147
+    "y1": 1083
    },
-   "text": "253 West 134th Street\nNEW YORK CITY",
+   "text": "253 West 134th Street",
    "status": "ok",
    "confidence": 0.7790119647979736,
    "lines": [],
@@ -8696,7 +8698,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "title",
+   "bbox": {
+    "x0": 618,
+    "y0": 1083,
+    "x1": 1299,
+    "y1": 1147
+   },
+   "text": "NEW YORK CITY",
+   "status": "ok",
+   "confidence": 0.7790119647979736,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 612,
+    "y0": 1001,
+    "x1": 1302,
+    "y1": 1157
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
   },
   {
    "id": "r4",
@@ -8885,9 +8912,10 @@
  ],
  "clean": {
   "regions_before": 12,
-  "regions_after": 12,
+  "regions_after": 13,
   "lost_words": [],
   "needs_review": [
+   "r0",
    "r1"
   ],
   "unowned_ink_pct": 0.5,
@@ -8895,9 +8923,11 @@
   "log": [
    "reshape r0 (abandon): lost 0% of its ink, gained 92%",
    "reshape r1 (title): lost 0% of its ink, gained 66%",
-   "reread r0: 'THE CRISIS ADVERTISER' -> 'THE CRISIS ADVERTISER'",
+   "reread r0: 'THE CRISIS ADVERTISER' -> 'The text is a blank page with no content'",
    "reread r1: 'ONE OF THE SUREST WAYS TO SUCCEED IN LIF' -> ''",
-   "REVIEW r1: reread lost life succeed take ways; kept old text"
+   "REVIEW r0: reread lost advertiser crisis; kept old text",
+   "REVIEW r1: reread lost life succeed take ways; kept old text",
+   "split r3 at y=1083 before 'NEW YORK CITY'"
   ]
  }
 }

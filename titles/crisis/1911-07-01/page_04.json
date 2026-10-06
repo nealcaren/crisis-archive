@@ -1,0 +1,309 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 354,
+        "y0": 81,
+        "x1": 712,
+        "y1": 158
+      },
+      "text": "THE CRISIS ADVERTISER\nEDUCATIONAL DIRECTORY",
+      "status": "ok",
+      "confidence": 0.8065294623374939,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 558,
+        "y0": 169,
+        "x1": 904,
+        "y1": 215
+      },
+      "text": "FORWARD!",
+      "status": "ok",
+      "confidence": 0.8478423357009888,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 518,
+        "y0": 229,
+        "x1": 954,
+        "y1": 791
+      },
+      "text": "March Your Son Off to Wilberforce\n\nThe only school for Negro Youth which has a Military Department equipped by the National Government and commanded by a detailed United States Army Officer.\n\nDEPARTMENTS:\n\nMILITARY CLASSICAL THEOLOGICAL\nNORMAL SCIENTIFIC MUSICAL\nBUSINESS TECHNICAL PREPARATORY\n\nBanking taught by the actual operations in the Students' Savings Bank. Twelve Industries, 180 acres of beautiful campus, Ten Buildings. Healthful surroundings, exceptional community. Maintained in part by the State of Ohio.\n\nW. S. SCARBOROUGH, President.\nWM. A. JOINER, Superintendent, C. N. & I.",
+      "status": "ok",
+      "confidence": 0.9714434146881104,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 545,
+        "y0": 823,
+        "x1": 951,
+        "y1": 909
+      },
+      "text": "Washington Conservatory of Music and School of Expression 902 T STREET, WASHINGTON, D. C.",
+      "status": "ok",
+      "confidence": 0.9475093483924866,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 549,
+        "y0": 915,
+        "x1": 951,
+        "y1": 1147
+      },
+      "text": "LARGE AND COMPETENT FACULTY\n\nDEPARTMENTS\nPiano, Voice and Violin, Piano Tuning, Theory Analysis, Harmony, Counterpoint, Fugue, Vocal Expression, Wind Instruments, History of Music, Methods.\n\nScholarships Awarded Artists' Recitals\nHARRIET GIBBS-MARSHALL, President.\nGEORGE WILLIAM OOK, Treasurer.\nABBY WILLIAMS, Secretary.\nLEWIS G. GREGORY, Financial Secretary.\nANNIE E. GRINAGE.",
+      "status": "ok",
+      "confidence": 0.9124413728713989,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 548,
+        "y0": 1177,
+        "x1": 953,
+        "y1": 1222
+      },
+      "text": "Virginia Union University",
+      "status": "ok",
+      "confidence": 0.8520398736000061,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 549,
+        "y0": 1272,
+        "x1": 952,
+        "y1": 1304
+      },
+      "text": "A College Department, of high standards and modern curriculum.",
+      "status": "ok",
+      "confidence": 0.7269360423088074,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 550,
+        "y0": 1311,
+        "x1": 954,
+        "y1": 1478
+      },
+      "text": "A Theological Department, with all subjects generally required in the best theological seminaries.\n\nAn Academy, with manual training, giving a preparation for life or for college.\n\nThe positive moral and religious aim of the school, its high standards of entrance and of class work, its fine new buildings and well-equipped laboratories and library, prepare a faithful student for a life of wide usefulness.",
+      "status": "ok",
+      "confidence": 0.8753933310508728,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 1489,
+        "x1": 954,
+        "y1": 1595
+      },
+      "text": "GEORGE RICE HOVEY President\nTHE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7247645258903503,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "figure",
+      "bbox": {
+        "x0": 136,
+        "y0": 187,
+        "x1": 443,
+        "y1": 790
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9197589159011841,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 128,
+        "y0": 823,
+        "x1": 524,
+        "y1": 1048
+      },
+      "text": "Atlanta University\nIs beautifully located in the City of Atlanta, Ga. The courses of study include High School, Normal School and College, with manual training and domestic science. Among the teachers are graduates of Yale, Harvard, Dartmouth, Smith and Wellesley. Forty-one years of successful work have been completed. Students come from all parts of the South. Graduates are almost universally successful.",
+      "status": "ok",
+      "confidence": 0.9635534882545471,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 125,
+        "y0": 1086,
+        "x1": 522,
+        "y1": 1115
+      },
+      "text": "President EDWARD T. WARE",
+      "status": "ok",
+      "confidence": 0.7240774035453796,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 125,
+        "y0": 1178,
+        "x1": 525,
+        "y1": 1282
+      },
+      "text": "Wilberforce University\nWILBERFORCE, OHIO\nOpens first Tuesday in September",
+      "status": "ok",
+      "confidence": 0.8996333479881287,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 125,
+        "y0": 1291,
+        "x1": 527,
+        "y1": 1455
+      },
+      "text": "Located in Greene County, $3\\frac{1}{4}$ miles from Xenia, Ohio. Healthful surroundings. Refined community. Faculty of 32 members. Expenses low. Classical and Scientific, Theological, Preparatory, Music, Military, Normal and Business Departments. Ten industries taught. Great opportunities for High School graduates entering College or Professional Courses. Two new buildings for girls to be erected this year—one now in process of erection, and the other to be begun in the spring. Catalogue and Special Information Furnished.",
+      "status": "ok",
+      "confidence": 0.9656309485435486,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 184,
+        "y0": 1485,
+        "x1": 467,
+        "y1": 1504
+      },
+      "text": "W. S. SCARBOROUGH, President.",
+      "status": "ok",
+      "confidence": 0.7318312525749207,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 119,
+        "y0": 84,
+        "x1": 148,
+        "y1": 107
+      },
+      "text": "92",
+      "status": "ok",
+      "confidence": 0.8027965426445007,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 146,
+        "y0": 1058,
+        "x1": 418,
+        "y1": 1076
+      },
+      "text": "For further information address",
+      "status": "ok",
+      "confidence": 0.8610348701477051,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 259,
+        "y0": 1123,
+        "x1": 392,
+        "y1": 1143
+      },
+      "text": "ATLANTA, GA.",
+      "status": "ok",
+      "confidence": 0.678878903388977,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "title",
+      "bbox": {
+        "x0": 295,
+        "y0": 1462,
+        "x1": 358,
+        "y1": 1479
+      },
+      "text": "Address",
+      "status": "ok",
+      "confidence": 0.690650224685669,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "abandon",
+      "bbox": {
+        "x0": 448,
+        "y0": 1516,
+        "x1": 632,
+        "y1": 1535
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7280579805374146,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 664,
+        "y0": 1228,
+        "x1": 835,
+        "y1": 1252
+      },
+      "text": "RICHMOND, VA.",
+      "status": "ok",
+      "confidence": 0.7499733567237854,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.3,
+    "at": "2026-10-06T21:56:41+00:00"
+  }
+}

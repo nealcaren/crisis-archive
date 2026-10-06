@@ -1,0 +1,127 @@
+{
+  "page": 2,
+  "image": "images/page_02.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 154,
+        "y0": 125,
+        "x1": 994,
+        "y1": 235
+      },
+      "text": "THE NATIONAL ASSOCIATION for the ADVANCEMENT of COLORED PEOPLE",
+      "status": "ok",
+      "confidence": 0.9034647941589355,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 153,
+        "y0": 292,
+        "x1": 556,
+        "y1": 860
+      },
+      "text": "OBJECT.—The National Association for the Advancement of Colored People is an organization composed of men and women of all races and classes who believe that the present widespread increase of prejudice against colored races and particularly the denial of rights and opportunities to ten million Americans of Negro descent is not only unjust and a menace to our free institutions, but also is a direct hindrance to World Peace and the realization of Human Brotherhood.\n\nMETHODS.—The encouragement of education and efforts for social uplift; the dissemination of literature; the holding of mass meetings; the maintenance of a lecture bureau; the encouragement of vigilance committees; the investigation of complaints; the maintenance of a Bureau of Information; the publication of THE CRISIS; the collection of facts and publication of the truth.",
+      "status": "ok",
+      "confidence": 0.977380096912384,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 151,
+        "y0": 872,
+        "x1": 552,
+        "y1": 1103
+      },
+      "text": "ORGANIZATION.—All interested persons are urged to join our organization —associate membership costs $1, and contributing and sustaining members pay from $2 to $25 a year.\nFUNDS.—We need $10,000 a year for running expenses of this work and particularly urge the necessity of gifts to help on our objects.",
+      "status": "ok",
+      "confidence": 0.9727222919464111,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 149,
+        "y0": 1115,
+        "x1": 552,
+        "y1": 1492
+      },
+      "text": "OFFICERS.—The officers of the organization are:\nNational President Mr. Moorfield Storey, Boston, Mass.\nChairman of the Executive Committee Mr. Oswald Garrison Villard, New York.\nTreasurer—Mr. Walter E. Sachs, New York.\nDirector of Publicity and Research—Dr. W. E. B. DuBois, New York.\nSecretary—Miss Mary W. Ovington, New York,",
+      "status": "ok",
+      "confidence": 0.9316195249557495,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 665,
+        "y0": 84,
+        "x1": 1042,
+        "y1": 1538
+      },
+      "text": "ASSOCIATION for the\nCORED PEOPLE\n\nSUBMITTEE.—Our work is carried under the auspices of the follow-\neral Committee, in addition to the names:\n\nA. Abude Barnum, New York.\nB. Jes Blascoer, New York.\nC. H. Brooks, New York.\nD. Dewey, New York.\nE. Lovejoy Elliott, New York.\nF. Ewing, Jr., New York.\nG. Haynes Holmes, New York.\nH. Holt, New York.\nI. R. Ingersoll, New York.\nJ. Prince Kelley, New York.\nK. Kennaday, New York.\nL. Keyser, New York.\nM. Lenz, New York.\nN. W. Mack, New York.\nO. Maclean, New York.\nP. E. Milholland, New York.\nR. G. Miller, New York.\nMorgenthau, Jr., New York.\nS. F. Morton, Jr., New York.\nM. Moskowitz, New York.\nO. O'Reilly, New York.\nDayton Powell, New York.\nS. Edward Russell, New York.\nH. Schiff, New York.\nA. A. Seligman, New York.\nS. Silverman, New York.\nG. Garlin Spencer, New York.\nS. Spingarn, New York.\nV. Villard, New York.\nD. D. Wald, New York.\nEnglish Walling, New York.\nAlexander Walkers, New York.\nN. St. Wise, New York.\nL. Lyons, Brooklyn, N. Y.\nW. Waller, Brooklyn, N. Y.\nBacon Webster, Brooklyn, N. Y.\nW. Wibecan, Jr., Brooklyn, N. Y.\nL. Talbert, Buffalo, N. Y.\nM. Osborne, Auburn, N. Y.\nBulkley, Ridgefield Park, N. J.\nW. Crawford, New Haven, Conn.\nBaldwin, Baldwin, Mass.\nJ. Garrison, Boston, Mass.\nH. Grimke, Boston, Mass.\nJane Moffat, Boston, Mass.\nE. Pillsbury, Boston, Mass.\nMunroe Trotter, Boston, Mass.\nBumstead, Brookline, Mass.\nBeth C. Carter, New Bedford, Mass.\nR. Walter, Baltimore, Md.\nS. T. Thwing, Cleveland, O.\nW. Chesnutt, Cleveland, O.\nC. Smith, Cleveland, O.\nC. King, Oberlin, O.\nS. Scarborough, Wilberforce, O.\nAddams, Chicago, Ill.\nB. Wells Barnett, Chicago, Ill.\nBentley, Chicago, Ill.\nBoulsba Breckenridge, Chicago, Ill.\nBrace Darrow, Chicago, Ill.\nRosenwald, Chicago, Ill.\nParker Woolley, Chicago, Ill.\nMcGhee, St. Paul, Minn.\nBressa Bartblomweil, Philadelphia, Pa.\nMossell, Philadelphia, Pa.\nA. Sinclair, Philadelphia, Pa.\nWharton, Philadelphia, Pa.\nWright, Jr., Philadelphia, Pa.\nJustin Carter, Harrisburg, Pa.\nJay Johnson, D. D., Baltimore, Md.\nS. Bennet, Washington, D. C.\nW. Clifford, Washington, D. C.",
+      "status": "repetition",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 582,
+        "y0": 291,
+        "x1": 986,
+        "y1": 389
+      },
+      "text": "COMMITTEE.—Our work is carried on under the auspices of the following General Committee, in addition to the officers named:",
+      "status": "ok",
+      "confidence": 0.9504711031913757,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 578,
+        "y0": 401,
+        "x1": 929,
+        "y1": 1463
+      },
+      "text": "Miss Gertrude Barnum, New York.\nMiss Frances Blascoer, New York.\n*Rev. W. H. Brooks, New York.\n*Prof. John Dewey, New York.\n*Dr. John Lovey, Elliott, New York.\n*Mr. Thos. Ewing, Jr., New York.\n*Rev. John Haynes Holmes, New York.\n*Mr. Hamilton Holt, New York.\n*Miss Maud R. Ingersoll, New York.\n*Mrs. Florence Kelley, New York.\n*Mr. Paul Kennaday, New York.\n*Mrs. F. R. Keyser, New York.\n*Dr. Chas. Leen, New York.\n*Mr. Jacob W. Mack, New York.\n*Mrs. M. D. Maclean, New York.\n*Mr. John E. Milholland, New York.\n*Rev. Horace G. Miller, New York.\n*Mrs. Max Morgenthau, Jr., New York.\n*Mr. James F. Morton, Jr., New York.\n*Henry Mossey, New York.\n*Miss Leonora O'Kelly, New York.\n*Rev. A. Clayton Powell, New York.\n*Mr. Charles Edward Russell, New York.\n*Mr. Jacob H. Schiff, New York.\n*Prof. E. R. A. Seligman, New York.\n*Dr. Joseph Silverman, New York.\n*Prof. J. E. Stengman, New York.\n*Mrs. Henry Willard, New York.\n*Miss Lillian D. Wald, New York.\n*Mr. Wm. English Walling, New York.\n*Bishop Alexander Walters, New York.\n*Dr. Stephen S. Wise, New York.\n*Miss M. R. Lyons, Brooklyn, N. Y.\n*O. M. Waller, Brooklyn, N. Y.\n*O. D. Macon, Wiltshire, Boston, N. Y.\n*Mgeo. E. Wibecan, Jr., Brooklyn, N. Y.\n*Mrs. M. H. Talbert, Buffalo, N. Y.\n*Hon. Thos. M. Osborne, Auburn, N. Y.\n*Mr. W. L. Bulkley, Ridgefield Park, N. J.\n*Mr. George W. Crawford, New Haven, Conn.\n*Miss Maria Baldwin, Boston, Mass.\n*Frances Garrison, Boston, Mass.\n*Archibald J. Gimbel, Boston, Mass.\n*Miss Adelene Moffat, Boston, Mass.\n*Mr. Albert E. Pillsbury, Boston, Mass.\n*Mr. Wm. Munroe Trotter, Boston, Mass.\n*Dr. Horace Bumstead, Brookline, Mass.\n*Miss Elizabeth C. Carter, New Bedford, Mass.\n*Rev. Garnett R. Walter, Baltimore, Md.\n*Rest Chas. T. Swinging, Cleveland, O.\n*O. Chas. W. Chestnut, Cleveland, O.\n*Hon. Harry C. Smith, Cleveland, O.\n*Prest. H. C. King, Oberlin, O.\n*Prest. W. S. Scarborough, Wilberforce, O.\n*Miss Jane Addams, Chicago, Ill.\n*Mrs. Ida B. Wells Barnett, Chicago, Ill.\n*Dr. C. E. Bentley, Chicago, Ill.\n*Miss Sophronisba Breckenridge, Chicago, Ill.\n*Miss Clarence C. Breckenridge, Chicago, Ill.\n*Mrs. Julius Rosenwald, Chicago, Ill.\n*Mrs. Cella Parker Woolley, Chicago, Ill.\n*Mr. F. L. McGhee, St. Paul, Minn.\n*Miss Frances Bartholomew, Philadelphia, Pa.\n*Dr. N. F. Mossell, Philadelphia, Pa.\n*Dr. Wm. A. Sinclair, Philadelphia, Pa.\n*Miss Susan Warton, Philadelphia, Pa.\n*Dr. R. W. Riftwood, Philadelphia, Pa.\n*Dr. W. Justin Carter, Harrisburg, Pa.\n*Rev. Harvey Johnson, D.D., Baltimore, Md.\n*Hon. Wm. S. Bennet, Washington, D. C.\n*C. Carrie W. Clifford, Washington, D. C.",
+      "status": "repetition",
+      "confidence": 0.9702886343002319,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 577,
+        "y0": 1466,
+        "x1": 977,
+        "y1": 1493
+      },
+      "text": "Suite 311, 20 Vesey Street, New York.",
+      "status": "ok",
+      "confidence": 0.6751587986946106,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 43.7,
+    "at": "2026-10-06T21:56:28+00:00"
+  }
+}

@@ -64,9 +64,9 @@
     "x0": 902,
     "y0": 233,
     "x1": 1597,
-    "y1": 815
+    "y1": 475
    },
-   "text": "Only Colored Dairy Lunch in New York\nRose's Dairy Lunch\nJ. W. ROSE, Proprietor\n34 WEST 135TH STREET\nNEW YORK CITY\nBETWEEN FIFTH AND LENOX AVENUES\nNEAT, CLEAN AND\nQUICK SERVICE\nOpen Day and Night\nEverything Strictly First Class and Up to Date",
+   "text": "Only Colored Dairy Lunch in New York\nRose's Dairy Lunch\nJ. W. ROSE, Proprietor\n34 WEST 135TH STREET",
    "status": "ok",
    "confidence": 0.7505461573600769,
    "lines": [],
@@ -78,7 +78,104 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "title",
+   "bbox": {
+    "x0": 902,
+    "y0": 475,
+    "x1": 1597,
+    "y1": 527
+   },
+   "text": "NEW YORK CITY",
+   "status": "ok",
+   "confidence": 0.7505461573600769,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 898,
+    "y0": 228,
+    "x1": 1597,
+    "y1": 812
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3b"
+  },
+  {
+   "id": "r3bb",
+   "label": "title",
+   "bbox": {
+    "x0": 902,
+    "y0": 527,
+    "x1": 1597,
+    "y1": 575
+   },
+   "text": "BETWEEN FIFTH AND LENOX AVENUES",
+   "status": "ok",
+   "confidence": 0.7505461573600769,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 898,
+    "y0": 228,
+    "x1": 1597,
+    "y1": 812
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3bb"
+  },
+  {
+   "id": "r3bbb",
+   "label": "title",
+   "bbox": {
+    "x0": 902,
+    "y0": 575,
+    "x1": 1597,
+    "y1": 634
+   },
+   "text": "NEAT, CLEAN AND",
+   "status": "ok",
+   "confidence": 0.7505461573600769,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 898,
+    "y0": 228,
+    "x1": 1597,
+    "y1": 812
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3bbb"
+  },
+  {
+   "id": "r3bbbb",
+   "label": "title",
+   "bbox": {
+    "x0": 902,
+    "y0": 634,
+    "x1": 1597,
+    "y1": 815
+   },
+   "text": "QUICK SERVICE\nOpen Day and Night\nEverything Strictly First Class and Up to Date",
+   "status": "ok",
+   "confidence": 0.7505461573600769,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 898,
+    "y0": 228,
+    "x1": 1597,
+    "y1": 812
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3bbb"
   },
   {
    "id": "r4",
@@ -2365,9 +2462,9 @@
     "x0": 160,
     "y0": 1152,
     "x1": 1589,
-    "y1": 1471
+    "y1": 1227
    },
-   "text": "$100,000 STOCK ISSUE\nTO BUILD AN\nAuditorium in Greater New York\nCONTAINING\nReception, Concert and Banquet Halls, Modern Offices and Lodge Rooms\nThis proposition is bound to succeed, because it is giving the people what they want.\nWe are offering",
+   "text": "$100,000 STOCK ISSUE",
    "status": "ok",
    "confidence": 0.5395572781562805,
    "lines": [],
@@ -2379,7 +2476,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r10"
+  },
+  {
+   "id": "r10b",
+   "label": "title",
+   "bbox": {
+    "x0": 160,
+    "y0": 1227,
+    "x1": 1589,
+    "y1": 1471
+   },
+   "text": "TO BUILD AN\nAuditorium in Greater New York\nCONTAINING\nReception, Concert and Banquet Halls, Modern Offices and Lodge Rooms\nThis proposition is bound to succeed, because it is giving the people what they want.\nWe are offering",
+   "status": "ok",
+   "confidence": 0.5395572781562805,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 155,
+    "y0": 1147,
+    "x1": 1600,
+    "y1": 1467
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r10"
   },
   {
    "id": "r11",
@@ -2402,7 +2524,8 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading \"LADIES' AND GENTLEMEN'S CLOTHING CLEANED\" inside box; split at y=1714 didn't verify"
   },
   {
    "id": "r12",
@@ -2546,9 +2669,11 @@
  ],
  "clean": {
   "regions_before": 19,
-  "regions_after": 15,
+  "regions_after": 20,
   "lost_words": [],
-  "needs_review": [],
+  "needs_review": [
+   "r11"
+  ],
   "unowned_ink_pct": 7.05,
   "box_overlaps_after": 2,
   "log": [
@@ -2559,7 +2684,13 @@
    "reshape r6 (title): lost 0% of its ink, gained 23%",
    "reshape r17 (plain_text): lost 82% of its ink, gained 0%",
    "reread r6: 'NYANZA DRUG CO.\\n(Incorporated.)\\n35 W. 13' -> 'NYANZA DRUG CO.\\n(Incorporated.)\\n35 W. 13'",
-   "reread r17: 'MONEY IF YOU DEAL WITH ME' -> 'TELEPHONE 6667 LENOX'"
+   "reread r17: 'MONEY IF YOU DEAL WITH ME' -> 'TELEPHONE 6667 LENOX'",
+   "split r3 at y=475 before 'NEW YORK CITY'",
+   "split r3b at y=527 before 'BETWEEN FIFTH AND LENOX AVENUES'",
+   "split r3bb at y=575 before 'NEAT, CLEAN AND'",
+   "split r3bbb at y=634 before 'QUICK SERVICE'",
+   "split r10 at y=1227 before 'TO BUILD AN'",
+   "REVIEW r11: heading \"LADIES' AND GENTLEMEN'S CLOTHING CLEANED\" inside box; split at y=1714 didn't verify"
   ]
  }
 }

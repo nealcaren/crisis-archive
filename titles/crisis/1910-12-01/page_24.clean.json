@@ -109,9 +109,9 @@
     "x0": 157,
     "y0": 604,
     "x1": 555,
-    "y1": 1109
+    "y1": 1088
    },
-   "text": "It seems to my mind that the assumption which is generally made is very unlikely, for it ought to be possible to find, either in history or in biology, parallel cases demonstrating the evil effects of intermixture upon mixed types. It seems to my mind that the whole early history of our domesticated animals indicates that mixture has hardly ever had detrimental effect upon the development of varieties. Practically none of our domesticated animals are descendants of a single species. The probable history of our European cattle will illustrate what presumably happened. In all likelihood cattle were first domesticated in Asia and came to Europe in company with a number of tribes that migrated from the East westward. At this period large herds of wild cattle existed in Europe. The herds attracted the wild native bulls, which belonged to a distinct species of cattle, and a gradual mixture of the blood of the domesticated and of the wild cattle took place, which had the effect of modifying the type of the animal that was kept.\n\nMODIFICATION IN TYPE.",
+   "text": "It seems to my mind that the assumption which is generally made is very unlikely, for it ought to be possible to find, either in history or in biology, parallel cases demonstrating the evil effects of intermixture upon mixed types. It seems to my mind that the whole early history of our domesticated animals indicates that mixture has hardly ever had detrimental effect upon the development of varieties. Practically none of our domesticated animals are descendants of a single species. The probable history of our European cattle will illustrate what presumably happened. In all likelihood cattle were first domesticated in Asia and came to Europe in company with a number of tribes that migrated from the East westward. At this period large herds of wild cattle existed in Europe. The herds attracted the wild native bulls, which belonged to a distinct species of cattle, and a gradual mixture of the blood of the domesticated and of the wild cattle took place, which had the effect of modifying the type of the animal that was kept.",
    "status": "ok",
    "confidence": 0.9796852469444275,
    "lines": [],
@@ -131,7 +131,32 @@
     ]
    ],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 157,
+    "y0": 1088,
+    "x1": 555,
+    "y1": 1109
+   },
+   "text": "MODIFICATION IN TYPE.",
+   "status": "ok",
+   "confidence": 0.9796852469444275,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 157,
+    "y0": 605,
+    "x1": 553,
+    "y1": 1108
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3"
   },
   {
    "id": "r4",
@@ -163,9 +188,9 @@
     "x0": 579,
     "y0": 160,
     "x1": 986,
-    "y1": 758
+    "y1": 730
    },
-   "text": "in his physiological functions, is strictly analogous to domesticated animals. Practically everywhere human culture has advanced so far that the anatomical type of man cannot be compared to that of wild animals, but must be considered as analogous to the type of domesticated animals. This condition has brought it about that intermixture of distinct types has always been easy.\n\nThe types of man which were originally strictly localized have not remained so, but extended migrations have been the rule ever since very early times; in fact, as far back as our knowledge of prehistoric archæology carries us. Therefore we find mixtures between distinct types the world over. For our present consideration the mixed types that occur on the borderland of the Negro races seem particularly interesting. I mention among these the Western people of the Polynesian Islands, who are undoubtedly a mixture of negroid types and of another type related to the Malay, a highly gifted people, which, before European contact, had developed a peculiar and interesting culture of their own. More interesting than these are the inhabitants of the southern borderland of the Sahara.\n\nHOW POPULATIONS WERE MIXED.",
+   "text": "in his physiological functions, is strictly analogous to domesticated animals. Practically everywhere human culture has advanced so far that the anatomical type of man cannot be compared to that of wild animals, but must be considered as analogous to the type of domesticated animals. This condition has brought it about that intermixture of distinct types has always been easy. The types of man which were originally strictly localized have not remained so, but extended migrations have been the rule ever since very early times; in fact, as far back as our knowledge of prehistoric archæology carries us. Therefore we find mixtures between distinct types the world over. For our present consideration to domestication the mixed types that occur on the borderland of the Negro races seem particularly interesting. I mention among these the Western people of the Polynesian Islands, who are undoubtedly a mixture of negroid types and of another type related to the Malay, a highly gifted people, which, before European contact, had developed a peculiar and interesting culture of their own. More interesting than these are the inhabitants of the southern borderland of the Sahara.",
    "status": "ok",
    "confidence": 0.980486273765564,
    "lines": [],
@@ -177,7 +202,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r5b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 579,
+    "y0": 730,
+    "x1": 986,
+    "y1": 758
+   },
+   "text": "HOW POPULATIONS WERE MIXED.",
+   "status": "ok",
+   "confidence": 0.980486273765564,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 580,
+    "y0": 159,
+    "x1": 983,
+    "y1": 757
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5"
   },
   {
    "id": "r6",
@@ -228,11 +278,14 @@
  ],
  "clean": {
   "regions_before": 8,
-  "regions_after": 8,
+  "regions_after": 10,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 1,
-  "log": []
+  "log": [
+   "split r3 at y=1088 before 'MODIFICATION IN TYPE.'",
+   "split r5 at y=730 before 'HOW POPULATIONS WERE MIXED.'"
+  ]
  }
 }

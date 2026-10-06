@@ -1,0 +1,57 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1067,
+  "height": 1610,
+  "regions": [
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 101,
+        "y0": 81,
+        "x1": 915,
+        "y1": 469
+      },
+      "text": "THE CRISIS\nA RECORD OF THE DARKER RACES\n\nPublished by the National Association for the Advancement of Colored People, at\n20 Vesey Street, New York City.\n\nW. E. BURGHARDT DU BOIS, Editor\nM. D. MACLEAN, Managing Editor\nFRANK M. TURNER, Circulation Manager\nALBON L. HOLSEY, Advertising Manager\n\nContributing Editors\nOSWALD GARRISON VILLARD\nJ. MAX BARBER\nCHARLES EDWARD RUSSELL\nW. S. BRAITHWAITE\nKELLY MILLER",
+      "status": "ok",
+      "confidence": 0.6754725575447083,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 98,
+        "y0": 506,
+        "x1": 917,
+        "y1": 1079
+      },
+      "text": "ALONG THE COLOR LINE. 139\n\nMEN OF THE MONTH:\n\nMr. J. E. Spingarn. 146\nMr. Gilchrist Stewart. 147\nMr. Robert N. Wood. 147\n\nOPINION:\n\nThe Bristow Amendment. 148\nA Brave Young Man. 148\nA Southerner Speaks. 150\nThe Open Door. 150\nMusic. 151\n\nTHE NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF\nCOLORED PEOPLE:\n\nThe New York Branch. 152\nThe Oklahoma Lynching. 153\nDr. DuBois in Europe. 154\nIncorporation. 155\n\nTHE WORLD IN COUNCIL: Picture by John Henry Adams. 156",
+      "status": "ok",
+      "confidence": 0.9320186972618103,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 101,
+        "y0": 1076,
+        "x1": 920,
+        "y1": 1411
+      },
+      "text": "EDITORIAL 157\nA SOUTHERN WOMAN'S VIEWS. 160\nTHE HEART'S DESIRE: Poem by R. W. Justice. 162\nTHE CONGO EXPRESS. By Virginia Wright. 163\nSOME LETTERS. 166\nWHAT TO READ. 168\nEXCAVATIONS IN ETHIOPIA. 169\n\nAgents, wanted who can furnish references.\nEntered as second-class matter in the post office at New York City.",
+      "status": "ok",
+      "confidence": 0.8524839282035828,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.7,
+    "at": "2026-10-06T22:05:52+00:00"
+  }
+}

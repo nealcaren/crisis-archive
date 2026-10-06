@@ -263,7 +263,8 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'VACUUM CLEANING' inside box; split at y=1745 didn't verify"
   },
   {
    "id": "r19",
@@ -316,7 +317,9 @@
   "regions_before": 21,
   "regions_after": 13,
   "lost_words": [],
-  "needs_review": [],
+  "needs_review": [
+   "r18"
+  ],
   "unowned_ink_pct": 2.99,
   "box_overlaps_after": 0,
   "log": [
@@ -329,7 +332,8 @@
    "drop r15 (text): non-latin hallucination 'حرَّجَة'",
    "drop r16 (text): non-latin hallucination 'حرَّجَة'",
    "reshape r14 (plain_text): lost 45% of its ink, gained 0%",
-   "reread r14: 'Fancy Work, Flowers, Etc.\\nT, NEW YORK CI' -> 'Fancy Work, Flowers, Etc.'"
+   "reread r14: 'Fancy Work, Flowers, Etc.\\nT, NEW YORK CI' -> 'Fancy Work, Flowers, Etc.'",
+   "REVIEW r18: heading 'VACUUM CLEANING' inside box; split at y=1745 didn't verify"
   ]
  }
 }

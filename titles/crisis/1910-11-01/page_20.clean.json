@@ -442,9 +442,9 @@
     "x0": 263,
     "y0": 1812,
     "x1": 1697,
-    "y1": 2162
+    "y1": 2097
    },
-   "text": "There is every reason why colored tenement property should be managed by Negro agents. From them, the tenant may be certain of receiving more real interest, sympathy and respect. Were the Negroes to demand it to-day, at least 90 per cent. of the colored tenements in this city could be controlled by agents of their own race. This would not only be of benefit to the tenant but to the entire race.\n\nTell your landlord that you prefer to have your rent collected by a Negro agent. In this manner you will be aiding your people in their struggle for commercial advancement. You owe it to your race to do this.\n\nDESIRABLE APARTMENTS FOR DESIRABLE TENANTS",
+   "text": "There is every reason why colored tenement property should be managed by Negro agents. From them, the tenant may be certain of receiving more real interest, sympathy and respect. Were the Negroes to demand it to-day, at least 90 per cent. of the colored tenements in this city could be controlled by agents of their own race. This would not only be of benefit to the tenant but to the entire race. Tell your landlord that you prefer to have your rent collected by a Negro agent. In this manner you will be aiding your people in their struggle for commercial advancement. You owe it to your race to do this.",
    "status": "ok",
    "confidence": 0.9656623005867004,
    "lines": [],
@@ -471,7 +471,32 @@
     ]
    ],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r6"
+  },
+  {
+   "id": "r6b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 263,
+    "y0": 2097,
+    "x1": 1697,
+    "y1": 2162
+   },
+   "text": "DESIRABLE APARTMENTS FOR DESIRABLE TENANTS",
+   "status": "ok",
+   "confidence": 0.9656623005867004,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 262,
+    "y0": 1814,
+    "x1": 1696,
+    "y1": 2159
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r6"
   },
   {
    "id": "r7",
@@ -545,11 +570,13 @@
  ],
  "clean": {
   "regions_before": 8,
-  "regions_after": 8,
+  "regions_after": 9,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 3,
-  "log": []
+  "log": [
+   "split r6 at y=2097 before 'DESIRABLE APARTMENTS FOR DESIRABLE TENANTS'"
+  ]
  }
 }

@@ -64,9 +64,9 @@
     "x0": 341,
     "y0": 275,
     "x1": 1631,
-    "y1": 814
+    "y1": 400
    },
-   "text": "STANDARDIZE\nWITH THE\nL.C. Smith & Bros.\nTypewriter",
+   "text": "STANDARDIZE",
    "status": "ok",
    "confidence": 0.665321409702301,
    "lines": [],
@@ -78,7 +78,34 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "heading_restored": "WITH THE",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "title",
+   "bbox": {
+    "x0": 341,
+    "y0": 400,
+    "x1": 1631,
+    "y1": 814
+   },
+   "text": "WITH THE\n\nL.C. Smith & Bros. Typewriter",
+   "status": "ok",
+   "confidence": 0.665321409702301,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 333,
+    "y0": 264,
+    "x1": 1638,
+    "y1": 818
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "heading_restored": "WITH THE",
+   "split_from": "r2"
   },
   {
    "id": "r3",
@@ -101,7 +128,8 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'L.C. SMITH & BROS. TYPEWRITER' inside box but no gap to cut at"
   },
   {
    "id": "r4",
@@ -201,9 +229,10 @@
  ],
  "clean": {
   "regions_before": 8,
-  "regions_after": 8,
+  "regions_after": 9,
   "lost_words": [],
   "needs_review": [
+   "r3",
    "r5"
   ],
   "unowned_ink_pct": 0.0,
@@ -211,7 +240,9 @@
   "log": [
    "reshape r5 (plain_text): lost 8% of its ink, gained 0%",
    "reread r5: 'It will pay you to standardize your type' -> 'It will pay you to standardize your type'",
-   "REVIEW r5: reread lost book free; kept old text"
+   "REVIEW r5: reread lost book free; kept old text",
+   "split r2 at y=400 before 'WITH THE'",
+   "REVIEW r3: heading 'L.C. SMITH & BROS. TYPEWRITER' inside box but no gap to cut at"
   ]
  }
 }

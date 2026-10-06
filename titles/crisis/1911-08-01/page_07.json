@@ -1,0 +1,113 @@
+{
+  "page": 7,
+  "image": "images/page_07.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 188,
+        "y0": 129,
+        "x1": 787,
+        "y1": 193
+      },
+      "text": "Along the Color Line",
+      "status": "ok",
+      "confidence": 0.6325755715370178,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 82,
+        "y0": 249,
+        "x1": 475,
+        "y1": 610
+      },
+      "text": "POLITICAL.\nPresident Taft has ordered the immediate release of W. S. Harlan, C. C. Hilton and S. E. Huggins, officials of the Jackson Lumber Company, of Lockhart, Ala., who are now serving sentences in Atlanta penitentiary for peonage. The President extended executive clemency to the men at the request of Senator Fletcher, of Florida, who has been active in their behalf for some time.\nTwo other men, Gallagher and Grace, convicted at the same time and for the same offense, are not included in the clemency extended to the other three. It is understood, however, that Senator Fletcher has asked President Taft also to release them.",
+      "status": "ok",
+      "confidence": 0.9799976944923401,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 78,
+        "y0": 614,
+        "x1": 472,
+        "y1": 1135
+      },
+      "text": "The cases of the five men attracted wide attention. Harlan is a successful lumberman of some wealth. President Taft first commuted his original sentence to six months and a fine of $5,000. Harlan later applied for pardon, and the President refused it. Hilton was sentenced to six months and fined $1,000, and Huggins received a like sentence and fine. Grace, however, was sentenced to thirteen months and fined $1,000, and Gallagher was sentenced to fifteen months and fined $1,000. The general charge against the men was that they had imported foreign laborers from New York to a lumber camp in Alabama, and forcibly detained them there.\n\nThe action of the President in pardoning the wealthy lumbermen reminds us of a story of a little girl of eight who lived in an aristocratic section of New York City. She was present when it was announced that a wealthy friend of the family who had violated the law had been sent to jail. The child looked up indignantly and said with conviction: \"Rich people ought not to be in jail.\"",
+      "status": "ok",
+      "confidence": 0.9816790819168091,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 75,
+        "y0": 1145,
+        "x1": 469,
+        "y1": 1434
+      },
+      "text": "The officials of Annapolis, Md., were in a great to-do over the election which has just taken place in that town. Annapolis recently took pains to disfranchise the Negro voter, but its action has been declared unconstitutional. Pending an appeal the question was what should be done about allowing the black man to vote. A number of officials, finding the problem too knotty for them, resigned. In the end it was decided to disregard the recent disfranchising clause, and Negro voters cast their ballots on the same footing as before the passage of the ordinance.",
+      "status": "ok",
+      "confidence": 0.9676700830459595,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 501,
+        "y0": 249,
+        "x1": 895,
+        "y1": 443
+      },
+      "text": "The Rev. J. Milton Waldron has addressed a letter to President Taft, thanking him for his stand against race prejudice in the army, as shown in his recent letter about the Jewish soldier. Mr. Waldron then reminds the President that there is a race prejudice in the army and the navy against the colored man, and the President is asked to use his utmost effort to eradicate it.",
+      "status": "ok",
+      "confidence": 0.9750270247459412,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 496,
+        "y0": 456,
+        "x1": 892,
+        "y1": 1026
+      },
+      "text": "The colored voters of Jacksonville, Fla., made an energetic campaign to elect two Republican candidates for the city council. They published a circular saying that several colored men had been shot by street-car conductors and that nothing had been done about it. The attempt to elect the Republicans was not successful. The Jacksonville Times-Union in an editorial says it does not believe colored people want to see their own race holding office, although it admits that there are \"some other circumstances\" which contributed to the victory of the regular Democratic ticket. Some changes have been made in the boundaries of the wards which contain a large Negro population so that more whites.vote for their councilmen. Moreover, many of the colored men could not mark their ballot correctly in the time allowed. This latter fact, it may be mentioned, is not remarkable, for the Florida ballot is extraordinarily long, and only a man thoroughlv familiar with the political situation is able to mark it in the brief time allowed. Few of the officers are voted for directly and a very large number of ballots, even when cast by well-informed voters, may be invalidated.",
+      "status": "ok",
+      "confidence": 0.9783473014831543,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 492,
+        "y0": 1038,
+        "x1": 892,
+        "y1": 1437
+      },
+      "text": "A Colored Citizens' Association has been formed in Memphis, Tenn., for the purpose of improving the condition of the Negro population. Voters will be registered and urged to pay their poll taxes and try to vote. The colored men declare that they will demand from candidates assurance of park facilities, paved streets in the sections where Negroes reside, and an extension of the sprinkling service to such streets. They will also insist, they say, that Negro physicians be permitted to attend their patients at the city hospital, a privilege which they are now denied.\n\nRepresentative Caleb Powers recently spoke in Washington in a colored church and made some radical remarks. He informed his audience that if there is a race question, the white man is re-",
+      "status": "ok",
+      "confidence": 0.9757370948791504,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.1,
+    "at": "2026-10-06T22:10:27+00:00"
+  }
+}

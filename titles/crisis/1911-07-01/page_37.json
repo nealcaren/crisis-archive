@@ -1,0 +1,155 @@
+{
+  "page": 37,
+  "image": "images/page_37.jpg",
+  "width": 1070,
+  "height": 1618,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 381,
+        "y0": 96,
+        "x1": 607,
+        "y1": 121
+      },
+      "text": "WHAT TO READ",
+      "status": "ok",
+      "confidence": 0.8778297901153564,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 507,
+        "y0": 148,
+        "x1": 904,
+        "y1": 264
+      },
+      "text": "achievements of the race in other parts of the globe that such people content themselves with repeating words of prejudiced origin, which have long since lost significance, and with seeing people content themselves with seeing in the Negro only with repeating words of a beast or a half-man.\"",
+      "status": "ok",
+      "confidence": 0.9629956483840942,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 88,
+        "y0": 169,
+        "x1": 484,
+        "y1": 1068
+      },
+      "text": "Ashley, Clifford W.—\"A Corner in Four-Posters.\" Scribner's, June.\nBeymer, William Gilmore—\"Miss Van Lew.\" Harper's, June.\nMiss Van Lew, a Richmond woman, was a spy for the Federal government. General Grant wrote to her, \"You have sent me the most valuable information received from Richmond during the war.\"\nBrooks, R. P.—\"A Local Study of the Race Problem: Race Relations in the Eastern Piedmont Region of Georgia.\" Political Science Quarterly, June.\nBruere, Robert W.—\"Hospital Social Service.\" Harper's, June.\nJones, Samuel B.—\"The British West Indian Negro: Reconstruction.\" Southern Workman, June.\nKing, General Charles—\"The Volunteer Soldier of 1861.\" Review of Reviews, June.\nRitzman, M. E.—\"Woman's Life in Africa.\" The Missionary Review, June.\nSledd, Andrew—\"The Dismissal of Prof. Banks.\" Independent, May 25.\nSpeers, M. W. F.—\"Negro Songs and Folk-Lore.\" The Journal of American Folk-Lore, Oct.-Dec., 1910.\nStowe, Charles Edward—\"Harriet Beecher Stowe: Friend of the South.\" Outlook, June 10.\nThomas, David Y.—\"Southern Non-Slaveholders in the Election of 1860.\" Political Science Quarterly, June.\nTourtellot, Ida A.—\"The Conference for Education in the South.\" Southern Workman, June.\nWashington, Booker T.—\"How Denmark Has Taught Itself Prosperity and Happiness.\" World's Work, June.\nWashington, Booker T.—\"Life and Labor on the Continent.\" Outlook, May 13.\nWashington, Booker T.—\"Races and Politics.\" Outlook, June 3.",
+      "status": "ok",
+      "confidence": 0.965043842792511,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 509,
+        "y0": 264,
+        "x1": 905,
+        "y1": 321
+      },
+      "text": "Concerning the political and social organization of the Negro peoples of Africa the author writes as follows:",
+      "status": "ok",
+      "confidence": 0.9399124979972839,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 508,
+        "y0": 320,
+        "x1": 903,
+        "y1": 877
+      },
+      "text": "\"The comparison of Negro Africa with contemporary Medieval Europe is most interesting and political phenomena in both regions of the globe at that time are strikingly similar. Parallels for the feudal system, the rise and development of the judiciary, the evolution of international law, the role of the market and the fair, and many other things could as well be studied in the one as in the other. The rise of innumerable small States and their ultimate consolidation into large kingdoms and extensive empires are equally characteristic of both. Negro Africa, too, at this period, and since then also, has in like manner produced kings and political organizers, who have been men of genius possessing great personalities, and ranking in character and ability with the princes and sovereigns of Europe at the time. Men like King Askia of Songhai and Bello, the Sultan of Katsena, who has been called 'the Napoleon of the Sudan,' deserve rank among the great figures of the world's history.\"\n\nIn regard to the art of the Negroes in Africa the writer says:",
+      "status": "ok",
+      "confidence": 0.9786005616188049,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 509,
+        "y0": 880,
+        "x1": 904,
+        "y1": 1336
+      },
+      "text": "\"Far from possessing no art, the African Negroes have created some of the most beautiful art objects to be found in any museum in the wide world. Dr. Frobenius, in his study of African civilizations, says: 'The African Negro need by no means resort to the rags and tatters of bygone European splendor. He has precious ornaments of his own, of ivory and feathers, fine plaited willowware, weapons of superior workmanship.' \"The ars artium, however, of Negro Africa is the use of iron. The question of the origin of the art of iron-smelting is now being treated in detail by ethnologists, and, while general agreement has not been reached, the mass of evidence so far disclosed has convinced eminent men of science that the smelting of iron was first discovered by the African Negroes, from whom, by way of Egypt and Asia Minor, this art made its way into Europe and the rest of the Old World.\"",
+      "status": "ok",
+      "confidence": 0.7294582724571228,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "abandon",
+      "bbox": {
+        "x0": 87,
+        "y0": 1099,
+        "x1": 485,
+        "y1": 1506
+      },
+      "text": "\"The Contribution of the Negro to Human Civilization.\" Alexander Francis Chamberlain, Assistant Professor of Anthropology, Clark University, Worcester. Mass. The Journal of Race Development. April.\n\nWe give below a few of Prof. Chamberlain's illuminating statements in the Journal of Race Development, and we recommend the article in which they appear to the readers of THE CRISIS.\n\n\"Only individuals immune to the teachings of evolution could imagine that a race, millenniums old, and numbering today, after centuries of more or less brutal contact with the whites, more than 150,000,000, could have existed or could continue to exist, without in the slightest influencing the currents of human thought and action. It is with eyes blind to the results of the most recent investigations of the origin and the development of Negro culture in Africa, and to the",
+      "status": "ok",
+      "confidence": 0.9595741629600525,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 510,
+        "y0": 1367,
+        "x1": 909,
+        "y1": 1505
+      },
+      "text": "Sir Harry Johnston, writing in Nature (London) for March, says that the pygmies of Africa, if taken from the forest and subjected to other conditions of living, will after two or three generations develop a stature much nearer that of the average man.",
+      "status": "ok",
+      "confidence": 0.874841570854187,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 201,
+        "y0": 148,
+        "x1": 369,
+        "y1": 171
+      },
+      "text": "PERIODICALS.",
+      "status": "ok",
+      "confidence": 0.8867788910865784,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 865,
+        "y0": 96,
+        "x1": 903,
+        "y1": 117
+      },
+      "text": "125",
+      "status": "ok",
+      "confidence": 0.850216805934906,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 53.7,
+    "at": "2026-10-06T22:02:06+00:00"
+  }
+}

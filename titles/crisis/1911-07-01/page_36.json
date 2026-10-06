@@ -1,0 +1,225 @@
+{
+  "page": 36,
+  "image": "images/page_36.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 582,
+        "y0": 136,
+        "x1": 982,
+        "y1": 389
+      },
+      "text": "men, 'five of them probably innocent,' is taken as a matter of course, without unfavorable comment by the press of the State in which the murder occurs; that in another State a citizen, able to read and write, resents the use of the word 'mob' as applying to 'the good citizens who hang up a worthless Negro,' and he regards murder by the mob as an economy, since thereby the feeding and sheltering of a prisoner are saved his county. The name of the county is 'Emanuel.'",
+      "status": "ok",
+      "confidence": 0.9733641743659973,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 157,
+        "y0": 137,
+        "x1": 555,
+        "y1": 623
+      },
+      "text": "guilty, was hanged by a lynching party. The editor of the Swainsboro Forest Blade referred to the lynching party as a 'mob,' and for this he was gently taken to task by one of his readers in the following letter: 'Please allow me to say that I, for one, do not like to hear our good citizens who hang up a worthless Negro and riddle his hide with bullets for shooting down one of our worthy officers, without provocation, as did the black brute in Swainsboro on the night of the 12th instant, referred to as a \"mob.\" I understand the word \"mob\" to mean a disorderly crowd, riotous assemblage, etc., and the paper stated that the \"mob\" dispersed quietly as they had gathered—a little strange procedure for a \"mob,\" don't you think? The word \"mob\" has a bad sound to me, and I am sure, had I been with those who saved the expense of feeding and sheltering that black fiend by the county, I would not have enjoyed being termed a part of a \"mob.\"'",
+      "status": "ok",
+      "confidence": 0.9360842704772949,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 580,
+        "y0": 391,
+        "x1": 980,
+        "y1": 758
+      },
+      "text": "\"Is 'God with us' still, or has he turned his face away? Do we fear the Lord no longer, nor dread to bear the mark of Cain? Is it not time that organs of civilization in America were beginning again to take notice of this national sin of lawless murder? Certainly it cannot be said that the mob takes the law into its own hands in these cases for fear that justice will be denied by the courts. I do not claim that the Negro does not get justice generally, but he is certainly not likely to escape the just penalty of the law when he has murdered a white man and the administration of the law is in the hands of white men. In view of these two of the many recent instances of mob murder, I have felt that some voice should be raised in protest.\"",
+      "status": "ok",
+      "confidence": 0.9705554842948914,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 155,
+        "y0": 623,
+        "x1": 555,
+        "y1": 978
+      },
+      "text": "\"To which the editor rejoins: 'It is true, the crowd did not make any great demonstration, and it was as orderly as could be expected under the circumstances.'\n\"To this we have come, then, in the South—that the murdering of six black\n\nWHAT T\n\nBOOKS.",
+      "status": "ok",
+      "confidence": 0.9450364112854004,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 276,
+        "y0": 833,
+        "x1": 852,
+        "y1": 894
+      },
+      "text": "WHAT TO READ",
+      "status": "ok",
+      "confidence": 0.7930994629859924,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 596,
+        "y0": 950,
+        "x1": 978,
+        "y1": 990
+      },
+      "text": "terms the present status of the science of eugenics.",
+      "status": "ok",
+      "confidence": 0.5225937962532043,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 158,
+        "y0": 978,
+        "x1": 554,
+        "y1": 1018
+      },
+      "text": "Chailleu, Joseph—\"Administrative Problems of British India.\" Macmillan.",
+      "status": "ok",
+      "confidence": 0.9379479885101318,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 583,
+        "y0": 993,
+        "x1": 979,
+        "y1": 1051
+      },
+      "text": "Ovington, Mary White—\"Half a Man: The Status of the Negro in New York.\" Longmans.",
+      "status": "ok",
+      "confidence": 0.464548259973526,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 175,
+        "y0": 1019,
+        "x1": 553,
+        "y1": 1132
+      },
+      "text": "The book gives a complete survey, though summary in part, of religious, social, economic and political conditions in India, including, also, such topics as caste, codes of law and education.",
+      "status": "ok",
+      "confidence": 0.4381345510482788,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 589,
+        "y0": 1053,
+        "x1": 979,
+        "y1": 1342
+      },
+      "text": "In the \"Foreword\" of \"Half a Man,\" Dr. Franz Boas of Columbia University says, \"Miss Ovington's description of the status of the Negro in New York City is based on a most painstaking inquiry into his social and economic conditions, and brings out in the most forceful way the difficulties under which the race is laboring, even in the large cosmopolitan population of New York. It is a refutation of the claims that the Negro has equal opportunity with the whites, and that his failure to advance more rapidly than he has is due to innate inability.\"",
+      "status": "ok",
+      "confidence": 0.9572945237159729,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 155,
+        "y0": 1132,
+        "x1": 554,
+        "y1": 1424
+      },
+      "text": "Gerderner, G. B. A.—\"Studies in the Evangelization of South Africa.\" Longmans.\nGrubb, W. Barbrooke—\"Unknown People in an Unknown Land.\" Lippincountaincott. An account of a tribe of Indians in South America.\nJohnston, Sir Harry—\"Britain Across the Seas-Africa: A History and Description of the British Empire in Africa.\" London: National Society's Depository.\nKellicott, William Erskine—\"Social Direction of Human Evolution.\" Appleton.",
+      "status": "ok",
+      "confidence": 0.48687121272087097,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 579,
+        "y0": 1345,
+        "x1": 980,
+        "y1": 1503
+      },
+      "text": "Wilkinson, William Cleaver—\"Daniel Webster: A Vindication.\" Funk.\nProf. Wilkinson of the University of Chicago in his initial essay shows that Daniel Webster is to be praised, not blamed, for his seventh of March speech, and for his support of the Fugitive Slave Law.",
+      "status": "ok",
+      "confidence": 0.9445903301239014,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 155,
+        "y0": 1425,
+        "x1": 555,
+        "y1": 1595
+      },
+      "text": "An essay based upon three lectures delivered at Oberlin College in 1910 whose aim is to state briefly and suggestively in simple, matter-of-fact",
+      "status": "ok",
+      "confidence": 0.8254402279853821,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 158,
+        "y0": 83,
+        "x1": 198,
+        "y1": 105
+      },
+      "text": "124",
+      "status": "ok",
+      "confidence": 0.8418979644775391,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 481,
+        "y0": 84,
+        "x1": 645,
+        "y1": 108
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8808463215827942,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 28.8,
+    "at": "2026-10-06T22:01:12+00:00"
+  }
+}

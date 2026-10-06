@@ -64,9 +64,9 @@
     "x0": 571,
     "y0": 199,
     "x1": 972,
-    "y1": 510
+    "y1": 359
    },
-   "text": "WILBUR P. THIRKIELD, President\nWashington, D. C.\nThe College of Arts and Sciences—Kelly Miller,\nA.M., Dean.\nThe Teachers' College—Lewis B. Moore, A.M.\nPh.D., Dean.\nThe Academy—George J. Cummings, A.M., Dean.\nThe Commercial College—George W. Cook, A.M.\nDean.\nSchool of Manual Arts and Applied Sciences—\nPROFESSIONAL SCHOOLS\nThe School of Theology—Isaac Clark, D.D., Dean.\nThe School of Medicine: Medical, Dental and\nPharmaceutical Colleges—Edward O. Balloch, M.D., Dean.\nThe School of Law—Benjamin F. Leighton,\nLL.D., Dean.\nFor catalogue and special information address\nDean of Department.",
+   "text": "WILBUR P. THIRKIELD, President Washington, D. C.\nThe College of Arts and Sciences—Kelly Miller, A.M., Dean.\nThe Teachers' College—Lewis B. Moore, A.M., Ph.D., Dean.\nThe Academy—George J. Cummings, A.M., Dean.\nThe Commercial College—George W. Cook, A.M., Dean.\nSchool of Manual Arts and Applied Sciences—",
    "status": "ok",
    "confidence": 0.49765002727508545,
    "lines": [],
@@ -78,7 +78,32 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r2"
+  },
+  {
+   "id": "r2b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 571,
+    "y0": 359,
+    "x1": 972,
+    "y1": 510
+   },
+   "text": "PROFESSIONAL SCHOOLS\nThe School of Theology—Isaac Clark, D.D., Dean.\nThe School of Medicine: Medical, Dental and Pharmaceutical Colleges—Edward O. Balloch, M.D., Dean.\nThe School of Law—Benjamin F. Leighton, LL.D., Dean.\nFor catalogue and special information address Dean of Department.",
+   "status": "ok",
+   "confidence": 0.49765002727508545,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 569,
+    "y0": 197,
+    "x1": 973,
+    "y1": 508
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r2"
   },
   {
    "id": "r3",
@@ -5278,7 +5303,8 @@
    ],
    "changed": true,
    "text_before_clean": "Dr. FRED. STERLING\nSURGEON DENTIST\nCrown and Bridge Work a Specialty\n100 West 134th St., cor. Lenox Ave., New York\nBrooklyn Branch: 1479 Bergen St.\nOffice Hours by Appointment\nTel. 295-W Bedford\n\nTen Years with Dr. D. C. White\nTelephone 7189 Morningkside",
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'SURGEON DENTIST' inside box but no gap to cut at"
   },
   {
    "id": "r5",
@@ -5416,7 +5442,9 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "heading_restored": "ATLANTA, GA.",
+   "needs_review": "heading 'ATLANTA, GA.' inside box; split at y=851 didn't verify"
   },
   {
    "id": "r11",
@@ -5990,9 +6018,11 @@
  ],
  "clean": {
   "regions_before": 29,
-  "regions_after": 27,
+  "regions_after": 28,
   "lost_words": [],
   "needs_review": [
+   "r4",
+   "r10",
    "r14"
   ],
   "unowned_ink_pct": 4.33,
@@ -6006,7 +6036,10 @@
    "reread r4: 'Dr. FRED. STERLING\\nSURGEON DENTIST\\nCrown' -> 'Dr. FRED. STERLING\\nSURGEON DENTIST\\nCrown'",
    "reread r14: \"School of Dressmaking\\nLadies' Tailoring \" -> 'President GEORGE A. GATES.'",
    "reread r18: 'WHOLESALE COMMISSION MERCHANTS. 107 Pine' -> 'COTTMAN & COTTMAN'",
-   "REVIEW r14: reread lost learning; kept old text"
+   "REVIEW r14: reread lost learning; kept old text",
+   "split r2 at y=359 before 'PROFESSIONAL SCHOOLS'",
+   "REVIEW r4: heading 'SURGEON DENTIST' inside box but no gap to cut at",
+   "REVIEW r10: heading 'ATLANTA, GA.' inside box; split at y=851 didn't verify"
   ]
  }
 }

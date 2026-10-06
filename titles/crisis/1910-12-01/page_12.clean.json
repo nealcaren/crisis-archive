@@ -109,9 +109,9 @@
     "x0": 148,
     "y0": 504,
     "x1": 549,
-    "y1": 1098
+    "y1": 949
    },
-   "text": "But the action of the Oklahoma Negroes is also of the greatest significance to the Socialist movement of this country. It is a principle universally acknowledged by Socialists that although Socialism is primarily the movement of the working class for the overthrow of capitalist rule, it nevertheless must rush to the assistance of every oppressed class or race or nationality. The working class cannot achieve its ultimate grand aim of freeing itself from exploitation unless it frees all other elements of the community from exploitation. It cannot put an end to its own oppression unless it puts an end to all forms of oppression. Our party must stand everywhere on the side of the weak and oppressed, even if this course should bring upon us temporary reverses. Ultimate victory can be achieved in no other way.\n\nTHE MARYLAND DECISION.\n\nJudge Morris of the United States Circuit Court has declared unconstitutional the Annapolis attempt to disfranchise Negroes and considerable comment has resulted. Says the Baltimore News:",
+   "text": "But the action of the Oklahoma Negroes is also of the greatest significance to the Socialist movement of this country. It is a principle universally acknowledged by Socialists that although Socialism is primarily the movement of the working class for the overthrow of capitalist rule, it nevertheless must rush to the assistance of every oppressed class or race or nationality. The working class cannot achieve its ultimate grand aim of freeing itself from exploitation unless it frees all other elements of the community from exploitation. It cannot put an end to its own oppression unless it puts an end to all forms of oppression. Our party must stand everywhere on the side of the weak and oppressed, even if this course should bring upon us temporary reverses. Ultimate victory can be achieved in no other way.",
    "status": "ok",
    "confidence": 0.9791857600212097,
    "lines": [],
@@ -123,7 +123,33 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r3"
+  },
+  {
+   "id": "r3b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 148,
+    "y0": 949,
+    "x1": 549,
+    "y1": 1098
+   },
+   "text": "THE MARYLAND DECISION.\n\nJudge Morris of the United States Circuit Court has declared unconstitutional the Annapolis attempt to disfranchise Negroes and considerable comment has resulted. Says the Baltimore News:",
+   "status": "ok",
+   "confidence": 0.9791857600212097,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 148,
+    "y0": 505,
+    "x1": 547,
+    "y1": 1098
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r3",
+   "heading_restored": "THE MARYLAND DECISION."
   },
   {
    "id": "r4",
@@ -220,11 +246,13 @@
  ],
  "clean": {
   "regions_before": 8,
-  "regions_after": 8,
+  "regions_after": 9,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.0,
   "box_overlaps_after": 2,
-  "log": []
+  "log": [
+   "split r3 at y=949 before 'THE MARYLAND DECISION.'"
+  ]
  }
 }

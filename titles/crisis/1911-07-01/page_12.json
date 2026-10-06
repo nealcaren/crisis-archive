@@ -1,0 +1,169 @@
+{
+  "page": 12,
+  "image": "images/page_12.jpg",
+  "width": 1066,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 488,
+        "y0": 92,
+        "x1": 651,
+        "y1": 116
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8716369867324829,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 167,
+        "y0": 144,
+        "x1": 565,
+        "y1": 281
+      },
+      "text": "the mob, and they know further that white men composed the mob, and the officers who were too cowardly to protect their helpless prisoners should be separated from the office and the places given MEN who have some regard for their oath of office.",
+      "status": "ok",
+      "confidence": 0.9704619646072388,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 592,
+        "y0": 144,
+        "x1": 993,
+        "y1": 502
+      },
+      "text": "years several other attempts have been made to drive the colored families from the neighborhood.\nThomas E. Howes is a Negro who was born in British Guiana, and now lives in Scranton, Pa. Several months ago he became a naturalized citizen of the United States and bought a house for the sum of $4,000. As soon as the news of this invasion of the aristocratic Prescott Avenue was known there was great indignation. Messages were sent to him of so unfriendly a character that he felt it the better part of valor to place himself under the protection of the chief of police, who detailed an officer with instructions to see that the law was not violated.",
+      "status": "ok",
+      "confidence": 0.9777678847312927,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 169,
+        "y0": 282,
+        "x1": 565,
+        "y1": 704
+      },
+      "text": "\"Just think of it. A woman taken from her suckling babe, and a boy—a child only fourteen years old—dragged through the streets by a howling mob of fiendish devils, the most unnameable crime committed on the helpless woman and then she and her son executed by hanging. This happened in a Christian community and where the machinery of the law was all in the hands of white men, there being no chance for escape. If the prisoners were guilty then why mob them, except to satisfy an irresistible greed and appetite for rapine and blood? The Okfuskee mob composed of white men committed the most damnable and hellish crime known in annals of crime, not excepting the burning at the stake of a number of Indians some years ago near this same place, and placed a blot on the fair name of Oklahoma that even time cannot erase.\"",
+      "status": "ok",
+      "confidence": 0.9753562211990356,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 593,
+        "y0": 557,
+        "x1": 993,
+        "y1": 1078
+      },
+      "text": "Mr. H. F. Gilbert's \"Comedy Overture on Negro Themes\" has been played for the first time at the Symphony concerts in Boston. This composer has long lived and worked in and around Boston, keeping his faith in American folk-tunes—Negro, Indian or of popular balladry—as the source out of which an American music could be written. This particular overture he designed for an operetta drawn from Joel Chandler Harris's stories of \"Uncle Remus.\" For various reasons the composition of the operetta was abandoned, and Mr. Gilbert reshaped the overture into its present form in which it has been played already in New York and Pittsburg. He describes it as follows: \"The overture is not at all in the accepted form. The thematic material I have taken from various collections of Negro folk-lore 'lifting' a motive here and there. My 'lifting' has not been very extensive, however. The Negro themes which I have employed amount altogether to but twenty measures. The whole overture is developed from this material.",
+      "status": "ok",
+      "confidence": 0.9789517521858215,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 715,
+        "x1": 568,
+        "y1": 1225
+      },
+      "text": "A delegation of Negroes (as noted in the N. A. A. C. P. notes) were received in the White House, on May 31, and presented a written petition to President Taft urging him to send a special message to Congress to ask the enactment of a law making the crime of lynching punishable by the Federal government. The President explained that the crime of lynching came entirely within the jurisdiction of the State governments and that he was powerless to help the Negroes.\n\nA mob of 100 men and boys went to the hotel in Fitzgerald, Ga., where they found three colored delegates who were attending the annual encampment of the G. A. R., Department of Carolinas, Georgia and Florida. They dragged them from their beds at 2 o'clock in the morning, forced them to dress and then carried them into the street, where they were roughly handled. After whipping the delegates and cutting the G. A. R. buttons from their coats, the mob ordered them to leave town at once.",
+      "status": "ok",
+      "confidence": 0.9710372090339661,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 597,
+        "y0": 1079,
+        "x1": 996,
+        "y1": 1445
+      },
+      "text": "\"The piece opens with a light and humorous movement. The theme was manufactured from two-four measure motives which I found in that interesting book, 'Bahama Songs and Stories,' by Charles L. Edwards. Next comes a broad and somewhat slower movement, the theme of which (eight measures in length) is a wild and mysterious sounding bit of melody. This tune and many like it were sung by the deckhands and 'roustabouts' on the Mississippi steamboats in the old days. It is the only theme which I have used in its complete form in the overture. It is to be found in 'Slave Songs of the United States,' by W. F. Allen and others. The original words were as follows:",
+      "status": "ok",
+      "confidence": 0.977734386920929,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 1237,
+        "x1": 570,
+        "y1": 1511
+      },
+      "text": "A story comes from Kansas City giving an account of the second attempt that has been made within five months to destroy the home of W. E. Griffin, the colored principal of the Booker Washington School in that town. A few weeks ago a bomb was exploded under a boardwalk about three feet from the house, with the result that every window in the house was broken and a large hole was blown in the earth. Last December an effort was made to destroy the home of the teacher with nitroglycerine, and within the last two",
+      "status": "ok",
+      "confidence": 0.9760366082191467,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 599,
+        "y0": 1448,
+        "x1": 998,
+        "y1": 1513
+      },
+      "text": "“‘For to see my mammy, Oh—\nIse gwine to Alabammy, Ah—’\n“Then comes a fugue. The theme",
+      "status": "ok",
+      "confidence": 0.9360066652297974,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 165,
+        "y0": 91,
+        "x1": 204,
+        "y1": 113
+      },
+      "text": "100",
+      "status": "ok",
+      "confidence": 0.8631496429443359,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 766,
+        "y0": 528,
+        "x1": 819,
+        "y1": 550
+      },
+      "text": "ART.",
+      "status": "ok",
+      "confidence": 0.8745032548904419,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.4,
+    "at": "2026-10-06T21:57:51+00:00"
+  }
+}

@@ -133,9 +133,9 @@
     "x0": 567,
     "y0": 151,
     "x1": 971,
-    "y1": 725
+    "y1": 234
    },
-   "text": "A protest has been sent to the Southern Educational Board on the attitude of the Board toward Negro education.\n\nTHE CHURCH.\nSt. Thomas Church, Philadelphia, celebrated its 164th anniversary November 8th.\n\nThe American Missionary Association reports the following schools in the South:\nEDUCATIONAL WORK IN THE SOUTH\nSCHOOLS\nNegro. White. Total.\nTheological 3 1 4\nColleges 3 1 4\nSecondary Institutions 25 3 28\nElementary Institutions 9 3 12\nAffiliated Institutions 6 6\nUngraded Schools 23 23\nOfficers and Instructors 507 84 591\nPupils 13,449 1,777 15,226\nBoarding Students 2,107 427 2,534\nPUPILS\nTheological 133 81 214\nCollegiate 155 21 176\nSecondary Grades 1,974 259 2,233\nElementary Grades 11,038 1,397 12,435\nSpecials 463 71 534\n\nPupils 15,592\nCounted twice 366\n\nTotal 15,226",
+   "text": "A protest has been sent to the Southern Educational Board on the attitude of the Board toward Negro education.",
    "status": "ok",
    "confidence": 0.9279228448867798,
    "lines": [],
@@ -147,7 +147,56 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "split_from": "r5"
+  },
+  {
+   "id": "r5b",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 567,
+    "y0": 234,
+    "x1": 971,
+    "y1": 366
+   },
+   "text": "THE CHURCH.\nSt. Thomas Church, Philadelphia, celebrated its 164th anniversary November 8th.\nThe American Missionary Association reports the following schools in the South:",
+   "status": "ok",
+   "confidence": 0.9279228448867798,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 566,
+    "y0": 151,
+    "x1": 973,
+    "y1": 729
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5b"
+  },
+  {
+   "id": "r5bb",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 567,
+    "y0": 366,
+    "x1": 971,
+    "y1": 725
+   },
+   "text": "EDUCATIONAL WORK IN THE SOUTH\nSCHOOLS\nNegro. White. Total.\nTheological 3 1 4\nColleges 3 1 4\nSecondary Institutions 25 3 28\nElementary Institutions 9 3 12\nAffiliated Institutions 6 .. 6\nUngraded Schools 23 .. 23\nOfficers and Instructors 507 84 591\nPupils 13,449 1,777 15,226\nBoarding Students 2,107 427 2,534\nPUPILS\nTheological 133 81 214\nCollegiate 155 21 176\nSecondary Grades 1,974 259 2,233\nElementary Grades 11,038 1,397 12,435\nSpecials 463 71 534\nPupils 15,592\nCounted twice 366\nTotal 15,226",
+   "status": "ok",
+   "confidence": 0.9279228448867798,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 566,
+    "y0": 151,
+    "x1": 973,
+    "y1": 729
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text",
+   "split_from": "r5b"
   },
   {
    "id": "r7",
@@ -198,11 +247,14 @@
  ],
  "clean": {
   "regions_before": 8,
-  "regions_after": 8,
+  "regions_after": 10,
   "lost_words": [],
   "needs_review": [],
   "unowned_ink_pct": 0.33,
   "box_overlaps_after": 0,
-  "log": []
+  "log": [
+   "split r5 at y=234 before 'THE CHURCH.'",
+   "split r5b at y=366 before 'EDUCATIONAL WORK IN THE SOUTH'"
+  ]
  }
 }

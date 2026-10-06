@@ -1,0 +1,421 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1071,
+  "height": 1618,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 302,
+        "y0": 83,
+        "x1": 657,
+        "y1": 109
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8348563313484192,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 513,
+        "y0": 134,
+        "x1": 878,
+        "y1": 285
+      },
+      "text": "Atlanta University Studies of the Negro Problems",
+      "status": "ok",
+      "confidence": 0.9647812247276306,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 66,
+        "y0": 137,
+        "x1": 464,
+        "y1": 357
+      },
+      "text": "Shaw University\nThis institution of learning, established in 1865, has industrial departments for both young men and young women, as well as college, normal and preparatory departments. There are also Schools of Law, Medicine, Pharmacy and Theology. The facilities have recently been increased. Other improvements are being planned that will be completed within the next two years. Applications should be made several months or a year in advance, for it has become impossible during the last few years to receive all who apply. The present enrollment is over 500.",
+      "status": "ok",
+      "confidence": 0.8988296389579773,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 528,
+        "y0": 309,
+        "x1": 849,
+        "y1": 333
+      },
+      "text": "13 Monographs. Sold Separately.",
+      "status": "ok",
+      "confidence": 0.8676154613494873,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 69,
+        "y0": 357,
+        "x1": 462,
+        "y1": 463
+      },
+      "text": "The academic year begins on the Thursday nearest the first day of October and continues for thirty-two consecutive weeks. The charges are moderate. Catalogues furnished upon application.\nAddress THE PRESIDENT\nShaw University, Raleigh, N. C.",
+      "status": "ok",
+      "confidence": 0.8777416944503784,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 492,
+        "y0": 439,
+        "x1": 889,
+        "y1": 812
+      },
+      "text": "JOINING THE NAVY; OR,\nABROAD WITH UNCLE SAM\nBy JOHN H. PAYNTER, A.M.\nFirst Race Contribution to Navy\nLiterature\nOrdered by the Government for Libraries of\nWar Vessels\n\"It is a perfect picture of life on board\nship when I first went to sea. The story is\ntold so simply and in such good style, and\nholds its interest so, that I read it through\nat one sitting.\"—Richardson Clover, Rear\nAdmiral, U. S. N., Retired.\nCloth Bound. 300 Pages. Fully Illustrated.\nSECOND EDITION\nSent Postage Paid on Receipt of One Dollar\nAddress care of\nSUDWARTH PRINTING CO.\nWASHINGTON, D. C.",
+      "status": "ok",
+      "confidence": 0.868695080280304,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 69,
+        "y0": 494,
+        "x1": 466,
+        "y1": 790
+      },
+      "text": "Lincoln Institute\nJEFFERSON CITY, MISSOURI\nFounded by the Soldiers of the 62d and 65th\nRegiments of the U. S. Colored Infantry.\nSupported by the State of Missouri. Has\nNormal, Collegiate, Agricultural, Mechanical and\nIndustrial Courses. Buildings and equipment\nunsurpassed. Thirty teachers representing the\nbest schools of the country. Students from all\nsections of the country. For catalogue and fur-\nther information address\nBENJAMIN FRANKLIN ALLEN,",
+      "status": "ok",
+      "confidence": 0.939520537853241,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 70,
+        "y0": 826,
+        "x1": 468,
+        "y1": 872
+      },
+      "text": "Knoxville College",
+      "status": "ok",
+      "confidence": 0.9193591475486755,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 527,
+        "y0": 840,
+        "x1": 851,
+        "y1": 868
+      },
+      "text": "RACE ADJUSTMENT",
+      "status": "ok",
+      "confidence": 0.8999824523925781,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 70,
+        "y0": 877,
+        "x1": 467,
+        "y1": 1069
+      },
+      "text": "Beautiful Situation, Healthful Location The Best Moral and Spiritual Environment A Splendid Intellectual Atmosphere Noted for Honest and Thorough Work Offers full courses in the following departments: College, Normal, High School, Grammar School and Industrial. Good water, steam heat, electric lights, good drainage. Expenses very reasonable. Opportunity for Self-help.",
+      "status": "ok",
+      "confidence": 0.646436333656311,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 491,
+        "y0": 881,
+        "x1": 889,
+        "y1": 920
+      },
+      "text": "By KELLY MILLER. Howard University. Washington,\nD. C. A Standard Book on the Race Question.",
+      "status": "ok",
+      "confidence": 0.9000747799873352,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 494,
+        "y0": 952,
+        "x1": 889,
+        "y1": 1129
+      },
+      "text": "Social Equality..... 5 cents\nAn Appeal to Reason, open letter to John Temple Graves..... 10 cents\nRoosevelt and the Negro..... 10 cents\nForty Years of Negro Education..... 10 cents\nUltimate Race Problem..... 10 cents\nThe Political Capacity of the Negro..... 10 cents\nThe Talented Tenth..... 10 cents",
+      "status": "ok",
+      "confidence": 0.9140079617500305,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 71,
+        "y0": 1069,
+        "x1": 467,
+        "y1": 1160
+      },
+      "text": "Fall Term Opens Sept. 27, 1911.\nFor information address\nPresident R. W. McGranahan\nKNOXVILLE, TENN.",
+      "status": "ok",
+      "confidence": 0.6408881545066833,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 494,
+        "y0": 1134,
+        "x1": 885,
+        "y1": 1232
+      },
+      "text": "PUBLICATIONS OF THE N. A. A. C. P.\nThe N. A. A. C. P. has for sale the following pamphlets:",
+      "status": "ok",
+      "confidence": 0.8820946216583252,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "title",
+      "bbox": {
+        "x0": 92,
+        "y0": 1224,
+        "x1": 442,
+        "y1": 1253
+      },
+      "text": "The Curse of Race Prejudice",
+      "status": "ok",
+      "confidence": 0.9059973955154419,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 492,
+        "y0": 1237,
+        "x1": 890,
+        "y1": 1474
+      },
+      "text": "1. Disfranchisement: A powerful argument by the Rev. John Haynes Holmes.\n2. Education in the South: Facts about the discrimination against the Negro. By the Rev. Horace Bumstead, former president of Atlanta University.\n3. The Real Race Problem: A scientific comparison of the black and the white man by America's foremost anthropologist, Prof. Boas, of Columbia University.\n4. Social Control. By Jane Addams, of Hull House.\n5. The Negro as a Soldier. By Brigadier-General Burt, U. S. A.",
+      "status": "ok",
+      "confidence": 0.8912336826324463,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 69,
+        "y0": 1266,
+        "x1": 466,
+        "y1": 1411
+      },
+      "text": "JAMES F. MORTON, JR., A.M., Author and Publisher\nForceful, rational, comprehensive. An arsenal of facts and unanswerable arguments. Invaluable for propaganda. Read the chapter on \"The Bugbear of Social Equality,\" which is a veritable eyeopener. Thousands already sold. Agents wanted everywhere.",
+      "status": "ok",
+      "confidence": 0.9469445943832397,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 86,
+        "y0": 1446,
+        "x1": 457,
+        "y1": 1467
+      },
+      "text": "Address the Author at 244 West 143d Street,",
+      "status": "ok",
+      "confidence": 0.7436122298240662,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "title",
+      "bbox": {
+        "x0": 489,
+        "y0": 1476,
+        "x1": 889,
+        "y1": 1494
+      },
+      "text": "Five Cents Each, Three Dollars a Thousand",
+      "status": "ok",
+      "confidence": 0.24469412863254547,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "text",
+      "bbox": {
+        "x0": 66,
+        "y0": 1494,
+        "x1": 468,
+        "y1": 1598
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "text",
+      "bbox": {
+        "x0": 489,
+        "y0": 1494,
+        "x1": 892,
+        "y1": 1598
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 387,
+        "y0": 1502,
+        "x1": 571,
+        "y1": 1520
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7388835549354553,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 226,
+        "y0": 1177,
+        "x1": 311,
+        "y1": 1199
+      },
+      "text": "BOOKS",
+      "status": "ok",
+      "confidence": 0.6278037428855896,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "title",
+      "bbox": {
+        "x0": 190,
+        "y0": 1417,
+        "x1": 347,
+        "y1": 1439
+      },
+      "text": "PRICE 25 CENTS",
+      "status": "ok",
+      "confidence": 0.5466378331184387,
+      "lines": []
+    },
+    {
+      "id": "r25",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 194,
+        "y0": 1474,
+        "x1": 339,
+        "y1": 1494
+      },
+      "text": "New York, N. Y.",
+      "status": "ok",
+      "confidence": 0.40762171149253845,
+      "lines": []
+    },
+    {
+      "id": "r26",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 366,
+        "y0": 792,
+        "x1": 446,
+        "y1": 807
+      },
+      "text": "President.",
+      "status": "ok",
+      "confidence": 0.2735678255558014,
+      "lines": []
+    },
+    {
+      "id": "r27",
+      "label": "abandon",
+      "bbox": {
+        "x0": 863,
+        "y0": 83,
+        "x1": 892,
+        "y1": 105
+      },
+      "text": "93",
+      "status": "ok",
+      "confidence": 0.8052039742469788,
+      "lines": []
+    },
+    {
+      "id": "r28",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 608,
+        "y0": 359,
+        "x1": 778,
+        "y1": 427
+      },
+      "text": "Address:\nA. G. DILL",
+      "status": "ok",
+      "confidence": 0.8610836267471313,
+      "lines": []
+    },
+    {
+      "id": "r29",
+      "label": "title",
+      "bbox": {
+        "x0": 640,
+        "y0": 928,
+        "x1": 742,
+        "y1": 946
+      },
+      "text": "PRICE $2.00",
+      "status": "ok",
+      "confidence": 0.849831759929657,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.0,
+    "at": "2026-10-06T21:56:51+00:00"
+  }
+}

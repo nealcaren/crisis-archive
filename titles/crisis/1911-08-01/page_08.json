@@ -1,0 +1,197 @@
+{
+  "page": 8,
+  "image": "images/page_08.jpg",
+  "width": 1062,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 583,
+        "y0": 154,
+        "x1": 982,
+        "y1": 598
+      },
+      "text": "A most extraordinary case, in which two colored men have been punished for the same offense, although it is admitted only one could possibly have been guilty, is reproduced in the Docket, a legal paper published in St. Louis, from the Southern Reporter. It is the case of Toles vs. the State of Alabama. Toles had been found guilty of assault, but his counsel moved to have the verdict set aside, since one John Colvin had already been convicted for the offense of which Toles was now accused. Judge Summerville decided, however, that the verdict must stand. It was true, he said, that the alleged victim had identified Colvin and that it was known only one man entered the house, but what was identification worth under the circumstances? So little that the aggressor might have been Toles instead of Colvin. Therefore Toles should go to prison as well as Colvin.",
+      "status": "ok",
+      "confidence": 0.979892373085022,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 159,
+        "y0": 155,
+        "x1": 557,
+        "y1": 677
+      },
+      "text": "sponsible for it; that the Negroes should stand together and fight for their rights. \"I am not afraid of Negro domination,\" he said. \"If I can't match my intellect against that of my neighbor, I wish him good luck and success. So far as lies in my power, the colored man shall have equal rights with the white man.\"\n\nSenator Clapp, of Minnesota, speaking to colored people, also said recently: \"God never made any race for permanent bondage and servitude to other and in the to-morrows to come your descendants will glory in the triumph accomplished through your efforts to-day. There is absolutely nothing in the limitations of color to prevent the black man from being fully as honest, sober, industrious, and of as much service to the community and nation as the white man.\"\n\nBoth these gentlemen doubtless had in mind Senator Bailey, of Texas, who announced not long ago that the South would be \"just and even generous\" with the colored man if he would \"accept permanent inferiority.\"",
+      "status": "ok",
+      "confidence": 0.9782372117042542,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 580,
+        "y0": 667,
+        "x1": 979,
+        "y1": 1108
+      },
+      "text": "One hundred and sixty-one union Negro miners of Ogden, Iowa, are suing the international president, the Iowa president and other mine officials for more than a million and a half dollars on the ground that they were used, against their knowledge, as strikebreakers. The men are asking for $10,000 each. They claim that when they were imported to Ogden the miners' officials told them there was no strike in progress; that they are denied transfer union cards to the Ogden branch of the Mine Workers' Union, that the local union refuses them membership, participation in the union benefits, and other rights and privileges of union men. They ask that they be permitted to form a union of their own, and that the mine officials be compelled to recognize the union after it is formed, and that they be assured all the rights, benefits and privileges of union men.",
+      "status": "ok",
+      "confidence": 0.9795442223548889,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 159,
+        "y0": 689,
+        "x1": 555,
+        "y1": 786
+      },
+      "text": "The Mexican government declares that it is not satisfied all has been done to apprehend the men who lynched one of its citizens in Texas and has protested to Washington.",
+      "status": "ok",
+      "confidence": 0.9534491896629333,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 159,
+        "y0": 854,
+        "x1": 553,
+        "y1": 1140
+      },
+      "text": "The West segregation ordinance, passed by the city council of Baltimore on May 15 last, has been defined for enforcement by Attorney Alonzo L. Miles, counsel to the Board of Police Commissioners. The law as construed is broader than the previous segregation ordinance. One of the important features is the clause relative to existing \"mixed\" blocks. The police will permit either white or colored persons to move into \"mixed\" blocks. The inspector of buildings is authorized to declare a block a \"mixed\" block on application made to him by a majority of the owners.",
+      "status": "ok",
+      "confidence": 0.976767361164093,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 580,
+        "y0": 1115,
+        "x1": 978,
+        "y1": 1367
+      },
+      "text": "Mr. Pinn, of Bethany Baptist Church, speaking before the social workers of Syracuse, N. Y., declared that there are about 1,800 Negroes in Syracuse who cannot find proper living quarters because of prejudice. They also had difficulty in obtaining work, he said. There are only two factories that give employment to colored people. The fact that so many were thus made idle was responsible in part for immoral conditions. Mr. Pinn declared also that they have no place to go for amusement.",
+      "status": "ok",
+      "confidence": 0.977790892124176,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 159,
+        "y0": 1142,
+        "x1": 554,
+        "y1": 1375
+      },
+      "text": "It is unlawful for a colored person to move into or use as a residence any building in a block in which all the residents and occupants of houses, so far as they are occupied at all, are white persons. Penalty, fine $5 to $50 a day.\nIt is unlawful for a white person to move into or use as a residence any building in a block in which all the residents and occupants of houses, so far as the same are occupied at all by colored persons. Penalty, fine $5 to $50 a day.",
+      "status": "ok",
+      "confidence": 0.9656984210014343,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 581,
+        "y0": 1374,
+        "x1": 979,
+        "y1": 1511
+      },
+      "text": "New Orleans appears to be concerned over the fact that there is not complete segregation in some factories and workshops of that city. A woman, factory inspector points out that the laundries particularly have white girls, black women and white and black men work-",
+      "status": "ok",
+      "confidence": 0.9734643697738647,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 158,
+        "y0": 1376,
+        "x1": 556,
+        "y1": 1512
+      },
+      "text": "Blocks in which there are buildings occupied by both white and colored residents are defined as \"mixed blocks.\" Such mixed blocks are still open to rent and occupancy by either white or colored persons just as they were prior to the passage of this ordinance.",
+      "status": "ok",
+      "confidence": 0.9745187759399414,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 160,
+        "y0": 103,
+        "x1": 200,
+        "y1": 125
+      },
+      "text": "140",
+      "status": "ok",
+      "confidence": 0.809073805809021,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 299,
+        "y0": 825,
+        "x1": 414,
+        "y1": 847
+      },
+      "text": "JUDICIAL.",
+      "status": "ok",
+      "confidence": 0.9004412293434143,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 484,
+        "y0": 103,
+        "x1": 646,
+        "y1": 128
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8696987628936768,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 713,
+        "y0": 638,
+        "x1": 846,
+        "y1": 660
+      },
+      "text": "ECONOMIC.",
+      "status": "ok",
+      "confidence": 0.8992300033569336,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.0,
+    "at": "2026-10-06T22:10:36+00:00"
+  }
+}

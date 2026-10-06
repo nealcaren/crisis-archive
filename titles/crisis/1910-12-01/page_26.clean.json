@@ -101,7 +101,8 @@
    },
    "exclude": [],
    "changed": false,
-   "role": "text"
+   "role": "text",
+   "needs_review": "heading 'COLORED MEN LYNCHED WITHOUT' inside box; no verified split at the 3 nearest gaps"
   },
   {
    "id": "r3",
@@ -301,14 +302,17 @@
   "regions_before": 10,
   "regions_after": 10,
   "lost_words": [],
-  "needs_review": [],
+  "needs_review": [
+   "r2"
+  ],
   "unowned_ink_pct": 0.03,
   "box_overlaps_after": 3,
   "log": [
    "reshape r0 (title): lost 0% of its ink, gained 68%",
    "reshape r4 (plain_text): lost 0% of its ink, gained 5%",
    "reread r0: 'THE BURDEN' -> 'THE BURDEN'",
-   "reread r4: 'Total.....2.425' -> 'Total....2.425'"
+   "reread r4: 'Total.....2.425' -> 'Total....2.425'",
+   "REVIEW r2: heading 'COLORED MEN LYNCHED WITHOUT' inside box; no verified split at the 3 nearest gaps"
   ]
  }
 }
