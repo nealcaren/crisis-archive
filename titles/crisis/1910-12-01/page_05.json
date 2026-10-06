@@ -1,0 +1,113 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1084,
+  "height": 1609,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 201,
+        "y0": 129,
+        "x1": 804,
+        "y1": 194
+      },
+      "text": "Along the Color Line",
+      "status": "ok",
+      "confidence": 0.6482437252998352,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 94,
+        "y0": 253,
+        "x1": 494,
+        "y1": 749
+      },
+      "text": "JIM CROW.\nBy what dread logic, by what grand neglect,\nWide as our nation, doth this relic last—\nThis relic of old sterile customs past\nLong since into deep shame without respect?\nEven I whom this contrivance fain would teach\nA low submission, pray within my soul\nThat these my masters may not reap the dole\nOf finding remedy beyond their reach.\nIn lofty mood I mount the reeking box,\nAnd travel through the land. So Terence once\nMoved in old Rome. So—wondrous paradox—\nMoved Esop in old Greece, the dwarf and dunce.\nThen I reflect how their immortal wit\nMakes the world laugh with mockery of it.\n—Leslie Pinckney Hill in The Public.\n\nPOLITICAL.",
+      "status": "ok",
+      "confidence": 0.918872058391571,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 754,
+        "x1": 494,
+        "y1": 1342
+      },
+      "text": "There was much excitement among Negroes during the election in Oklahoma. The attempt was made to shut out all of the Negro voters. There was some rioting, Negroes at Guthrie seizing the voting booth and ousting election officers at other places. The last news is that the Democrats propose to throw out the votes of all precincts where Negroes voted. Such wholesale disfranchisement would save the Democrats the legislature and perhaps the governorship. There has been some conflict between State and Federal authorities on the subject. Resolutions charging the Republican leaders of Oklahoma with delinquency in supporting the Negro race and calling upon the Negroes of the State to support the entire Socialist ticket were adopted by an association of amalgamated Negro organizations of the State, which was organized there. The resolutions placed the association on record as favoring the proposed women suffrage amendment to the constitution, and memorialized Congress to reduce the representation in Oklahoma in proportion to the number of black citizens disfranchised by the grandfather amendment to the constitution, in case that amendment is not declared unconstitutional by the courts. A law was demanded relieving the disfranchised Negro of the poll tax obligation.",
+      "status": "ok",
+      "confidence": 0.976391613483429,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 95,
+        "y0": 1360,
+        "x1": 495,
+        "y1": 1441
+      },
+      "text": "Just before the election the administration at Washington showed signs of alarm over the Negro vote. Various prospective appointments of Negroes were unofficially",
+      "status": "ok",
+      "confidence": 0.7723234295845032,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 254,
+        "x1": 916,
+        "y1": 751
+      },
+      "text": "announced, including that of W. H. Lewis as Assistant United States Attorney. Franklin MacVeagh, Secretary of the Treasury, made public a long letter that he has written to a Negro organization in Chicago, explaining why a colored man was not appointed as chief of a division in the office of the Auditor for the Post-office Department, the vacancy having been created by the death of a Negro. The Secretary explains that the division chiefs in the Treasury Department are in the classified Civil Service, and are selected on merit. \"There is no disposition,\" says the Secretary, \"on the part of the present administration of the Treasury Department to discriminate against the colored race. \"On the contrary, every care has been taken to avoid discrimination and to see to it that exact justice is done to all. For instance, out of 66 colored employees in the office of the Auditor for the Post-office Department who are eligible under civil service rules for promotion, 26, or 39.3 per cent. have been promoted since February, 1908.",
+      "status": "ok",
+      "confidence": 0.9729755520820618,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 752,
+        "x1": 915,
+        "y1": 1297
+      },
+      "text": "\"Also, on September 2, 1910, Mr. Theodore H. Green, a colored man, was appointed by me as acting disbursing officer for the office of the Auditor of the Post-office Department, one of the most responsible positions in the office. Mr. Green disburses salaries amounting to $760,000 annually, paying a force of 711 officers and employees twice each month.\"\n\nIn Clinton, La., the total registered votes for the parish of East Feliciana is 609. Six hundred and seven are white and two colored. Eight registered as Republicans and four declined to declare their party affiliation.\n\nThe Lower House of the Texas Legislature, by a vote of 51 to 34, instructed Senators and Congressmen to work for the repeal of the Fourteenth Amendment to the Federal Constitution conferring franchise upon Negroes.\n\nThe fact that no colored student has ever been admitted to Princeton was brought against Governor-elect Wilson in the last campaign.",
+      "status": "ok",
+      "confidence": 0.9692460298538208,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 1319,
+        "x1": 917,
+        "y1": 1441
+      },
+      "text": "There is some rumor of a colored man being appointed as Sub-Treasurer in the Mint at Philadelphia.\n\nHarry W. Bass, who was elected to the Assembly from the Sixth District, compris-",
+      "status": "ok",
+      "confidence": 0.9194528460502625,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.8,
+    "at": "2026-10-06T20:55:34+00:00"
+  }
+}

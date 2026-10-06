@@ -1,0 +1,225 @@
+{
+  "page": 31,
+  "image": "images/page_31.jpg",
+  "width": 1089,
+  "height": 1669,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 273,
+        "y0": 111,
+        "x1": 909,
+        "y1": 431
+      },
+      "text": "us that he went to\ntify a love of adven-\ntment five of the most\nof his life there. He\nfom the first. \"With\n\"he says, \"I frater-\nmet, and soon found\nand of good humor in\nition. There was a\nthe most villainous-\nI generally found it.\"\nthe tribe, one learns\nmore likely are the\nthe most enlightened and enterprising of\nthe Congo communities.\" This, however,\nis contradicted if we consider their treat-\nment of women. For while a semi-civiliza-\ntion, the civilization of the middle Congo\nand along the coast, brings with it\nstealing and lying and a low cunning, it\nis also accompanied, our author shows us,\nby an improvement in the status of women.\nThe savagery that develops high qualities\nin the dominant sex reveals its inherent\nimmorality in its treatment of all who are\nphysically weak.",
+      "status": "ok",
+      "confidence": 0.9754793047904968,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 71,
+        "y0": 165,
+        "x1": 478,
+        "y1": 582
+      },
+      "text": "The author assures us that he went to Africa simply to gratify a love of adventure, and that he spent five of the most impressionable years of his life there. He took to Africans from the first. \"With youthful exuberance,\" he says, \"I fraternized with everyone I met, and soon found that there was a fund of good humor in the African composition. There was a good side to even the most villainous-looking savage, and I generally found it.\" The more savage the tribe, one learns from his book, the more likely are the men to have attractive personal qualities. Writing of the men of the upper Congo, who practiced cannibalism, he tells us, \"The cannibals are not schemers, and they are not mean. When they steal they generally grab. Though in direct opposition to all natural conjectures, they are among the best types of men, representing",
+      "status": "ok",
+      "confidence": 0.9675468802452087,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 504,
+        "y0": 433,
+        "x1": 909,
+        "y1": 718
+      },
+      "text": "The writer leaves these very human people who are often cruel, but who are, also, often kind, with the sincere wish that they be given a chance; that the Europeans who go among them may cease persecution and endeavor to lead them to high and worthy living.",
+      "status": "ok",
+      "confidence": 0.9762222170829773,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 71,
+        "y0": 582,
+        "x1": 479,
+        "y1": 718
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 72,
+        "y0": 582,
+        "x1": 743,
+        "y1": 878
+      },
+      "text": "A PROSPEROUS VIRGINIA BANK\n\nThe Mechanics' Savings Bank of Richmond, Va., is one of the prosperous institutions run by colored men. It was organized in 1901 by John Mitchell, Jr., capitalized at $25,000, and opened for business in a basement.\n\nand in 1909 the deposit making a total, in eight years.\n\nLast year a building co- put up. It has five sto- garden. The interior",
+      "status": "ok",
+      "confidence": 0.9671143889427185,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 504,
+        "y0": 759,
+        "x1": 909,
+        "y1": 919
+      },
+      "text": "and in 1909 the deposits were $480,062, making a total, in eight years, of $2,702,236. Last year a building costing $100,000 was put up. It has five stories and a roof garden. The interior is handsome and tastefully decorated. Much marble has been used in combination with mahogany.",
+      "status": "ok",
+      "confidence": 0.9621354937553406,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 71,
+        "y0": 879,
+        "x1": 479,
+        "y1": 920
+      },
+      "text": "The first year's deposits amounted to $122,915. Business grew with every year",
+      "status": "ok",
+      "confidence": 0.9422288537025452,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 504,
+        "y0": 919,
+        "x1": 909,
+        "y1": 1539
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 71,
+        "y0": 920,
+        "x1": 479,
+        "y1": 1539
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "figure",
+      "bbox": {
+        "x0": 141,
+        "y0": 985,
+        "x1": 840,
+        "y1": 1560
+      },
+      "text": "The Mechanics' Savings Bank, Richmond, Va.",
+      "status": "ok",
+      "confidence": 0.9769160151481628,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 71,
+        "y0": 1560,
+        "x1": 479,
+        "y1": 1649
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 244,
+        "y0": 1560,
+        "x1": 743,
+        "y1": 1649
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 504,
+        "y0": 1560,
+        "x1": 909,
+        "y1": 1649
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "title",
+      "bbox": {
+        "x0": 429,
+        "y0": 632,
+        "x1": 552,
+        "y1": 671
+      },
+      "text": "尬",
+      "status": "ok",
+      "confidence": 0.8664909601211548,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 880,
+        "y0": 112,
+        "x1": 904,
+        "y1": 133
+      },
+      "text": "31",
+      "status": "ok",
+      "confidence": 0.7862436175346375,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.6,
+    "at": "2026-10-06T21:19:47+00:00"
+  }
+}

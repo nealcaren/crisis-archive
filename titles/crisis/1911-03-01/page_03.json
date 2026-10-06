@@ -1,0 +1,183 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1088,
+  "height": 1668,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 292,
+        "y0": 102,
+        "x1": 760,
+        "y1": 249
+      },
+      "text": "THE CRISIS\nA Record of the Darker Races\nContents for March, 1911",
+      "status": "ok",
+      "confidence": 0.8656643629074097,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 105,
+        "y0": 249,
+        "x1": 518,
+        "y1": 745
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 538,
+        "y0": 249,
+        "x1": 950,
+        "y1": 745
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 103,
+        "y0": 260,
+        "x1": 951,
+        "y1": 708
+      },
+      "text": "ALONG THE COLOR LINE. 5\nOPINION 11\nTHE N. A. A. C. P. 15\nEDITORIAL 16\nCARTOON. By John Henry Adams. 18\nBALLADE DES BELLES MILATRAISSES. By Rosalie Jonas 22\nAFRICAN CIVILIZATION. By M. D. Maclean. 23\n\"DAGGANCOURT.\" By Lloyd Osbourne and Henry E. Baker. 26\nTHE BURDEN. 28\nTALKS ABOUT WOMEN. By Mrs. John E. Milholland. 29\nWHAT TO READ. 30\nA PROSPEROUS VIRGINIA BANK. 31",
+      "status": "ok",
+      "confidence": 0.9450740814208984,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 321,
+        "y0": 745,
+        "x1": 724,
+        "y1": 775
+      },
+      "text": "Actual Circulation of THE CRISIS",
+      "status": "ok",
+      "confidence": 0.614774227142334,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 105,
+        "y0": 775,
+        "x1": 518,
+        "y1": 940
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 538,
+        "y0": 775,
+        "x1": 950,
+        "y1": 940
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 105,
+        "y0": 778,
+        "x1": 948,
+        "y1": 904
+      },
+      "text": "November .....1,000 copies January .....3,000 copies\nDecember .....2,500 copies February .....4,000 copies\nMarch .....6,000 copies\nAgents wanted who can furnish reliable references.\nEntered as second-class matter in the post office at New York City.",
+      "status": "ok",
+      "confidence": 0.8778824806213379,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 274,
+        "y0": 940,
+        "x1": 950,
+        "y1": 1506
+      },
+      "text": "pressed with the appearance of magazine.\"\nL. J. JOHNSON,\nHarvard University,\nCambridge, Mass.\n\nεcellent and I hope I may be\nbring other subscribers.\"\nBERTHA JOHNSTON,\nBrooklyn, N. Y.\n\neffort, courageous in its utter-\nits defense of the man of\nGEO. E. WIBECAN, JR.,\nBrooklyn, N. Y.\n\nnumber of your magazine, THE\nand much appreciation yester-\nW. H. SHORT,\nExecutive Secretary,\nby the City of New York.\n\ny word of the first number of\nrelish equal to the zeal of the\nJ. WILBUR NORRIS,\nSioux City, Ia.\n\nover the matter arranged for\nall seems to me to be excellent.\ny change. I shall be glad to\nmagazine.\"\nCHARLES EDWARD RUSSELL,\nNew York.\n\n\"It its page of race bibliography will be especially\nhelpful to students and study club workers.\"\nPAULINE SMITH,\nDetroit, Mich.\n\n\"The Crisis fills a long-felt want. It should be\nindispensable to every patriotic American.\"\nR. C. EDMONDSON,\nWashington, D. C.\n\n\"I have just read the last issue of THE CRISIS.\nI find it valuable for the series of facts that it\npresents in succinct form. I have read it with\ndeep interest and consider it of distinct value.\"\nWILBUR P. THIRKIELD,\nPresident Howard University,\nWashington, D. C.\n\n\"I like THE CRISIS. This first number is good\nin itself, and is full of great promise.\"\nCHARLES T. THWING,\nPresident Western Reserve University,\nAdelbert College,\nCleveland, Ohio.\n\n\"It makes a dignified, informing and convincing\nargument against color prejudice.\"\nSAMUEL A. PEASE,\nAttorney, Brooklyn.\n\n\"I feel that it supplies a long-felt necessity.\nI am trying to induce all lovers of fair play for\nthe human race to subscribe to it.\"\nT. M. DENT,\nDept. Commerce and Labor.",
+      "status": "ok",
+      "confidence": 0.9153135418891907,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 105,
+        "y0": 980,
+        "x1": 518,
+        "y1": 1504
+      },
+      "text": "\"I am much impressed with the appearance of your new monthly magazine.\"\nL. J. JOHNSON,\nHarvard University,\nCambridge, Mass.\n\n\"The paper is excellent and I hope I may be instrumental in securing other subscribers.\"\nBERTHA JOHNSTON,\nBrooklyn, N. Y.\n\n\"It is a splendid effort, courageous in its utterances and manly in its defense of the man of color.\"\nGEO. E. WIBECAN, JR.\nBrooklyn, N. Y.\n\n\"I read the first number of your magazine, THE CRISIS, with care and much appreciation yesterday.\"\nW. H. SHORT,\nExecutive Secretary,\nThe Peace Society of the City of New York.\n\n\"I have read every word of the first number of THE CRISIS with a relish equal to the zeal of the production.\"\nJ. WILBUR NORRIS,\nSioux City, Ia.\n\n\"I have looked over the matter arranged for THE CRISIS and it all seems to me to be excellent. I cannot suggest any change. I shall be glad to contribute to the magazine.\"\nCHARLES EDWARD RUSSELL,\nNew York.",
+      "status": "ok",
+      "confidence": 0.6737592220306396,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 105,
+        "y0": 1504,
+        "x1": 518,
+        "y1": 1648
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 538,
+        "y0": 1506,
+        "x1": 950,
+        "y1": 1648
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.3,
+    "at": "2026-10-06T21:16:02+00:00"
+  }
+}

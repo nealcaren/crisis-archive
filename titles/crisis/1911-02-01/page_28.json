@@ -1,0 +1,113 @@
+{
+  "page": 28,
+  "image": "images/page_28.jpg",
+  "width": 1396,
+  "height": 2081,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 223,
+        "y0": 117,
+        "x1": 1284,
+        "y1": 287
+      },
+      "text": "TALKS ABOUT WOMEN\nNUMBER THREE By Mrs. JOHN E. MILHOLLAND",
+      "status": "ok",
+      "confidence": 0.7690227627754211,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 221,
+        "y0": 320,
+        "x1": 731,
+        "y1": 989
+      },
+      "text": "Much has been written and said about the great movement of women's clubs all over America—East, West, North and South. This has perhaps been mostly talked of here in our home city where one is familiar with hundreds of these splendid working bodies—all doing interesting things—but organized and run mostly for and by women interested in progress for women of their own class and color. Therefore, it is with the greatest satisfaction as well as surprise to find that the colored women also have their own large organizations established all over this country, each doing a work quite on a plane with anything yet attempted by other American women. In Number 14 of the Atlanta University Publications, there is a most thorough and graphic account of these clubs, revealing a spirit of progress and organization most remarkable considering the drawbacks these colored women have encountered and the comparatively short time in which they have had not alone opportunity, but even the privilege of working for the development and culture of their own sex.",
+      "status": "ok",
+      "confidence": 0.9714093208312988,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 221,
+        "y0": 996,
+        "x1": 733,
+        "y1": 1496
+      },
+      "text": "In referring to that quite remarkable organization, \"The National Association of Colored Women,\" Mrs. Josephine S. Yates, the Honorary President, writes as follows: \"An inquiry into existing organizations among our women reveals the fact that most of these are auxiliary societies founded and controlled by men, or by the combined efforts of men and women; also, that usually they are secret orders, or connected with various church denominations; and, furthermore, that in their respective fields much work of high order has been accomplished. \"There is, however, one notable exception to the rule stated in the previous paragraph relative to organizations of women, and this is to be found in the 'National Association of Colored Women,' an organization founded and controlled entirely by women.\"",
+      "status": "ok",
+      "confidence": 0.9706774353981018,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 223,
+        "y0": 1499,
+        "x1": 733,
+        "y1": 1873
+      },
+      "text": "This Colored Women's Association has held its conventions in the various cities of the South and West with much success. That these meetings were well thought of and their business methods approved is shown by the following editorial from the Daily News, of Chicago, whose editor says: \"Of all the conventions that have met in the country this summer there is none that has taken hold of the business in hand with more good sense and judgment than the National Association of Colored Women, now assembled in this city. The subjects brought up, the manner of their treatment and the decisions reached exhibit wide and",
+      "status": "ok",
+      "confidence": 0.9673508405685425,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 766,
+        "y0": 314,
+        "x1": 1281,
+        "y1": 861
+      },
+      "text": "appreciative knowledge of conditions confronting the colored people.\"\nThe National Association of Colored Women has many departments, comprising all sorts and variety of club work. Its branches are to be found in many of the large cities in the West. Federations of these clubs comprising in some instances as many as forty-five clubs in one State have been formed, all doing active and useful work. The Virginia president reports as follows:\n\"We have connected with the State Federation of Colored Women of Virginia, clubs whose members are actively engaged in home, school, church, village improvement, rescue work, and social settlements, and they are doing good work. These clubs had been organized and working long before the State Federation was organized, so that explains how we can do so much work in so short a time.",
+      "status": "ok",
+      "confidence": 0.9784891605377197,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 766,
+        "y0": 862,
+        "x1": 1281,
+        "y1": 1428
+      },
+      "text": "\"At our Second Annual Meeting, held in Richmond, June 17 and 18, 1909, forty-seven clubs, representing 1,200 women, were reported.\"\nIn referring to the Mississippi organization, the president of the Vicksburg club writes:\n\"The women of Vicksburg, after several attempts, succeeded in 1905 in effecting a permanent organization. These clubwomen were banded together to do charity work, but for a long time could not decide what work was most necessary. They finally concluded that some provision for caring for the old folks and orphans should be made. This work was immediately undertaken by them. They began at once to solicit funds from the people of this immediate vicinity for the purpose. They had to overcome the difficulties common to all incipient work. Many felt that nothing would ever come of the movement and refrained from taking a part.",
+      "status": "ok",
+      "confidence": 0.9786435961723328,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 766,
+        "y0": 1429,
+        "x1": 1283,
+        "y1": 1878
+      },
+      "text": "\"Notwithstanding this, they selected a suitable lot about a mile from Vicksburg, containing a large antebellum residence, and contracted to buy the same for $1,200. \"They have now paid for the place. They have bought also two smaller lots in the same locality, and are now collecting funds to repair the Home, after which they intend to open it for the reception of the aged poor. \"They have no permanent source of support. Their collections have been made solely in this community of Vicksburg, Miss.\" And so the report goes on to relate most interestingly the success which has crowned the efforts of these pioneers of the colored women's organizations all over America.",
+      "status": "ok",
+      "confidence": 0.9600718021392822,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.6,
+    "at": "2026-10-06T21:13:41+00:00"
+  }
+}

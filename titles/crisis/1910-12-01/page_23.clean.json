@@ -1,0 +1,548 @@
+{
+ "page": 23,
+ "image": "images/page_23.jpg",
+ "width": 1078,
+ "height": 1606,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.8,
+  "at": "2026-10-06T20:58:13+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 319,
+    "y0": 103,
+    "x1": 679,
+    "y1": 127
+   },
+   "text": "THE REAL RACE PROBLEM",
+   "status": "ok",
+   "confidence": 0.8717226386070251,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 317,
+    "y0": 102,
+    "x1": 677,
+    "y1": 126
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 511,
+    "y0": 154,
+    "x1": 907,
+    "y1": 234
+   },
+   "text": "aged by Mohammedan or European slave hunters, and which have enjoyed a period of peace, are characterized by high industrial development.",
+   "status": "ok",
+   "confidence": 0.9625252485275269,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 509,
+    "y0": 152,
+    "x1": 906,
+    "y1": 231
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 89,
+    "y0": 152,
+    "x1": 487,
+    "y1": 367
+   },
+   "text": "its entirety, does not equal the amount of physiological development attained by better-situated individuals of the same race. It appears, therefore, that the simple fact of an early completion of development does not by any means prove mental inferiority, because the better-situated element of our white population furnishes a disproportionately large number of capable and efficient individuals, as compared to the less favorably situated groups.",
+   "status": "ok",
+   "confidence": 0.9771375060081482,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 153,
+    "x1": 484,
+    "y1": 362
+   },
+   "exclude": [
+    [
+     111,
+     350,
+     127,
+     379,
+     "r4"
+    ],
+    [
+     127,
+     364,
+     136,
+     379,
+     "r4"
+    ],
+    [
+     174,
+     365,
+     183,
+     379,
+     "r4"
+    ],
+    [
+     195,
+     365,
+     199,
+     379,
+     "r4"
+    ],
+    [
+     288,
+     366,
+     290,
+     368,
+     "r4"
+    ],
+    [
+     311,
+     366,
+     315,
+     380,
+     "r4"
+    ],
+    [
+     350,
+     366,
+     359,
+     381,
+     "r4"
+    ],
+    [
+     457,
+     366,
+     459,
+     369,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "title",
+   "bbox": {
+    "x0": 512,
+    "y0": 243,
+    "x1": 908,
+    "y1": 614
+   },
+   "text": "TRADE WELL ORGANIZED.\nAgriculture flourishes; men and women are engaged in pottery making, weaving, blacksmith work, and metal casting; trade between the different villages is well organized; and in many cases the political organization, owing to the force of character of great men, has led to the establishment of states which cover territories comparable in size only to large sections of our American continent. I think it is not saying too much if I state that among the primitive people of the world, the natives of Central Africa are by far the most advanced, and that the type of their civilization belongs to the same level of culture which was found a few thousand years ago all over the western part of the Old World, including Europe and Western Asia.",
+   "status": "ok",
+   "confidence": 0.9791777729988098,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 511,
+    "y0": 241,
+    "x1": 905,
+    "y1": 609
+   },
+   "exclude": [
+    [
+     534,
+     613,
+     541,
+     628,
+     "r5"
+    ],
+    [
+     544,
+     613,
+     550,
+     628,
+     "r5"
+    ],
+    [
+     618,
+     613,
+     625,
+     628,
+     "r5"
+    ],
+    [
+     636,
+     613,
+     638,
+     616,
+     "r5"
+    ],
+    [
+     829,
+     613,
+     839,
+     628,
+     "r5"
+    ],
+    [
+     852,
+     613,
+     855,
+     616,
+     "r5"
+    ],
+    [
+     886,
+     613,
+     896,
+     627,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 90,
+    "y0": 348,
+    "x1": 491,
+    "y1": 877
+   },
+   "text": "The whole anatomical and physiological comparison of the Negro and of the white race may be summed up in the statement that certain differences between the two races are so fundamental that they seem to form two quite distinct groups of the human species, the characteristics of which, notwithstanding the great variability of each race, do not overlap; while, in regard to other characteristics, the differences are so slight that the difference between the two races is insignificant, as compared to the range of variability exhibited in each race by itself; and that there are hardly any anatomical or physiological traits developed in such manner that we are justified in calling one race anatomically or physiologically higher than the other. The existing differences are differences in kind, not in value. This implies that the biological evidence also does not sustain the view, which is so often proposed, that the mental power of the one race is higher than that of the other, although their mental qualities show, presumably, differences analogous to the existing anatomical and physiological differences.",
+   "status": "ok",
+   "confidence": 0.9806752800941467,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 91,
+    "y0": 364,
+    "x1": 486,
+    "y1": 876
+   },
+   "exclude": [
+    [
+     102,
+     346,
+     111,
+     360,
+     "r2"
+    ],
+    [
+     112,
+     346,
+     116,
+     360,
+     "r2"
+    ],
+    [
+     197,
+     346,
+     207,
+     360,
+     "r2"
+    ],
+    [
+     153,
+     349,
+     159,
+     360,
+     "r2"
+    ],
+    [
+     181,
+     349,
+     186,
+     360,
+     "r2"
+    ],
+    [
+     92,
+     350,
+     100,
+     360,
+     "r2"
+    ],
+    [
+     139,
+     350,
+     146,
+     360,
+     "r2"
+    ],
+    [
+     147,
+     351,
+     152,
+     360,
+     "r2"
+    ],
+    [
+     160,
+     351,
+     169,
+     360,
+     "r2"
+    ],
+    [
+     171,
+     350,
+     180,
+     360,
+     "r2"
+    ],
+    [
+     188,
+     351,
+     195,
+     361,
+     "r2"
+    ],
+    [
+     219,
+     351,
+     237,
+     364,
+     "r2"
+    ],
+    [
+     238,
+     351,
+     247,
+     361,
+     "r2"
+    ],
+    [
+     249,
+     351,
+     258,
+     361,
+     "r2"
+    ],
+    [
+     260,
+     351,
+     269,
+     365,
+     "r2"
+    ],
+    [
+     271,
+     351,
+     277,
+     361,
+     "r2"
+    ],
+    [
+     279,
+     358,
+     281,
+     361,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 513,
+    "y0": 611,
+    "x1": 909,
+    "y1": 971
+   },
+   "text": "If the Africans have not shared in the development which, after many vicissitudes, gradually extended from Egypt and Babylonia over the Mediterranean area, and from there later into Northern Europe, this is due to the fact that Africa occupied a much more remote position in relation to these countries, and that the current of civilization was carried with much greater difficulty through the virgin forests and deserts of Africa than along the shores of the Mediterranean and across the forests and meadow lands of Europe.\n\nThus it may safely be said that there is no anthropological evidence showing inferiority of the Negro race as compared with the white race, although we may assume that differences in mental characteristics of the two races exist.",
+   "status": "ok",
+   "confidence": 0.9756666421890259,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 513,
+    "y0": 612,
+    "x1": 907,
+    "y1": 971
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "title",
+   "bbox": {
+    "x0": 92,
+    "y0": 885,
+    "x1": 490,
+    "y1": 1370
+   },
+   "text": "The objection will be raised that the low stage of culture of the African race in many parts of America, as well as in Africa, shows clearly a lack of mental power, because otherwise the Negro race might have developed a civilization similar to that of Europe. In answer to this objection, we must remember that, on the whole, our conception of African conditions is based altogether too much upon the condition of the uneducated descendant of the American Negro slave. Any one who is familiar with ethnological facts will recognize that the conditions under, which the American slave population developed is apt to destroy what little culture may have existed. The complete break with the African past; the imposition of labor, in the results of which the slave had no direct interest; the difficulty of assimilating the elements of civilization by which they were surrounded, all tended equally to reduce to a minimum the amount of independent cultural achievement of the group.",
+   "status": "ok",
+   "confidence": 0.9814488291740417,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 92,
+    "y0": 883,
+    "x1": 487,
+    "y1": 1366
+   },
+   "exclude": [
+    [
+     282,
+     1369,
+     291,
+     1384,
+     "r8"
+    ],
+    [
+     405,
+     1369,
+     409,
+     1383,
+     "r8"
+    ],
+    [
+     424,
+     1369,
+     427,
+     1371,
+     "r8"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 514,
+    "y0": 1005,
+    "x1": 910,
+    "y1": 1386
+   },
+   "text": "The question that confronts us is not alone the question of the mental aptitude of the full-blood Negro, but also the question of the ability, vigor, and adaptability of the mulatto. In the course of time, since the Negro has been imported into America, a very large amount of influx of white blood has taken place, which has had the result that in those parts of the country where the Negro does not form a very great majority, full-bloods are presumably quite rare. Owing to the peculiar manner of development of this mulatto population, it is very difficult, if not impossible, to trace the exact amount of white blood and of Negro blood in the mixed races; but even a cursory examination of the prevalent types of the colored population shows clearly that the mixture is very extended.",
+   "status": "ok",
+   "confidence": 0.9799037575721741,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 514,
+    "y0": 1005,
+    "x1": 907,
+    "y1": 1384
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 93,
+    "y0": 1367,
+    "x1": 491,
+    "y1": 1504
+   },
+   "text": "On the other hand, the general impression of African conditions is based altogether too much upon our knowledge of the American Negro. It is not sufficiently well known how highly advanced is the industrial and political organization of aboriginal Africa. Villages that have not been rav-",
+   "status": "ok",
+   "confidence": 0.976482093334198,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 93,
+    "y0": 1368,
+    "x1": 488,
+    "y1": 1501
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 515,
+    "y0": 1386,
+    "x1": 911,
+    "y1": 1504
+   },
+   "text": "Here the point has often been raised that the mulatto population is inferior to either pure race, or, to use the popular form of expression, that they inherit all the evil characteristics of both parental races, and none of their good qualities. It is obvious",
+   "status": "ok",
+   "confidence": 0.9693738222122192,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 514,
+    "y0": 1386,
+    "x1": 908,
+    "y1": 1502
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r10",
+   "label": "abandon",
+   "bbox": {
+    "x0": 879,
+    "y0": 101,
+    "x1": 907,
+    "y1": 124
+   },
+   "text": "23",
+   "status": "ok",
+   "confidence": 0.8312307596206665,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 878,
+    "y0": 101,
+    "x1": 905,
+    "y1": 122
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r11",
+   "label": "title",
+   "bbox": {
+    "x0": 610,
+    "y0": 984,
+    "x1": 813,
+    "y1": 1001
+   },
+   "text": "CASE OF THE MULATTO",
+   "status": "ok",
+   "confidence": 0.892280638217926,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 609,
+    "y0": 982,
+    "x1": 811,
+    "y1": 1000
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 12,
+  "regions_after": 12,
+  "lost_words": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 3,
+  "log": []
+ }
+}

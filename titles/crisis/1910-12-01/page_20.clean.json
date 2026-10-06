@@ -1,0 +1,241 @@
+{
+ "page": 20,
+ "image": "images/page_20.jpg",
+ "width": 1084,
+ "height": 1609,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.8,
+  "at": "2026-10-06T20:57:46+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 486,
+    "y0": 97,
+    "x1": 638,
+    "y1": 120
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8673741817474365,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 483,
+    "y0": 95,
+    "x1": 637,
+    "y1": 120
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 151,
+    "y0": 98,
+    "x1": 549,
+    "y1": 219
+   },
+   "text": "the exclusive, but the heritage of all men in a world where most men are colored.",
+   "status": "ok",
+   "confidence": 0.9485591053962708,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 97,
+    "x1": 549,
+    "y1": 219
+   },
+   "exclude": [
+    [
+     503,
+     99,
+     523,
+     118,
+     "r0"
+    ],
+    [
+     523,
+     99,
+     540,
+     118,
+     "r0"
+    ],
+    [
+     488,
+     100,
+     503,
+     117,
+     "r0"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "the exclusive, but the heritage of all men in a world where most men are colored.",
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "title",
+   "bbox": {
+    "x0": 153,
+    "y0": 254,
+    "x1": 549,
+    "y1": 695
+   },
+   "text": "FOR colored men the Congressional election of 1910 marked an event. Never before since Emancipation have so many colored voters cast the Democratic ticket. The reason for this was fourfold: 1. Mr. Roosevelt's blunder at Brownsville. 2. The failure of the Republican party to redeem its reiterated pledges to colored men. 3. The policy of ousting Negro officeholders inaugurated by Mr. Taft. 4. The invitation extended by various Democratic candidates in the North and by the party in border States like Missouri.",
+   "status": "ok",
+   "confidence": 0.9477370977401733,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 250,
+    "x1": 549,
+    "y1": 693
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 152,
+    "y0": 697,
+    "x1": 549,
+    "y1": 1178
+   },
+   "text": "Was it wise for colored men to vote the Democratic ticket? It is always wise for any voter to vote his honest convictions. Whether or not the colored people will be treated decently by the triumphant Democracy remains to be seen. On this point the appeal sent out to newly elected congressmen by the United Colored Democracy of New York is significant: \"The result places a heavy responsibility on us and, we venture to suggest, on you. Fair and honest as has been the treatment of Negroes by a large part of your party it is nevertheless unfortunately true that a reactionary branch is continually endeavoring through legislation and judicial decision to proscribe and degrade our people.",
+   "status": "ok",
+   "confidence": 0.9753636121749878,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 151,
+    "y0": 697,
+    "x1": 547,
+    "y1": 1174
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 152,
+    "y0": 1176,
+    "x1": 549,
+    "y1": 1516
+   },
+   "text": "\"In view of this fact we earnestly appeal to you to do all in your power to see that the forces of reaction and race hatred do not take advantage of this Democratic victory to pass oppressive legislation. Should this be done, our efforts for a series of years will be nullified, the Republicans will be able to say, 'I told you so,' and the growing Negro vote will be lost to the Democrats for a long time. As you know in a close contest the colored voters of several large Northern States hold the balance of power.",
+   "status": "ok",
+   "confidence": 0.9669788479804993,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 1176,
+    "x1": 548,
+    "y1": 1512
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 565,
+    "y0": 145,
+    "x1": 977,
+    "y1": 676
+   },
+   "text": "\"We do not expect or ask for special legislation, but we do ask that your party stand up for progressive measures and refuse to be made responsible for any effort to degrade American citizens.\"\n\nTHE GHETTO.\n\nIT IS curious how old ideas recur and ancient ones persist. In earliest times the easiest way to prevent trouble was to separate the combatants—put space between them, herd them in separate sections and territories. So long as the world was wide this was feasible and often effective. As the world grows narrower, it is not so easy and as it grows more civilized it is less advisable. For after all culture is the meeting and learning of men.",
+   "status": "ok",
+   "confidence": 0.976205050945282,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 572,
+    "y0": 144,
+    "x1": 976,
+    "y1": 671
+   },
+   "exclude": [
+    [
+     601,
+     675,
+     616,
+     692,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 575,
+    "y0": 673,
+    "x1": 976,
+    "y1": 1199
+   },
+   "text": "For instance, one meets on street or car an impudent colored man. He has some education, he has good clothes and he feels his importance and asserts himself. Like a flash you rush to the conclusion: Such a man ought not to associate with white folks until he learns good manners. But hold; suppose all the ill-mannered white folk were segregated, would that improve the world's deportment? Certainly not. It would make it distinctly and dangerously worse. It is association with the well-bred that brings manners. How has America come to improve the manners which justly shocked Dickens and Mrs. Martineau? By associating with gentlemen and ladies here and in Europe. It was and is a bit hard on Europe, but it is a great boon for the world.",
+   "status": "ok",
+   "confidence": 0.9780834317207336,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 574,
+    "y0": 674,
+    "x1": 975,
+    "y1": 1199
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 575,
+    "y0": 1202,
+    "x1": 978,
+    "y1": 1517
+   },
+   "text": "In America by the accident of color it is possible roughly to separate much ignorance and bad manners by drawing the color line. But it is a barbarous and unjust and unwise expedient, and it leads to the extreme Ghetto idea. The half-trained white Baltimore tradesman reasons logically: If I can push black men out of my way in train and street car, in theatre and art gallery, in church and park, why can I not segregate them in a Ghetto? The Atlanta \"cracker,\" new-",
+   "status": "ok",
+   "confidence": 0.9775398969650269,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 575,
+    "y0": 1201,
+    "x1": 975,
+    "y1": 1515
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "unowned_ink_pct": 0.12,
+  "box_overlaps_after": 3,
+  "log": [
+   "reshape r1 (abandon): lost 9% of its ink, gained 0%",
+   "reread r1: 'the exclusive, but the heritage of all m' -> 'the exclusive, but the heritage of all m'"
+  ]
+ }
+}

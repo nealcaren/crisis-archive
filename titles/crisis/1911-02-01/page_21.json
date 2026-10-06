@@ -1,0 +1,141 @@
+{
+  "page": 21,
+  "image": "images/page_21.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 527,
+        "y0": 119,
+        "x1": 713,
+        "y1": 152
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.6878559589385986,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 186,
+        "x1": 606,
+        "y1": 493
+      },
+      "text": "In other words, the separation of the races which would involve political, economic and social independence in the South would be as hateful to them as social intermingling. Every man, then, that bows to the dogma of race separation must accept subordination and humiliation along with the destruction of the best ideals of democracy.",
+      "status": "ok",
+      "confidence": 0.9751020669937134,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 101,
+        "y0": 495,
+        "x1": 608,
+        "y1": 838
+      },
+      "text": "Those who persist in opposition to it need not be scared by bugbears of possible intermarriage. In a true democracy and there alone are sexual relations regulated by giving to all the right to choose their consorts. Only in an oligarchy like Louisiana is race intermingling so endless that they cannot enforce their own race segregation laws. SOUTHERN PAPERS.",
+      "status": "ok",
+      "confidence": 0.9754109382629395,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 104,
+        "y0": 846,
+        "x1": 614,
+        "y1": 1803
+      },
+      "text": "THERE are reasons why certain white Southern papers should be classed with Life when they speak on the race problem. Life is not as funny as it used to be, and these papers are a good deal funnier. This brings the two types into something like competition at times. Take, for instance, the Charleston News and Courier. On most matters it is a sane and able newspaper, but let it approach the Negro problem and directly it begins to strut and darken in a way that would surely excite a smile did it not touch so vast a tragedy. When the late Alabama peonage cases reached the Supreme Court the News and Courier lifted a portentously warning finger. Look out, it shouted in calmly dignified tones, look out! Do not interfere with the divinely established economic harmony of the rural South. The Negro must be made to work. Our methods may lack delicacy and ease, but—and the editor spread his hands—what is peonage between friends? We are sure, he continued, that the Supreme Court will hesitate long before disturbing laws on which Southern prosperity depends.",
+      "status": "ok",
+      "confidence": 0.9741273522377014,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 106,
+        "y0": 1805,
+        "x1": 615,
+        "y1": 1930
+      },
+      "text": "The Supreme Court calmly overthrew the law. The News and Courier did not wink an eye or turn an eyelash. It simply revolved toward",
+      "status": "ok",
+      "confidence": 0.9690236449241638,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1109,
+        "y0": 119,
+        "x1": 1141,
+        "y1": 147
+      },
+      "text": "21",
+      "status": "ok",
+      "confidence": 0.8164557814598083,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 640,
+        "y0": 185,
+        "x1": 1151,
+        "y1": 712
+      },
+      "text": "the Negroes and delivered itself of this inimitable bit of reflection: This is a hard blow for you black folk—you'll get no more money advanced to you as farmhands and you'll probably starve. On the other hand, this decision is a blessing for us landlords. All of which leads us to ask: Is the dominant, implacable portion of the white South, which speaks so loudly and incessantly on this race problem and with such perfect and breathless assurance—is it joking on this vast problem, or is it talking for effect? And this again, as we said in the beginning, makes us wild for the last copy of Life, Puck or Judge.",
+      "status": "ok",
+      "confidence": 0.8375780582427979,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 645,
+        "y0": 744,
+        "x1": 1151,
+        "y1": 1339
+      },
+      "text": "THERE is an artist in New York who rose from the humblest circumstances and now lives in a suburb of the city. In his rise he has evidently learned the essentials of democracy, for his wife in an interview says that they want separate Negro schools in that suburb. They need to have them, but a very foolish law interfered, she laments: \"We got along here very well with our separate Negro school. At the same time the Catholic Church maintained a parochial school, to which most of the Italian children went, so that public schools had practically no problem to solve at all as to the commingling of children of different races.\"",
+      "status": "ok",
+      "confidence": 0.9785436987876892,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 649,
+        "y0": 1340,
+        "x1": 1156,
+        "y1": 1928
+      },
+      "text": "Exquisite! Add to this the demand for separate Asiatic schools in California and we have a splendid start; we have but to demand, then, separate public schools for the rich and cultured. Why should Reginald De Coursey sit in school with Skinny Flynn and Isaac Baumgarten? Perish the thought! Then, too, we must in time distinguish between the Rich and the New Rich, the Real Thing and the Bounder. For instance, why should a Kentucky drummer presume to school his children with the lineal descendant of a patroon—but, noticing a deep red flush on the cheek of the artist's wife, we forbear to push this point. We merely pause to ask: What is democracy anyhow?",
+      "status": "ok",
+      "confidence": 0.9810864329338074,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.8,
+    "at": "2026-10-06T21:12:33+00:00"
+  }
+}

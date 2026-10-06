@@ -1,0 +1,461 @@
+{
+ "page": 22,
+ "image": "images/page_22.jpg",
+ "width": 1087,
+ "height": 1611,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 10.1,
+  "at": "2026-10-06T20:58:03+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "title",
+   "bbox": {
+    "x0": 149,
+    "y0": 103,
+    "x1": 976,
+    "y1": 674
+   },
+   "text": "THE REAL RACE PROBLEM\nBy FRANZ BOAS, Professor of Anthropology, Columbia University\n\n[Professor Franz Boas, who writes the leading article this month, is a member of the Department of Anthropology in Columbia University. The editor of Science reports that the leading scientists of America regard this department of Columbia as the strongest in the country. This gives a peculiar weight to Dr. Boas' words, which were first delivered at the Second National Negro Conference in May, 1910.]\n\nThe essential problem before us is founded on the presence of two entirely distinct human types in the same community, and relates to the best possible correlation of the activities of these two types. On the whole, the answer to this problem has been based on the assumption of the superiority of the one type and the inferiority of the other. The first question to be answered by scientific investigation is, in how far the Negro type may be considered the inferior, the white type as the superior.\n\nSIZE OF BRAIN\n\nIt is true that the average size of the Negro brain is slightly smaller than the average size of the brain of the white race; but it must be borne in mind that a wide range of brain-forms and brain-sizes occur among the white race, beginning with very small brains and extending to very large ones; that the same is true of the Negro race, and that the difference between the averages of the two races is exceedingly small as compared with the range of variability found in either race. Thus it happens that the brain-weights of the bulk of the Negro race and of the bulk of the white race have the same values, with the sole exception that low brain-weights are slightly more frequent among the Negroes, high brain-weights slightly more frequent among the whites.\n\nElaborate studies of brains of great men,",
+   "status": "ok",
+   "confidence": 0.9774002432823181,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 149,
+    "y0": 105,
+    "x1": 973,
+    "y1": 673
+   },
+   "exclude": [
+    [
+     593,
+     652,
+     607,
+     668,
+     "r4"
+    ],
+    [
+     608,
+     653,
+     612,
+     667,
+     "r4"
+    ],
+    [
+     624,
+     653,
+     632,
+     668,
+     "r4"
+    ],
+    [
+     714,
+     654,
+     724,
+     668,
+     "r4"
+    ],
+    [
+     727,
+     654,
+     729,
+     656,
+     "r4"
+    ],
+    [
+     769,
+     654,
+     775,
+     668,
+     "r4"
+    ],
+    [
+     785,
+     654,
+     794,
+     668,
+     "r4"
+    ],
+    [
+     815,
+     654,
+     818,
+     657,
+     "r4"
+    ],
+    [
+     860,
+     654,
+     866,
+     668,
+     "r4"
+    ],
+    [
+     663,
+     656,
+     668,
+     668,
+     "r4"
+    ],
+    [
+     696,
+     657,
+     712,
+     668,
+     "r4"
+    ],
+    [
+     916,
+     657,
+     921,
+     668,
+     "r4"
+    ],
+    [
+     614,
+     658,
+     622,
+     668,
+     "r4"
+    ],
+    [
+     634,
+     658,
+     643,
+     668,
+     "r4"
+    ],
+    [
+     645,
+     658,
+     651,
+     667,
+     "r4"
+    ],
+    [
+     653,
+     658,
+     661,
+     668,
+     "r4"
+    ],
+    [
+     670,
+     658,
+     678,
+     668,
+     "r4"
+    ],
+    [
+     688,
+     658,
+     695,
+     668,
+     "r4"
+    ],
+    [
+     726,
+     659,
+     729,
+     668,
+     "r4"
+    ],
+    [
+     731,
+     658,
+     739,
+     668,
+     "r4"
+    ],
+    [
+     741,
+     659,
+     747,
+     669,
+     "r4"
+    ],
+    [
+     757,
+     658,
+     767,
+     668,
+     "r4"
+    ],
+    [
+     796,
+     659,
+     803,
+     668,
+     "r4"
+    ],
+    [
+     804,
+     658,
+     813,
+     668,
+     "r4"
+    ],
+    [
+     814,
+     659,
+     830,
+     668,
+     "r4"
+    ],
+    [
+     832,
+     659,
+     838,
+     668,
+     "r4"
+    ],
+    [
+     848,
+     659,
+     858,
+     668,
+     "r4"
+    ],
+    [
+     876,
+     659,
+     886,
+     672,
+     "r4"
+    ],
+    [
+     888,
+     659,
+     895,
+     668,
+     "r4"
+    ],
+    [
+     896,
+     659,
+     904,
+     669,
+     "r4"
+    ],
+    [
+     906,
+     659,
+     915,
+     668,
+     "r4"
+    ],
+    [
+     931,
+     658,
+     946,
+     668,
+     "r4"
+    ],
+    [
+     948,
+     658,
+     967,
+     668,
+     "r4"
+    ],
+    [
+     969,
+     665,
+     971,
+     670,
+     "r4"
+    ],
+    [
+     593,
+     672,
+     596,
+     675,
+     "r4"
+    ],
+    [
+     616,
+     672,
+     618,
+     675,
+     "r4"
+    ],
+    [
+     641,
+     672,
+     645,
+     687,
+     "r4"
+    ],
+    [
+     701,
+     673,
+     710,
+     687,
+     "r4"
+    ],
+    [
+     753,
+     673,
+     792,
+     687,
+     "r4"
+    ],
+    [
+     815,
+     673,
+     817,
+     676,
+     "r4"
+    ],
+    [
+     831,
+     673,
+     841,
+     687,
+     "r4"
+    ],
+    [
+     843,
+     673,
+     846,
+     676,
+     "r4"
+    ],
+    [
+     860,
+     673,
+     863,
+     675,
+     "r4"
+    ],
+    [
+     865,
+     673,
+     874,
+     687,
+     "r4"
+    ],
+    [
+     887,
+     673,
+     901,
+     687,
+     "r4"
+    ],
+    [
+     931,
+     673,
+     941,
+     687,
+     "r4"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 150,
+    "y0": 681,
+    "x1": 549,
+    "y1": 1204
+   },
+   "text": "The anthropologist recognizes that the Negro and the white represent the two most divergent types of mankind. The differences in color, form of hair, form of face, are known to all of us. Other differences, better known to anthropologists, are those in the proportions of the limbs and of the trunk of the body, and in the size of the brain.\n\nWhen we consider inferiority and superiority from a general biological point of view, it must be interpreted as meaning that one type is nearer to certain ancestral forms than another. In this sense, the anthropologist must say that in certain respects the Negro resembles the hypothetical ancestral forms of man more than does the European; while in other respects the European shows greater similarity to the supposed ancestral form. Among the Negro race it is particularly the form of the face that reminds us of the ancestral forms of man, while in regard to the proportions of the body, and particularly the length of the limbs, the Negro is more remote from ancestral forms than is the European.",
+   "status": "ok",
+   "confidence": 0.9794655442237854,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 150,
+    "y0": 680,
+    "x1": 546,
+    "y1": 1200
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 152,
+    "y0": 1205,
+    "x1": 551,
+    "y1": 1461
+   },
+   "text": "On the whole, the morphological characteristics of the two races show rather a specialized development in different directions than a higher development in the one race as compared with the other. Ordinarily, however, the question of inferiority and superiority is formulated in a different manner, based essentially on the capacity of mental achievement; and much stress is laid on two points—the lesser size of the brain of the Negro, and the supposed shortness of the period of development of the Negro child.",
+   "status": "ok",
+   "confidence": 0.9757570624351501,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 149,
+    "y0": 1203,
+    "x1": 549,
+    "y1": 1459
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 572,
+    "y0": 650,
+    "x1": 975,
+    "y1": 1229
+   },
+   "text": "Elaborate studies of brains of great men, criminals, and normal individuals have proved that the relation between mental ability and brain-weight is rather remote, and that we are not by any means justified in concluding that the larger brain is always the more efficient tool for mental achievement. There is presumably a slight increase of average ability corresponding to a considerable increase in average brain-weight; but this increase is so slight that in a comparison of the mental ability of the Negro race and of the white race, the difference in size of the brain seems quite insignificant.\n\nThe second point of which much has been made is the question of the difference in period of development between the two races. It has been claimed that the Negro child develops favorably, but that its development is arrested at an early date. Unfortunately, these statements are not based on careful examination of facts; and while I am unable to refute these views by bringing forward actual anthropometrical statistics bearing upon the subject, I am also not in a position to sustain them by any reliable evidence. The question is an important one, and should receive serious attention.",
+   "status": "ok",
+   "confidence": 0.9793811440467834,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 572,
+    "y0": 651,
+    "x1": 974,
+    "y1": 1227
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 574,
+    "y0": 1228,
+    "x1": 976,
+    "y1": 1464
+   },
+   "text": "But even if the observation had been made, its interpretation would not be an easy one without the most painstaking investigation of the social conditions with which the phenomenon is correlated. We know that in the white race the most favorably situated social groups show the most rapid growth in early childhood and an early completion of development; while the poor, who live under more unfavorable social conditions, show a slow and long-continued development, which, however, in",
+   "status": "ok",
+   "confidence": 0.9770621061325073,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 574,
+    "y0": 1228,
+    "x1": 975,
+    "y1": 1460
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 5,
+  "regions_after": 5,
+  "lost_words": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 2,
+  "log": []
+ }
+}

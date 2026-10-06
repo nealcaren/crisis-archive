@@ -1,0 +1,113 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 488,
+        "y0": 91,
+        "x1": 636,
+        "y1": 115
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8056817054748535,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 154,
+        "y0": 91,
+        "x1": 553,
+        "y1": 673
+      },
+      "text": "For the first time in the history of Texas a jury, of which half are Negroes, is trying a white man for his life. The six Negroes and white men must eat and sleep together for perhaps ten days or two weeks. The jury cannot go to a restaurant for its meals, for the white restaurants will not serve Negroes, and the jury cannot be separated.\n\nThe case is that of Earl McFarlane, a former policeman, charged with the murder of Deputy Police Chief Will Murphy, of Houston, last April. The case came to Galveston on a change of venue, and there are 450 witnesses from all parts of Texas.\n\nOil lands valued at $10,000,000 which lie in the region of Tulsa, Bartlesville, Chelsea, Nowata and Lenapah, have been awarded to the Negroes who formerly were slaves of the Cherokee Indians, by a recent decision of the Supreme Court of the United States. The decision is the outcome of a suit which had been pending in the high court since 1892.",
+      "status": "ok",
+      "confidence": 0.9776586890220642,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 156,
+        "y0": 675,
+        "x1": 554,
+        "y1": 1025
+      },
+      "text": "At the time of the filing of the suit little was known of the precious minerals which underlaid them. Since then these lands have proved to be among the greatest oil-producing properties in the world, and the cabins of the Negro farmers have been replaced by the gaunt skeletons of derricks, prosperous cities and towns and a bustling commonwealth.\n\nThat the term \"colored\" includes all persons \"wholly of Negro blood or having any appreciable admixture thereof\" was the way in which the court of appeals of Kentucky construed the State school law of the subject in a decision handed down recently.",
+      "status": "ok",
+      "confidence": 0.9757922887802124,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 158,
+        "y0": 1028,
+        "x1": 558,
+        "y1": 1509
+      },
+      "text": "Suit was brought by one Leroy Mullens against the school trustees of a district in Pike county demanding the admittance of some children for whom he acted as guardian. The Pike county circuit court denied the children admittance to the school, holding that they were \"colored,\" being of one-sixteenth Negro blood, and under the State law prohibiting \"colored children\" from attending a white school, were therefore debarred. The case was carried to the court of appeals and the decision of that court has the effect of upholding the Pike county court and the school trustee who refused to enroll the children as pupils.\n\nLuella Leftridge is the eleven-year-old girl who is fighting for her release from a Negro institution in which she has been confined for seven years. The child was left in the institution by an aunt, who has since disappeared, and for more than a year an older sister, who declared",
+      "status": "ok",
+      "confidence": 0.9787111878395081,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 566,
+        "y0": 140,
+        "x1": 980,
+        "y1": 710
+      },
+      "text": "that there is not a drop of Negro blood anywhere in the family, has been struggling for the removal of the stigma and the release of the child. Last week the Johns Hopkins physicians, headed by Dr. John Whitridge Williams, commenced an examination, during which they applied every test known to the profession, and Dr. Williams confessed that it is impossible to declare positively just which race the girl belongs to.\n\nSOCIAL UPLIFT.\n\nH. W. Bass, of Philadelphia, who is a Negro, the first to sit in the Pennsylvania Legislature, offered a bill aimed to further operate against discrimination against Negroes in public places. It provides that charging an unusual or excessive price, or compelling a person to sit in \"particular, special or isolated seats,\" shall be evidence of intent to violate the act. Instead of providing a fine of $50 to $100 for each offense, as in the case in the act of 1887, on the same subject, the Bass bill provides a fine of $20 for the first offense, $50 for the second and imprisonment for 30 days for each subsequent offense.",
+      "status": "ok",
+      "confidence": 0.9767686128616333,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 579,
+        "y0": 721,
+        "x1": 981,
+        "y1": 1314
+      },
+      "text": "In Washington, D. C., more than one thousand persons gathered recently in Convention Hall to witness the inception of track athletics for the colored schools and clubs in the South. It was the first meet ever held solely for colored athletes, and that it was a success is attested by the fact that no more enthusiastic crowd ever gathered to cheer on their favorites to victory. It was not only the colored people who were present, but several white men who are prominent in educational affairs in this and other cities gave their sanction and good will toward the furtherment of the affair by their presence. While it was not expected that the meet/would develop anything in the way of especially classy performances, it is certain that it accomplished that for which it was primarily intended—to stimulate interest in that branch of sport among the colored colleges in the South. And there were some fair performances in the races also. The 440-yard dash, scholastic, was run in 614-5 seconds, which was very good time considering the scanty training advantages that the contestants have enjoyed. The time made in some of the relay races was also fair.",
+      "status": "ok",
+      "confidence": 0.9777168035507202,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 582,
+        "y0": 1315,
+        "x1": 982,
+        "y1": 1510
+      },
+      "text": "Ralph Elwood Brock, superintendent of nurseries at the Pennsylvania State forest academy, Mont Alto, for a number of years, will retire from that position and will establish himself as a consulting and contracting forester at West Chester. He has been one of the most valuable men in the employ of the department of forestry and much of the very good",
+      "status": "ok",
+      "confidence": 0.973215639591217,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.3,
+    "at": "2026-10-06T21:25:09+00:00"
+  }
+}

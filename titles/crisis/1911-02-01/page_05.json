@@ -1,0 +1,141 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 242,
+        "y0": 166,
+        "x1": 1012,
+        "y1": 249
+      },
+      "text": "Along the Color Line",
+      "status": "ok",
+      "confidence": 0.6165936589241028,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 105,
+        "y0": 316,
+        "x1": 614,
+        "y1": 903
+      },
+      "text": "CHARLES SUMNER AND OTHERS.\nCharles Sumner was born January 6, 1811. The centenary of his birthday was fittingly commemorated in New York, Boston and Washington.\nIn New York the anniversary was celebrated with memorial exercises under the auspices of the National Association for the Advancement of Colored People, at the meeting house of the Society for Ethical Culture, Central Park West and Sixty-fourth Street. Dr. John Lovejoy Elliott presided, and the speakers were Mrs. Fanny Garrison Villard, the only daughter of William Lloyd Garrison; Moorfield Storey, the Boston lawyer, who is president of the National Association for the Advancement of Colored People, on \"Charles Sumner;\" Dr. W. E. Burghardt DuBois, on \"Charles Sumner and Peace,\" and the Rev. Dr. Stephen S. Wise, rabbi of the Free Synagogue, on \"A Senator with a Conscience.\"",
+      "status": "ok",
+      "confidence": 0.977612316608429,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 106,
+        "y0": 908,
+        "x1": 615,
+        "y1": 1087
+      },
+      "text": "A telegram was read from Jacob S. Schiff, lauding Sumner as standing for the highest moral issues of his time. This was followed by the reading of a poem on Sumner composed by W. P. Stafford. Mr. Moorfield Storey said, among other things:",
+      "status": "ok",
+      "confidence": 0.9580399990081787,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 107,
+        "y0": 1087,
+        "x1": 616,
+        "y1": 1648
+      },
+      "text": "\"The man who appeals to race prejudice, whether to keep his fellow-citizens down or to excite suspicion and enmity against a foreign nation, is a public enemy, and should be branded as such. His acts are far more dangerous to the State than those of the recognized criminal. If we would honor Sumner we must take up the battle to which he gave his life. We must wage unrelenting war against the absurd prejudices of race and color, whether they bar the Negro from his rights as a man; the foreigner from his welcome to our shores; the Filipino from his birthright of independence, the Hebrew from social recognition, or breed the unjust and wicked suspicion which would embroil us in war with any other people, whether of Europe or Asia. Such meetings as this are of no avail if they do not inspire us with a determination to obey the precepts and follow the example of the man whom we would commemorate.\"",
+      "status": "ok",
+      "confidence": 0.9795096516609192,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 105,
+        "y0": 1649,
+        "x1": 615,
+        "y1": 1847
+      },
+      "text": "In Boston two meetings were held: the main meeting in Faneuil Hall and a branch meeting at Park Street Church. Ex-Governor Guild, Governor Foss, Rev. R. C. Ransom and others spoke. In Washington, D. C., several hundred prominent colored people attended the exercises under the auspices of the American",
+      "status": "ok",
+      "confidence": 0.9659321904182434,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 645,
+        "y0": 319,
+        "x1": 1153,
+        "y1": 617
+      },
+      "text": "Negro Academy in the Fifteenth Street Presbyterian Church. A number of white persons were in the audience, and addresses were made by Justice Wendell Phillips Stafford and ex-Senator William E. Chandler, of New Hampshire.\n\nMemorial exercises to Julia Ward Howe were held in Symphony Hall, under the auspices of the city of Boston, and were largely attended, every available seat being taken, and hundreds being turned away.",
+      "status": "ok",
+      "confidence": 0.9609355330467224,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 647,
+        "y0": 616,
+        "x1": 1161,
+        "y1": 1130
+      },
+      "text": "Mrs. Howe's public services were the subject of addresses from four different standpoints. William H. Lewis, assistant U. S. Attorney, spoke of her devotion to the cause of the colored race.\n\nEmancipation Day was widely celebrated throughout the South on its forty-eighth anniversary, January 1.\n\nColored people of the District of Columbia are making preparation for a jubilee and celebration of the fiftieth anniversary of the emancipation of slaves in the United States. The celebration is to be held in 1913.\n\nOn February 3 occurs the centenary of Horace Greeley's birth.\n\nPOLITICAL.",
+      "status": "ok",
+      "confidence": 0.9648028612136841,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 648,
+        "y0": 1133,
+        "x1": 1156,
+        "y1": 1478
+      },
+      "text": "The Negro problem has appeared in Congress in the question of expelling Senator Lorimer, and that of adopting a resolution favoring the popular election of Senators. The Judiciary Committee of the Senate reported the latter resolution with a proviso that the United States Government should not control elections. Many Senators oppose this, and Senator Carter of Montana said: \"The adoption of the amendment would give substantial, though limited, national sanction to the disfranchisement of Negroes in the Southern States.",
+      "status": "ok",
+      "confidence": 0.9754094481468201,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 649,
+        "y0": 1478,
+        "x1": 1156,
+        "y1": 1849
+      },
+      "text": "\"In their disfranchisement,\" went on Mr. Carter, \"we now passively acquiesce, but with this supine attitude some Senators are not content; they ask us actually to strip Congress of the power to question election methods and actions in so far as the election of United States Senators may be concerned, and by the way of inducement to the Congress and the nation to consent to the permanent suppression of more than 1,000,000 votes at elections to choose Senators they will co-operate in the adoption of a constitutional amendment providing for the election of United States Senators by a direct vote of the people.\"",
+      "status": "ok",
+      "confidence": 0.976330578327179,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.0,
+    "at": "2026-10-06T21:10:09+00:00"
+  }
+}

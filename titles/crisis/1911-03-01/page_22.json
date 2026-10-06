@@ -1,0 +1,71 @@
+{
+  "page": 22,
+  "image": "images/page_22.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 169,
+        "y0": 95,
+        "x1": 198,
+        "y1": 117
+      },
+      "text": "22",
+      "status": "ok",
+      "confidence": 0.83939129114151,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 164,
+        "y0": 96,
+        "x1": 1018,
+        "y1": 509
+      },
+      "text": "Ballade des Belles Milatraisses\n(The Octoroon Ball) New Orleans, 1840-1850\n\nBy ROSALIE JONAS\n\n[NOTE.—These celebrated \"Octoroon Balls\" took place in a handsome building in the Creole quarter of New Orleans. In later days this same building has been turned into a Catholic convent. \"Milatraisses\" was the generic term for all that class—the octoroon, or quadroon woman. \"Cocodrie\" (meaning in Spanish Cocodrilla, the crocodile) was the nickname for the unmixed black man, who lighted \"les belles milatraisses\" through the dark Spanish streets by the ray of his hand lantern, but could go no further than the door of the hall, on pain of death. \"Trouloulou\" (the Turtle) was the nickname applied to the male octoroon, the one man of \"color\" admitted, who could find admittance to these orgies only in the capacity (in those days distinctly menial) of musician-\"fiddler.\"]",
+      "status": "ok",
+      "confidence": 0.9713066220283508,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 234,
+        "y0": 519,
+        "x1": 849,
+        "y1": 1036
+      },
+      "text": "\"Tis the Octoroon ball! And the halls are alight!\nThe music is playing an old-time \"Galop\"\nThe women are \"fair,\" and the cavaliers white,\n(Play on! fiddler-man, keep your eyes on your bow!)\nCocodrie! Cocodrie! what strange shadows you throw\nAlong the dark streets, by your hand-lantern's ray!\nLight \"les belles milatraisses\" to the portal, that they\nMay pass; but is doubly barred, black slave! to you:\nAnd the lilt of the old Creole song goes this way:\n\"Trouloulou! Trouloulou! c'est pas zaffaire a tou!\"\n\nThe music grows madder! the ball's at its height!\nFor beauty and kisses, it's Hey! and it's Ho!\nThese women are fair—for an hour a night—\n(Play on! fiddler-man, keep your eyes on your bow!)\nAnd for all dull to-morrows, to-night who'd forego!\nThe music grows madder! \"Play! Trouloulou! play!\"\nYour women are frail, and your masters are gay!\nCocodrie in the dark marks them flee and pursue!\nAnd the lilt of the old Creole song goes this way:\n\"Trouloulou! Trouloulou! c'est pas zaffaire a tou!\"",
+      "status": "ok",
+      "confidence": 0.9620551466941833,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 151,
+        "y0": 1054,
+        "x1": 1003,
+        "y1": 1562
+      },
+      "text": "They are ready and willing to love or to fight!\nHot blood is aflame! and the red wine aflow!\nThese women are theirs! who dare question their right!\n(Play on! fiddler-man, keep your eyes on your bow!)\nWho is it that prowls in the dark to and fro,\nTo and fro—there! outside!—The door bursts! and at bay!\nCocodrie! in the entrance! not easy to slay!\n(Hands off! you mad fiddler! or die with him, too!)\nAnd the lilt of the old Creole song goes this way:\n“Trouloulou! Trouloulou! c'est pas zaffaire a tou!”\n\nEnvoy—The convent.\nNew Orleans 1840-1850.\n\nThey are gone, those light gallants of times long ago!\n(Fiddler-man of the past! is this dirge from your bow?)\nAre these black-hooded ghosts of the dancers we knew\nOn their knees at the last? “C'est pas zaffaire a tou!”",
+      "status": "ok",
+      "confidence": 0.9573667049407959,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.8,
+    "at": "2026-10-06T21:18:30+00:00"
+  }
+}

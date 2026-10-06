@@ -1,0 +1,309 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 368,
+        "y0": 90,
+        "x1": 724,
+        "y1": 121
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.7075121402740479,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 112,
+        "y0": 121,
+        "x1": 523,
+        "y1": 725
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 316,
+        "y0": 121,
+        "x1": 764,
+        "y1": 725
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 544,
+        "y0": 121,
+        "x1": 961,
+        "y1": 725
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 119,
+        "y0": 144,
+        "x1": 973,
+        "y1": 265
+      },
+      "text": "Marshall's Hotel\n127-129 West 53d Street\nTelephones 4693-4694 Columbus\nSPECIAL FEATURE BEGINNING FEBRUARY 1",
+      "status": "ok",
+      "confidence": 0.7496693134307861,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 115,
+        "y0": 230,
+        "x1": 971,
+        "y1": 451
+      },
+      "text": "SPECIAL FEATURE BEGINNING FEBRUARY 1\nBreakfast, 7:30 to 12:30, 30c. Luncheon, 12:30 to 3 p. m., 30c.\nRegular Dinner, 6 to 8, 35c.\nSpecial Course Dinner Every Sunday and Holidays, 50c.\nService and Food Unsurpassed Anywhere Good Music—Vocal and Instrumental\nShell Fish a Specialty Restaurant Open All Night\nJ. L. MARSHALL, Proprietor",
+      "status": "ok",
+      "confidence": 0.8813754320144653,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 246,
+        "y0": 583,
+        "x1": 835,
+        "y1": 648
+      },
+      "text": "We Print THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8616175651550293,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 316,
+        "y0": 725,
+        "x1": 764,
+        "y1": 1090
+      },
+      "text": "We Print for the Vogue Magazine and refer by permission to Mr. Condé Nast, Publisher of VOGUE MAGAZINE Wedding Invitations Printed and Engraved. Society and Commercial Printing a Specialty. A postal or the telephone (Lenox 6667) brings us to your door.",
+      "status": "ok",
+      "confidence": 0.9369298815727234,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 112,
+        "y0": 1090,
+        "x1": 523,
+        "y1": 1370
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 316,
+        "y0": 1090,
+        "x1": 764,
+        "y1": 1370
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 544,
+        "y0": 1090,
+        "x1": 961,
+        "y1": 1231
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 241,
+        "y0": 1166,
+        "x1": 961,
+        "y1": 1373
+      },
+      "text": "ROBERT N. WOOD\n202 EAST 99th STREET NEW YORK",
+      "status": "ok",
+      "confidence": 0.34348300099372864,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 112,
+        "y0": 1370,
+        "x1": 523,
+        "y1": 1446
+      },
+      "text": "Phone 2877 Lenox\nWhite Rose Working Girls' Home\n217 EAST 86TH STREET",
+      "status": "ok",
+      "confidence": 0.4869768023490906,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 545,
+        "y0": 1373,
+        "x1": 961,
+        "y1": 1492
+      },
+      "text": "Young Man, Have You a Trade?\nBy our method we teach the Barber Trade in six weeks.\nWe give you a complete set of tools and secure you a position in a shop. Call or write for particulars.",
+      "status": "ok",
+      "confidence": 0.7254848480224609,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 112,
+        "y0": 1452,
+        "x1": 521,
+        "y1": 1531
+      },
+      "text": "Bet. Second and Third Avenues\nPleasant temporary lodgings for working girls,\nwith privileges, at reasonable rates. The Home\nsolicitis orders for working dresses, aprons, etc.\nAddress:",
+      "status": "ok",
+      "confidence": 0.5030187964439392,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 598,
+        "y0": 1494,
+        "x1": 902,
+        "y1": 1533
+      },
+      "text": "NEW YORK BARBER SCHOOL,\nCostello & Wise.",
+      "status": "ok",
+      "confidence": 0.3597959578037262,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 162,
+        "y0": 1532,
+        "x1": 472,
+        "y1": 1550
+      },
+      "text": "MRS. FRANCES R. KEYSER, Supt.",
+      "status": "ok",
+      "confidence": 0.3811095356941223,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 544,
+        "y0": 1534,
+        "x1": 959,
+        "y1": 1554
+      },
+      "text": "Cor. Bowery and Rivington St., New York City.",
+      "status": "ok",
+      "confidence": 0.550258994102478,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "text",
+      "bbox": {
+        "x0": 112,
+        "y0": 1550,
+        "x1": 523,
+        "y1": 1646
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "text",
+      "bbox": {
+        "x0": 544,
+        "y0": 1554,
+        "x1": 961,
+        "y1": 1646
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "abandon",
+      "bbox": {
+        "x0": 442,
+        "y0": 1561,
+        "x1": 625,
+        "y1": 1582
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.5040366649627686,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.9,
+    "at": "2026-10-06T21:16:08+00:00"
+  }
+}

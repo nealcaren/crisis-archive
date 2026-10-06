@@ -1,0 +1,43 @@
+{
+  "page": 18,
+  "image": "images/page_18.jpg",
+  "width": 1078,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 851,
+        "y0": 90,
+        "x1": 1011,
+        "y1": 121
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.6736548542976379,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "figure",
+      "bbox": {
+        "x0": 51,
+        "y0": 216,
+        "x1": 1075,
+        "y1": 1598
+      },
+      "text": "John Henry Adams > 1905",
+      "status": "ok",
+      "confidence": 0.6592499613761902,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 3.3,
+    "at": "2026-10-06T20:57:34+00:00"
+  }
+}

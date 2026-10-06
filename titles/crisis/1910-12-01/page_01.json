@@ -1,0 +1,183 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 1078,
+  "height": 1604,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 97,
+        "y0": 78,
+        "x1": 947,
+        "y1": 269
+      },
+      "text": "THE CRISIS\nA RECORD OF THE DARKER RACES",
+      "status": "ok",
+      "confidence": 0.7402626276016235,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 92,
+        "y0": 350,
+        "x1": 637,
+        "y1": 1465
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 89,
+        "y0": 398,
+        "x1": 942,
+        "y1": 455
+      },
+      "text": "Edited by W. E. BURGHARDT DU BOIS, with the co-operation of Oswald Garrison Villard, J. Max Barber, Charles Edward Russell, Kelly Miller, W. S. Braithwaite and M. D. Maclean.",
+      "status": "ok",
+      "confidence": 0.8866245746612549,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure",
+      "bbox": {
+        "x0": 90,
+        "y0": 479,
+        "x1": 939,
+        "y1": 1317
+      },
+      "text": "CONTENTS\n\nAlong the Color Line 5\nOpinion 11\nEditorial 16\nCartoon 18\nBy JOHN HENRY ADAMS\nEditorial 20\nThe Real Race Problem 22\nBy Professor FRANZ BOAS\nThe Burden 26\nTalks About Women 28\nBy Mrs. J. E. MILHOLLAND\nLetters 28\nWhat to Read 30",
+      "status": "ok",
+      "confidence": 0.5697081685066223,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1326,
+        "x1": 947,
+        "y1": 1441
+      },
+      "text": "PUBLISHED MONTHLY BY THE National Association for the Advancement of Colored People AT TWENTY VESEY STREET NEW YORK CITY",
+      "status": "ok",
+      "confidence": 0.5260932445526123,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1497,
+        "x1": 637,
+        "y1": 1584
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 95,
+        "y0": 318,
+        "x1": 231,
+        "y1": 349
+      },
+      "text": "Volume One",
+      "status": "ok",
+      "confidence": 0.7866734862327576,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1465,
+        "x1": 379,
+        "y1": 1497
+      },
+      "text": "ONE DOLLAR A YEAR",
+      "status": "ok",
+      "confidence": 0.6276420950889587,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 414,
+        "y0": 318,
+        "x1": 637,
+        "y1": 350
+      },
+      "text": "DECEMBER, 1910",
+      "status": "ok",
+      "confidence": 0.7787472009658813,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 795,
+        "y0": 319,
+        "x1": 943,
+        "y1": 350
+      },
+      "text": "Number Two",
+      "status": "ok",
+      "confidence": 0.7828757762908936,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 676,
+        "y0": 350,
+        "x1": 944,
+        "y1": 1466
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 676,
+        "y0": 1466,
+        "x1": 944,
+        "y1": 1584
+      },
+      "text": "TEN CENTS A COPY",
+      "status": "ok",
+      "confidence": 0.6728916764259338,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.1,
+    "at": "2026-10-06T20:54:20+00:00"
+  }
+}

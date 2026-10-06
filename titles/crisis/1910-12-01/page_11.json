@@ -1,0 +1,141 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 1082,
+  "height": 1608,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 295,
+        "y0": 124,
+        "x1": 697,
+        "y1": 186
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.33988291025161743,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 511,
+        "y0": 245,
+        "x1": 906,
+        "y1": 294
+      },
+      "text": "establish injustice after its own bold and original fashion.\"",
+      "status": "ok",
+      "confidence": 0.9457356333732605,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 278,
+        "x1": 487,
+        "y1": 568
+      },
+      "text": "The decision of the Oklahoma Supreme Court sustaining the \"grandfather\" clause in the State Constitution has excited some editorial comment, but not as much as the importance of the matter would seem to demand. The New York Evening Post calls attention to the fact that the court exempts the Indians from the educational test on the ground that they were under an electoral form of government prior to 1866.",
+      "status": "ok",
+      "confidence": 0.9762691259384155,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 512,
+        "y0": 295,
+        "x1": 909,
+        "y1": 862
+      },
+      "text": "The Southern press does not seem to have commented widely. The Charleston News and Courier is frank and direct:\n\nIn thus putting herself in line with the action of other Southern States, in which the Negro population is large, Oklahoma evinces a proper understanding of the necessities of the occasion. Popular government even in the North suffers terribly because of ballots cast by ignorant or vicious men. When to the vote of this vicious white element is added the vote of thousands of Negroes, popular government, which must be based on intelligence if it is to be effective, is struck a body blow. The Oklahoma case will finally come before the United States Supreme Court, but there is little reason to believe that that tribunal will interfere with the State Constitution as it stands, Republicans themselves having been foremost in teaching the doctrine of expediency. We believe that the \"grandfather\" clause is constitutional, but if it is not, according to the dangerous teachings of Mr. Roosevelt, even a \"fossilized\" court will see the advantage of reading constitutionality into it by construction.",
+      "status": "ok",
+      "confidence": 0.9793786406517029,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 95,
+        "y0": 577,
+        "x1": 490,
+        "y1": 828
+      },
+      "text": "\"Naturally,\" says the Post, \"the Negroes are very indignant at the plight they find themselves in—not because they are afraid of the educational test, but because they know that the test will be applied so as to pass every white man, foreign-born or otherwise, while they will be defrauded of a part in the government—through the Indians' vote—by subterfuge, by trickery or open lawlessness. To the credit of the Republicans be it said that they have no part in this fraud, and that their candidate for Governor denounces it.\"",
+      "status": "ok",
+      "confidence": 0.9749994874000549,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 96,
+        "y0": 831,
+        "x1": 491,
+        "y1": 1240
+      },
+      "text": "The St. Paul Pioneer Press remarks: \"In most of the Southern States that have adopted such disfranchising amendments the plea is made that the plan is necessary to prevent Negro domination of the political affairs. The statistics of population show some warrant for this content, particularly in Louisiana, Mississippi and Alabama, where the Negro population is about equal to that of the white, but no such excuse can be urged in Oklahoma. With the whites outnumbering the Negroes by more than 12 to 1, the talk of a fear of Negro domination is simply ridiculous.\"",
+      "status": "ok",
+      "confidence": 0.9795897603034973,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 516,
+        "y0": 865,
+        "x1": 912,
+        "y1": 1436
+      },
+      "text": "The New Orleans Picayune is noncommittal: \"The place of the Negro in the political and social and business life of the country will one day be finally settled. His place will be very much as he himself makes it under the sanctions and restraints of law. He will get what he deserves, and no man should get more.\"\n\nSOCIALISTS IN OKLAHOMA.\n\nThe organ of the New York Socialists, the Call, gives this hearty welcome to the Oklahoma Negro Socialists:\n\nA convention of various Negro associations, recently held at Chickasha, Okla., has indorsed the platform of the Socialist party and has advised all the colored people of Oklahoma to vote the Socialist ticket. This action of the Negroes of Oklahoma is destined to be recognized as of epoch-making importance in the history of the American Negroes as well as in the history of American Socialism.",
+      "status": "ok",
+      "confidence": 0.9760333895683289,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 1242,
+        "x1": 492,
+        "y1": 1436
+      },
+      "text": "The Boston Morning Herald says that while there are \"as many ways of disfranchising a Negro in the South as of killing Satan\" the Oklahoma method is beautifully simple and direct. \"It takes a vigorous, untrammeled new community like Oklahoma to disregard musty precedent and",
+      "status": "ok",
+      "confidence": 0.9773534536361694,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 207,
+        "y0": 245,
+        "x1": 370,
+        "y1": 271
+      },
+      "text": "OKLAHOMA.",
+      "status": "ok",
+      "confidence": 0.8874371647834778,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.4,
+    "at": "2026-10-06T20:56:42+00:00"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "page": 14,
+  "image": "images/page_14.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 491,
+        "y0": 75,
+        "x1": 643,
+        "y1": 99
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8825735449790955,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 157,
+        "y0": 77,
+        "x1": 183,
+        "y1": 96
+      },
+      "text": "14",
+      "status": "ok",
+      "confidence": 0.8263173699378967,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 156,
+        "y0": 128,
+        "x1": 550,
+        "y1": 706
+      },
+      "text": "The Taunton Gazette adds: \"By the same reasoning a man with one-sixteenth Chinese blood is a Chinaman and one-sixteenth of the blood of any race relegates him to that race. As a matter of fact, that question of one-sixteenth is not likely to arise in any case save where it is desired to make out a person a Negro, and that is where the nub of the whole matter rests.\n\n\"It is probable that there are thousands of persons in this country with one-sixteenth Negro blood in them who do not know it themselves nor does any one else, for family records are not always carefully kept along these lines.\"\n\nVOTING.\n\nThe Boston Transcript has this letter from Dr. Horace Bumstead:\n\n\"Dr. Doremus Scudder of Hawaii told the American Missionary Association in Tremont Temple that the American Negro of the future will thank his Southern white brother for depriving him of the ballot until he should have proved his fitness for it—and that he would thank him notwithstanding the manner in which his ballot had been taken away. Let us see just what this means.",
+      "status": "ok",
+      "confidence": 0.9747274518013,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 155,
+        "y0": 707,
+        "x1": 548,
+        "y1": 1087
+      },
+      "text": "\"It means that the Negro will hereafter be grateful for a disfranchisement practically based on color rather than unfitness —which its promoters have boldly avowed was intended to disfranchise every Negro if possible and not one white man if it could be avoided, and which they accomplished through 'grandfather' and 'understanding' clauses artfully devised to deprive the Negro of his constitutional guarantees for a square deal as regards suffrage qualifications.\n\n\"It means that the Negro will hereafter be grateful for a disfranchisement which is seriously restricting his economic freedom and opportunity, the protection of his life and property, his right to travel in equal comfort for an equal fare, the education of his children, and the guarding of the virtue of his wife and daughters.",
+      "status": "ok",
+      "confidence": 0.978463351726532,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 154,
+        "y0": 1088,
+        "x1": 549,
+        "y1": 1491
+      },
+      "text": "\"This conclusion Dr. Scudder naively states he has arrived at after seven years' residence, not in the South, but in Hawaii, and because the liquor dealers there have bought up the votes of the natives. In other words, when white men have so little control over their baser element that they cannot keep them from offering bribes, the proper course, in Dr. Scudder's opinion, seems to be to take the ballot from all colored men because some of them have accepted bribes, rather than to disfranchise the few white men who have offered them. \"When American Negroes become grateful for a disfranchisement accomplished in such ways, and on such grounds, and with such detriment to their own welfare, they will have proved themselves unworthy of American citizenship. And that time will never come. They are willing to play the political game with their white brothers on",
+      "status": "ok",
+      "confidence": 0.9662159085273743,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 576,
+        "y0": 125,
+        "x1": 976,
+        "y1": 644
+      },
+      "text": "equal terms, but not with loaded dice and marked cards.\"\n\nNEGRO SOLDIERS.\nThe Boston Herald reports General Burt's views on Negro soldiers as follows:\n\"That in the five qualifications that go to make up a good soldier; drilling, marksmanship, marching, discipline and fighting, the Negro soldiers of the United States army are paramount, was the contention of Brigadier-General Andrew S. Burt, retired, ex-commander of the Brownsville Black Battalion, in his address last night on 'The Negro Soldier in Ancient and Modern Warfare,' at a meeting of colored people in St. Paul's Baptist Church, under the auspices of the Boston Literary Association.\n\n\"He cited two instances in the Spanish-American War when the colored troops showed their true value as soldiers. The first instance being the rescue of the Rough Riders by the Tenth Colored Cavalry, the second the heroism of the Twenty-fourth Colored Infantry in volunteering as nurses during the yellow fever epidemic.",
+      "status": "ok",
+      "confidence": 0.9713197946548462,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 574,
+        "y0": 645,
+        "x1": 974,
+        "y1": 1142
+      },
+      "text": "\"In speaking of army discipline he referred the audience to his sworn testimony before the Senate committee on the Brownsville 'shoot-up,' and challenged the comparison of any records of any class of good citizens to equal that of the Twenty-fifth colored regiment.\n\n\"Speaking of the Negro soldier generally, ne said: 'I can find nowhere in the histories of the Revolutionary, the Indian, the Spanish-American or the war in the Philippines, a single instance where a Negro regiment showed the white feather or refused to charge the enemy when called to do so.'\"\n\nIN SOUTH AFRICA.\n\nThe A. P. O., of Cape Town, South Africa, a colored periodical, brings word of the appointment of Mr. Hull, a colored man, to the South African cabinet. It will be remembered that the South African Constitution requires cabinet members to be \"persons of European descent.\" Apparently men of mixed descent are not excluded. A. P. O. says:",
+      "status": "ok",
+      "confidence": 0.973318874835968,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 575,
+        "y0": 1142,
+        "x1": 975,
+        "y1": 1492
+      },
+      "text": "\"The decision of General Botha not to relinquish the premiership, and of Mr. Hull to accept a seat, and so retain the post of Treasurer-General, keep the Botha Ministry practically intact. We predicted that the Prime Minister would get over his defeat and cling to his office with its £4,000 a year.\n\n\"It is now safe to say that we are already on the road toward a Native Parliament, which, according to Dr. Broon, is only one hundred years off: for not only have many of the present M.L.A.'s an infusion of native blood in their veins, as is evidenced by their features, but the very Cabinet contains colored men. After all, we are moving pretty fast toward the realization of a native Government.\"",
+      "status": "ok",
+      "confidence": 0.9754922389984131,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.8,
+    "at": "2026-10-06T21:03:23+00:00"
+  }
+}

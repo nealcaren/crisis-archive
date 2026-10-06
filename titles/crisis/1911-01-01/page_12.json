@@ -1,0 +1,127 @@
+{
+  "page": 12,
+  "image": "images/page_12.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 504,
+        "y0": 84,
+        "x1": 658,
+        "y1": 109
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8217143416404724,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 172,
+        "y0": 85,
+        "x1": 198,
+        "y1": 106
+      },
+      "text": "12",
+      "status": "ok",
+      "confidence": 0.8492534756660461,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 139,
+        "x1": 569,
+        "y1": 695
+      },
+      "text": "\"We suppose that a white man who owns a house has a legal right to sell it to a Negro if he pleases. And we suppose that the highest court in the country will sustain the right of a colored man to live in his own home, subject to the tax laws and regulations of his neighborhood.\n\n\"Probably the plan to compel a hundred thousand colored people in Baltimore to live all together in one neighborhood could not legally be enforced.\"\n\nOn the legal side of the matter Charles J. Bonaparte, formerly United States Attorney-General, says to a Baltimore Sun reporter:\n\n\"I have always understood, however, that it was a lawful use of private property to sell or rent one's house for a proper purpose to an orderly person of whatever race or color, without regard to the wishes or the complexion of those who live next door, and, if this be true, then the well-known Radecke case, in Forty-ninth Maryland, to say nothing of other authorities, would seem to show clearly that if our always wise Mayor and City Council should undertake to interfere in such a matter, they could, and would, be politely advised to mind their own business.\"",
+      "status": "ok",
+      "confidence": 0.9762218594551086,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 179,
+        "y0": 696,
+        "x1": 574,
+        "y1": 1229
+      },
+      "text": "The Brooklyn Eagle, the Nyack (N. Y.) Star and the Dover (N. H.) Democrat call attention to the Lee Sing case (43 federal Reports, 359), which voided an ordinance restricting the residence of a Chinaman. The New York Sun says on the \"property values\" issue: \"The Baltimore ordinance cannot be supported on the ground that it is intended to protect one race against the indignities invariably experienced whenever it is compelled to force its presence upon another race in the pursuit of education, business and pleasure or in the exercise of political rights. Its frank purpose is to protect the property interests of the stronger race. In the opinion of the City Council of Baltimore real estate values in certain avenues have depreciated 30 to 50 per cent. owing to the presence of Negro residents, but if the sapient council were to study the recent census showing of Baltimore it would no doubt find that other causes have been at work in bringing about the depreciation. In any event, the proposed ordinance involves a principle which the courts are not likely to accept.\" The Manchester (N. H.) Union says:",
+      "status": "ok",
+      "confidence": 0.9776356816291809,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 180,
+        "y0": 1229,
+        "x1": 575,
+        "y1": 1498
+      },
+      "text": "\"It would seem as if the Negroes themselves would tire of making purchases which immediately sink in value from a third to one-half, and it is somewhat peculiar that in Philadelphia and Washington there has been no tendency to anything of the kind, either as to encroachment upon the territory of the whites or a depreciation of the property occupied by the Negroes.\"\n\nThe Macon (Ga.) Telegraph sees a chance for the Negro to make money through such segregation and to be proud of their Ghettos, but the Southwestern",
+      "status": "ok",
+      "confidence": 0.9760571718215942,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 596,
+        "y0": 139,
+        "x1": 994,
+        "y1": 677
+      },
+      "text": "\"It is almost certain that wherever there is a Negro quarter there will be little or no city improvement. Notwithstanding Negroes pay the same rate of taxes, the streets on which they live are seldom paved, poorly lighted, and any public improvements that might be made are always last in coming to them. Thousands of Negroes make an effort not to buy within the white district but so near that district that they may be able to get some of the city improvements. There is also a measure of protection as well as a measure of convenience when Negroes live on the better streets.\n\n\"The Negro has a just protest against the sort of treatment he is forced to endure notwithstanding he is a taxpayer. It may be alleged that he is not a heavy taxpayer, and this we grant, but there are sections of cities sparsely settled which are improved at the behest of speculators while Negro residents are compelled to live in discomfiture and inconvenience because of the lack of improvement.\"\n\nDr. Hughes of Baltimore, speaking for colored citizens, said:",
+      "status": "ok",
+      "confidence": 0.9774182438850403,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 598,
+        "y0": 677,
+        "x1": 997,
+        "y1": 1019
+      },
+      "text": "\"It means the stopping of self-respecting, law-abiding colored citizens in their efforts to secure homes and plant themselves in communities as taxpayers.\n\"Rental values will advance since there will be no outlet for an already congested population; they must stay where they are, and in order to do so pay any price which an unscrupulous money grabber may demand. With the high cost of foodstuffs and the low scale of wages for unskilled labor the passage of the West ordinance points to the creation of a pauper element in our city rather than a thrifty, law-abiding colored citizenship, and the pauper element of any city or community makes the more prosperous pay in one way or another for their support.",
+      "status": "ok",
+      "confidence": 0.9769690632820129,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 602,
+        "y0": 1021,
+        "x1": 1000,
+        "y1": 1500
+      },
+      "text": "\"In your ordinance you involve the bread of my people. Recently I stood in Pierce Street and overheard this conversation: A colored woman was asked, 'Did you get the place?' 'Yes, I got it and started to work, when the lady asked me where I lived, and when I told her she said she could not have any one in her house who came from that street. She said there was too much disease there.' It remained for that woman to move. With the West ordinance in force, where could she go? We have already a crowded colored population. For her to move out meant for some one else to move in. It affects not only the employed, but the employer, and the only way out is for the man who hires a servant to go to the additional expense of renting or buying a house for his servants in more healthy quarters, which will aggravate the already troublesome help problem.\"\n\nThe Philadelphia Ledger adds helplessly: \"How the Negro is going to be helped to rise under these circumstances is one of",
+      "status": "ok",
+      "confidence": 0.9795843362808228,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.7,
+    "at": "2026-10-06T21:03:04+00:00"
+  }
+}

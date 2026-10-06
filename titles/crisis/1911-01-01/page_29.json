@@ -1,0 +1,155 @@
+{
+  "page": 29,
+  "image": "images/page_29.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 394,
+        "y0": 75,
+        "x1": 610,
+        "y1": 100
+      },
+      "text": "WHAT TO READ",
+      "status": "ok",
+      "confidence": 0.8644305467605591,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 126,
+        "x1": 910,
+        "y1": 241
+      },
+      "text": "whether Japanese laborers shall go to America to annoy you, and we will stop them. But do not say that you will admit the lazaroni of Hungary and Italy and Russia, simply because they are white, and shut us out because we are yellow.\"",
+      "status": "ok",
+      "confidence": 0.96908038854599,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 100,
+        "y0": 127,
+        "x1": 491,
+        "y1": 337
+      },
+      "text": "Asia is awake and preparing for the coming struggle. And we are doing very much to force the issue and to prepare her for the contest. For a century we have been sending at enormous cost our missionaries to all parts of the hemisphere to civilize. There may be doubt as to the amount of proselyting we have been able to accomplish; there can be no possible doubt of the work we have done to strengthen the Asian people politically and commercially.",
+      "status": "ok",
+      "confidence": 0.6374503374099731,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 242,
+        "x1": 909,
+        "y1": 752
+      },
+      "text": "The Sinhalese, natives of Ceylon, while I was in Colombo, addressed a remarkable communication to the Governor-General. They said a hundred years ago there was established in the United States a new theory of government—that there should be no taxation without representation. \"Now,\" they said, \"we ask a share in the government of the island. We pay taxes. You may fix a property qualification and say that no one having less than a thousand pounds sterling shall share in the government. We shall not object. You may also fix an educational qualification. You may say that no one but a college graduate shall take part in the government. We will not object. In short, you may fix any qualification except a racial qualification. That would not be fair.\" \"And what answer have you to make?\" I asked Mr. Crosby Rolles, editor of The Times of Ceylon. \"To meet their request,\" he replied, \"would mean to turn over the government of Ceylon to them at once, because there are 6,000 of them and only 5,000 English men, women and children. We must stop educating them.\"",
+      "status": "ok",
+      "confidence": 0.9752248525619507,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 99,
+        "y0": 336,
+        "x1": 493,
+        "y1": 1037
+      },
+      "text": "We shall never meet the problems growing out of our relation with the Far East unless we absolutely and once for all put away race prejudice. I believe the European snob in Asia is distinctly the enemy of the civilized West. And his coadjutor in this country is a fitting criminal yoke-fellow. Let me give you some illustrations of what I mean—cases which came under my personal observation. From Bombay to Yokohama there is not a social club at any port or treaty point where a native, whatever his culture or refinement, will be admitted. At the Bengal Club at Calcutta last year a member in perfectly good standing innocently invited an Eurasian gentleman—that is, one who is half native and half European—to dine with him. It became known that the invitation had been extended, and a storm of opposition broke among the members. The matter was finally adjusted by setting aside the ladies' department of the club, and there the offending member and his unfortunate guest dined alone. The next day the member was called before the board of governors and notified that another like breach of the rules would result in his expulsion. The beating of native servants and workmen in India is a daily and hourly occurrence. It formerly was so at Hong Kong and Shanghai, but Mr. Sprague, the representative of the Standard Oil Company at Shanghai, told me that since the Russo-Japanese war the natives would not stand it, and that all beating of them by Europeans in that city had ceased.",
+      "status": "ok",
+      "confidence": 0.9649810194969177,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 519,
+        "y0": 754,
+        "x1": 908,
+        "y1": 1073
+      },
+      "text": "What do you think of that for a remedy? Personally, I do not think it will work, any more than I think any rule of arbitrary repression can endure. I cannot bring myself to sympathize altogether with the views expressed by Mr. Roosevelt in his recent Guildhall speech. I take refuge in what seems to me the larger experience and riper judgment of Lord Curzon of Kedleston, who in July, 1904, was also given the freedom of the City of London in Guildhall, and on that occasion used these words: \"Depend upon it, you will never rule the East except through the heart, and the moment imagination has gone out of your Asiatic policy your empire will dwindle and decay.",
+      "status": "ok",
+      "confidence": 0.977669894695282,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 1037,
+        "x1": 491,
+        "y1": 1360
+      },
+      "text": "The son of a maharaja goes to England, is educated at Oxford or Cambridge, is lionized in the West End of London—mayhap he is honored with an invitation to Windsor. When he goes back home he may enter no white man's club; if he be fortunate enough to be invited to a white man's function, no white woman will dance or associate with him; and if by any luck he should marry a European, he, his wife and his children become outcasts. Although native troops, like the Sikhs, have shown undying loyalty to the British flag and on frequent occasions have exhibited courage in the highest degree, no one of them ever has or ever can achieve the Victoria Cross.",
+      "status": "ok",
+      "confidence": 0.9775762557983398,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 1075,
+        "x1": 909,
+        "y1": 1481
+      },
+      "text": "\"In smug complacency you may close your doors which look toward Asia, while you open wide those which look toward Europe; you may refuse the Oriental admission to your schools, while you accord the privilege to any child of a European; you may pile import duties mountain high, and raise our standards of living to any pitch of extravagance; you may build warships without limit, and you may continue to treat the Asian as legitimate prey. But I am confident that it will not avail.\n\n\"As a soldier, whether at Omdurman, in the Sudan, or on 203-Metre Hill, at Port Arthur, the man of color has shown himself a right good fighting man; in commerce he has, by his industry, perseverance, ingenuity and frugality, given us pause; and before the eternal throne his temporal and his spiritual welfare are worth as much as yours and mine.\"",
+      "status": "ok",
+      "confidence": 0.9774420261383057,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 96,
+        "y0": 1364,
+        "x1": 490,
+        "y1": 1481
+      },
+      "text": "Socially they are all saying to us: \"Stop cheating us, stop swindling us, stop your treating us as your inferiors who are to be beaten and robbed.\" Japan is crying out, \"Treat us fairly and we will go more than half-way. Leave to us the question",
+      "status": "ok",
+      "confidence": 0.9694703817367554,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "abandon",
+      "bbox": {
+        "x0": 882,
+        "y0": 74,
+        "x1": 910,
+        "y1": 96
+      },
+      "text": "29",
+      "status": "ok",
+      "confidence": 0.8289334774017334,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.5,
+    "at": "2026-10-06T21:05:24+00:00"
+  }
+}

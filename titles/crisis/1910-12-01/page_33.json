@@ -1,0 +1,225 @@
+{
+  "page": 33,
+  "image": "images/page_33.jpg",
+  "width": 1078,
+  "height": 1606,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 311,
+        "y0": 102,
+        "x1": 648,
+        "y1": 127
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8842949271202087,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 72,
+        "y0": 127,
+        "x1": 418,
+        "y1": 510
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 311,
+        "y0": 127,
+        "x1": 648,
+        "y1": 379
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 414,
+        "y0": 127,
+        "x1": 888,
+        "y1": 467
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "abandon",
+      "bbox": {
+        "x0": 76,
+        "y0": 153,
+        "x1": 891,
+        "y1": 542
+      },
+      "text": "Only\n$65.00\n\nNo. 24 Southern Buggy\nHighest Grade\nA Value Unequaled, Sold on $1.00\nProfit Margin\nFrom\nFactory to User\nWrite for prices\nand other styles.\nSend for catalogue.\nC. R. PATTerson\n& SONS.\nGreenfield, Ohio\nLargest Negro Carriage concern in the United States.\n\nJUST OUT\nA beautiful sentimental song entitled\n\"My Home is Down in Dixie, Where the\nCotton Grows.\"\nBy EUGENE ALEXANDER BURKES\nPrice 25 Cents Postpaid\nPublished by\nWEBB, ARBUCKLE & CO.,\nBOSTON, MASS.\n\nTHE M. T. B. WASHINGTON COMPANY\n(INCORPORATED)\nA manufacturing corporation, sole owner of patents in cutlery and brake gearing, will\ndemonstrate its NEW POWER, which will displace steam, water, electricity and all\nknown power in use to-day. Capital Stock, $100,000. Shares, $5.\n\n47 WEST 66TH STREET\n\nNYANZA DRUG CO.} NYANZA PHARMACY",
+      "status": "ok",
+      "confidence": 0.9171953201293945,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 438,
+        "y0": 551,
+        "x1": 888,
+        "y1": 641
+      },
+      "text": "is the only colored Drug Store in New York City, and the purpose of the Corporation is to establish chains of stores, carrying Drugs and everything incidental to the Drug business. It is really the indisputable duty of every self-respecting member of the race to give it his support.",
+      "status": "ok",
+      "confidence": 0.8341424465179443,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 72,
+        "y0": 563,
+        "x1": 414,
+        "y1": 664
+      },
+      "text": "S5 W. 135th ST., NEW YORK CITY\nCAPITAL STOCK, $15,000\nShares $5.00\nWrite for information. The best paying investment ever offered our people.",
+      "status": "ok",
+      "confidence": 0.721770167350769,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 504,
+        "y0": 645,
+        "x1": 823,
+        "y1": 663
+      },
+      "text": "AGENTS WANTED EVERYWHERE",
+      "status": "ok",
+      "confidence": 0.6836014986038208,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 414,
+        "y0": 663,
+        "x1": 888,
+        "y1": 1319
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 72,
+        "y0": 664,
+        "x1": 418,
+        "y1": 1188
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 311,
+        "y0": 664,
+        "x1": 648,
+        "y1": 1319
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 69,
+        "y0": 680,
+        "x1": 893,
+        "y1": 1173
+      },
+      "text": "$100,000 STOCK ISSUE\nTO BUILD AN\nAuditorium in Greater New York\nCONTAINING\nReception, Concert and Banquet Halls, Modern Offices and Lodge Rooms\nThis proposition is bound to succeed, because it is giving the people what they want.\nWe are offering\n10,000 Shares at $10 Each, Par Value\nStock sold in blocks to suit the investor on easy terms.\nThe capital already in hand and the rapid increase of business means the realization of the Auditorium. This enterprise assures each investor Safety of Capital and Growth of Income.\nCall or write for further particulars.\nI. L. MOORMAN, Mgr., 83 W. 134th St.\n\nSuperior Bread, Cakes, Pones, Etc.\nAt\nPhillips & Co.’s Bakery\n17 West 133d Street\nWe Serve the Best People\n\nIf you want a Satisfactory Smoke see\nJ. M. CERTAIN\nManufacturer of\nHIGH-GRADE HAVANA AND DOMESTIC\nCIGARS\n45 West 135th Street New York\nTel. 2870-J Harlem\nBox Trade a Specialty",
+      "status": "ok",
+      "confidence": 0.8680272102355957,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 324,
+        "y0": 1193,
+        "x1": 892,
+        "y1": 1509
+      },
+      "text": "SOLOMON GARRETT\nTonsorial Artist\n782 Fulton Street, near Adelphi Street\nBROOKLYN, N. Y.\nAll Kinds of Workmanship\nCigars and Tobacco for Sale\nDaily and Weekly Papers and Magazines\nBrooklyn Agents for THE CRISIS",
+      "status": "ok",
+      "confidence": 0.9321222305297852,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "figure",
+      "bbox": {
+        "x0": 73,
+        "y0": 1188,
+        "x1": 309,
+        "y1": 1569
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.930494487285614,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 861,
+        "y0": 101,
+        "x1": 887,
+        "y1": 121
+      },
+      "text": "33",
+      "status": "ok",
+      "confidence": 0.8305718302726746,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.4,
+    "at": "2026-10-06T21:00:55+00:00"
+  }
+}

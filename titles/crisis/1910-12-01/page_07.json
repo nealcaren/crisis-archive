@@ -1,0 +1,211 @@
+{
+  "page": 7,
+  "image": "images/page_07.jpg",
+  "width": 1078,
+  "height": 1606,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 331,
+        "y0": 92,
+        "x1": 674,
+        "y1": 117
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8869515061378479,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 144,
+        "x1": 490,
+        "y1": 242
+      },
+      "text": "In Oklahoma judicial decision upholds the grandfather clause, but broadens its application so as to except Indians and certain Negroes from the educational qualification and to include some foreigners.",
+      "status": "ok",
+      "confidence": 0.9534792900085449,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 513,
+        "y0": 145,
+        "x1": 911,
+        "y1": 528
+      },
+      "text": "are well known. My position on the race question is equally well understood, but this is a court of justice, where all men stand, and should stand, upon an absolute equality before the law. The Negroes in Mississippi do not vote, and should not; they do not sit upon our juries, and they should not; but they do come into this court asking for the white man's justice, which has been the boast and pride of our race, and they are entitled to it. The saddest day for this State, and the one that will put the blackest smiren upon the escutcheon of our race, will be the day when the white man's courts in the administration of the white man's law shall deny justice to the Negro, who is striving, as these defendants are striving, to elevate and build up the helpless of their race under a white man's government.\"",
+      "status": "ok",
+      "confidence": 0.977705180644989,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 93,
+        "y0": 257,
+        "x1": 490,
+        "y1": 602
+      },
+      "text": "The District Court of Appeals in the District of Columbia is wrestling with the problem of what constitutes \"Negro\" under the law. Arguments were heard in connection with the case of Stephen Wall, an employee of the Government Printing Office, whose 8-year-old daughter Isabel was dismissed from the Brookland Public School on the allegation that the child had one-sixteenth Negro blood in her veins. Wall filed a petition for a writ of mandamus in the District Supreme Court, after which Justice Wright asked the Board of Education to fix the racial status of the girl. By a vote of 5 to 8 she was declared a Negro, \"for school purposes.\" Justice Wright sustained the Board, and the case then went to the Court of Appeals.",
+      "status": "ok",
+      "confidence": 0.9750380516052246,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 516,
+        "y0": 585,
+        "x1": 913,
+        "y1": 1154
+      },
+      "text": "The field agent of the Slater Fund reports that in southwest Georgia within a certain radius of fifty miles there are 200,000 Negroes. The public school facilities for the Negroes of Houston County, and five adjacent counties are, to say the least, inadequate. The State School Commissioner's report for 1907, and there has been no material change in the colored schools since, shows the following: Enrollment of Negro children for the six counties, 11,256; attendance only 5,811, or 51 per cent. For the colored children there were 159 schools, or one for every 70 children of those enrolled. In five of these counties there was not a single schoolhouse owned by the County Board of Education. One county owned 19 out of 27 of its colored schoolhouses. The valuation of these 19 is given as $2,500. The average monthly cost for the education of colored pupils in these six counties is reported as $0.39 per pupil. The average monthly cost for white pupils, by the way, is $1.34 per pupil. For them there are 149 schools for an enrollment of 6,529, or one school for every 43 pupils. Their attendance is 61 per cent, of the enrollment. Of the 149 white schools 84 have schoolhouses valued at $24,840, and owned by the County Boards of Education.",
+      "status": "ok",
+      "confidence": 0.9760536551475525,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 95,
+        "y0": 620,
+        "x1": 492,
+        "y1": 1210
+      },
+      "text": "Several Southern laws, which have reduced Negro farm hands to virtual peonage, are to be tested before the United States Supreme Court. The case is the appeal of an Alabama Negro convicted of violating the contract law, upheld by the State Supreme Court, under which he was sentenced to a fine equivalent to 126 days' hard labor for the county. The Federal Department of Justice believes that the law imposes compulsory service in satisfaction of debt, reducing the Negroes to actual slavery. The law provides that in contracts of service entered into by a laborer, where money was advanced, and the contract broken without just cause, and the money not refunded, the laborer is guilty, and may be sentenced to hard labor until the fine is worked out. The Federal Department contends that the purpose and effect of the law is not to stop fraudulent practices so much as to impose compulsory service upon the Negroes who constitute the bulk of the farm labor of the State. The point that will be attacked most vigorously is the Alabama rule of evidence in such cases, which, in practice, assumes that the Negro accused was guilty of intent to defraud, \"contrary to the axiomatic and elementary principle of presumption of innocence in a criminal procedure.\"",
+      "status": "ok",
+      "confidence": 0.9769859910011292,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 517,
+        "y0": 1172,
+        "x1": 913,
+        "y1": 1271
+      },
+      "text": "In order to induce the city of Savannah to relieve the wretchedly crowded Negro schools by a new building, the colored people are raising money to buy a site if the city will put up the building.",
+      "status": "ok",
+      "confidence": 0.9504060745239258,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1212,
+        "x1": 492,
+        "y1": 1384
+      },
+      "text": "The reports of the abuses existing under this contract system in the South have aroused widespread indignation as they have appeared from time to time when some exceptionally flagrant case was forced into publicity. Now that the Department of Justice has become interested, and the issue is to be placed before the supreme tribunal, a definite pronouncement may be expected.",
+      "status": "ok",
+      "confidence": 0.9715662598609924,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 517,
+        "y0": 1286,
+        "x1": 913,
+        "y1": 1442
+      },
+      "text": "An application has been received by the Yale Bureau of Appointments and Self-Help from John Morrison, a Negro, who is deaf and dumb and blind in one eye, for assistance in getting through the Yale Law School, where he has passed into the Senior Class. He has the degree of Bachelor of Law from Shaw University.",
+      "status": "ok",
+      "confidence": 0.9653156995773315,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1400,
+        "x1": 491,
+        "y1": 1478
+      },
+      "text": "The Mississippi Courts have refused to enjoin the Negro Knights of Pythias. The judge in giving his decision made the following remarkable statements:",
+      "status": "ok",
+      "confidence": 0.8561956882476807,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 517,
+        "y0": 1458,
+        "x1": 914,
+        "y1": 1500
+      },
+      "text": "Edmund J. James, president of the University of Illinois, in a speech at St. Paul,",
+      "status": "ok",
+      "confidence": 0.921830952167511,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 111,
+        "y0": 1478,
+        "x1": 489,
+        "y1": 1499
+      },
+      "text": "\"My political opinions and preferences",
+      "status": "ok",
+      "confidence": 0.6986652612686157,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 897,
+        "y0": 92,
+        "x1": 910,
+        "y1": 112
+      },
+      "text": "7",
+      "status": "ok",
+      "confidence": 0.7456378936767578,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 643,
+        "y0": 552,
+        "x1": 784,
+        "y1": 575
+      },
+      "text": "EDUCATION.",
+      "status": "ok",
+      "confidence": 0.9026156067848206,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 13.0,
+    "at": "2026-10-06T20:55:59+00:00"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 1082,
+  "height": 1611,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 412,
+        "y0": 73,
+        "x1": 755,
+        "y1": 104
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.7572751641273499,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 169,
+        "y0": 104,
+        "x1": 572,
+        "y1": 690
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 363,
+        "y0": 104,
+        "x1": 801,
+        "y1": 690
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 166,
+        "y0": 125,
+        "x1": 1001,
+        "y1": 424
+      },
+      "text": "Marshall's Hotel\n127-129 West 53d Street\nTelephones 4693-4694 Columbus\n\nSPECIAL FEATURE BEGINNING FEBRUARY 1\n\nBreakfast, 7:30 to 12:30, 30c. Luncheon, 12:30 to 3 p. m., 30c.\nRegular Dinner, 6 to 8, 35c.\nSpecial Course Dinner Every Sunday and Holidays, 50c.\n\nService and Food Unsurpassed Anywhere Good Music—Vocal and Instrumental\nShell Fish a Specialty Restaurant Open All Night\n\nJ. L. MARSHALL, Proprietor",
+      "status": "ok",
+      "confidence": 0.9299629330635071,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 293,
+        "y0": 551,
+        "x1": 871,
+        "y1": 617
+      },
+      "text": "We Print THE CRISIS",
+      "status": "ok",
+      "confidence": 0.804532527923584,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 363,
+        "y0": 690,
+        "x1": 801,
+        "y1": 1046
+      },
+      "text": "We Print for the Vogue Magazine and refer by permission to Mr. Conde Nast, Publisher of VOGUE MAGAZINE Wedding Invitations Printed and Engraved. Society and Commercial Printing a Specialty. A postal or the telephone (Lenox 6667) brings us to your door.",
+      "status": "ok",
+      "confidence": 0.8466392159461975,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 169,
+        "y0": 1046,
+        "x1": 572,
+        "y1": 1319
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 363,
+        "y0": 1046,
+        "x1": 801,
+        "y1": 1319
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 290,
+        "y0": 1118,
+        "x1": 873,
+        "y1": 1213
+      },
+      "text": "ROBERT N. WOOD\n202 EAST 99th STREET NEW YORK",
+      "status": "ok",
+      "confidence": 0.40920668840408325,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 169,
+        "y0": 1319,
+        "x1": 572,
+        "y1": 1591
+      },
+      "text": "Phone 2877 Lenox\nWhite Rose Working Girls' Home\n217 EAST 86TH STREET\nBet. Second and Third Avenues\nPleasant temporary lodgings for working girls,\nwith privileges, at reasonable rates. The Home\nsolicit orders for working dresses, aprons, etc.\nAddress:\nMRS. FRANCES R. KEYSER, Supt.\n\nMention",
+      "status": "ok",
+      "confidence": 0.3798232674598694,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 689,
+        "y0": 1366,
+        "x1": 963,
+        "y1": 1496
+      },
+      "text": "Hotel Washington\n3252 WABASH AVENUE\nCHICAGO\nass Service for First-class People\n75c., $1.00 and $2.00 Per Day\nTelephone Aldine 516",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 593,
+        "y0": 1323,
+        "x1": 738,
+        "y1": 1356
+      },
+      "text": "J. N. Washington\nProprietor",
+      "status": "ok",
+      "confidence": 0.3931596279144287,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 492,
+        "y0": 1505,
+        "x1": 672,
+        "y1": 1526
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.6318564414978027,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 807,
+        "y0": 431,
+        "x1": 991,
+        "y1": 1315
+      },
+      "text": "DD\nNEW YORK",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 807,
+        "y0": 1325,
+        "x1": 997,
+        "y1": 1360
+      },
+      "text": "Mrs. J. N. Washington\nManager",
+      "status": "ok",
+      "confidence": 0.43900227546691895,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.4,
+    "at": "2026-10-06T21:23:51+00:00"
+  }
+}

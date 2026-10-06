@@ -1,0 +1,421 @@
+{
+  "page": 32,
+  "image": "images/page_32.jpg",
+  "width": 1400,
+  "height": 2085,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 546,
+        "y0": 136,
+        "x1": 989,
+        "y1": 170
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8723287582397461,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 360,
+        "y0": 206,
+        "x1": 635,
+        "y1": 260
+      },
+      "text": "BOOKS",
+      "status": "ok",
+      "confidence": 0.924257755279541,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 821,
+        "y0": 232,
+        "x1": 1269,
+        "y1": 383
+      },
+      "text": "The Souls of Black Folk",
+      "status": "ok",
+      "confidence": 0.9251585602760315,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 238,
+        "y0": 274,
+        "x1": 752,
+        "y1": 349
+      },
+      "text": "When our readers wish to know where to buy the best books on race and other human problems they should consult this list:",
+      "status": "ok",
+      "confidence": 0.9327896237373352,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 270,
+        "y0": 380,
+        "x1": 723,
+        "y1": 415
+      },
+      "text": "The Curse of Race Prejudice",
+      "status": "ok",
+      "confidence": 0.876118540763855,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 823,
+        "y0": 394,
+        "x1": 1265,
+        "y1": 426
+      },
+      "text": "By W. E. BURGHARDT DU BOIS",
+      "status": "ok",
+      "confidence": 0.8392021059989929,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 241,
+        "y0": 423,
+        "x1": 753,
+        "y1": 556
+      },
+      "text": "JAMES F. MORTON, JR., A.M., Author and Publisher\nForceful, rational, comprehensive. An arsenal of facts and unanswerable arguments. Invaluable for propaganda. Read the chapter on \"The Bugbear of Social Equality,\" which is a veritable eyeopener. Thousands already sold. Agents wanted everywhere.",
+      "status": "ok",
+      "confidence": 0.8981053829193115,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 824,
+        "y0": 440,
+        "x1": 1267,
+        "y1": 569
+      },
+      "text": "\"It is one of the noteworthy books, not merely of a year, but of the epoch. Its every page is filled with vigor, spontaneity and spirituality.\"—Boston Transcript.",
+      "status": "ok",
+      "confidence": 0.925507664680481,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 263,
+        "y0": 555,
+        "x1": 731,
+        "y1": 613
+      },
+      "text": "PRICE 25 CENTS\nAddress the Author at 244 West 143d Street,\nNew York, N. Y.",
+      "status": "ok",
+      "confidence": 0.8912966847419739,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 823,
+        "y0": 580,
+        "x1": 1268,
+        "y1": 733
+      },
+      "text": "'A stripping bare of the moral and mental anatomy of the African in America so as to reveal the naked soul in its primitive simplicity, seared and scarred by ages of suffering.'—New York Age.",
+      "status": "ok",
+      "confidence": 0.9468609094619751,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 267,
+        "y0": 644,
+        "x1": 737,
+        "y1": 828
+      },
+      "text": "Atlanta University Studies of the Negro Problems",
+      "status": "ok",
+      "confidence": 0.966300368309021,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 824,
+        "y0": 791,
+        "x1": 1270,
+        "y1": 856
+      },
+      "text": "With Frontispiece Portrait of the Author. $1.20 Net",
+      "status": "ok",
+      "confidence": 0.8931941390037537,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 293,
+        "y0": 857,
+        "x1": 714,
+        "y1": 890
+      },
+      "text": "13 Monographs. Sold Separately.",
+      "status": "ok",
+      "confidence": 0.8558316230773926,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 821,
+        "y0": 870,
+        "x1": 1270,
+        "y1": 923
+      },
+      "text": "May be ordered through any book store or direct from the publishers",
+      "status": "ok",
+      "confidence": 0.7984374165534973,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 823,
+        "y0": 972,
+        "x1": 1271,
+        "y1": 1052
+      },
+      "text": "A. C. McCLURG & CO.\nNew York CHICAGO San Francisco",
+      "status": "ok",
+      "confidence": 0.8203953504562378,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 318,
+        "y0": 1024,
+        "x1": 697,
+        "y1": 1055
+      },
+      "text": "Atlanta University, Atlanta, Ga.",
+      "status": "ok",
+      "confidence": 0.8746750950813293,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "text",
+      "bbox": {
+        "x0": 821,
+        "y0": 1052,
+        "x1": 1271,
+        "y1": 1829
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "text",
+      "bbox": {
+        "x0": 238,
+        "y0": 1055,
+        "x1": 753,
+        "y1": 1470
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "text",
+      "bbox": {
+        "x0": 546,
+        "y0": 1055,
+        "x1": 989,
+        "y1": 1470
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 296,
+        "y0": 1144,
+        "x1": 1259,
+        "y1": 1494
+      },
+      "text": "A BOOK ALL INTERESTED IN HUMAN PROBLEMS OUGHT TO READ\n\nJOHN BROWN\nA Biography Fifty Years After\nBy OSWALD GARRISON VILLARD\n\nTHOMAS WENTWORTH HIGGINSON",
+      "status": "ok",
+      "confidence": 0.7810595631599426,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "text",
+      "bbox": {
+        "x0": 238,
+        "y0": 1494,
+        "x1": 753,
+        "y1": 1826
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "text",
+      "bbox": {
+        "x0": 546,
+        "y0": 1494,
+        "x1": 989,
+        "y1": 1826
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 370,
+        "y0": 1499,
+        "x1": 1255,
+        "y1": 1559
+      },
+      "text": "\"I can only say after reading from first to last its more than 700 pages that I have never encountered anything this side of Gibbon's 'Rome' which has made me feel more the personal power of a single work.\"",
+      "status": "ok",
+      "confidence": 0.40056243538856506,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 238,
+        "y0": 1597,
+        "x1": 1256,
+        "y1": 2065
+      },
+      "text": "\"Perhaps in thus dramatically fashioning his volume Mr. Villard obeyed an instinct rather than acted upon a preconceived plan; that is often the case with great work, where a writer's feelings are deeply enlisted. Be this as it may, the merit and charm are none the less; he has seized well a splendid opportunity and has written one of the great biographies of our literature.\"\n\nHENRY WATTERSON in the Louisville \"Courier-Journal\"\n\n\"No fault may justly be found with Mr. Villard's telling of the story. It is minute and lucid, altogether fair and unvarnished.\"\n\nFully Illustrated with Portraits, and Other Illustrations\n\nWith Copious Notes and Bibliography $5.00 Net; Postage 20 Cents\n\nBoston HOUGHTON MIFFLIN COMPANY New York\n\nMention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.6862478256225586,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "text",
+      "bbox": {
+        "x0": 546,
+        "y0": 1850,
+        "x1": 989,
+        "y1": 1977
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r25",
+      "label": "text",
+      "bbox": {
+        "x0": 821,
+        "y0": 1853,
+        "x1": 1271,
+        "y1": 2065
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r27",
+      "label": "abandon",
+      "bbox": {
+        "x0": 236,
+        "y0": 140,
+        "x1": 273,
+        "y1": 168
+      },
+      "text": "32",
+      "status": "ok",
+      "confidence": 0.8376147747039795,
+      "lines": []
+    },
+    {
+      "id": "r28",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 395,
+        "y0": 920,
+        "x1": 614,
+        "y1": 1009
+      },
+      "text": "Address:\nA. G. DILL",
+      "status": "ok",
+      "confidence": 0.8732195496559143,
+      "lines": []
+    },
+    {
+      "id": "r30",
+      "label": "title",
+      "bbox": {
+        "x0": 954,
+        "y0": 743,
+        "x1": 1138,
+        "y1": 777
+      },
+      "text": "Eighth Edition",
+      "status": "ok",
+      "confidence": 0.7186239361763,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.3,
+    "at": "2026-10-06T21:14:16+00:00"
+  }
+}

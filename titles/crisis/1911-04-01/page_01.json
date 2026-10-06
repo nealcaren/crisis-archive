@@ -1,0 +1,71 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 32,
+        "y0": 46,
+        "x1": 957,
+        "y1": 1488
+      },
+      "text": "THE CRISIS\nA RECORD THE DARKER RACES\n\nVolume One APRIL, 1911 Number Six\n\nEdited by W. E. BURGHARDT DU BOIS, with the co-operation of Oswald Garrison Villard, J. Max Barber, Charles Edward Russell, Kelly Miller, W. S. Braithwaite and M. D. Maclean.\n\nEASTER NUMBER\n\nPhoto by Scurlock, Washington. D. C.\n\nPUBLISHED MONTHLY BY THE\nNational Association for the Advancement of Colored People\nAT TWENTY VESEY STREET NEW YORK CITY\n\nONE DOLLAR A YEAR TEN CENTS A COPY",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 72,
+        "y0": 303,
+        "x1": 336,
+        "y1": 492
+      },
+      "text": "Edited by W. E. BURGHAR\nJ. Max Barber, Charles Edw",
+      "status": "ok",
+      "confidence": 0.7308149337768555,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 72,
+        "y0": 585,
+        "x1": 336,
+        "y1": 1223
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "abandon",
+      "bbox": {
+        "x0": 72,
+        "y0": 1223,
+        "x1": 336,
+        "y1": 1386
+      },
+      "text": "Photo by Scurlock, Washington, D. C.\nNational Associati",
+      "status": "ok",
+      "confidence": 0.5876354575157166,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.6,
+    "at": "2026-10-06T21:20:46+00:00"
+  }
+}

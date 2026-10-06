@@ -1,0 +1,127 @@
+{
+  "page": 10,
+  "image": "images/page_10.jpg",
+  "width": 1108,
+  "height": 1643,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 495,
+        "y0": 107,
+        "x1": 652,
+        "y1": 133
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.762202799320221,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 157,
+        "y0": 110,
+        "x1": 184,
+        "y1": 132
+      },
+      "text": "10",
+      "status": "ok",
+      "confidence": 0.8592234253883362,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 156,
+        "y0": 164,
+        "x1": 566,
+        "y1": 722
+      },
+      "text": "The Colored State Fair of South Carolina was held in Columbia.\n\nA few colored men have been appointed on the county constabulary of Charlotte, N. C.\n\nMr. Booker T. Washington with a number of companions has been making a tour of the State of North Carolina.\n\nThe Governor of Virginia made an address at the Virginia Colored State Fair.\n\nThe North Carolina Colored State Fair was the largest ever held.\n\nFive hundred white citizens have successfully protested against the establishment of the Negro park in Memphis, Tenn. Colored people taxed for public parks in that city are not allowed to use them.\n\nA Negro Organization Society has been formed in Virginia, at the suggestion of the Hampton Negro Conference, to organize social and educational work.",
+      "status": "ok",
+      "confidence": 0.943077564239502,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 163,
+        "y0": 739,
+        "x1": 573,
+        "y1": 1324
+      },
+      "text": "From Springfield, Tenn., a local report says that the first Colored Industrial Fair was a success, from a financial standpoint, there being a large attendance and a number of fine exhibits. The colored people are commended for the interest shown and the good order that prevailed during the entire time of the fair.\n\nA successful Negro fair was held at Trenton, Tenn. The exhibit of horses was especially good.\n\nThe Eighth Illinois Regiment, composed of colored men, have celebrated their fifteenth anniversary in the presence of 5,000 citizens. This regiment was mustered into the Illinois National Guard in 1895 under Governor Altgeld. It has a splendid record, having served in Cuba and on riot duty.\n\nCRIME.\n\nNear Asbury Park, N. J., a colored man has been accused of murdering a child. Lynching was threatened for a while, but the prisoner has maintained his innocence, and the police now think that he is telling the truth, after they have tortured him with the \"Third Degree.\"",
+      "status": "ok",
+      "confidence": 0.9675577878952026,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 170,
+        "y0": 1350,
+        "x1": 576,
+        "y1": 1550
+      },
+      "text": "At Montezuma, Ga., two Negroes have been lynched for killing a night policeman.\n\nIn Maryland, Dick Titus, a colored person, has just died. When the city jail caught fire, in 1893, he saved prisoners and firemen from death. Titus has spent the best part of his life in prison. Most of his offenses were larceny. It was said that all the goods that Titus stole would",
+      "status": "ok",
+      "confidence": 0.9599244594573975,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 582,
+        "y0": 160,
+        "x1": 996,
+        "y1": 659
+      },
+      "text": "not amount to $100 worth. He was sent to Bayview several months ago, having been picked up on the street sick.\n\nIn Huntington, W. Va., several race riots have taken place in which a Negro, supposed to be George Johnson, was killed, three of a posse probably fatally wounded and five others shot. There were numerous fights between the whites and the blacks. Negroes were knocked down on the least provocation and threats made to wipe out the entire Negro population.\n\nFOREIGN.\n\nThe Hon. Ernest Lyon has returned to America, having been succeeded by Dr. Crum as Minister to Liberia. A number of severe charges were filed against Mr. Lyon, and considerable bitterness is manifest over him in the Liberian papers.\n\nLiberia will elect a President in a few months.",
+      "status": "ok",
+      "confidence": 0.9656946659088135,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 590,
+        "y0": 681,
+        "x1": 1002,
+        "y1": 1022
+      },
+      "text": "Mention has been made of the paper of Mr. G. W. Ellis, F. R. G. S., the colored ex-Secretary of the Liberian Legation, at the Races Conference recently held at Clark University. President G. Stanley Hall pronounces this paper \"one of the most condensed and admirable reports of the whole conference.\"\n\nDinuzulu, the South African Zulu Chief, has been released from confinement, in which he has been held since the last attempted Zulu uprising.\n\nAn investigator of the English Aborigines Society reports as follows as to conditions in Mexico:",
+      "status": "ok",
+      "confidence": 0.9512598514556885,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 597,
+        "y0": 1021,
+        "x1": 1005,
+        "y1": 1551
+      },
+      "text": "\"I am asked to emphasize the important fact that several investigators, entirely ignorant of the presence of other parties in the territory, and traveling in different directions, and with different objects, all arrive at practically the same conclusions; that these conclusions coincide with the revelations made in the Mexican press itself; that this independent and public testimony confirms the private information in the possession of the Society from many correspondents in Mexico—again unacquainted with each other. The whole of this testimony tends to show that a system of peonage is widely prevalent, involving many thousands of human beings in Yucatan in a bondage at once as cruel and hopeless as almost any form of slavery within the knowledge of the Society. This testimony, coming as it does from many sources, including different nationalities; from merchants, missionaries, travelers and journalists; supported by photographic evidence; first from one, then from another part of Mexico, cannot—in the opinion of my Committee—be lightly dismissed as being 'highly colored and overdrawn.'\"",
+      "status": "ok",
+      "confidence": 0.9766553640365601,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.1,
+    "at": "2026-10-06T20:56:33+00:00"
+  }
+}

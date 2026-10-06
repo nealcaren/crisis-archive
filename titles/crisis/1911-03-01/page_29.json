@@ -1,0 +1,253 @@
+{
+  "page": 29,
+  "image": "images/page_29.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 344,
+        "y0": 111,
+        "x1": 650,
+        "y1": 137
+      },
+      "text": "TALKS ABOUT WOMEN",
+      "status": "ok",
+      "confidence": 0.8623095750808716,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 74,
+        "y0": 164,
+        "x1": 482,
+        "y1": 364
+      },
+      "text": "The Interdenominational Ministers' Union has sent a petition to Congress in which they quote the justice's remarks to the colored man and ask for a careful investigation. They say that while they \"do not object to the severity of the sentence imposed, they, nevertheless, deem such expressions from the bench as indicative of a purpose to punish crime, not according to a just and impartial standard, regardless of",
+      "status": "ok",
+      "confidence": 0.9780046343803406,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 507,
+        "y0": 165,
+        "x1": 915,
+        "y1": 364
+      },
+      "text": "race, class or condition, but with reference to the race of the offender and the race of the victim.\n\"Such a method of administering the law is contrary to the traditions and Constitution of the government, and of the laws themselves, and would result in converting courts of justice into instruments of oppression and injustice.\"",
+      "status": "ok",
+      "confidence": 0.9748266935348511,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 74,
+        "y0": 364,
+        "x1": 487,
+        "y1": 512
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 507,
+        "y0": 364,
+        "x1": 921,
+        "y1": 597
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 175,
+        "y0": 466,
+        "x1": 829,
+        "y1": 513
+      },
+      "text": "TALKS ABOUT WOMEN",
+      "status": "ok",
+      "confidence": 0.21828429400920868,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 78,
+        "y0": 597,
+        "x1": 484,
+        "y1": 853
+      },
+      "text": "To the woman who wants to vote all sorts of advice—good, bad and indifferent—has been offered. We all hope that these suggestions, together with her own supreme effort, will quickly bring about that condition which to her way of thinking is the one thing needful. All honor to these brave women, and I am sure THE CRISIS readers believe in their ultimate and complete success. To-day, however, there is to be a little talk to the home makers and to those mothers who above all else want to make a success of their own particular work in life.",
+      "status": "ok",
+      "confidence": 0.9759676456451416,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 510,
+        "y0": 597,
+        "x1": 918,
+        "y1": 1053
+      },
+      "text": "quick, supple movements and give grace and poise to the most ungainly boy or girl.\n\nHowever that may be, it is certainly an easy and safe plan to try, and I have set down a few exercises as follows:\n\nStanding straight with feet well together, bend over till the fingers touch the toes; repeat it two or three times until it becomes easy. Of course, the body must be bent only from the hips. Then sitting on the floor, have the boy or girl bend over, keeping the body as straight as possible, touching the fingers to the toes. Be very careful not to bend the leg, otherwise the exercise is of no use. The idea is to stretch the muscles of the back, from the waist. Not one person in ten, perhaps, is able to lie flat on the floor on the back, fold the arms and then try to sit up. This is a very difficult exercise, but can be acquired quite easily by practice and is an excellent tonic for the muscles of the abdomen.",
+      "status": "ok",
+      "confidence": 0.9562994241714478,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 80,
+        "y0": 854,
+        "x1": 485,
+        "y1": 1304
+      },
+      "text": "To these women, who only too often have their hands as well as hearts full of the cares of their little folk, a word regarding that privilege is sometimes helpful. It is not always an easy matter to get rid of little ailments to which almost every child seems subject, when often a slight knowledge of how to prevent them would save not only anxiety but often expense. To every mother in many of our large cities is given the opportunity for a knowledge of hygiene—the right use of food and proper ventilation. These in a simple form are taught in many public schools. But many mothers must work alone. All, however, can do something. It would be easy, for instance, to see that the children of the household were taught to breathe properly, that their habits were regulated and a desire for wholesome food acquired to take the place of the love for unwholesome sweets for which American children are noted.",
+      "status": "ok",
+      "confidence": 0.9791066646575928,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 513,
+        "y0": 1056,
+        "x1": 918,
+        "y1": 1477
+      },
+      "text": "So one might go on with these exercises which are very simple, but which, when rightly done and particularly when followed regularly, will in every case bring satisfactory results. They must, however, be done in a room well ventilated and by a person who is interested and is really desirous of obtaining certain benefits.\n\nWe mothers, too, have our vocation and one that is worth sacrificing much time and labor for. The moral development of our children is a far less difficult problem than their physical well being. When the health is good, when the body is well nourished, the nerves steady, the whole machinery kept normal by regular living, moral abnormalities are not likely to occur. Above all, it should be the mother, not the teacher or some little interested stranger, who looks after the child's development.",
+      "status": "ok",
+      "confidence": 0.978007972240448,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 82,
+        "y0": 1306,
+        "x1": 487,
+        "y1": 1561
+      },
+      "text": "One mother I know takes her small brood in front of an open window each morning and makes them inhale deep long breaths. This must be done through the nose and exhaled slowly in the same way. She says that such regular and deep breathing keeps them from taking cold and helps to purify the blood, so that her children are seldom ill and never seriously so. Again, this same mother contends that a set of daily exercises or drills properly and regularly followed will build up the most delicate child, make in time a strong, straight spine,",
+      "status": "ok",
+      "confidence": 0.9772631525993347,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 515,
+        "y0": 1480,
+        "x1": 921,
+        "y1": 1562
+      },
+      "text": "\"He sings to the wide world, she to her nest,\" says the poet; and as one who has enjoyed the latter privilege, I fully believe it is the better part.",
+      "status": "ok",
+      "confidence": 0.9518900513648987,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 74,
+        "y0": 1561,
+        "x1": 487,
+        "y1": 1646
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "text",
+      "bbox": {
+        "x0": 507,
+        "y0": 1562,
+        "x1": 921,
+        "y1": 1646
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 111,
+        "y0": 512,
+        "x1": 276,
+        "y1": 536
+      },
+      "text": "NUMBER FOUR",
+      "status": "ok",
+      "confidence": 0.2499418705701828,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "title",
+      "bbox": {
+        "x0": 419,
+        "y0": 378,
+        "x1": 572,
+        "y1": 417
+      },
+      "text": "尬",
+      "status": "ok",
+      "confidence": 0.554695188999176,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "abandon",
+      "bbox": {
+        "x0": 882,
+        "y0": 111,
+        "x1": 913,
+        "y1": 133
+      },
+      "text": "29",
+      "status": "ok",
+      "confidence": 0.827526330947876,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.1,
+    "at": "2026-10-06T21:19:31+00:00"
+  }
+}

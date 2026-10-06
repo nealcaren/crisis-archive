@@ -1,0 +1,3272 @@
+{
+  "title": "crisis",
+  "date": "1910-12-01",
+  "enrich": {
+    "model": "openai/gpt-5.6-luna",
+    "stitch_model": "google/gemini-3.8-flash",
+    "profile": false,
+    "at": "2026-10-06T21:08:50+00:00"
+  },
+  "articles": [
+    {
+      "id": "p1a1",
+      "start_page": 1,
+      "pages": [
+        1
+      ],
+      "continued": false,
+      "title": "THE CRISIS A RECORD OF THE DARKER RACES",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 1,
+          "ids": [
+            "r0",
+            "r2",
+            "r4",
+            "r6",
+            "r7",
+            "r8",
+            "r9",
+            "r11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p1a2",
+      "start_page": 1,
+      "pages": [
+        1
+      ],
+      "continued": false,
+      "title": "CONTENTS",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": "Contents",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 1,
+          "ids": [
+            "r3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p1a3",
+      "start_page": 1,
+      "pages": [
+        1
+      ],
+      "continued": false,
+      "title": "[Unrecognized decorative material]",
+      "author": null,
+      "author_confidence": null,
+      "type": "other",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 1,
+          "ids": [
+            "r1",
+            "r5",
+            "r10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2a1",
+      "start_page": 2,
+      "pages": [
+        2
+      ],
+      "continued": false,
+      "title": "THE CRISIS ADVERTISER",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 2,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2a2",
+      "start_page": 2,
+      "pages": [
+        2
+      ],
+      "continued": false,
+      "title": "ONE OF THE SUREST WAYS TO SUCCEED IN LIFE IS TO TAKE A COURSE AT",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 2,
+          "ids": [
+            "r1",
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6",
+            "r7",
+            "r8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3a1",
+      "start_page": 3,
+      "pages": [
+        3
+      ],
+      "continued": false,
+      "title": "THE CRISIS ADVERTISER",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 3,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3a2",
+      "start_page": 3,
+      "pages": [
+        3
+      ],
+      "continued": false,
+      "title": "THE NATIONAL ASSOCIATION for the ADVANCEMENT of COLORED PEOPLE",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 3,
+          "ids": [
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6",
+            "r7",
+            "r8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4a1",
+      "start_page": 4,
+      "pages": [
+        4
+      ],
+      "continued": false,
+      "title": "Marshall's Hotel",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": "The Crisis Advertiser",
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 4,
+          "ids": [
+            "r0",
+            "r1",
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6",
+            "r7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4a2",
+      "start_page": 4,
+      "pages": [
+        4
+      ],
+      "continued": false,
+      "title": "We Print THE CRISIS",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": "The Crisis Advertiser",
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 4,
+          "ids": [
+            "r8",
+            "r9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4a3",
+      "start_page": 4,
+      "pages": [
+        4
+      ],
+      "continued": false,
+      "title": "[Advertisement]",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": "The Crisis Advertiser",
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 4,
+          "ids": [
+            "r10",
+            "r11",
+            "r12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4a4",
+      "start_page": 4,
+      "pages": [
+        4
+      ],
+      "continued": false,
+      "title": "White Rose Working Girls' Home / New York Careful Cleaning Bureau",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": "The Crisis Advertiser",
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 4,
+          "ids": [
+            "r13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p4a5",
+      "start_page": 4,
+      "pages": [
+        4
+      ],
+      "continued": false,
+      "title": "4",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 4,
+          "ids": [
+            "r14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5a1",
+      "start_page": 5,
+      "pages": [
+        5
+      ],
+      "continued": false,
+      "title": "Along the Color Line",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 5,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5a2",
+      "start_page": 5,
+      "pages": [
+        5
+      ],
+      "continued": false,
+      "title": "JIM CROW",
+      "author": "Les",
+      "author_confidence": "low",
+      "type": "poem",
+      "section": "Along the Color Line",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 5,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5a3",
+      "start_page": 5,
+      "pages": [
+        5,
+        6
+      ],
+      "continued": true,
+      "title": "[Oklahoma election and Negro appointments]",
+      "author": null,
+      "author_confidence": null,
+      "type": "column",
+      "section": "Along the Color Line",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 5,
+          "ids": [
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6"
+          ]
+        },
+        {
+          "page": 6,
+          "ids": [
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6",
+            "r7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p6a1",
+      "start_page": 6,
+      "pages": [
+        6
+      ],
+      "continued": false,
+      "title": "THE CRISIS",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 6,
+          "ids": [
+            "r0",
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a1",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "ALONG THE COLOR LINE",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r0",
+            "r12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a2",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "[Oklahoma grandfather clause decision]",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": "Along the Color Line",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a3",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "[Statement on race and justice]",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": "Along the Color Line",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a4",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "[Racial classification case in Washington]",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": "Along the Color Line",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a5",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "[Negro education in Georgia]",
+      "author": null,
+      "author_confidence": null,
+      "type": "report",
+      "section": "Education",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r13",
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a6",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "[Southern contract system challenged]",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": "Along the Color Line",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r5",
+            "r7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a7",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "[Savannah Negro schools]",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": "Education",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a8",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "[John Morrison seeks assistance at Yale]",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": "Education",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a9",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "[Mississippi courts and the Negro Knights of Pythias]",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": "Along the Color Line",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7a10",
+      "start_page": 7,
+      "pages": [
+        7
+      ],
+      "continued": false,
+      "title": "[Speech by Edmund J. James]",
+      "author": "Edmund J. James",
+      "author_confidence": "high",
+      "type": "speech",
+      "section": "Along the Color Line",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 7,
+          "ids": [
+            "r10",
+            "r11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8a1",
+      "start_page": 8,
+      "pages": [
+        8
+      ],
+      "continued": false,
+      "title": "8",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 8,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8a2",
+      "start_page": 8,
+      "pages": [
+        8
+      ],
+      "continued": false,
+      "title": "THE CRISIS",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 8,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8a3",
+      "start_page": 8,
+      "pages": [
+        8
+      ],
+      "continued": false,
+      "title": "[Article on Negro education]",
+      "author": null,
+      "author_confidence": null,
+      "type": "essay",
+      "section": "Education",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 8,
+          "ids": [
+            "r2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8a4",
+      "start_page": 8,
+      "pages": [
+        8
+      ],
+      "continued": false,
+      "title": "[Educational news]",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": "Education",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 8,
+          "ids": [
+            "r3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8a5",
+      "start_page": 8,
+      "pages": [
+        8
+      ],
+      "continued": false,
+      "title": "[Educational news]",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": "Education",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 8,
+          "ids": [
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8a6",
+      "start_page": 8,
+      "pages": [
+        8
+      ],
+      "continued": false,
+      "title": "THE CHURCH",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": "The Church",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 8,
+          "ids": [
+            "r5",
+            "r7",
+            "r8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9a1",
+      "start_page": 9,
+      "pages": [
+        9
+      ],
+      "continued": false,
+      "title": "ALONG THE COLOR LINE",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 9,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9a2",
+      "start_page": 9,
+      "pages": [
+        9
+      ],
+      "continued": false,
+      "title": "ECONOMIC.",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": "ALONG THE COLOR LINE",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 9,
+          "ids": [
+            "r12",
+            "r2",
+            "r4",
+            "r6",
+            "r8",
+            "r10",
+            "r1",
+            "r3",
+            "r5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9a3",
+      "start_page": 9,
+      "pages": [
+        9
+      ],
+      "continued": false,
+      "title": "SOCIAL UPLIFT.",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": "ALONG THE COLOR LINE",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 9,
+          "ids": [
+            "r14",
+            "r7",
+            "r9",
+            "r11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9a4",
+      "start_page": 9,
+      "pages": [
+        9
+      ],
+      "continued": false,
+      "title": "9",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 9,
+          "ids": [
+            "r13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p10a1",
+      "start_page": 10,
+      "pages": [
+        10
+      ],
+      "continued": false,
+      "title": "THE CRISIS",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 10,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p10a2",
+      "start_page": 10,
+      "pages": [
+        10
+      ],
+      "continued": false,
+      "title": "[Page number]",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 10,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p10a3",
+      "start_page": 10,
+      "pages": [
+        10
+      ],
+      "continued": false,
+      "title": "[News briefs]",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": "Along the Color Line",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 10,
+          "ids": [
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6",
+            "r7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p11a1",
+      "start_page": 11,
+      "pages": [
+        11
+      ],
+      "continued": false,
+      "title": "OKLAHOMA.",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": "Opinion",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 11,
+          "ids": [
+            "r0",
+            "r8",
+            "r1",
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6",
+            "r7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p12a1",
+      "start_page": 12,
+      "pages": [
+        12
+      ],
+      "continued": false,
+      "title": "THE CRISIS",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 12,
+          "ids": [
+            "r0",
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p12a2",
+      "start_page": 12,
+      "pages": [
+        12
+      ],
+      "continued": false,
+      "title": "[The Oklahoma Negroes and the Socialist movement]",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 12,
+          "ids": [
+            "r2",
+            "r3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p12a3",
+      "start_page": 12,
+      "pages": [
+        12,
+        13
+      ],
+      "continued": true,
+      "title": "[Maryland's Negro suffrage law]",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 12,
+          "ids": [
+            "r4",
+            "r5",
+            "r6",
+            "r7"
+          ]
+        },
+        {
+          "page": 13,
+          "ids": [
+            "r1",
+            "r2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p13a1",
+      "start_page": 13,
+      "pages": [
+        13
+      ],
+      "continued": false,
+      "title": "OPINION",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 13,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p13a3",
+      "start_page": 13,
+      "pages": [
+        13,
+        14
+      ],
+      "continued": true,
+      "title": "THE LEWIS APPOINTMENT.",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": "OPINION",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 13,
+          "ids": [
+            "r3",
+            "r4",
+            "r6",
+            "r7",
+            "r8"
+          ]
+        },
+        {
+          "page": 14,
+          "ids": [
+            "r1",
+            "r2",
+            "r3",
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p13a4",
+      "start_page": 13,
+      "pages": [
+        13
+      ],
+      "continued": false,
+      "title": "13",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 13,
+          "ids": [
+            "r5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p14a2",
+      "start_page": 14,
+      "pages": [
+        14,
+        15
+      ],
+      "continued": true,
+      "title": "[Reformatory for colored young people]",
+      "author": null,
+      "author_confidence": null,
+      "type": "report",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 14,
+          "ids": [
+            "r5"
+          ]
+        },
+        {
+          "page": 15,
+          "ids": [
+            "r1",
+            "r2",
+            "r3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p14a3",
+      "start_page": 14,
+      "pages": [
+        14
+      ],
+      "continued": false,
+      "title": "THE CRISIS",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 14,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p15a1",
+      "start_page": 15,
+      "pages": [
+        15
+      ],
+      "continued": false,
+      "title": "OPINION",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 15,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p15a3",
+      "start_page": 15,
+      "pages": [
+        15
+      ],
+      "continued": false,
+      "title": "FOREIGN COMMENT.",
+      "author": null,
+      "author_confidence": null,
+      "type": "column",
+      "section": "Opinion",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 15,
+          "ids": [
+            "r5",
+            "r6",
+            "r7",
+            "r8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p15a4",
+      "start_page": 15,
+      "pages": [
+        15
+      ],
+      "continued": false,
+      "title": "15",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 15,
+          "ids": [
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p16a1",
+      "start_page": 16,
+      "pages": [
+        16
+      ],
+      "continued": false,
+      "title": "EDITORIAL",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 16,
+          "ids": [
+            "r0",
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p16a2",
+      "start_page": 16,
+      "pages": [
+        16,
+        17
+      ],
+      "continued": true,
+      "title": "What is the National Association for the Advancement of Colored People?",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": "Editorial",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 16,
+          "ids": [
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6"
+          ]
+        },
+        {
+          "page": 17,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p17a1",
+      "start_page": 17,
+      "pages": [
+        17
+      ],
+      "continued": false,
+      "title": "EDITORIAL",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 17,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p17a3",
+      "start_page": 17,
+      "pages": [
+        17,
+        20
+      ],
+      "continued": true,
+      "title": "THE RACES IN CONFERENCE",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": "Editorial",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 17,
+          "ids": [
+            "r2",
+            "r3",
+            "r4",
+            "r6",
+            "r7",
+            "r8"
+          ]
+        },
+        {
+          "page": 20,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p17a4",
+      "start_page": 17,
+      "pages": [
+        17
+      ],
+      "continued": false,
+      "title": "17",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 17,
+          "ids": [
+            "r5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p18a1",
+      "start_page": 18,
+      "pages": [
+        18
+      ],
+      "continued": false,
+      "title": "THE CRISIS",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 18,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p18a2",
+      "start_page": 18,
+      "pages": [
+        18
+      ],
+      "continued": false,
+      "title": "John Henry Adams — 1905",
+      "author": null,
+      "author_confidence": null,
+      "type": "other",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 18,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p19a1",
+      "start_page": 19,
+      "pages": [
+        19
+      ],
+      "continued": false,
+      "title": "DECEMBER, 1910",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 19,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p19a2",
+      "start_page": 19,
+      "pages": [
+        19
+      ],
+      "continued": false,
+      "title": "THE CHRISTMAS RECKONING",
+      "author": null,
+      "author_confidence": null,
+      "type": "report",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 19,
+          "ids": [
+            "r2",
+            "r3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p20a2",
+      "start_page": 20,
+      "pages": [
+        20
+      ],
+      "continued": false,
+      "title": "[The Congressional election of 1910]",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 20,
+          "ids": [
+            "r2",
+            "r3",
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p20a3",
+      "start_page": 20,
+      "pages": [
+        20,
+        21
+      ],
+      "continued": true,
+      "title": "THE GHETTO",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 20,
+          "ids": [
+            "r5",
+            "r6",
+            "r7"
+          ]
+        },
+        {
+          "page": 21,
+          "ids": [
+            "r1",
+            "r2",
+            "r3",
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p20a4",
+      "start_page": 20,
+      "pages": [
+        20
+      ],
+      "continued": false,
+      "title": "THE CRISIS",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 20,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p21a1",
+      "start_page": 21,
+      "pages": [
+        21
+      ],
+      "continued": false,
+      "title": "EDITORIAL",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 21,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p21a3",
+      "start_page": 21,
+      "pages": [
+        21
+      ],
+      "continued": false,
+      "title": "THE INEVITABLE.",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": "EDITORIAL",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 21,
+          "ids": [
+            "r5",
+            "r6",
+            "r7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p22a1",
+      "start_page": 22,
+      "pages": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "continued": true,
+      "title": "THE REAL RACE PROBLEM",
+      "author": "Franz Boas",
+      "author_confidence": "high",
+      "type": "essay",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 22,
+          "ids": [
+            "r0",
+            "r1",
+            "r2",
+            "r4",
+            "r5"
+          ]
+        },
+        {
+          "page": 23,
+          "ids": [
+            "r0",
+            "r1",
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6",
+            "r7",
+            "r8",
+            "r9",
+            "r11"
+          ]
+        },
+        {
+          "page": 24,
+          "ids": [
+            "r2",
+            "r3",
+            "r4",
+            "r5",
+            "r6",
+            "r7"
+          ]
+        },
+        {
+          "page": 25,
+          "ids": [
+            "r0",
+            "r2",
+            "r1",
+            "r9",
+            "r4",
+            "r3",
+            "r5",
+            "r6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p23a2",
+      "start_page": 23,
+      "pages": [
+        23
+      ],
+      "continued": false,
+      "title": "23",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 23,
+          "ids": [
+            "r10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p24a1",
+      "start_page": 24,
+      "pages": [
+        24
+      ],
+      "continued": false,
+      "title": "24",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 24,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p24a2",
+      "start_page": 24,
+      "pages": [
+        24
+      ],
+      "continued": false,
+      "title": "THE CRISIS",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 24,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p25a2",
+      "start_page": 25,
+      "pages": [
+        25
+      ],
+      "continued": false,
+      "title": "N. A. A. C. P. LECTURE RECITAL",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 25,
+          "ids": [
+            "r7",
+            "r10",
+            "r11",
+            "r8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p25a3",
+      "start_page": 25,
+      "pages": [
+        25
+      ],
+      "continued": false,
+      "title": "[Page number]",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 25,
+          "ids": [
+            "r12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p26a1",
+      "start_page": 26,
+      "pages": [
+        26,
+        27
+      ],
+      "continued": true,
+      "title": "THE BURDEN",
+      "author": null,
+      "author_confidence": null,
+      "type": "essay",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 26,
+          "ids": [
+            "r0",
+            "r2",
+            "r9",
+            "r1",
+            "r3",
+            "r4",
+            "r5",
+            "r7",
+            "r6",
+            "r8"
+          ]
+        },
+        {
+          "page": 27,
+          "ids": [
+            "r0",
+            "r2",
+            "r1",
+            "r4",
+            "r3",
+            "r6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p27a2",
+      "start_page": 27,
+      "pages": [
+        27
+      ],
+      "continued": false,
+      "title": "THE REWARD OF THRIFT.",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 27,
+          "ids": [
+            "r16",
+            "r5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p27a3",
+      "start_page": 27,
+      "pages": [
+        27
+      ],
+      "continued": false,
+      "title": "A JIM CROW LINE.",
+      "author": null,
+      "author_confidence": null,
+      "type": "news",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 27,
+          "ids": [
+            "r14",
+            "r7",
+            "r9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p27a4",
+      "start_page": 27,
+      "pages": [
+        27
+      ],
+      "continued": false,
+      "title": "PRECEPT AND PRACTICE.",
+      "author": null,
+      "author_confidence": null,
+      "type": "essay",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 27,
+          "ids": [
+            "r17",
+            "r8",
+            "r10",
+            "r12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p27a5",
+      "start_page": 27,
+      "pages": [
+        27
+      ],
+      "continued": false,
+      "title": "THE CASE OF BLACKWELL.",
+      "author": null,
+      "author_confidence": null,
+      "type": "editorial",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 27,
+          "ids": [
+            "r11",
+            "r13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p27a6",
+      "start_page": 27,
+      "pages": [
+        27
+      ],
+      "continued": false,
+      "title": "27",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 27,
+          "ids": [
+            "r15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p28a1",
+      "start_page": 28,
+      "pages": [
+        28
+      ],
+      "continued": false,
+      "title": "TALKS ABOUT WOMEN NUMBER ONE",
+      "author": "Mrs. John E. Milholland",
+      "author_confidence": "high",
+      "type": "column",
+      "section": "Talks About Women",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 28,
+          "ids": [
+            "r0",
+            "r2",
+            "r3",
+            "r7",
+            "r8",
+            "r9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p28a2",
+      "start_page": 28,
+      "pages": [
+        28
+      ],
+      "continued": false,
+      "title": "[Unidentified item]",
+      "author": null,
+      "author_confidence": null,
+      "type": "other",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 28,
+          "ids": [
+            "r4",
+            "r5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p28a3",
+      "start_page": 28,
+      "pages": [
+        28
+      ],
+      "continued": false,
+      "title": "LETTERS",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 28,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p28a4",
+      "start_page": 28,
+      "pages": [
+        28
+      ],
+      "continued": false,
+      "title": "FROM DUTCH WORKINGMEN",
+      "author": null,
+      "author_confidence": null,
+      "type": "letter",
+      "section": "Letters",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 28,
+          "ids": [
+            "r6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p29a1",
+      "start_page": 29,
+      "pages": [
+        29
+      ],
+      "continued": false,
+      "title": "LETTERS",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 29,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p29a2",
+      "start_page": 29,
+      "pages": [
+        29
+      ],
+      "continued": false,
+      "title": "[Page number]",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 29,
+          "ids": [
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p29a3",
+      "start_page": 29,
+      "pages": [
+        29
+      ],
+      "continued": false,
+      "title": "[Letter concerning the Negro in America]",
+      "author": null,
+      "author_confidence": null,
+      "type": "letter",
+      "section": "LETTERS",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 29,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p29a4",
+      "start_page": 29,
+      "pages": [
+        29
+      ],
+      "continued": false,
+      "title": "[Letter about racial prejudice and exile]",
+      "author": null,
+      "author_confidence": null,
+      "type": "letter",
+      "section": "LETTERS",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 29,
+          "ids": [
+            "r2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p29a5",
+      "start_page": 29,
+      "pages": [
+        29
+      ],
+      "continued": false,
+      "title": "[Letter about race prejudice]",
+      "author": null,
+      "author_confidence": null,
+      "type": "letter",
+      "section": "LETTERS",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 29,
+          "ids": [
+            "r3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p29a6",
+      "start_page": 29,
+      "pages": [
+        29
+      ],
+      "continued": false,
+      "title": "FROM A SOUTHERN WHITE MAN.",
+      "author": null,
+      "author_confidence": null,
+      "type": "letter",
+      "section": "LETTERS",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 29,
+          "ids": [
+            "r5",
+            "r6",
+            "r7",
+            "r8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p30a1",
+      "start_page": 30,
+      "pages": [
+        30
+      ],
+      "continued": false,
+      "title": "[List of articles]",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": "What to Read",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 30,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p30a2",
+      "start_page": 30,
+      "pages": [
+        30
+      ],
+      "continued": false,
+      "title": "Books",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": "What to Read",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 30,
+          "ids": [
+            "r2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p30a3",
+      "start_page": 30,
+      "pages": [
+        30
+      ],
+      "continued": false,
+      "title": "Archer's Afro-America",
+      "author": null,
+      "author_confidence": null,
+      "type": "essay",
+      "section": "What to Read",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 30,
+          "ids": [
+            "r0",
+            "r3",
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p30a4",
+      "start_page": 30,
+      "pages": [
+        30
+      ],
+      "continued": false,
+      "title": "[Review of Eminent Negro Men and Women]",
+      "author": null,
+      "author_confidence": null,
+      "type": "essay",
+      "section": "What to Read",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 30,
+          "ids": [
+            "r5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p31a1",
+      "start_page": 31,
+      "pages": [
+        31
+      ],
+      "continued": false,
+      "title": "31",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 31,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p31a2",
+      "start_page": 31,
+      "pages": [
+        31
+      ],
+      "continued": false,
+      "title": "BOOKS",
+      "author": null,
+      "author_confidence": null,
+      "type": "department",
+      "section": "BOOKS",
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 31,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p31a3",
+      "start_page": 31,
+      "pages": [
+        31
+      ],
+      "continued": false,
+      "title": "A BOOK ALL INTERESTED IN HUMAN PROBLEMS OUGHT TO READ",
+      "author": "Oswald Garrison Villard",
+      "author_confidence": "high",
+      "type": "advertisement",
+      "section": "BOOKS",
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 31,
+          "ids": [
+            "r2",
+            "r4",
+            "r5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p31a4",
+      "start_page": 31,
+      "pages": [
+        31
+      ],
+      "continued": false,
+      "title": "Atlanta University Studies of the Negro Problems",
+      "author": "W. E. Burghardt DuBois",
+      "author_confidence": "high",
+      "type": "advertisement",
+      "section": "BOOKS",
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 31,
+          "ids": [
+            "r7",
+            "r9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a1",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "THE CRISIS ADVERTISER",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a2",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "Howard University",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r1",
+            "r2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a3",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "W. A. PARKER INSURANCE",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r3",
+            "r22",
+            "r23",
+            "r24",
+            "r25"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a4",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "Dr. FRED. STERLING, SURGEON DENTIST",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a5",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "Atlanta University",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r5",
+            "r7",
+            "r9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a6",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "Dr. JAMES A. BANKS, DENTIST",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a7",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "Can't See Well? See Me",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r8",
+            "r11",
+            "r13",
+            "r27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a8",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "Fisk University",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r10",
+            "r12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a9",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "Mme. BECK'S School of Dressmaking",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r14",
+            "r15",
+            "r16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a10",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "The Firm for the Negro Farmers and Shippers to Deal With",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r17",
+            "r18",
+            "r19",
+            "r20",
+            "r31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p32a11",
+      "start_page": 32,
+      "pages": [
+        32
+      ],
+      "continued": false,
+      "title": "32",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 32,
+          "ids": [
+            "r21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p33a1",
+      "start_page": 33,
+      "pages": [
+        33
+      ],
+      "continued": false,
+      "title": "THE CRISIS ADVERTISER",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 33,
+          "ids": [
+            "r0",
+            "r15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p33a2",
+      "start_page": 33,
+      "pages": [
+        33
+      ],
+      "continued": false,
+      "title": "[Advertisements]",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 33,
+          "ids": [
+            "r1",
+            "r2",
+            "r3",
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p33a3",
+      "start_page": 33,
+      "pages": [
+        33
+      ],
+      "continued": false,
+      "title": "THE M. T. B. WASHINGTON COMPANY",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 33,
+          "ids": [
+            "r6",
+            "r7",
+            "r8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p33a4",
+      "start_page": 33,
+      "pages": [
+        33
+      ],
+      "continued": false,
+      "title": "$100,000 STOCK ISSUE TO BUILD AN AUDITORIUM IN GREATER NEW YORK",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 33,
+          "ids": [
+            "r9",
+            "r10",
+            "r11",
+            "r12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p33a5",
+      "start_page": 33,
+      "pages": [
+        33
+      ],
+      "continued": false,
+      "title": "SOLOMON GARRETT",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 33,
+          "ids": [
+            "r13",
+            "r14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p34a1",
+      "start_page": 34,
+      "pages": [
+        34
+      ],
+      "continued": false,
+      "title": "THE CRISIS ADVERTISER",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 34,
+          "ids": [
+            "r0",
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p34a2",
+      "start_page": 34,
+      "pages": [
+        34
+      ],
+      "continued": false,
+      "title": "STANDARDIZE WITH THE L.C. Smith & Bros. Typewriter",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 34,
+          "ids": [
+            "r2",
+            "r3",
+            "r4",
+            "r5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p35a1",
+      "start_page": 35,
+      "pages": [
+        35
+      ],
+      "continued": false,
+      "title": "Do You Want a Position?",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": "The Crisis Advertiser",
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 35,
+          "ids": [
+            "r2",
+            "r3",
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p35a2",
+      "start_page": 35,
+      "pages": [
+        35
+      ],
+      "continued": false,
+      "title": "[Automobile school advertisement]",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": "The Crisis Advertiser",
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 35,
+          "ids": [
+            "r1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p35a3",
+      "start_page": 35,
+      "pages": [
+        35
+      ],
+      "continued": false,
+      "title": "THE CRISIS ADVERTISER",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 35,
+          "ids": [
+            "r4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p36a1",
+      "start_page": 36,
+      "pages": [
+        36
+      ],
+      "continued": false,
+      "title": "36",
+      "author": null,
+      "author_confidence": null,
+      "type": "masthead",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 36,
+          "ids": [
+            "r0"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p36a2",
+      "start_page": 36,
+      "pages": [
+        36
+      ],
+      "continued": false,
+      "title": "Does the New York Negro Tenant Pay More Rent Than Any Other Class of Tenant?",
+      "author": null,
+      "author_confidence": null,
+      "type": "essay",
+      "section": null,
+      "language": "en",
+      "is_advertisement": false,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 36,
+          "ids": [
+            "r1",
+            "r2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p36a3",
+      "start_page": 36,
+      "pages": [
+        36
+      ],
+      "continued": false,
+      "title": "DESIRABLE APARTMENTS FOR DESIRABLE TENANTS ALSO HOMES FOR SALE ON EASY TERMS",
+      "author": null,
+      "author_confidence": null,
+      "type": "advertisement",
+      "section": null,
+      "language": "en",
+      "is_advertisement": true,
+      "continued_from": null,
+      "continued_to": null,
+      "regions": [
+        {
+          "page": 36,
+          "ids": [
+            "r3"
+          ]
+        }
+      ]
+    }
+  ]
+}

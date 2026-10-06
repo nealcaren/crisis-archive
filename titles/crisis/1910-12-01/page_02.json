@@ -1,0 +1,141 @@
+{
+  "page": 2,
+  "image": "images/page_02.jpg",
+  "width": 1078,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 389,
+        "y0": 22,
+        "x1": 721,
+        "y1": 52
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8153653144836426,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 76,
+        "y0": 57,
+        "x1": 611,
+        "y1": 1584
+      },
+      "text": "ONE OF THE SURRENDERS\nTO SUCCEED IN THE\nTAKE A COURSE\n\nThe Touissant College of Art and\n\n253 West 134th\nNEW YORK\n\nThe most up-to-date and thorough\nthe city. Conducted under the super-\nMME. E. TOUISSAN\nThe Foremost Female Art\n\nCourses in\n\nDrawing, Pen and Ink Sketching,\nOil Painting, Designing, Cartooning, Fast\nPortrait Painting and Photo Enlarging in\nand Oil. Artistic Painting of Parasol,\nCushions, Lamp Shades, Curtains, Screen,\nSofa Pillows, etc.\n\nMusic\n\nPiano, Violin, Mandolin, Voice C\nInstruments.\n\nTERMS REASO",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 303,
+        "y0": 137,
+        "x1": 808,
+        "y1": 271
+      },
+      "text": "ONE OF THE SUREST WAYS TO SUCCEED IN LIFE IS TO TAKE A COURSE AT",
+      "status": "ok",
+      "confidence": 0.8671489357948303,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 141,
+        "y0": 342,
+        "x1": 975,
+        "y1": 506
+      },
+      "text": "The Touissant Conservatory of Art and Music",
+      "status": "ok",
+      "confidence": 0.9124552607536316,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 340,
+        "y0": 577,
+        "x1": 740,
+        "y1": 667
+      },
+      "text": "253 West 134th Street\nNEW YORK CITY",
+      "status": "ok",
+      "confidence": 0.7428972125053406,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 145,
+        "y0": 741,
+        "x1": 972,
+        "y1": 933
+      },
+      "text": "The most up-to-date and thoroughly equipped conservatory in the city. Conducted under the supervision of\nMME. E. TOUISSANT WELCOME\nThe Foremost Female Artist of the Race",
+      "status": "ok",
+      "confidence": 0.8531606197357178,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 144,
+        "y0": 998,
+        "x1": 973,
+        "y1": 1267
+      },
+      "text": "Drawing, Pen and Ink Sketching, Crayon, Pastel, Water Color, Oil Painting, Designing, Cartooning, Fashion Designing, Sign Painting, Portrait Painting and Photo Enlarging in Crayon, Water Color, Pastel and Oil. Artistic Painting of Parasols, Fans, Book Marks, Pin Cushions, Lamp Shades, Curtains, Screens, Piano and Mantel Covers, Sofa Pillows, etc.",
+      "status": "ok",
+      "confidence": 0.9736629724502563,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 147,
+        "y0": 1305,
+        "x1": 972,
+        "y1": 1508
+      },
+      "text": "Music\nPiano, Violin, Mandolin, Voice Culture and all Brass and Reed Instruments.\nTERMS REASONABLE",
+      "status": "ok",
+      "confidence": 0.9547200798988342,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 920,
+        "y0": 49,
+        "x1": 1043,
+        "y1": 1582
+      },
+      "text": "y in\nblor,\nting,\nastel\nPin\nwers,\n\nReed",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 12.6,
+    "at": "2026-10-06T20:54:32+00:00"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "page": 14,
+  "image": "images/page_14.jpg",
+  "width": 1091,
+  "height": 1670,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 486,
+        "y0": 101,
+        "x1": 640,
+        "y1": 127
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.773894190788269,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 142,
+        "y0": 103,
+        "x1": 169,
+        "y1": 124
+      },
+      "text": "14",
+      "status": "ok",
+      "confidence": 0.832040011882782,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 140,
+        "y0": 157,
+        "x1": 550,
+        "y1": 613
+      },
+      "text": "\"As to the first argument, we wish to say that it is false, and everyone knows it is. Despite the fact that New York's colored population has both former private soldiers and former army officers and many other young men anxious to enter the National Guard they are absolutely barred by the color line. We challenge General Verbeck to show us a single regiment willing to receive a Negro recruit. We promise to furnish a black soldier, and a good one, for every such opening.\n\n\"It is because we are barred from entering the Guard as individuals that we demand a regiment of our own. If the color line is forced on us we accept it and demand our own organization.\n\n\"The colored people of the State of New York have no wish to force their company on any one, but as citizens of the State of New York they have a right to appear at public functions according to their position.\"",
+      "status": "ok",
+      "confidence": 0.97244793176651,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 143,
+        "y0": 614,
+        "x1": 551,
+        "y1": 922
+      },
+      "text": "\"It is high time that such class hatred and distinctions should be frowned upon by public opinion. The National Guard of New York is not a social organization—it is a vital necessity to the State, and the common people of the State have a right to enter and officer it, even though they be Negroes.\"\nStatistics were added from the War Department showing the record of the colored soldiers to be superior to that of the white in physique, health, efficiency and also in the matter of desertions.\n\nTHE LAND OF \"SOCIAL EQUALITY.\"",
+      "status": "ok",
+      "confidence": 0.9737975001335144,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 144,
+        "y0": 926,
+        "x1": 552,
+        "y1": 1479
+      },
+      "text": "The political, economic, religious, moral, financial and sundry other evils which, according to certain vociferous Americans, would undoubtedly follow \"social equality\" in this country ought to be finding their happy hunting ground in South America, if anywhere, but the Honorable John Barrett, director-general of the Pan-American Union, has not been able to find them. Mr. Barrett was in the diplomatic service for many years and has been minister to several South American countries. In the course of a long interview syndicated by the Publishers' Press, he said:\n\n\"Another mistaken impression about Latin America, too often current among Americans who know only their own country and travel only in Europe, is that the greater portion of the southern continent is somewhat backward in civilization. This is a most unfortunate error. The truth is that in several of the principal countries there, and in many sections of the others, there are along certain lines greater evidences of civilization and progress than there are along the same lines in the United States.",
+      "status": "ok",
+      "confidence": 0.9736286401748657,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 145,
+        "y0": 1480,
+        "x1": 554,
+        "y1": 1561
+      },
+      "text": "\"Municipal government has, in many respects, reached a higher state of perfection in such cities as Buenos Ayres, Rio de Janeiro, Santiago de Chile and Lima,",
+      "status": "ok",
+      "confidence": 0.9581310749053955,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 575,
+        "y0": 153,
+        "x1": 988,
+        "y1": 654
+      },
+      "text": "not to speak of Mexico City and Havana, than it has in most North American cities. Sometimes we hear references to 'graft' in Latin America, but the greatest graft ever known in the big cities down there is insignificant compared with that which has from time to time been uncovered in our municipalities.\n\n\"That it should be true is startling, but it is a fact that it costs less to administer Buenos Ayres than it does to administer St. Louis, Boston, Baltimore or San Francisco, the largest of which has about one-half of Buenos Ayres' population.\n\n\"Yes, the Latin American has many virtues. Take his home life. Rich or poor, he can be accused of anything but race suicide. The best families in Brazil, Argentina, Chile, and Mexico average two or three times the number of children characterizing the best families in the United States. This may be due to the prevailing religion and its teachings in this matter, or it may be due to race psychology; but the fact remains.\"",
+      "status": "ok",
+      "confidence": 0.970466673374176,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 576,
+        "y0": 676,
+        "x1": 990,
+        "y1": 1159
+      },
+      "text": "Mr. W. H. Lewis, of Boston, said in a recent speech: \"The industrial outlook in Boston to-day for the Negro is darker than since the Civil War. The blood of the signers of the Declaration of Independence and even that of the abolitionists seems to have run out.\n\n\"A recent graduate of Harvard, a young colored man, tried to enter the banking business in Boston, but was refused, and another Negro, a graduate of the scientific department of Harvard and the Massachusetts Institute of Technology, went from place to place, but when it was found that he was a black man there was no place for him. This man was refused for no reason but antipathy against his color. You should lend a hand to the Negro right here at your own door.\"\n\nThe Rev. Dr. Joseph Silverman, rabbi of the important Temple Emanu-El in New York, said in his sermon of February 11, which dealt with \"Race Prejudice\":",
+      "status": "ok",
+      "confidence": 0.9656999707221985,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 577,
+        "y0": 1160,
+        "x1": 991,
+        "y1": 1562
+      },
+      "text": "\"America never needed another Lincoln as it does to-day. Though the war is ended and the slaves freed and raised to citizenship, there are many white Americans carrying on a war as bitter and unjust as that carried on against the Negroes fifty years ago. If Lincoln lived to-day, he would insist that this issue of the war be carried out in the letter and in the spirit.\"\n\nA press dispatch from Washington says that in conversation with Mr. Chas. A. Cottrell, just appointed the first colored collector of the port at Honolulu, an official observed that he would not have any \"social preferment\" in his new post.\n\n\"I'm not going for social preferment,\" said Cottrell. \"I'm going for the $4,000 a year.\"",
+      "status": "ok",
+      "confidence": 0.933035135269165,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.3,
+    "at": "2026-10-06T21:17:40+00:00"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "page": 22,
+  "image": "images/page_22.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 182,
+        "y0": 89,
+        "x1": 1008,
+        "y1": 634
+      },
+      "text": "ALWAYS find it very difficult to write upon the great race problem which we have in America. I think, on the whole, that the most satisfactory books on the subject are written by people outside of America. This is certainly true of two books, \"White Capital and Black Labor,\" by the Governor of Jamaica, and William Archer's book entitled \"Afro-America.\" Although the latter is inconclusive, it at least gives one the impression that the man who has written it has seen clearly into the situation, and that, I suppose, is what it is very difficult for any American to do.\n\nimmigrants, or of any other South European peoples. The Italian girls very much enjoy the novelty of factory work, the opportunity to earn money and to dress as Americans do, but this new freedom of theirs is carefully guarded. Their mothers seldom give them permission to go to a party in the evening, and never without chaperonage. Their fathers consider it a point of honor that their daughters shall not be alone on the streets after dark. The daughter of the humblest Italian receives this care because her parents are but carrying out social traditions. A group of colored girls, on",
+      "status": "ok",
+      "confidence": 0.9700427651405334,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 187,
+        "y0": 638,
+        "x1": 582,
+        "y1": 1444
+      },
+      "text": "One thing, however, is clear to all of us, that not only in the South, but everywhere in America, a strong race antagonism is asserting itself, which has various modes of lawless and insolent expression. The contemptuous attitude of the so-called superior race toward the inferior results in a social segregation of each race, and puts the one race group thus segregated quite outside the influences of social control represented by the other. Those inherited resources of the race embodied in custom and kindly intercourse which make much more for social restraint than does legal enactment itself are thus made operative only upon the group which has inherited them, and the newer group which needs them most is practically left without. Thus in every large city we have a colony of colored people who have not been brought under social control, and a majority of the white people in the same community are tacitly endeavoring to keep from them those restraints which can be communicated only through social intercourse. One could easily illustrate this lack of inherited control by comparing the experiences of a group of colored girls with those of a group representing the daughters of Italian",
+      "status": "ok",
+      "confidence": 0.9760655760765076,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 606,
+        "y0": 243,
+        "x1": 1007,
+        "y1": 990
+      },
+      "text": "immigrants, or of any other South European peoples. The Italian girls very much enjoy the novelty of factory work, the opportunity to earn money and to dress as Americans do, but this new freedom of theirs is carefully guarded. Their mothers seldom give them permission to go to a party in the evening, and never without chaperonage. Their fathers consider it a point of honor that their daughters shall not be alone on the streets after dark. The daughter of the humblest Italian receives this care because her parents are but carrying out social traditions. A group of colored girls, on the other hand, are quite without this protection. If they yield more easily to the temptations of a city than any other girls, who shall say how far the lack of social restraint is responsible for their downfall? The Italian parents represent the social traditions which have been worked out during centuries of civilization, and which often become a deterrent to progress through the very bigotry with which they cling to them; nevertheless, it is largely through these customs and manners that new groups are assimilated into civilization.",
+      "status": "ok",
+      "confidence": 0.9765871167182922,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 609,
+        "y0": 995,
+        "x1": 1010,
+        "y1": 1445
+      },
+      "text": "Added to this is the fact that a decent colored family, if it is also poor, often finds it difficult to rent a house save one that is undesirable, because situated near a red-light district, and the family in the community least equipped with social tradition is forced to expose its daughters to the most flagrantly immoral conditions the community permits. This is but one of the many examples of the harmful effects of race segregation which might be instanced.\n\nAnother result of race antagonism is the readiness to irritation which in time characterizes the intercourse of the two races. We stupidly force one race to demand as a right from the",
+      "status": "ok",
+      "confidence": 0.9804286360740662,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.6,
+    "at": "2026-10-06T21:04:16+00:00"
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "page": 30,
+  "image": "images/page_30.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 403,
+        "y0": 69,
+        "x1": 745,
+        "y1": 96
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8487187623977661,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 161,
+        "y0": 181,
+        "x1": 831,
+        "y1": 507
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 163,
+        "y0": 188,
+        "x1": 984,
+        "y1": 236
+      },
+      "text": "When our readers wish to know where to buy the best books on race and other human problems they should consult this list:",
+      "status": "ok",
+      "confidence": 0.8792507648468018,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 198,
+        "y0": 299,
+        "x1": 947,
+        "y1": 538
+      },
+      "text": "A BOOK ALL INTERESTED IN HUMAN PROBLEMS OUGHT TO READ\n\nJOHN BROWN\nA Biography Fifty Years After\nBy OSWALD GARRISON VILLARD",
+      "status": "ok",
+      "confidence": 0.9518476724624634,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 207,
+        "y0": 550,
+        "x1": 524,
+        "y1": 570
+      },
+      "text": "THOMAS WENTWORTH HIGGINSON",
+      "status": "ok",
+      "confidence": 0.6504827737808228,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 257,
+        "y0": 573,
+        "x1": 937,
+        "y1": 619
+      },
+      "text": "\"I can only say after reading from first to last its more than 700 pages that I have never encountered anything this side of Gibbon's 'Rome' which has made me feel more the personal power of a single work.\"",
+      "status": "ok",
+      "confidence": 0.4602312445640564,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 205,
+        "y0": 632,
+        "x1": 675,
+        "y1": 650
+      },
+      "text": "JOHN T. MORSE, Editor of American Statesmen Series.",
+      "status": "ok",
+      "confidence": 0.7465569972991943,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 161,
+        "y0": 650,
+        "x1": 831,
+        "y1": 804
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 161,
+        "y0": 653,
+        "x1": 938,
+        "y1": 970
+      },
+      "text": "\"Perhaps in thus dramatically fashioning his volume Mr. Villard obeyed an instinct rather than acted upon a preconceived plan; that is often the case with great work, where a writer's feelings are deeply enlisted. Be this as it may, the merit and charm are none the less; he has seized well a splendid opportunity and has written one of the great biographies of our literature.\"\n\nHENRY WATTERSON in the Louisville \"Courier-Journal\"\n\n\"No fault may justly be found with Mr. Villard's telling of the story. It is minute and lucid, altogether fair and unwarnished.\"\n\nFully Illustrated with Portraits, and Other Illustrations\n\nWith Copious Notes and Bibliography $5.00 Net; Postage 20 Cents\n\nBoston HOUGHTON MIFFLIN COMPANY New York",
+      "status": "ok",
+      "confidence": 0.894730269908905,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 161,
+        "y0": 970,
+        "x1": 831,
+        "y1": 1367
+      },
+      "text": "Atlanta University Studies\nOF THE NEGRO PROBLEMS\n13 Monographs. Sold Separately.\nAddress:\nA. G. DILL, Atlanta University, Atlanta, Ga.\n\nThe Souls of Black Folk\nBy W. E. Burghardt DuBois\n\n\"It is one of the noteworthy books, not merely of a year, but of the epoch is filled with vigor, spontaneity and spirituality.\"—Boston Transcript.\n\n\"A stripping bare of the moral and mental anatomy of the African in reveal the naked soul in its primitive simplicity, seared and scarred by ages of York Age.\n\nEighth Edition.",
+      "status": "ok",
+      "confidence": 0.9170299172401428,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 155,
+        "y0": 1231,
+        "x1": 987,
+        "y1": 1325
+      },
+      "text": "\"It is one of the noteworthy books, not merely of a year, but of the epoch. Its every page is filled with vigor, spontaneity and spirituality.\"—Boston Transcript.\n\n\"A stripping bare of the moral and mental anatomy of the African in America so as to reveal the naked soul in its primitive simplicity, seared and scarred by ages of suffering.\"—New York Age.",
+      "status": "ok",
+      "confidence": 0.8887752890586853,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 253,
+        "y0": 1367,
+        "x1": 889,
+        "y1": 1428
+      },
+      "text": "With frontispiece portrait of the author. $1.20 net. May be ordered through any bookstore or direct from the publishers.",
+      "status": "ok",
+      "confidence": 0.8742125630378723,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 443,
+        "y0": 1436,
+        "x1": 680,
+        "y1": 1485
+      },
+      "text": "A. C. McCLURG & CO.\nChicago.",
+      "status": "ok",
+      "confidence": 0.7040787935256958,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "abandon",
+      "bbox": {
+        "x0": 161,
+        "y0": 74,
+        "x1": 190,
+        "y1": 96
+      },
+      "text": "30",
+      "status": "ok",
+      "confidence": 0.8628136515617371,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 1460,
+        "x1": 277,
+        "y1": 1484
+      },
+      "text": "New York.",
+      "status": "ok",
+      "confidence": 0.8707428574562073,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "title",
+      "bbox": {
+        "x0": 471,
+        "y0": 128,
+        "x1": 673,
+        "y1": 181
+      },
+      "text": "BOOKS",
+      "status": "ok",
+      "confidence": 0.8209056854248047,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "text",
+      "bbox": {
+        "x0": 697,
+        "y0": 538,
+        "x1": 967,
+        "y1": 970
+      },
+      "text": "Mr. Villard obeyed an instinct\ntaken the case with great work,\nthis as it may, the merit and\nplendid opportunity and has\ntelling of the story. It is\n\nIllustrations\n$5.00 Net; Postage 20 Cents\n\nCOMPANY New York",
+      "status": "ok",
+      "confidence": 0.5497008562088013,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "text",
+      "bbox": {
+        "x0": 697,
+        "y0": 1195,
+        "x1": 967,
+        "y1": 1367
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 830,
+        "y0": 1464,
+        "x1": 967,
+        "y1": 1488
+      },
+      "text": "San Francisco.",
+      "status": "ok",
+      "confidence": 0.8955873847007751,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.1,
+    "at": "2026-10-06T21:05:32+00:00"
+  }
+}

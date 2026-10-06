@@ -1,0 +1,113 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 441,
+        "y0": 76,
+        "x1": 554,
+        "y1": 100
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.845824658870697,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 129,
+        "x1": 485,
+        "y1": 661
+      },
+      "text": "and aspiring, of which the meanest white man can hardly form an adequate conception; the only thing the Negro can do is to make the best of hard conditions and do his utmost by his individual achievements to make the handicap of his color forgotten.\n\n\"It is not surprising, however, that to many ambitious colored citizens patience sometimes ceases to seem a virtue.\"\n\nIt adds that the appeal \"is a mild statement of existing conditions. The lot of the colored American is indeed a hard one. But it is improving. The area of sweet reasonableness is being gradually extended. Old prejudices, and especially racial prejudices, die hard, as the history of the dispersed Hebrew nation tells on every page of the annals of 2,000 years. But prejudice is not eternal, and every colored American who does the utmost of his duty in the place he fills does his part in bringing about the day when ungenerous and unjust discrimination will disappear, and when\n\nMan to man, the world o'er,\n\nShall brothers be, for a' that.\"\n\nFinally, the Buffalo Express says emphatically:",
+      "status": "ok",
+      "confidence": 0.9761644601821899,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 88,
+        "y0": 662,
+        "x1": 483,
+        "y1": 1194
+      },
+      "text": "\"The memorial recites the long and familiar list of Negro wrongs—the political disfranchisement, the denial of education in some States, the discriminations in public places, the forcing into menial occupations, the hostility of trades unions, the attempts to confine Negroes to certain quarters of towns, the insults to Negro women, etc. It need not be gone over here. Readers of the Express are familiar with the shameful record. The fact that this is an appeal to the people of Europe against the people of the United States will arouse fresh antagonism to the Negro in some quarters, but, on the whole, it will do good. For shame's sake, if not for that of justice, it may arouse us to do our duty. The opinion of the civilized world must have some effect on the most calloused American official conscience. And it is our governing class, our men and women of light and leading, that need to be aroused on this question.\"\n\nTHE GHETTO.\n\nThe Baltimore attempt to segregate colored people has called forth widespread comment. A letter in the New York Sun thus portrays conditions:",
+      "status": "ok",
+      "confidence": 0.9791193604469299,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 88,
+        "y0": 1194,
+        "x1": 480,
+        "y1": 1480
+      },
+      "text": "\"The Negro invasion in Baltimore is principally in a north and northwesterly direction, comprising the most beautiful, most exclusive and most valuable residential sections. About the year 1885 steadily but insidiously the Negro began to invade white residential sections. In Pennsylvania Avenue, beginning at Franklin Street in the downtown district and running north about twenty-six blocks to the intersection of North Avenue and Druid Hill Avenue, beginning at Paca Street in the downtown district and running north about twenty blocks to the intersection of North Avenue, as well as all blocks lying between Penn-",
+      "status": "ok",
+      "confidence": 0.9766146540641785,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "abandon",
+      "bbox": {
+        "x0": 512,
+        "y0": 81,
+        "x1": 905,
+        "y1": 679
+      },
+      "text": "sylvania and Druid Hill Avenues and containing substantially built three-story houses, are now in the exclusive possession of the Negroes. They are now beginning to invade McCulloh Street, Madison Avenue, Eutaw Place and Linden Avenue, which run parallel with Pennsylvania and Druid Hill Avenues.\"\n\nSome papers see in this indubitable evidence of the rise of colored people.\n\nAs the Fitchburg (Mass.) Sentinel puts it:\n\n\"This is one of the most hopeful situations regarding the Negro which has been painted. It is enough to send shivers down the backs of the people who believe that 'Cursed by Canaan' is to hold good for all time. But it is an immense reassurance to those who are looking for the uplift of the black race. It seems, from this picture, that they must be getting rich rapidly. They are obtaining possession of fine residential property. They want to live in fine houses, the same as white folks with money. Doubtless, too, the same as white folks, they want to have the good things which money will buy.\n\n\"Judged by any test other than color, they seem to be very desirable citizens.\"",
+      "status": "ok",
+      "confidence": 0.9765740633010864,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 509,
+        "y0": 680,
+        "x1": 901,
+        "y1": 1248
+      },
+      "text": "Other papers, like the Bridgeport Telegram, scent danger:\n\"If they are deprived of the right to build homes where they please which is accorded to the most degraded white man who lands upon these shores provided people will sell land to him, and robbed of the right to become skilled workmen, their situation will be a much graver one than that from which the Civil War delivered them.\"\nDr. Henry Moskowitz, in the New York Evening Post, points to the Russian analogy and the Boston Globe also insists on the failure of the Chetto idea:\n\"Segregation has never been a very successful solution of the race problem, as may be seen in the experience of European cities with ghettos and in Russia's attempt to keep Jews confined within certain pales. The Baltimore city council, however, by a piece of special pleading in its report, tries to justify the ordinance by saying that its 'underlying purpose is the maintenance of peace and good order and the avoidance of friction and irritation between the two races.' The ordinance 'aims to prevent the whites from becoming a disturbing element to the blacks and likewise to prevent the Negroes from becoming a disturbing element to the whites.' Ahem!\"",
+      "status": "ok",
+      "confidence": 0.9772266149520874,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 507,
+        "y0": 1249,
+        "x1": 899,
+        "y1": 1482
+      },
+      "text": "The New York Journal calls the experiment dangerous:\n\n\"It is true that the establishment of homes of colored people in neighborhoods hitherto unfrequented by them causes antagonism and may produce trouble and disturb real estate values. But it is also true that it is dangerous, unjust and unworthy of this century to revive the obsolete ghetto system, denying to certain human beings the right to live where they please and where they can.",
+      "status": "ok",
+      "confidence": 0.9764151573181152,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.5,
+    "at": "2026-10-06T21:02:54+00:00"
+  }
+}

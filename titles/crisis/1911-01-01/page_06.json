@@ -1,0 +1,127 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1080,
+  "height": 1581,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 524,
+        "y0": 90,
+        "x1": 678,
+        "y1": 115
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8182523250579834,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 193,
+        "y0": 93,
+        "x1": 208,
+        "y1": 111
+      },
+      "text": "6",
+      "status": "ok",
+      "confidence": 0.7568899393081665,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 191,
+        "y0": 143,
+        "x1": 587,
+        "y1": 718
+      },
+      "text": "considered very high for a clerk to punch as many as 3,000 cards in one day. Miss Price's highest mark for one day was 4,200 cards. She accomplished this unusual average during the regular seven-hour day, and has never worked on extra time.\n\nIn Philadelphia prominent churchmen of several denominations participated in a conference on the American Negro question, held in the Central Young Men's Christian Association, 1421 Arch Street. Bishop Mackay-Smith presided, and the speakers included such leaders in denominational affairs as the Rev. Dr. Frank P. Parkin, district superintendent of the Methodist Episcopal Church; the Rev. Dr. A. J. Rowland, secretary of the American Baptist Publication Society; the Rev. Dr. Edwin Heyl Delk, of St. Matthew's Lutheran Church; the Rev. Edwin F. Randolph, of Trinity Methodist Episcopal Church; B. F. Lee, Jr., of the Armstrong Association, and James S. Stemons.\n\nWith the exception of the Bishop, these ministers and laymen are associated in the Association for Equalizing Industrial Opportunities, the purpose of which is to secure fair play for the Negro wage earner in the industrial world.",
+      "status": "ok",
+      "confidence": 0.9739255905151367,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 192,
+        "y0": 738,
+        "x1": 584,
+        "y1": 1008
+      },
+      "text": "In Cincinnati the last of the $2,000 needed to start an institution for colored women similar to the Y. W. C. A. has been received by Miss Elma C. Leach, of the Elizabeth Gamble Deaconess Association, and the work will be prosecuted at once. The home will be opened on West Sixth Street, near Mound. Temporary quarters will there be provided for colored girls coming into the city for work and for girls who are found to be living in undesirable environments. A nursery will be established and theoretical nursing taught. Lectures will also be given.",
+      "status": "ok",
+      "confidence": 0.9721195101737976,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 192,
+        "y0": 1023,
+        "x1": 586,
+        "y1": 1506
+      },
+      "text": "In a report the State Inspector of Asylums of Kentucky says that the buildings in which the Negro patients at the Eastern Kentucky Asylum are confined are a disgrace to the State. One is a cottage with basement and one story above. This building, he states, is in a very dangerous condition, likely to collapse at any time. It is simply held up with props put under it from time to time, and should a heavy wind strike it, it probably would collapse. In this building there are forty-two colored female patients. In the other colored ward building, which has a basement and two stories, the conditions are equally as bad. Both male and female patients are confined in this building, but are kept separate and distinct. The female capacity is thirty-two —there are forty-one patients; the male capacity is seventy—there are eighty-eight patients. So crowded is the building that a great number are compelled to sleep in the basement, which is very dark and damp and in rainy weather water collects therein. The inspector states that neither the Board",
+      "status": "ok",
+      "confidence": 0.9744116067886353,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 613,
+        "y0": 140,
+        "x1": 1014,
+        "y1": 700
+      },
+      "text": "of Control nor the officers of this institution are to blame, for they are doing everything in their power to avert a disaster.\n\nCOLORED COLLEGES.\n\nHoward University at Washington, D. C., has this year 1,350 students. The college students number 347, of whom 167 are freshmen. Requirements have been raised both for admission to the college and medical school. The faculties include 110 professors, instructors and officers. The endowment amounts to $281,000. The medical school has received $55,000 in cash for tuition fees during the last two years. A new Carnegie library and hall of applied science have recently been added to the plant, and also a steam-heating plant.\n\nLincoln University, Chester Countv, Pa., has 136 students in the college and 50 in the theological seminary; all of these are taught by twelve professors and three instructors. The grounds and buildings are worth $250,000, and the endowment is a little over $600,000. Lately an electric plant has been added, and a new pipe organ.",
+      "status": "ok",
+      "confidence": 0.9728993773460388,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 612,
+        "y0": 723,
+        "x1": 1011,
+        "y1": 907
+      },
+      "text": "Virginia Union University has 35 students in the college and 30 in the theological department, 120 in the academy and 40 in the grades. There are sixteen instructors. A special attempt is being made to get a new dormitory.\n\nWilberforce University has issued a statement which says:",
+      "status": "ok",
+      "confidence": 0.9605854153633118,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 613,
+        "y0": 909,
+        "x1": 1013,
+        "y1": 1509
+      },
+      "text": "\"Though our existence was threatened in the past by poverty, war and fire, yet we have passed from a school with 52 acres of land, one building, a few small cottages, a primary department of instruction, two teachers and a handful of students, to three large united schools in operation to-day, aside from the military department. These are the college, the theological, and the normal and industrial schools, instructing in the following courses of study: Classical, scientific, academic, theological, music, English preparatory, military; art, business, sewing, carpentry, printing, cooking, shoemaking, blacksmithing, wheelwrighting, brickmaking and bricklaying, plumbing, tailoring, and applied mechanics and millinery. It has 350 acres of the best land in Ohio. It has now ten brick buildings, including four large halls, a $60,000 trades building, and a library costing $18,000, the gift of Mr. Andrew Carnegie. The value of the entire plant, with equipment, is quite $350,000. There are 32 teachers and an average of 400 students, and we could have over one thousand if we had accommodations for them.\"\n\nMr. W. A. Joiner, formerly of Howard University, is superintendent of the State Department at Wilberforce.",
+      "status": "ok",
+      "confidence": 0.9755328297615051,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.8,
+    "at": "2026-10-06T21:02:08+00:00"
+  }
+}

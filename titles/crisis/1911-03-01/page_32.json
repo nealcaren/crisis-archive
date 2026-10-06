@@ -1,0 +1,351 @@
+{
+  "page": 32,
+  "image": "images/page_32.jpg",
+  "width": 1092,
+  "height": 1671,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 399,
+        "y0": 110,
+        "x1": 753,
+        "y1": 137
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.872308075428009,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 562,
+        "y0": 166,
+        "x1": 1002,
+        "y1": 875
+      },
+      "text": "The Souls of Black Folk\nBy W. E. BURGHARDT DU BOIS\n\n“It is one of the noteworthy books, not merely of a year, but of the epoch. Its every page is filled with vigor, spontaneity and spirituality.”—Boston Transcript.\n\n“A stripping bare of the moral and mental anatomy of the African in America so as to reveal the naked soul in its primitive simplicity, seared and scarred by ages of suffering.”—New York Age.\n\nEighth Edition\n\nWith Frontispiece Portrait of the Author. $1.20 Net\n\nMay be ordered through any book store or direct from the publishers\n\nA. C. McCLURG & CO.\nNew York CHICAGO San Francisco",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 153,
+        "y0": 220,
+        "x1": 564,
+        "y1": 332
+      },
+      "text": "When our readers wish to know where to buy the best books on race and other human problems they should consult this list:\n\nThe Curse of Race Prejudice",
+      "status": "ok",
+      "confidence": 0.9400606751441956,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 154,
+        "y0": 339,
+        "x1": 563,
+        "y1": 445
+      },
+      "text": "JAMES F. MORTON, JR., A.M., Author and Publisher\nForceful, rational, comprehensive. An arsenal of facts and unanswerable arguments. Invaluable for propaganda. Read the chapter on \"The Bugbear of Social Equality,\" which is a veritable eye-opener. Thousands already sold. Agents wanted everywhere.",
+      "status": "ok",
+      "confidence": 0.9232667684555054,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 172,
+        "y0": 443,
+        "x1": 546,
+        "y1": 490
+      },
+      "text": "PRICE 25 CENTS\nAddress the Author at 244 West 143d Street,\nNew York, N. Y.",
+      "status": "ok",
+      "confidence": 0.8776907920837402,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 619,
+        "y0": 466,
+        "x1": 972,
+        "y1": 587
+      },
+      "text": "\"A stripping bare of the moral and mental anatomy of the African in America so as to reveal the naked soul in its primitive simplicity, scared and scarred by ages of suffering.\"—New York Age.",
+      "status": "ok",
+      "confidence": 0.9457581639289856,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 176,
+        "y0": 515,
+        "x1": 547,
+        "y1": 661
+      },
+      "text": "Atlanta University Studies of the Negro Problems",
+      "status": "ok",
+      "confidence": 0.9558635950088501,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 195,
+        "y0": 686,
+        "x1": 525,
+        "y1": 710
+      },
+      "text": "13 Monographs. Sold Separately.",
+      "status": "ok",
+      "confidence": 0.7939755916595459,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 214,
+        "y0": 818,
+        "x1": 514,
+        "y1": 841
+      },
+      "text": "Atlanta University, Atlanta, Ga.",
+      "status": "ok",
+      "confidence": 0.8023170232772827,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 160,
+        "y0": 879,
+        "x1": 562,
+        "y1": 904
+      },
+      "text": "PUBLICATIONS OF THE N. A. A. C. P.",
+      "status": "ok",
+      "confidence": 0.595252513885498,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "title",
+      "bbox": {
+        "x0": 677,
+        "y0": 887,
+        "x1": 915,
+        "y1": 922
+      },
+      "text": "Directory",
+      "status": "ok",
+      "confidence": 0.8847494125366211,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 157,
+        "y0": 910,
+        "x1": 566,
+        "y1": 1235
+      },
+      "text": "The N. A. A. C. P. has for sale the following pamphlets:\n1. Disfranchisement: a powerful argument by the Rev. John Haynes Holmes.\n2. Education in the South: Facts about the discrimination against the Negro. By the Rev. Horace Bumstead, former president of Atlanta University.\n3. The Real Race Problem: A scientific comparison of the black and the white man by America's foremost anthropologist, Prof. Boas, of Columbia University.\n4. Social Control. By Jane Addams, of Hull House.\n5. The Negro as a Soldier. By Brigadier-General Burt, U. S. A.\nFive Cents Each, Three Dollars a Thousand",
+      "status": "ok",
+      "confidence": 0.9314418435096741,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 599,
+        "y0": 945,
+        "x1": 997,
+        "y1": 1193
+      },
+      "text": "Real Estate and Probate Matters a Specialty\n\nROBERT B. BARCUS\nATTORNEY AND COUNSELOR-AT-LAW\nNOTARY PUBLIC\n\nOffice: Room 502, Eberly Block Columbus, O\n\nB. S. SMITH\nATTORNEY-AT-LAW\nOffices: Suite 610, Sykes Block\nMinneapolis, Minn.\n\nGEORGE W. MITCHELL",
+      "status": "ok",
+      "confidence": 0.8185964226722717,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "title",
+      "bbox": {
+        "x0": 195,
+        "y0": 1263,
+        "x1": 526,
+        "y1": 1293
+      },
+      "text": "RACE ADJUSTMENT",
+      "status": "ok",
+      "confidence": 0.9035905003547668,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "title",
+      "bbox": {
+        "x0": 594,
+        "y0": 1266,
+        "x1": 1005,
+        "y1": 1349
+      },
+      "text": "J. DOUGLAS WETMORE\nATTORNEY AND COUNSELOR-AT-LAW\n5 Beekman Street (Temple Court)\nNew York City\nTel. 6222 Cortlandt Cable Address, Judowet",
+      "status": "ok",
+      "confidence": 0.9019030928611755,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 157,
+        "y0": 1302,
+        "x1": 568,
+        "y1": 1539
+      },
+      "text": "By KELLY MILLER, Howard University, Washington, D.C. A Standard Book on the Race Question.\nPRICE $2.00\nSocial Equality..... 5 cents\nAn Appeal to Reason, open letter\nto John Temple Graves..... 10 cents\nRoosevelt and the Negro..... 10 cents\nForty Years of Negro Education..... 10 cents\nUltimate Race Problem..... 10 cents\nThe Political Capacity of the\nNegro..... 10 cents",
+      "status": "ok",
+      "confidence": 0.8886669278144836,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "title",
+      "bbox": {
+        "x0": 604,
+        "y0": 1374,
+        "x1": 1003,
+        "y1": 1571
+      },
+      "text": "FREDERICK L. McGHEE\nATTORNEY AND COUNSELOR-AT-LAW\nUnion Block, Fourth and Cedar Streets\nSt. Paul, Minn.\n\nGeneral Practice Notary Public\n\nWILLIAM R. MORRIS\nATTORNEY AND COUNSELOR-AT-LAW\n1020 Metropolitan Life Building\nMinneapolis, Minn.",
+      "status": "ok",
+      "confidence": 0.8571400046348572,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "title",
+      "bbox": {
+        "x0": 153,
+        "y0": 1548,
+        "x1": 568,
+        "y1": 1651
+      },
+      "text": "ADDRESS AUTHOR\nMention",
+      "status": "ok",
+      "confidence": 0.42982882261276245,
+      "lines": []
+    },
+    {
+      "id": "r25",
+      "label": "text",
+      "bbox": {
+        "x0": 594,
+        "y0": 1571,
+        "x1": 1005,
+        "y1": 1651
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r26",
+      "label": "abandon",
+      "bbox": {
+        "x0": 483,
+        "y0": 1581,
+        "x1": 667,
+        "y1": 1601
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.8393087983131409,
+      "lines": []
+    },
+    {
+      "id": "r27",
+      "label": "abandon",
+      "bbox": {
+        "x0": 153,
+        "y0": 112,
+        "x1": 183,
+        "y1": 135
+      },
+      "text": "32",
+      "status": "ok",
+      "confidence": 0.8404577374458313,
+      "lines": []
+    },
+    {
+      "id": "r28",
+      "label": "title",
+      "bbox": {
+        "x0": 251,
+        "y0": 165,
+        "x1": 469,
+        "y1": 209
+      },
+      "text": "BOOKS",
+      "status": "ok",
+      "confidence": 0.9248777627944946,
+      "lines": []
+    },
+    {
+      "id": "r29",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 276,
+        "y0": 736,
+        "x1": 448,
+        "y1": 805
+      },
+      "text": "Address:\nA. G. DILL",
+      "status": "ok",
+      "confidence": 0.7784101963043213,
+      "lines": []
+    },
+    {
+      "id": "r31",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 723,
+        "y0": 1198,
+        "x1": 873,
+        "y1": 1244
+      },
+      "text": "ATTORNEY-AT-LAW\n908 Walnut Street\nPhiladelphia, Pa.",
+      "status": "ok",
+      "confidence": 0.8415776491165161,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 11.0,
+    "at": "2026-10-06T21:19:58+00:00"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 676,
+        "y0": 107,
+        "x1": 875,
+        "y1": 139
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8873723149299622,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 244,
+        "y0": 109,
+        "x1": 263,
+        "y1": 133
+      },
+      "text": "6",
+      "status": "ok",
+      "confidence": 0.7856186628341675,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 244,
+        "y0": 175,
+        "x1": 757,
+        "y1": 434
+      },
+      "text": "The Hon. Harry W. Bass was sworn in as the first colored member of the Pennsylvania Legislature. He was welcomed by the Speaker, United States Senator Penrose and others. His desk was covered with flowers.\n\nPresident Taft has appointed Charles A. Cottrell, colored, to be Collector of the Port at Honolulu, but is embarrassed in his in-",
+      "status": "ok",
+      "confidence": 0.9686657786369324,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure",
+      "bbox": {
+        "x0": 265,
+        "y0": 474,
+        "x1": 740,
+        "y1": 1135
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9714515209197998,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 308,
+        "y0": 1149,
+        "x1": 687,
+        "y1": 1198
+      },
+      "text": "HON. CHARLES A. COTTRELL\nCollector of the Port of Honolulu",
+      "status": "ok",
+      "confidence": 0.49714258313179016,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 243,
+        "y0": 1149,
+        "x1": 756,
+        "y1": 1736
+      },
+      "text": "tention to appoint W. H. Lewis Assistant Attorney-General. Wickersham appears to be opposed to this step.\n\nIn Houston and San Antonio, Tex., the Negro vote is wanted for ship canal bonds and a new commission government. A Negro paper, however, points out that Houston has a park paid for by public taxes which Negroes may not enter. The Danville (Va.) Register says as to the prohibition issue:\n\n\"It is true that in a Democratic primary no Negro can vote. But it is also true that if the officers of registration and election will do their duty honestly, few Negroes will be able to register, and the majority of these will, we believe, favor prohibition.\"\n\nGovernor Blease of South Carolina said in his inaugural address:",
+      "status": "ok",
+      "confidence": 0.9603034853935242,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 246,
+        "y0": 1737,
+        "x1": 757,
+        "y1": 1936
+      },
+      "text": "\"I am in favor of building up the freeschool system so that every white child in South Carolina may be given a good common school education.\n\n\"I am absolutely opposed to compulsory education, and have little patience with, and much contempt for, that man or those men who go around in the",
+      "status": "ok",
+      "confidence": 0.9298549890518188,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 790,
+        "y0": 174,
+        "x1": 1306,
+        "y1": 623
+      },
+      "text": "State or outside of the State and parade figures to show the percentage of the ignorance of our people. The white people of the South are the best friends to the Negro race. In my opinion, when the people of this country began to try to educate the Negro they made a serious and grave mistake, and I fear the worst result is yet to come. So why continue? I took this same position in my first political race twenty years ago, and each year has proved more clearly that I was right then, and the future will emphasize that I am right now. I believe that you members of the Legislature can pass an act which will meet all the requirements of both the Federal and State constitutions, which will remedy this.\"",
+      "status": "ok",
+      "confidence": 0.9764664173126221,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 787,
+        "y0": 655,
+        "x1": 1304,
+        "y1": 1232
+      },
+      "text": "THE COURTS.\nThe record of the Negro in the courts this month is unusually encouraging.\nThe Alabama \"Peonage\" law has been held unconstitutional. The question of the constitutionality of the law was raised in the case of Alonzo Bailey, a Negro laborer of the Riverside Company. The law made it a misdemeanor for any person to enter into a contract to labor, receive advance pay and then fail to do the work without refunding the money advanced. The breach of the contract was made proof, on the face of things, of intent to defraud, and under a rule of Alabama law the laborer was not permitted to rebut this proof by testifying as to his unexpressed intention at the time of making the contract.\nJustice Hughes read the decision and said that a State could not reduce a person to involuntary service by the indirect method of making his failure to pay a debt a crime.",
+      "status": "ok",
+      "confidence": 0.9763836860656738,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 788,
+        "y0": 1260,
+        "x1": 1305,
+        "y1": 1682
+      },
+      "text": "Southern railroads have not complied with the direction of the Interstate Commerce Commission as to equal accommodations for Negro travelers. The railroads demurred in a Tennessee court, but Judge Sanford overruled them, and the Commission will probably either enforce its demands or abolish the \"Jim Crow\" system. Governor Wilson of Kentucky has pardoned eleven Negroes who are in the Kentucky Penitentiary for defending themselves in a race riot. Governor Wilson said: \"It is a sorrow to every man who honors and loves Kentucky that such a story as this could be true in any county in Kentucky.\"",
+      "status": "ok",
+      "confidence": 0.965571403503418,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 791,
+        "y0": 1711,
+        "x1": 1306,
+        "y1": 1940
+      },
+      "text": "That railroads cannot be required to provide separate compartments in sleeping cars for white and Negro passengers was the decision of the Court of Appeals recently in the case of the Commonwealth of Kentucky against the Illinois Central Railroad. The court held that inasmuch as the sleeping cars are not owned and controlled",
+      "status": "ok",
+      "confidence": 0.9738422632217407,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.4,
+    "at": "2026-10-06T21:10:18+00:00"
+  }
+}

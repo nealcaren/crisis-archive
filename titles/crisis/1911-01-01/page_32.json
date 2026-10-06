@@ -1,0 +1,225 @@
+{
+  "page": 32,
+  "image": "images/page_32.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 418,
+        "y0": 66,
+        "x1": 770,
+        "y1": 92
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.852979302406311,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 179,
+        "y0": 118,
+        "x1": 577,
+        "y1": 156
+      },
+      "text": "Ten Years with Dr. D. C. White\nTelephone 7189 Morningside",
+      "status": "ok",
+      "confidence": 0.8940282464027405,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 608,
+        "y0": 120,
+        "x1": 999,
+        "y1": 330
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.3096197247505188,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 179,
+        "y0": 162,
+        "x1": 577,
+        "y1": 385
+      },
+      "text": "Dr. JAMES A. BANKS\nDENTIST\n204 WEST 133D STREET, NEW YORK\nPorcelain, Crown and Bridge Work a Specialty\nPure Nitrous-Oxide Gas Administered\n\nCan't See Well? See Me\nwhen your eyes feel painful, hot, uncomfortable\nand grow weary while reading, sewing, sewing\nor looking at near objects, letters run together\nwhile reading and become blurred.",
+      "status": "ok",
+      "confidence": 0.7584232687950134,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 597,
+        "y0": 330,
+        "x1": 1002,
+        "y1": 956
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 378,
+        "y0": 385,
+        "x1": 798,
+        "y1": 471
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "figure",
+      "bbox": {
+        "x0": 173,
+        "y0": 389,
+        "x1": 578,
+        "y1": 956
+      },
+      "text": "Eyes examined by me and fitted with glasses accurately made never grow weary, but are perfectly comfortable. You may not like to wear glasses, but do you like headaches, red eyes and wrinkles better? Scientific examinations of the eyes for defective eyesight is my specialty.\n\nDr. R. G. ADAMS, Optometrist\n\nPhysical Eye Specialist\n16 West 134th Street, New York City, N. Y.\n\nThe Madison T. B. V\n\n(INCORP)\n\na manufacturing corporation, is the sole owing gearing and novel improvements in forks, tages, as they combine the functions of a needle for sewing together a roll of beef, or other game, stuffed or otherwise, and utensils to serve the several purposes for NEW POWER, on which the Company is IZE the entire mechanism of power and Wireless and the telegraph and telephone which will displace steam, water, electrici an early date the Company will demons Invest now. Capital Stock $100,000. Shar",
+      "status": "ok",
+      "confidence": 0.935569167137146,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 178,
+        "y0": 650,
+        "x1": 1001,
+        "y1": 956
+      },
+      "text": "The Madison T. B. Washington Company (INCORPORATED)\na manufacturing corporation, is the sole owner of six letters patent, consisting of brake gearing and novel improvements in forks. These forks possess many practical advantages, as they combine the functions of an ordinary fork, a pike, a larding needle, a needle for sewing together a roll of beef, venison, veal or the legs of a turkey, duck or other game, stuffed or otherwise, and obviates the necessity of providing separate utensils to serve the several purposes for which such utensils are designed. The NEW POWER, on which the Company is now securing patents, will REVOLUTIONIZE the entire mechanism of power and its application. It will surpass the Marconi Wireless and the telegraph and telephone in importance. Think of it! A POWER which will displace steam, water, electricity and all known power in use to-day. At an early date the Company will demonstrate this NEW POWER. Do not delay. Invest now. Capital Stock $100,000. Shares $5.",
+      "status": "ok",
+      "confidence": 0.836503803730011,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 714,
+        "x1": 1001,
+        "y1": 1313
+      },
+      "text": "a manufacturing corporation, is the sole owner of six letters patent, consisting of brake gearing and novel improvements in forks. These forks possess many practical advantages, as they combine the functions of an ordinary fork, a pike, a larding needle, a needle for sewing together a roll of beef, venison, veal or the legs of a turkey, duck or other game, stuffed or otherwise, and obviates the necessity of providing separate utensils to serve the several purposes for which such utensils are designed. The NEW POWER, on which the Company is now securing patents, will REVOLUTIONIZE the entire mechanism of power and its application. It will surpass the Marconi Wireless and the telegraph and telephone in importance. Think of it! A POWER which will displace steam, water, electricity and all known power in use to-day. At an early date the Company will demonstrate this NEW POWER. Do not delay. Invest now. Capital Stock $100,000. Shares $5.\n\nOFFICE, 47 WEST 66th STREET\n\nFOR EXCLUSIVE PATRONAGE, EXCELLENT MEALS\n\nCall at\n\nThe National Waiters' Restaurant\n\n128 W. 53d STREET, Between 6th and 7th Aves.\n\nWe please the critical. We serve all parties. Call and see our improvements. Everything new and well appointed. If we please you tell your friends; if not, tell us.\n\nMUSIC SUNDAY AFTEROON AND EVENING\n\nLYMAS WILLIAMS, Proprietor",
+      "status": "ok",
+      "confidence": 0.9709243774414062,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 378,
+        "y0": 984,
+        "x1": 798,
+        "y1": 1312
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 597,
+        "y0": 984,
+        "x1": 1002,
+        "y1": 1312
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 173,
+        "y0": 1093,
+        "x1": 1004,
+        "y1": 1389
+      },
+      "text": "The National Waiters' Restaurant\n128 W. 53d STREET, Between 6th and 7th Aves.\nWe please the critical. We serve all parties. Call and see our improvements.\nEverything new and well appointed. If we please you tell your friends; if not, tell us.\nMUSIC SUNDAY AFTEROON AND EVENING\nLYMAS WILLIAMS, Proprietor\nJ. A. Phillips & Co.'s Bakery\nbeg to remind you of their\nSuperior Bread Cakes Pies Etc.\nYour Carpet Needs Cleaning\nLet the NEW YORK CAREFUL\nCLEANING BUREAU Do It",
+      "status": "ok",
+      "confidence": 0.8892431855201721,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 173,
+        "y0": 1313,
+        "x1": 576,
+        "y1": 1477
+      },
+      "text": "J. A. Phillips & Co.'s Bakery beg to remind you of their Superior Bread, Cakes, Pies, Etc. They serve the best people and wish to serve you throughout this HAPPY NEW YEAR 17 WEST 133d STREET",
+      "status": "ok",
+      "confidence": 0.779820442199707,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 598,
+        "y0": 1394,
+        "x1": 1002,
+        "y1": 1483
+      },
+      "text": "We Clean and Renovate for Particular People—\nfrom a Rug to a House—by he Vacuum System\nLet us give you a Clean House for\nA HAPPY NEW YEAR\n'Phone 3253 Harlem. 12 West 135th Street",
+      "status": "ok",
+      "confidence": 0.7098369002342224,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 179,
+        "y0": 67,
+        "x1": 206,
+        "y1": 88
+      },
+      "text": "32",
+      "status": "ok",
+      "confidence": 0.8537430763244629,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 12.0,
+    "at": "2026-10-06T21:05:56+00:00"
+  }
+}

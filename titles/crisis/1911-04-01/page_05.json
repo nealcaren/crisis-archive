@@ -1,0 +1,113 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 197,
+        "y0": 132,
+        "x1": 796,
+        "y1": 197
+      },
+      "text": "Along the Color Line",
+      "status": "ok",
+      "confidence": 0.812926709651947,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 89,
+        "y0": 251,
+        "x1": 488,
+        "y1": 568
+      },
+      "text": "POLITICS.\nPresident Taft has signed a recess appointment for W. H. Lewis, a Boston Negro, as Assistant Attorney-General. Shortly before Congress adjourned Lewis's name was sent to the Senate, but that body failed to confirm the appointment. It is believed there will be a strenuous fight against the appointment when it is taken up at the next session of Congress.\nLewis is expected to arrive in Washington in a short time to take the oath of office. Southern men say his appointment is sure to precipitate the color line proposition in official life in the city.",
+      "status": "ok",
+      "confidence": 0.978209376335144,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 572,
+        "x1": 486,
+        "y1": 1141
+      },
+      "text": "William H. Lewis was born in Berkeley, Va., November 28, 1868, and attended the public schools at Portsmouth. He was fitted for college at the State school at Petersburg, Va. He entered Amherst in 1888 and was graduated in 1892. There he was not only a famous athlete, but an excellent student. He was graduated from the Harvard law school in 1895, after playing for two years on the football team, being regarded as the greatest center rush of his day. For several years after his graduation he coached the Harvard teams, winning the reputation of being the greatest defensive coach in the country. In 1896 he married Elizabeth Baker, of Cambridge. He served two years in the Cambridge common council and was elected to the State Legislature. He was appointed Assistant United States District Attorney, and was sworn in January 31, 1903. He is a practicing lawyer in Boston and lives in Cambridge. This is the first time that a Negro has been named for such a prominent position in the department. Mr. Lewis will succeed John G. Thompson, who resigned recently to take up private law practice in Danville, Ill. The place pays $5,000 a year.",
+      "status": "ok",
+      "confidence": 0.979132354259491,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 88,
+        "y0": 1155,
+        "x1": 486,
+        "y1": 1445
+      },
+      "text": "J. C. Napier, of Nashville, Tenn., has been nominated as Register of the Treasury of the District of Columbia, to succeed the Hon. W. T. Vernon. Mr. Napier was born in Tennessee in 1848, and educated at Wilberforce and Oberlin. He graduated at Howard in law and has been a civil service clerk, internal revenue agent, and banker. He married the only daughter of John M. Langston.\n\nMr. George Wallace, a former colored member of the Georgia Reconstruction Legislature, is dead.",
+      "status": "ok",
+      "confidence": 0.9546326398849487,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 510,
+        "y0": 251,
+        "x1": 906,
+        "y1": 764
+      },
+      "text": "In California some eight thousand Negroes in the State will be deprived of votes by the effect of a constitutional amendment introduced in the senate if that measure is passed by the legislature. In addition all the native born Chinese will be denied franchise.\n\nCaminetti's constitutional amendment provides that the son of a person not entitled to vote in 1879 shall not be permitted to vote to-day. As all the Negroes up to that time were disfranchised their sons will not be permitted to attend the polls under the present reading of the amendment.\n\nTwo Chinese, Walter U. Lum and Lee Wong, officers of the Chinese parlor of the Native Sons of the Golden State, will appear before the committee to oppose the measure.\n\nColored people have held a large mass meeting in Stockton to oppose this measure.\n\nNegro policemen have been appointed in Plainfield, N. J.",
+      "status": "ok",
+      "confidence": 0.974585235118866,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 510,
+        "y0": 796,
+        "x1": 908,
+        "y1": 1206
+      },
+      "text": "THE COURTS.\nIn Seattle, Washington, Miss Ethel Hostrawser, a high school girl of that city, is to share to the extent of more than a million dollars in the settlement of the famous Crawford estate of Scotland, Ireland and England, which has been in chancery for a number of years, and which, when it passed into the hands of the British government, was worth $6,500,000.\nThe heir to this estate has been found in Mrs. Esther Campbell, of Vancouver, B. C., grandmother of Miss Hostrawser, who has been fighting the case for a year or more in England. Word has been received that it finally has been straightened out and that as soon as certain legal formalities demanded by the British law have been complied with, the estate will be distributed.",
+      "status": "ok",
+      "confidence": 0.973997950553894,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 510,
+        "y0": 1208,
+        "x1": 905,
+        "y1": 1440
+      },
+      "text": "A. Garfield Harrison, a learned and skilful colored lawyer of Seattle, has been working on the case for a year or more and furnished the money to fight the suit in England and Ireland. He will also participate to some considerable extent in the distribution. In the early stages of the case the proofs looked so clear to him that he took it on a contingent fee. He accompanied Mrs. Campbell to England and is still there closing up the final details.",
+      "status": "ok",
+      "confidence": 0.9736378788948059,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 68.2,
+    "at": "2026-10-06T21:25:00+00:00"
+  }
+}

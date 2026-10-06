@@ -1,0 +1,127 @@
+{
+  "page": 23,
+  "image": "images/page_23.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 131,
+        "y0": 105,
+        "x1": 1177,
+        "y1": 260
+      },
+      "text": "THE NEGRO AS A SOLDIER\nBy Brigadier-General ANDREW S. BURT, U. S. A. (Retired)",
+      "status": "ok",
+      "confidence": 0.778166651725769,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 127,
+        "y0": 302,
+        "x1": 634,
+        "y1": 890
+      },
+      "text": "We have in our regular army four regiments of colored soldiers, the Ninth and Tenth Cavalry and the Twenty-fourth and Twenty-fifth Infantry. The two cavalry regiments have fine records in campaigns on our Western frontier, in the old days of Indian warfare. These troopers also have splendid records made in Cuba and the Philippines. To-day there are no finer horsemen who carry sabres and carbines than the Negro soldiers. Indeed, it is whispered abroad that the Tenth Regiment arrived on the field of Santiago in the nick of time to save a much heralded cavalry command from being wiped out or otherwise rough-ridden by the Spanish forces. That kindly help by the Negro troopers has not, to my knowledge, been bruited about with any very loud acclaim. Gratitude is a fickle jade. \"Where self the wavering balance shakes 'tis rarely right adjusted,\" says Bobby Burns.",
+      "status": "ok",
+      "confidence": 0.9774461388587952,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 127,
+        "y0": 893,
+        "x1": 633,
+        "y1": 1467
+      },
+      "text": "The Twenty-fourth Infantry has likewise made an enviable record in Indian warfare in Cuba and in the Philippines, not only for its fighting, but as well for its law-abiding conduct wherever it has served in this country and in foreign lands. In addition, this Negro regiment has the privilege of painting on her battle flag, in letters of gold, a record for a deed of magnificent moral courage and great-hearted humanity. In Cuba, after the battle of Santiago, the yellow fever broke out among our white troops. Quarantine hospital camps were established for patients stricken down with the dread disease. Some weeks had elapsed when the colonel commanding the Twenty-fourth Regiment received an order to detail sixty men from his command to replace the regular Hospital Corps nurses who had been attacked by yellow fever, and a number of whom had died of this sickness.\n\nBRAVED YELLOW FEVER.",
+      "status": "ok",
+      "confidence": 0.9778098464012146,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 124,
+        "y0": 1471,
+        "x1": 634,
+        "y1": 1845
+      },
+      "text": "The colonel, recognizing the peculiar work to be performed by his men who would go to the yellow fever camps, ordered out his regiment in line, and said to them:\n\"Soldiers of the Twenty-fourth, I want sixty volunteers to help nurse your white comrades who are suffering with yellow fever.\"\nHe commanded: \"Volunteers, three paces to the front. March.\"\nEvery man of that line stepped to the front!\nBut, wait! Mark well the sequel to such Christian heroism. It was only a short time",
+      "status": "ok",
+      "confidence": 0.9598231911659241,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 667,
+        "y0": 301,
+        "x1": 1174,
+        "y1": 794
+      },
+      "text": "before word came to the colonel that half of his men who had volunteered to nurse their white comrades had been taken down with yellow fever. A number of them had died of that terrible disease, and thirty more nurses were wanted to take their places. Again the colonel called out his black soldiers in line. He told them what had happened, and again he commanded \"Volunteers, three paces to the front. March.\" And again every man of that line stepped to the front. I was captain of an infantry company in the Civil War. That ought to make me a good judge of a marching column, and I say I never saw better marchers than my Twenty-fifth United States Infantry Negro soldiers. I dwell on this matter, for on the legs of his men many a general has depended for a victorious campaign.",
+      "status": "ok",
+      "confidence": 0.9756500720977783,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 656,
+        "y0": 796,
+        "x1": 1174,
+        "y1": 1217
+      },
+      "text": "The Twenty-fifth Regimental headquarters, four companies, and the band were stationed for more than ten years at Fort Missoula, Mont., near the city of that name. One day I asked the Democratic Mayor of that city how my men behaved in his bailiwick. He replied:\n\n\"Why, colonel, there isn't any class of citizens here more orderly and peaceful. The Police Court records will prove my assertion.\"\n\nWhen the regiment was ordered to the front in '98, the ministers of every denomination in Missoula joined in an open letter commending the men for their good behavior.\n\nTHE TWENTY-FIFTH'S RECORD.",
+      "status": "ok",
+      "confidence": 0.9704673290252686,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 666,
+        "y0": 1224,
+        "x1": 1174,
+        "y1": 1769
+      },
+      "text": "The Twenty-fifth Infantry has made a record for fighting at El Caney, in Cuba, at Mt. Aryat, O'Donell, and in numerous skirmishes in the Philippines. Speaking of the Negro soldier generally, I can find nowhere in the histories of the Revolutionary War, the Indian Wars, Spanish-American Wars, or in the Philippines, a single instance where a Negro regiment showed the white feather or refused to charge the enemy when called on to do so. You will recall Gen. Grant's testimony before the Congressional committee on the conduct of the war of the rebellion. He said in part: \"If the black troops had been properly supported by the white troops at the springing of the mines at Petersburg, that day we would have gone into Richmond.\" The Negro soldiers were the only ones to charge into and out of that hell-hole. Just keep that in your minds.",
+      "status": "ok",
+      "confidence": 0.9485026001930237,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 667,
+        "y0": 1770,
+        "x1": 1173,
+        "y1": 1845
+      },
+      "text": "Bancroft says of Bunker Hill: \"Nor should history forget that as in the army at Cambridge, so also in this gallant band,",
+      "status": "ok",
+      "confidence": 0.9486247301101685,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.2,
+    "at": "2026-10-06T21:12:50+00:00"
+  }
+}

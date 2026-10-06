@@ -1,0 +1,169 @@
+{
+  "page": 8,
+  "image": "images/page_08.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 636,
+        "y0": 116,
+        "x1": 835,
+        "y1": 148
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8453305959701538,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 200,
+        "y0": 117,
+        "x1": 221,
+        "y1": 143
+      },
+      "text": "8",
+      "status": "ok",
+      "confidence": 0.7888757586479187,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 200,
+        "y0": 184,
+        "x1": 718,
+        "y1": 772
+      },
+      "text": "school at Homer, La. The latter was the largest colored school in the section.\n\nHoward University has dedicated a new $90,000 science hall.\n\nThe State of North Carolina has agreed to give the Slater Industrial School for Negroes in the little town of Winston-Salem in that State, the sum of $12,000, if the colored people will raise a similar amount.\n\nEleven thousand dollars for Negro education, to be applied to the work of the Mississippi. Industrial College at Holly Springs, Miss., is the record-breaking achievement of the Negroes of Mississippi Conference of the Colored Methodist Episcopal Church.\n\nThe new colored industrial school in Charleston, S. C., will open next month.",
+      "status": "ok",
+      "confidence": 0.9667894840240479,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 207,
+        "y0": 792,
+        "x1": 721,
+        "y1": 1347
+      },
+      "text": "At Richmond, Ind., Lorella Burden, a colored girl, about twelve years of age, has been declared the champion speller in the township. It seemed impossible to give the girl a word which she could not spell, and she is expected to win the county match in January and to be a representative of the district match in February.\n\nAt Hammond, La., the colored citizens held a mass meeting and an organization was perfected for the purpose of carrying on educational work. During the past year they have been enabled to continue their public school through a period of eight months.\n\nSOCIAL UPLIFT.\n\nAn enterprising student has discovered the names of thirty-three colored men in the 1911 edition of \"Who's Who in America.\"",
+      "status": "ok",
+      "confidence": 0.9635545015335083,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 212,
+        "y0": 1375,
+        "x1": 728,
+        "y1": 1949
+      },
+      "text": "Kansas City, Mo., has organized a society for the betterment of Negroes in that city. The Rev. Cyrus Townsend Brady is the leading spirit.\n\nThe condition of relief work for Negroes in the District of Columbia is much criticised. There seems to be no refuge for feeble-minded children and the insane wards are greatly overcrowded.\n\nThe colored people of Birmingham, Ala., are trying to get better hospital accommodations.\n\nNorth Carolina colored folk are pushing the movement for a State reformatory for youth.\n\nThe Adjutant-General of the army says in his last report:\n\n\"It will be seen that the desertion rate of our colored troops compares favorably",
+      "status": "ok",
+      "confidence": 0.9529802799224854,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 200,
+        "y0": 1949,
+        "x1": 835,
+        "y1": 2057
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 746,
+        "y0": 181,
+        "x1": 1264,
+        "y1": 720
+      },
+      "text": "with the very low rate of the British army, and that both of these rates are very much lower than the desertion rate of our white troops. Inasmuch as our colored soldiers are treated in every way precisely the same as our white soldiers, it is evident that this treatment is not the cause of desertion.\"\n\nThe American Negro Monographs Company has republished \"Nat Turner's Confession.\"\n\nProf. Donald B. MacMillan, one of the leading scientists of the Peary expedition, pays high and unstinted tribute to Matt. Henson. He declares that Henson is almost as familiar with Arctic conditions as Commander Peary himself, and was perhaps the most valuable member of the expedition after the commander.",
+      "status": "ok",
+      "confidence": 0.9668821692466736,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 749,
+        "y0": 753,
+        "x1": 1264,
+        "y1": 806
+      },
+      "text": "Colored people are planning an industrial home for colored women in Newark, N. J.",
+      "status": "ok",
+      "confidence": 0.9199383854866028,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 751,
+        "y0": 838,
+        "x1": 1265,
+        "y1": 1064
+      },
+      "text": "The Negro porters on the Pacific Overland train, one of whom was killed and the other wounded, showed courage and an effort to do their duty to the passengers of their cars by keeping the robbers out. Other trainmen and passengers showed no resistance, which was perhaps wise from the point of personal safety, but helps to encourage similar raids on trains.",
+      "status": "ok",
+      "confidence": 0.9671872854232788,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 751,
+        "y0": 1097,
+        "x1": 1269,
+        "y1": 1393
+      },
+      "text": "The first of a series of conferences was held by the Charity Organization Society in New York. Among the speakers was Mrs. Mary Church Terrell, who said: \"If anyone should ask me what special phase of the colored American's development makes me most hopeful of his ultimate triumph over present obstacles, I should answer unhesitatingly it is the magnificent work the women are doing to regenerate and elevate the race.\"",
+      "status": "ok",
+      "confidence": 0.9596898555755615,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 757,
+        "y0": 1394,
+        "x1": 1275,
+        "y1": 1946
+      },
+      "text": "The Rev. Dr. Joseph Elias Haynes, a colored minister, physician and author, died lately. He was born in slavery in Charleston, S. C., and served all through the Civil War as commissary sergeant in a regiment of volunteers on the Union side. After the close of the war he was graduated from Atlanta University. He then studied at Wilberforce, and at Harvard. He was the author of \"The Negro in Sacred History,\" \"The Black Man in Natural History,\" and other works. He recently organized a soap company in Brooklyn, so as to raise money to publish his life work entitled, \"The Blood.\" He is survived by a widow and three sons. Dr. Haynes was a member of the general committee of the National Association for the Advancement of Colored People.\n\nDover, Del., has its first colored mail carrier.",
+      "status": "ok",
+      "confidence": 0.9121547341346741,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.2,
+    "at": "2026-10-06T21:10:37+00:00"
+  }
+}

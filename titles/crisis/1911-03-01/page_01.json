@@ -1,0 +1,99 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 25,
+        "y0": 69,
+        "x1": 480,
+        "y1": 1541
+      },
+      "text": "A RECORD OF THE\n\nVolume One\n\nEdited by W. E. BURGHARDT DU BOIS,\nJ. Max Barber, Charles Edward Russell, Kel\n\nEgyptian Portrait of One of the\nEa-Maat-Neb, Builder of P\n\nPUBLISHED M\n\nNational Association for the\nAT TWENTY VESEY STREET\n\nONE DOLLAR A YEAR",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 480,
+        "y0": 71,
+        "x1": 993,
+        "y1": 1543
+      },
+      "text": "CRISIS\nTHE DARKER RACES\nRCH, 1911\nNumber Five\n\nwith the co-operation of Oswald Garrison Villard,\nLly Miller, W. S. Braithwaite and M. D. Maclean.\n\nthe Black Kings of the Upper Nile,\nPyramid No. 17. (After Lepsius.)\n\nONTHLY BY THE\nAdvancement of Colored People\nNEW YORK CITY\n\nTEN CENTS A COPY",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 76,
+        "y0": 122,
+        "x1": 946,
+        "y1": 310
+      },
+      "text": "THE CRISIS\nA RECORD OF THE DARKER RACES",
+      "status": "ok",
+      "confidence": 0.7267807722091675,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 421,
+        "y0": 347,
+        "x1": 602,
+        "y1": 380
+      },
+      "text": "MARCH, 1911",
+      "status": "ok",
+      "confidence": 0.6992470622062683,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 69,
+        "y0": 425,
+        "x1": 939,
+        "y1": 477
+      },
+      "text": "Edited by W. E. BURGHARDT DU BOIS, with the co-operation of Oswald Garrison Villard, J. Max Barber, Charles Edward Russell, Kelly Miller, W. S. Braithwaite and M. D. Maclean.",
+      "status": "ok",
+      "confidence": 0.8202500939369202,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "figure",
+      "bbox": {
+        "x0": 204,
+        "y0": 502,
+        "x1": 804,
+        "y1": 1512
+      },
+      "text": "Egyptian Portrait of One of the Black Kings of the Upper Nile,\nEa-Maat-Neb, Builder of Pyramid No. 17. (After Lepsius.)\n\nPUBLISHED MONTHLY BY THE\nAssociation for the Advancement of Color\nY VESEY STREET\nNEW\n\nAR A YEAR\nTEN CENT",
+      "status": "ok",
+      "confidence": 0.5635210275650024,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.4,
+    "at": "2026-10-06T21:15:06+00:00"
+  }
+}

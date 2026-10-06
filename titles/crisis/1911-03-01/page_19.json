@@ -1,0 +1,57 @@
+{
+  "page": 19,
+  "image": "images/page_19.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "figure",
+      "bbox": {
+        "x0": 0,
+        "y0": 158,
+        "x1": 938,
+        "y1": 1452
+      },
+      "text": "John Henry Adams",
+      "status": "ok",
+      "confidence": 0.6242870688438416,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 42,
+        "y0": 103,
+        "x1": 219,
+        "y1": 131
+      },
+      "text": "MARCH, 1911",
+      "status": "ok",
+      "confidence": 0.4322291910648346,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "abandon",
+      "bbox": {
+        "x0": 512,
+        "y0": 1485,
+        "x1": 831,
+        "y1": 1554
+      },
+      "text": "\"SOCIAL EQUALITY\"\nDrawn by John Henry Adams",
+      "status": "ok",
+      "confidence": 0.7258402109146118,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 2.9,
+    "at": "2026-10-06T21:18:08+00:00"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "page": 26,
+  "image": "images/page_26.jpg",
+  "width": 1089,
+  "height": 1669,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 133,
+        "y0": 94,
+        "x1": 974,
+        "y1": 363
+      },
+      "text": "\"DAGGANCOURT\"\nBy LLOYD OSBOURNE and HENRY E. BAKER\n\n[The correspondence which follows was called forth by the serial publication in Munsey's Magazine of Mr. Lloyd Osbourne's novel. \"The Kingdoms of the World.\" Two colored men figure in this story, the one Stokes, a West Point cadet, and the other, Victor Daggancourt, a boarder at Mrs. Sattane's establishment. Matthew Broughton, the hero, goes into a project for raising mules in partnership with Daggancourt.]",
+      "status": "ok",
+      "confidence": 0.9541294574737549,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 130,
+        "y0": 401,
+        "x1": 535,
+        "y1": 969
+      },
+      "text": "Mr. LLOVD OSBOURNE.\nDear Sir:\nAfter reading the opening chapters of your interesting new serial, \"The Kingdoms of the World,\" in the current Munsey, I find that they leave a rather unwelcome impression on my mind with reference to the picture you draw of Victor Daggancourt. Of course Daggancourt as a mere character in the literary world you have created may be plausible and even pleasing, but Daggancourt as a type of \"the better educated colored man,\" as you call him, is not only a positive impossibility, but a harmful suggestion.\nWhatever may have been the restraints placed around the educated colored man of other days, tending to stifle his manhood and minimize his self-respect, it certainly is not typically true of him to-day that he would so demean himself as to accept voluntarily the humiliating conditions upon which Daggancourt was allowed to remain as a quasi guest at the Sattane hostlery; and to put him in that light before the reading world to-day is a positive (though I really believe, in this instance, an unintentional) unfairness.",
+      "status": "ok",
+      "confidence": 0.9769993424415588,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 130,
+        "y0": 973,
+        "x1": 535,
+        "y1": 1492
+      },
+      "text": "The educated colored men whom I know, and I know a whole class of them, would neither seek nor tolerate unwelcome associations of the kind you describe. They would be no more likely to remain at a white boarding house upon the terms you define as satisfying Daggancourt than would white men remain at a colored boarding house upon equally humiliating conditions. While it is true that our respective viewpoints are located on opposite sides of this question, I am sure nevertheless that you will appreciate the force of my criticism.\n\nIt is by no means the least of the obstacles to the progress of self-respecting colored men that authors of note, influential writers in popular magazines and newspapers, and many others who daily shape public opinion persist consciously or unconsciously in holding these men up to public contempt and ridicule. Against this \"rock of offense\" they have no redress except in the saving sense of fair play which may always be relied upon to assert itself in the average man of superior qual-",
+      "status": "ok",
+      "confidence": 0.9778860807418823,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 561,
+        "y0": 401,
+        "x1": 972,
+        "y1": 756
+      },
+      "text": "ities. That is why I am calling your attention to the matter.\nI was equally interested, too, in your picture of the colored cadet at Annapolis. It so happens that I myself was the last colored cadet to enter the Naval Academy, having spent nearly two academic years there in the class of '79; and the isolation, indignities, oppression, persecution and general cussedness that dogged my track during the whole of my stay there keep me wondering to this day how I stood it, and why. But I do not recall any experience of my life there that could ever have led me to write such a letter as you make Stokes to send to Broughton after the latter's rescue from the wreck of the Windsor Castle.",
+      "status": "ok",
+      "confidence": 0.9772940278053284,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 562,
+        "y0": 759,
+        "x1": 971,
+        "y1": 1091
+      },
+      "text": "I have personally known nearly every colored cadet who entered either Annapolis or West Point—seven all told—and the experiences of all of them were practically the same, personal slights, unwarranted insults, unprovoked assaults and continual humiliation. An experience like this does not furnish fit soil for the growth of such charitableness as you impute to Stokes—it is more likely to have the opposite effect with the normal boy; but then I must not forget that Stokes was only on paper (a mere \"paper\" man, so to speak), while we fellows were actually on the ground, bearing the real brunt—and giving the real grunt. And the echo of that grunt is with us yet, \"lest we forget.\"",
+      "status": "ok",
+      "confidence": 0.9785003066062927,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 564,
+        "y0": 1093,
+        "x1": 972,
+        "y1": 1434
+      },
+      "text": "I must remember also that I have seen only the beginning of your story, and maybe \"the half has not been told\" either as to Stokes or Daggancourt. I shall hope to find some compensating circumstances in the coming chapters wherein Daggancourt and Broughton may be made to tie up to each other in their mule venture down in old Kentucky on terms of equal commercial advantage and with mutual personal respect, and wherein Stokes may be made to give some account of himself in terms that may be translated into manly self-respect. So at least I hope.\n\nYours very truly,\nHENRY E. BAKER.",
+      "status": "ok",
+      "confidence": 0.9760193228721619,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 563,
+        "y0": 1431,
+        "x1": 973,
+        "y1": 1494
+      },
+      "text": "Dear Mr. Baker:\nI read your letter with extraordinary interest, and—some chagrin.",
+      "status": "ok",
+      "confidence": 0.9019868969917297,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.8,
+    "at": "2026-10-06T21:19:02+00:00"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "page": 19,
+  "image": "images/page_19.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 0,
+        "y0": 150,
+        "x1": 234,
+        "y1": 188
+      },
+      "text": "BRUARY, 1911",
+      "status": "ok",
+      "confidence": 0.5382033586502075,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1122,
+        "y0": 156,
+        "x1": 1156,
+        "y1": 184
+      },
+      "text": "19",
+      "status": "ok",
+      "confidence": 0.8276962637901306,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 0,
+        "y0": 252,
+        "x1": 1137,
+        "y1": 1860
+      },
+      "text": "TELLER\nISNIER\nFIRST\nNATIONAL\nBANK\nJ. H. Henry Adams",
+      "status": "ok",
+      "confidence": 0.822198212146759,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 82,
+        "y0": 1887,
+        "x1": 635,
+        "y1": 1977
+      },
+      "text": "\"New and dangerous species of Negro criminal lately discovered in Baltimore. He will be segregated in order to avoid lynching.\"",
+      "status": "ok",
+      "confidence": 0.8980355262756348,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 4.7,
+    "at": "2026-10-06T21:12:15+00:00"
+  }
+}

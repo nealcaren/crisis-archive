@@ -1,0 +1,225 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 1084,
+  "height": 1609,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 316,
+        "y0": 92,
+        "x1": 751,
+        "y1": 370
+      },
+      "text": "THE CRISIS ADVERTISER\nHull's Hotel\n127-129\nTelephones\nLeading Colored Restaurant in An\ne Unsurpassed. Everything Up to",
+      "status": "ok",
+      "confidence": 0.523755669593811,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 563,
+        "y0": 124,
+        "x1": 946,
+        "y1": 370
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 122,
+        "y0": 145,
+        "x1": 950,
+        "y1": 223
+      },
+      "text": "Marshall's Hotel 127-129 West 53d Street\nTelephones 4693-4694 Columbus",
+      "status": "ok",
+      "confidence": 0.9022911190986633,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 234,
+        "y0": 254,
+        "x1": 946,
+        "y1": 413
+      },
+      "text": "The Leading Colored Restaurant in America\nCuisine Unsurpassed. Everything Up to date\nish a Specialty Restaurant Open All Night",
+      "status": "ok",
+      "confidence": 0.9223610162734985,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 122,
+        "y0": 373,
+        "x1": 422,
+        "y1": 415
+      },
+      "text": "Shell Fish a Specialty",
+      "status": "ok",
+      "confidence": 0.6964465379714966,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 316,
+        "y0": 413,
+        "x1": 751,
+        "y1": 712
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 563,
+        "y0": 413,
+        "x1": 946,
+        "y1": 712
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 122,
+        "y0": 415,
+        "x1": 422,
+        "y1": 712
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 246,
+        "y0": 575,
+        "x1": 820,
+        "y1": 639
+      },
+      "text": "We Print THE CRISIS",
+      "status": "ok",
+      "confidence": 0.819023072719574,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 316,
+        "y0": 712,
+        "x1": 751,
+        "y1": 1066
+      },
+      "text": "We Print for the Vogue Magazine and refer by permission to Mr. Conde Nash, Publisher of VOGUE MAGAZINE Wedding Invitations Printed and Engraved. Society and Commercial Printing a Specialty. A postal or the telephone (Lenox 6667) brings us to your door.",
+      "status": "ok",
+      "confidence": 0.90288907289505,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 122,
+        "y0": 1066,
+        "x1": 422,
+        "y1": 1169
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 316,
+        "y0": 1066,
+        "x1": 751,
+        "y1": 1212
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 563,
+        "y0": 1066,
+        "x1": 946,
+        "y1": 1212
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 122,
+        "y0": 1330,
+        "x1": 951,
+        "y1": 1513
+      },
+      "text": "Phone 2877 Lenox.\nWhite Rose Working Girls' Home\n217 EAST 86TH STREET\nBet. Second and Third Avenues\nPleasant temporary lodgings for working girls,\nwith privileges, at reasonable rates. The Home\nsolicits orders for working dresses, aprons, etc.\nAddress:\nMRS. FRANCES R. KEYSER, Supt.\n\nHello, Central! Give me Harlem 3253.\n\nNEW YORK CAREFUL CLEAN-\nING BUREAU?\n\nYes, Madam! We clean from a rug to private\nhouse. Any time—by the hour, the day or the\njob. Oh, yes; we guarantee satisfaction. We are\nCleaners and Renovators for Particular People.\nLet us give you our estimate\n\n12 WEST 135th STREET",
+      "status": "ok",
+      "confidence": 0.8376392722129822,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "abandon",
+      "bbox": {
+        "x0": 124,
+        "y0": 97,
+        "x1": 142,
+        "y1": 120
+      },
+      "text": "4",
+      "status": "ok",
+      "confidence": 0.5370194911956787,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.1,
+    "at": "2026-10-06T20:55:23+00:00"
+  }
+}

@@ -1,0 +1,237 @@
+{
+ "page": 24,
+ "image": "images/page_24.jpg",
+ "width": 1087,
+ "height": 1612,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.3,
+  "at": "2026-10-06T20:58:22+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 159,
+    "y0": 108,
+    "x1": 185,
+    "y1": 129
+   },
+   "text": "24",
+   "status": "ok",
+   "confidence": 0.8284779191017151,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 158,
+    "y0": 107,
+    "x1": 184,
+    "y1": 128
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r1",
+   "label": "abandon",
+   "bbox": {
+    "x0": 495,
+    "y0": 110,
+    "x1": 647,
+    "y1": 133
+   },
+   "text": "THE CRISIS",
+   "status": "ok",
+   "confidence": 0.8498559594154358,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 493,
+    "y0": 108,
+    "x1": 646,
+    "y1": 132
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 159,
+    "y0": 162,
+    "x1": 563,
+    "y1": 608
+   },
+   "text": "that in this exaggerated form the statement is untrue. As a matter of fact, this theory is generally used only so far as it may suit our purposes; and the statement that a mulatto of exceptional ability and strength of character owes his eminence to the white strain in his blood is seriously made without being felt as a contradiction to this theory. Serious attempts have been made to investigate the social and vital characteristics of the mulatto as compared to the Negro race and to the white race; but here again we must recognize with regret that a sound basis for safe conclusions has not been gained yet. It is very difficult to differentiate clearly between those characteristics of the mulatto that are due to the social conditions under which he lives, and those that are due to hereditary causes. In order to determine the actual conditions with any degree of accuracy, extensive investigations would have to be carried through with this specific object in view.",
+   "status": "ok",
+   "confidence": 0.9793868660926819,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 159,
+    "y0": 161,
+    "x1": 557,
+    "y1": 604
+   },
+   "exclude": [
+    [
+     181,
+     606,
+     187,
+     621,
+     "r3"
+    ],
+    [
+     358,
+     607,
+     361,
+     609,
+     "r3"
+    ],
+    [
+     374,
+     607,
+     384,
+     622,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 157,
+    "y0": 604,
+    "x1": 555,
+    "y1": 1109
+   },
+   "text": "It seems to my mind that the assumption which is generally made is very unlikely, for it ought to be possible to find, either in history or in biology, parallel cases demonstrating the evil effects of intermixture upon mixed types. It seems to my mind that the whole early history of our domesticated animals indicates that mixture has hardly ever had detrimental effect upon the development of varieties. Practically none of our domesticated animals are descendants of a single species. The probable history of our European cattle will illustrate what presumably happened. In all likelihood cattle were first domesticated in Asia and came to Europe in company with a number of tribes that migrated from the East westward. At this period large herds of wild cattle existed in Europe. The herds attracted the wild native bulls, which belonged to a distinct species of cattle, and a gradual mixture of the blood of the domesticated and of the wild cattle took place, which had the effect of modifying the type of the animal that was kept.\n\nMODIFICATION IN TYPE.",
+   "status": "ok",
+   "confidence": 0.9796852469444275,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 157,
+    "y0": 605,
+    "x1": 553,
+    "y1": 1108
+   },
+   "exclude": [
+    [
+     334,
+     593,
+     343,
+     606,
+     "r2"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 156,
+    "y0": 1118,
+    "x1": 553,
+    "y1": 1526
+   },
+   "text": "In the same way domesticated cattle would from time to time escape and join the wild herds; so that admixture occurred also in the wild species. This gradual modification of the type of both wild and domesticated animals may be observed even at the present time in Siberia and in Central Asia; and a zoological investigation of our domesticated animals has shown that practically in all cases this has been the development of the existing types. It is a peculiarity incident to domestication that intermixture of distinct types is facilitated. Among wild animals mixture of different species is, on the whole, rare; and mixture of distinct varieties of the same species does not ordinarily occur, because each variety has its own local habitat. If we want to understand analogous conditions in mankind clearly, we must remember that man, in his bodily form and",
+   "status": "ok",
+   "confidence": 0.9792669415473938,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 155,
+    "y0": 1117,
+    "x1": 551,
+    "y1": 1523
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 579,
+    "y0": 160,
+    "x1": 986,
+    "y1": 758
+   },
+   "text": "in his physiological functions, is strictly analogous to domesticated animals. Practically everywhere human culture has advanced so far that the anatomical type of man cannot be compared to that of wild animals, but must be considered as analogous to the type of domesticated animals. This condition has brought it about that intermixture of distinct types has always been easy.\n\nThe types of man which were originally strictly localized have not remained so, but extended migrations have been the rule ever since very early times; in fact, as far back as our knowledge of prehistoric archæology carries us. Therefore we find mixtures between distinct types the world over. For our present consideration the mixed types that occur on the borderland of the Negro races seem particularly interesting. I mention among these the Western people of the Polynesian Islands, who are undoubtedly a mixture of negroid types and of another type related to the Malay, a highly gifted people, which, before European contact, had developed a peculiar and interesting culture of their own. More interesting than these are the inhabitants of the southern borderland of the Sahara.\n\nHOW POPULATIONS WERE MIXED.",
+   "status": "ok",
+   "confidence": 0.980486273765564,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 580,
+    "y0": 159,
+    "x1": 983,
+    "y1": 757
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 578,
+    "y0": 771,
+    "x1": 980,
+    "y1": 1115
+   },
+   "text": "In olden times this was the home of the darkest Negro races; but immediately north of them were found people of much lighter complexion, which, in descent, belong to the group of Mediterranean people. They belong to the same group which developed the ancient Egyptian civilization. For long periods these people have made inroads into the Negro territory south of the Sahara, and have established the empire of the Sudan, whose history we can trace about a thousand years back. In this manner a mixed population has developed in many of these regions which has proved exceedingly capable, which has produced a great many men of great power, and which has succeeded in assimilating a considerable amount of Arab culture.",
+   "status": "ok",
+   "confidence": 0.9816845059394836,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 577,
+    "y0": 770,
+    "x1": 977,
+    "y1": 1115
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 578,
+    "y0": 1115,
+    "x1": 981,
+    "y1": 1531
+   },
+   "text": "It is quite remarkable to see how, in some of the more remote parts of this country, where intermixture has been very slight, the pure Negro type dominates and has developed exactly the same type of culture which is found in other regions, where the North African type predominates. The development of culture, and the degree of assimilation of foreign elements, depend, in this whole area, not upon the purity of the race, but upon the stability of political conditions, which during long periods have been characterized by an alternation of peaceful development and of warlike conquest.\n\nThe history of East Africa, with its extended migrations of people from north to south, is another case illustrating the infusion of foreign blood into the African race without in any way modifying the cultural conditions of the continent, except so",
+   "status": "ok",
+   "confidence": 0.9787310361862183,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 578,
+    "y0": 1116,
+    "x1": 978,
+    "y1": 1528
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 8,
+  "regions_after": 8,
+  "lost_words": [],
+  "unowned_ink_pct": 0.0,
+  "box_overlaps_after": 1,
+  "log": []
+ }
+}

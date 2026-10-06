@@ -1,0 +1,99 @@
+{
+  "page": 28,
+  "image": "images/page_28.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 174,
+        "y0": 72,
+        "x1": 999,
+        "y1": 601
+      },
+      "text": "PERIODICALS.\nPlea for the Conservation of Another Great National Resource. F. P. Chisholm. Education, November.\nDip of the Tar Brush. M. A. H. New England Magazine, October.\nSpecial Plea of a Southerner. E. Harlan. New England Magazine, October.\nPrince Henry of Portugal and the African Crusade of the Fifteenth Century. C. R. Beasley. American Historical Review, October.\nExcavation of Cyrene. F. W. Kelsey. Nation, October 27.\nDiary of Gideon Welles. Atlanta, December.\nCuban Experiences. Frederick Funston. Scribner's, December.\nA Hero's Conscience. G. Bradford, Jr. Atlanta, December.\n\nThe ante-bellum Southern lady never had much to say for herself and was in short not \"the Gothic saint in her niche\" that tradition pictures, but a kindly little creature surrounded by \"Orientalism\" and little better off, so far as opportunities for development went, than any lady of the harem.\n\nMrs. Putnam quotes Miss Martineau, who traveled extensively through the slave States, to show how the system limited the white women and made them \"the greatest slaves on the plantation.\" Patience was the supreme virtue of the antebellum lady—they made the best of a bad state of affairs. Logic she had little or none, and her up-bringing tended to make her a delightful girl but a middle-aged woman of only moderate attractions. And",
+      "status": "ok",
+      "confidence": 0.9720810055732727,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 175,
+        "y0": 632,
+        "x1": 569,
+        "y1": 1216
+      },
+      "text": "Wilson, Lady S. D. A.—South African\nMemories. Longmans.\nShotwell, W. G.—Life of Charles Sumner.\nCrowell. 733 pp.\nSteffens, Alexander H., Recollections of.\nDoubleday, Page & Co. 572 pp.\nNewton, J. H.—Lincoln and Herndon.\nTorch Press. 367 pp.\nSylvester, H. M.—Indian Wars of New\nEngland. Clark. 3 vols.\nHaring, C. H.—The Buccaneers of the\nWest Indies in the 17th Century. Dutton. 298 pp.\nHagood, Johnson.—Memoirs of the War\nof Secession. State Co. 498 pp.\nDeutsch, G.—History of the Jews. Bloch.\n122 pp.\nShoemaker, M. M.—Islam Lands. Putnams. 251 pp.\nWithers, P.—Egypt of Yesterday and Today. Stokes. 293 pp.\nAddams, Jane.—Twenty Years at Hull\nHouse. Macmillan. 462 pp.\nDocumentary History of American Industrial Society. Vol. IX: Labor Movement. Clark. 378 pp.\n\nTHE LADY OF THE SLAVE STATES.",
+      "status": "ok",
+      "confidence": 0.9749026298522949,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 175,
+        "y0": 1218,
+        "x1": 569,
+        "y1": 1433
+      },
+      "text": "Mrs. George Haven Putnam, in a very charming essay in the Contemporary Review for December, discusses \"The Lady of the Slave States.\" She deals gently enough with her subject; she says that the slave-owner's wife like everybody else with slavery was blighted by its curse, but she demolished very effectually the myth of the gracious fascinating woman of culture who ruled family and estate by the charm of her personality.",
+      "status": "ok",
+      "confidence": 0.9695627093315125,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 596,
+        "y0": 225,
+        "x1": 996,
+        "y1": 747
+      },
+      "text": "The ante-bellum Southern lady never had much to say for herself and was in short not \"the Gothic saint in her niche\" that tradition pictures, but a kindly little creature surrounded by \"Orientalism\" and little better off, so far as opportunities for development went, than any lady of the harem.\n\nMrs. Putnam quotes Miss Martineau, who traveled extensively through the slave States, to show how the system limited the white women and made them \"the greatest slaves on the plantation.\" Patience was the supreme virtue of the antebellum lady—they made the best of a bad state of affairs. Logic she had little or none, and her up-bringing tended to make her a delightful girl but a middle-aged woman of only moderate attractions. And while she was often very kind to her slaves her sensibilities seemed in some measure blunted by perpetual sight of suffering and injustice.\n\nWhen the war ended the ex-mistresses of slaves showed how good was the material that had been buried under the \"Orientalism\" of the plantation.",
+      "status": "ok",
+      "confidence": 0.9773029088973999,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 594,
+        "y0": 791,
+        "x1": 995,
+        "y1": 917
+      },
+      "text": "RACE PREJUDICE IN THE ORIENT.\nRace Prejudice: An address by Melville E. Stone to the Quill Club, New York City.\nThe best review of this remarkable little pamphlet will be a few extracts from its pages:",
+      "status": "ok",
+      "confidence": 0.9252386689186096,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 599,
+        "y0": 917,
+        "x1": 996,
+        "y1": 1435
+      },
+      "text": "What is to be the outcome? What does all this mean for the future of the world?\nLet us view the problem from the political, the commercial and the moral aspects\nHow long will the 6,000 soldiers we have in the Philippines be able to keep our flag afloat among 8,000,000 of natives? How long will the 75,000 English soldiers in India be able to maintain British sovereignty over 300,000,000 of Asians? Believe me, these are not idle questions. They are up to us for an answer, whether we will or no, and upon our ability to make answer will depend the future of what we are pleased to call our Western civilization. I would not be an alarmist, and yet I would have you feel that Macauley's suggestion of the New Zealander on a broken arch of London Bridge, sketching the ruins of St. Paul, has come to be more than an extravagant figure of speech. And I am convinced that there is real danger awaiting us unless we mend our ways. It is not the Asian who needs educating; it is the European. I am not worrying half so much about the heathen in his blindness as I am about the Christian in his blindness.",
+      "status": "ok",
+      "confidence": 0.9770580530166626,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.5,
+    "at": "2026-10-06T21:05:14+00:00"
+  }
+}

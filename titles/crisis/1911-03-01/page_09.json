@@ -1,0 +1,239 @@
+{
+  "page": 9,
+  "image": "images/page_09.jpg",
+  "width": 1091,
+  "height": 1670,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 360,
+        "y0": 101,
+        "x1": 702,
+        "y1": 126
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8760914206504822,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 107,
+        "y0": 154,
+        "x1": 515,
+        "y1": 235
+      },
+      "text": "double alarm, there were none left to rescue, all escaping through their own agility on the escapes and the bravery of the elevator boy in sticking to his post.",
+      "status": "ok",
+      "confidence": 0.9497877359390259,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 539,
+        "y0": 155,
+        "x1": 946,
+        "y1": 295
+      },
+      "text": "organized the Southern Land and Development Company for the purpose of carrying out extensive colonization plans. The company has purchased a large tract of land on the Champton River in the State of Campeche and has had it subdivided into small farming tracts.",
+      "status": "ok",
+      "confidence": 0.9669466018676758,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 106,
+        "y0": 251,
+        "x1": 513,
+        "y1": 489
+      },
+      "text": "One of the speakers at the Thomas Paine centenary was Mr. Hubert H. Harrison, who spoke on Paine's place in the Deistical movement. The Truth Seeker says that he \"has the reputation of being the most scholarly representative of his race in America. The intended pleasanty of the Rev. Mr. Marshall, that he honored a man who had such an encyclopedic knowledge of literature as the previous speaker had displayed, might well have been spoken by him in all earnestness and sincerity.\"",
+      "status": "ok",
+      "confidence": 0.9724248051643372,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 539,
+        "y0": 312,
+        "x1": 946,
+        "y1": 588
+      },
+      "text": "A theatre for colored people has been opened in Knoxville, Tenn.\n\nWagino City, a town designated exclusively for Negroes, is being platted near Altheimer, Arkansas. A local paper says it is believed a village of at least 500 population will be built up there within a year. Lots will be reserved for schools, churches, lodge halls, depot and other public buildings. Adjoining the town site a half-mile race track is being graded and a grand stand and other buildings will be erected to hold an annual fair.",
+      "status": "ok",
+      "confidence": 0.9582722783088684,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 107,
+        "y0": 528,
+        "x1": 514,
+        "y1": 626
+      },
+      "text": "The Rev. Abraham Grant, bishop of the African Methodist Episcopal Church, died on January 23, after a long illness, at his home in Kansas City, Kan. His wife, Lulu Rebecca Grant, died nine days before him.",
+      "status": "ok",
+      "confidence": 0.9361850023269653,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 539,
+        "y0": 604,
+        "x1": 945,
+        "y1": 1037
+      },
+      "text": "The Negro Business Directory and Commercial Guide of Atlanta is the title of a volume compiled by W. B. Matthews. It gives full information concerning Negroes in business, churches and pastors, colleges and teachers, public and private schools, fraternal and secret societies. It shows that the colored people of Atlanta are conducting more than 100 different kinds of businesses; that there are more than 2,000 separate places owned and controlled by them; that Atlanta has 40 professional men among its Negro population; one old line insurance company and six industrial insurance companies are entirely under their management. Among the establishments there are one bank, 12 drug stores, 60 tailor shops, 83 barber shops and 85 grocery stores, besides bakeries, wood and coal yards and undertaking establishments. There are also 80 hack lines and 125 draymen.",
+      "status": "ok",
+      "confidence": 0.9760486483573914,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 106,
+        "y0": 626,
+        "x1": 514,
+        "y1": 1174
+      },
+      "text": "On learning of his death, through a telegram, President Taft replied:\n\"Your telegram announcing the death of Bishop Grant received. I greatly deplore this, and extend to his family, his friends and those to whom he preached my heartfelt sympathy. Bishop Grant and I have been for some years associated in the work of promoting the education of Negroes in the South, and I came to know his high and sturdy qualities. His death is a real loss to his people.\"\n\nArchbishop Ryan, of Philadelphia, who died last month, devoted much time to the upbuilding of the Sisterhood of the Blessed Sacrament, in association with the foundress, Mother Katherine Drexel, for the benefit of Negroes and Indians.\n\nAfter years of persistent work in raising funds and finally bringing the building to completion, the colored Catholics of St. Augustine now have a house of worship of their own. On February 5 the Rt. Rev. Wm. J. Kenny, Bishop of St. Augustine, formally dedicated the new church of St. Benedict, the Moor.",
+      "status": "ok",
+      "confidence": 0.9705588221549988,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 538,
+        "y0": 1093,
+        "x1": 945,
+        "y1": 1409
+      },
+      "text": "Negroes living at Hominy, Okla., have been forced to leave the town. A southbound passenger car arriving at Oklahoma City was crowded with refugees who fled fearing for their lives. Not a Negro is left in the section.\n\nNight riders around Hominy several days before served notice that all Negroes must leave the town at once, and, to emphasize the warning, they exploded dynamite in the neighborhood of Negro houses. Some months ago land speculators sold land around Hominy to Negroes for cotton farms. The local whites protested, and their dislike of the colored immigrants resulted in the latters' enforced departure.",
+      "status": "ok",
+      "confidence": 0.9727668166160583,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 106,
+        "y0": 1212,
+        "x1": 514,
+        "y1": 1449
+      },
+      "text": "The Edmonton, Alberta, Canada, Board of Trade has called the attention of the Interior Department to the influx of Negro settlers into the districts surrounding Edmonton, asserting that they are driving out white settlers. During the last three years there has been a steady influx into Edmonton of colored people from the South, principally from Oklahoma. This year they are starting to come in increasing numbers; and it is said that hundreds of them are heading northward.",
+      "status": "ok",
+      "confidence": 0.9723901748657227,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 539,
+        "y0": 1426,
+        "x1": 946,
+        "y1": 1548
+      },
+      "text": "Near Wilson, N. C., two colored men were arrested in different places for the murder of a deputy sheriff. Both were nearly lynched and it is not yet decided which is the man wanted, or whether either of them is the murderer.",
+      "status": "ok",
+      "confidence": 0.9592069387435913,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 105,
+        "y0": 1467,
+        "x1": 515,
+        "y1": 1549
+      },
+      "text": "It is said that an attempt is to be made to colonize Negroes from the United States upon land in Mexico. A number of wealthy Negroes of Denver and Pueblo, Col., have",
+      "status": "ok",
+      "confidence": 0.9252734780311584,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 227,
+        "y0": 505,
+        "x1": 391,
+        "y1": 527
+      },
+      "text": "THE CHURCH.",
+      "status": "ok",
+      "confidence": 0.8411396741867065,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 245,
+        "y0": 1190,
+        "x1": 372,
+        "y1": 1212
+      },
+      "text": "ECONOMIC",
+      "status": "ok",
+      "confidence": 0.8268755674362183,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "abandon",
+      "bbox": {
+        "x0": 931,
+        "y0": 102,
+        "x1": 946,
+        "y1": 121
+      },
+      "text": "9",
+      "status": "ok",
+      "confidence": 0.625788152217865,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "title",
+      "bbox": {
+        "x0": 701,
+        "y0": 1063,
+        "x1": 780,
+        "y1": 1085
+      },
+      "text": "CRIME.",
+      "status": "ok",
+      "confidence": 0.8497660160064697,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.0,
+    "at": "2026-10-06T21:16:54+00:00"
+  }
+}

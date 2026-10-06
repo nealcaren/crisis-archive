@@ -1,0 +1,113 @@
+{
+  "page": 28,
+  "image": "images/page_28.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 153,
+        "y0": 95,
+        "x1": 1003,
+        "y1": 293
+      },
+      "text": "THE BURDEN\nCOLORED MEN LYNCHED WITHOUT\nTRIAL. consciousness of kind. And plenty of jim crows should be flying overhead.",
+      "status": "ok",
+      "confidence": 0.45824387669563293,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "table",
+      "bbox": {
+        "x0": 154,
+        "y0": 294,
+        "x1": 566,
+        "y1": 635
+      },
+      "text": "1885..... 78 1898..... 102\n1886..... 71 1899..... 84\n1887..... 80 1900..... 107\n1888..... 95 1901..... 107\n1889..... 95 1902..... 86\n1890..... 90 1903..... 86\n1891..... 121 1904..... 83\n1892..... 155 1905..... 61\n1893..... 154 1906..... 64\n1894..... 134 1907..... 60\n1895..... 112 1908..... 93\n1896..... 80 1909..... 73\n1897..... 122 1910..... 65\n\nTotal.....2,458\n\nCONCERNING PARKS.\nCOLORED MEN LYNCHED WITHOUT\nTRIAL.\n1885. 78 1898. 102\n1886. 71 1899. 84\n1887. 80 1900. 107\n1888. 95 1901. 107\n1889. 95 1902. 86\n1890. 90 1903. 86\n1891. 121 1904. 83\n1892. 155 1905. 61\n1893. 154 1906. 64\n1894. 134 1907. 60\n1895. 112 1908. 93\n1896. 80 1909. 73\n1897. 122 1910. 65\nTotal.....2,458",
+      "status": "ok",
+      "confidence": 0.33266201615333557,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 160,
+        "y0": 639,
+        "x1": 568,
+        "y1": 1151
+      },
+      "text": "That Negroes are denied access to public parks in some cities of the South is a matter of common note. New Orleans has numerous playgrounds, but colored children may not enjoy them. Colored workmen passing through a park must not sit upon a bench, and colored mothers may not take their little children with them and play and rest under the city's trees in its attractive pleasure grounds. But while the black mother may not enjoy herself within the city enclosure when in company with her own babies, she is allowed every privilege if she is in charge of a white child. The black mammy is welcome as long as she is neglecting her own offspring for those of her white mistress. In Memphis, Tennessee, the city's largest park is practically closed to Negroes. Only the boldest spirit dare enter, and then expulsion is almost certain. This park has an excellent zoological garden where white children may look as long as they like at the curious birds and beasts, but where colored children must never feast their eyes.",
+      "status": "ok",
+      "confidence": 0.9752296805381775,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 163,
+        "y0": 1152,
+        "x1": 570,
+        "y1": 1488
+      },
+      "text": "The colored citizens of Memphis are protesting vigorously against park discrimination, and the city is considering the acquirement of a park exclusively for the Negro's use. If they should do so, they should surely give the colored child a zoo; and might not this be a rare opportunity for the city fathers to teach racial integrity and the color line? Only black bears, or dark brown ones, should be on exhibition; black panthers, like Bagheera, should pace up and down the cages, and dark-plumaged birds alone should inhabit the aviary. Of course, no hybrid could possibly be allowed. One can see the dark brown eyes looking out of the little dark brown faces and learning at each cage the great lesson of",
+      "status": "ok",
+      "confidence": 0.976414680480957,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 591,
+        "y0": 251,
+        "x1": 1002,
+        "y1": 363
+      },
+      "text": "consciousness of kind. And plenty of jim crows should be flying overhead.\nWHAT IS \"UNDUE DISCRIMINATION\"?",
+      "status": "ok",
+      "confidence": 0.9247069954872131,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 592,
+        "y0": 367,
+        "x1": 1003,
+        "y1": 963
+      },
+      "text": "The story of the arrest of Dr. W. J. Thompkins, of Kansas City, a prominent colored physician, may lead to further important discussion of the right of Negroes to travel in Pullman cars throughout the United States. Dr. Thompkins was called to McAlester, Okla., on an important case. He purchased a Pullman ticket, but on reaching the town of Vinita, Okla., he was arrested, taken forcibly from the car and placed in jail. Brought before a justice of the peace he was fined $13. On payment of the fine he was allowed to proceed upon his journey. The matter will be carried to a higher court, and it may be that the Interstate Commerce Commission will reconsider its opinion in the case brought by the bishops of the African Methodist Church. In June, 1909, the Commission declared that colored passengers were not unduly discriminated against. It felt that the small number of colored passengers traveling on the through trains made it quite right that they should be allowed to eat only at the third call for dinner, and should endure what the Commission felt was not undue discrimination. Dr. Thompkin's experience should bring this whole matter again to the attention of the Commission and of the public.",
+      "status": "ok",
+      "confidence": 0.9746097922325134,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 595,
+        "y0": 983,
+        "x1": 1007,
+        "y1": 1488
+      },
+      "text": "Justice D. P. Wright, of Washington, has sentenced a colored man to fifteen years in the penitentiary for snatching a white woman's pocketbook. In passing sentence he said: \"From the viewpoint of the white women of the National Capital, it is not to be tolerated that a colored man should dare put his hands on one of them,\" and \"A man of your color, who lays his hand on a white woman will not be tolerated, if I can help it.\" On the same day that Justice Wright pronounced this sentence and dictum his court witnessed what the local papers describe as a pathetic scene. A young white man had been arrested for grand larceny. He pleaded guilty, but his aged mother appeared in court and interceded with the judge and with the man who had been robbed. The result was that the prisoner was officially given one year in the penitentiary and then, as soon as this sentence was pronounced, he was paroled and sent home with his mother.",
+      "status": "ok",
+      "confidence": 0.9751777648925781,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 11.1,
+    "at": "2026-10-06T21:19:22+00:00"
+  }
+}

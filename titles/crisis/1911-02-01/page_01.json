@@ -1,0 +1,169 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 112,
+        "y0": 165,
+        "x1": 1204,
+        "y1": 403
+      },
+      "text": "THE CRISIS\nA RECORD OF THE DARKER RACES",
+      "status": "ok",
+      "confidence": 0.6090660691261292,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 107,
+        "y0": 547,
+        "x1": 1196,
+        "y1": 612
+      },
+      "text": "Edited by W. E. BURGHARDT DU BOIS, with the co-operation of Oswald Garrison Villard, J. Max Barber, Charles Edward Russell, Kelly Miller, W. S. Braithwaite and M. D. Maclean.",
+      "status": "ok",
+      "confidence": 0.8470637798309326,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 113,
+        "y0": 685,
+        "x1": 528,
+        "y1": 1755
+      },
+      "text": "Along the Color Line 5\nOpinion . . . . 11\nPink Franklin's Reprieve . . . . 15\nEditorial . . . . 16\nCartoon . . . . 18\nBy JOHN HENRY ADAMS\nEditorial . . . . 20\nCharles Sumner . . . 22\nA Poem by\nJustice W. P. STAFFORD\nThe Negro as a Soldier 23\nBy Brig.-Gen. A. S. BURT\nJoao Candido . . . 25\nA Black Statesman\nof the Last Century 26\nBy Dr. FRANCES HOGGAN\nN.A.A.C.P. Meetings 27\nTalks About Women 28\nBy Mrs. J. E. MILHOLLAND\nThe Burden . . . . 29\nWhat to Read . . . 30\nA Library . . . . 31",
+      "status": "ok",
+      "confidence": 0.6584471464157104,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "text",
+      "bbox": {
+        "x0": 38,
+        "y0": 100,
+        "x1": 336,
+        "y1": 1951
+      },
+      "text": "Volume One\n\nEdited by W. E. BU\nJ. Max Barber, CH\n\nCONT\nAlong the Co\nOpinion .\nPink Franklin\nprieve .\nEditorial .\nCartoon .\nBy JOHN HER\nEditorial .\nCharles Sumner\nA Poem by\nJustice W. P. ST\nThe Negro as\nBy Brig.-Gen. A.\nJoao Candidio\nA Black S\nof the Last\nBy Dr. FRANCIS\nN.A.A.C.P.\nTalks About\nBy Mrs. J. E. M\nThe Burden\nWhat to Re\nA Library\n\nNational Ass\nAT TWENTY V\nONE DOLLAR",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 336,
+        "y0": 104,
+        "x1": 578,
+        "y1": 123
+      },
+      "text": "Wait, the image shows a series of horizontal lines.\nThe first line is empty.\nThe second line is a single line.\nThe third line is a single li",
+      "status": "repetition",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 516,
+        "y0": 451,
+        "x1": 804,
+        "y1": 490
+      },
+      "text": "FEBRUARY, 1911",
+      "status": "ok",
+      "confidence": 0.6508133411407471,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 336,
+        "y0": 633,
+        "x1": 578,
+        "y1": 1946
+      },
+      "text": "MENTS\nColor Line 5\n11\nMen's Re-\n15\n16\n18\nHENRY ADAMS\n20\nmer 22\nAFFORD\nSoldier 23\nS. S. BURT\n25\nStatesman\nCentury 26\nHOGGAN\nMeetings 27\nWomen 28\nMILHOLLAND\n29\nad 30\n31\n\nPUBLISHED\nassociation for the\nESEY STREET\n\nA YEAR",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "figure",
+      "bbox": {
+        "x0": 584,
+        "y0": 639,
+        "x1": 1181,
+        "y1": 1917
+      },
+      "text": "HON. HARRY W. BASS\nFirst Colored Member of the Pennsylvania Legislature. Elected in November, 1910.\n\nMONTHLY BY THE\nthe Advancement of Colored People\nNEW YORK CITY\n\nTEN CENTS A COPY",
+      "status": "ok",
+      "confidence": 0.2808215618133545,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 738,
+        "y0": 1928,
+        "x1": 1015,
+        "y1": 1948
+      },
+      "text": "Wait, the image has a line of text.\nThe text is:",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 578,
+        "y0": 104,
+        "x1": 738,
+        "y1": 123
+      },
+      "text": "========================================",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 1015,
+        "y0": 101,
+        "x1": 1253,
+        "y1": 1948
+      },
+      "text": "IS\nRACES\nNumber Four\nGarrison Villard,\nM. D. Maclean.\n\nJohn Henry Morris\n\nnia Legisla-\n0.\n\nRed People\nYORK CITY\n\nTS A COPY",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 85.1,
+    "at": "2026-10-06T21:07:59+00:00"
+  }
+}

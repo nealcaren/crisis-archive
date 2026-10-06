@@ -1,0 +1,113 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 513,
+        "y0": 94,
+        "x1": 667,
+        "y1": 120
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.6406240463256836,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 166,
+        "y0": 97,
+        "x1": 576,
+        "y1": 606
+      },
+      "text": "President Taft and the United States Supreme Court were denounced at the session of the Council of Confederated Methodist Bishops in Mobile, attended by colored bishops from all parts of the United States.\n\nBishop H. M. Turner, of Atlanta, Ga., said: \"The Negro has no rights in this country. The so-called Supreme Court of the United States has always been robbing the Negro of his rights, and Congress and the President of the United States sit silently by without saying a word.\"\n\nGovernor Blease, of South Carolina, among his other anti-Negro activities, has issued a proclamation revoking the commissions of all notaries public in South Carolina for the purpose of eliminating the colored notaries. Business men have been greatly embarrassed by the Governor's sweeping methods of carrying out his views.",
+      "status": "ok",
+      "confidence": 0.9715680480003357,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 169,
+        "y0": 622,
+        "x1": 577,
+        "y1": 1175
+      },
+      "text": "An ordinance providing for the further segregation of the races in Richmond, Va., has been prepared by Councilman A. L. Vonderlehr. City Attorney Pollard has reviewed the proposed ordinance and pronounces it constitutional and legal in every way. It follows the general plan of the Baltimore ordinance. The Baltimore segregation ordinance has been declared illegal in the local courts on a technicality, but a new one has been drafted.\n\nDuring the discussion of reapportionment of membership in Congress a plan to reduce Southern representation in States which disfranchised the Negro was urged by Messrs. Bennet and Olcott, of New York. It was opposed by Mr. Gaines, of West Virginia, and others, and was defeated.\n\nRepresentative Edward Green, the only Negro in the Illinois Assembly, held up and perhaps has defeated a joint resolution asking the Illinois delegation in Congress to support the demand for a Constitutional amendment to provide for the election of Senators by direct vote of the people.",
+      "status": "ok",
+      "confidence": 0.9756157994270325,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 163,
+        "y0": 1175,
+        "x1": 581,
+        "y1": 1552
+      },
+      "text": "Representative Green told the Judiciary Committee that the effect will be practically to disfranchise the Negro in every State in which there is a \"grandfather\" clause in the Constitution.\n\nSouth Carolina is discussing a proposal to work all able-bodied convicts in the chain gang, segregating Negroes and whites, however. In the debate the statement was made by Senator Clifton, of Sumter, that the State farms are unhealthy places to live upon. Senator Lawson, repeating Senator Clifton's assertions about the conditions of the State farms, was answered that \"Negroes could live there all right.\" Senator Lawson objected to the sending of the convicts to the farms if they are such unhealthy places that they could not be sold.",
+      "status": "ok",
+      "confidence": 0.9685741066932678,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 602,
+        "y0": 145,
+        "x1": 1016,
+        "y1": 624
+      },
+      "text": "The ordinance introduced into the Kansas City (Mo.) Council providing for the segregation of white and colored residents was defeated. It was returned to the lower house by the Public Improvements Committee with the recommendation that it should not be passed.\n\nA bill to prohibit intermarriage of white and colored persons (including Negroes and Indians) has been introduced in the Massachusetts legislature by Francis W. Peabody. The petition states that the Negroes are increasing twice as fast as the whites.\n\nThe intermarriage of whites with Japanese or any other \"colored\" race is prohibited in a bill passed by the legislature of Nevada. It makes the performance of such a marriage by a minister or justice of the peace a misdemeanor. Similar bills by preconcerted arrangement are pending in Washington and Michigan.",
+      "status": "ok",
+      "confidence": 0.9716495275497437,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 602,
+        "y0": 641,
+        "x1": 1014,
+        "y1": 1037
+      },
+      "text": "Oscar W. Underwood, of Birmingham. Ala., has been chosen chairman of the Ways and Means Committee of the next Congress. In an interview with a Washington correspondent he mentioned that in Wilcox county Mr. Taft received only two votes. As the colored men are Republican and \"all the white men Democrats,\" presumably the two votes were cast by colored men who \"met the educational and property\" qualification. The census of 1900 gives Wilcox county 5,967 Negro males over 21 years of age. Mr. Underwood does not mention what became of the other 5,965 voters. But as he is sure that the Negro will have to be still further eliminated from politics the outlook for the solitary two is not hopeful.\n\nTHE COURTS.",
+      "status": "ok",
+      "confidence": 0.9772613048553467,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 605,
+        "y0": 1037,
+        "x1": 1019,
+        "y1": 1554
+      },
+      "text": "Federal indictments were returned at Guthrie, Oklahoma, on January 28, against Duke W. Jeffries, a Democrat, and Willard Smith, a Republican, both wealthy farmers of this county, charging them with offences against the franchise and against the civil rights of Negroes. The specific charge against the men, who were election officials at Seward when the general election was held on November 8, is that they enforced the provisions of the \"grandfather\" clause amendment to the State constitution. The indictments were returned as a result of the recent instruction to the grand jury by Judge Cotteral who held that the federal constitution is supreme over any State law in granting the elective franchise, and also as a result of the statement, issued prior to the recent election, by Judge John Embry, United States attorney here, to the effect that violations of the election law, reported to him, would be prosecuted.\n\nThe United States Circuit Court of Appeals decided, on February 11, that Oklahoma's \"Jim Crow\" law is constitutional.",
+      "status": "ok",
+      "confidence": 0.9773552417755127,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.4,
+    "at": "2026-10-06T21:16:26+00:00"
+  }
+}

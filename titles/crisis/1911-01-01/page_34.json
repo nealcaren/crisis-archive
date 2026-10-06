@@ -1,0 +1,239 @@
+{
+  "page": 34,
+  "image": "images/page_34.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 419,
+        "y0": 80,
+        "x1": 997,
+        "y1": 324
+      },
+      "text": "K'S School of Dressmaking\nly, Embroidering and Ladies' Tailoring Taught by the Improved French System\ny of the Branches, and Diplomas Awarded the Successful Graduates",
+      "status": "ok",
+      "confidence": 0.8444734811782837,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 176,
+        "y0": 129,
+        "x1": 1001,
+        "y1": 308
+      },
+      "text": "Mme. BECK'S School of Dressmaking\nDesigning, Cutting, Fitting, Embroidering and Ladies' Tailoring Taught by the Improved French System\nSeparate Courses in Any of the Branches, and Diplomas Awarded the Successful Graduates",
+      "status": "ok",
+      "confidence": 0.9225581288337708,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 419,
+        "y0": 384,
+        "x1": 997,
+        "y1": 467
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 174,
+        "y0": 432,
+        "x1": 997,
+        "y1": 788
+      },
+      "text": "The Firm for the Negro Farmers and Shippers to Deal With\nTry Us Before Shipping Elsewhere.\nFRUITS AND VEGETABLES OYSTERS AND GAME POULTRY AND EGGS\nCOTTMAN & COTTMAN\nWHOLESALE COMMISSION MERCHANTS. 107 Pine Street, Philadelphia, Pa.\nReference: The People's Savings Bank Bell 'Phone Connection: Lombard 4035\n\nNYANZA DRUG CO.\n(Incorporated.)\n35 W. 135th ST., NEW YORK CITY\nCAPITAL STOCK, $15,000\nShares $5.00\nWrite for information. The best paying investment ever offered our people.\n\nNYANZA PHARMACY\nis the only colored Drug Store in New York City, and the purpose of the Corporation is to establish chains of stores, carrying Drugs and everything incidental to the Drug business. It is really the indisputable duty of every self-respecting member of the race to give it his support.\n\nAGENTS WANTED EVERYWHERE",
+      "status": "ok",
+      "confidence": 0.8650440573692322,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 419,
+        "y0": 787,
+        "x1": 997,
+        "y1": 1293
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 171,
+        "y0": 806,
+        "x1": 994,
+        "y1": 1032
+      },
+      "text": "$100,000 STOCK ISSUE\nTO BUILD AN\nAuditorium in Greater New York\nCONTAINING\nReception, Concert and Banquet Halls, Modern Offices and Lodge Rooms\nThis proposition is bound to succeed, because it is giving the people what they want.\nWe are offering\n10,000 Shares at $10 Each, Par Value",
+      "status": "ok",
+      "confidence": 0.8106852173805237,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 174,
+        "y0": 995,
+        "x1": 995,
+        "y1": 1131
+      },
+      "text": "10,000 Shares at $10 Each, Par Value\nStock sold in blocks to suit the investor on easy terms.\nThe capital already in hand and the rapid increase of business means the realization of the Auditorium. This enterprise assures each investor Safety of Capital and Growth of Income. Call or write for further particulars.\nI. L. MOORMAN, Mgr., 83 W. 134th St.",
+      "status": "ok",
+      "confidence": 0.8963448405265808,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 421,
+        "y0": 1164,
+        "x1": 992,
+        "y1": 1281
+      },
+      "text": "SOLOMON GARRETT\nTonsorial Artist",
+      "status": "ok",
+      "confidence": 0.950229287147522,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "abandon",
+      "bbox": {
+        "x0": 176,
+        "y0": 80,
+        "x1": 203,
+        "y1": 101
+      },
+      "text": "34",
+      "status": "ok",
+      "confidence": 0.8269569277763367,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 177,
+        "y0": 355,
+        "x1": 472,
+        "y1": 386
+      },
+      "text": "238 WEST 53d STREET",
+      "status": "ok",
+      "confidence": 0.6962534785270691,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 174,
+        "y0": 386,
+        "x1": 515,
+        "y1": 629
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 174,
+        "y0": 788,
+        "x1": 515,
+        "y1": 1157
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "figure",
+      "bbox": {
+        "x0": 175,
+        "y0": 1157,
+        "x1": 408,
+        "y1": 1540
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.8286959528923035,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 466,
+        "y0": 324,
+        "x1": 706,
+        "y1": 347
+      },
+      "text": "Day and Evening Classes",
+      "status": "ok",
+      "confidence": 0.8616960048675537,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 765,
+        "y0": 354,
+        "x1": 997,
+        "y1": 384
+      },
+      "text": "NEW YORK CITY",
+      "status": "ok",
+      "confidence": 0.7972025275230408,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 506,
+        "y0": 1293,
+        "x1": 907,
+        "y1": 1488
+      },
+      "text": "782 Fulton Street, near Adelphi Street\nBROOKLYN, N. Y.\nAll Kinds of Workmanship\nCigars and Tobacco for Sale\nDaily and Weekly Papers and Magazines\nBrooklyn Agents for THE CRISIS",
+      "status": "ok",
+      "confidence": 0.6167327761650085,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.5,
+    "at": "2026-10-06T21:06:16+00:00"
+  }
+}

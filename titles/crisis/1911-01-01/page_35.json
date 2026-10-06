@@ -1,0 +1,113 @@
+{
+  "page": 35,
+  "image": "images/page_35.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "figure",
+      "bbox": {
+        "x0": 403,
+        "y0": 90,
+        "x1": 909,
+        "y1": 860
+      },
+      "text": "HENRY PHIPP'S MODEL TENEMENTS FOR COLORED FAMILIES",
+      "status": "ok",
+      "confidence": 0.9539592266082764,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 95,
+        "y0": 886,
+        "x1": 909,
+        "y1": 943
+      },
+      "text": "Cosmopolitan Automobile School",
+      "status": "ok",
+      "confidence": 0.8886948227882385,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 97,
+        "y0": 966,
+        "x1": 607,
+        "y1": 1361
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.955287516117096,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 89,
+        "y0": 1368,
+        "x1": 912,
+        "y1": 1464
+      },
+      "text": "course or opportunities in the automobile business we shall be glad to hear from you.\nCOSMOPOLITAN AUTO`CO. of New York\nTelephone 803 Columbus School: Hotel Maceo, 213 West 53d St. LEE A. POLLARD, Mgr.",
+      "status": "ok",
+      "confidence": 0.5679355263710022,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 91,
+        "y0": 99,
+        "x1": 381,
+        "y1": 542
+      },
+      "text": "Do You Want a Position?\nBest Places\nBest Families\nThe New York and New Jersey Industrial Exchange, through its Employment Agency Department, furnishes more Colored Help to the leading families in the city and in the suburban towns than any other medium in New York.\nIt is located in the acknowledged best section of the city, being in the Henry Phipps' Model Tenements for Colored Families. No other Exchange is so well patronized by the foremost families, many of whom have never employed Colored Help before.",
+      "status": "ok",
+      "confidence": 0.9305463433265686,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 93,
+        "y0": 544,
+        "x1": 381,
+        "y1": 858
+      },
+      "text": "Our demand for competent Southern Help exceeds the supply many times over. Call and register. No charge. Bring your references. We can place you in a good position. If inconvenient to pay our required office fee, you are at liberty to take advantage of our Credit System. This new feature has proven extremely beneficial to many worthy persons seeking employment.\n\nN.Y. & N. J. Industrial Exchange\n237-239 West 63d Street\nTelephones 5016-4546 Columbus",
+      "status": "ok",
+      "confidence": 0.9251976609230042,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 629,
+        "y0": 945,
+        "x1": 911,
+        "y1": 1352
+      },
+      "text": "The aim of the School will be to give its students a sufficient knowledge of the theory and practice of Automobile and Automobiling to enable them to meet the emergencies that constantly arise to make those who complete the course competent to run machines, take them apart and assemble them properly, and to make such repairs as may be necessary and possible on the road.\n\nTUITION—Six weeks' course, including Shop and Road Work, $25; installations if you wish, payable $5 on enrollment and $20 by the completion of the fourth week.\n\nSHOP WORK—Consists of naming all the parts of the automobile, taking the engine and the rest of the automobile apart and putting them together again properly, and making such repairs as may be necessary and possible.\n\nROAD WORK—When the shop work is complete the student takes up the operating and handling of cars on the road until he is competent.",
+      "status": "ok",
+      "confidence": 0.9517703652381897,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.2,
+    "at": "2026-10-06T21:06:21+00:00"
+  }
+}

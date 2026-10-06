@@ -1,0 +1,57 @@
+{
+  "page": 19,
+  "image": "images/page_19.jpg",
+  "width": 1078,
+  "height": 1604,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 34,
+        "y0": 85,
+        "x1": 263,
+        "y1": 114
+      },
+      "text": "DECEMBER, 1910",
+      "status": "ok",
+      "confidence": 0.4326710104942322,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 0,
+        "y0": 106,
+        "x1": 992,
+        "y1": 1401
+      },
+      "text": "DECEMBER, 1910",
+      "status": "ok",
+      "confidence": 0.8429235816001892,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 497,
+        "y0": 1423,
+        "x1": 991,
+        "y1": 1528
+      },
+      "text": "THE CHRISTMAS RECKONING At Christmastide two million Southern Negroes ma their annual wage reckoning with the plantation owne and either receive the small balance due or are remand to debt slavery.",
+      "status": "ok",
+      "confidence": 0.8909595012664795,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 3.4,
+    "at": "2026-10-06T20:57:38+00:00"
+  }
+}

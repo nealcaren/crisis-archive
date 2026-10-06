@@ -1,0 +1,183 @@
+{
+  "page": 23,
+  "image": "images/page_23.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 391,
+        "y0": 84,
+        "x1": 623,
+        "y1": 109
+      },
+      "text": "SOCIAL CONTROL",
+      "status": "ok",
+      "confidence": 0.857688844203949,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 135,
+        "x1": 914,
+        "y1": 590
+      },
+      "text": "soned with, although this dangerous manifestation must constantly be reckoned with as a deterrent to progress and a menace to orderly living. Moreover, this race antagonism is very close to the one thing in human relations which is uglier than itself, namely, sex antagonism, and in every defense made in its behalf an appeal to the latter antagonism is closely interwoven. Many men in every community justify violence when it is committed under the impulsion of these two antagonisms, and others carelessly assert that great laws of human intercourse, first and foremost founded upon justice and right relations between man and man, should thus be disregarded and destroyed.",
+      "status": "ok",
+      "confidence": 0.977965772151947,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 137,
+        "x1": 494,
+        "y1": 877
+      },
+      "text": "other those things which should be accorded as a courtesy, and every meeting between representatives of the two races is easily characterized by insolence and arrogance. To the friction of city life, and the complications of modern intercourse, is added this primitive race animosity which should long since have been outgrown. When the white people in a city are tacitly leagued against the colored people within its borders, the result is sure to be disastrous, but there are still graver dangers in permitting the primitive instinct to survive and to become self-assertive. When race antagonism manifests itself through lynching, it defiantly insists that it is superior to all those laws which have been gradually evolved during thousands of years, and which form at once the record and the instrument of civilization. The fact that this race antagonism enables the men acting under its impulsion to justify themselves in their lawlessness constitutes the great danger of the situation. The men claim that they are executing a primitive retribution which precedes all law, and in this belief they put themselves in a position where they cannot be rea-",
+      "status": "ok",
+      "confidence": 0.9754512906074524,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 592,
+        "x1": 914,
+        "y1": 1071
+      },
+      "text": "If the National Association for the Advancement of Colored People will soberly take up every flagrant case of lawbreaking, and if it allow no withdrawal of constitutional rights to pass unchallenged, it will perform a most useful service to America and for the advancement of all its citizens. Many other opportunities may be open in time to such an association, but is not this its first and most obvious obligation?",
+      "status": "ok",
+      "confidence": 0.9780343174934387,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 98,
+        "y0": 877,
+        "x1": 494,
+        "y1": 1071
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 351,
+        "y0": 1031,
+        "x1": 708,
+        "y1": 1227
+      },
+      "text": "BY LESLIE PINCKNEY HILL.\n\nLord, who am I to teach the way\nTo little children day by day,\nTo prone myself to go astray?\n\nI teach them Knowledge, but I know\nHow faint they flicker, and how low\nThe candles of my knowledge glow.",
+      "status": "ok",
+      "confidence": 0.9233154654502869,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 98,
+        "y0": 1227,
+        "x1": 494,
+        "y1": 1415
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1227,
+        "x1": 914,
+        "y1": 1415
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 351,
+        "y0": 1242,
+        "x1": 793,
+        "y1": 1487
+      },
+      "text": "I teach them Power to will and do,\nBut only now to learn anew\nMy own great weakness through and through.\n\nI teach them Love for all mankind\nAnd all God's creatures; but I find\nMy love comes lagging still behind.\n\nLord, if their guide I still must be,\nO let the little children see\nThe teacher leaning hard on thee!",
+      "status": "ok",
+      "confidence": 0.8967339396476746,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 448,
+        "y0": 918,
+        "x1": 568,
+        "y1": 955
+      },
+      "text": "𐅅𐅅𐅅",
+      "status": "ok",
+      "confidence": 0.816967248916626,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 419,
+        "y0": 994,
+        "x1": 592,
+        "y1": 1019
+      },
+      "text": "THE TEACHER.",
+      "status": "ok",
+      "confidence": 0.8650198578834534,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 885,
+        "y0": 83,
+        "x1": 913,
+        "y1": 104
+      },
+      "text": "23",
+      "status": "ok",
+      "confidence": 0.8381228446960449,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.7,
+    "at": "2026-10-06T21:04:23+00:00"
+  }
+}

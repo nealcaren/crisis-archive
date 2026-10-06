@@ -1,0 +1,253 @@
+{
+  "page": 35,
+  "image": "images/page_35.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 30,
+        "y0": 92,
+        "x1": 506,
+        "y1": 1932
+      },
+      "text": "course or opportunities in the automobiles\n\nCOSMOPOLITA\n\nTelephone 803 Columbus School: H\n\nThe Firm for the Negro\n\nTry Us\n\nFRUITS AND VEGETABLES\n\nCOTTM\n\nWHOLESALE COMMISSION\n\nReference: The People's Savings\n\nNYANZA DRUG CO\n\n(Incorporated.)\n\n35 W. 135th ST., NEW YORK CI\n\nCAPITAL STOCK, $15,000\n\nShares $5.00\n\nWrite for information. The best pay investment ever offered our people.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 98,
+        "y0": 143,
+        "x1": 1160,
+        "y1": 220
+      },
+      "text": "Cosmopolitan Automobile School",
+      "status": "ok",
+      "confidence": 0.6246083974838257,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 789,
+        "y0": 222,
+        "x1": 1154,
+        "y1": 649
+      },
+      "text": "The aim of the School will be to give its students a sufficient knowledge of the theory and practice of Automobile and Automobiling to enable them to meet the emergencies that constantly arise to make those who complete the course competent to run machines, take them apart and assemble them properly, and to make such repairs as may be necessary and possible on the road.\n\nTUITION—Six weeks' course, including Shop and Road Work, $25; installments if you wish, payable $5 on enrollment and $20 by the completion of the fourth week.\n\nSHOP WORK—Consists of naming all the parts of the automobile, taking the engine and the rest of the automobile apart and putting them together again properly, and making such repairs as may be necessary and possible.",
+      "status": "ok",
+      "confidence": 0.9521679282188416,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure",
+      "bbox": {
+        "x0": 107,
+        "y0": 248,
+        "x1": 762,
+        "y1": 752
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.965390145778656,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 790,
+        "y0": 648,
+        "x1": 1152,
+        "y1": 746
+      },
+      "text": "ROAD WORK-When the shop work is complete the student takes up the operating and handling of cars on the road until he is competent.",
+      "status": "ok",
+      "confidence": 0.9011638164520264,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 527,
+        "y0": 746,
+        "x1": 1154,
+        "y1": 1170
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 102,
+        "y0": 761,
+        "x1": 1153,
+        "y1": 879
+      },
+      "text": "course or opportunities in the automobile business we shall be glad to hear from you. COSMOPOLITAN AUTO CO. of New York Telephone 803 Columbus School: Hotel Maceo, 213 West 53d St. LEE A. POLLARD, Mgr.",
+      "status": "ok",
+      "confidence": 0.7317514419555664,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 102,
+        "y0": 923,
+        "x1": 1149,
+        "y1": 1131
+      },
+      "text": "The Firm for the Negro Farmers and Shippers to Deal With Try Us Before Shipping Elsewhere.\nFRUITS AND VEGETABLES OYSTERS AND GAME POULTRY AND EGGS\nCOTTMAN & COTTMAN\nWHOLESALE COMMISSION MERCHANTS. 107 Pine Street, Philadelphia, Pa.\nReference: The People's Savings Bank Bell 'Phone Connection: Lombard 4035",
+      "status": "ok",
+      "confidence": 0.6788665056228638,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 510,
+        "y0": 1170,
+        "x1": 1108,
+        "y1": 1351
+      },
+      "text": "D. NYANZA PHARMACY is the only colored Drug Store in New York City, the purpose of the Corporation is to establish chain stores, carrying Drugs and everything incidental to Drug business. It is really the indisputable duty every self-respecting member of the race to give it support.",
+      "status": "ok",
+      "confidence": 0.9086564183235168,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 100,
+        "y0": 1171,
+        "x1": 538,
+        "y1": 1377
+      },
+      "text": "NYANZA DRUG CO.\n(Incorporated.)\n35 W. 135th ST., NEW YORK CITY\nCAPITAL STOCK, $15,000\nShares $5.00\nWrite for information. The best paying investment ever offered our people.",
+      "status": "ok",
+      "confidence": 0.7868266701698303,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 510,
+        "y0": 1225,
+        "x1": 1146,
+        "y1": 1597
+      },
+      "text": "is the only colored Drug Store in New York City, and the purpose of the Corporation is to establish chains of stores, carrying Drugs and everything incidental to the Drug business. It is really the indisputable duty of every self-respecting member of the race to give it his support.\n\nAGENTS WANTED EVERYWHERE\n\nOLOMON GARRETT\nTonsorial Artist",
+      "status": "ok",
+      "confidence": 0.8945568203926086,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 527,
+        "y0": 1375,
+        "x1": 1154,
+        "y1": 1597
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "figure",
+      "bbox": {
+        "x0": 101,
+        "y0": 1411,
+        "x1": 402,
+        "y1": 1908
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.8774197101593018,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "title",
+      "bbox": {
+        "x0": 418,
+        "y0": 1433,
+        "x1": 1145,
+        "y1": 1944
+      },
+      "text": "SOLOMON GARRETT\nTonsorial Artist\n782 Fulton Street, near Adelphi Street\nBROOKLYN, N. Y.\nAll Kinds of Workmanship\nCigars and Tobacco for Sale\nDaily and Weekly Papers and Magazines\nBrooklyn Agents for THE CRISIS",
+      "status": "ok",
+      "confidence": 0.9578257203102112,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "text",
+      "bbox": {
+        "x0": 510,
+        "y0": 1846,
+        "x1": 1154,
+        "y1": 1970
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.48475149273872375,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 510,
+        "y0": 1944,
+        "x1": 735,
+        "y1": 2057
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.43414852023124695,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "text",
+      "bbox": {
+        "x0": 527,
+        "y0": 1970,
+        "x1": 1154,
+        "y1": 2057
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.6,
+    "at": "2026-10-06T21:14:49+00:00"
+  }
+}

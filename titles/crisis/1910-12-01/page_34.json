@@ -1,0 +1,99 @@
+{
+  "page": 34,
+  "image": "images/page_34.jpg",
+  "width": 1084,
+  "height": 1609,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 376,
+        "y0": 100,
+        "x1": 721,
+        "y1": 129
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.857732892036438,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 137,
+        "y0": 103,
+        "x1": 166,
+        "y1": 126
+      },
+      "text": "34",
+      "status": "ok",
+      "confidence": 0.7178188562393188,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 179,
+        "y0": 148,
+        "x1": 928,
+        "y1": 466
+      },
+      "text": "STANDARDIZE\nWITH THE\nL.C. Smith & Bros.\nTypewriter",
+      "status": "ok",
+      "confidence": 0.7099208831787109,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "figure",
+      "bbox": {
+        "x0": 183,
+        "y0": 478,
+        "x1": 935,
+        "y1": 1064
+      },
+      "text": "(ALL THE WRITING\nALWAYS IN SIGHT)\n\nNo.2 L.C. SMITH & BROS. TYPEWRITER CO. No.2\n\nThe DuPont Powder Company of Wilmington,\nDel., the most prominent manufacturers of explosives for Government and private use in the world,\npurchased on a single order—",
+      "status": "ok",
+      "confidence": 0.958643913269043,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 185,
+        "y0": 1079,
+        "x1": 930,
+        "y1": 1415
+      },
+      "text": "521 L. C. Smith & Bros. Typewriters\nTo Standardize their equipment, acting on unanimous recommendation of a board of five of their mechanical engineers, to whom all competing makes were submitted.\n\nIt will pay you to standardize your typewriter equipment with the L. C. Smith & Bros. Typewriter for the same reason that decided this shrewd, hard-headed business corporation—superior merit of the machine!\n\nAnd the reason holds good whether you use one typewriter or five hundred.\n\nWrite To-day for the Free Book.",
+      "status": "ok",
+      "confidence": 0.9538278579711914,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "isolate_formula",
+      "bbox": {
+        "x0": 184,
+        "y0": 1392,
+        "x1": 926,
+        "y1": 1516
+      },
+      "text": "L. C. SMITH & BROS. TYPEWRITER CO.\nSYRACUSE, N. Y., AND ALL LARGE CITIES",
+      "status": "ok",
+      "confidence": 0.5530986189842224,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 3.5,
+    "at": "2026-10-06T21:00:59+00:00"
+  }
+}

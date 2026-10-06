@@ -1,0 +1,183 @@
+{
+  "page": 15,
+  "image": "images/page_15.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 236,
+        "y0": 685,
+        "x1": 1013,
+        "y1": 732
+      },
+      "text": "PINK FRANKLIN'S REPRIEVE",
+      "status": "ok",
+      "confidence": 0.9368143677711487,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 547,
+        "y0": 145,
+        "x1": 693,
+        "y1": 176
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.7756606936454773,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 96,
+        "y0": 210,
+        "x1": 606,
+        "y1": 411
+      },
+      "text": "Texas, which are the most densely populated of the entire twenty-two associational districts. Each wagon is to be in the hands of a competent missionary, well supplied with good Christian and wholesome reading matter that all our Negro homes be elevated instead of allowing them, many of them, to continue as they are.\"",
+      "status": "ok",
+      "confidence": 0.9742974042892456,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 97,
+        "y0": 443,
+        "x1": 607,
+        "y1": 584
+      },
+      "text": "SOUTH AFRICA.\nThat South Africa is facing a serious problem in the question of how best to treat with its Asiatic and Negro population was asserted by Rudolphe Lemieux,",
+      "status": "ok",
+      "confidence": 0.9579620361328125,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 531,
+        "y0": 613,
+        "x1": 720,
+        "y1": 659
+      },
+      "text": "尬",
+      "status": "ok",
+      "confidence": 0.47776421904563904,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 101,
+        "y0": 753,
+        "x1": 610,
+        "y1": 1438
+      },
+      "text": "Last summer it was brought to the attention of the Association that a petition for pardon, properly presented to the Governor of South Carolina, might be successful in saving the life of Pink Franklin. Thomas E. Miller, President of the State Colored College at Orangeburg, offered his services in connection with circulating the petition and seeing that it was properly presented to Governor Ansel. After the Supreme Court of the United States had declined to try the case, and Franklin was remanded to the penitentiary for resentence to death, his colored attorneys, Adams and Moorer, who had had charge of the case from the beginning, made an appeal for a new trial, on the ground of newly discovered evidence. The Association caused their brief to be submitted to two prominent New York lawyers—one of them an ex-Assistant District Attorney—and since, in the judgment of these lawyers the brief did not show sufficient grounds for the granting of a new trial, the Association decided to bend its energies to having the case discontinued in the courts, and to the presentation of an appeal for mercy to the Governor.",
+      "status": "ok",
+      "confidence": 0.9771023988723755,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 100,
+        "y0": 1441,
+        "x1": 611,
+        "y1": 1961
+      },
+      "text": "Mr. Oswald Garrison Villard, Acting Chairman of the Executive Committee, had the case brought to the attention of President Taft, who, by the courtesy of exUnited States Attorney-General Charles J. Bonaparte was placed in possession of Mr. Bonaparte's brief prepared for the Supreme Court of the United States. The President felt strongly that Franklin should not hang, and personally wrote to Governor Ansel, bespeaking his good offices when the petition should be presented to him. Mr. Robert C. Ogden, whose interest the Association also secured, wrote to the President of the University of South Carolina, who in turn wrote to Governor Ansel in Franklin's behalf. It was found, owing to the political agitation which had resulted in connection with the case—the original warrant of arrest having been issued under the so-called \"ag-",
+      "status": "ok",
+      "confidence": 0.9746540784835815,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1108,
+        "y0": 146,
+        "x1": 1139,
+        "y1": 172
+      },
+      "text": "15",
+      "status": "ok",
+      "confidence": 0.8126277327537537,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 638,
+        "y0": 212,
+        "x1": 1148,
+        "y1": 585
+      },
+      "text": "Postmaster-General of Canada, who has arrived in the United States from England. Lemieux has returned from the inauguration ceremonies of the United Commonwealth of South Africa, which he attended as the Canadian representative. \"In Natal alone there are 125,000 Asiatics and only 100,000 whites,\" he said, \"and it will be necessary soon to decide what political and business attitude is to be mantained toward the imported laborers. Other States must come out flatly and announce whether they will follow the example of Cape Colony and give the Asiatic and the Negro political status.\"",
+      "status": "ok",
+      "confidence": 0.9735625386238098,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 645,
+        "y0": 755,
+        "x1": 1150,
+        "y1": 1244
+      },
+      "text": "ricultural contract\" law which encourages peonage—that our success with the Governor would be doubtful if Franklin's original lawyers were retained to present the appeal for pardon. They were therefore prevailed upon to relinquish the case to this Association, and Claude E. Sawyer of Aiken, was employed. Benjamin F. Hagood, of the law firm of Mordecai, Gadsden & Hagood, of Charleston—the largest law firm in the State of South Carolina—also volunteered his services in pleading Franklin's cause before the Governor. The State, of Columbia, S. C., has steadfastly supported Franklin, and published a number of editorials in his favor, as did also the News and Courier, of Charleston. Mr. Wannamaker, the editor of the latter paper, was one of the jurors at Franklin's first trial.",
+      "status": "ok",
+      "confidence": 0.9784365296363831,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 645,
+        "y0": 1245,
+        "x1": 1152,
+        "y1": 1564
+      },
+      "text": "As soon as the relatives of Valentine, the murdered man, learned that the Association was moving for Franklin's pardon, they circulated a petition to the Governor not to interfere with the execution; but a reprieve was first granted until January 31st, and on January 6th the Governor finally commuted the sentence of death to life imprisonment. The Association will not cease its efforts, however, to secure Franklin's release from prison. The Association has received the following letter among others:",
+      "status": "ok",
+      "confidence": 0.9770118594169617,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 647,
+        "y0": 1565,
+        "x1": 1156,
+        "y1": 1962
+      },
+      "text": "\"I have just received your letter of the 6th inst. and am very much gratified to learn that Pink Franklin's sentence has been commuted. I agree with you in thinking that the penalty of life imprisonment is entirely too severe for his offence, and that it would have accorded with justice for him to be freely pardoned; nevertheless, since his life is saved, there is an opportunity to secure later a further measure of clemency for him. I think your Association has every reason to be gratified at the result of its efforts in this case; and I remain, as ever,\n\"Yours most truly,\n(Signed) \"CHARLES J. BONAPARTE.\"",
+      "status": "ok",
+      "confidence": 0.9763486385345459,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.0,
+    "at": "2026-10-06T21:11:50+00:00"
+  }
+}

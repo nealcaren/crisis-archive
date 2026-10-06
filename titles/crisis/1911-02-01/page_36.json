@@ -1,0 +1,169 @@
+{
+  "page": 36,
+  "image": "images/page_36.jpg",
+  "width": 1395,
+  "height": 2081,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 694,
+        "y0": 90,
+        "x1": 1381,
+        "y1": 1951
+      },
+      "text": "Apartments\nFOR COLORED TENANTS\n\nMANHATTAN\n\nMODERN HOUSES\nNorth STREET (bet. Lenox and Fifth\nrooms and bath; steam heat; hot\n9 to $28.\n\nSTREET\n; hot water. Rents, $18 and $19.\n\nET (bet. Lenox and Seventh Aves.)\nrooms and bath. $65 per month.\n\nBRONX\n(near 164th St.)\n rooms and bath; steam heat and\nonly $16 and $17.\nsteam plant has just been placed in\npressuring good heat.\n\nHouses at Reasonable Rents in Desirable\n\nk. Apply to Janitors on Premises or to\n\nBryton, Jr., Company\nner Negro Real Estate Agents\nWest 134th St., New York City",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 151,
+        "y0": 93,
+        "x1": 694,
+        "y1": 1949
+      },
+      "text": "FOR DESIRABLE\n\nTWO FINE\n41 and 45 WEST 138th\nAves.)\n\nNew law; 4 and 5\nwater. Rents, $19\n\n116 WEST 135th STR\n4 rooms and bath\n\n158 WEST 133d STREET\nPrivate house, 10\n\n998 BROOK AVENUE\n4 and 5 large, light\nhot water. Rents\nNOTE.—A new st\nthis house, thus as\n\nFine One and Two-Family\nSections of City or Suburbs.\n\nLowest Rents in New York\n\nPhilip A. Pay\nNew York's Pioneer\n\nTELEPHONES\n917 - '918 HARLEM\n\n67 W",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 246,
+        "y0": 159,
+        "x1": 1316,
+        "y1": 368
+      },
+      "text": "Desirable Apartments FOR DESIRABLE COLORED TENANTS",
+      "status": "ok",
+      "confidence": 0.8485952019691467,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 375,
+        "y0": 428,
+        "x1": 1182,
+        "y1": 687
+      },
+      "text": "MANHATTAN\nTWO FINE MODERN HOUSES\n41 and 45 WEST 138th STREET (bet. Lenox and Fifth Aves.)\nNew law; 4 and 5 rooms and bath; steam heat; hot water. Rents, $19 to $28.",
+      "status": "ok",
+      "confidence": 0.7787050604820251,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 378,
+        "y0": 779,
+        "x1": 1173,
+        "y1": 876
+      },
+      "text": "116 WEST 135th STREET\n4 rooms and bath; hot water. Rents, $18 and $19.",
+      "status": "ok",
+      "confidence": 0.8819961547851562,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 376,
+        "y0": 910,
+        "x1": 1176,
+        "y1": 999
+      },
+      "text": "158 WEST 133d STREET (bet. Lenox and Seventh Aves.)\nPrivate house, 10 rooms and bath. $65 per month.",
+      "status": "ok",
+      "confidence": 0.7938319444656372,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 375,
+        "y0": 1175,
+        "x1": 1181,
+        "y1": 1387
+      },
+      "text": "998 BROOK AVENUE (near 164th St.)\n4 and 5 large, light rooms and bath; steam heat and hot water. Rents only $16 and $17.\nNOTE.—A new steam plant has just been placed in this house, thus assuring good heat.",
+      "status": "ok",
+      "confidence": 0.8215640783309937,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 248,
+        "y0": 1479,
+        "x1": 1307,
+        "y1": 1574
+      },
+      "text": "Fine One and Two-Family Houses at Reasonable Rents in Desirable Sections of City or Suburbs.",
+      "status": "ok",
+      "confidence": 0.9375459551811218,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 306,
+        "y0": 1606,
+        "x1": 1273,
+        "y1": 1650
+      },
+      "text": "Lowest Rents in New York. Apply to Janitors on Premises or to",
+      "status": "ok",
+      "confidence": 0.8330881595611572,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 244,
+        "y0": 1692,
+        "x1": 1311,
+        "y1": 1902
+      },
+      "text": "Philip A. Payton, Jr., Company\nNew York's Pioneer Negro Real Estate Agents\nTELEPHONES\n917-918 HARLEM 67 West 134th St., New York City",
+      "status": "ok",
+      "confidence": 0.7559501528739929,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "abandon",
+      "bbox": {
+        "x0": 665,
+        "y0": 1960,
+        "x1": 896,
+        "y1": 1989
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.6047853827476501,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.5,
+    "at": "2026-10-06T21:14:59+00:00"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "page": 6,
+  "image": "images/page_06.jpg",
+  "width": 1078,
+  "height": 1606,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 461,
+        "y0": 95,
+        "x1": 609,
+        "y1": 120
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.7563374042510986,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 126,
+        "y0": 96,
+        "x1": 142,
+        "y1": 116
+      },
+      "text": "6",
+      "status": "ok",
+      "confidence": 0.7844944596290588,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 125,
+        "y0": 147,
+        "x1": 523,
+        "y1": 706
+      },
+      "text": "ing the Seventh Ward of Philadelphia, Penn., will be the first Negro to sit in the Pennsylvania Legislature. Bass's vote exceeded that of Tener, due to the large Negro registration in the ward. Bass was born in Chester County, and is 44 years old. He lives at 1428 Lombard street.\n\nThe Democrats of West Virginia had the following plank in their platform of 1908: \"Believing that the extension of the elective franchise to a race inferior in intelligence and without preparation for the wise and prudent exercise of the privilege so vital to the maintenance of good government was a mistake, if not a crime, committed by the Republican party during the reign of passion and prejudice following the Civil War, for political ends and purposes, we declare that the Democratic party is in favor of so amending the Constitution as to preserve the purity of the ballot and the electorate of the State from the evils resulting from conferring power and privilege upon those who are unfitted to appreciate its importance as it affects the stability and preservation of good government.\" The question is now whether they will seek to carry out the declaration.",
+      "status": "ok",
+      "confidence": 0.9748817682266235,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 126,
+        "y0": 721,
+        "x1": 527,
+        "y1": 1263
+      },
+      "text": "In the Seventh Congressional District of Indiana, 7,000 Negro votes held the balance of power in the last election.\n\nIn Cairo, Ill., there was a fierce campaign over the present sheriff, Nellis, who on the evening of February 17 of the present year repulsed, with the aid of Negro deputies, an assault upon the county jail in Cairo. The mob had gathered in the saloons on the levee, and, inflamed with liquor, marched upon the jail with the purpose of taking from the sheriff's custody and stringing up to a convenient post a Negro purse snatcher, John Pratt, who had been arrested the day before. One of the mob was killed. Nellis was defeated.\n\nThe Fairmount, W. Va., Times, says: \"Stick to the Negro till after the election, then organize a white Republican party if you want to,\" is the injunction said to have emanated from the White House yesterday, when John G. Capers, former Commissioner of Internal Revenue, was summoned there for a conversation with the President. Capers has since formed a lily-white Republican party in South Carolina.",
+      "status": "ok",
+      "confidence": 0.9710116982460022,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 131,
+        "y0": 1287,
+        "x1": 531,
+        "y1": 1508
+      },
+      "text": "In Ohio, Secretary of State Thompson, after a telephone conversation with Clerk Adolph Haas, granted the Cuyahoga County Board of Elections a hearing on the question as to whether registration officers may ask a man whether he is white or colored.\n\nOne candidate for office in Oklahoma made enemies by declaring that the best blood of the white South ran in the veins of 90 per cent. of the Negroes of the State.",
+      "status": "ok",
+      "confidence": 0.9377480149269104,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 547,
+        "y0": 147,
+        "x1": 949,
+        "y1": 451
+      },
+      "text": "The Independent Political League carried on a vigorous and widespread campaign among the colored voters in Northern and Western States. They had a large number of campaign speakers and organizers at work in New York, New Jersey, Massachusetts, Connecticut, Rhode Island, Michigan, Ohio, Illinois, Indiana and Missouri, and are co-operating with independent Republican and Democratic organizations in Maine, North Carolina and Tennessee, and with similar bodies in the other States mentioned above.\n\nJUDICIAL DECISIONS.",
+      "status": "ok",
+      "confidence": 0.9763219356536865,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 547,
+        "y0": 462,
+        "x1": 950,
+        "y1": 1048
+      },
+      "text": "In the United States Circuit Court of the District of Maryland, Judge Morris made a decision, October 28th, declaring that the attempt of the Annapolis registrars to disfranchise Negroes was illegal and that they are liable to damages. The decision says among other things that \"the common sense of the situation would seem to be that the law forbidding the deprivation or abridgment of the right to vote on account of race or color being the supreme law, any State law commanding such deprivation or abridgment is nugatory and not to be obeyed by any one; and any one who does enforce it does so at his known peril, and is made liable to an action for damages by the simple act of enforcing a void law to the injury of the plaintiff in the suit, and no allegations of malice need be alleged or proved.\"\n\nCharles J. Bonaparte was the leading attorney for the plaintiffs, and the case may yet go to the Supreme Court.\n\nNegro minstrels traveling in private cars are entitled to the same treatment as white occupants of such cars, according to a decision of the Interstate Commerce Commission, in the case of Pat Chappelle against the Louisville and Nashville Railroad.",
+      "status": "ok",
+      "confidence": 0.977273166179657,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 552,
+        "y0": 1073,
+        "x1": 956,
+        "y1": 1508
+      },
+      "text": "In Mississippi the Legislature passed a law to levy taxes on whites and Negroes for agricultural schools for whites. One Negro brought the matter to court and the Chancery Court declared the legislation unconstitutional. Eventually this went to the Supreme Court of Mississippi, and the lower court was upheld.\n\nOn complaint of Mary Beausola, colored, Patrick Sullivan, head waiter of Riordan Brothers' liquor store and cafe, Boston, was charged with unlawful discrimination against a Negro. Sullivan pleaded not guilty, but Judge Wentworth fined him $100, from which sentence he appealed. Mary Beausola is light in color. She accompanied a Mr. and Mrs. Samuel Sutherland to the cafe, where food and liquor were ordered for all. The waiter insisted that the rule of the house was against serving colored and white persons together.",
+      "status": "ok",
+      "confidence": 0.962141215801239,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 12.2,
+    "at": "2026-10-06T20:55:46+00:00"
+  }
+}

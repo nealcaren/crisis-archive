@@ -1,0 +1,211 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 1082,
+  "height": 1582,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 380,
+        "y0": 73,
+        "x1": 815,
+        "y1": 351
+      },
+      "text": "THE CRISIS ADVERTISER\nHull's Hotel 127-129\nTelephones 4\nLeading Colored Restaurant in Am\ne Unsurpassed. Everything Up to",
+      "status": "ok",
+      "confidence": 0.6327931880950928,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 624,
+        "y0": 105,
+        "x1": 1007,
+        "y1": 351
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 180,
+        "y0": 125,
+        "x1": 1008,
+        "y1": 394
+      },
+      "text": "Marshall's Hotel 127-129 West 53d Street Telephones 4693-4694 Columbus The Leading Colored Restaurant in America Cuisine Unsurpassed. Everything Up to date Shell Fish a Specialty Restaurant Open All Night",
+      "status": "ok",
+      "confidence": 0.920114278793335,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 380,
+        "y0": 394,
+        "x1": 815,
+        "y1": 675
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 624,
+        "y0": 394,
+        "x1": 1007,
+        "y1": 675
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 181,
+        "y0": 397,
+        "x1": 480,
+        "y1": 675
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 309,
+        "y0": 537,
+        "x1": 881,
+        "y1": 601
+      },
+      "text": "We Print THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8313721418380737,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 380,
+        "y0": 675,
+        "x1": 815,
+        "y1": 1028
+      },
+      "text": "We Print for the Vogue Magazine and refer by permission to Mr. Condé Nast, Publisher of VOGUE MAGAZINE Wedding Invitations Printed and Engraved. Society and Commercial Printing a Specialty. A postal or the telephone (Lenox 6667) brings us to your door.",
+      "status": "ok",
+      "confidence": 0.9471908211708069,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 181,
+        "y0": 1028,
+        "x1": 480,
+        "y1": 1128
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 380,
+        "y0": 1028,
+        "x1": 815,
+        "y1": 1171
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 624,
+        "y0": 1028,
+        "x1": 1007,
+        "y1": 1171
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 310,
+        "y0": 1099,
+        "x1": 890,
+        "y1": 1196
+      },
+      "text": "ROBERT N. WOOD\n202 EAST 99th STREET NEW YORK",
+      "status": "ok",
+      "confidence": 0.3045397698879242,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "abandon",
+      "bbox": {
+        "x0": 189,
+        "y0": 1293,
+        "x1": 1008,
+        "y1": 1484
+      },
+      "text": "Phone 2877 Lenox\nWhite Rose Working Girls' Home\n217 EAST 86TH STREET\nBet. Second and Third Avenues\nPleasant temporary lodgings for working girls,\nwith privileges, at reasonable rates. The Home\nsolicit orders for working dresses, aprons, etc.\nAddress:\nMRS. FRANCES R. KEYSER, Supt.\n\nJUST OUT\nA beautiful sentimental song entitled\n\"My Home is Down in Dixie, Where the\nCotton Grows.\"\nBy EUGENE ALEXANDER BURKES\nPrice 25 Cents Postpaid\nPublished by\nWEBB, ARBUCKLE & CO.,\nBOSTON, MASS.",
+      "status": "ok",
+      "confidence": 0.6632278561592102,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 181,
+        "y0": 80,
+        "x1": 200,
+        "y1": 103
+      },
+      "text": "4",
+      "status": "ok",
+      "confidence": 0.591679036617279,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.0,
+    "at": "2026-10-06T21:01:50+00:00"
+  }
+}

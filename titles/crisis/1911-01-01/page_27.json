@@ -1,0 +1,113 @@
+{
+  "page": 27,
+  "image": "images/page_27.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 92,
+        "y0": 75,
+        "x1": 906,
+        "y1": 608
+      },
+      "text": "A most interesting and instructive morning was given at the Berkeley Lyceum on Wednesday, December 7, under the auspices of the National Association for the Advancement of Colored People. The weather was bitterly cold, and although the great fall of snow during the night had made getting about a not only troublesome but dangerous experience, the little theatre was well filled with many well-known women in sympathy with the cause and interested in all sorts of activities for progress. The chairman, Mr. John Haynes Holmes, introduced Madame Hackley, who gave the musical part of the program, and did it well with her customary finish and appreciation.\n\nMadam Hackley was trained in Paris, and gave several French selections with great skill.\n\nway of progress for these women, not only, said Mrs. Terrell, must she struggle with the handicap of color, but only too often she gets no sympathy from the white woman, who should be at least willing to give a helping hand to these colored friends who, like herself, are more or less looking forward to perfect freedom and all which that means for womanhood. The speaker thought that right here was a big field for the American woman's activities, and hoped for the co-operation of her white friends.\n\nMrs. Stanton Blatch, who was in the audience, made a short but forceful speech for the cause of women, and thought \"the vote\" would help along quicker than anything else all reforms of this or any other nature. The secretary of the Trades Woman's League also spoke, and declared that she would do her part toward opening",
+      "status": "ok",
+      "confidence": 0.9778035283088684,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 609,
+        "x1": 485,
+        "y1": 1124
+      },
+      "text": "Mrs. Mary Church Terrell, the speaker, was most enthusiastically received, and made, as usual, a most effective and touching speech, to which her audience listened with not only interest but surprise, as many present had never dreamed of the struggles of these women in their efforts for educational advancement.\n\nWithout doubt Mrs. Terrell is one of the best orators we have to-day. She has much dignity, with a very easy and fluent mode of speaking. She is direct, and when, as on this occasion, she is talking for the women of her race, her enthusiasm and sincerity carry conviction to her listeners. When she had finished Mrs. Terrell was warmly congratulated, and the enthusiastic daughter of the great orator, Robert Ingersoll, Mrs. Walston R. Brown, declared that \"Mrs. Terrell must tell her story again to a larger and fuller audience.\" In her remarks Mrs. Terrell told of the obstacles which confront colored women and girls in their efforts to better their conditions. Often having to battle against this great evil of race prejudice which yet lingers in our land and which so often stands in the",
+      "status": "ok",
+      "confidence": 0.9758573174476624,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 423,
+        "y0": 1160,
+        "x1": 572,
+        "y1": 1198
+      },
+      "text": "شار",
+      "status": "ok",
+      "confidence": 0.8232581615447998,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 91,
+        "y0": 1233,
+        "x1": 485,
+        "y1": 1426
+      },
+      "text": "The annual report of British East Africa for the year 1908-09, which was issued a few months ago, states that the period was not marked by any salient events, but the Protectorate had made steady progress in spite of weather conditions somewhat unfavorable to agriculture. There had been little or no friction with native tribes. Labor difficulties still exist, but show a tendency to diminish. European overseers",
+      "status": "ok",
+      "confidence": 0.9752966165542603,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 513,
+        "y0": 227,
+        "x1": 905,
+        "y1": 653
+      },
+      "text": "way of progress for these women, not only, said Mrs. Terrell, must she struggle with the handicap of color, but only too often she gets no sympathy from the white woman, who should be at least willing to give a helping hand to these colored friends who, like herself, are more or less looking forward to perfect freedom and all which that means for womanhood. The speaker thought that right here was a big field for the American woman's activities, and hoped for the co-operation of her white friends. Mrs. Stanton Blatch, who was in the audience, made a short but forceful speech for the cause of women, and thought \"the vote\" would help along quicker than anything else all reforms of this or any other nature. The secretary of the Trades Woman's League also spoke, and declared that she would do her part toward opening the doors of her association to all women, whether white or colored.",
+      "status": "ok",
+      "confidence": 0.9785732626914978,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 513,
+        "y0": 656,
+        "x1": 904,
+        "y1": 1123
+      },
+      "text": "After a most delightful rendering of several Negro melodies, Mrs. Hackley told how she so much hoped to establish a school of music for her people. No one hearing her direct, simple and earnest story doubted for a moment her ultimate success in this worthy effort, and she most certainly will have the co-operation of every musical member of her audience.\n\nThe chairman made a few remarks with his usual dignity and precision, and the first musical morning was voted a real success. Those having boxes were Mrs. Villard, Mrs. E. W. Harkness, Mrs. Paul M. Warburg, Mrs. O. H. P. Belmont, Mrs. Robert Ingersoll, whose daughter, Miss Maud, acted as one of the ushers; Mrs. Ida Husted Harper, Mrs. Frederick Nathan, Mrs. Frances R. Keyser, Mrs. Charles W. Anderson, together with many other well-known women, white and colored.\n\nThe arrangements were in charge of Miss Frances Blascoer, executive secretary of the Association.",
+      "status": "ok",
+      "confidence": 0.9795815944671631,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 511,
+        "y0": 1233,
+        "x1": 907,
+        "y1": 1427
+      },
+      "text": "of the native railway laborers have proved far more satisfactory than the Indians formerly employed.\nThe report says of slavery:\n\"The ordinance for the abolition of the legal status of slavery has worked well and without friction during the year. Altogether 3,593 cases have been settled by the District Courts, and compensation to the amount of £7,053 has been awarded.\"",
+      "status": "ok",
+      "confidence": 0.9582406282424927,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.7,
+    "at": "2026-10-06T21:05:03+00:00"
+  }
+}

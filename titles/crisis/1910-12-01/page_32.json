@@ -1,0 +1,421 @@
+{
+  "page": 32,
+  "image": "images/page_32.jpg",
+  "width": 1086,
+  "height": 1611,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 391,
+        "y0": 101,
+        "x1": 730,
+        "y1": 127
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8728636503219604,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 581,
+        "y0": 151,
+        "x1": 959,
+        "y1": 195
+      },
+      "text": "Howard University",
+      "status": "ok",
+      "confidence": 0.9012168049812317,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 569,
+        "y0": 197,
+        "x1": 973,
+        "y1": 508
+      },
+      "text": "WILBUR P. THIRKIELD, President\nWashington, D. C.\nThe College of Arts and Sciences—Kelly Miller,\nA.M., Dean.\nThe Teachers' College—Lewis B. Moore, A.M.\nPh.D., Dean.\nThe Academy—George J. Cummings, A.M., Dean.\nThe Commercial College—George W. Cook, A.M.\nDean.\nSchool of Manual Arts and Applied Sciences—\nPROFESSIONAL SCHOOLS\nThe School of Theology—Isaac Clark, D.D., Dean.\nThe School of Medicine: Medical, Dental and\nPharmaceutical Colleges—Edward O. Balloch, M.D., Dean.\nThe School of Law—Benjamin F. Leighton,\nLL.D., Dean.\nFor catalogue and special information address\nDean of Department.",
+      "status": "ok",
+      "confidence": 0.49765002727508545,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 169,
+        "y0": 246,
+        "x1": 529,
+        "y1": 314
+      },
+      "text": "19 WEST 132D STREET\nAgent Continental Casualty Company\nAccident and Health\nLargest Insurance Company in the World",
+      "status": "ok",
+      "confidence": 0.8968822956085205,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 152,
+        "y0": 358,
+        "x1": 548,
+        "y1": 546
+      },
+      "text": "Dr. FRED. STERLING\nSURGEON DENTIST\nCrown and Bridge Work a Specialty\n100 West 134th St., cor. Lenox Ave., New York\nBrooklyn Branch: 1479 Bergen St.\nOffice Hours by Appointment\nTel. 295-W Bedford\n\nTen Years with Dr. D. C. White\nTelephone 7189 Morningkside",
+      "status": "ok",
+      "confidence": 0.9049112796783447,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 590,
+        "y0": 536,
+        "x1": 950,
+        "y1": 580
+      },
+      "text": "Atlanta University",
+      "status": "ok",
+      "confidence": 0.8092760443687439,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 152,
+        "y0": 552,
+        "x1": 547,
+        "y1": 655
+      },
+      "text": "Dr. JAMES A. BANKS\nDENTIST\n204 WEST 133D STREET, NEW YORK\nPorcelain, Crown and Bridge Work a Specialty\nPure Nitrous-Oxide Gas Administered",
+      "status": "ok",
+      "confidence": 0.795339047908783,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 570,
+        "y0": 588,
+        "x1": 970,
+        "y1": 761
+      },
+      "text": "Is beautifully located in the City of Atlanta, Ga. The courses of study include High School, Normal School and College, with manual training and domestic science. Among the teachers are graduates of Yale, Harvard, Dartmouth, Smith and Wellesley. Forty-one years of successful work have been completed. Students come from all parts of the South. Graduates are almost universally successful.",
+      "status": "ok",
+      "confidence": 0.9667614102363586,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "title",
+      "bbox": {
+        "x0": 152,
+        "y0": 684,
+        "x1": 548,
+        "y1": 782
+      },
+      "text": "Can't See Well? See Me when your eyes feel painful, hot, uncomfortable and grow weary while reading, writing, sewing or looking at near objects, letters run together while reading and become blurred.",
+      "status": "ok",
+      "confidence": 0.9392815232276917,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 589,
+        "y0": 771,
+        "x1": 862,
+        "y1": 789
+      },
+      "text": "For further information address",
+      "status": "ok",
+      "confidence": 0.783566415309906,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 569,
+        "y0": 793,
+        "x1": 972,
+        "y1": 918
+      },
+      "text": "President EDWARD T. WARE\nATLANTA, GA.\nFisk University",
+      "status": "ok",
+      "confidence": 0.908941388130188,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 151,
+        "y0": 878,
+        "x1": 547,
+        "y1": 968
+      },
+      "text": "Eyes examined by me and fitted with glasses accurately made never grow weary, but are perfectly comfortable. You may not like to wear glasses, but you like headaches, red eyes and wrinkles better? Scientific examinations of the eyes for defective eyesight is my specialty.",
+      "status": "ok",
+      "confidence": 0.887442409992218,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 572,
+        "y0": 946,
+        "x1": 951,
+        "y1": 1020
+      },
+      "text": "65 College Freshmen.\nA New Department of Sociology.\nA Notable Equipment in Land and Buildings.\nSuccessful Graduates in Nearly Every State.\nFor information address",
+      "status": "ok",
+      "confidence": 0.5592723488807678,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "title",
+      "bbox": {
+        "x0": 152,
+        "y0": 971,
+        "x1": 549,
+        "y1": 1042
+      },
+      "text": "Dr. R. G. ADAMS, Optometrist\nPhysical Eye Specialist\n16 West 134th Street, New York City, N. Y.",
+      "status": "ok",
+      "confidence": 0.46158257126808167,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 569,
+        "y0": 1022,
+        "x1": 976,
+        "y1": 1271
+      },
+      "text": "School of Dressmaking\nLadies' Tailoring Taught by the Improved System\nand Diplomas Awarded the Successful Graduates\nLearning Classes",
+      "status": "ok",
+      "confidence": 0.26798149943351746,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "text",
+      "bbox": {
+        "x0": 149,
+        "y0": 1042,
+        "x1": 549,
+        "y1": 1270
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 151,
+        "y0": 1072,
+        "x1": 977,
+        "y1": 1297
+      },
+      "text": "Mme. BECK'S School of Dressmaking\nDesigning, Cutting, Fitting, Embroidering and Ladies' Tailoring Taught by the Improved\nFrench System\nSeparate Courses in Any of the Branches, and Diplomas Awarded the Successful\nGraduates\nDay and Evening Classes\n238 WEST 53d STREET NEW YORK CITY",
+      "status": "ok",
+      "confidence": 0.8936905860900879,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "title",
+      "bbox": {
+        "x0": 150,
+        "y0": 1328,
+        "x1": 973,
+        "y1": 1386
+      },
+      "text": "The Firm for the Negro Farmers and Shippers to Deal With Try Us Before Shipping Elsewhere.",
+      "status": "ok",
+      "confidence": 0.803530216217041,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "title",
+      "bbox": {
+        "x0": 149,
+        "y0": 1423,
+        "x1": 724,
+        "y1": 1591
+      },
+      "text": "WHOLESALE COMMISSION MERCHANTS. 107 Pine Reference: The People's Savings Bank Bell 'Phone",
+      "status": "ok",
+      "confidence": 0.8801388740539551,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "text",
+      "bbox": {
+        "x0": 569,
+        "y0": 1454,
+        "x1": 976,
+        "y1": 1591
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 157,
+        "y0": 1461,
+        "x1": 969,
+        "y1": 1516
+      },
+      "text": "WHOLESALE COMMISSION MERCHANTS. 107 Pine Street, Philadelphia, Pa.\nReference: The People's Savings Bank Bell 'Phone Connection: Lombard 4035",
+      "status": "ok",
+      "confidence": 0.8505287170410156,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "abandon",
+      "bbox": {
+        "x0": 149,
+        "y0": 102,
+        "x1": 176,
+        "y1": 123
+      },
+      "text": "32",
+      "status": "ok",
+      "confidence": 0.8345648050308228,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 155,
+        "y0": 154,
+        "x1": 343,
+        "y1": 173
+      },
+      "text": "'Phone 2870-J Harlem.",
+      "status": "ok",
+      "confidence": 0.8040072321891785,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "title",
+      "bbox": {
+        "x0": 242,
+        "y0": 179,
+        "x1": 458,
+        "y1": 208
+      },
+      "text": "W. A. PARKER",
+      "status": "ok",
+      "confidence": 0.8434610366821289,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "title",
+      "bbox": {
+        "x0": 288,
+        "y0": 218,
+        "x1": 407,
+        "y1": 239
+      },
+      "text": "INSURANCE",
+      "status": "ok",
+      "confidence": 0.8184725046157837,
+      "lines": []
+    },
+    {
+      "id": "r25",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 154,
+        "y0": 333,
+        "x1": 432,
+        "y1": 352
+      },
+      "text": "Office Hours: 9 A. M. to 9 P. M.",
+      "status": "ok",
+      "confidence": 0.8095245361328125,
+      "lines": []
+    },
+    {
+      "id": "r27",
+      "label": "figure",
+      "bbox": {
+        "x0": 260,
+        "y0": 791,
+        "x1": 446,
+        "y1": 866
+      },
+      "text": "𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨𐬨",
+      "status": "repetition",
+      "confidence": 0.939403772354126,
+      "lines": []
+    },
+    {
+      "id": "r28",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 683,
+        "y0": 922,
+        "x1": 861,
+        "y1": 940
+      },
+      "text": "NASHVILLE, TENN.",
+      "status": "ok",
+      "confidence": 0.8101391196250916,
+      "lines": []
+    },
+    {
+      "id": "r31",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 795,
+        "y0": 1393,
+        "x1": 976,
+        "y1": 1415
+      },
+      "text": "POULTRY AND EGGS",
+      "status": "ok",
+      "confidence": 0.8010665774345398,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 84.1,
+    "at": "2026-10-06T21:00:48+00:00"
+  }
+}

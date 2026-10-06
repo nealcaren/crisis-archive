@@ -1,0 +1,183 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1080,
+  "height": 1580,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 356,
+        "y0": 80,
+        "x1": 682,
+        "y1": 106
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.7719938158988953,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 102,
+        "y0": 106,
+        "x1": 504,
+        "y1": 299
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 525,
+        "y0": 106,
+        "x1": 926,
+        "y1": 300
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 108,
+        "y0": 128,
+        "x1": 927,
+        "y1": 238
+      },
+      "text": "THE NATIONAL ASSOCIATION for the ADVANCEMENT of COLORED PEOPLE",
+      "status": "ok",
+      "confidence": 0.95792156457901,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 109,
+        "y0": 299,
+        "x1": 503,
+        "y1": 609
+      },
+      "text": "OBJECT.—The National Association for the Advancement of Colored People is an organization composed of men and women of all races and classes who believe that the present widespread increase of prejudice against colored races and particularly the denial of rights and opportunities to ten million Americans of Negro descent is not only unjust and a menace to our free institutions, but also is a direct hindrance to World Peace and the realization of Human Brotherhood.",
+      "status": "ok",
+      "confidence": 0.9749897718429565,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 529,
+        "y0": 300,
+        "x1": 924,
+        "y1": 396
+      },
+      "text": "COMMITTEE.—Our work is carried on under the auspices of the following General Committee, in addition to the officers named:",
+      "status": "ok",
+      "confidence": 0.9539719223976135,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 526,
+        "y0": 405,
+        "x1": 904,
+        "y1": 1387
+      },
+      "text": "*Miss Gertrude Barnum, New York.\n*Rev. W. H. Brooks, New York.\nProf. John Dewey, New York.\nMiss Maud R. Ingersoll, New York.\nMrs. Florence Kelley, New York.\nMr. Paul Kennaday, New York.\nMrs. F. R. Keyser, New York.\nDr. Chas, Lenz, New York.\nMr. Jacob W. Mack, New York.\nMrs. M. D. MacLean, New York.\nRev. Horace G. Miller, New York.\nMrs. Max Morgenthau, Jr., New York.\nMr. James F. Morton, Jr., New York.\nMr. Henry Moskowitz, New York.\nMiss Leonora O'Reilly, New York.\n*Rev. A. Clayton Powell, New York.\n*Mr. Charles Edward Russell, New York.\nMr. Jacob H. Schiff, New York.\nProf. E. R. A. Seligman, New York.\n*Rev. Joseph Silverman, New York.\nMrs. Anna Garlin Spencer, New York.\nMrs. Henry Villard, New York.\nMrs. Lillian D. Wald, New York.\n*Bishop Alexander Walters, New York.\nDr. Stephen S. Wise, New York.\nRev. Jas. E. Haynes, D.D., Brooklyn, N. Y.\n*Rev. John Haynes Holmes, Brooklyn, N. Y.\nMiss M. R. Lyons, Brooklyn, N. Y.\n*Miss M. W. Ovington, Brooklyn, N. Y.\n*Dr. O. M. Waller, Brooklyn, N. Y.\nMrs. M. H. Talbert, Buffalo, N. Y.\nHon. Thos. M. Osborne, Auburn, N. Y.\n*Mr. W. L. Bulkley, Ridgewood, N. J.\nMr. George W. Crawford, New Haven, Conn.\nMiss Maria Baldwin, Boston, Mass.\nMr. Francis J. Garrison, Boston, Mass.\nMr. Archibald E. Grimke, Boston, Mass.\nMr. Albert E. Pillsbury, Boston, Mass.\nMr. Wm. Munroe Trotter, Boston, Mass.\nDr. Horace Bumstead, Brookline, Mass.\nMiss Elizabeth C. Carter, New Bedford, Mass.\nPrest. Chas. T. Thwing, Cleveland, O.\nMr. Chas. W. Chesnutt, Cleveland, O.\nPrest. H. C. King, Oberlin, O.\nPrest. W. S. Scarborough, Wilberforce, O.\n*Miss Jane Addams, Chicago, Ill.\n*Mrs. Ida B. Wells Barnett, Chicago, Ill.\n*Dr. C. E. Bentley, Chicago, Ill.\nMiss Sophronisba Breckenridge, Chicago, Ill.\nMr. Clarence Darrow, Chicago, Ill.\n*Mrs. Celia Parker Woolley, Chicago, Ill.\nDr. N. F. Mossell, Philadelphia, Pa.\n*Dr. Wm. A. Sinclair, Philadelphia, Pa.\nMiss Susan Wharton, Philadelphia, Pa.\nMr. R. R. Wright, Jr., Philadelphia, Pa.\nMr. W. Justin Carter, Harrisburg, Pa.\nRev. Harvey Johnson, D.D., Baltimore, Md.\nHon. Wm. S. Bennett, Washington, D. C.\nMr. L. M. Hershaw, Washington, D. C.",
+      "status": "repetition",
+      "confidence": 0.9723275303840637,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 106,
+        "y0": 617,
+        "x1": 504,
+        "y1": 1088
+      },
+      "text": "METHODS.—The encouragement of education and efforts for social uplift; the dissemination of literature; the holding of mass meetings; the maintenance of a lecture bureau; the encouragement of vigilance committees; the investigation of complaints; the maintenance of a Bureau of Information; the publication of THE CRISIS; the collection of facts and publication of the truth.\n\nORGANIZATION.—All interested persons are urged to join our organization associate membership costs $1, and contributing and sustaining members pay from $2 to $25 a year.\n\nFUNDS.—We need $10,000 a year for running expenses of this work and particularly urge the necessity of gifts to help on our objects.",
+      "status": "ok",
+      "confidence": 0.9780468344688416,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 102,
+        "y0": 1092,
+        "x1": 503,
+        "y1": 1482
+      },
+      "text": "OFFICERS.—The officers of the organization are:\nNational President Mr. Moorfield Storey, Boston, Mass.\nChairman of the Executive Committee—Mr. Wm. English Walling, New York.\nTreasurer—Mr. John E. Milholland, New York.\nDisbursing Treasurer—Mr. Oswald Garrison Villard, New York.\nDirector of Publicity and Research—Dr. W. E. B. DuBois, New York.\nExecutive Secretary—Miss Frances Blascoer, New York.",
+      "status": "ok",
+      "confidence": 0.9728342890739441,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 525,
+        "y0": 1452,
+        "x1": 926,
+        "y1": 1560
+      },
+      "text": "Suite. 610, 20 Vesey Street, New York.",
+      "status": "ok",
+      "confidence": 0.22937138378620148,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "abandon",
+      "bbox": {
+        "x0": 911,
+        "y0": 83,
+        "x1": 926,
+        "y1": 103
+      },
+      "text": "3",
+      "status": "ok",
+      "confidence": 0.6951342821121216,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 665,
+        "y0": 1421,
+        "x1": 780,
+        "y1": 1447
+      },
+      "text": "OFFICES:",
+      "status": "ok",
+      "confidence": 0.704316258430481,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 22.2,
+    "at": "2026-10-06T21:01:45+00:00"
+  }
+}

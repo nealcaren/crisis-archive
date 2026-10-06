@@ -1,0 +1,113 @@
+{
+  "page": 31,
+  "image": "images/page_31.jpg",
+  "width": 1078,
+  "height": 1606,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 864,
+        "y0": 90,
+        "x1": 889,
+        "y1": 112
+      },
+      "text": "31",
+      "status": "ok",
+      "confidence": 0.8410578370094299,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 75,
+        "y0": 90,
+        "x1": 892,
+        "y1": 257
+      },
+      "text": "BOOKS\nWhen our readers wish to know where, to buy the best books on race and other human problems they should consult this list:",
+      "status": "ok",
+      "confidence": 0.9273024797439575,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 77,
+        "y0": 272,
+        "x1": 891,
+        "y1": 384
+      },
+      "text": "A BOOK ALL INTERESTED IN HUMAN PROBLEMS OUGHT TO READ",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 114,
+        "y0": 322,
+        "x1": 853,
+        "y1": 816
+      },
+      "text": "A BOOK ALL INTERESTED IN HUMAN PROBLEMS\nOUGHT TO READ\n\nJOHN BROWN\nA Biography Fifty Years After\nBy OSWALD GARRISON VILLARD\n\nTHOMAS WENTWORTH HIGGINSON\n\"I can only say after reading from first to last its more than 700 pages that I have never encountered anything this side of Gibbon's 'Rome' which has made me feel more the personal power of a single work.\"\n\nJOHN T. MORSE, Editor of American Statesmen Series.\n\"Perhaps in thus dramatically fashioning his volume Mr. Villard obeyed an instinct rather than acted upon a preconceived plan; that is often the case with great work, where a writer's feelings are deeply enlisted. Be this as it may, the merit and charm are none the less; he has seized well a splendid opportunity and has written one of the great biographies of our literature.\"\n\nHENRY WATTERSON in the Louisville \"Courier-Journal\"\n\"No fault may justly be found with Mr. Villard's telling of the story. It is minute and lucid, altogether fair and unvarnished.\"",
+      "status": "ok",
+      "confidence": 0.7597301006317139,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 82,
+        "y0": 829,
+        "x1": 893,
+        "y1": 981
+      },
+      "text": "Fully Illustrated with Portraits, and Other Illustrations\nWith Copious Notes and Bibliography $5.00 Net; Postage 20 Cents\nBoston HOUGHTON MIFFLIN COMPANY New York",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 79,
+        "y0": 989,
+        "x1": 900,
+        "y1": 1490
+      },
+      "text": "Atlanta University Studies\nOF THE NEGRO PROBLEMS\n13 Monographs. Sold Separately.\nAddress:\nA. G. DILL, Atlanta University, Atlanta, Ga.\n\nThe Souls of Black Folk\nBy W. E. Burghardt DuBois\n\n\"It is one of the noteworthy books, not merely of a year, but of the epoch. Its every page is filled with vigor, spontaneity and spirituality.\"—Boston Transcript.\n\n\"A stripping bare of the moral and mental anatomy of the African in America so as to reveal the naked soul in its primitive simplicity, seared and scarred by ages of suffering.\"—New York Age.\n\nEighth Edition.\n\nWith frontispiece portrait of the author. $1.20 net.\n\nMay be ordered through any bookstore or direct from the publishers.\n\nA. C. McCLURG & CO.\n\nNew York. Chicago. San Francisco.",
+      "status": "ok",
+      "confidence": 0.8813636898994446,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 760,
+        "y0": 1469,
+        "x1": 896,
+        "y1": 1495
+      },
+      "text": "San Francisco.",
+      "status": "ok",
+      "confidence": 0.8636999726295471,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.1,
+    "at": "2026-10-06T20:59:24+00:00"
+  }
+}

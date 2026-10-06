@@ -1,0 +1,113 @@
+{
+  "page": 15,
+  "image": "images/page_15.jpg",
+  "width": 1092,
+  "height": 1671,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 67,
+        "y0": 101,
+        "x1": 890,
+        "y1": 201
+      },
+      "text": "THE N. A. A. C. P.",
+      "status": "ok",
+      "confidence": 0.3110324442386627,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 65,
+        "y0": 258,
+        "x1": 471,
+        "y1": 706
+      },
+      "text": "The Third Annual Conference of the Association will take place in Park Street Church, Boston, Thursday and Friday, March 30 and 31, 1911. There will be a business session, three public meetings and a reception to members and visitors. The public meetings will take up the questions of Segregation, Infringement of Property Rights and Education. The prospects for a large and interesting meeting are unusually good. _____\n\nThe first Philadelphia mass meeting was held at the Friends' Meeting House, Race Street, on Washington's Birthday. Messrs. Villard, Milholland and DuBois, Dr. Ransom and others spoke. The subject was education. _____\n\nOn hearing that a Congressional Committee had been appointed to investigate the \"third degree,\" the lawyers retained by this association sent the following letter:",
+      "status": "ok",
+      "confidence": 0.9736082553863525,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 65,
+        "y0": 706,
+        "x1": 470,
+        "y1": 1214
+      },
+      "text": "We understand from our clients, the National Society for the Advancement of Colored People and Mr. Oswald G. Villard of this city, that you are chairman of a committee recently appointed by the United States Senate \"to investigate the extent among police forces of the species of torture of arrested persons known as the third degree,\" and, at their request, we give you the following information regarding a case which we have just handled for them in New Jersey.\n\nThe case is that of a Negro, Thomas Williams, who was arrested and accused of the murder of a white girl eleven years of age under the most revolting circumstances at Asbury Park, New Jersey, on or about November 13, 1910. It appeared from the newspapers after this date that there was a great danger of Williams being lynched, and, in behalf of the National Association, we made an investigation of the facts of the case and of the evidence which the Public Prosecutor had in his possession against Williams, either as the principal or as a material witness.",
+      "status": "ok",
+      "confidence": 0.9728020429611206,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 61,
+        "y0": 1215,
+        "x1": 467,
+        "y1": 1491
+      },
+      "text": "In our opinion there was no evidence sufficient to hold him on either of these grounds. Acting for the Association we thereupon procured a writ of habeas corpus and upon the return of the writ an order was entered discharging Williams from custody, the Public Prosecutor having appeared and having failed to produce any evidence on which to hold him for any connection whatsoever with the crime. Williams is still, however, confined in the county jail at Freehold, New Jersey, on a charge of violating the election laws of New Jersey, he having been rearrested",
+      "status": "ok",
+      "confidence": 0.9581658840179443,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 496,
+        "y0": 258,
+        "x1": 902,
+        "y1": 829
+      },
+      "text": "on this charge immediately on the conclusion of the habeas corpus proceedings.\nWe have reason to believe that during the greater part of the time that Williams has been confined in the county jail he has been subjected to that species of cross-examination known as the \"third degree,\" the intention of the police and of the Public Prosecutor being apparently to fasten this crime upon him at all costs, Williams being the only man against whom they had the slightest clue whatsoever. Since the commission of the crime, other witnesses have been detained but have been released almost immediately, and no further evidence has turned up. The Coroner's inquest produced no testimony connecting Williams with the crime.\nOwing to the interest which we have taken in this case from a humanitarian standpoint and also at the request of the National Association for the Advancement of Colored People, we beg to lay these facts before your committee and to say that should your committee desire it we shall be pleased to furnish any further information which we have in regard to this matter which you feel might aid it in its investigations.",
+      "status": "ok",
+      "confidence": 0.975756824016571,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 495,
+        "y0": 847,
+        "x1": 900,
+        "y1": 1259
+      },
+      "text": "The following meetings and lectures under the auspices of this association were held in February:\nSettlement workers, Philadelphia, at Eighth Ward Settlement, Philadelphia, February 13.\nSocialists and Workingmen at Lenox Casino.\nWoman's Municipal League, 29th Street. Meeting to form a New York Local, N. A. A. C. P.\nOffice of Evening Post, Conference with Jane Addams, Jacob Schiff and others.\nLectures at Boston (20th Century Club and Ford Hall) Southold, Long Island; Columbus, Steubenville, and Xenia, Ohio; Detroit, Mich. (three meetings), and at the House of Refuge, Philadelphia, and Stillman House, New York.\nThe audiences at these meetings have aggregated 10,000 persons.",
+      "status": "ok",
+      "confidence": 0.9353419542312622,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 494,
+        "y0": 1271,
+        "x1": 897,
+        "y1": 1490
+      },
+      "text": "Under the auspices of this Association, Superintendent W. H. Maxwell, of the New York Public Schools, is forming a committee to study the question of National Aid to Public School Education. A committee representing this and other bodies waited on President Taft last week and urged official representation of the United States at the Races Congress. The President expressed his interest and his desire to co-operate with the committee.",
+      "status": "ok",
+      "confidence": 0.9735305309295654,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.3,
+    "at": "2026-10-06T21:17:49+00:00"
+  }
+}

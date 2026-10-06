@@ -1,0 +1,267 @@
+{
+  "page": 27,
+  "image": "images/page_27.jpg",
+  "width": 1078,
+  "height": 1606,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 398,
+        "y0": 91,
+        "x1": 578,
+        "y1": 116
+      },
+      "text": "THE BURDEN",
+      "status": "ok",
+      "confidence": 0.8624491095542908,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 499,
+        "y0": 143,
+        "x1": 894,
+        "y1": 222
+      },
+      "text": "ning a convict escaped from the chain gang, and the \"trusty\"—wearing stripes, we presume—\"was armed and sent in search of the fugitive.\"",
+      "status": "ok",
+      "confidence": 0.9600112438201904,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 81,
+        "y0": 144,
+        "x1": 479,
+        "y1": 223
+      },
+      "text": "His Honor: \"I should think not, Mr. Wannamaker. Common prudence would demand that he ask admission, but he has the right to demand admission.\"",
+      "status": "ok",
+      "confidence": 0.9623705744743347,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 502,
+        "y0": 225,
+        "x1": 895,
+        "y1": 455
+      },
+      "text": "When an armed convict comes to a man's home, acts queerly and refuses to leave when ordered off, what is the householder to do? Had Ned Blackwell been a white farmer \"growing 100 bales of cotton\" and having the same respect of his neighbors enjoyed by the Negro farmer, and had he wounded an armed convict who came to his house, acted suspiciously and refused to move on, would the white farmer be held in jail without bail. Most emphatically, No!—The State, Columbia, S. C.",
+      "status": "ok",
+      "confidence": 0.9760295748710632,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 83,
+        "y0": 225,
+        "x1": 478,
+        "y1": 521
+      },
+      "text": "Juror: \"If he received no response to his call he would have the right to enter?\"\nHis *Honor*: \"Yes, sir; or, if the house were closed and he received no response and he has good reason to believe that the refusal to answer amounts to a resistance to his authority, then he has the right to force an entrance. If admission be refused he has a right to force admission.\"\nIf that is the law, then the law is despotic, and home has no sanctity. If a man must open his door to any that come knocking, without announcing their authority or their mission, his legal \"castle\" is built of tissue paper.",
+      "status": "ok",
+      "confidence": 0.9732704162597656,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 503,
+        "y0": 500,
+        "x1": 896,
+        "y1": 881
+      },
+      "text": "\"Notice has been sent at least three well-to-do colored men living in Warrenton, Ga., and to one widow, who have succeeded in making money in some kind of business enterprise, that they must leave immediately, because the white people of that section won't stand for wealthy colored people. I have secured the names of these colored men and the woman. One of the men dares not leave his house by the front door, and never answers a knock at the door for fear of being shot on sight. No charge has been presented against them. They have simply offended their white neighbors, because they have become too prosperous. The man who never goes to his front door was forced to close out his business altogether. He was paid dollar for dollar, as I understand it, but the white people who forced him to sell refused to pay him a cent profit.\"",
+      "status": "ok",
+      "confidence": 0.9793732166290283,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 86,
+        "y0": 523,
+        "x1": 480,
+        "y1": 715
+      },
+      "text": "What possible \"necessity\" justifies an ununiformed officer, personally unknown to the occupants of a house, in forcing his way in without saying, \"I am an officer\"? If the law is based on common sense and if a man has the right to protect his home against unlawful attack, then the burden of establishing legal authority for an assault upon a home must rest upon the assailants, and not upon the householder.",
+      "status": "ok",
+      "confidence": 0.8532435894012451,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 87,
+        "y0": 784,
+        "x1": 482,
+        "y1": 1112
+      },
+      "text": "Efforts of the Democrats to prevent Negroes from voting were centered in Precinct C of the Fifth Ward, where a Jim Crow line was established for Negro voters. Negroes were jerked out of line by the police to make way for Democrats. The establishment of the Jim Crow line delayed the Negroes from entering the polls as rapidly as white voters. Once inside they were given a lengthy examination as to their qualifications. They were compelled to read the sections of the Constitution containing a long list of Indian names, legal and technical terms. In case the pronunciation of the name of some Indian county was not in accord with the election officer the voter was turned down.",
+      "status": "ok",
+      "confidence": 0.9744174480438232,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 506,
+        "y0": 920,
+        "x1": 898,
+        "y1": 1230
+      },
+      "text": "A large audience was leaving New York's finest theatre. The play had been upon the Negro question, and one couple had been especially thrilled by the fine heroism of the white man, who, finding that he had a few drops of colored blood, allied himself with the despised race. \"How magnificent,\" they were saying, \"to dedicate oneself to the cause of the oppressed!\"\n\nWalking a few blocks they turned into a restaurant. After giving their order they noticed a man, a mulatto in coloring, enter and seat himself at a table. Presently a waiter came to him and whispered something. The man shook his head, and the waiter went to the proprietor.",
+      "status": "ok",
+      "confidence": 0.976905107498169,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 89,
+        "y0": 1115,
+        "x1": 483,
+        "y1": 1250
+      },
+      "text": "T. R. Debman, Negro, head of the science department in the high school, and Rev. H. H. Martin, Negro, were jerked out of line by Patrolman Veazey and Ike Ashburn, and their places given to white voters. Several other similar cases were reported. Oklahoma City Times, Nov. 8, 1910.",
+      "status": "ok",
+      "confidence": 0.96485435962677,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 506,
+        "y0": 1233,
+        "x1": 900,
+        "y1": 1311
+      },
+      "text": "\"I really believe,\" the couple said, watching curiously, \"that they are going to ask that man to leave. What a shame, for he is quite light and very good looking.\"",
+      "status": "ok",
+      "confidence": 0.9612000584602356,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 90,
+        "y0": 1274,
+        "x1": 485,
+        "y1": 1473
+      },
+      "text": "THE CASE OF BLACKWELL.\nA Negro farmer named Blackwell, of Clarendon County—a man who makes about 100 bales of cotton a year—is in jail at Manning, held without bail, pending the result of pistol shot wounds inflicted by him upon a chain gang \"trusty,\" who came to Blackwell's house armed with gun or rifle, acted in a suspicious manner and refused to leave when ordered away.",
+      "status": "ok",
+      "confidence": 0.9687033891677856,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 507,
+        "y0": 1314,
+        "x1": 902,
+        "y1": 1491
+      },
+      "text": "The proprietor came to the man as he sat at the table, and after a few words, the couple amusing themselves guessing their import, the colored man rose and left. \"That was too bad, wasn't it,\" one said to the other, \"and right here in our own city. Perhaps the poor fellow really needed a meal.\" and they went on placidly enjoying their own.",
+      "status": "ok",
+      "confidence": 0.9480963945388794,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 107,
+        "y0": 1473,
+        "x1": 484,
+        "y1": 1493
+      },
+      "text": "According to our dispatches from Man-",
+      "status": "ok",
+      "confidence": 0.8870366215705872,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 106,
+        "y0": 718,
+        "x1": 387,
+        "y1": 781
+      },
+      "text": "Let justice be done.\nA JIM CROW LINE.",
+      "status": "ok",
+      "confidence": 0.8920125961303711,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "abandon",
+      "bbox": {
+        "x0": 867,
+        "y0": 89,
+        "x1": 894,
+        "y1": 111
+      },
+      "text": "27",
+      "status": "ok",
+      "confidence": 0.838034987449646,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "title",
+      "bbox": {
+        "x0": 548,
+        "y0": 475,
+        "x1": 846,
+        "y1": 497
+      },
+      "text": "THE REWARD OF THRIFT.",
+      "status": "ok",
+      "confidence": 0.7693288326263428,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "title",
+      "bbox": {
+        "x0": 562,
+        "y0": 896,
+        "x1": 842,
+        "y1": 918
+      },
+      "text": "PRECEPT AND PRACTICE.",
+      "status": "ok",
+      "confidence": 0.880203127861023,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.5,
+    "at": "2026-10-06T20:58:52+00:00"
+  }
+}

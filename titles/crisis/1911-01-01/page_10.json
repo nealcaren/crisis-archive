@@ -1,0 +1,141 @@
+{
+  "page": 10,
+  "image": "images/page_10.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 495,
+        "y0": 82,
+        "x1": 647,
+        "y1": 106
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8913481831550598,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 166,
+        "y0": 82,
+        "x1": 192,
+        "y1": 103
+      },
+      "text": "10",
+      "status": "ok",
+      "confidence": 0.8282422423362732,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 161,
+        "y0": 135,
+        "x1": 560,
+        "y1": 730
+      },
+      "text": "but it is quite a different thing, consciously or unconsciously, to misrepresent the truth.\"\n\nThis appeal has provoked widespread comment all over the world. The Vienna (Austria) Die Zeit, in publishing the document, says:\n\n\"During the sojourn in Vienna of Booker T. Washington, the distinguished apostle of the Negro, there appeared in Die Zeit a report from his pen in which he defended the white race of North America against the charge of systematic race prejudice and pictured the condition of the Negro race as on the whole very favorable. This report created great excitement in America and a deep disagreement among the intelligent leaders of the American Negroes. Booker T. Washington was warmly attacked in many American papers by both white and black speakers, and finally the American Negro leaders drew up an outspoken protest against Washington's declarations.\"\n\nThe Kolnische Volk Zeitung, Germany, speaks of an article which was \"widely printed in Austria and Germany,\" in which Mr. Washington \"expressed himself in very optimistic words concerning his race in America and the undoubted solution of the problem,\" and then reprints a part of the appeal.",
+      "status": "ok",
+      "confidence": 0.9775552749633789,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 163,
+        "y0": 729,
+        "x1": 556,
+        "y1": 806
+      },
+      "text": "In the United States the comment has taken wide range. From the South comes some bitterness when, for instance, the Raleigh News and Courier says:",
+      "status": "ok",
+      "confidence": 0.9603614211082458,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 164,
+        "y0": 805,
+        "x1": 557,
+        "y1": 1338
+      },
+      "text": "\"It is hard to tell which is the worst enemy of the Negro race—the brute who invites lynching by the basest of crimes, or the social-equality-hunting fellow like Du Bois, who slanders his country. Fortunately for the peaceable and industrious Negroes in the South, the world does not judge them either by Du Bois or the animal, and helps them and is in sympathy with their efforts to better their condition.\"\n\nThe Richmond Leader adds:\n\n\"Efforts on the part of the Negro to give practical expression to the dream of equality may, indeed, cause temporary trouble and discomfort to the whites, but ultimately and necessarily they could not fail to provoke stern repression, and, if necessary, cruel punishment to the blacks. Fortunately, the great bulk of the Negro population in the South realizes this, and, having—at least for the time—accepted it as inevitable, they adjust themselves to the subordinate place to which their race consigns them, and in which the very existence of the superior race makes it absolutely necessary to keep them. There is little friction, therefore, between them and the white people among whom they live.\"",
+      "status": "ok",
+      "confidence": 0.9786721467971802,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 166,
+        "y0": 1339,
+        "x1": 560,
+        "y1": 1493
+      },
+      "text": "The Chattanooga Times regards the document as \"treasonable incendiarism,\" and many papers denounce it as a demand for \"social equality.\" The New Orleans Times-Democrat says:\n\"To the average American the most striking feature is this 'appeal,' aside from its attack upon Booker Washington, is its con-",
+      "status": "ok",
+      "confidence": 0.9643972516059875,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 583,
+        "y0": 134,
+        "x1": 981,
+        "y1": 671
+      },
+      "text": "fession, virtually in so many words, that the theory of racial social equality is losing ground 'everywhere in the United States.' Thoughtful students of the American race problem long ago noted the steady spread of race instinct, or prejudice, into sections other than the South; but it was hardly to be expected that the blatant Negro agitators would confess that their strident demands for race equality have not only completely failed, but have helped to turn the scale against them. Such progress as the Negro has made is recorded not by aid of these aspirants for social equality, but in spite of them.\"\n\nThe Jersey City Journal says Negroes can vote in the North, they are educated in the North, they are only partially restricted in residence, they usually get equal pay for equal work, and the \"objection to having colored people in residence sections is natural.\"\n\nThe Chicago Tribune \"can understand and sympathize\" with the signers of the protest, but points out that the positions occupied by the signers themselves show the progress of the Negro.\n\nThe New York World says:",
+      "status": "ok",
+      "confidence": 0.9718322157859802,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 584,
+        "y0": 672,
+        "x1": 982,
+        "y1": 1148
+      },
+      "text": "\"Undeniably, the black population of the United States has just grievances. So also has the white population in the United States. Race prejudice is here as it is in Europe, and blacks are not the only sufferers. There is brutal tyranny in industry, but the blacks are not the only victims. There are social limitations that are cruel and inexcusable, but the blacks are not the only ones against whom the gates are shut. \"This is a world in which true men give and take. It is a world in which all must make allowances. It is a world in which, after all, men are judged not so much by race or nationality or possessions as by personal merit. Otherwise, how could a Booker Washington, born a Virginia slave, have 'stood before kings' and associated for the greater part of his life with the earth's greatest and best? \"We do not condemn the American men of color who have made this protest. We simply remonstrate with them. They are asking more than a white man's chance, and in the circumstances that is inadmissible.\"",
+      "status": "ok",
+      "confidence": 0.9361792802810669,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 586,
+        "y0": 1148,
+        "x1": 984,
+        "y1": 1495
+      },
+      "text": "The Boston Globe, however, thinks that \"these and other complaints are backed by educated Negroes, who demand that the old world shall know their wrongs. They deny that Dr. Washington is giving the right impression of the situation in this country. It would seem to the average person that admittedly there is much truth in the catalog of wrongs the association recites.\"\n\nThe Brooklyn Times, too, acknowledges that \"the lot of the colored American is a hard one at best, but there is nothing to be gained by complaining over conditions and prejudices that cannot be altered or eradicated in the lifetime of a single generation. There are obstacles in the path of the Afro-American, even the most intelligent",
+      "status": "ok",
+      "confidence": 0.9773054122924805,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.6,
+    "at": "2026-10-06T21:02:45+00:00"
+  }
+}

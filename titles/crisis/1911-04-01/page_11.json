@@ -1,0 +1,225 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 321,
+        "y0": 75,
+        "x1": 653,
+        "y1": 100
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8907866477966309,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 78,
+        "y0": 126,
+        "x1": 475,
+        "y1": 298
+      },
+      "text": "ive slave woman was a prostitute to her master, that their children bore the stamp of his countenance, and yet, according to the inflexible rule of the slave States, they shared the condition of the mother and were sold by their own father; this evil was widespread at the South, as the mixed condition of the black race to-day will testify.",
+      "status": "ok",
+      "confidence": 0.9692519307136536,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 499,
+        "y0": 127,
+        "x1": 896,
+        "y1": 300
+      },
+      "text": "and some one suggested, \"Let's run them.\" Like wildfire the suggestion passed from mouth to mouth, and a minute later four Negroes were being pummeled, but escaped without serious injury. That started the trouble and created an appetite for a general round-up. The police did not interfere.",
+      "status": "ok",
+      "confidence": 0.967022180557251,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 77,
+        "y0": 298,
+        "x1": 475,
+        "y1": 451
+      },
+      "text": "\"A sister of President Madison declared that though the Southern ladies were complimented with the name of wife, they were only the mistresses of the seraglio. A leading Southern lady declared to Harriet Martineau that the wife of many a planter was but the chief slave of the harem.\"",
+      "status": "ok",
+      "confidence": 0.9688606858253479,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "title",
+      "bbox": {
+        "x0": 499,
+        "y0": 325,
+        "x1": 893,
+        "y1": 715
+      },
+      "text": "CANADA AND COLORED FOLK.\nA letter of inquiry from THE CRISIS has brought this reply from the Commissioner of Immigration at Winnipeg:\nDEAR SIR:\nI beg to acknowledge receipt of your letter of March 4, and to say in reply that the report in the American press that the Dominion Government has issued a decision denying colored people entrance into Canada as settlers is not in accordance with the facts. No decision of any kind has been arrived at, and none has seemed to be necessary. Colored people, like every other people, are under the Canadian Immigration Law when they enter the country, and, being liable to its conditions, are rejected, as others are rejected, for failure to comply with the same.",
+      "status": "ok",
+      "confidence": 0.9778647422790527,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 76,
+        "y0": 468,
+        "x1": 473,
+        "y1": 719
+      },
+      "text": "Tuskegee Institute will benefit to the extent of several hundred thousand dollars under the will of Emmet Densmore, manufacturer of patent medicines, filed recently in New York State. After various life estates created by the will have lapsed, all the testator's property, or as much as the law will allow to be given for such purposes, is to go to the school. Miss O'Hagan has left $10,000 to Negro Catholic schools of Baltimore.",
+      "status": "ok",
+      "confidence": 0.9717479348182678,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 74,
+        "y0": 768,
+        "x1": 470,
+        "y1": 905
+      },
+      "text": "Mr. Booker T. Washington, principal of Tuskegee Institute, while calling at an apartment house in West 63d Street, New York, was set upon by one of the tenants and several bystanders. Mr. Washington ran, but was severely beaten before the police interfered.",
+      "status": "ok",
+      "confidence": 0.9668974876403809,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 497,
+        "y0": 782,
+        "x1": 889,
+        "y1": 840
+      },
+      "text": "Further inquiry of the Superintendent of Immigration at Ottawa brings these additional explanations:",
+      "status": "ok",
+      "confidence": 0.9307082295417786,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 494,
+        "y0": 843,
+        "x1": 888,
+        "y1": 1427
+      },
+      "text": "No regulation or order has been made or issued, but I may say that it is not the policy at present of the government to encourage the settlement of colored people in Canada, as it is believed that the climate and other conditions of this country are not such as would be found congenial to colored people. Canada has not a very large colored population, and of those we have, only a comparatively small number are engaged in agriculture. There has been a considerable movement of white people from the Eastern to the Western provinces of Canada, but no appreciable movement of colored people, a fact which leads the government to believe that Western Canada will not be found very suitable as a field for settlement to colored people from the United States when similar people from Canada do not go west to take up land. There is nothing in the Canadian Immigration Law which debars any person on the ground of color, but since colored people are not considered as a class likely to do well in this country all our other regulations respecting health, money, etc., are strictly enforced, and it is quite possible that a number of your fellow countrymen may be rejected on such grounds",
+      "status": "ok",
+      "confidence": 0.9762001633644104,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 72,
+        "y0": 916,
+        "x1": 471,
+        "y1": 1446
+      },
+      "text": "At Murfreesboro, Tenn., one of the most unusual trials ever held at that place was ended after a session of three days, when the jury in the case of Lonzo Woods and David Cook, both colored, charged with criminal assault upon Miss Hula Bodily, a young white woman, returned a verdict of acquittal.\n\nAbout 1,000 men and boys, mostly boys, mobbed the Negroes who were abroad in the business districts of Fort Worth the other night. For two hours the mob surged along Main Street seeking victims.\n\nThe riot was precipitated by efforts of white men to operate a moving-picture show exclusively for Negroes at the corner of Eleventh and Main Streets. As early as 7 o'clock the mob began forming in front of the place, but the Negro ticket taker remained at his post until half a brick was sent flying through the window. Other missiles followed the first, and in a minute the interior of the moving-picture show house was in darkness.",
+      "status": "ok",
+      "confidence": 0.9756224751472473,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 543,
+        "y0": 1428,
+        "x1": 867,
+        "y1": 1488
+      },
+      "text": "Your obedient servant,\n(Signed) L. M. FORTIER,\nfor Superintendent of Immigration.",
+      "status": "ok",
+      "confidence": 0.9094132781028748,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 71,
+        "y0": 1446,
+        "x1": 468,
+        "y1": 1486
+      },
+      "text": "Boys around the edge of the crowd caught sight of a few Negroes near by",
+      "status": "ok",
+      "confidence": 0.9417448043823242,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 233,
+        "y0": 744,
+        "x1": 315,
+        "y1": 764
+      },
+      "text": "CRIME.",
+      "status": "ok",
+      "confidence": 0.8774608969688416,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 866,
+        "y0": 78,
+        "x1": 890,
+        "y1": 98
+      },
+      "text": "11",
+      "status": "ok",
+      "confidence": 0.7824845314025879,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 590,
+        "y0": 716,
+        "x1": 866,
+        "y1": 780
+      },
+      "text": "Yours faithfully,\n(Signed) JOHN C. WALKER,\nCommissioner",
+      "status": "ok",
+      "confidence": 0.6223042011260986,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.5,
+    "at": "2026-10-06T21:25:54+00:00"
+  }
+}

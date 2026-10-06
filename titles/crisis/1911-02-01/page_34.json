@@ -1,0 +1,365 @@
+{
+  "page": 34,
+  "image": "images/page_34.jpg",
+  "width": 1396,
+  "height": 2081,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 539,
+        "y0": 131,
+        "x1": 980,
+        "y1": 165
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8489992022514343,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 229,
+        "y0": 196,
+        "x1": 743,
+        "y1": 246
+      },
+      "text": "Ten. Years with Dr. D. C. White\nTelephone 7189 Morningkside",
+      "status": "ok",
+      "confidence": 0.8643565773963928,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 781,
+        "y0": 201,
+        "x1": 1284,
+        "y1": 782
+      },
+      "text": "No. 4 Special Buggy\n$65.00\nA value unequaled. Sold on\n$1.00 Profit Margin. Write\nfor prices and other styles.\nSend for catalog.\nC.R. Patterson & Sons",
+      "status": "ok",
+      "confidence": 0.8776891827583313,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 289,
+        "y0": 254,
+        "x1": 682,
+        "y1": 291
+      },
+      "text": "Dr. JAMES A. BANKS",
+      "status": "ok",
+      "confidence": 0.561659574508667,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 227,
+        "y0": 296,
+        "x1": 740,
+        "y1": 541
+      },
+      "text": "DENTIST\n204 WEST 133D STREET, NEW YORK\nPorcelain, Crown and Bridge Work a Specialty\nPure Nitrous-Oxide Gas Administered\n\nCan't See Well? See Me\nwhen your eyes feel painful, hot, uncomfortable\nand grow weary while reading, writing, sewing\nor looking at near objects, letters run together\nwhile reading and become blurred.",
+      "status": "ok",
+      "confidence": 0.7407150864601135,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 226,
+        "y0": 652,
+        "x1": 738,
+        "y1": 770
+      },
+      "text": "Eyes examined by me and fitted with glasses accurately made never grow weary, but are perfectly comfortable. You may not like to wear glasses, but do you like headaches, red eyes and wrinkles better? Scientific examinations of the eyes for defective eyesight is my specialty.",
+      "status": "ok",
+      "confidence": 0.3580567538738251,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 539,
+        "y0": 782,
+        "x1": 1285,
+        "y1": 1270
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 218,
+        "y0": 817,
+        "x1": 743,
+        "y1": 1273
+      },
+      "text": "FOR EXCLUSIVE PATRON\nThe National W\n128 W. 53d STREET, B\nWe please the critical. We serve all\nEverything new and well appointed. If w\nMUSIC SUNDAY AFTER\nLYMAS WILLIAMS, Proprietor",
+      "status": "ok",
+      "confidence": 0.5803696513175964,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 314,
+        "y0": 890,
+        "x1": 1187,
+        "y1": 929
+      },
+      "text": "FOR EXCLUSIVE PATRONAGE, EXCELLENT MEALS",
+      "status": "ok",
+      "confidence": 0.4147382080554962,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 225,
+        "y0": 989,
+        "x1": 1286,
+        "y1": 1312
+      },
+      "text": "The National Waiters' Restaurant\n128 W. 53d STREET, Between 6th and 7th Aves.\nWe please the critical. We serve all parties. Call and see our improvements.\nEverything new and well appointed. If we please you tell your friends; if not, tell us.\nMUSIC SUNDAY AFTERNOON AND EVENING\nLYMAS WILLIAMS, Proprietor\n\nJ. A. Phillips & Co.'s Bakery | Your Carpet Needs Cleaning!",
+      "status": "ok",
+      "confidence": 0.786044716835022,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 763,
+        "y0": 1270,
+        "x1": 1284,
+        "y1": 1766
+      },
+      "text": "Your Carpet Needs Cleaning!\nLet the NEW YORK CAREFUL\nCLEANING BUREAU Do It\nWe Clean and Renovate for Particular People—\nfrom a Rug to a House—by the Vacuum System.\nLet us give you a Clean House for\nA HAPPY NEW YEAR\n'Phone 3253 Harlem. 12 West 135th Street\n\nTELEPHONE 5277 MORNINGSIDE\n\nDr. Gertrude E. Curtis\n471 Lenox Avenue, New York City\n\nSURGEON\nDENTIST",
+      "status": "ok",
+      "confidence": 0.8797865509986877,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 221,
+        "y0": 1347,
+        "x1": 731,
+        "y1": 1477
+      },
+      "text": "Superior Bread, Cakes, Pies, Etc.\nThey serve the best people and wish to serve you throughout this\nHAPPY NEW YEAR\n17 WEST 133d STREET",
+      "status": "ok",
+      "confidence": 0.6058887839317322,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 220,
+        "y0": 1542,
+        "x1": 732,
+        "y1": 1664
+      },
+      "text": "One page, each insertion..... $15.00\nHalf page, each insertion....",
+      "status": "repetition",
+      "confidence": 0.9406402111053467,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 539,
+        "y0": 1656,
+        "x1": 1285,
+        "y1": 1803
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 218,
+        "y0": 1674,
+        "x1": 731,
+        "y1": 1713
+      },
+      "text": "Discounts for insertions of one advertisement for three months or more.",
+      "status": "ok",
+      "confidence": 0.6802297830581665,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 764,
+        "y0": 1800,
+        "x1": 905,
+        "y1": 1879
+      },
+      "text": "Office Hours:\n9-12 a. m.\n2-9 p. m.",
+      "status": "ok",
+      "confidence": 0.6379425525665283,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 759,
+        "y0": 1803,
+        "x1": 1285,
+        "y1": 1957
+      },
+      "text": "Office Hours: Bellevue Dental Clinic\n9-12 a. m. Mondays from\n2-9 p. m. 2 to 5 p. m.\n\nSUNDAYS BY APPOINTMENT\nWOMEN'S and CHILDREN'S WORK A SPECIALTY",
+      "status": "ok",
+      "confidence": 0.6609032154083252,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 218,
+        "y0": 1895,
+        "x1": 743,
+        "y1": 2061
+      },
+      "text": "Agent Continental Casualty Company\nAccident and Health\nLargest Insurance Company in the World\nMention T",
+      "status": "ok",
+      "confidence": 0.9236243963241577,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "abandon",
+      "bbox": {
+        "x0": 625,
+        "y0": 1967,
+        "x1": 854,
+        "y1": 1992
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.752045750617981,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "abandon",
+      "bbox": {
+        "x0": 229,
+        "y0": 131,
+        "x1": 264,
+        "y1": 158
+      },
+      "text": "34",
+      "status": "ok",
+      "confidence": 0.8529844284057617,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "figure",
+      "bbox": {
+        "x0": 368,
+        "y0": 547,
+        "x1": 607,
+        "y1": 643
+      },
+      "text": "𐬨𐬨𐬨",
+      "status": "ok",
+      "confidence": 0.8968055844306946,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "title",
+      "bbox": {
+        "x0": 327,
+        "y0": 1505,
+        "x1": 623,
+        "y1": 1532
+      },
+      "text": "ADVERTISING RATES",
+      "status": "ok",
+      "confidence": 0.8965032696723938,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 224,
+        "y0": 1745,
+        "x1": 623,
+        "y1": 1852
+      },
+      "text": "Phone 2870-J Harlem.\nW. A. PARKER\nACCIDENT INSURANCE",
+      "status": "ok",
+      "confidence": 0.8406898975372314,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "title",
+      "bbox": {
+        "x0": 317,
+        "y0": 1825,
+        "x1": 623,
+        "y1": 1885
+      },
+      "text": "ACCIDENT INSURANCE\n19 WEST 132D STREET",
+      "status": "ok",
+      "confidence": 0.7835226058959961,
+      "lines": []
+    },
+    {
+      "id": "r25",
+      "label": "title",
+      "bbox": {
+        "x0": 711,
+        "y0": 940,
+        "x1": 819,
+        "y1": 975
+      },
+      "text": "Call at",
+      "status": "ok",
+      "confidence": 0.7911988496780396,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 11.2,
+    "at": "2026-10-06T21:14:38+00:00"
+  }
+}

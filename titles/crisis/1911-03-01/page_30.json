@@ -1,0 +1,141 @@
+{
+  "page": 30,
+  "image": "images/page_30.jpg",
+  "width": 1092,
+  "height": 1671,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 144,
+        "y0": 116,
+        "x1": 989,
+        "y1": 300
+      },
+      "text": "WHAT TO READ",
+      "status": "ok",
+      "confidence": 0.3833847939968109,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 143,
+        "y0": 276,
+        "x1": 549,
+        "y1": 469
+      },
+      "text": "BOOKS.\nFishberg, Maurice—The Jews; a study of race and environment. Scribner.\nJohnson, J. P.—The Prehistoric Period in South Africa. Longmans.\nNearing, Scott—Social Adjustment. Macmillan.\nSteiner, Edward A.—Against the Current. Fleming Revell.",
+      "status": "ok",
+      "confidence": 0.9373781085014343,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 143,
+        "y0": 520,
+        "x1": 550,
+        "y1": 870
+      },
+      "text": "PERIODICALS.\nUsing the School House out of School Hours. A. Forsyth. The World To-day, January.\nUnemployable and the Unemployed. Edith Sellers. Living Age, December 24.\nModern Views of Heredity. C. L. Dana. Scientific American, December 24.\nResponse of the Animals to Their Environment. P. Kropotkin. The Nineteenth Century, November and December.\nThe Poetry of Lincoln. James R. Perry.\nThe North American Review, February.\nSidelights on Lincoln. Jessie Weik and Lambert Tree. Century, February.\nThe Discovery of the Fittest. Dr. S. Herbert. The Westminster Review, January.",
+      "status": "ok",
+      "confidence": 0.9617775082588196,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 143,
+        "y0": 913,
+        "x1": 549,
+        "y1": 1005
+      },
+      "text": "THE DISCOVERY OF THE FITTEST.\n\"The Discovery of the Fittest,\" by Dr. S. Herbert, in the January number of The Westminster Review, concludes thus:",
+      "status": "ok",
+      "confidence": 0.9362152814865112,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 144,
+        "y0": 1005,
+        "x1": 551,
+        "y1": 1519
+      },
+      "text": "\"There is no denying the fact that there are intrinsic differences between good stock and bad. Undoubtedly there exist families of exceeding excellence, to which we all can point; and, on the other hand, the danger arising from the increasing multiplication of the unfit—be they insane, imbecile, or morally degenerate—is a real one. But whilst admitting to the full the importance of the hereditary factor in the transmission of such traits, it must not be forgotten that potentiality needs a proper soil in order to blossom out into full reality. The capable are with us; so are the degenerate. But so far no decisive evidence has been forthcoming to show that ability is the privileged possession of any one class, just as little that degeneracy is confined to the lower strata of society. Whilst, then, the Eugenist is rightly insisting on the selection of the fittest and the rejection of the unfit—and it is to his credit to have pointed out the necessity of distinguishing between innate and acquired characters and their consequences—it becomes his most immediate",
+      "status": "ok",
+      "confidence": 0.9759021401405334,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 576,
+        "y0": 276,
+        "x1": 989,
+        "y1": 380
+      },
+      "text": "task for the future to make a careful and exhaustive inquiry into the values of the different social units. Only thus will it be assured that the fittest selected are the truly select of the nation.\"",
+      "status": "ok",
+      "confidence": 0.9469066262245178,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 575,
+        "y0": 429,
+        "x1": 988,
+        "y1": 690
+      },
+      "text": "[A Voice from the Congo. By Herbert Ward. Charles Scribner's Sons, New York.]\n\nThis is an artist's book, as one sees at the first page, and it is the author's gifts as an artist that call for first recognition. The splendid bronze Congo warrior as frontispiece, the Sorcerer, the Mother and Children, together with photographs and drawings of the implements of the savage folk, their swords, shields, potteries, give the book its first importance. The writing, also, is a series of pictures, graphically told and not easily forgotten.",
+      "status": "ok",
+      "confidence": 0.9694862961769104,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 577,
+        "y0": 691,
+        "x1": 987,
+        "y1": 1086
+      },
+      "text": "The Congo river is the center of the artist's story, and we glide down it in a canoe while the butterflies, like a white cloud, pass beside us; we land alone in the night in the wet swamp, up to our ankles in water, pestered by myriads of mosquitoes, waiting for the elephant that we have come to shoot; or we tramp mile after mile through the ever sunless, impenetrable forest. The many incidents that we see on the way \"frequently contain tragedy and always more or less suffering.\" The natives live in continual danger from the animal life about them or from their own untutored selves, and the white explorer rarely lives to return to his home. We have a glimpse of Stanley, inflexible, successful; and another of the good missionaries for whom our writer has only words of praise.",
+      "status": "ok",
+      "confidence": 0.9643350839614868,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 577,
+        "y0": 1086,
+        "x1": 988,
+        "y1": 1523
+      },
+      "text": "There is one amusing story of the author's attempt, when in charge of a station, to introduce an athletic meet among the Congo natives. Some hundreds attend and first insist that they shall eat at once, running afterward. Refreshments over, the pistol shot starts them at a hundred-yard dash, which resolves itself into a wild struggle in which each contestant tries to disable his adversary. There is a tremendous scramble on the ground and when at length the goal is reached some fifty men pass en masse and all demand prizes. \"The rest of the afternoon,\" the writer says, \"I found myself in the midst of a violent, turbulent mob of people apparently bereft of all reason . . . and when late at night I stretched myself out for the night it was with the full conviction that the time for introducing sporting events into that part of the country was not yet ripe.\"",
+      "status": "ok",
+      "confidence": 0.9014496207237244,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.8,
+    "at": "2026-10-06T21:19:40+00:00"
+  }
+}

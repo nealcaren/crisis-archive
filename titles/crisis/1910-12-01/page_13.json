@@ -1,0 +1,141 @@
+{
+  "page": 13,
+  "image": "images/page_13.jpg",
+  "width": 1078,
+  "height": 1606,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 437,
+        "y0": 89,
+        "x1": 550,
+        "y1": 115
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.6897498369216919,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 143,
+        "x1": 486,
+        "y1": 285
+      },
+      "text": "improvident, or brutal, is aside from the main issue; if they have any constitutional rights, the whole power of the Constitution should be brought into play to the end that they may get those rights.\"",
+      "status": "ok",
+      "confidence": 0.9712537527084351,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 286,
+        "x1": 486,
+        "y1": 810
+      },
+      "text": "Mr. William L. Marbury, one of the counsel in the Annapolis registration law cases on the anti-Negro side, gave an interview to the Baltimore Sun in which he said: \"I am glad to see that my friend, Mr. Bonaparte, is advising the Republican party of this State to test the question of the validity of the laws for the limitation of the franchise of the Negro in the courts. The Supreme Court alone has the ultimate decision of these questions, and I presume, of course, that these cases will go to that tribunal on writ of error. We are a law-abiding people, and whatever the Supreme Court says on this subject will be accepted as absolutely binding, as a matter of course. I for one am only too glad to see this controversy transferred from the political area to the judicial tribunals of the land.\"",
+      "status": "ok",
+      "confidence": 0.9799790382385254,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 814,
+        "x1": 486,
+        "y1": 1248
+      },
+      "text": "Rabbi William Rosenau, of Baltimore, preached a sermon on the topic: \"United in Our Humanity,\" in the course of which he said: \"If you would have an example of the unwarranted disaffection between races, which, disregarding all ties of humanity, has eventuated in enmity, then consider that reprehensible attitude of the white man, which would go the lengths, not merely of depriving the Negro of his Constitutional franchise, but also of limiting his educational advantages. Civil rights should never be withdrawn with the establishment of social discrimination.\" THE LEWIS APPOINTMENT.",
+      "status": "ok",
+      "confidence": 0.9795657396316528,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 88,
+        "y0": 1253,
+        "x1": 485,
+        "y1": 1494
+      },
+      "text": "Late in October an apparently well-founded rumor declared that President Taft would appoint William H. Lewis, of Boston, to be an assistant attorney-general of the United States. Under the date of October 27, N. B. Marshall, the colored lawyer who was associate counsel for the dismissed Brownsville battalion, addressed a letter to the President, in which he said:",
+      "status": "ok",
+      "confidence": 0.9743189811706543,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "abandon",
+      "bbox": {
+        "x0": 881,
+        "y0": 89,
+        "x1": 906,
+        "y1": 109
+      },
+      "text": "13",
+      "status": "ok",
+      "confidence": 0.8264352083206177,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 513,
+        "y0": 143,
+        "x1": 908,
+        "y1": 488
+      },
+      "text": "The appointment of a few colored men to high Federal offices, although delayed until a few days before election, does not blind the eyes of the colored people to the wrongs and injustices they are suffering from the nullification of the Constitution, which you are sworn to uphold. When we recall your Greensboro, New Orleans and Kansas City speeches, and your inaugural address, in which you, for the first time since the war amendments were adopted, boldly proclaimed a policy for colored citizens flagrantly at variance with the fundamental law of the land, we feel that you insult our intelligence by assuming that the American Negro is so ignorant and venal that he would exchange his political and civil rights for a few offices.",
+      "status": "ok",
+      "confidence": 0.9776775240898132,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 513,
+        "y0": 491,
+        "x1": 909,
+        "y1": 1083
+      },
+      "text": "We cannot forget that while you are appointing a few Negroes to office you have removed hundreds from office. We cannot forget that while our people in the Southern States are being disfranchised, indiscriminately \"jim-crowed\" and massacred by savage mobs, you have voiced no protest. We cannot forget that it was you who charged the colored soldiers with \"conspiracy of silence\" at Brownsville, which charge was completely and emphatically disproved by two great tribunals; nor can we forget that it was you, who, when the funds of the Brownsville Court Enquiry became exhausted before the enquiry was complete, refused to permit your Secretary of War to ask Congress for more funds. And this, too, in spite of the fact that Senator Aldridge had promised to see to it that the Court of Enquiry should have all the money necessary for a full and fair hearing. While we are glad and grateful to receive our just dues in the appointment of some colored men to high office, what we want above all things is that you use the powerful influence of your exalted office to the creation of a national sentiment for securing to our people the rights guaranteed to them by the Constitution of the United States.",
+      "status": "ok",
+      "confidence": 0.9798814058303833,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 512,
+        "y0": 1085,
+        "x1": 908,
+        "y1": 1493
+      },
+      "text": "The Boston Post, pleased with the appointment, offers this forceful comment: \"If Mr. Taft allows himself to be turned aside from the making of a fine and deserved appointment through the raising of the color issue by those servants of the government in Washington who cannot bear to think of an educated and refined Negro as their superior officer, he will prove himself more of a doughface than we can possibly imagine him to be.\" The Christian Science Monitor, of Boston, says: \"Whatever construction is placed by political analysts on President Taft's announced decision to name William H. Lewis, of Boston, as",
+      "status": "ok",
+      "confidence": 0.9799498915672302,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.8,
+    "at": "2026-10-06T20:57:00+00:00"
+  }
+}

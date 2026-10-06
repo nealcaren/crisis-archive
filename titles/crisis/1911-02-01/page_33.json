@@ -1,0 +1,491 @@
+{
+  "page": 33,
+  "image": "images/page_33.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 433,
+        "y0": 120,
+        "x1": 869,
+        "y1": 152
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8004636764526367,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 664,
+        "y0": 187,
+        "x1": 1179,
+        "y1": 244
+      },
+      "text": "Atlanta Baptist College",
+      "status": "ok",
+      "confidence": 0.9355918169021606,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "title",
+      "bbox": {
+        "x0": 137,
+        "y0": 187,
+        "x1": 619,
+        "y1": 301
+      },
+      "text": "Educational Directory\nHoward University",
+      "status": "ok",
+      "confidence": 0.9044719934463501,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 666,
+        "y0": 293,
+        "x1": 1176,
+        "y1": 502
+      },
+      "text": "A High School and College for men, conducted under the auspices of the American Baptist Home Mission Society, founded in 1867. Has a campus of thirteen acres on one of the highest points of land in the city. Five buildings, one just completed at a cost of $40,000. Societies, debating clubs and athletics.",
+      "status": "ok",
+      "confidence": 0.9701061844825745,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 123,
+        "y0": 307,
+        "x1": 632,
+        "y1": 678
+      },
+      "text": "WILBUR P. THIRKIELD, President\nWashington, D. C.\n\nThe College of Arts and Sciences—Kelly Miller,\nA.M., Dean.\n\nThe Teachers' College—Lewis B. Moore, A.M.,\nPh.D., Dean.\n\nThe Academy—George J. Cummings, A.M., Dean.\n\nThe Commercial College—George W. Cook, A.M.,\nDean.\n\nSchool of Manual Arts and Applied Sciences\nPROFESSIONAL SCHOOLS\n\nThe School of Theology—Isaac Clark, D.D., Dean.\n\nThe School of Medicine: Medical, Dental and\nPharmaceutical Colleges—Edward O. Balloch, M.D., Dean.\n\nThe School of Law — Benjamin F. Leighton,\nLL.D., Dean.\n\nFor catalogue and special information address\nDean of Department.",
+      "status": "ok",
+      "confidence": 0.8706936240196228,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 744,
+        "y0": 509,
+        "x1": 1097,
+        "y1": 609
+      },
+      "text": "JOHN HOPE, A. M.\nPresident",
+      "status": "ok",
+      "confidence": 0.8486018776893616,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 664,
+        "y0": 649,
+        "x1": 1175,
+        "y1": 706
+      },
+      "text": "Virginia Union University",
+      "status": "ok",
+      "confidence": 0.9198563694953918,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "title",
+      "bbox": {
+        "x0": 124,
+        "y0": 700,
+        "x1": 630,
+        "y1": 977
+      },
+      "text": "Atlanta University Is beautifully located in the City of Atlanta, Ga. The courses of study include High School, Normal School and College, with manual training and domestic science. Among the teachers are graduates of Yale, Harvard, Dartmouth, Smith and Wellesley. Forty-one years of successful work have been completed. Students come from all parts of the South. Graduates are almost universally successful.",
+      "status": "ok",
+      "confidence": 0.9688142538070679,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 663,
+        "y0": 764,
+        "x1": 1173,
+        "y1": 1024
+      },
+      "text": "A College Department, of high standards and modern curriculum.\nA Theological Department, with all subjects generally required in the best theological seminaries.\nAn Academy, with manual training, giving a preparation for life or for college.\nThe positive moral and religious aim of the school, its high standards of entrance and of class work, its fine new buildings and well-equipped laboratories and library, prepare a faithful student for a life of wide usefulness.\nGEORGE RICE HOVEY, President",
+      "status": "ok",
+      "confidence": 0.8871728777885437,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 119,
+        "y0": 1015,
+        "x1": 631,
+        "y1": 1074
+      },
+      "text": "President EDWARD T. WARE\nATLANTA, GA.",
+      "status": "ok",
+      "confidence": 0.813433051109314,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "title",
+      "bbox": {
+        "x0": 663,
+        "y0": 1069,
+        "x1": 1173,
+        "y1": 1179
+      },
+      "text": "The National Religious Training School, DURHAM, N.C.",
+      "status": "ok",
+      "confidence": 0.9548875689506531,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 119,
+        "y0": 1109,
+        "x1": 629,
+        "y1": 1194
+      },
+      "text": "Wilberforce University\nWILBERFORCE, OHIO",
+      "status": "ok",
+      "confidence": 0.709344208240509,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 701,
+        "y0": 1188,
+        "x1": 1139,
+        "y1": 1310
+      },
+      "text": "Offers special training to young men and women as Settlement Workers, Association Secretaries, Missionaries, Literary and Other Branches.",
+      "status": "ok",
+      "confidence": 0.8600807785987854,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 120,
+        "y0": 1205,
+        "x1": 629,
+        "y1": 1432
+      },
+      "text": "Opens first Tuesday in September\nLocated in Greene County, 3 1/4 miles from Xenia, Ohio. Healthful surroundings. Refined community. Faculty of 32 members. Expenses low. Classical and Scientific, Theological, Preparatory, Music, Military, Normal and Business Departments. Ten industries taught. Great opportunities for High School graduates entering College or Professional Courses. Two new buildings for girls to be erected this year-one now in process of erection, and the other to be begun in the spring. Catalogue and Special Information Furnished.",
+      "status": "ok",
+      "confidence": 0.9381846189498901,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 660,
+        "y0": 1372,
+        "x1": 1174,
+        "y1": 1461
+      },
+      "text": "Commercial, Literary, Music, Theological Religious Training and Industrial FALL TERM OPENS OCTOBER 12",
+      "status": "ok",
+      "confidence": 0.6889000535011292,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 196,
+        "y0": 1460,
+        "x1": 551,
+        "y1": 1483
+      },
+      "text": "W. S. SCARBOROUGH, President.",
+      "status": "ok",
+      "confidence": 0.38397371768951416,
+      "lines": []
+    },
+    {
+      "id": "r16",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 698,
+        "y0": 1512,
+        "x1": 1133,
+        "y1": 1585
+      },
+      "text": "The Summer School and Chautauqua opens July 5, 1911, and closes August 14.",
+      "status": "ok",
+      "confidence": 0.9508563876152039,
+      "lines": []
+    },
+    {
+      "id": "r17",
+      "label": "title",
+      "bbox": {
+        "x0": 117,
+        "y0": 1517,
+        "x1": 626,
+        "y1": 1671
+      },
+      "text": "Shaw University This institution of learning, established in 1865, has industrial departments for both young men and young women, as well as college, normal and preparatory departments. There are also Schools of Law, Medicine, Pharmacy and Theology.",
+      "status": "ok",
+      "confidence": 0.9067767262458801,
+      "lines": []
+    },
+    {
+      "id": "r18",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 697,
+        "y0": 1586,
+        "x1": 1132,
+        "y1": 1684
+      },
+      "text": "The attractions and advantages offered in the Summer School are unsurpassed in the country for colored young men and women.",
+      "status": "ok",
+      "confidence": 0.9400344491004944,
+      "lines": []
+    },
+    {
+      "id": "r19",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 116,
+        "y0": 1671,
+        "x1": 625,
+        "y1": 1726
+      },
+      "text": "The facilities have recently been increased. Other improvements are being planned that will be completed within the next two years.",
+      "status": "ok",
+      "confidence": 0.8928190469741821,
+      "lines": []
+    },
+    {
+      "id": "r20",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 696,
+        "y0": 1684,
+        "x1": 1131,
+        "y1": 1733
+      },
+      "text": "Applications should be sent in at an early date.",
+      "status": "ok",
+      "confidence": 0.9113688468933105,
+      "lines": []
+    },
+    {
+      "id": "r21",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 116,
+        "y0": 1727,
+        "x1": 625,
+        "y1": 1800
+      },
+      "text": "Applications should be made several months or a year in advance, for it has become impossible during the last few years to receive all who apply. The present enrollment is over 500.",
+      "status": "ok",
+      "confidence": 0.9330961108207703,
+      "lines": []
+    },
+    {
+      "id": "r22",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 694,
+        "y0": 1734,
+        "x1": 1130,
+        "y1": 1807
+      },
+      "text": "Loan Scholarships have been established for deserving young men and women.",
+      "status": "ok",
+      "confidence": 0.9317367672920227,
+      "lines": []
+    },
+    {
+      "id": "r23",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 116,
+        "y0": 1800,
+        "x1": 625,
+        "y1": 1875
+      },
+      "text": "The academic year begins on the Thursday nearest the first day of October and continues for thirty-two consecutive weeks. The charges are moderate. Catalogues furnished upon application.",
+      "status": "ok",
+      "confidence": 0.9332382678985596,
+      "lines": []
+    },
+    {
+      "id": "r24",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 657,
+        "y0": 1808,
+        "x1": 1172,
+        "y1": 1927
+      },
+      "text": "The President, National Religious Training School, Durham, N. C.",
+      "status": "ok",
+      "confidence": 0.8638716340065002,
+      "lines": []
+    },
+    {
+      "id": "r25",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 208,
+        "y0": 1881,
+        "x1": 538,
+        "y1": 1928
+      },
+      "text": "Address THE PRESIDENT Shaw University, Raleigh, N. C.",
+      "status": "ok",
+      "confidence": 0.69560706615448,
+      "lines": []
+    },
+    {
+      "id": "r26",
+      "label": "text",
+      "bbox": {
+        "x0": 657,
+        "y0": 1927,
+        "x1": 1179,
+        "y1": 2057
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r27",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 146,
+        "y0": 985,
+        "x1": 495,
+        "y1": 1007
+      },
+      "text": "For further information address",
+      "status": "ok",
+      "confidence": 0.8742706775665283,
+      "lines": []
+    },
+    {
+      "id": "r28",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 334,
+        "y0": 1438,
+        "x1": 414,
+        "y1": 1457
+      },
+      "text": "Address",
+      "status": "ok",
+      "confidence": 0.4894137382507324,
+      "lines": []
+    },
+    {
+      "id": "r29",
+      "label": "abandon",
+      "bbox": {
+        "x0": 531,
+        "y0": 1939,
+        "x1": 756,
+        "y1": 1963
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.5810080170631409,
+      "lines": []
+    },
+    {
+      "id": "r30",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1143,
+        "y0": 121,
+        "x1": 1178,
+        "y1": 147
+      },
+      "text": "33",
+      "status": "ok",
+      "confidence": 0.8196349740028381,
+      "lines": []
+    },
+    {
+      "id": "r31",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 786,
+        "y0": 251,
+        "x1": 1064,
+        "y1": 280
+      },
+      "text": "ATLANTA, GEORGIA",
+      "status": "ok",
+      "confidence": 0.8579703569412231,
+      "lines": []
+    },
+    {
+      "id": "r32",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 810,
+        "y0": 715,
+        "x1": 1025,
+        "y1": 743
+      },
+      "text": "RICHMOND, VA.",
+      "status": "ok",
+      "confidence": 0.692848801612854,
+      "lines": []
+    },
+    {
+      "id": "r33",
+      "label": "title",
+      "bbox": {
+        "x0": 792,
+        "y0": 1486,
+        "x1": 1037,
+        "y1": 1509
+      },
+      "text": "SUMMER SCHOOL.",
+      "status": "ok",
+      "confidence": 0.8413025736808777,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.7,
+    "at": "2026-10-06T21:14:27+00:00"
+  }
+}

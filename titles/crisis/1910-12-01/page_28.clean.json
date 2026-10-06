@@ -1,0 +1,479 @@
+{
+ "page": 28,
+ "image": "images/page_28.jpg",
+ "width": 1078,
+ "height": 1606,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 7.2,
+  "at": "2026-10-06T20:58:59+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 160,
+    "y0": 95,
+    "x1": 984,
+    "y1": 229
+   },
+   "text": "TALKS ABOUT WOMEN\nNUMBER ONE By Mrs. JOHN E. MILHOLLAND",
+   "status": "ok",
+   "confidence": 0.48211154341697693,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 159,
+    "y0": 96,
+    "x1": 985,
+    "y1": 227
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "figure",
+   "bbox": {
+    "x0": 160,
+    "y0": 1194,
+    "x1": 982,
+    "y1": 1329
+   },
+   "text": "LETTERS",
+   "status": "ok",
+   "confidence": 0.412913054227829,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 160,
+    "y0": 1194,
+    "x1": 980,
+    "y1": 1323
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 160,
+    "y0": 252,
+    "x1": 557,
+    "y1": 524
+   },
+   "text": "The restlessness of woman the world over has led the female members of our population into activities never dreamed of in the days when our mothers and sisters were content to be simply good homekeeping and homemaking housewives, devoted entirely to the family, its interests and their own social duties. That day has passed, and with the change in economic conditions, women have had to go into the business world to compete with men. In many cases their work is of a kind that in years gone by was looked upon as belonging by right to the stronger sex.",
+   "status": "ok",
+   "confidence": 0.9757413864135742,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 159,
+    "y0": 251,
+    "x1": 556,
+    "y1": 521
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 159,
+    "y0": 568,
+    "x1": 555,
+    "y1": 1064
+   },
+   "text": "This emerging from the home into a broader and more competitive field of labor has given to woman an opportunity to develop along lines quite new to her in the more conservative and homebound horizon. In a way, too, modern society has been largely affected by this new development, and that in a manner most desirable in a country like ours, which has for its very foundations democracy, both in form and fact. Take, for instance, the suffrage, certainly the most vital, as well as the most important, of interests of the New Woman Movement. In this reform alone we have a complete upsetting of former social standards. We find the woman of fashion and wealth working side by side in all harmony with a sister who earns her living by working in a factory or shop. Each is so interested in procuring for herself, as well as for her sex, the right of political freedom, that there is neither time nor inclination for the one to think or care about the social standing of the other. All that the cause requires is live, active workers, with a vital interest and determined effort",
+   "status": "ok",
+   "confidence": 0.96443772315979,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 158,
+    "y0": 567,
+    "x1": 554,
+    "y1": 1064
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 161,
+    "y0": 1352,
+    "x1": 636,
+    "y1": 1450
+   },
+   "text": "FROM DUTCH WORKINGMEN.\nThe Protestant Laboring Men's Association, \"Francisco Ferrer,\" of Amsterdam, adopted the following motion in their meeting of November 1st last:",
+   "status": "ok",
+   "confidence": 0.9165584444999695,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 158,
+    "y0": 1351,
+    "x1": 629,
+    "y1": 1586
+   },
+   "exclude": [
+    [
+     630,
+     1418,
+     638,
+     1428,
+     "r9"
+    ],
+    [
+     629,
+     1432,
+     638,
+     1446,
+     "r9"
+    ],
+    [
+     630,
+     1359,
+     639,
+     1369,
+     "r9"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 582,
+    "y0": 250,
+    "x1": 985,
+    "y1": 506
+   },
+   "text": "to bring about the reform they all have at heart—\"Votes for women.\"\n\nThe colored women have done their share in this march for progress and the betterment of their sex; but, as yet, their efforts seem to have been made principally within their own circle and among their own race. It is time now, however, that they come forward and help share with their white sisters their responsibilities, and seek to obtain for both recognition as citizens possessed of political rights.",
+   "status": "ok",
+   "confidence": 0.9753020405769348,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 581,
+    "y0": 249,
+    "x1": 984,
+    "y1": 503
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 580,
+    "y0": 510,
+    "x1": 983,
+    "y1": 1068
+   },
+   "text": "These rights which the progressive woman of to-day claims as her own are demanded of the same spirit of justice which granted to the Negro, fifty years ago, his right of Suffrage and made him a factor in the political affairs of the nation. But, as any one who thinks about the matter at all well knows, the political freedom of the colored man is really \"freedom\" in name only so far as the South is concerned. Though he may sometimes have the right to vote, he certainly is not allowed the right to cast that vote where and for whom he chooses. So it would seem a wise and progressive step for our colored women to look carefully into the question of Suffrage. Surely its value as a useful weapon for bringing about not only her own enfranchisement, but also for securing to the Negro of the South the political freedom to which he is justly entitled, must appeal to her.\n\nAt any rate \"In union there is strength,\" and therefore the woman's rights movement demands and deserves the united and harmonious effort of every woman in this country, no matter what her color, her creed or her condition among men.",
+   "status": "ok",
+   "confidence": 0.9770398139953613,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 579,
+    "y0": 519,
+    "x1": 981,
+    "y1": 1066
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "text",
+   "bbox": {
+    "x0": 553,
+    "y0": 1118,
+    "x1": 982,
+    "y1": 1453
+   },
+   "text": "ving taken due note of the circular is by the National Negro Committee, which was brought to the attention of the people of Great Britain and Europe, and deriding that the existing conditions of",
+   "status": "ok",
+   "confidence": 0.9497343301773071,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 579,
+    "y0": 1066,
+    "x1": 984,
+    "y1": 1586
+   },
+   "exclude": [
+    [
+     613,
+     1373,
+     622,
+     1388,
+     "r6"
+    ],
+    [
+     585,
+     1378,
+     591,
+     1387,
+     "r6"
+    ],
+    [
+     593,
+     1378,
+     597,
+     1387,
+     "r6"
+    ],
+    [
+     598,
+     1378,
+     602,
+     1387,
+     "r6"
+    ],
+    [
+     604,
+     1378,
+     611,
+     1388,
+     "r6"
+    ],
+    [
+     550,
+     1381,
+     555,
+     1383,
+     "r6"
+    ],
+    [
+     600,
+     1393,
+     608,
+     1407,
+     "r6"
+    ],
+    [
+     611,
+     1393,
+     613,
+     1395,
+     "r6"
+    ],
+    [
+     625,
+     1394,
+     634,
+     1407,
+     "r6"
+    ],
+    [
+     584,
+     1398,
+     589,
+     1407,
+     "r6"
+    ],
+    [
+     589,
+     1398,
+     594,
+     1407,
+     "r6"
+    ],
+    [
+     595,
+     1398,
+     597,
+     1402,
+     "r6"
+    ],
+    [
+     610,
+     1398,
+     614,
+     1407,
+     "r6"
+    ],
+    [
+     616,
+     1398,
+     623,
+     1407,
+     "r6"
+    ],
+    [
+     553,
+     1404,
+     556,
+     1409,
+     "r6"
+    ],
+    [
+     625,
+     1412,
+     628,
+     1426,
+     "r6"
+    ],
+    [
+     550,
+     1416,
+     556,
+     1426,
+     "r6"
+    ],
+    [
+     584,
+     1417,
+     602,
+     1430,
+     "r6"
+    ],
+    [
+     603,
+     1417,
+     613,
+     1427,
+     "r6"
+    ],
+    [
+     614,
+     1418,
+     623,
+     1430,
+     "r6"
+    ],
+    [
+     624,
+     1432,
+     627,
+     1434,
+     "r6"
+    ],
+    [
+     584,
+     1436,
+     591,
+     1446,
+     "r6"
+    ],
+    [
+     593,
+     1436,
+     602,
+     1446,
+     "r6"
+    ],
+    [
+     604,
+     1437,
+     613,
+     1446,
+     "r6"
+    ],
+    [
+     615,
+     1437,
+     621,
+     1447,
+     "r6"
+    ],
+    [
+     623,
+     1437,
+     627,
+     1446,
+     "r6"
+    ],
+    [
+     162,
+     1197,
+     980,
+     1327,
+     "r1"
+    ],
+    [
+     177,
+     1211,
+     966,
+     1313,
+     "r1"
+    ],
+    [
+     550,
+     1238,
+     592,
+     1281,
+     "r1"
+    ],
+    [
+     614,
+     1238,
+     654,
+     1282,
+     "r1"
+    ],
+    [
+     677,
+     1239,
+     720,
+     1282,
+     "r1"
+    ],
+    [
+     742,
+     1239,
+     771,
+     1283,
+     "r1"
+    ],
+    [
+     603,
+     1354,
+     618,
+     1369,
+     "r6"
+    ],
+    [
+     621,
+     1359,
+     628,
+     1369,
+     "r6"
+    ]
+   ],
+   "changed": true,
+   "text_before_clean": "Having taken due note of the circular issued by the National Negro Committee, which was brought to the attention of the people of Great Britain and Europe, and considering that the existing conditions of",
+   "role": "text"
+  }
+ ],
+ "clean": {
+  "regions_before": 10,
+  "regions_after": 8,
+  "lost_words": [
+   "considering",
+   "having",
+   "issued"
+  ],
+  "unowned_ink_pct": 0.39,
+  "box_overlaps_after": 2,
+  "log": [
+   "drop r4 (text): non-latin hallucination 'حرَّجَة'",
+   "drop r5 (title): non-latin hallucination '尬'",
+   "reshape r9 (text): lost 77% of its ink, gained 7%",
+   "reread r9: 'Having taken due note of the circular is' -> 'ving taken due note of the circular is b'",
+   "CHECK words lost from page text: considering having issued"
+  ]
+ }
+}

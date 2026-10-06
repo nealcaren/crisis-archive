@@ -1,0 +1,197 @@
+{
+  "page": 11,
+  "image": "images/page_11.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 403,
+        "y0": 158,
+        "x1": 919,
+        "y1": 239
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.7887669205665588,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 679,
+        "y0": 316,
+        "x1": 1188,
+        "y1": 542
+      },
+      "text": "and will put new heart into the colored people. \"This confidence will be strengthened by the action of the President in the case of the lumber and turpentine operator in Florida. It is not only likely that bad labor legislation in the South will be checked, but it becomes less likely that offenders against the plain laws of humanity shall escape unpunished.\"",
+      "status": "ok",
+      "confidence": 0.9733395576477051,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 136,
+        "y0": 350,
+        "x1": 646,
+        "y1": 600
+      },
+      "text": "The decision of the Supreme Court against Alabama peonage has attracted little attention in the press. A brief dispatch from Washington announced the court's view, and few papers gave it prominence. The New York Evening Post thinks there will be general rejoicing, North and South, at the result of the decision. The peonage law, it says, was a long step toward re-enslaving the Negro.",
+      "status": "ok",
+      "confidence": 0.9769418835639954,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 678,
+        "y0": 598,
+        "x1": 1186,
+        "y1": 895
+      },
+      "text": "The Rev. Samuel H. Bishop, who is Secretary of the American Church Institute, organized by the Episcopal Church, wrote to the New York Evening Post a letter apropos of Mr. Carnegie's gift of $10,000,-000 to the cause of peace. Mr. Bishop is glad that the crusade should be furthered, but he feels that the sentiment against war is growing stronger and would soon conquer without Mr. Carnegie's millions, while there seems to him a greater cause that might have been advanced by such a gift.",
+      "status": "ok",
+      "confidence": 0.6738634705543518,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 136,
+        "y0": 601,
+        "x1": 645,
+        "y1": 966
+      },
+      "text": "\"Unlike the open attempts at enslavement in peonage camps which were so vigorously opposed in the Roosevelt Administration, this was a legal attempt to meet the difficulties caused by the instability of Negro labor. On its face it made it a misdemeanor to take advance pay for labor and to fail to work out the advanced money. Practically by the aid of chain-gang sentences, it meant that if a workingman bound himself to serve, but found the conditions of labor were insupportable, he could be reduced to involuntary servitude by the indirect method of making his failure to pay a debt a crime.",
+      "status": "ok",
+      "confidence": 0.9725109338760376,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 677,
+        "y0": 895,
+        "x1": 1184,
+        "y1": 1235
+      },
+      "text": "\"Superlatives,\" he says, \"are dangerous, but if there is any superlative of importance which is safe, I am confident it is the superlative of the Negro problem. Consider what it means—that a social group, nearly 12,000,000 strong, with a strong racial differentiation which has thus far prevented that group's thorough assimilation into American life, has 2,500,000 children and youth under twenty, of whom not more than 45 per cent. have any opportunity for training in the art and knowledge of life, and in the responsibilities and duties of citizenship.",
+      "status": "ok",
+      "confidence": 0.7030749320983887,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 134,
+        "y0": 968,
+        "x1": 645,
+        "y1": 1557
+      },
+      "text": "\"The Supreme Court's decision will be heartily welcomed by broad-minded Southerners everywhere; for they realize that, vexing as the labor problem is, the solution lies in other directions than involuntary servitude. \"This Alabama decision means, of course, far more than appears on the surface. It will not only check further legislation in that direction, but will probably result in upsetting similar statutes elsewhere. More than that, it will put heart into the colored people whose fears have been aroused by the President's Southern appointments to the Supreme Court. It will be a gratifying proof to them that, after all, there are courts in the land; and they need this assurance now that the attacks upon them have taken the form not only of assaults upon their freedom, but upon their right to hold property. This is the meaning of the Baltimore segregation plan; there is segregation of the Negroes there now as in every large city, but it is voluntary.",
+      "status": "ok",
+      "confidence": 0.9769328832626343,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 675,
+        "y0": 1237,
+        "x1": 1183,
+        "y1": 1654
+      },
+      "text": "\"Consider also that in our Northern cities the workers of that group suffer from a wage discrimination of about 20 per cent.; from a rent discrimination of about 20 per cent.; consider such a suggestion as that recently made by the Governor of South Carolina, which every student of the Negro problem knows is the expression of a tendency which has been with great difficulty prevented from being expressed in law; consider the action of the Baltimore Board of Aldermen. I am not intimating at all that there is any probability of an insurrection—that is not my point—but the point is clear that no propaganda for peace can afford to ignore a situation which is per se productive of the war spirit.",
+      "status": "ok",
+      "confidence": 0.9767999053001404,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 133,
+        "y0": 1560,
+        "x1": 644,
+        "y1": 1779
+      },
+      "text": "\"A decision has just come from the State of Washington's Supreme Court which will give comfort to the Baltimore colored people. There it has been held that a real estate company cannot decline to transfer a lot to a colored man if he has contracted to purchase it openly and fairly. These decisions merely uphold the fundamental principles of democracy.\"",
+      "status": "ok",
+      "confidence": 0.973904550075531,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 673,
+        "y0": 1655,
+        "x1": 1181,
+        "y1": 1854
+      },
+      "text": "\"The Episcopal Church has undertaken to establish a great Negro university called the American Church Institute for Negroes. It has in five States of the Union six schools, with two more applying for relationship to it; 1,600 students, 80 instructors and teachers, more than twenty departments of industrial and professional education.",
+      "status": "ok",
+      "confidence": 0.974922239780426,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 132,
+        "y0": 1780,
+        "x1": 642,
+        "y1": 1855
+      },
+      "text": "The Chicago Record-Herald takes the same view. It says the decision will be welcomed by humane people everywhere,",
+      "status": "ok",
+      "confidence": 0.953180730342865,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "title",
+      "bbox": {
+        "x0": 318,
+        "y0": 313,
+        "x1": 462,
+        "y1": 342
+      },
+      "text": "PEONAGE.",
+      "status": "ok",
+      "confidence": 0.8883087635040283,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "title",
+      "bbox": {
+        "x0": 882,
+        "y0": 565,
+        "x1": 983,
+        "y1": 594
+      },
+      "text": "PEACE.",
+      "status": "ok",
+      "confidence": 0.7130508422851562,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.6,
+    "at": "2026-10-06T21:11:07+00:00"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "page": 36,
+  "image": "images/page_36.jpg",
+  "width": 1091,
+  "height": 1670,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 135,
+        "y0": 125,
+        "x1": 995,
+        "y1": 305
+      },
+      "text": "Frederick Douglass Memorial Hospital and Training School",
+      "status": "ok",
+      "confidence": 0.9231420159339905,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 135,
+        "y0": 351,
+        "x1": 706,
+        "y1": 1359
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 212,
+        "y0": 449,
+        "x1": 908,
+        "y1": 1105
+      },
+      "text": "1793",
+      "status": "ok",
+      "confidence": 0.9725663065910339,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 134,
+        "y0": 1150,
+        "x1": 986,
+        "y1": 1364
+      },
+      "text": "A limited number of free beds maintained for the worthy poor. Other ward patients maintained at $7.00 per week. Private rooms can be secured from $12.00 to $30.00 per week. The training school for nurses maintains a two years' course. A high school certificate, or an education sufficient to be considered an equivalent, necessary for admission.",
+      "status": "ok",
+      "confidence": 0.6295475363731384,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 137,
+        "y0": 1359,
+        "x1": 706,
+        "y1": 1394
+      },
+      "text": "Five thousand dollars endows a free bed.",
+      "status": "ok",
+      "confidence": 0.788069486618042,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 82,
+        "y0": 68,
+        "x1": 592,
+        "y1": 1555
+      },
+      "text": "Frederick Douglas Hospital and Trust\nLOMBARD AND SIXTEENTH STREET\n\nA limited number of free beds may\nOther ward patients maintained\nPrivate rooms can be secured from\nThe training school for nurses m\nA high school certificate, or a\nconsidered an equivalent, neces\nFive thousand dollars endows a f\n\nANDREW F. STEVENS\nPresident",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 138,
+        "y0": 316,
+        "x1": 659,
+        "y1": 351
+      },
+      "text": "LOMBARD AND SIXTEENTH STREETS,",
+      "status": "ok",
+      "confidence": 0.8294914364814758,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "abandon",
+      "bbox": {
+        "x0": 464,
+        "y0": 1564,
+        "x1": 649,
+        "y1": 1587
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.7774678468704224,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 728,
+        "y0": 314,
+        "x1": 991,
+        "y1": 349
+      },
+      "text": "PHILADELPHIA, PA.",
+      "status": "ok",
+      "confidence": 0.6469686031341553,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 598,
+        "y0": 349,
+        "x1": 991,
+        "y1": 1457
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 598,
+        "y0": 1457,
+        "x1": 991,
+        "y1": 1650
+      },
+      "text": "NATHAN F. MOSSELL, M. D.\nMedical Director and Superintendent\n\nCRISIS.",
+      "status": "ok",
+      "confidence": 0.4017646014690399,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.2,
+    "at": "2026-10-06T21:20:40+00:00"
+  }
+}

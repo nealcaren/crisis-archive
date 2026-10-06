@@ -1,0 +1,183 @@
+{
+  "page": 22,
+  "image": "images/page_22.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 248,
+        "y0": 108,
+        "x1": 1304,
+        "y1": 258
+      },
+      "text": "January 6, 1811 Charles Sumner January 6, 1911 By Justice WENDELL PHILLIPS STAFFORD, of the Supreme Court of the District of Columbia",
+      "status": "ok",
+      "confidence": 0.6382269263267517,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 241,
+        "y0": 303,
+        "x1": 730,
+        "y1": 447
+      },
+      "text": "I will send him to my dark-browed race,\nOn whom the world hath sinned;\nAnd he shall be as a hiding place,\nAnd a covert from the wind,",
+      "status": "ok",
+      "confidence": 0.7551811933517456,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 241,
+        "y0": 482,
+        "x1": 657,
+        "y1": 625
+      },
+      "text": "As streams of water for the flock,\nAmidst the burning sand,\nThe shadow of a mighty rock\nOver a weary land.",
+      "status": "ok",
+      "confidence": 0.9404866099357605,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 240,
+        "y0": 660,
+        "x1": 753,
+        "y1": 802
+      },
+      "text": "So spake the Lord God on this day\nA hundred years agone,\nWhile the maids to the fainting mother say,\nSee, thou hast borne a son!",
+      "status": "ok",
+      "confidence": 0.9410063028335571,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 241,
+        "y0": 838,
+        "x1": 671,
+        "y1": 980
+      },
+      "text": "And now again in the latter year\nThe Lord God speaks to-day:\nGird up your loins like men to hear\nAnd answer what I say:",
+      "status": "ok",
+      "confidence": 0.950127899646759,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 239,
+        "y0": 1015,
+        "x1": 701,
+        "y1": 1157
+      },
+      "text": "Leave me the dead, they are my own:\nYours are the sick that die.\nI cannot hear your priests intone\nFor the noise of your poor that cry.",
+      "status": "ok",
+      "confidence": 0.9582503437995911,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 239,
+        "y0": 1190,
+        "x1": 652,
+        "y1": 1332
+      },
+      "text": "How is it that the weak complain, And my children suffer harm? The sacrifice was naught: in vain The Lord made bare His arm.",
+      "status": "ok",
+      "confidence": 0.9546260833740234,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 236,
+        "y0": 1367,
+        "x1": 750,
+        "y1": 1851
+      },
+      "text": "You have forgotten the camps that reached\nFrom rising to setting suns;\nYou have forgotten the truth I preached\nBy the lips of a million guns.\n\nThe thousands who died in the prison pen,\nAnd the hundred thousands slain;\nMust I write it again, as I wrote it then,\nTo make the lesson plain?\n\nSee how along the dizzy steep\nGo the weak lambs unled;\nSee how the thin and hungry sheep\nLook up and are not fed.",
+      "status": "ok",
+      "confidence": 0.938098669052124,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 236,
+        "y0": 1851,
+        "x1": 753,
+        "y1": 2057
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 782,
+        "y0": 302,
+        "x1": 1301,
+        "y1": 816
+      },
+      "text": "See how the rich his web still draws\nAround and round the poor:\nHe sits and spins his spider laws\nTo make his capture sure.\n\nSee how the man I gave the light\nLeaves man in dark to dwell,\nAnd makes Religion, angel bright,\nProcuress unto hell.\n\nThink you I have no reins for Wrong,\nNo iron curb for a check.\n\nWhen the hand of him I have made so strong\nIs on his brother's neck?",
+      "status": "ok",
+      "confidence": 0.9385397434234619,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 781,
+        "y0": 844,
+        "x1": 1276,
+        "y1": 1327
+      },
+      "text": "Think you the word I made my vow\nSleeps in my prophet's grave,\nOr that my arm is shortened now\nSo that I cannot save?\n\nNow once again I swear\nHe only shall gain who gives;\nThe soul that hateth by hate shall die,\nBy love the spirit lives.\n\nAnd he who will take the curse\nAnd carry the griefs of men,\nHe shall be My Son, my Anointed One,\nThe Christ that should come again!",
+      "status": "ok",
+      "confidence": 0.933412492275238,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 779,
+        "y0": 1357,
+        "x1": 1300,
+        "y1": 1855
+      },
+      "text": "Till man to man by love is bound\nAs man from man by law is free,\nYour bells swing round with a hateful sound,\nYour censers are a stench to me!\n\nGod of our fathers, be with us\nAs Thou wert with our sires,\nAnd make our midnight glorious\nWith freedom's beaconing fires;\nShow us along our cloud-wrapt way\nSome gleam of Thy garment's hem;\nAnd do for us in our darkening day\nAs Thou hast done for them!",
+      "status": "ok",
+      "confidence": 0.293584406375885,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.4,
+    "at": "2026-10-06T21:12:40+00:00"
+  }
+}

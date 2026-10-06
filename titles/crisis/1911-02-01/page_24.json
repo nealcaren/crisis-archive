@@ -1,0 +1,155 @@
+{
+  "page": 24,
+  "image": "images/page_24.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 655,
+        "y0": 112,
+        "x1": 853,
+        "y1": 144
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8533051013946533,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 222,
+        "y0": 114,
+        "x1": 258,
+        "y1": 140
+      },
+      "text": "24",
+      "status": "ok",
+      "confidence": 0.8350335359573364,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 221,
+        "y0": 180,
+        "x1": 733,
+        "y1": 580
+      },
+      "text": "free Negroes of the colony had their representatives.\" You all, no doubt, are familiar with the names of Peter Salem and Salem Poor, and their gallant records. The following account is taken from Arnold's history of the Battle of Rhode Island: \"At last the foot columns of the enemy massed and swept down the slopes of Anthony's Hill, with the impetuosity of a whirlwind, but they were received by the American troops with the courage and calmness of veterans. The loss on both sides was fearful. It was in repelling these furious onsets that the newly raised black regiment, under Col. Greene, distinguished itself by deeds of desperate valor.\"",
+      "status": "ok",
+      "confidence": 0.9769882559776306,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 225,
+        "y0": 582,
+        "x1": 738,
+        "y1": 1172
+      },
+      "text": "Let me call your attention to a trait of the Negro soldier: his devotion and loyalty to his leader. On May 14, 1780, Col. Greene, the gallant leader of this regiment, was surprised and murdered at Point Bridges, New York. He had a very small bodyguard with him at the time, composed of his faithful black soldiers. These men could have fled from an overwhelming force and saved their lives, but surrounding their colonel they defended him gallantly and he was not killed until the last man was cut to pieces.\n\nIN THE REVOLUTIONARY WAR.\n\nBaron von Clausen, a German army officer, who visited this country during the Revolutionary War, said, among other things, in describing his visit to Gen. Washington's camp, that of the 20,000 soldiers there, 5,000 were Negroes, and that the best-drilled and disciplined regiment was Col. Greene's Rhode Island regiment, three-fourths of which was composed of Negroes.",
+      "status": "ok",
+      "confidence": 0.97661954164505,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 231,
+        "y0": 1173,
+        "x1": 738,
+        "y1": 1589
+      },
+      "text": "Time will not permit me to dwell in detail upon the Negro's military service in the War of 1812. Commodore Perry on Lake Erie, and Gen. Jackson at New Orleans have testified in signed communications to the War and Navy Departments of their unflinching courage. Jackson's victory at New Orleans, which carried him to fame and the White House, he owed largely to the desperate valor of the black regiments under him. I wonder if you grasp the significance of all that? Why, look at it! Jackson, the great apostle of democracy, was boosted up the ladder of fame by the faithful, patriotic, fighting black man. Does not that seem to be the limit of the irony of fate?",
+      "status": "ok",
+      "confidence": 0.9591346383094788,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 232,
+        "y0": 1591,
+        "x1": 742,
+        "y1": 1939
+      },
+      "text": "In the Civil War 187,000 Negroes were enlisted. They participated in 213 battles and engagements, and never permitted the Union colors to be dishonored by cowardice or treachery. Their brilliant achievements at Forts Wagner and Olustee, Fort Hudson, and Milliken's Bend, made them welcome into the flower of the Union army—the army of the Potomac in the closing months of those bloody conflicts in front of Richmond and Petersburg. In the battles of Wilson's Wharf, Deep Bottom, Chapeirs Farm, and Hatchers Run, they won for themselves immortal glory!",
+      "status": "ok",
+      "confidence": 0.9796177744865417,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 768,
+        "y0": 181,
+        "x1": 1283,
+        "y1": 335
+      },
+      "text": "A TALE OF HEROISM.\nLet me relate to you one instance in this war, equal in sublimity to the martial deeds of any age. It is worthy of Homer, for nothing at the siege of Troy surpasses it in valor.",
+      "status": "ok",
+      "confidence": 0.9650244116783142,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 768,
+        "y0": 335,
+        "x1": 1283,
+        "y1": 856
+      },
+      "text": "After the black troops had made a third unsuccessful assault to carry the heights of Port Hudson, and had left hundreds of their dead and dying comrades under the very guns of the enemy, Gen. Payne, a Union officer, fell, seriously wounded, about three hundred yards in front of the Union entrenchments. With great exertion he had managed to crawl to a point behind rock and bushes which concealed his body from the view of the Confederate rifles in the pits on the slope of the hill. How to get him back in the Union lines was the problem confronting the Union officers. To leave him there much longer without surgical aid was almost certain death. To send a rescuing party under orders meant almost certain death to every man in it, as the ground over which they would be compelled to pass was swept by a regiment of guns.",
+      "status": "ok",
+      "confidence": 0.9797791242599487,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 765,
+        "y0": 857,
+        "x1": 1287,
+        "y1": 1446
+      },
+      "text": "In this extremity the matter was put before the Negro troops, and two volunteers were called for to make the attempt to get the general. Instantly two men stepped forward and started on a run for the officer, who lay insensible from fatigue and loss of blood. One of them fell shot to pieces after having gone a few paces. The other fell before he had covered half the distance.\n\nThe fate of these two men was met by two others who volunteered without hesitation. Two more, undeterred by the fate of their comrades, which they had witnessed with thousands of others on both sides of the lines, stepped forward and went to death, and this appalling sacrifice of life was kept up until the general's body was finally reached and brought back into the lines, while a thousand guns were thundering and bullets were singing their death song, carrying eighteen of the bravest men who ever lived into the final muster out.",
+      "status": "ok",
+      "confidence": 0.9769708514213562,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 771,
+        "y0": 1448,
+        "x1": 1291,
+        "y1": 1941
+      },
+      "text": "So profoundly impressed was Gen. Lee with the invincible military qualities of the Negro soldiers that in a letter which he wrote to Jefferson Davis, urging the passage of a bill authorizing their enlistment, then under debate in the Confederate Congress, he said:\n\n\"If I can get these men, there is no telling where this campaign will end.\"\n\nNEGRO SOLDIERS OF HISTORY.\n\nAs far back as the days of Alexander the Great we find black men exerting high military command. Clitus, a black soldier, led Alexander's cavalry and saved the day on more than one occasion by his forced marches and genius for command. Rome was made to tremble at the dreaded name of the great Carthaginian captain. Menelik's army, led entirely by black men on",
+      "status": "ok",
+      "confidence": 0.9746508002281189,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 11.8,
+    "at": "2026-10-06T21:13:02+00:00"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "page": 9,
+  "image": "images/page_09.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 328,
+        "y0": 81,
+        "x1": 662,
+        "y1": 106
+      },
+      "text": "ALONG THE COLOR LINE",
+      "status": "ok",
+      "confidence": 0.8825722932815552,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 89,
+        "y0": 132,
+        "x1": 488,
+        "y1": 249
+      },
+      "text": "Section 3 provides that \"nothing in either of the two foregoing sections shall be construed or deemed to prohibit domestic servants from residing with their employers in the house or building where said servants may be so employed.\"",
+      "status": "ok",
+      "confidence": 0.9711449146270752,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "figure",
+      "bbox": {
+        "x0": 513,
+        "y0": 140,
+        "x1": 896,
+        "y1": 548
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.9767159819602966,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 86,
+        "y0": 264,
+        "x1": 486,
+        "y1": 592
+      },
+      "text": "New Orleans wants additional \"Jim Crow\" legislation for carnival occasions and for segregation.\n\nAlthough Senator Boies Penrose has promised the colored leaders that the objectionable features to them in the new school code of Pennsylvania will be eliminated, a committee has been appointed to go to Harrisburg to combat certain features of the proposed measure. Representative colored men claim the code bill permits racial discrimination in the public school system of the State.\n\nThe Richmond, Va., segregation ordinance has been temporarily tabled.",
+      "status": "ok",
+      "confidence": 0.9749886393547058,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 565,
+        "y0": 564,
+        "x1": 853,
+        "y1": 606
+      },
+      "text": "Dr. W. J. Thompkins, Kansas City\n(March Crisis, p. 28)",
+      "status": "ok",
+      "confidence": 0.8966653943061829,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 89,
+        "y0": 613,
+        "x1": 486,
+        "y1": 655
+      },
+      "text": "St. Louis, Mo., and Birmingham, Ala., are proposing a ghetto.",
+      "status": "ok",
+      "confidence": 0.9204082489013672,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 511,
+        "y0": 623,
+        "x1": 906,
+        "y1": 874
+      },
+      "text": "Daisy B. Harris, a comely looking young woman, to all appearances white, was married to Charles Schrader, of Marion, Va., on a recent Sunday. Following the marriage it was rumored that the bride was one-eighth Negro in blood, and this being illegal under the State law the matter was brought to the attention of the grand jury and indictments against both bride and groom followed. The couple had prepared for a bridal trip and were released under bonds of $500 each.",
+      "status": "ok",
+      "confidence": 0.9772284030914307,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 674,
+        "x1": 486,
+        "y1": 906
+      },
+      "text": "Miss Sarah Wilson, a colored school teacher in Worcester, an instructor in Belmont Street school, by buying and moving into a three-tenement house at 4 Pelham Street, has turned that select residential district into a typical Southern town, so far as feeling is concerned, and has got property owners so wrought up that recently the word was sent out that a meeting was going to be called to see what can be done to induce Miss Wilson to sell the property.",
+      "status": "ok",
+      "confidence": 0.9772540330886841,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 511,
+        "y0": 894,
+        "x1": 905,
+        "y1": 1029
+      },
+      "text": "The division of Michigan's track squad into the two teams which Craig and Horner are to lead against each other in the meet in Waterman Gymnasium seems to have again torn open the race problem that created so much dissension in the Wolverine camp last fall.",
+      "status": "ok",
+      "confidence": 0.9748227596282959,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 926,
+        "x1": 486,
+        "y1": 1120
+      },
+      "text": "Because Iowa University refused to leave Alexander, a colored halfback, on the side lines when it played football with the University of Missouri, the 1911 game has been called off. Alexander is the only colored man that has played on the Iowa team in recent years. He will graduate a year from next June, so that Iowa may be on the Missouri schedule year after next.",
+      "status": "ok",
+      "confidence": 0.9777016639709473,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 511,
+        "y0": 1030,
+        "x1": 906,
+        "y1": 1451
+      },
+      "text": "The meet is to serve as the try-outs for the 'Varsity track team, and will in a very large measure determine the personnel of the squad that will be taken to Syracuse on the following week end. In making up the list of competitors for this meet the name of Lapsley, the colored sprinter who ran away from all the other contestants in the freshman-sophomore meet, was omitted, and this despite the fact that Lapsley is a sophomore eligible for 'Varsity competition and regularly entered. The athletic authorities explain that it is necessary to restrict the number of participants, and that Lapsley has run but one race and that in but one meet. Lapsley ran the 35-yard dash three times recently, winning every heat handily and demonstrating his superiority over six of the men who were given places in the coming trials.",
+      "status": "ok",
+      "confidence": 0.9803069233894348,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 89,
+        "y0": 1141,
+        "x1": 486,
+        "y1": 1493
+      },
+      "text": "Negro women and white women will no longer occupy the same rooms at a Kentucky workhouse. The Mayor said recently that the work of putting in partitions at the institution had been started and will be completed within about ten days. These partitions will separate the whites and blacks.\n\n\"There has been only one white woman at the workhouse since I became mayor,\" said Mayor Head, \"and she has not mingled with the Negro inmates. She was given a room to herself in another part of the institution. I requested Judge Boldrick not to send white women to the workhouse as long as it was so arranged that Negroes and whites could not be kept in separate wards.\"",
+      "status": "ok",
+      "confidence": 0.9757713675498962,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 511,
+        "y0": 1453,
+        "x1": 906,
+        "y1": 1494
+      },
+      "text": "It seems altogether probable that the fight will become so hot that it will be",
+      "status": "ok",
+      "confidence": 0.9447638392448425,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 885,
+        "y0": 80,
+        "x1": 901,
+        "y1": 100
+      },
+      "text": "9",
+      "status": "ok",
+      "confidence": 0.7499120831489563,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.5,
+    "at": "2026-10-06T21:25:35+00:00"
+  }
+}

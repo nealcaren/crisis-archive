@@ -1,0 +1,113 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 167,
+        "y0": 144,
+        "x1": 786,
+        "y1": 211
+      },
+      "text": "Along the Color Line",
+      "status": "ok",
+      "confidence": 0.6694177389144897,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 55,
+        "y0": 267,
+        "x1": 465,
+        "y1": 769
+      },
+      "text": "POLITICAL.\nSomething of a sensation was provided in the Senate on February 10, when Mr. Root, of New York, spoke on the race question.\nThe incident arose in connection with extended remarks made by Senator Root in advocacy of the Sutherland amendment to the Borah resolution. The amendment provides for Federal supervision over senatorial elections, such as now exists over congressional elections. The original resolution provides State control.\nThe New York senator said that the national government could not afford to barter away the privilege of supervising senatorial elections in the South if need should arise for such supervision.\nAlso in speaking of the observance of the fourteenth and fifteenth amendments to the Constitution, he said: \"There are some things done in the South which may yet make it necessary for the government to exercise the power given it in the Constitution.\"",
+      "status": "ok",
+      "confidence": 0.9765231013298035,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 56,
+        "y0": 769,
+        "x1": 466,
+        "y1": 1201
+      },
+      "text": "Later in the day, Mr. Bacon, of Georgia, revived the Southern question. Repeating the remarks of the New Yorker, Mr. Bacon addressed himself directly to Mr. Root and asked, \"What are the things to which the senator refers?\"\n\nMr. Root's response was in no way evasive or indirect. Recalling the substance of his previous remarks, he said that he had had reference to the voluntary surrender by the government of the power to enforce the protection of the suffrage privileges of the Southern Negroes.\n\nFacing Senator Bacon and speaking with great deliberation, Mr. Root enumerated the peonage system, the lynching of Negroes, and the disfranchising provisions, such as the \"grandfather\" clauses in the constitutions of many of the Southern States, as some of the things calculated to deprive the black man of that equal protection which the Constitution guarantees.",
+      "status": "ok",
+      "confidence": 0.9713220000267029,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 57,
+        "y0": 1200,
+        "x1": 465,
+        "y1": 1499
+      },
+      "text": "\"The people of the United States are willing to fold their hands and wish the Southern people Godspeed in working out their delicate problem, so long as they do so in kindness; but if there should be such oppression as to call for the exercise of the power of the United States to enforce the amendments, that power will be exercised, and it ought to be,\" he said. \"Does the senator contend for the power of Congress to annul laws now on the statute books of the States, such as the grandfather clause?\" asked Mr. Bacon. \"Without the slightest doubt,\" said Mr. Root.",
+      "status": "ok",
+      "confidence": 0.8211654424667358,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 487,
+        "y0": 265,
+        "x1": 897,
+        "y1": 755
+      },
+      "text": "\"Well,\" returned Mr. Bacon, \"the senator has certainly put us on notice.\"\n\"I meant to put you and also the country on notice,\" replied Mr. Root.\nOn February 16 Senator Borah, of Idaho, spoke on the same question. The senator took issue with Mr. Root and claimed that his resolution, without the Sutherland amendment, does not endanger the Negro. He contended that, as the resolution stands, notwithstanding it gives the State legislatures control of senatorial elections, Congress still would have the right to interfere in protection of any citizen whose right of franchise had been interfered with.\nMr. Borah expressed deep regret that the race question had been brought into the controversy, and asserted that its introduction was intended only to imperil the direct election of senators.\n\"I wonder how long the North is going to play the hypocrite and the moral coward on this question,\" he said",
+      "status": "ok",
+      "confidence": 0.9770186543464661,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 489,
+        "y0": 758,
+        "x1": 898,
+        "y1": 1217
+      },
+      "text": "He insisted that a call of the roll of the Northern States in which there is any appreciable number of Negroes would demonstrate that the North had not dealt more leniently with the Negro than had other sections.\n\n\"The Negro has been used as a political football about as long as our own sense of decency and his developing intelligence will permit. We should no longer mistreat him, but we should have the courage to inform him as to the real situation. We should tell him the truth and conceal nothing.\n\n\"The Negro is beginning to realize that the white man of the North is of the same race as the white man of the South, and that in his blood is the virus of dominion and power. He should know that while his slave chains have been broken the chains of industry are being forged around him and will continue to hold him unless he himself can break them.",
+      "status": "ok",
+      "confidence": 0.9762345552444458,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 489,
+        "y0": 1218,
+        "x1": 897,
+        "y1": 1494
+      },
+      "text": "\"When the exigencies of debate are over it will be found that no measure will be offered in the Senate to protect any supposed right of the colored man anywhere. If those who are interested will turn to the Constitution they will find there the one universal rule of equality, the only rule to be applied to the Negro, and the only rule under which we can legislate. If applied it will be proved to be the correct rule, the rule for all of us.\" The Sutherland Amendment was adopted February 24 by a vote of 50 to 37. The Borah bill was, therefore, finally defeated.",
+      "status": "ok",
+      "confidence": 0.975770115852356,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 8.4,
+    "at": "2026-10-06T21:16:16+00:00"
+  }
+}

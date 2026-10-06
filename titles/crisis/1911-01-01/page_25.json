@@ -1,0 +1,113 @@
+{
+  "page": 25,
+  "image": "images/page_25.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 95,
+        "y0": 73,
+        "x1": 909,
+        "y1": 507
+      },
+      "text": "In many cases, especially when the women were living alone, the earnings, plus the income from the lodgers, barely covered the rent. When they work by the day they rarely work more than four days a week. Sometimes the amount they gave as their weekly wage fell short of even paying the rent, but more often the rent was covered and a very small margin left to live on.\n\nSuch treatment has discouraged the Negro woman. She has accepted the conditions and seldom makes any real effort to get into other sorts of work. The twelfth question on the schedule, \"What attempts have you made to secure other kinds of work in Chicago or elsewhere?\" was usually answered by a question: \"What's the use of trying to get work when you know you can't get it?\" was good positions and keep them as long as their color is not known.\n\nOne girl worked for a fellowship at the Art Institute. Her work was good and the place was promised her. In making out the papers she said Negro, when asked her nationality, to the great astonishment of the man in charge. He said he would have to look into the matter, but the girl did not get the fellowship.\n\nA young man, son of a colored minister in the city, had a position in a business man's office, kept the books, collected rents, etc. He had a peculiar name, and one of the tenants remembered it in connection with the boy's father, who had all the physical characteristics of the Negro. The tenant made inquiries and reported the matter to the landlord, threatening to leave the building if he had to pay rent to a Negro.",
+      "status": "ok",
+      "confidence": 0.9764041304588318,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 507,
+        "x1": 488,
+        "y1": 772
+      },
+      "text": "The colored women are like white women in the same grade of life. They do not realize the need of careful training, and they do not appreciate the advantages of specialization in their work. But the Negro woman is especially handicapped, for she not only lacks training but must overcome the prejudice against her color. Of the 270 women interviewed, 43 per cent. were doing some form of housework for wages, yet all evidence of conscious training was entirely lacking. This need must be brought home to them before they can expect any real advancement.",
+      "status": "ok",
+      "confidence": 0.9758027195930481,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 96,
+        "y0": 774,
+        "x1": 489,
+        "y1": 1267
+      },
+      "text": "A peculiar problem presents itself in connection with the housework. Practically this is the only occupation open to Negro women, and it is also the only occupation where one is not expected to go home at night. This the Negroes insist on doing. They are accused of having no family feeling, yet the fact remains that they will accept a lower wage and live under far less advantageous conditions for the sake of being free at night. That is why the \"day work\" is so popular. Rather than live in some other person's home and get good wages for continued service, the colored woman prefers to live in this way. She will have a tiny room, go out as many days a week as she can get places, and pay for her room and part of her board out of her earnings, which sometimes amount to only $3 or $4.50 per week. Occasionally laundry, sewing or hair work is done in their homes, but the day work is almost universally preferred. Many of the Negroes are so nearly white that they can be mistaken for white girls, in which case they are able to secure very",
+      "status": "ok",
+      "confidence": 0.9788357615470886,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 440,
+        "y0": 1358,
+        "x1": 564,
+        "y1": 1397
+      },
+      "text": "尬",
+      "status": "ok",
+      "confidence": 0.6720030307769775,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 515,
+        "y0": 125,
+        "x1": 909,
+        "y1": 660
+      },
+      "text": "good positions and keep them as long as their color is not known.\n\nOne girl worked for a fellowship at the Art Institute. Her work was good and the place was promised her. In making out the papers she said Negro, when asked her nationality, to the great astonishment of the man in charge. He said he would have to look into the matter, but the girl did not get the fellowship.\n\nA young man, son of a colored minister in the city, had a position in a business man's office, kept the books, collected rents, etc. He had a peculiar name, and one of the tenants remembered it in connection with the boy's father, who had all the physical characteristics of the Negro. The tenant made inquiries and reported the matter to the landlord, threatening to leave the building if he had to pay rent to a Negro. The boy was discharged.\n\nA colored girl, who was very light colored, said that more than once she secured a place and the colored people themselves had told the employer he had a \"Negro\" working for him. The woman with whom she was living said: \"It's true every time, The Negroes are their own worst enemies.\"",
+      "status": "ok",
+      "confidence": 0.9784828424453735,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 517,
+        "y0": 660,
+        "x1": 907,
+        "y1": 1019
+      },
+      "text": "To summarize, the isolation which is forced upon the Negro, both in his social and his business life, constitutes one of the principal difficulties which he encounters. As far as the colored woman is concerned, as we have shown, the principal occupations which are open to her are domestic service and school teaching. This leaves a large number of women whose education has given them ambitions beyond housework, who are not fitted to compete with northern teachers and yet cannot obtain clerical work because they are Negroes. Certain fields in which there is apparently an opportunity for the colored women are little tried. For example, sewing is profitable and there is little feeling against the employment of Negro seamstresses, and yet few follow the dressmaking profession.",
+      "status": "ok",
+      "confidence": 0.9742547273635864,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 1020,
+        "x1": 908,
+        "y1": 1267
+      },
+      "text": "Without doubt one fundamental reason for the difficulties the colored woman meets in seeking employment is her lack of industrial training. The white woman suffers from this also, but the colored woman doubly so. The most hopeful sign is the growing conviction on the part of the leading Negro women of the city that there is need of co-operation between them and the uneducated and unskilled, and that they are trying to find some practical means to give to these women the much-needed training for industrial life.",
+      "status": "ok",
+      "confidence": 0.9750890135765076,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.0,
+    "at": "2026-10-06T21:04:43+00:00"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "page": 10,
+  "image": "images/page_10.jpg",
+  "width": 1095,
+  "height": 1672,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 475,
+        "y0": 88,
+        "x1": 627,
+        "y1": 113
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8628849983215332,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 129,
+        "y0": 89,
+        "x1": 156,
+        "y1": 111
+      },
+      "text": "10",
+      "status": "ok",
+      "confidence": 0.8346795439720154,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 128,
+        "y0": 142,
+        "x1": 537,
+        "y1": 638
+      },
+      "text": "The effort to prevent the return to Franklin county, Ga., of William Shackelford, colored, has extended to almost every colored society in Cincinnati, and petitions are being sent to Governor Harmon. Among the latest to take that action are the Republican Union and the Union League, each organization sending strong letters to the Governor. It is stated in the letters that in many instances the return of a colored man to certain sections of the South under the circumstances that mark the Shackelford case has been equivalent to a death warrant. The man and his thirteen-year-old son fled from Georgia, after Shackelford had killed a man while protecting his son, who, it is said, in a boyish prank, frightened two white girls. Shackelford still is in the city hospital, suffering from a wound received in escaping. Police Court Judge Bode advised a friend to swear to a warrant charging Shackelford with being a suspicious person, so as to bring him within the jurisdiction of the local courts.",
+      "status": "ok",
+      "confidence": 0.9752798080444336,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 126,
+        "y0": 665,
+        "x1": 539,
+        "y1": 1185
+      },
+      "text": "Sheriff Hicks, of Macon, Ga., started out, one day to put more than one hundred Negroes in the county jail for vagrancy. He even took a hand in the campaign himself, making the arrest of several.\n\nThe officers approach a Negro suspected of being a vagrant with an offer of work, having been authorized to make the proposition by several of the local manufacturing enterprises. If the Negro declines to go to work, and cannot give any satisfactory statement as to his present place of employment, his arrest follows. After all the idling Negro men have been rounded up, according to the local press, the attention of the officers will be directed to the women.\n\nAaron Shepperd, a Negro of Helena, Ark., charged with slapping a white boy, was arrested and given a heavy fine. The man denied his guilt.\n\nAt Baxterville, Miss., the white citizens have driven out the Negroes as a result of race disturbances.",
+      "status": "ok",
+      "confidence": 0.967089831829071,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 132,
+        "y0": 1207,
+        "x1": 539,
+        "y1": 1546
+      },
+      "text": "A dispatch from Stanford, Ky., states that a race war is threatened as the result of an alleged attack upon three white tobacco growers. A white mob organized, but in some manner the colored population got word that the whites intended to lynch the two Negroes in jail charged with assault. The black men immediately organized and took up a stand on a tract of ground in the rear of the courthouse. Bonfires were built and the Negroes, after tieing white handkerchiefs on their arms, announced openly their intention of fighting any mob that put in an appearance. The white mob had sent scouts into town to see the lay of the land. They found not only the Negro mob ready, but the county",
+      "status": "ok",
+      "confidence": 0.9641710519790649,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 562,
+        "y0": 138,
+        "x1": 975,
+        "y1": 715
+      },
+      "text": "officials on guard. The scouts retired and the mob did not appear. The situation is still considered dangerous.\n\nAt Eufala, Ala., a colored boy, Iver Peterson, 18 years old, was lynched on February 12. He was taken from the automobile that was carrying him to jail, hanged and shot. A woman said that as she was going from a neighbor's house to her home a Negro seized her. Her screams brought several of her neighbors to the scene and the man fled.\n\nPeterson was found at his father's house and the woman said he was the man.\n\nWilliam E. Hill, a colored man who has spent forty years in the State prison at Charleston, Mass., has just received a pardon. The impressions which the changed condition of things, countless new buildings, elevated structures, trolley cars, bridges, made upon his mind after forty years' seclusion almost dazed him.\n\nHill was serving a life term for murder. He is a veteran of the Civil War and had been a model prisoner. The Boston Guardian has been active in obtaining his release.",
+      "status": "ok",
+      "confidence": 0.9690453410148621,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "title",
+      "bbox": {
+        "x0": 562,
+        "y0": 729,
+        "x1": 976,
+        "y1": 1230
+      },
+      "text": "FOREIGN.\nThe $1,000,000 needed for funding the Liberian national debt has been raised. The claims of France and England have been settled and the European powers have raised no objection to the protectorate of the United States. It is said that in the Liberian ports the American chief officer is to have three assistants, English, French, and German.\n\nLord Gladstone, Governor-General of South Africa, has commuted the sentence of death recently passed in Rhodesia against a native accused of assault on a white woman. He declared the evidence insufficient. The Rhodesians are reported as very angry and talking of lynching.\n\nSouth Africa is witnessing a recrudescence of the color question. A Dutch member of the Union Parliament has proposed an amendment to the marriage bill forbidding the marriage of whites and colored persons.",
+      "status": "ok",
+      "confidence": 0.9708020091056824,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 563,
+        "y0": 1231,
+        "x1": 977,
+        "y1": 1548
+      },
+      "text": "The heads of the Anglican and Roman Catholic Churches declare that if the amendment is carried they will nevertheless solemnize such marriages. Other churches, except the Dutch, will probably act in a similar way.\n\nThe Dutch Church is promoting a private bill to amalgamate the different sections of the church. A feature of the measure is a clause enacting that colored members of the church in Cape Colony lose their membership if they migrate north of the Cape: while colored people in the northern colonies will be ineligible for membership.",
+      "status": "ok",
+      "confidence": 0.9640272855758667,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.2,
+    "at": "2026-10-06T21:17:03+00:00"
+  }
+}

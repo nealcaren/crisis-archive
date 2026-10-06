@@ -1,0 +1,127 @@
+{
+  "page": 14,
+  "image": "images/page_14.jpg",
+  "width": 1087,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 511,
+        "y0": 105,
+        "x1": 659,
+        "y1": 130
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.8477296829223633,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 179,
+        "y0": 105,
+        "x1": 578,
+        "y1": 644
+      },
+      "text": "sion as the main premises for misgiving. Both indictments were sweepingly dismissed by the Atlanta campaign.\n\n\"The explanation is simple—but portentous. The Negro was assigned a task that assumed citizenship, manhood and the possession of possibilities inhering in both. Too often they that deal with the Negro problem approach the Negro as foreordained to lack of initiative, viciousness, the impulse of the criminal. The Atlanta experiment proves which is the more effectual attitude.\n\n\"Should it not hold a lesson for the Southern people?\"\n\nThe Charlotte (N. C.) Observer relates, although not apropos of the Atlanta experience, the ready response of the colored people in that city: \"The mass meeting at which the colored people considered ways and means for doing their part in the progress of Charlotte is not surprising, but is highly gratifying all the same.\"",
+      "status": "ok",
+      "confidence": 0.974899411201477,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 184,
+        "y0": 666,
+        "x1": 582,
+        "y1": 1194
+      },
+      "text": "The Chattanooga Times takes the Observer's remarks as \"a text for a civic appeal to the better elements of the colored population in Chattanooga. Not only in Charlotte, but in other Southern cities intelligent and well-to-do Negroes are organizing to help their white neighbors in the work of city promotion—materially, educationally and morally. As a usual thing in the past the Negro population has been accounted a minus quantity in the equation of city growth and progress. These Charlotte Negroes have had their self-respect aroused and they are going to try to get away from that stigma; they are going to try to convert at least a part of their people into a 'plus' sign, and they can succeed if they will try.\n\n\"There are many patriotic Negroes of the kind needed to be found in this city. The Negro who fights gang rule helps himself and his people and at the same time shows himself a progressive citizen.\"\n\nRACE PREJUDICE.",
+      "status": "ok",
+      "confidence": 0.9793577194213867,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 185,
+        "y0": 1196,
+        "x1": 586,
+        "y1": 1532
+      },
+      "text": "Rabbi Max Heller, of New Orleans, speaking in a colored church in that city, defined race prejudice in a striking way.\n\n\"Let me attempt, for our guidance,\" he said, \"a sound and fair definition of prejudice. I do not call a mere reckless generalization a prejudice. If, from my dealings with the members of this race, that nation, that faith, I arrive whether legitimately or illegitimately, rashly or deliberately, at certain conclusions regarding the national, racial, religious psychology, the forming of such a generalization is not yet prejudice. I have the right to make my observations regarding a class of people, just as I",
+      "status": "ok",
+      "confidence": 0.9793297052383423,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 603,
+        "y0": 155,
+        "x1": 1006,
+        "y1": 407
+      },
+      "text": "have a right to generalize about any genus or species of plant or animal. It is when I use my generalization—which may be worthless or valuable—so as to deny my fellowman the right to be judged on his own merits; it is when I employ my generalization not as a mere caution against probable foibles, but as a judgment condemning an untried individual, it is, then, that I am guilty of the intellectual laziness, the immature rashness, the cruel injustice of prejudice.",
+      "status": "ok",
+      "confidence": 0.9760623574256897,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 604,
+        "y0": 409,
+        "x1": 1006,
+        "y1": 810
+      },
+      "text": "\"I am not speaking, of course, of such things as physical prejudice or of that stupid narrowness which bases prejudice upon just one childish instinct, upon the savage notion that everything and everybody must be bad who is not as I am. In the lower order of humanity, among the dregs of population, such prejudice is part and parcel of a general state of savagery. I am speaking of the prejudice of the civilized man who aspires to fair dealing; the core of that prejudice is the immoral habit of judging the individual by the mass, of obsessing one's mind against types and races as if they were completely uniform, of handling a venturesome and unsafe generalization as if it were an iron frame into which must fit every individual whose outward marks place him in that class.",
+      "status": "ok",
+      "confidence": 0.9799736738204956,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 606,
+        "y0": 814,
+        "x1": 1009,
+        "y1": 1396
+      },
+      "text": "\"As far as I can observe, this habit of indiscriminate prejudgment seems everywhere to be on the increase, whether as an incident of the increasing intercourse between races, nations and faiths, whether as a symptom of that growing intellectual indolence which school and stage, newspaper, magazine and novel tend to encourage, whether as the natural accompaniment of accentuated individualism in national and religious unfoldments; possibly, too, in the train of all the greed and sensuous passion that are engendered by materialistic competition.\n\n\"I may be called a pessimist for making the observation; but I am merely pointing out the direction of a current that plays against the shores of everlasting human nature; as to the final goal of brotherhood I harbor no misgivings. But the current is on; it is changing the climate for us, if only for a paltry century or two out of the infinitude of time; the question for us, in our span of life, is how shall we stand unswayed in the storm; how shall we hold our ground like men against whatever threatens to unsettle our self-respect or to drag us down altogether?\"",
+      "status": "ok",
+      "confidence": 0.9800330996513367,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 611,
+        "y0": 1412,
+        "x1": 1011,
+        "y1": 1532
+      },
+      "text": "The Republican Club of New York discussed race prejudice at a luncheon at which representatives of several races spoke. Mr. Bryce, the British Ambassador, could not be present, but sent a letter in which he said:",
+      "status": "ok",
+      "confidence": 0.9732624292373657,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 33.1,
+    "at": "2026-10-06T21:26:46+00:00"
+  }
+}

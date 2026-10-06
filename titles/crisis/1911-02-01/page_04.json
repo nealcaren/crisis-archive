@@ -1,0 +1,197 @@
+{
+  "page": 4,
+  "image": "images/page_04.jpg",
+  "width": 1407,
+  "height": 2088,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 550,
+        "y0": 132,
+        "x1": 981,
+        "y1": 170
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.7356528043746948,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "text",
+      "bbox": {
+        "x0": 491,
+        "y0": 170,
+        "x1": 1052,
+        "y1": 926
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 813,
+        "y0": 170,
+        "x1": 1292,
+        "y1": 926
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 233,
+        "y0": 200,
+        "x1": 1306,
+        "y1": 583
+      },
+      "text": "Marshall's Hotel\n127-129 West 53d Street\nTelephones 4693-4694 Columbus\n\nSPECIAL FEATURE BEGINNING FEBRUARY 1\n\nBreakfast, 7:30 to 12:30, 30c. Luncheon, 12:30 to 3 p. m., 30c.\nRegular Dinner, 6 to 8, 35c.\nSpecial Course Dinner Every Sunday and Holidays, 50c.\n\nService and Food Unsurpassed Anywhere Good Music—Vocal and Instrumental\nShell Fish a Specialty Restaurant Open All Night\n\nJ. L. MARSHALL, Proprietor",
+      "status": "ok",
+      "confidence": 0.930666983127594,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 245,
+        "y0": 593,
+        "x1": 787,
+        "y1": 1976
+      },
+      "text": "We Print for the V\nand refer by permission\nNast, Publisher of\n\nVOGUE M\n\nWedding Invitation\nEngraved. Societ\ncial Printing a Spe\nor the telephone (Le\nus to your door.\n\nROBERT N\n202 EAST 99th STREET\n\n'Phone 2877 Lenox\nWhite Rose Working Girls' Home\n217 EAST 86TH STREET\n\nBet. Second and Third Avenues\nPleasant temporary lodgings for working girls,\nwith privileges, at reasonable rates. The Home\nsolicit orders for working dresses, aprons, etc.\n\nAddress:\nMRS. FRANCES R. KEYSER, Supt.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 399,
+        "y0": 749,
+        "x1": 1142,
+        "y1": 831
+      },
+      "text": "We Print THE CRISIS",
+      "status": "ok",
+      "confidence": 0.791968584060669,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 491,
+        "y0": 926,
+        "x1": 1052,
+        "y1": 1134
+      },
+      "text": "We Print for the Vogue Magazine and refer by permission to Mr. Condé Nast, Publisher of VOGUE MAGAZINE",
+      "status": "ok",
+      "confidence": 0.8670286536216736,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 491,
+        "y0": 1170,
+        "x1": 1052,
+        "y1": 1764
+      },
+      "text": "Wedding Invitations Printed and\nEngraved. Society and Commer-\ncial Printing a Specialty. A postal\nor the telephone (Lenox 6667) brings\nus to your door.\n\nOBERT N. WOO\nEAST 99th STREET NEW Y\n\n2877 Lenox JUST",
+      "status": "ok",
+      "confidence": 0.9017532467842102,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 813,
+        "y0": 1385,
+        "x1": 1292,
+        "y1": 1764
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "title",
+      "bbox": {
+        "x0": 401,
+        "y0": 1477,
+        "x1": 1148,
+        "y1": 1601
+      },
+      "text": "ROBERT N. WOOD\n202 EAST 99th STREET NEW YORK",
+      "status": "ok",
+      "confidence": 0.3850783109664917,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 813,
+        "y0": 1764,
+        "x1": 1292,
+        "y1": 2068
+      },
+      "text": "A beautiful sentimental song entitled\n\"My Home is Down in Dixie, Where the\nCotton Grows.\"\nBy EUGENE ALEXANDER BURKES\nPrice 25 Cents Postpaid\nPublished by\nWEBB, ARBUCKLE & CO.,\nBOSTON, MASS.\nCrisis.",
+      "status": "ok",
+      "confidence": 0.5649062395095825,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "abandon",
+      "bbox": {
+        "x0": 662,
+        "y0": 1974,
+        "x1": 894,
+        "y1": 2001
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.5357111096382141,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 234,
+        "y0": 134,
+        "x1": 258,
+        "y1": 165
+      },
+      "text": "4",
+      "status": "ok",
+      "confidence": 0.5032213926315308,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.2,
+    "at": "2026-10-06T21:10:00+00:00"
+  }
+}

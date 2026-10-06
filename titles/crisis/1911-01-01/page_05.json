@@ -1,0 +1,113 @@
+{
+  "page": 5,
+  "image": "images/page_05.jpg",
+  "width": 1084,
+  "height": 1582,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 199,
+        "y0": 133,
+        "x1": 798,
+        "y1": 197
+      },
+      "text": "Along the Color Line",
+      "status": "ok",
+      "confidence": 0.6479348540306091,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 94,
+        "y0": 257,
+        "x1": 489,
+        "y1": 703
+      },
+      "text": "POLITICAL.\nObjections to the proposed appointment of William R. Lewis, a Negro attorney of Boston, as an assistant attorney-general are being presented to Attorney-General Wickersham. President Taft's intention to appoint Lewis was learned semi-officially at the White House several weeks ago. Booker T. Washington has called upon Mr. Wickersham to urge his approval of the appointment, and Speaker Cannon has opposed it.\n\nPresident Taft said in his message: \"I renew my recommendation that the claims of the depositors in the Freedman's Bank be recognized and paid by the passage of the pending bill on that subject. I also renew my recommendation that steps be taken looking to the holding of a Negro exposition in celebration of the fiftieth anniversary of the issuing by Mr. Lincoln of the Emancipation Proclamation.\"",
+      "status": "ok",
+      "confidence": 0.9757644534111023,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 720,
+        "x1": 491,
+        "y1": 991
+      },
+      "text": "There is only one feature of the apportionment matter which is apt to precipitate trouble, and that is the proposal to reduce the representation of the Southern States which have deprived a part of their population of the right of suffrage. Louisiana, Mississippi, North Carolina, South Carolina and other Commonwealths below the Mason and Dixon line have imposed restrictions upon the Negroes which make it impossible for them to vote at any election.—Denver Times.\n\nTHE COURTS.",
+      "status": "ok",
+      "confidence": 0.9737715721130371,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 999,
+        "x1": 494,
+        "y1": 1439
+      },
+      "text": "In Richmond, Va., Judge Goff, in the United States Circuit Court of Appeals, decided that no deed conveying real estate could legally preclude the subsequent conveyance of any part of that real estate to persons of African descent. He held that any provision or clause providing that real estate shall not be acquired by Negroes is invalid and void, and that no such provision can be put into a deed. The case was argued for the Negroes by George J. Hooper and William L. Royall. A O. Boschen argued for the other side. The decision of Judge Goff will be appealed to the Supreme Court of the United States. It is attracting wide attention and much comment among members of the local bar. The case was that of the People's Pleasure Park vs. Worsham.\n\nHaving been defeated in the Supreme Court of New York, and that defeat having been affirmed by the Appellate Division,",
+      "status": "ok",
+      "confidence": 0.9765715599060059,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 514,
+        "y0": 256,
+        "x1": 910,
+        "y1": 581
+      },
+      "text": "the colored Order of Elks has filed an appeal to the Court of Appeals and has filed a bond of the National Surety Company to cover the payment of any costs that may be awarded against it. The colored order was enjoined from using the name or the emblem of the white Order of Elks.\n\nThe verdict of $1,000 awarded George W. Griffin, a Pullman car porter, against Daniel L. Brady, brother, of \"Diamond Jim\" Brady, was affirmed by the Appellate Division of the Supreme Court. Griffin was arrested by Brady on a charge of theft, and after proving his innocence sued his accuser.",
+      "status": "ok",
+      "confidence": 0.9697121977806091,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 518,
+        "y0": 599,
+        "x1": 910,
+        "y1": 1018
+      },
+      "text": "Joseph Atwater, an Oklahoma Negro, filed in the Supreme Court of the United States at Washington his appeal from the decision of the Oklahoma courts which had refused to enjoin election officials in Oklahoma City from denying him the right to vote on Nov. 8th. The petition for injunction was based on the claim that the \"grandfather clause\" placed in the Oklahoma constitution by amendment was invalid, because it would deny the right to vote to a large number of Negroes in the State entirely on account of color or previous condition of servitude.\n\nSOCIAL, UPLIFT.\n\nIn New Orleans during the past year several drug stores have been opened, a Business League organized, the Pythian Temple finished, five churches erected and 400 teachers have attended summer normal schools.",
+      "status": "ok",
+      "confidence": 0.9739192724227905,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 520,
+        "y0": 1035,
+        "x1": 913,
+        "y1": 1437
+      },
+      "text": "Dr. Cyrus Townsend Brady, by a startling paper read before the Ministers' Alliance at a meeting at the Y. M. C. A., awakened the ministers into a realization of the Negro problem, and for the first time in the history of Kansas City a movement was organized by the ministers to investigate and endeavor to better the condition of the blacks.\n\nThe highest average that has been made on the punching machine in the Census Office was attained by Miss Eva B. Price, a colored girl, during the last two weeks in October. The work on these machines is done on the piece basis, and during this period Miss Price earned $88. The highest up to this time that had been paid any clerk on this work during any two weeks was $85. There are about 500 clerks working on the punching machines, and it is",
+      "status": "ok",
+      "confidence": 0.9735832214355469,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.8,
+    "at": "2026-10-06T21:01:58+00:00"
+  }
+}

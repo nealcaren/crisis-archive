@@ -1,0 +1,85 @@
+{
+  "page": 1,
+  "image": "images/page_01.jpg",
+  "width": 1085,
+  "height": 1584,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 792,
+        "y0": 63,
+        "x1": 993,
+        "y1": 1487
+      },
+      "text": "DISIS\nRACES\nNumber Three\nGarrison Villard,\nI M. D. Maclean.\n\noored People\nNEW YORK CITY\nNTS A COPY",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 100,
+        "y0": 64,
+        "x1": 952,
+        "y1": 367
+      },
+      "text": "THE CRISIS\nA RECORD OF THE DARKER RACES\nVolume One JANUARY, 1911 Number Three",
+      "status": "ok",
+      "confidence": 0.4363023340702057,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 65,
+        "y0": 64,
+        "x1": 186,
+        "y1": 1490
+      },
+      "text": "A R\nVolume\nEdited by\nJ. Max I\n\nAlon\nOpin\nA W\nEdite\nCart\nBy\nEdite\nSoci\nBy\nThe\nBy\nEmp\nWe\nThe\nTalk\nBy\nWha\n\nNation\nAT TW\nONE",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 101,
+        "y0": 415,
+        "x1": 945,
+        "y1": 464
+      },
+      "text": "Edited by W. E. BURGHARDT DU BOIS, with the co-operation of Oswald Garrison Villard, J. Max Barber, Charles Edward Russell, Kelly Miller, W. S. Braithwaite and M. D. Maclean.",
+      "status": "ok",
+      "confidence": 0.8529958724975586,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "figure",
+      "bbox": {
+        "x0": 93,
+        "y0": 477,
+        "x1": 963,
+        "y1": 1461
+      },
+      "text": "CONTENTS\nAlong the Color Line 5\nOpinion . . . 9\nA Winter Pilgrimage 15\nEditorial . . . 16\nCartoon . . . , 18\nBy JOHN HENRY ADAMS\nEditorial . . . 20\nSocial Control . . 22\nBy JANE ADDAMS\nThe Teacher: Poem 23\nBy LESLIE PINCKNEY HILL\nEmployment of Colored Women in Chicago 24\nThe Burden . . . 26\nTalks About Women 27\nBy Mrs. J. E. MILHOLLAND\nWhat to Read . . . 28\n\nPUBLISHED MONTHLY BY THE\nNational Association for the Advancement of Colored People\nAT TWENTY VESEY STREET\nNEW YORK CITY\n\nONE DOLLAR A YEAR\nTEN CENTS A COPY",
+      "status": "ok",
+      "confidence": 0.383350133895874,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.1,
+    "at": "2026-10-06T21:01:16+00:00"
+  }
+}

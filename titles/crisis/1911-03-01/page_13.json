@@ -1,0 +1,127 @@
+{
+  "page": 13,
+  "image": "images/page_13.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 451,
+        "y0": 103,
+        "x1": 566,
+        "y1": 129
+      },
+      "text": "OPINION",
+      "status": "ok",
+      "confidence": 0.5644745826721191,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 91,
+        "y0": 155,
+        "x1": 499,
+        "y1": 706
+      },
+      "text": "in the matter of where they shall be permitted to live and to hold property, but a similar discrimination, enforced by means as effective as any written law, is common to nearly all Southern cities and towns. Partial or complete segregation, however brought about, is almost equally common in Northern towns and cities which have considerable Negro populations.\n\n\"The general reflection which the facts suggest is that economic discrimination against Negroes is national and not merely sectional. It is not a reflection which should give any of us pleasure. Whatever may be our wisest course with the race in matters political and social, hardly any of us would deny that it is entitled to a fair chance in matters economic and industrial. The right to vote is one thing. The right to work, and to enjoy the fruit of one's labors, is quite another thing.\"\n\nInspired by Baltimore, one Mr. Vonderlehr, of Richmond, seeks to segregate the colored population of his town in what the Richmond Leader calls an \"eminently wise and judicious measure,\" which will appeal to the \"good citizenship\" of the colored man.",
+      "status": "ok",
+      "confidence": 0.9764391183853149,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 91,
+        "y0": 706,
+        "x1": 498,
+        "y1": 1256
+      },
+      "text": "\"Segregation,\" remarks the Leader, \"has proved to be a mitigation, if not a solution of the race problem.\" The \"Jim Crow\" car law, the Leader thinks, has done much for the peace and comfort of the traveling public—meaning, presumably, the white traveling public—and is an \"unmixed blessing.\" \"Some ill-advised Negroes have indeed railed against it. This, however, has only accentuated its need and its usefulness.\"\n\nThe colored folk of New Orleans have been complaining that if they are to be segregated on cars and in schools they should not be forced to have white teachers, white bartenders and so on. The Times-Democrat, which thinks that objection to segregation shows an \"abject lack of racepride,\" holds that the Negroes are justified in some of their contentions.\n\n\"The speakers complained, not without reason, that these practices did not accord with the demand of the whites for segregation; were unfair and grossly inconsistent. A protest was lodged also against the methods by which the 'Jim Crow' screens in the local street cars were manipulated.",
+      "status": "ok",
+      "confidence": 0.9771667122840881,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 90,
+        "y0": 1257,
+        "x1": 498,
+        "y1": 1554
+      },
+      "text": "\"We are not at all sure that the objection leveled against the street car usage is well taken, but there is no doubt of the justice of their complaint against the inconsistency of employing white teachers in Negro schools and white bartenders in black saloons. The Negroes have done well to protest, and we think the practices against which they complain can and should be stopped.\"\n\nTHE \"JIM CROW\" CAR.\nJudge Sanford, of the United States District Court in Tennessee, has decided",
+      "status": "ok",
+      "confidence": 0.9761431217193604,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "abandon",
+      "bbox": {
+        "x0": 525,
+        "y0": 103,
+        "x1": 934,
+        "y1": 373
+      },
+      "text": "that the Interstate Commerce Commission may compel interstate carriers to furnish the same accommodations for the same money to blacks as to the whites. The railroads admitted that there was discrimination in accommodations by attacking the right of the Commission to issue any such order. The Commissioners say that if the railroads do not obey their order they will be compelled to do away with the Jim Crow car altogether.",
+      "status": "ok",
+      "confidence": 0.9755886793136597,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 524,
+        "y0": 374,
+        "x1": 930,
+        "y1": 785
+      },
+      "text": "\"Indubitably,\" says the New York Nation, \"the railways will carry the case to the Supreme Court; if there the decision should be against them, they will doubtless be compelled by public sentiment, in the present temper of the South, to give the accommodations ordered and thus preserve the Jim Crow car. We heartily wish it might be abolished for all time, as a manifestation of prejudice and racial hatred utterly out of place in a democracy. The true remedy for what are obviously trying conditions is the establishment of the European system of several classes of accommodation at varying rates, just as there are now Pullmans and day coaches. No one who has not had to travel in the ordinary Jim Crow car can, we are sure, have any conception of what decent colored people have to suffer every day at the hands of Southern railways.\"",
+      "status": "ok",
+      "confidence": 0.978597104549408,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 523,
+        "y0": 787,
+        "x1": 929,
+        "y1": 1355
+      },
+      "text": "The Boston Post declares that the railroads have brought the trouble on themselves by their neglect of their colored passengers. \"The system itself has never been found unconstitutional or illegal; separation is permitted, but—and here is the rub of the whole matter—railroads must give as good accommodations to Negroes as to whites for the same money. That they do not do it is notorious. The fight is going to the United States Supreme Court, apparently. It seems hardly possible that that tribunal will hesitate to decide that a black man's money is as good as a white man's and entitled to an exactly equivalent return.\"\n\nThe United Colored Democracy of New York, which worked hard to elect Governor Dix, is advocating a project to establish a colored regiment in the National Guard of New York State. There was an objection from Adjutant-General Verbeck, who said that colored men were not debarred from entering the existing regiments and that the presence of colored officers would create \"unpleasant situations\" at social functions. The United Colored Democracy replied:",
+      "status": "ok",
+      "confidence": 0.9751953482627869,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 523,
+        "y0": 1356,
+        "x1": 929,
+        "y1": 1556
+      },
+      "text": "\"We have noticed with considerable astonishment the argument of the adjutant-general against establishing a Negro regiment of the National Guard.\n\"That argument, reduced to its lowest terms, is this: First, that Negroes can join the present regiments of the Guard. Second, that Negro officers would be brought into social relations with white officers.",
+      "status": "ok",
+      "confidence": 0.9588272571563721,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.4,
+    "at": "2026-10-06T21:17:31+00:00"
+  }
+}

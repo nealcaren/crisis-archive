@@ -1,0 +1,211 @@
+{
+  "page": 3,
+  "image": "images/page_03.jpg",
+  "width": 1075,
+  "height": 1607,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 269,
+        "y0": 82,
+        "x1": 738,
+        "y1": 230
+      },
+      "text": "THE CRISIS\nA Record of the Darker Races\nContents for April, 1911",
+      "status": "ok",
+      "confidence": 0.8200832009315491,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 519,
+        "y0": 230,
+        "x1": 916,
+        "y1": 568
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 89,
+        "y0": 242,
+        "x1": 913,
+        "y1": 774
+      },
+      "text": "Along the Color Line. 5\nOpinion. 12\nThe N. A. A. C. P. 17\nWilliam Stanley Braithwaite—with Portrait. 18\nResurrection: a Poem. By William Stanley Braithwaite. 19\nEditorial. 20\nLeaving It to the South. By Charles Edward Russell. 23\nColor Hysteria. By Oswald Garrison Villard. 25\nTalks About Women. By Mrs. John E. Milholland. 27\nThe Burden. 28\nWhat to Read. 29\nCartoon: \"Mr. Lewis Gets His!\" By John Henry Adams. 31\n\nActual Circulation of THE CRISIS\n\nNovember 1,000 copies February 4,000 copies\nDecember 2,500 copies March 6,000 copies\nJanuary 3,000 copies April 10,000 copies\n\nAgents wanted who can furnish reliable references.\nEntered as second-class matter in the post office at New York City.\n\nThe May number of THE CRISIS will contain:",
+      "status": "ok",
+      "confidence": 0.9507530331611633,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 606,
+        "x1": 463,
+        "y1": 668
+      },
+      "text": "November ..... 1,000 copies\nDecember ..... 2,500 copies\nJanuary ..... 3,000 copies",
+      "status": "ok",
+      "confidence": 0.23533126711845398,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 519,
+        "y0": 774,
+        "x1": 916,
+        "y1": 1063
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 96,
+        "y0": 777,
+        "x1": 539,
+        "y1": 801
+      },
+      "text": "An article by William Stanley Braithwaite.",
+      "status": "ok",
+      "confidence": 0.3840247690677643,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 801,
+        "x1": 915,
+        "y1": 848
+      },
+      "text": "A character sketch of Lord Weardale, President of the Races Congress to be held next July in London.",
+      "status": "ok",
+      "confidence": 0.41701871156692505,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "text",
+      "bbox": {
+        "x0": 92,
+        "y0": 801,
+        "x1": 756,
+        "y1": 1063
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 97,
+        "y0": 849,
+        "x1": 915,
+        "y1": 1204
+      },
+      "text": "How the Negroes of St. Lucia fought for freedom. By Arthur A. Schomburg.\nA new department: \"News of Women's Clubs,\" by Mrs. A. W. Hunton, formerly Organizer of the National Association of Colored Women's Clubs.\nOur circulation is growing rapidly, but we must have 25,000. Every reader of THE CRISIS can by personal solicitation help us to this goal. Probably no magazine in America has a more interesting set of readers—we have on our books judges, financiers, philanthropists, college presidents and scholars, besides the best educated colored people of the country.\n\nCOMMENTS ON THE CRISIS\n\n\"I have not yet expressed to you my opinion of the magazine which you are now editing. First of all, I admire the spirit of fairness in which it is conducted. The assumption that all parties are honest in their opinion is a long step forward in dealing with the race question. I am sure that while being conducted in such a spirit truth, be it pleasant or unpleasant, is what Negro journalism has wanted for many years. It is also a delightful thing to be able to place your paper into the hands of the younger generation and call their attention to the good English used in the pages. May THE CRISIS live long and accomplish its mission.\"",
+      "status": "ok",
+      "confidence": 0.9297028183937073,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 1105,
+        "x1": 495,
+        "y1": 1444
+      },
+      "text": "\"I have not yet expressed to you my opinion of the magazine which you are now editing. First of all, I admire the spirit of fairness in which it is conducted. The assumption that all parties are honest in their opinion is a long step forward in dealing with the race question. I am sure that while being conducted in such a spirit the periodical will be productive of great good. Then, too, through its columns such abundant information is given relative to every phase of the race question that one who would keep abreast with racial occurrences cannot afford to miss a single copy.\"\n\nGeo. F. Porter,\nKansas City, Kan.\n\n\"I am impressed by the splendid work you are doing in putting forth a paper that is worth while in the highest sense of the word. It is bromidic to say that it 'fills a long-felt want,' but that is just what it does. Definite facts presented without exaggeration and shrieking comment; a square and honest way of looking at the situation, without hysterical unbalance, and above all the",
+      "status": "ok",
+      "confidence": 0.9516203999519348,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 519,
+        "y0": 1203,
+        "x1": 914,
+        "y1": 1308
+      },
+      "text": "ALICE M. (MRS. PAUL LAWRENCE) DUNBAR, Wilmington, Del.\n\n\"I have never read a publication that has appealed to me so strongly as yours. It is \"brimful\" of interesting matter, and I trust that your efforts will be crowned with great success.\"",
+      "status": "ok",
+      "confidence": 0.675086259841919,
+      "lines": []
+    },
+    {
+      "id": "r13",
+      "label": "abandon",
+      "bbox": {
+        "x0": 519,
+        "y0": 1351,
+        "x1": 916,
+        "y1": 1587
+      },
+      "text": "\"As a contribution to race literature THE CRISIS is unequaled. Impossible to overestimate its value. Destined to become a perfect encyclopedia of information on racial matters.\"\nMRS. CARRIE W. CLIFFORD,\nWashington, D. C.",
+      "status": "ok",
+      "confidence": 0.28842687606811523,
+      "lines": []
+    },
+    {
+      "id": "r14",
+      "label": "text",
+      "bbox": {
+        "x0": 92,
+        "y0": 1444,
+        "x1": 756,
+        "y1": 1587
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r15",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 681,
+        "y0": 1317,
+        "x1": 896,
+        "y1": 1335
+      },
+      "text": "Philadelphia, Pa.",
+      "status": "ok",
+      "confidence": 0.25823304057121277,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 136.6,
+    "at": "2026-10-06T21:23:45+00:00"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "page": 31,
+  "image": "images/page_31.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 873,
+        "y0": 80,
+        "x1": 898,
+        "y1": 102
+      },
+      "text": "31",
+      "status": "ok",
+      "confidence": 0.8155986070632935,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 322,
+        "y0": 81,
+        "x1": 662,
+        "y1": 107
+      },
+      "text": "THE CRISIS ADVERTISER",
+      "status": "ok",
+      "confidence": 0.8638374209403992,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "text",
+      "bbox": {
+        "x0": 83,
+        "y0": 136,
+        "x1": 903,
+        "y1": 1482
+      },
+      "text": "Books for \"Crisis\" Readers\n\nJOHN BROWN\nBy W. E. BURGHARDT DU BOIS, A. M., Ph. D., Professor of Sociology in Atlanta University\n12mo. Cloth, stamped in gold, gilt top. With frontispiece portrait of Brown\n$1.25 net; by mail, $1.37\n\n\"A popular presentation of a very real figure in American history.\"—Chicago Evening Post.\n\"The author is well qualified to treat his subject and has produced a satisfactory and readable book.\"—Book News Monthly.\n\nFREDERICK DOUGLASS\nBy BOOKER T. WASHINGTON, President of Tuskegee Institute and author of \"Up from Slavery,\" \"Working with the Hands,\" etc.\n12mo. Cloth, stamped in gold, gilt top. With frontispiece portrait of Douglass\n$1.25 net; by mail, $1.37\n\n\"A sympathetic study of a career which was identified with the race problem in the period of revolution and liberation. It reveals Douglass as the personification of the transition from slavery to citizenship.\"—Book Review Digest.\n\nABRAHAM LINCOLN\nBy ELLIS PAXSON OBERHOLTZER, Ph. D., author of \"Jay Cooke, Financier of the Civil War\"\n12mo. Cloth, stamped in gold, gilt top. With frontispiece portrait of Lincoln\n$1.25 net; by mail, $1.37\n\n\"A well-balanced, readable, compact book that gives the important facts of Lincoln's life, and shows him as posterity will be likely to see him, not as a demi-god, but with full appreciation of his character and genius.\"—The Dial.\n\nTHE NEGRO IN THE SOUTH\nHis economic progress in relation to his Moral and Religious Development. By BOOKER T. WASHINGTON, of Tuskegee Institute, and W. E. BURGHARDT DU BOIS, of Atlanta University\n12mo. Cloth\n$1.00 net; by mail, $1.10\n\nChapter 1—The Economic Development of the Negro Race in Slavery\nChapter 2—The Economic Development of the Negro Race Since Its Emancipation\nChapter 3—The Economic Revolution in the South\nChapter 4—Religion in the South\n\n\"Ought to be read by every American citizen.\"—Pittsburg Christian Advocate.\n\nSent upon receipt of price by\nGEORGE W. JACOBS & CO., Publishers\n208 W. Washington Square, Philadelphia, Pa.",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 11.6,
+    "at": "2026-10-06T21:05:44+00:00"
+  }
+}

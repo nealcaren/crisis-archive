@@ -1,0 +1,127 @@
+{
+  "page": 16,
+  "image": "images/page_16.jpg",
+  "width": 1390,
+  "height": 2077,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 428,
+        "y0": 170,
+        "x1": 1111,
+        "y1": 254
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.6525602340698242,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 238,
+        "y0": 327,
+        "x1": 750,
+        "y1": 896
+      },
+      "text": "THE amount of positive ignorance on the situation of the colored people in America is simply appalling. Take, for instance, the matter of the education of children. The Lawrence (Mass.) American says with great complacence: \"The education of the Negro in the South is now on a sound and safe basis. Its scope is broad and sensible, training him both mentally and industrially, not forgetting his moral elevation as well. It is a task being well done, and the results should be effective in wearing down the edge of the racial prejudice below the Mason and Dixon line.\"",
+      "status": "ok",
+      "confidence": 0.975470781326294,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 238,
+        "y0": 899,
+        "x1": 748,
+        "y1": 1452
+      },
+      "text": "A leading colored paper, the Indianapolis Freeman, also asserts that there is no effort \"to deny Negroes education in America. It will be admitted that there are now and then inconveniences, perhaps owing to prejudice in localities, but not to such an extent as to deprive the Negro child of some education, if so desired.\"\n\nThese writers believe what they say. They believe it because they want to believe it, however, and not because they have made any effort to get at the facts. Yet the facts are perfectly plain. The last published report of the United States Commissioner of Education, 1909, gives these figures:",
+      "status": "ok",
+      "confidence": 0.9782615900039673,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 236,
+        "y0": 1461,
+        "x1": 750,
+        "y1": 1877
+      },
+      "text": "Colored children, 5-18 years of age .....3,964,398\nNumber of these daily attending schools .....1,035,747\nPercentage ..... 33.7%\nAverage length of school term for colored and white children in the South, per year .....24 weeks\nThis means that only one-third the Negro children 5-18 years of age are attending school and it is fair to assume that less than half of those 5-14",
+      "status": "ok",
+      "confidence": 0.9166384935379028,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 782,
+        "y0": 325,
+        "x1": 1300,
+        "y1": 859
+      },
+      "text": "years of age are in school. Moreover, the Negro schools being shorter than the white schools do not average as much as five months a year. These are the official figures compiled for public consumption by white Southern officials. The State supervisor of rural schools of South Carolina says openly in his last report: \"It has been my observation that the Negro schools of South Carolina are for the most part without supervision of any kind. Frequently the county superintendent does not know where they are located, and sometimes the district board cannot tell where the school is taught!\"",
+      "status": "ok",
+      "confidence": 0.9788276553153992,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 782,
+        "y0": 861,
+        "x1": 1296,
+        "y1": 1105
+      },
+      "text": "If once we go behind the official admissions the picture is even worse. As we pointed out in the January CRISIS, in one Alabama county out of 10,758 Negro children only 1,000 were in school. As to Louisiana, this is the way V. P. Thomas dissects the school report:",
+      "status": "ok",
+      "confidence": 0.9754306674003601,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 782,
+        "y0": 1107,
+        "x1": 1296,
+        "y1": 1505
+      },
+      "text": "\"The school term for white schools is over eight months long; the school term for colored schools is less than five months long. There are high schools for white children in every parish, and no high schools for colored children in any parish at the present time, except Southern University in New Orleans. The high schools all run nine months. The average monthly salary of the white female teacher is $50.80; that of the colored female teacher $28.67.",
+      "status": "ok",
+      "confidence": 0.9813594818115234,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 781,
+        "y0": 1508,
+        "x1": 1297,
+        "y1": 1880
+      },
+      "text": "\"The white and colored populations are very nearly equal, yet the white teachers' salaries amount to $2,404,062.54; the colored teachers' salaries amount to $202,251.13. The value of all schoolhouses, sites and furniture for whites is $6,503,019.57; the value of all schoolhouses, sites and furniture for colored is $273,147.50. The toal value of school property for colored use is $266,281.40. Number of wagonettes for whites only in use,",
+      "status": "ok",
+      "confidence": 0.9782029986381531,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.8,
+    "at": "2026-10-06T21:11:57+00:00"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "page": 31,
+  "image": "images/page_31.jpg",
+  "width": 1853,
+  "height": 2768,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "figure",
+      "bbox": {
+        "x0": 190,
+        "y0": 439,
+        "x1": 1368,
+        "y1": 2356
+      },
+      "text": "THE BEDROOM",
+      "status": "ok",
+      "confidence": 0.9676405787467957,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 1391,
+        "y0": 448,
+        "x1": 1466,
+        "y1": 2311
+      },
+      "text": "In only five Southern cities have colored people any public library facilities. Louisville, Ky., has a flourishing colored branch library, and this is a picture of the Reading Room.",
+      "status": "ok",
+      "confidence": 0.48756009340286255,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 5.7,
+    "at": "2026-10-06T21:14:07+00:00"
+  }
+}

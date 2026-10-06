@@ -1,0 +1,99 @@
+{
+  "page": 16,
+  "image": "images/page_16.jpg",
+  "width": 1078,
+  "height": 1579,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 321,
+        "y0": 106,
+        "x1": 852,
+        "y1": 171
+      },
+      "text": "EDITORIAL",
+      "status": "ok",
+      "confidence": 0.5795225501060486,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 174,
+        "y0": 229,
+        "x1": 572,
+        "y1": 453
+      },
+      "text": "ENVY. It is unfortunate that in the recent newspaper discussion of an Appeal to Europe sent out not by this Association but by a number of colored men of influence and standing, reference was constantly made to the lowest personal motives and seldom to the arguments presented.",
+      "status": "ok",
+      "confidence": 0.9726683497428894,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 454,
+        "x1": 572,
+        "y1": 1048
+      },
+      "text": "It is true that with all peoples, and especially with a race in the throes of birth-pain, personal likes and jealousies play a wretchedly large part. But it does not follow that they explain all the struggle and difference of opinion. It is true that the rise of a man like Mr. Booker T. Washington to a place of commanding influence has made him an object of envy to many narrow souls. But it does not follow that the thousands of intelligent people who differ with Mr. Washington are all actuated by such motives, or are unable to distinguish great and vital principles apart from personal feeling. When, therefore, such differences of opinion arise, as it is natural and healthy that they should arise, it is both wrong and unjust to assume the motive to be necessarily low. Particularly is this true when adequate causes of deep and compelling importance are openly and honestly given as the cause of this difference.",
+      "status": "ok",
+      "confidence": 0.979558527469635,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 1049,
+        "x1": 572,
+        "y1": 1433
+      },
+      "text": "Are such causes sufficient to sustain the complainers? That is a matter of argument, not of innuendo or abuse. No man and no cause are above the careful scrutiny and criticism of honest men, and certainly to-day there is in the United States a very large field for argument as to the proper attitude of colored leaders toward the race problem.\n\nTHE TRUTH.\n\nTo the honest seeker for light the puzzling thing about the Southern situation is the absolutely contradictory statements that are often",
+      "status": "ok",
+      "confidence": 0.9779595136642456,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 598,
+        "y0": 224,
+        "x1": 999,
+        "y1": 995
+      },
+      "text": "made concerning conditions. For instance, the New York Evening Post is taken to task by the Norfolk (Va.) Landmark for assuming that Southern colored men are largely disfranchised. The Virginia paper says \"No Negro in Virginia can be kept from voting, provided he measures up to the same requirements for the exercising of that right that the white man must. The laws of the State will protect him in the right should election officials deny it him. That Negroes in this State may freely qualify to vote is fully attested by the fact that thousands of them do vote.\" Again, the New Orleans Picayune declares with regard to the complaint of disfranchisement, \"The arrant and absolute falsity of the specification in regard to the ballot is seen in the fact that every legal bar to the exercise of the ballot applies to whites and Negroes alike. Every elector (voter) must either be able to read and write or, in case of illiteracy, he must pay taxes on ordinary assessable property of the minimum value of $300. These laws are strictly in accordance with the requirements of the Constitution of the United States, and have been so pronounced by the courts.\"",
+      "status": "ok",
+      "confidence": 0.9754313230514526,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 596,
+        "y0": 997,
+        "x1": 999,
+        "y1": 1435
+      },
+      "text": "Just so in earlier days before legal disfranchisement, paper after paper and orator after orator declared that the Negro could and did vote without let or hindrance. Despite this, every intelligent person in the United States knows that these statements are false. The Southern testimony to this is itself open and convincing. Not only have we Mr. Tillman's frank and picturesque testimony on the past, but today the Richmond (Va.) Leader says that all is well in Virginia \"since we disfranchised the Negro\"; Congressman Underwood of Alabama says the Alabama Negro \"does not count for anything politically\" in that State; a",
+      "status": "ok",
+      "confidence": 0.9785172343254089,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.9,
+    "at": "2026-10-06T21:03:40+00:00"
+  }
+}

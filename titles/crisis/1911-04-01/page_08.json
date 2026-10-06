@@ -1,0 +1,127 @@
+{
+  "page": 8,
+  "image": "images/page_08.jpg",
+  "width": 1088,
+  "height": 1615,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 505,
+        "y0": 93,
+        "x1": 655,
+        "y1": 118
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.7839199304580688,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 169,
+        "y0": 95,
+        "x1": 187,
+        "y1": 116
+      },
+      "text": "8",
+      "status": "ok",
+      "confidence": 0.7346805930137634,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 171,
+        "y0": 147,
+        "x1": 573,
+        "y1": 661
+      },
+      "text": "railroad, had failed to result in an agreement.\nWhile the union officers were busy sending out the strike orders Mr. Powell dictated a telegram to Washington asking mediation under the Erdman act. The union officers refused to join in a request, for mediation, asserting that their experience had led them to believe that the men would lose rather than gain by such a course.\nThe strike is due to a dispute as to the status of Negro firemen. The union asserts that the working agreement with the road provides that Negroes are ineligible to any work except on local and slow freight trains and on yard engines. The railroad disputes this and asserts that their Negro employees are entitled to promotion on the same terms as the white men. About 220 firemen are on the roster of the road.\nThe whole movement is simply a continuation of the Georgia strike of two years ago. Eleven men are dead as a result of the disorder.",
+      "status": "ok",
+      "confidence": 0.9782546758651733,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 176,
+        "y0": 677,
+        "x1": 576,
+        "y1": 1086
+      },
+      "text": "The failure of the Metropolitan Mercantile and Realty Company in New York has resulted in criminal proceedings. The company was incorporated under the laws of New Jersey with a capital of $1,000,000. It is alleged that during the ten years of its existence it has got considerable sums of money by fraudulent devices from colored folk in New York and various parts of the country. About two weeks ago the attention of District Attorney Clarke was called to the matter by Rufus L. Perry, a Negro lawyer, and several specific charges of fraud have been made against the officers of the company. Other arrests are expected. Attorney Perry says that the company opened handsomely furnished offices at Eighth Avenue and Forty-sixth Street.",
+      "status": "ok",
+      "confidence": 0.9787178039550781,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 178,
+        "y0": 1089,
+        "x1": 581,
+        "y1": 1516
+      },
+      "text": "\"No wonder,\" he said, \"that the colored people fell for it. The officers declared that they were going to open a bank for Negroes, would conduct a great grocery store and would even build a magnificent church. But the greatest asset of all was the promise that they would buy land situated not in the outskirts of the city but right in the heart of the fine residential section, where the Negroes would own homes and live in equal social equality with the white people around them. When dividends were due on stock the company would pay with more stock.\"\n\nIn Richmond, Va., 750 delegates from 27 States have been meeting for the purpose of untangling the affairs of the True Reformers' Industrial Insurance Society. The State Commissioner of Insurance said to them in a speech:",
+      "status": "ok",
+      "confidence": 0.9764590263366699,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 594,
+        "y0": 143,
+        "x1": 998,
+        "y1": 551
+      },
+      "text": "\"I have a great interest in you people because your organization has done more for the uplift of the Negro than any other fraternity in your race. It pained me when it got into its present position, and I pledge you any legitimate support that I can give you. From the progress that you are making under present conditions, you need not be discouraged. I am sure that this splendid body of men and women and your race will save the organization.\"\n\nA bill that threatens to reopen the slumbering Japanese question was introduced into the California legislature. The measure is termed an alien land bill and provides for the excluding from ownership or lease of agricultural lands any alien not eligible to become a citizen of the United States.",
+      "status": "ok",
+      "confidence": 0.9775018692016602,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 598,
+        "y0": 552,
+        "x1": 1001,
+        "y1": 992
+      },
+      "text": "\"I have studied this subject for many years,\" said the senator who introduced the bill. \"There are 200,000 acres of the best agricultural lands in California owned by aliens who cannot be assimilated, practically, all Japanese and Chinese. These aliens should not be permitted to get a foothold, for with the same ratio of growth that they now have they will control the agricultural resources of California in ten years. The race question also will be a factor, and compared with the situation in California the Negro question in the South is simple.\"\n\nThere is a colored bank in Chicago and also one in Springfield, Illinois.\n\nNegroes struck at the fertilizer mills near Charleston, S. C., but were quickly overawed by the police. A few returned to work.",
+      "status": "ok",
+      "confidence": 0.9781036376953125,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 601,
+        "y0": 1008,
+        "x1": 1006,
+        "y1": 1517
+      },
+      "text": "In Brownstown, Southern Indiana, four Negroes who had come to work for a contractor left for their homes in Kentucky. They had been there for two days and had found it impossible to get anything to eat or a place to sleep. No one would sell them meals or supply them with beds.\n\nFor two nights they slept in a shed on a vacant lot just outside the town limits, and all they could get to eat was what a kindly woman gave them as charity. She refused to take pay and advised them to leave.\n\nTHE GHETTO.\n\nThe West ordinance has been reintroduced into the Baltimore City Council and is entitled, \"An ordinance for preserving peace, preventing conflict and ill-feeling between the white and colored races, and promoting the general welfare of the city of Baltimore by providing as far as practicable for the use of separate blocks by white and colored people for residences, churches and schools.\"",
+      "status": "ok",
+      "confidence": 0.9772685170173645,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 9.1,
+    "at": "2026-10-06T21:25:26+00:00"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "page": 24,
+  "image": "images/page_24.jpg",
+  "width": 1074,
+  "height": 1576,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 162,
+        "y0": 97,
+        "x1": 986,
+        "y1": 540
+      },
+      "text": "In considering the field of employment for colored women, the professional women must be discussed separately. They admit fewer difficulties and put a brave face on the matter, but in any case their present position was gained only after a long struggle. The education is the less difficult part. The great effort is to get the work after having prepared themselves for it. The Negro woman, like her white sister, is constantly forced to choose between a lower wage or no work. The pity is that her own people do not know the colored girl needs their help nor realize how much they could do for her.\n\nwhat they call \"day work\" most satisfactory. This means from eight to nine hours a day at some kind of housework, cleaning, washing, ironing or dusting. This the Negro women prefer to regular positions as maids, because it allows them to go at night to their families. The majority of the women who do this work receive $1.50, with 10 cents extra for carfare. There was a higher grade of day work for which the pay was $2 a day besides the carfare. This included the packing of trunks, washing of fine linen and lace curtains, and even some mending.\n\nThe records of the South Side Free Em-",
+      "status": "ok",
+      "confidence": 0.9784737229347229,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 167,
+        "y0": 543,
+        "x1": 559,
+        "y1": 1043
+      },
+      "text": "Two of the musicians found the struggle too hard and were compelled to leave Chicago. One girl of twenty-three, a graduate of the Chicago Conservatory of Music, is playing in a low concert hall in one of the worst sections of the city, from 8 in the evening till 4 in the morning. Her wages are $18 a week, and with this she supports a father and mother and younger sister. There are from fifteen to twenty colored teachers in the public schools of Chicago. This information was obtained from the office of the superintendent, where it was said no record was kept of the number of colored teachers. When they are given such a place they are always warned that they are likely to have difficulty. As a rule they are in schools where the majority of the children are Negroes. They are all in the grades, but they say that their opportunities for promotion are equal to those of white women. Indeed, they say that there are two places where they are not discriminated against because of their color. One is in the public schools, the other is under the Civil Service Commission.",
+      "status": "ok",
+      "confidence": 0.9802483916282654,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 168,
+        "y0": 1046,
+        "x1": 563,
+        "y1": 1450
+      },
+      "text": "However, the professional women do not have the greatest difficulty. The real barriers are met by the women who have had only an average education—girls who have finished high school, or perhaps only the eighth grade. These girls, if they were white, would find employment at clerical and office work in Chicago's department stores, mail order houses and wholesale stores. But these positions are absolutely closed to the Negro girl. She has no choice but housework.\n\nWhen the object of the inquiry was explained to one woman she said: \"Why, no one wants a Negro to work for him. I'll show you—look in the newspaper.\" And she produced a paper with its columns of advertisements for help wanted. \"See, not one person in this whole city has asked for a Negro to work for him.\"\n\nA great many of the colored women find",
+      "status": "ok",
+      "confidence": 0.977810263633728,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 587,
+        "y0": 519,
+        "x1": 984,
+        "y1": 1262
+      },
+      "text": "The records of the South Side Free Employment Agency showed that the wages of colored women were uniformly lower than those of white women. Of course, there is no way of judging of ability by records, but where the white cooks received $8 per week the Negro cooks were paid $7, and where the white maids received $6, sometimes, but not as frequently as in the case of the cooks, the Negro maid received less. One dollar and a half was paid for \"day work.\" At the colored employment agency which is run in connection with the Frederic Douglas Centre they have many more requests for maids than they have girls to fill the places. Good places with high wages are sometimes offered, but the girls are more and more demanding \"day work\" and refusing to work by the week. At the South Side Free Employment Agency during the months of January, February and March of this year forty-two positions for colored women were found.* These forty-two positions were filled by thirty-six women, some of them coming back to the office two or three times during the three months. The superintendent said it was difficult to find places for the colored women who applied, and they probably succeeded in placing only about 25 per cent. of them. In the opinion of those finding the work for the girls in this office, the reason for the difficulties they encounter are the fact that they do not remain long in one place and have a general reputation for dishonesty. The fundamental cause of the discrimination by employers against them is racial prejudice either in the employer himself or in his customers.",
+      "status": "ok",
+      "confidence": 0.9773674607276917,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 590,
+        "y0": 1264,
+        "x1": 988,
+        "y1": 1452
+      },
+      "text": "One girl who has only a trace of colored blood was able to secure a position as salesgirl in a store. After she had been there a long time she asked for an increase in wages, such as had been allowed the white girls, but the request was refused and she was told that she ought to be thankful that they kept her at all.\n\n*454 white women in the same time.",
+      "status": "ok",
+      "confidence": 0.9745901226997375,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.0,
+    "at": "2026-10-06T21:04:33+00:00"
+  }
+}

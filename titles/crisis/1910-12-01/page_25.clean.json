@@ -1,0 +1,501 @@
+{
+ "page": 25,
+ "image": "images/page_25.jpg",
+ "width": 1084,
+ "height": 1610,
+ "ocr": {
+  "engine": "newspaper-ocr 0.10.0",
+  "detector": "doclayout_yolo",
+  "recognizer": "glm-ocr",
+  "seconds": 9.4,
+  "at": "2026-10-06T20:58:32+00:00"
+ },
+ "regions": [
+  {
+   "id": "r0",
+   "label": "abandon",
+   "bbox": {
+    "x0": 319,
+    "y0": 94,
+    "x1": 679,
+    "y1": 119
+   },
+   "text": "THE REAL RACE PROBLEM",
+   "status": "ok",
+   "confidence": 0.8750098347663879,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 317,
+    "y0": 93,
+    "x1": 677,
+    "y1": 118
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r1",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 512,
+    "y0": 145,
+    "x1": 908,
+    "y1": 208
+   },
+   "text": "becomes less, and that therefore a gradually increasing similarity of the two racial types may develop.",
+   "status": "ok",
+   "confidence": 0.945259690284729,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 511,
+    "y0": 144,
+    "x1": 905,
+    "y1": 204
+   },
+   "exclude": [
+    [
+     741,
+     205,
+     744,
+     208,
+     "r3"
+    ],
+    [
+     793,
+     205,
+     799,
+     220,
+     "r3"
+    ],
+    [
+     844,
+     205,
+     852,
+     220,
+     "r3"
+    ],
+    [
+     887,
+     205,
+     896,
+     220,
+     "r3"
+    ],
+    [
+     534,
+     207,
+     541,
+     221,
+     "r3"
+    ],
+    [
+     552,
+     207,
+     568,
+     221,
+     "r3"
+    ],
+    [
+     571,
+     206,
+     573,
+     209,
+     "r3"
+    ],
+    [
+     586,
+     206,
+     596,
+     221,
+     "r3"
+    ],
+    [
+     754,
+     206,
+     762,
+     220,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r2",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 91,
+    "y0": 147,
+    "x1": 486,
+    "y1": 186
+   },
+   "text": "far as the introduction of new inventions is concerned.",
+   "status": "ok",
+   "confidence": 0.9354948997497559,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 146,
+    "x1": 486,
+    "y1": 187
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r3",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 511,
+    "y0": 203,
+    "x1": 908,
+    "y1": 535
+   },
+   "text": "I think we may say with safety that the intensity of racial feeling always depends upon two important causes. The one is the relative number of the two races which come into contact. Where one of the races is overwhelmingly in the majority, and the other race is represented by a few individuals only, intensity of race feeling is generally rather slight; while in all cases where both types are so numerous as to form large social divisions, characterized by habits of their own, and representing a strong economic influence, intense race feelings easily develop. These feelings are strongly emphasized by a second consideration: namely, the amount of difference of type.",
+   "status": "ok",
+   "confidence": 0.9782781600952148,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 512,
+    "y0": 205,
+    "x1": 906,
+    "y1": 529
+   },
+   "exclude": [
+    [
+     520,
+     193,
+     530,
+     206,
+     "r1"
+    ],
+    [
+     531,
+     193,
+     549,
+     206,
+     "r1"
+    ],
+    [
+     593,
+     192,
+     603,
+     205,
+     "r1"
+    ],
+    [
+     658,
+     192,
+     678,
+     205,
+     "r1"
+    ],
+    [
+     532,
+     533,
+     546,
+     548,
+     "r6"
+    ],
+    [
+     548,
+     534,
+     556,
+     548,
+     "r6"
+    ],
+    [
+     559,
+     534,
+     561,
+     536,
+     "r6"
+    ],
+    [
+     582,
+     534,
+     585,
+     536,
+     "r6"
+    ],
+    [
+     680,
+     534,
+     684,
+     548,
+     "r6"
+    ],
+    [
+     735,
+     534,
+     738,
+     537,
+     "r6"
+    ],
+    [
+     771,
+     534,
+     774,
+     549,
+     "r6"
+    ],
+    [
+     777,
+     534,
+     780,
+     549,
+     "r6"
+    ],
+    [
+     849,
+     534,
+     852,
+     537,
+     "r6"
+    ],
+    [
+     882,
+     534,
+     884,
+     537,
+     "r6"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r4",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 90,
+    "y0": 222,
+    "x1": 487,
+    "y1": 533
+   },
+   "text": "I think, therefore, that biological analogy as well as historical evidence do not favor the assumption of any material inferiority of the mulatto. The question, however, deserves a painstaking investigation.\n\nThe simple facts that Negroes and Europeans live side by side in our country, that the European receives constant large additions from abroad, while the amount of Negro blood receives no additions from outside, must necessarily lead to the result that the relative number of pure Negroes will become less and less in our country. The gradual process of elimination of the full-blooded Negro may be retarded by legislation, but it cannot possibly be avoided.",
+   "status": "ok",
+   "confidence": 0.9625284671783447,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 221,
+    "x1": 485,
+    "y1": 530
+   },
+   "exclude": [
+    [
+     277,
+     532,
+     279,
+     535,
+     "r5"
+    ],
+    [
+     293,
+     532,
+     302,
+     547,
+     "r5"
+    ],
+    [
+     320,
+     532,
+     339,
+     547,
+     "r5"
+    ],
+    [
+     451,
+     532,
+     453,
+     534,
+     "r5"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r5",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 89,
+    "y0": 530,
+    "x1": 487,
+    "y1": 1146
+   },
+   "text": "It seems to my mind that a very serious misunderstanding of the actual conditions of intermixture between Negro and white prevails in many parts of our country. The fear is often expressed that by intermixture between whites and Negroes the whole mass of the white population might be infused with a certain amount of Negro blood. This is not what has actually occurred, but what would result if unions between white women and Negro men were as frequent as unions between Negro men and white women. As a matter of fact, however, the former type of unions—that of the Negro male and of the white female—are exceedingly few in number as compared to the others. It therefore follows that our mulattoes are almost throughout the offspring of Negro mothers and white fathers. Now, we must remember that the total number of children born in the community depends upon the number of mothers, and that the number of children born of the Negro or mulatto women would be approximately the same, no matter whether the fathers are Negroes, mulattoes, or white men. It thus appears that in all cases where mixture between whites and Negroes occurs, as long as this mixture is predominantly a mixture of white fathers and colored mothers, the relative proportion of Negro blood in the following mixed generation",
+   "status": "ok",
+   "confidence": 0.9726570844650269,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 532,
+    "x1": 485,
+    "y1": 1143
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r6",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 511,
+    "y0": 531,
+    "x1": 907,
+    "y1": 1147
+   },
+   "text": "This is true, at least, in all countries inhabited by north European, particularly by Teutonic, nations. As long as the general emotional state of our society persists—and there is no reason to assume that our general attitude will change to any appreciable degree within a measurable time—it seems obvious that our race problems will become the less intense, the less the difference in type between the different groups of our people, and the less the isolation of certain social groups. From this point of view, it would seem that one aspect of the solution of the Negro problem lies entirely in the hands of the Negro himself. The less Negro society represents a party with its own aims and its own interest distinct from those of the members of the white race, the more satisfactory will be the relation between the races. On the other hand, it would seem that the inexorable conditions of our life will gradually make toward the disappearance of the most distinctive type of Negro, which will again tend to alleviate the acuteness of race feeling. It may seem like a look into a distant future; but an unbiased examination of conditions as they exist at the present time points to the ultimate result of a levelling of the deep distinctions between the two races and a more and more fruitful co-operation.",
+   "status": "ok",
+   "confidence": 0.9778153896331787,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 510,
+    "y0": 534,
+    "x1": 904,
+    "y1": 1142
+   },
+   "exclude": [
+    [
+     638,
+     518,
+     673,
+     533,
+     "r3"
+    ]
+   ],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r7",
+   "label": "title",
+   "bbox": {
+    "x0": 88,
+    "y0": 1224,
+    "x1": 906,
+    "y1": 1332
+   },
+   "text": "N. A. A. C. P. LECTURE RECITAL Mrs. Mary Church Terrell and Madame Azalia Hackley, at the Berkeley Theatre, 21 West 44th Street, Wednesday, December 7, at eleven a. m.",
+   "status": "ok",
+   "confidence": 0.9229201674461365,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 85,
+    "y0": 1219,
+    "x1": 902,
+    "y1": 1331
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r8",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 88,
+    "y0": 1367,
+    "x1": 906,
+    "y1": 1495
+   },
+   "text": "Mrs. William H. Baldwin, Mrs. O. H. P. Belmont, Mrs. Harriet Stanton Blatch, Mrs. Walston R. Brown, Mrs. John Dewey, Mrs. Clinton P. Farrell, Mrs. Ida Husted Harper, Mrs. Robert G. Ingersoll, Miss Maud R. Ingersoll, Mrs. John E. Milholland, Mrs. Max Morgentau, Jr., Mrs. Frederick Nathan, Mrs. E. R. A. Seligman, Mrs. V. C. Simkhovitch, Miss Lillian D. Wald, Mrs. Henry Villard and Mrs. Diana Belais.\n\nTickets may be had of Miss Frances Blascoer, 20 Vesey Street, Room 610.",
+   "status": "ok",
+   "confidence": 0.5990907549858093,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 89,
+    "y0": 1364,
+    "x1": 902,
+    "y1": 1493
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r9",
+   "label": "title",
+   "bbox": {
+    "x0": 189,
+    "y0": 196,
+    "x1": 389,
+    "y1": 213
+   },
+   "text": "MULATTO NOT INFERIOR",
+   "status": "ok",
+   "confidence": 0.8627777099609375,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 188,
+    "y0": 193,
+    "x1": 389,
+    "y1": 212
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r11",
+   "label": "plain_text",
+   "bbox": {
+    "x0": 411,
+    "y0": 1342,
+    "x1": 581,
+    "y1": 1362
+   },
+   "text": "PATRONESSES:",
+   "status": "ok",
+   "confidence": 0.23000146448612213,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 407,
+    "y0": 1338,
+    "x1": 582,
+    "y1": 1362
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "text"
+  },
+  {
+   "id": "r12",
+   "label": "abandon",
+   "bbox": {
+    "x0": 878,
+    "y0": 91,
+    "x1": 905,
+    "y1": 114
+   },
+   "text": "25",
+   "status": "ok",
+   "confidence": 0.8315157890319824,
+   "lines": [],
+   "bbox_ocr": {
+    "x0": 877,
+    "y0": 90,
+    "x1": 904,
+    "y1": 111
+   },
+   "exclude": [],
+   "changed": false,
+   "role": "running_head"
+  }
+ ],
+ "clean": {
+  "regions_before": 13,
+  "regions_after": 12,
+  "lost_words": [],
+  "unowned_ink_pct": 0.91,
+  "box_overlaps_after": 3,
+  "log": [
+   "drop r10 (title): non-latin hallucination '尬'"
+  ]
+ }
+}

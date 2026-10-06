@@ -1,0 +1,197 @@
+{
+  "page": 23,
+  "image": "images/page_23.jpg",
+  "width": 1085,
+  "height": 1666,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "title",
+      "bbox": {
+        "x0": 98,
+        "y0": 114,
+        "x1": 936,
+        "y1": 470
+      },
+      "text": "AFRICAN CIVILIZATION\nBy M. D. MACLEAN\n\nA recent press dispatch tells a curious tale of a German explorer who has found, in a remote region of Africa, a bronze head of fine workmanship. The explorer, according to the cable, has been led to believe that he has discovered the site of the legendary country of Atlantis, represented in ancient Greek literature as an island of high civilization lying far to the west.\n\nentertain the idea that perhaps it was not borrowed from anybody but originated on the spot, among the native races. As time goes on, however, and more and more evidence of a very ancient development appears in Africa, scientists have come to the conclusion that Africa played a very important part in the first stages of the world's history. The testimony of the monuments has been too much for the",
+      "status": "ok",
+      "confidence": 0.9753063321113586,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 531,
+        "y0": 272,
+        "x1": 936,
+        "y1": 490
+      },
+      "text": "entertain the idea that perhaps it was not borrowed from anybody but originated on the spot, among the native races. As time goes on, however, and more and more evidence of a very ancient development appears in Africa, scientists have come to the conclusion that Africa played a very important part in the first stages of the world's history. The testimony of the monuments has been too much for the other theory.",
+      "status": "ok",
+      "confidence": 0.9769517779350281,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 99,
+        "y0": 473,
+        "x1": 503,
+        "y1": 690
+      },
+      "text": "It is to be doubted whether the explorer made any such deduction from his find. The Atlantis portion of the story may be the embellishment of an imaginative correspondent, for that long disappeared country has been sought and found in so many places that scientists are wary of talking about it. What would seem a more reasonable explanation of the discovery is that another evidence of an ancient African civilization has been brought to light?",
+      "status": "ok",
+      "confidence": 0.9765685796737671,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 531,
+        "y0": 494,
+        "x1": 934,
+        "y1": 768
+      },
+      "text": "For instance, some years ago there was a good deal of a sensation over the discovery of so-called Phoenician remains in Upper Rhodesia. They were probably, said the dispatches, the remains of dwellings that surrounded King Solomon's mines. Investigation has shown conclusively that they were nothing of the sort, but merely remnants of a native civilization. Mr. David Randall-MacIver, of Oxford University, went to Rhodesia full of enthusiasm for the Phoenician theory, but after a careful investigation his published work left no doubt on the subject. There was",
+      "status": "ok",
+      "confidence": 0.9750064015388489,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 98,
+        "y0": 691,
+        "x1": 502,
+        "y1": 769
+      },
+      "text": "Whenever traces of a high civilization have been found in Africa the first question asked used to be: \"Where was it brought from?\" Nobody was prepared to",
+      "status": "ok",
+      "confidence": 0.9617063999176025,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "text",
+      "bbox": {
+        "x0": 531,
+        "y0": 768,
+        "x1": 936,
+        "y1": 1500
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 98,
+        "y0": 769,
+        "x1": 503,
+        "y1": 1500
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "text",
+      "bbox": {
+        "x0": 307,
+        "y0": 769,
+        "x1": 710,
+        "y1": 1500
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "figure",
+      "bbox": {
+        "x0": 135,
+        "y0": 808,
+        "x1": 898,
+        "y1": 1498
+      },
+      "text": "",
+      "status": "ok",
+      "confidence": 0.970437228679657,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "figure_caption",
+      "bbox": {
+        "x0": 307,
+        "y0": 1500,
+        "x1": 710,
+        "y1": 1521
+      },
+      "text": "Two Negro Princesses of Meroe (after Lepsius).",
+      "status": "ok",
+      "confidence": 0.24145618081092834,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 98,
+        "y0": 1521,
+        "x1": 503,
+        "y1": 1646
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "text",
+      "bbox": {
+        "x0": 307,
+        "y0": 1521,
+        "x1": 710,
+        "y1": 1646
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r12",
+      "label": "text",
+      "bbox": {
+        "x0": 531,
+        "y0": 1521,
+        "x1": 936,
+        "y1": 1646
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 6.2,
+    "at": "2026-10-06T21:18:36+00:00"
+  }
+}

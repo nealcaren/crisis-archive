@@ -1,0 +1,141 @@
+{
+  "page": 35,
+  "image": "images/page_35.jpg",
+  "width": 1088,
+  "height": 1668,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "text",
+      "bbox": {
+        "x0": 34,
+        "y0": 73,
+        "x1": 514,
+        "y1": 1548
+      },
+      "text": "course or opportunities in the automobile business\n\nCOSMOPOLITAN AU\nTelephone 803 Columbus School: Hotel Macee\n\nThe Firm for the Negro Farmer\nTry Us Before Sh\nFRUITS AND VEGETABLES OYSTERS\nCOTTMAN & C\nWHOLESALE COMMISSION MERCHAN\nReference: The People's Savings Bank\n\nNYANZA DRUG CO.\n(Incorporated.)\n35 W. 135th ST., NEW YORK CITY\nCAPITAL STOCK, $15,000\nShares $5.00\nWrite for information. The best paying investment ever offered our people.\n\nSOLOM\n782 F\nDaily an\nBroo",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "title",
+      "bbox": {
+        "x0": 89,
+        "y0": 115,
+        "x1": 941,
+        "y1": 705
+      },
+      "text": "Cosmopolitan Automobile School\n\nThe aim of the School will be to give its students a sufficient knowledge of the theory and practice of Automobile and Automobiling to enable them to meet the emergencies that constantly arise to make those who complete the course competent to run machines, take them apart and assemble them properly, and to make such repairs as may be necessary and possible on the road.\n\nTUITION—Six weeks' course, including Shop and Road Work, $25; installments if you wish, payable $5 on enrollment and $20 by the completion of the fourth week.\n\nSHOP WORK—Consists of naming all the parts of the automobile, taking the engine and the rest of the automobile apart and putting them together again properly, and making such repairs as may be necessary and possible.\n\nROAD WORK—When the shop work is complete the student takes up the operating and handling of cars on the road until he is competent.\n\nIf there is any special information which you desire respecting the course or opportunities in the automobile business we shall be glad to hear from you.\n\nCOSMOPOLITAN AUTO CO. of New York\n\nTelephone 803 Columbus\nSchool: Hotel Maceo, 213 West 53d St.\nLEE A. POLLARD, Mgr.",
+      "status": "ok",
+      "confidence": 0.9660751223564148,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 92,
+        "y0": 740,
+        "x1": 931,
+        "y1": 1277
+      },
+      "text": "The Firm for the Negro Farmers and Shippers to Deal With\nTry Us Before Shipping Elsewhere.\nFRUITS AND VEGETABLES OYSTERS AND GAME POULTRY AND EGGS\nCOTTMAN & COTTMAN\nWHOLESALE COMMISSION MERCHANTS. 107 Pine Street, Philadelphia, Pa.\nReference: The People's Savings Bank Bell 'Phone Connection: Lombard 4035\n\nNYANZA DRUG CO.\n(Incorporated.)\n35 W. 135th ST., NEW YORK CITY\nCAPITAL STOCK, $15,000\nShares $5.00\nWrite for information. The best paying investment ever offered our people.\n\nNYANZA PHARMACY\nis the only colored Drug Store in New York City, and the purpose of the Corporation is to establish chains of stores, carrying Drugs and everything incidental to the Drug business. It is really the indisputable duty of every self-respecting member of the race to give it his support.\n\nAGENTS WANTED EVERYWHERE\n\nSOLOMON GARRETT\nTonsorial Artist",
+      "status": "ok",
+      "confidence": 0.9342923164367676,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "title",
+      "bbox": {
+        "x0": 348,
+        "y0": 1147,
+        "x1": 929,
+        "y1": 1480
+      },
+      "text": "SOLOMON GARRETT\nTonsorial Artist\n782 Fulton Street, near Adelphi Street\nBROOKLYN, N. Y.\nAll Kinds of Workmanship\nCigars and Tobacco for Sale\nDaily and Weekly Papers and Magazines\nBrooklyn Agents for THE CRISIS",
+      "status": "ok",
+      "confidence": 0.9515475034713745,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "abandon",
+      "bbox": {
+        "x0": 416,
+        "y0": 1556,
+        "x1": 603,
+        "y1": 1577
+      },
+      "text": "Mention THE CRISIS.",
+      "status": "ok",
+      "confidence": 0.748145580291748,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "text",
+      "bbox": {
+        "x0": 514,
+        "y0": 73,
+        "x1": 987,
+        "y1": 1546
+      },
+      "text": "Automobile School\n\nThe aim of the School will be to give its students a sufficient knowledge of the theory and practice of Automobile and Automobiling to enable them to meet the emergencies that constantly arise to make those who complete the course competent to run machines, take them apart and assemble them properly, and to make such repairs as may be necessary and possible on the road.\n\nTUITION—Six weeks' course, including Shop and Road Work, $25; installments if you wish, payable $5 on enrollment and $20 by the completion of the fourth week.\n\nSHOP WORK—Consists of naming all the parts of the automobile, taking the engine and the rest of the automobile apart and putting them together again properly, and making such repairs as may be necessary and possible.\n\nROAD WORK—When the shop work is complete the student takes up the operating and handling of cars on the road until he is competent.\n\nIf there is any special information which you desire respecting the we shall be glad to hear from you.\n\nAUTO CO. of New York\nNo. 213 West 53d St. LEE A. POLLARD, Mgr.\n\nPersons and Shippers to Deal With Shipping Elsewhere.\n\nPOULTRY AND EGGS\n\nCOTTMAN\n\nENTS. 107 Pine Street, Philadelphia, Pa.\n\nBell 'Phone Connection: Lombard 4035\n\nNYANZA PHARMACY\n\nThe only colored Drug Store in New York City, and purpose of the Corporation is to establish chains of carrying Drugs and everything incidental to the business. It is really the indisputable duty of self-respecting member of the race to give it his art.\n\nAGENTS WANTED EVERYWHERE\n\nMON GARRETT\nConsorial Artist\n\nFulton Street, near Adelphi Street\n\nBROOKLYN, N. Y.\n\nAll Kinds of Workmanship\nFigars and Tobacco for Sale\nand Weekly Papers and Magazines\n\nBrooklyn Agents for THE CRISIS",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 643,
+        "y0": 342,
+        "x1": 934,
+        "y1": 612
+      },
+      "text": "TUITION—Six weeks' course, including Shop and Road Work, $25; installations if you wish, payable $5 on enrollment and $20 by the completion of the fourth week.\n\nSHOP WORK—Consists of naming all the parts of the automobile, taking the engine and the rest of the automobile apart and putting them together again properly, and making such repairs as may be necessary and possible.\n\nROAD WORK—When the shop work is complete the student takes up the operating and handling of cars on the road until he is competent.\n\nIf there is any special informa-",
+      "status": "ok",
+      "confidence": 0.9365028142929077,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 434,
+        "y0": 612,
+        "x1": 934,
+        "y1": 937
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "text",
+      "bbox": {
+        "x0": 434,
+        "y0": 1102,
+        "x1": 934,
+        "y1": 1277
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 14.1,
+    "at": "2026-10-06T21:20:35+00:00"
+  }
+}

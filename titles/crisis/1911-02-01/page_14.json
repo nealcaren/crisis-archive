@@ -1,0 +1,183 @@
+{
+  "page": 14,
+  "image": "images/page_14.jpg",
+  "width": 1395,
+  "height": 2081,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 637,
+        "y0": 134,
+        "x1": 834,
+        "y1": 167
+      },
+      "text": "THE CRISIS",
+      "status": "ok",
+      "confidence": 0.869001030921936,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "abandon",
+      "bbox": {
+        "x0": 206,
+        "y0": 136,
+        "x1": 240,
+        "y1": 162
+      },
+      "text": "14",
+      "status": "ok",
+      "confidence": 0.8429455161094666,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 206,
+        "y0": 202,
+        "x1": 717,
+        "y1": 480
+      },
+      "text": "\"The doctor, in his letter, says: 'I do not think the Abyssinians are considered Negroes.' That the Abyssinians are of the Negroid peoples there can be no doubt. They have all the outward physical characteristics of those people, and Menelik, the Negus, had documentary evidence showing his undoubted lineal descent from the Queen of Sheba, who was an Ethiopian woman 'black and comely,' as Solomon described her.",
+      "status": "ok",
+      "confidence": 0.9741072058677673,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 209,
+        "y0": 486,
+        "x1": 719,
+        "y1": 982
+      },
+      "text": "\"I have not the time to go into any extended discussion relative to the ethnic origin of the Carthaginians. One thing about which there can be no doubt concerning this redoubtable race is that they arose in Africa. The city of Carthage was built on the north coast of the African continent facing the Mediterranean Sea, and the relics of its arts which showed the destruction of the city showed distinctive characteristics which were neither Greek, Egyptian nor Roman. Some historians have declared them to be of Phoenician origin, but the better opinion now is that the Carthaginians and Numidians who moved to the coast, and, touching the 'sea of civilization,' developed with that amazing rapidity characteristic of all Negroid people wherever they have the opportunity to learn and develop.\"",
+      "status": "ok",
+      "confidence": 0.9796969294548035,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 210,
+        "y0": 986,
+        "x1": 720,
+        "y1": 1112
+      },
+      "text": "A rather interesting point, it may be added, which has not been taken up is that there was a Russian Hannibal, a celebrated general and the grandfather of the poet Puskin, who was a full-blooded Negro.",
+      "status": "ok",
+      "confidence": 0.9583984613418579,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 211,
+        "y0": 1157,
+        "x1": 724,
+        "y1": 1710
+      },
+      "text": "LYNCHING.\nThe Sioux City Herald has an editorial pointing out how little the laws of the country protect black men. \"The record of the year 1910,\" it says, \"is tainted by the stories of mob rule and murder of black people in the South.\n\"Eight Negroes lynched in Alabama, eight in Arkansas, eight in Florida, ten in Georgia, five in Mississippi, three in Missouri, one in North Carolina, one in Oklahoma, one in South Carolina, two in Tennessee and four in Texas. A national scandal, a race crime.\n\"Besides these 52 black men, five whites were lynched, four of them in the South and one in Ohio. There were 75 lynchings in the United States in 1909 and 65 in 1908.\n\"There has not been a lynching in Great Britain, with its 40,000,000 of people, in over 80 years.",
+      "status": "ok",
+      "confidence": 0.9693007469177246,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 215,
+        "y0": 1711,
+        "x1": 729,
+        "y1": 1961
+      },
+      "text": "\"The European people look upon us as the most lawless of all the civilized nations of the earth and the record proves it. \"\n\n\"The white men of the North fought for the black men of the South and set them free from the old slavery. But the new hate that has grown up against the blacks and the new system of murdering them, since they are no longer valuable property, who will free them from that?\"",
+      "status": "ok",
+      "confidence": 0.9750488996505737,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 752,
+        "y0": 199,
+        "x1": 1266,
+        "y1": 255
+      },
+      "text": "A colored paper, the Cincinnati Union, says:",
+      "status": "ok",
+      "confidence": 0.9125160574913025,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 752,
+        "y0": 254,
+        "x1": 1267,
+        "y1": 708
+      },
+      "text": "\"Two Negroes were lynched this week in Alabama for robbing a barn! Only a small news item appeared in regard to the matter, which shows how very common lynching is, and also that the white press regards lynching on such trivial pretexts as being too much a reflection upon their own race to advertise extensively.\"\n\nPROPERTY.\n\nThe Epworth Herald, organ of the Epworth League of the Methodist Episcopal Church, relates the story of a colored man in Texas who went into a real estate dealer's office, paid ten thousand dollars for one piece of land, and before he left closed a bargain for another piece costing fifteen thousand.",
+      "status": "ok",
+      "confidence": 0.9757916927337646,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 753,
+        "y0": 709,
+        "x1": 1269,
+        "y1": 1307
+      },
+      "text": "\"There is nothing very remarkable about this, perhaps, from certain standpoints,\" continues the Epworth Herald, \"but when it is stated in this connection that thirty years ago this same Negro went to Kansas without a dollar in hand and began doing odd jobs about town, and that to-day he is worth at least fifty thousand dollars, the story is worth telling. It lays emphasis upon what the Negro can do with himself and for himself under certain circumstances. Honesty, sobriety and a chance will make the Negro a man of whom the nation may well be proud.\n\n\"It is for this very thing that the Methodist Episcopal Church has contended right along. Let the Negro have education through a good system of schools, let him be guided in the principles of the higher life by the Church, and then give him a chance. And the nation will rejoice in the results.\"\n\nREADING.",
+      "status": "ok",
+      "confidence": 0.9793248772621155,
+      "lines": []
+    },
+    {
+      "id": "r10",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 753,
+        "y0": 1312,
+        "x1": 1272,
+        "y1": 1811
+      },
+      "text": "Mr. J. E. Boyd, colored State Superintendent of the Baptist Young People's Union Missions in Texas, makes a plea in the Houston Post for good literature for the colored population. At present he says that the colored young people have little or nothing to read except cheap and trashy books that must do them harm. He outlines a scheme for supplying the colored people with good books: \"Missionary wagons should be placed in the various parts or districts of Texas and they should be supplied with good Christian and wholesome reading matter and placed in the hands of a good, competent and intelligent missionary, and each should traverse his respective district year in and year out, distributing same among our Negro homes, which are the foundations of our lives.",
+      "status": "ok",
+      "confidence": 0.9773733615875244,
+      "lines": []
+    },
+    {
+      "id": "r11",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 760,
+        "y0": 1811,
+        "x1": 1274,
+        "y1": 1963
+      },
+      "text": "\"This is what our State Baptist Young People's Union convention of Texas is endeavoring to do, and right now we are making the struggle of our lives to put a Baptist Young People's Union missionary wagon in each of the eighteen districts in",
+      "status": "ok",
+      "confidence": 0.9696300625801086,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 10.5,
+    "at": "2026-10-06T21:11:40+00:00"
+  }
+}

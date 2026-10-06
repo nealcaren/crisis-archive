@@ -1,0 +1,155 @@
+{
+  "page": 28,
+  "image": "images/page_28.jpg",
+  "width": 1078,
+  "height": 1606,
+  "regions": [
+    {
+      "id": "r0",
+      "label": "abandon",
+      "bbox": {
+        "x0": 159,
+        "y0": 96,
+        "x1": 985,
+        "y1": 227
+      },
+      "text": "TALKS ABOUT WOMEN\nNUMBER ONE By Mrs. JOHN E. MILHOLLAND",
+      "status": "ok",
+      "confidence": 0.48211154341697693,
+      "lines": []
+    },
+    {
+      "id": "r1",
+      "label": "figure",
+      "bbox": {
+        "x0": 160,
+        "y0": 1194,
+        "x1": 980,
+        "y1": 1323
+      },
+      "text": "LETTERS",
+      "status": "ok",
+      "confidence": 0.412913054227829,
+      "lines": []
+    },
+    {
+      "id": "r2",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 159,
+        "y0": 251,
+        "x1": 556,
+        "y1": 521
+      },
+      "text": "The restlessness of woman the world over has led the female members of our population into activities never dreamed of in the days when our mothers and sisters were content to be simply good homekeeping and homemaking housewives, devoted entirely to the family, its interests and their own social duties. That day has passed, and with the change in economic conditions, women have had to go into the business world to compete with men. In many cases their work is of a kind that in years gone by was looked upon as belonging by right to the stronger sex.",
+      "status": "ok",
+      "confidence": 0.9757413864135742,
+      "lines": []
+    },
+    {
+      "id": "r3",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 158,
+        "y0": 567,
+        "x1": 554,
+        "y1": 1064
+      },
+      "text": "This emerging from the home into a broader and more competitive field of labor has given to woman an opportunity to develop along lines quite new to her in the more conservative and homebound horizon. In a way, too, modern society has been largely affected by this new development, and that in a manner most desirable in a country like ours, which has for its very foundations democracy, both in form and fact. Take, for instance, the suffrage, certainly the most vital, as well as the most important, of interests of the New Woman Movement. In this reform alone we have a complete upsetting of former social standards. We find the woman of fashion and wealth working side by side in all harmony with a sister who earns her living by working in a factory or shop. Each is so interested in procuring for herself, as well as for her sex, the right of political freedom, that there is neither time nor inclination for the one to think or care about the social standing of the other. All that the cause requires is live, active workers, with a vital interest and determined effort",
+      "status": "ok",
+      "confidence": 0.96443772315979,
+      "lines": []
+    },
+    {
+      "id": "r4",
+      "label": "text",
+      "bbox": {
+        "x0": 158,
+        "y0": 1064,
+        "x1": 629,
+        "y1": 1351
+      },
+      "text": "حرَّجَة",
+      "status": "ok",
+      "confidence": 0.0,
+      "lines": []
+    },
+    {
+      "id": "r5",
+      "label": "title",
+      "bbox": {
+        "x0": 508,
+        "y0": 1113,
+        "x1": 629,
+        "y1": 1152
+      },
+      "text": "尬",
+      "status": "ok",
+      "confidence": 0.882189154624939,
+      "lines": []
+    },
+    {
+      "id": "r6",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 158,
+        "y0": 1351,
+        "x1": 629,
+        "y1": 1586
+      },
+      "text": "FROM DUTCH WORKINGMEN.\nThe Protestant Laboring Men's Association, \"Francisco Ferrer,\" of Amsterdam, adopted the following motion in their meeting of November 1st last:",
+      "status": "ok",
+      "confidence": 0.9165584444999695,
+      "lines": []
+    },
+    {
+      "id": "r7",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 581,
+        "y0": 249,
+        "x1": 984,
+        "y1": 503
+      },
+      "text": "to bring about the reform they all have at heart—\"Votes for women.\"\n\nThe colored women have done their share in this march for progress and the betterment of their sex; but, as yet, their efforts seem to have been made principally within their own circle and among their own race. It is time now, however, that they come forward and help share with their white sisters their responsibilities, and seek to obtain for both recognition as citizens possessed of political rights.",
+      "status": "ok",
+      "confidence": 0.9753020405769348,
+      "lines": []
+    },
+    {
+      "id": "r8",
+      "label": "plain_text",
+      "bbox": {
+        "x0": 579,
+        "y0": 519,
+        "x1": 981,
+        "y1": 1066
+      },
+      "text": "These rights which the progressive woman of to-day claims as her own are demanded of the same spirit of justice which granted to the Negro, fifty years ago, his right of Suffrage and made him a factor in the political affairs of the nation. But, as any one who thinks about the matter at all well knows, the political freedom of the colored man is really \"freedom\" in name only so far as the South is concerned. Though he may sometimes have the right to vote, he certainly is not allowed the right to cast that vote where and for whom he chooses. So it would seem a wise and progressive step for our colored women to look carefully into the question of Suffrage. Surely its value as a useful weapon for bringing about not only her own enfranchisement, but also for securing to the Negro of the South the political freedom to which he is justly entitled, must appeal to her.\n\nAt any rate \"In union there is strength,\" and therefore the woman's rights movement demands and deserves the united and harmonious effort of every woman in this country, no matter what her color, her creed or her condition among men.",
+      "status": "ok",
+      "confidence": 0.9770398139953613,
+      "lines": []
+    },
+    {
+      "id": "r9",
+      "label": "text",
+      "bbox": {
+        "x0": 579,
+        "y0": 1066,
+        "x1": 984,
+        "y1": 1586
+      },
+      "text": "Having taken due note of the circular issued by the National Negro Committee, which was brought to the attention of the people of Great Britain and Europe, and considering that the existing conditions of",
+      "status": "ok",
+      "confidence": 0.9497343301773071,
+      "lines": []
+    }
+  ],
+  "ocr": {
+    "engine": "newspaper-ocr 0.10.0",
+    "detector": "doclayout_yolo",
+    "recognizer": "glm-ocr",
+    "seconds": 7.2,
+    "at": "2026-10-06T20:58:59+00:00"
+  }
+}
