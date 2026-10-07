@@ -29,7 +29,7 @@ DocLayout-YOLO + GLM-OCR, newspaper-ocr 0.10.0):
 ## Prototype
 
 A post-recognition pass, non-destructive like `RegionRepair`: it returns new regions and
-leaves the input untouched. Script: `clean_boxes.py` (link/attach).
+leaves the input untouched. Script: [`clean_boxes.py`](https://github.com/nealcaren/crisis-archive/blob/main/scripts/clean_boxes.py), in [nealcaren/crisis-archive](https://github.com/nealcaren/crisis-archive).
 
 1. **Junk.** Drop empty reads and reads that are mostly non-Latin script (configurable
    by expected script/language).
@@ -63,9 +63,13 @@ ornaments); 336 heading splits; words lost from a page's text on 5 pages. On art
 pages (pp. 5–30), 23 regions are flagged for review. The rest of the 230 flags are on
 covers and ad pages, where ad slogans look like headings.
 
-Before/after: *(attach `compare_1910-12-01_p28.png`, `compare_1910-11-01_p13.png`)*
-Article clips built from the cleaned regions: *(attach `the-real-race-problem.png`,
-`the-manufacture-of-prejudice.png`)*
+Before (left) and after (right). Shaded glyphs belong to another region:
+
+![Talks About Women / Letters page, before and after](https://raw.githubusercontent.com/nealcaren/crisis-archive/main/docs/images/compare_1910-12-01_p28.jpg)
+
+Article clips built from the cleaned regions: [Boas, "The Real Race Problem"](https://raw.githubusercontent.com/nealcaren/crisis-archive/main/docs/images/clip_boas_real-race-problem.jpg),
+[Villard, "The Manufacture of Prejudice"](https://raw.githubusercontent.com/nealcaren/crisis-archive/main/docs/images/clip_villard_manufacture-of-prejudice.jpg),
+[Storey, "Athens and Brownsville"](https://raw.githubusercontent.com/nealcaren/crisis-archive/main/docs/images/clip_athens-and-brownsville.jpg).
 
 ## GLM-OCR behavior found along the way
 

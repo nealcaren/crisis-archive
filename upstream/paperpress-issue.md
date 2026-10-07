@@ -2,8 +2,8 @@
 
 **Labels:** enhancement
 
-Tested on nine issues of *The Crisis* (Nov. 1910–July 1911; 332 pages), with regions
-cleaned first by a newspaper-ocr post-pass (see newspaper-ocr issue #__).
+Tested in [nealcaren/crisis-archive](https://github.com/nealcaren/crisis-archive) on nine issues of *The Crisis* (Nov. 1910–July 1911; 332 pages), with regions
+cleaned first by a newspaper-ocr post-pass (see nealcaren/newspaper-ocr#34).
 
 ## 1. `enrich` varies a lot between runs
 
@@ -26,13 +26,13 @@ separately) and combine:
   run article and gets `vote_agreement`, the share of runs that produced exactly it.
   Low agreement plus the pages where runs disagree make a natural review queue.
 
-Prototype: `toc_vote.py` (attach). Cost with the default models is about 2–4 cents per
+Prototype: [`toc_vote.py`](https://github.com/nealcaren/crisis-archive/blob/main/scripts/toc_vote.py); results in `titles/crisis/*/toc.voted.json`. Cost with the default models is about 2–4 cents per
 issue per run, so 3 runs is about $10 for 148 issues.
 
 ## 2. Layout notes in the profile
 
 `profile.json` already passes `notes` to the prompt. Most grouping errors were about the
-magazine's layout, and a few sentences fixed them:
+magazine's layout, and a few sentences fixed them ([profile](https://github.com/nealcaren/crisis-archive/blob/main/titles/crisis/profile.json)):
 
 - Opinion = a run of quotations, each its own article with its source.
 - Along the Color Line = short items under small-caps subheads; never merge across subheads.
@@ -62,8 +62,9 @@ column distinction in the merge prompt would help.
 - **`paperpress clip`** (or an `export --clips` option): per article, its text in reading
   order without running heads, and a PNG of only its regions across pages, with other
   articles' glyphs whited out (uses the cleanup's `exclude` lists). Prototype:
-  `clip_article.py` (attach); examples attached (Boas, "The Real Race Problem",
-  pp. 22–25; Schomburg, "The Fight for Liberty in St. Lucia", pp. 33–34).
+  [`clip_article.py`](https://github.com/nealcaren/crisis-archive/blob/main/scripts/clip_article.py). Examples: [Boas, "The Real Race Problem",
+  pp. 22–25](https://raw.githubusercontent.com/nealcaren/crisis-archive/main/docs/images/clip_boas_real-race-problem.jpg); [Schomburg, "The Fight for Liberty in St. Lucia",
+  pp. 33–34](https://raw.githubusercontent.com/nealcaren/crisis-archive/main/docs/images/clip_schomburg_st-lucia.jpg).
 
 ## Small things noticed
 
