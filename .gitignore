@@ -6,3 +6,4 @@ titles/*/*/images/
 site/
 *.log
 boxwork/
+__pycache__/
